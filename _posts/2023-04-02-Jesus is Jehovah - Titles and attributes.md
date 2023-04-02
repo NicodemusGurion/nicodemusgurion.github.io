@@ -39,4 +39,4 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 
 
 
-^1: The New World Translation butchers this and many other verses. For more information see [Changes in the New World Translation.](https://thyreon.com/changes-in-the-new-world-translation/)))
+[^1]: The New World Translation butchers this and many other verses. For more information see [Changes in the New World Translation.](https://thyreon.com/changes-in-the-new-world-translation/)))
