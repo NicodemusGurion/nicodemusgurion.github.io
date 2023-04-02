@@ -11,7 +11,7 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 | Jehovah is almighty / omnipotent | Genesis 17:1 etc. | Jesus is almighty / omnipotent | Hebrews 1:3; Revelation 1:17;22:13;1:8 ((These three scriptures connect to show that Jesus is the First and the Last, the Alpha and the Omega, the Lord God Almighty.))|
 | Jehovah is all-knowing / omniscient. | Psalm 147:5; 1 Samuel 2:3; Job 28:24; Isaiah 46:10; Proverbs 15:3; Psalm 139:1-4 | Jesus is all-knowing / omniscient | Colossians 2:2-3 |
 | Jehovah is omnipresent. | Jeremiah 23:23,24 | Jesus is omnipresent. | Matthew 18:20; 28:20; Ephesians 1:22,23 |
-| Jehovah fills all things. | Jeremiah 23:23,24 | Jesus fills all things. | Ephesians 4:10 (([The NWT butchers this verse and many other verses.](https://thyreon.com/changes-in-the-new-world-translation/))) |
+| Jehovah fills all things. | Jeremiah 23:23,24 | Jesus fills all things. | Ephesians 4:10 [^1] [The NWT butchers this verse and many other verses.](https://thyreon.com/changes-in-the-new-world-translation/))) |
 | Jehovah has existed eternally. | Exodus 3:14; Psalm 90:2;93:2; Isaiah 40:28; | Jesus has existed eternally. | John 1:1-3((In the beginning, the Word **was**, meaning he existed before the beginning.)); John 8:58((Jesus says "I am", referring to Exodus 3:14, meaning he claimed to be Jehovah. "I am" is in a grammatical sense not bound by time. Jesus always is, existing from eternity to eternity.)); Colossians 1:17((Jesus is before all things.)); Hebrews 1:10-12((Jesus was there since eternity and will be there for eternity.));Revelation 1:17;22:13;  |
 | Jehovah lives forever. | Psalm 102:27 | Jesus lives forever. | Hebrews 1:12 |
 | Jehovah is The First and The Last. | Isaiah 41:4;44:6;48:12 | Jesus is The First and The Last. | Revelation 1:17;2:8;22:13 |
@@ -39,3 +39,4 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 
 
 
+^1: The New World Translation butchers this and many other verses. For more information see [Changes in the New World Translation.](https://thyreon.com/changes-in-the-new-world-translation/)))
