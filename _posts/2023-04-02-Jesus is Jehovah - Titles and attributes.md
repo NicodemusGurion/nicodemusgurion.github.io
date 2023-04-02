@@ -1,3 +1,7 @@
+---
+title: Jesus is Jehovah - Titles and attributes
+categories: [Jehovah's Witnesses, Arianism, Deity of Christ]
+---
 In the New Testament, the Bible applies attributes and titles to Jesus that the Old Testament applies to Jehovah. Many of these are unique attributes and titles that only God could have. Attributes and titles in bold are explicitly said to be unique to Jehovah, andcan therefore not belong to anyone but him.
 
 This is a list of scriptures where Jesus of the New Testament possesses these attributes, identifying him as identical with Jehovah of the Old Testament. 
