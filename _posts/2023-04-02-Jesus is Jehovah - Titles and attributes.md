@@ -10,13 +10,13 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 | :------ | :--------- | :---- | :--------- |
 | **Jehovah is the most high.** | Psalm 83:18; 97:9 | Jesus is the most high. | Ephesians 1:20,21 |
 | **Jehovah is the only one with the highest name.** | Psalm 148:13 | Jesus is the one with the highest name. | Philippians 2:9-11 |
-| Jehovah is sovereign.((Having the authority to do anything he wishes.)) | Isaiah 14:27; 43:13; Daniel 4:35; | Jesus is sovereign. | Matthew 28:18; Colossians 1:16-17; Ephesians 1:20-22; Philippians 2:9-11  |
+| Jehovah is sovereign.| Isaiah 14:27; 43:13; Daniel 4:35; | Jesus is sovereign. | Matthew 28:18; Colossians 1:16-17; Ephesians 1:20-22; Philippians 2:9-11  |
 | Jehovah is the one exalted over all gods / spiritual authorities. | Psalm 97:9 | Jesus is the one exalted over all gods / spiritual authorities. | Ephesians 1:21 |
 | Jehovah is almighty / omnipotent | Genesis 17:1 etc. | Jesus is almighty / omnipotent | Hebrews 1:3; Revelation 1:17;22:13;1:8 [^nwt]|
 | Jehovah is all-knowing / omniscient. | Psalm 147:5; 1 Samuel 2:3; Job 28:24; Isaiah 46:10; Proverbs 15:3; Psalm 139:1-4 | Jesus is all-knowing / omniscient | Colossians 2:2-3 |
 | Jehovah is omnipresent. | Jeremiah 23:23,24 | Jesus is omnipresent. | Matthew 18:20; 28:20; Ephesians 1:22,23 |
 | Jehovah fills all things. | Jeremiah 23:23,24 | Jesus fills all things. | Ephesians 4:10 [^nwt] |
-| Jehovah has existed eternally. | Exodus 3:14; Psalm 90:2;93:2; Isaiah 40:28; | Jesus has existed eternally. | John 1:1-3((In the beginning, the Word **was**, meaning he existed before the beginning.)); John 8:58((Jesus says "I am", referring to Exodus 3:14, meaning he claimed to be Jehovah. "I am" is in a grammatical sense not bound by time. Jesus always is, existing from eternity to eternity.)); Colossians 1:17((Jesus is before all things.)); Hebrews 1:10-12((Jesus was there since eternity and will be there for eternity.));Revelation 1:17;22:13;  |
+| Jehovah has existed eternally. | Exodus 3:14; Psalm 90:2;93:2; Isaiah 40:28; | Jesus has existed eternally. | John 1:1-3; [^was] John 8:58((Jesus says "I am", referring to Exodus 3:14, meaning he claimed to be Jehovah. "I am" is in a grammatical sense not bound by time. Jesus always is, existing from eternity to eternity.)); Colossians 1:17((Jesus is before all things.)); Hebrews 1:10-12((Jesus was there since eternity and will be there for eternity.));Revelation 1:17;22:13;  |
 | Jehovah lives forever. | Psalm 102:27 | Jesus lives forever. | Hebrews 1:12 |
 | Jehovah is The First and The Last. | Isaiah 41:4;44:6;48:12 | Jesus is The First and The Last. | Revelation 1:17;2:8;22:13 |
 | Jehovah never changes. | Psalm 102:27; Isaiah 43:13; Malachi 3:16; James 1:17 | Jesus never changes. | Hebrews 13:8; James 1:17 |
@@ -38,10 +38,11 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 | Jehovah is the source of light | Psalm 36:9; Isaiah 2:5; 1 John 1:5 | Jesus is the true light | John 1:10; 1 John 1:5; |
 | Jehovah has a voice like the noise many waters | Ezekiel 43:2 | Jesus has a voice like the noise of many waters. | Revelation 1:13,15 | 
 | No one can snatch anything out of the hand of Jehovah. | Isaiah 43:13 | No one can snatch anything out of the hand of Jesus. | John 10:28 |
-| Jehovah is the one who ascended on high and gave gifts to men. | Psalm 68:18 | Jesus is the one who asceneded on high and gave gifts to men. | Ephesians 4:8 [^nwt] )) |
+| Jehovah is the one who ascended on high and gave gifts to men. | Psalm 68:18 | Jesus is the one who asceneded on high and gave gifts to men. | Ephesians 4:8 [^nwt] |
 | Jehovah is the one before whom every knee will bow. | Isaiah 45:23 | Jesus is the one before whom every knee will bow. | Romans 14:11 [^nwt] Philippians 2:10,11 |
 
 
 
 [^nwt]: The New World Translation butchers this and many other verses. For more information see [Changes in the New World Translation.](https://thyreon.com/changes-in-the-new-world-translation/)))
+[^was]: In the beginning, the Word already **was**, meaning he existed before the beginning.
 [^2]: These three scriptures connect to show that Jesus is the First and the Last, the Alpha and the Omega, the Lord God Almighty.
