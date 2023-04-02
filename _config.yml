@@ -2,7 +2,7 @@
 title:               Thyreon
 tagline:             'The Shield of Faith'
 description:         'Defending the Christian faith'
-url:                 https://nicodemusgurion.github.io/
+url:                 https://nicodemusgurion.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
