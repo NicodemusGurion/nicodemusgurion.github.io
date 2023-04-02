@@ -16,16 +16,16 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 | Jehovah is all-knowing / omniscient. | Psalm 147:5; 1 Samuel 2:3; Job 28:24; Isaiah 46:10; Proverbs 15:3; Psalm 139:1-4 | Jesus is all-knowing / omniscient | Colossians 2:2-3 |
 | Jehovah is omnipresent. | Jeremiah 23:23,24 | Jesus is omnipresent. | Matthew 18:20; 28:20; Ephesians 1:22,23 |
 | Jehovah fills all things. | Jeremiah 23:23,24 | Jesus fills all things. | Ephesians 4:10 [^nwt] |
-| Jehovah has existed eternally. | Exodus 3:14; Psalm 90:2;93:2; Isaiah 40:28; | Jesus has existed eternally. | John 1:1-3; [^was] John 8:58[^iam]; Colossians 1:17[^before]; Hebrews 1:10-12((Jesus was there since eternity and will be there for eternity.));Revelation 1:17;22:13;  |
+| Jehovah has existed eternally. | Exodus 3:14; Psalm 90:2;93:2; Isaiah 40:28; | Jesus has existed eternally. | John 1:1-3; [^was] John 8:58[^iam]; Colossians 1:17[^before]; Hebrews 1:10-12[^wasthere];Revelation 1:17;22:13;  |
 | Jehovah lives forever. | Psalm 102:27 | Jesus lives forever. | Hebrews 1:12 |
 | Jehovah is The First and The Last. | Isaiah 41:4;44:6;48:12 | Jesus is The First and The Last. | Revelation 1:17;2:8;22:13 [^ao] |
 | Jehovah never changes. | Psalm 102:27; Isaiah 43:13; Malachi 3:16; James 1:17 | Jesus never changes. | Hebrews 13:8; James 1:17 |
-| Jehovah receives prayer. | Psalm 65:2;66:19-20;145:18 | Jesus receives prayer. | John 14:14 ((In the Greek, Jesus is saying "Whatever you ask **me** in my name, this I will do."[^1] )) Acts 7:59-60; 2 Corinthians 12:8-9 |
+| Jehovah receives prayer. | Psalm 65:2;66:19-20;145:18 | Jesus receives prayer. | John 14:14 [^askme]  Acts 7:59-60; 2 Corinthians 12:8-9 |
 | Jehovah is the creator of heaven and earth. | Genesis 1:1; Isaiah 44:24; Nehemiah 9:6 etc. | Jesus is the creator of heaven and earth. | John 1:3; Colossians 1:16,17; 1 Corinthians 8:6; Hebrews 1:1-3; 2:10 |
 | Jehovah laid the foundations of the earth. | Psalm 102:25 | Jesus laid the foundations of the earth. | Hebrews 1:10 |
 | Jehovah replaces the heavens like a worn out garment. | Psalm 102:26 | Jesus replaces the heavens like a worn out garment. | Hebrews 1:11 |
 | **Jehovah is the only savior**. | Isaiah 42:11;45:21; Hosea 13:11 | Jesus is the only savior. | Acts 4:12; 1 Timothy 4:10; Titus 2:13-14; 2 Peter 1:1; Jude 1:25 |
-| **Jehovah is the Rock.** [^rock] | Exodus 17:6; Deuteronomy 32:4,15,18; 1 Samuel 2:2; 2 Samuel 22:2,3,32; | Jesus is the Rock. | Luke 6:48; Romans 9:33; 1 Corinthians 10:4; ((Reveals that Jehovah in Exodus 17:6 was Jesus.))) 1 Peter 2:7,8; |
+| **Jehovah is the Rock.** [^rock] | Exodus 17:6; Deuteronomy 32:4,15,18; 1 Samuel 2:2; 2 Samuel 22:2,3,32; | Jesus is the Rock. | Luke 6:48; Romans 9:33; 1 Corinthians 10:4; [^exodus17]) 1 Peter 2:7,8; |
 | Jehovah is [the Cloud rider](https://thyreon.com/jesus-is-jehovah-the-cloud-rider/). | Exodus 19:9;20:21;34:5; Leviticus 16:2; Numbers 14:14; Deuteronomy 33:26; Psalm 68:4,33; 97:2; 104:3; Isaiah 19:1; 66:15,16 Daniel 7:13 [^cloud] |  Jesus is the Cloud rider | Matthew 24:30; 26:64,65; [^cloud] Mark 13:26; Luke 21:27; Acts 1:9;  1 Thessalonians 4:16; Revelation 1:7;14:14; |
 | Jehovah appears visibly and touches Isaiah. | Jeremiah 1:9 | Jesus appears visibly and touches John. | Revelation 1:17 |
 | Jehovah is the one who examines/knows the hearts. | 1 Kings 8:39; Proverbs 16:2; Jeremiah 11:20; | Jesus is the one who examines/knows the hearts. | Revelation 2:18-23; |
@@ -43,12 +43,15 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 
 
 
-[^nwt]: The New World Translation butchers this and many other verses. For more information see [Changes in the New World Translation.](https://thyreon.com/changes-in-the-new-world-translation/)))
+[^nwt]: The New World Translation butchers this and many other verses. For more information see [Changes in the New World Translation.](https://thyreon.com/changes-in-the-new-world-translation/)
 [^was]: In the beginning, the Word already **was**, meaning he existed before the beginning.
 [^iam]: Jesus says "I am", referring to Exodus 3:14, meaning he claimed to be Jehovah. "I am" is in a grammatical sense not bound by time. Jesus always is, existing from eternity to eternity.
+[^askme]: In the Greek, Jesus is saying "Whatever you ask **me** in my name, this I will do."
 [^cloud]: This "son of man" who is the divine Jehovah later turns out to be Jesus. Jesus reveals he is the Cloud rider of Daniel 7:13, and the Jews knows he means he is Jehovah. [Read this](https://thyreon.com/jesus-is-jehovah-the-cloud-rider/)
 [^ao]: These three scriptures connect to show that Jesus is the First and the Last, the Alpha and the Omega, the Lord God Almighty.
 [^rock]: Jehovah is the only rock, there is no one else. This is a unique attribute.
 [^messenger1]: "I (Jehovah) am sending my messenger, and he (John) will clear up a way before **me** (Jehovah)."  
 [^messenger2]: "I (Jehovah) am sending my messenger (John) ahead of you (Jesus), who will prepare **your** (Jesus') way"
 [^before]: Jesus is before all things.
+[^wasthere]: Jesus was there since eternity and will be there for eternity.
+[^exodus17]: Reveals that Jehovah in Exodus 17:6 was Jesus.
