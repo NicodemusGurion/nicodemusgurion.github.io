@@ -33,10 +33,10 @@ th, td {
 
   /* Use the counter to create the content of the :before pseudo-element */
   table td:before {
-    content: "Column " counter(column-counter) ": ";
-    font-weight: bold;
-    display: block;
-    margin-bottom: 0.5em;
+    content: counter(column-counter);
+    font-weight: thin;
+    font-size:5pt;
+    display: inline;
   }
  
 }
