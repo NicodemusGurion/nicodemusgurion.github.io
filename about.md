@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-# Motivation
-
 I grew up as one of Jehovah's witnesses, being raised to unquestioningly accept their teachings as the Truth. 
 
 As an adult, looking into their teaching and history, I saw that little of it made any sense at all and most of it was unscriptural human traditions. 
