@@ -21,3 +21,5 @@ It is abusive, sometimes physically, but mostly mentally and especially spiritua
 After some time of kicking against the goads, Jesus led me to him, and on November 20, 2019, I accepted him as my only Lord and Savior. Since then I have been led by him, not any human institution. He have taught me more things each month than the Watchtower have taught me in my entire life. He opened up the Bible to be understood, and I don't need any literature to explain what it means.
 
 Right now his mission for me is to defend Christian orthodoxy from heretical groups, especially the Jehovah's witnesses, and to do my outmost to help them see that they can not trust in a human institution for salvation but must turn to Jesus as Lord and Savior, for he is the only one who is the way, the truth and the life.
+
+My pen-name Nicodemus is borrowed from another elder of the people of God who became a disciple of Jesus.
