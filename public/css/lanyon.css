@@ -589,7 +589,7 @@ th, td {
   
   /* Label each row with the corresponding column header */
   td:before {
-    content: attr(data-title);
+    content: attr(data-th);
     font-weight: bold;
     display: block;
     margin-bottom: 8px;
@@ -598,7 +598,7 @@ th, td {
   
   /* Show column header on top of each cell */
   td:after {
-    content: attr(data-title);
+    content: attr(data-th);
     font-weight: bold;
     display: block;
     margin-bottom: 8px;
