@@ -569,7 +569,7 @@ th, td {
   padding: 8px;
 }
 
-@media screen and (max-width: 40em) {
+@media screen and (max-width: 600px) {
   /* Make table cells stack vertically */
   table, thead, tbody, th, td, tr {
     display: block;
