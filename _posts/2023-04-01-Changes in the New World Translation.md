@@ -86,7 +86,7 @@ The Greek and other translations say: “God will glorify him [Jesus] **in himse
 
 ### Removal
 
-![John 14:14 Kingdom Interlinear Translation](https://imgur.com/a/JpOIpOv)  
+![John 14:14 Kingdom Interlinear Translation](https://i.imgur.com/Pv3PWLY.jpg John 14:14 Kingdom Interlinear Translation)  
 [John 14:14 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/image.jpg)
 
 The Greek text, the Vulgate and many English translations (NLT, CSB, NIV, ESV, NET, NASB, BBE) include the word “me” between “ask” and “anything”. Jesus is telling his followers that “if you ask **me** anything in my name, I will do it.” Jesus is straight out telling us that it is appropriate to address **him** in prayer. The Watchtower removes this because they have a faulty view of Jesus’ deity. The verse proves Jesus’ omniscience and omnipotence, that he can hear any prayer and do anything. These are attributes only God possesses. The truth revealed in this scripture is that Jesus is God and it is entirely appropriate to ask him things in prayer.
