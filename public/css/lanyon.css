@@ -592,5 +592,16 @@ th, td {
     content: attr(data-title);
     font-weight: bold;
     display: block;
+    margin-bottom: 8px;
+    font-size: 0.8em;
+  }
+  
+  /* Show column header on top of each cell */
+  td:after {
+    content: attr(data-title);
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 0.8em;
   }
 }
