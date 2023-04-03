@@ -22,12 +22,12 @@ th, td {
   }
 
   /* Add a counter to the table body */
-  table tbody {
+  table tbody tr {
     counter-reset: column-counter;
   }
 
   /* Increment the counter for each cell in a row */
-  table tbody tr {
+  table tbody tr td {
     counter-increment: column-counter;
   }
 
