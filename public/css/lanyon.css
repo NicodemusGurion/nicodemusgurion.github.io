@@ -20,14 +20,25 @@ th, td {
   tr {
     margin-bottom: 16px;
   }
-  
-  /* Label each row with the corresponding column header */
-  td:before {
-    content: attr(data-col-index) ": ";
-    font-weight: bold;
-    display: inline-block;
-    margin-right: 8px;
+
+  /* Add a counter to the table body */
+  table tbody {
+    counter-reset: column-counter;
   }
+
+  /* Increment the counter for each cell in a row */
+  table tbody tr {
+    counter-increment: column-counter;
+  }
+
+  /* Use the counter to create the content of the :before pseudo-element */
+  table td:before {
+    content: "Column " counter(column-counter) ": ";
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.5em;
+  }
+ 
 }
 
 
