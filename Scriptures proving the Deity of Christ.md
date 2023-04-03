@@ -1,3 +1,7 @@
+---
+title: Scriptures proving the Deity of Christ
+categories: [Trinity, Arianism, Deity of Christ]
+---
 The trinity doctrine is nothing but a summary of what the Bible teaches about the being of God. It describes one God existing in three divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons sharing one _homoousion_ (essence).
 
 One major hangup those who don't believe in the trinity doctrine have is the issue about the deity of Christ, that Jesus is fully divine, just as God the Father is fully divine. So here is a list of scriptures proving the deity of Christ.
