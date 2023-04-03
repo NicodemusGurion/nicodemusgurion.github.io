@@ -25,16 +25,16 @@ th, td {
   table tbody tr {
     counter-reset: column-counter;
   }
-table thead tr {
-    counter-reset: column-counter;
+table thead {
+    counter-reset: column-counter-head;
   }
 
   /* Increment the counter for each cell in a row */
   table tbody tr td {
     counter-increment: column-counter;
   }
-  table tbody tr th {
-    counter-increment: column-counter;
+  table thead tr th {
+    counter-increment: column-counter-head;
   }
 
   /* Use the counter to create the content of the :before pseudo-element */
@@ -47,7 +47,7 @@ table thead tr {
   }
 
 table th:before {
-    content: counter(column-counter);
+    content: counter(column-counter-head);
     font-weight: thin;
     font-size:5pt;
     display: inline;
