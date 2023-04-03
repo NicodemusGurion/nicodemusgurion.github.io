@@ -25,6 +25,9 @@ th, td {
   table tbody tr {
     counter-reset: column-counter;
   }
+table thead tr {
+    counter-reset: column-counter;
+  }
 
   /* Increment the counter for each cell in a row */
   table tbody tr td {
