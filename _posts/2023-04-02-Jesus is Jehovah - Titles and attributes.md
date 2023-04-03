@@ -2,14 +2,14 @@
 title: Jesus is Jehovah - Titles and attributes
 categories: [Jehovah's Witnesses, Arianism, Deity of Christ]
 ---
-In the New Testament, the Bible applies attributes and titles to Jesus that the Old Testament applies to Jehovah. Many of these are unique attributes and titles that only God could have. Attributes and titles in bold are explicitly said to be unique to Jehovah, andcan therefore not belong to anyone but him.
+In the New Testament, the Bible applies attributes and titles to Jesus that the Old Testament applies to Jehovah. Many of these are unique attributes and titles that only God could have. 
 
 This is a list of scriptures where Jesus of the New Testament possesses these attributes, identifying him as identical with Jehovah of the Old Testament. 
 
 | Jehovah | References | Jesus | References | 
 | :------ | :--------- | :---- | :--------- |
-| **Jehovah is the most high.** | Psalm 83:18; 97:9 | Jesus is the most high. | Ephesians 1:20,21 |
-| **Jehovah is the only one with the highest name.** | Psalm 148:13 | Jesus is the one with the highest name. | Philippians 2:9-11 |
+| Jehovah is the most high. | Psalm 83:18; 97:9 | Jesus is the most high. | Ephesians 1:20,21 |
+| Jehovah is the only one with the highest name. | Psalm 148:13 | Jesus is the one with the highest name. | Philippians 2:9-11 |
 | Jehovah is sovereign.| Isaiah 14:27; 43:13; Daniel 4:35; | Jesus is sovereign. | Matthew 28:18; Colossians 1:16-17; Ephesians 1:20-22; Philippians 2:9-11  |
 | Jehovah is the one exalted over all gods / spiritual authorities. | Psalm 97:9 | Jesus is the one exalted over all gods / spiritual authorities. | Ephesians 1:21 |
 | Jehovah is almighty / omnipotent | Genesis 17:1 etc. | Jesus is almighty / omnipotent | Hebrews 1:3; Revelation 1:17;22:13;1:8 [^nwt]|
@@ -24,8 +24,8 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 | Jehovah is the creator of heaven and earth. | Genesis 1:1; Isaiah 44:24; Nehemiah 9:6 etc. | Jesus is the creator of heaven and earth. | John 1:3; Colossians 1:16,17; 1 Corinthians 8:6; Hebrews 1:1-3; 2:10 |
 | Jehovah laid the foundations of the earth. | Psalm 102:25 | Jesus laid the foundations of the earth. | Hebrews 1:10 |
 | Jehovah replaces the heavens like a worn out garment. | Psalm 102:26 | Jesus replaces the heavens like a worn out garment. | Hebrews 1:11 |
-| **Jehovah is the only savior**. | Isaiah 42:11;45:21; Hosea 13:11 | Jesus is the only savior. | Acts 4:12; 1 Timothy 4:10; Titus 2:13-14; 2 Peter 1:1; Jude 1:25 |
-| **Jehovah is the Rock.** [^rock] | Exodus 17:6; Deuteronomy 32:4,15,18; 1 Samuel 2:2; 2 Samuel 22:2,3,32; | Jesus is the Rock. | Luke 6:48; Romans 9:33; 1 Corinthians 10:4; [^exodus17]) 1 Peter 2:7,8; |
+| Jehovah is the only savior. | Isaiah 42:11;45:21; Hosea 13:11 | Jesus is the only savior. | Acts 4:12; 1 Timothy 4:10; Titus 2:13-14; 2 Peter 1:1; Jude 1:25 |
+| Jehovah is the  Rock. [^rock] | Exodus 17:6; Deuteronomy 32:4,15,18; 1 Samuel 2:2; 2 Samuel 22:2,3,32; | Jesus is the Rock. | Luke 6:48; Romans 9:33; 1 Corinthians 10:4; [^exodus17]) 1 Peter 2:7,8; |
 | Jehovah is [the Cloud rider](https://thyreon.com/jesus-is-jehovah-the-cloud-rider/). | Exodus 19:9;20:21;34:5; Leviticus 16:2; Numbers 14:14; Deuteronomy 33:26; Psalm 68:4,33; 97:2; 104:3; Isaiah 19:1; 66:15,16 Daniel 7:13 [^cloud] |  Jesus is the Cloud rider | Matthew 24:30; 26:64,65; [^cloud] Mark 13:26; Luke 21:27; Acts 1:9;  1 Thessalonians 4:16; Revelation 1:7;14:14; |
 | Jehovah appears visibly and touches Isaiah. | Jeremiah 1:9 | Jesus appears visibly and touches John. | Revelation 1:17 |
 | Jehovah is the one who examines/knows the hearts. | 1 Kings 8:39; Proverbs 16:2; Jeremiah 11:20; | Jesus is the one who examines/knows the hearts. | Revelation 2:18-23; |
