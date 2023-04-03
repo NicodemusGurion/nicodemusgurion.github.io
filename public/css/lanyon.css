@@ -559,16 +559,38 @@ a.pagination-item:hover {
 
 /* Collapsing tables on small device screens */
 
-@media only screen and (max-width: 40em) {
-    thead th:not(:first-child) {
-        display: none;
-    }
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
 
-    td, th {
-        display: block;
-    }
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
 
-    td[data-th]:before  {
-        content: attr(data-th);
-    }
+@media screen and (max-width: 40em) {
+  /* Make table cells stack vertically */
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  
+  /* Hide table headers */
+  thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  
+  /* Add space between table rows */
+  tr {
+    margin-bottom: 16px;
+  }
+  
+  /* Label each row with the corresponding column header */
+  td:before {
+    content: attr(data-title);
+    font-weight: bold;
+    display: block;
+  }
 }
