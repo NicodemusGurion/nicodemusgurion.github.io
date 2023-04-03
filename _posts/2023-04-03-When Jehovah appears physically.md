@@ -1,5 +1,5 @@
 ---
-Title: When Jehovah appears
+Title: When Jehovah appears physically
 Tags: [Theophany, Christophany, Jehovah, Jesus is Jehovah]
 ---
 
