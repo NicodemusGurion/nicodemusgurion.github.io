@@ -1,3 +1,53 @@
+/* Collapsing tables on small device screens */
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+@media screen and (max-width: 600px) {
+  /* Make table cells stack vertically */
+  table, thead, tbody, th, td, tr {
+    display: block;
+  }
+  
+  /* Hide table headers */
+  /*thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }*/
+  
+  /* Add space between table rows */
+  tr {
+    margin-bottom: 16px;
+  }
+  
+  /* Label each row with the corresponding column header */
+  td:before {
+    content: attr(data-th);
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 0.8em;
+  }
+  
+  /* Show column header on top of each cell */
+  td:after {
+    content: attr(data-th);
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 0.8em;
+  }
+}
+
+
 /*
  *  ___
  * /\_ \
@@ -557,51 +607,3 @@ a.pagination-item:hover {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
 
-/* Collapsing tables on small device screens */
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-}
-
-th, td {
-  border: 1px solid #ddd;
-  padding: 8px;
-}
-
-@media screen and (max-width: 600px) {
-  /* Make table cells stack vertically */
-  table, thead, tbody, th, td, tr {
-    display: block;
-  }
-  
-  /* Hide table headers */
-  thead tr {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-  }
-  
-  /* Add space between table rows */
-  tr {
-    margin-bottom: 16px;
-  }
-  
-  /* Label each row with the corresponding column header */
-  td:before {
-    content: attr(data-th);
-    font-weight: bold;
-    display: block;
-    margin-bottom: 8px;
-    font-size: 0.8em;
-  }
-  
-  /* Show column header on top of each cell */
-  td:after {
-    content: attr(data-th);
-    font-weight: bold;
-    display: block;
-    margin-bottom: 8px;
-    font-size: 0.8em;
-  }
-}
