@@ -30,6 +30,9 @@ th, td {
   table tbody tr td {
     counter-increment: column-counter;
   }
+  table tbody tr th {
+    counter-increment: column-counter;
+  }
 
   /* Use the counter to create the content of the :before pseudo-element */
   table td:before {
@@ -37,6 +40,15 @@ th, td {
     font-weight: thin;
     font-size:5pt;
     display: inline;
+    margin-right: 0.5em;
+  }
+
+table th:before {
+    content: counter(column-counter);
+    font-weight: thin;
+    font-size:5pt;
+    display: inline;
+    margin-right: 0.5em;
   }
  
 }
