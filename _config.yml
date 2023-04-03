@@ -5,7 +5,7 @@ description:         'Defending the Christian faith'
 url:                 https://nicodemusgurion.github.io
 baseurl:             ''
 paginate:            5
-permalink:           pretty
+permalink:           /:title
 
 # About/contact
 author:
