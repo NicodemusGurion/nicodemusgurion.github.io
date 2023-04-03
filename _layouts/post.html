@@ -20,8 +20,8 @@ layout: default
 
 <div class="related">
 
-<h4>You May Also Enjoy</h4>
-
+<h2>You May Also Enjoy</h2>
+<ul class="related-posts">
 {% assign maxRelated = 4 %}
 {% assign minCommonTags =  2 %}
 {% assign maxRelatedCounter = 0 %}
@@ -42,9 +42,9 @@ layout: default
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
-      </div>
+      <li>
+      <h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h3>
+      </li>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
@@ -52,7 +52,7 @@ layout: default
     {% endif %}
 
   {% endfor %}
-
+</ul>
 </div>
 
 {% if site.related_posts.size >= 1 %}
