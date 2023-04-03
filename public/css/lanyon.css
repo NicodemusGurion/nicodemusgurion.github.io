@@ -16,13 +16,6 @@ th, td {
     display: block;
   }
   
-  /* Hide table headers */
-  /*thead tr {
-    position: absolute;
-    top: -9999px;
-    left: -9999px;
-  }*/
-  
   /* Add space between table rows */
   tr {
     margin-bottom: 16px;
@@ -30,20 +23,10 @@ th, td {
   
   /* Label each row with the corresponding column header */
   td:before {
-    content: attr(data-th);
+    content: attr(data-col-index) ": ";
     font-weight: bold;
-    display: block;
-    margin-bottom: 8px;
-    font-size: 0.8em;
-  }
-  
-  /* Show column header on top of each cell */
-  td:after {
-    content: attr(data-th);
-    font-weight: bold;
-    display: block;
-    margin-bottom: 8px;
-    font-size: 0.8em;
+    display: inline-block;
+    margin-right: 8px;
   }
 }
 
