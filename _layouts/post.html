@@ -15,6 +15,9 @@ layout: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
   </span>
+      {%- if page.image -%}
+      <img src="{{- page.image | relative_url -}}" alt="" class="featured-image-post">
+      {%- endif -%}
   {{ content }}
 </div>
 
