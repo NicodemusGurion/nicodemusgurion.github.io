@@ -45,7 +45,7 @@ Here Jehovah appears to Isaac, yet Isaac does not die.
 
 > Genesis 32:24,28,30 And Jacob was left alone; and there wrestled a man with him until the breaking of the day. ... 28 And he said, Thy name shall be called no more Jacob, but Israel: for thou hast striven with God and with men, and hast prevailed. ... 30 And Jacob called the name of the place Peniel: for, said he, I have seen God face to face, and my life is preserved.
 
-Herenis where Jacob wrestles with a "man". Wrestling is very physical. Jacob is touching this "man". Afterwards the "man" reveals that Jacob has in fact wrestled with God himself. And this is how Jacob understood it too because he named the place "Peniel" because he saw the face of God yet he wasn't killed.
+Here is where Jacob wrestles with a "man". Wrestling is very physical. Jacob is touching this "man". Afterwards the "man" reveals that Jacob has in fact wrestled with God himself. And this is how Jacob understood it too because he named the place "Peniel" because he saw the face of God yet he wasn't killed.
 
 Was this really God, though? Hosea explains:
 
