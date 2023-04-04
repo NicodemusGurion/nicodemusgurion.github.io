@@ -16,7 +16,11 @@ title: Topics
     <a name="{{ topic_name | slugize }}"></a>
     {% for post in site.tags[topic_name] %}
     <article class="archive-item">
-      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      <h4>
+         {%- if post.thumb -%}
+          <img src="{{- post.thumb | relative_url -}}" alt="" class="blog-roll-image">
+         {%- endif -%}
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
   </div>
