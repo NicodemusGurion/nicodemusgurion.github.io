@@ -3,6 +3,9 @@ layout: default
 ---
 
 <div class="post">
+  {%- if page.image -%}
+    <img src="{{- page.image | absolute_url -}}" alt="" class="featured-image-post">
+  {%- endif -%}
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }} &nbsp; &middot; &nbsp; Topics:
   {% if post %}
@@ -15,9 +18,7 @@ layout: default
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
   </span>
-      {%- if page.image -%}
-      <img src="{{- page.image | absolute_url -}}" alt="" class="featured-image-post">
-      {%- endif -%}
+      
   {{ content }}
 </div>
 
