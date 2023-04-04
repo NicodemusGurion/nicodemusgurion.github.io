@@ -2,17 +2,15 @@ The New World Translation is claimed by the Watchtower corporation to be the bes
 
 This page will look at a selection of scriptures in the New World Translation from as neutral exegetical perspective and describe what kind of change was made, and how this impacts the meaning of the translation. I will also make a guess as to why it was likely made based on decades of experience with Watchtower doctrine. And I may also compare it to a more mainstream Christian interpretation when appropriate. For the New Testament, all English quotations unless otherwise indicated are taken from the New World Translation 2013 edition, and the Greek quotations come from the [Kingdom Interlinear Translation](https://www.jw.org/en/library/bible/kingdom-interlinear-greek-translation/books/) released by the Watchtower and [downloadable from jw.org](https://download-a.akamaihd.net/files/media_publication/c0/int_E.jwpub) so that you can easily check that I’m not making this up. Please look up everything in your own Bible or the [JW app](https://www.jw.org/en/online-help/jw-library/).
 
-Let's get started!
-
 ## Genesis 1:2
 
 > Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep, and **God’s active force** was moving about over the surface of the waters.
 
 ### Biased translation
 
-Strangely enough this is the only place in the NWT where they use the word "active force". I don't know why. Perhaps they worry that if they did it consistently it would sound like Star Wars fan fiction.
+Strangely enough this is the only place in the NWT where they use the word "active force". Since the Watchtower teaches that the Holy Spirit is not a percon but a firce like electricity ir gravity, they have to insert this *somewhere*. But this is the only place. Perhaps they worried that if they did it consistently it would start sounding like Star Wars fan fiction.
 
-The text "Ruach Elohim" should be translated "God's spirit". A ruach literally means breath or wind, but also spirit, i.e. something invisible, but that you can feel the effects of. But in every case where Ruach refers to things in the supernatural it refers to a living being, such as angels, demons, or the spirit of man. The only times it is referred to as an impersonal force is when it is a natural phenomena such as wind. How come that God's Holy Spirit is the only supernatural Ruach that is not a spirit being, but rather compared to a natural phenomena like electricity, even though natural phenomena makes no sense in a supernatural realm? The reason is probably because the Watchtower denies the personhood of the Holy Spirit.
+The hebrew phrase "*Ruach Elohim*" should be translated "God's spirit". A *ruach* literally means breath or wind, but also spirit, i.e. something invisible, but that you can feel the effects of. But in every case where *Ruach* refers to things in the supernatural it refers to a living being, such as angels, demons, or the spirit of man. The only times it is referred to as an impersonal force is when it is a natural phenomena such as wind. How come that God's Holy Spirit is the only supernatural *Ruach* that is not a spirit being, but rather compared to a natural phenomena like electricity? Even though natural phenomena makes no sense in a supernatural realm? This is the kind of nonsense you get when you deny the personhood of the Holy Spirit.
 
 ## Genesis 19:24
 
@@ -22,9 +20,13 @@ The text "Ruach Elohim" should be translated "God's spirit". A ruach literally m
 
 The more accurate translation of this verse was available in the older translation of the New World Translation:
 
-> Then Jehovah made it rain sulphur and fire from Jehovah, from the heavens, upon Sodʹom and upon Go·morʹrah.
+> Then Jehovah rained upon Sodom and upon Gomorrah brimstone and fire from Jehovah out of heaven;
 
-As you can see in this verse, there are two Jehovah figures, one on earth who initiates the destruction, and one Jehovah in heaven from whom the sulphur and fire comes. Most translations translate it similarly because that’s simply what the text says. This matches perfectly with the previous contexts because in chapter 18 and 19 Jehovah is on earth in a visible form, speaking with Abraham and evidently waiting outside of Sodom when Lot, his family and the two angels come out. This is probably a Christophany/Theophany of the Logos/the Word/Jesus manifest in human form. He waits for Lot to be in safety, and then calls in an air strike from Jehovah (the Father) in heaven. The plain reading of the Bible matches well with the Trinity doctrine. Probably the Watchtower change the wording to hide what could be used as corroboration or evidence for the trinity doctrine. Their interpretation is clunky: “Jehovah made it rain. It came from Jehovah. From heaven.” This kind of repetition is unnecessary, and sounds unnatural and inelegant. If you say Jehovah made it rain, then of course it came from Jehovah. And if it rained, of course it came from heaven.
+As you can see in the context of this verse, there are two Jehovah figures, one Jehovah on with Lot on the earth who initiates the destruction, and one Jehovah in heaven from whom the sulphur and fire comes. Most translations translate it similarly because that’s simply what the text says. 
+
+This matches perfectly with the previous contexts because in chapter 18 and 19 Jehovah is on earth in a visible form, speaking with Abraham and evidently waiting outside of Sodom when Lot, his family and the two angels come out. This is probably a Christophany/Theophany of the Logos/the Word/Jesus manifest in human form. He waits for Lot to be in safety, and then calls in an air strike from Jehovah (the Father) in heaven. 
+
+The plain reading of the Bible matches well with the Trinity doctrine. So likely the Watchtower change the wording to hide what could be used as evidence for the trinity doctrine. Their interpretation is clunky: “Jehovah made it rain. It came from Jehovah. From heaven.” Sounds like something a caveman would say.
 
 ## Psalm 14:1
 
@@ -32,7 +34,7 @@ As you can see in this verse, there are two Jehovah figures, one on earth who in
 
 ### Change
 
-The New World Translation inserts “Jehovah” instead of “God” with no justification what so ever. [There is not a single Hebrew or Greek text nor any other translation that has the Divine Name in this verse.](https://biblehub.com/psalms/14-1.htm) It is one thing to want to restore the Name. It is a whole other thing to  insert it in places where it does not exist and frankly wouldn’t even make any sense. Why would someone not knowing the Divine Name use it when they say there is no God?
+The New World Translation inserts “Jehovah” instead of “God”. [I can not find a single Hebrew or Greek text nor any other translation that has the Divine Name in this verse.](https://biblehub.com/psalms/14-1.htm) Having the divine name here makes no sense. That someone would deny the exiatence of God is plausible. That someone would be so specific as to use the name Jehovah is implausible. Why would someone not knowing the Divine Name use it when they say there is no God?
 
 ## Psalm 22:16
 
