@@ -1,3 +1,6 @@
+.blog-roll-image{width:75px;height:75px;object-fit:cover;float:left}
+.featured-image-post{width:100%;height:150px;object-fit:cover}
+
 /* Collapsing tables on small device screens */
 
 table {
