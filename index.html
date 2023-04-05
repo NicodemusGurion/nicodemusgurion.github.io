@@ -6,10 +6,10 @@ title: Home
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
+  <h1 class="post-title">
   {%- if post.thumb -%}
     <img src="{{- post.thumb | absolute_url -}}" alt="" class="featured-thumbnail">
   {%- endif -%}
-    <h1 class="post-title">
       <a href="{{ post.url | absolute_url }}">
         {{ post.title }}
       </a>
