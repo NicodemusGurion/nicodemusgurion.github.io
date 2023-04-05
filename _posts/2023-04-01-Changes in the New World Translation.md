@@ -1,6 +1,7 @@
 ---
 Title: Changes in the New World Trabslation
 tags: [Jehovah's witnesses, New World Translation, Watchtower shenanigans]
+Layout: featured
 image: https://images2.imgbox.com/d3/54/7Lf9Geg1_o.jpeg
 thumb: https://thumbs2.imgbox.com/d3/54/7Lf9Geg1_t.jpeg
 ---
