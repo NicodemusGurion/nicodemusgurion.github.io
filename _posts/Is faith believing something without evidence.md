@@ -1,8 +1,7 @@
 ---
 Title: Is faith believing something without evidence?
 Tags: [Criticism, Apologetics]
-
-
+---
 Believing something without evidence is not faith but gullibility. 
 
 The word faith is synonymous with confidence or trust - the feeling that you can rely on something or someone. Faith as described in the Bible is never blind faith. There is not a single example of blind faith in the Bible. Faith is always based on evidence or previous experiences. 
