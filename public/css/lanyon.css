@@ -385,6 +385,8 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title {
   margin-top: 0;
+  display: flex;
+  align-items: center;
 }
 
 /* Meta data line below post title */
