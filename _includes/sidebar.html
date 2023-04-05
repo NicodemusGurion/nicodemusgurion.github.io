@@ -24,7 +24,9 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-    <h3>Featured posts</h3>
+    <div class="sidebar-item">
+    <p>Featured posts</p>
+    </div>
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "featured" %}
