@@ -27,11 +27,9 @@
     <div class="sidebar-item">
     <p>Featured posts</p>
     </div>
-    {% for node in pages_list %}
+    {% for node in site.tags["Featured"] %}
       {% if node.title != null %}
-        {% if node.layout == "featured" %}
           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-        {% endif %}
       {% endif %}
     {% endfor %}
 
