@@ -386,6 +386,7 @@ a.sidebar-nav-item:focus {
 .post-title {
   margin-top: 0;
   display: flex;
+  flex-direction:row;
   align-items: center;
 }
 
