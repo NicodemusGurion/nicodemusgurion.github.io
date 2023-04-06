@@ -4,11 +4,11 @@ permalink: /database.json
 ---
 {% assign database = {} %}
 {% for post in site.posts %}
-{% assign post_id = post.url %}
+{% assign post_id = post.title | append post.url %}
 {{ post_id }}
 {% endfor %}
 {
-  "Foo": "7",
+  "Foo": "8",
   "posts": [
     {% for post in site.posts %}
       {
