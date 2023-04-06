@@ -29,10 +29,10 @@
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
     <script>
 		window.onload = function() {
-			var text = document.getElementById("maincontent").innerHTML;
+			var text = document.getElementById("thecontent").innerHTML;
 			var pattern = /([1-3]?[a-zA-Z]{3,}\s+\d{1,3}:[0-9]{1,3})/g; // regular expression pattern to match scripture references
 			var replacedText = text.replace(pattern, '<a href="https://biblehub.com/$1" target="_blank">$1</a>'); // replace matched references with links to Biblehub.com
-			document.getElementById("maincontent").innerHTML = replacedText;
+			document.getElementById("thecontent").innerHTML = replacedText;
 		}
 	</script>
   </body>
