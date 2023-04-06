@@ -6,7 +6,6 @@ permalink: /database.json
 {% for post in site.posts %}
 
   {% assign words = post.content | split: ' ' %}
-{% assign words = content | split: " " %}
 {{ words | inspect }}
   
   {% for word in words %}
