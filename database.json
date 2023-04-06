@@ -9,7 +9,7 @@ permalink: /database.json
   {{ post_id }}
 {% endfor %}
 {
-  "Foo": "1",
+  "Foo": "2",
   "posts": [
     {% for post in site.posts %}
       {
