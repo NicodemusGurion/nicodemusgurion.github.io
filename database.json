@@ -26,4 +26,10 @@ permalink: /database.json
   {% endfor %}
 {% endfor %}
 
-{{ word_counts }}
+{% unless word_counts == null %}
+  {% for word in word_counts %}
+    {{ word }}: {{ word_counts[word] }}
+  {% endfor %}
+{% endunless %}
+
+{{ word_counts | jsonify }}
