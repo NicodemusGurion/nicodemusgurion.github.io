@@ -2,7 +2,7 @@
 ---
 {% assign database = {} %}
 {% for post in site.posts %}
-  {% assign post_id = post.title + "|" + post.url %}
+  {% assign post_id = post.title | append "|" | append post.url %}
   {% assign allwords = post.contents | split: " " }
   {% words = allwords | uniq %}
   {% assign words_to_remove = "of the" | split: " " | uniq %}
