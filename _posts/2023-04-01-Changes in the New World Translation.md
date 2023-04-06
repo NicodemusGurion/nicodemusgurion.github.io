@@ -84,7 +84,7 @@ The part translated "Jehovah examines the motives" is actually "Jehovah examines
 
 ### Removal
 
-<figure id="attachment_220">[![John 13:32 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1147-300x69.jpg)](https://thyreon.com/wp-content/uploads/2022/01/img_1147.jpg) John 13:32 Kingdom Interlinear Translation</figure>
+![John 13:32 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1147-300x69.jpg)
 
 The Greek and other translations say: “God will glorify him [Jesus] **in himself**”.   The NWT probably removes this because that Jesus is glorified **in** God strongly hints at the triune nature of God.
 
@@ -94,7 +94,7 @@ The Greek and other translations say: “God will glorify him [Jesus] **in himse
 
 ### Removal
 
-<figure id="attachment_222">[![John 14:14 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/image-300x98.jpg)](https://thyreon.com/wp-content/uploads/2022/01/image.jpg) John 14:14 Kingdom Interlinear Translation</figure>
+![John 14:14 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/image-300x98.jpg)
 
 The Greek text, the Vulgate and many English translations (NLT, CSB, NIV, ESV, NET, NASB, BBE) include the word “me” between “ask” and “anything”. Jesus is telling his followers that “if you ask **me** anything in my name, I will do it.” Jesus is straight out telling us that it is appropriate to address **him** in prayer. The Watchtower removes this because they have a faulty view of Jesus’ deity. The verse proves Jesus’ omniscience and omnipotence, that he can hear any prayer and do anything. These are attributes only God possesses. The truth revealed in this scripture is that Jesus is God and it is entirely appropriate to ask him things in prayer.
 
