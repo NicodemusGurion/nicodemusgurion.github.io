@@ -2,10 +2,8 @@
 layout: null
 permalink: /database.json
 ---
-1
-{% assign database = {} %}
-Foo
 {
+  "Foo": "bar1",
   "posts": [
     {% for post in site.posts %}
       {
