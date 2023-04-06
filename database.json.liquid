@@ -5,7 +5,7 @@
   {% assign post_id = post.title | append "|" | append post.url %}
   {% assign allwords = post.contents | split: " " }
   {% words = allwords | uniq %}
-  {% assign words_to_remove = "of the" | split: " " | uniq %}
+  {% assign words_to_remove = "the be to of and a an in I that it for on he because if so than also" | split: " " | uniq %}
   {% assign filtered_words = words | where_exp: "word", "word | unless: words_to_remove contains word" %}
   {% for fword in filtered_words %}
     {% assign count = 0 %}
