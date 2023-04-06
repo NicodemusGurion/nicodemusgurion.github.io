@@ -2,20 +2,28 @@
 layout: null
 permalink: /database.json
 ---
-{% assign database = {} %}
+{% assign word_counts = {} %}
+
 {% for post in site.posts %}
-  {% assign post_id = post.title | append: "|" | append: post.url %}
-  {% assign allwords = post.contents | split: " " }
-  {{ post_id }}
+  {% assign words = post.content | split: ' ' %}
+  
+  {% for word in words %}
+    {% assign word = word | strip %}
+    
+    {% unless word == '' %}
+      {% capture post_url %}{{ post.url }}{% endcapture %}
+      
+      {% if word_counts[word] == null %}
+        {% assign word_counts[word] = {} %}
+      {% endif %}
+      
+      {% if word_counts[word][post_url] == null %}
+        {% assign word_counts[word][post_url] = 1 %}
+      {% else %}
+        {% assign word_counts[word][post_url] = word_counts[word][post_url] | plus: 1 %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
 {% endfor %}
-{
-  "Foo": "2",
-  "posts": [
-    {% for post in site.posts %}
-      {
-        "title": {{ post.title | jsonify }},
-        "url": {{ post.url | absolute_url | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ]
-}
+
+{{ word_counts | jsonify }}
