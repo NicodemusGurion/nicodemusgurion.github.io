@@ -20,7 +20,7 @@ This is a version of the "Ten Commandments" of Exodus 34 listed on an atheist we
 9.  The “first of the firstfruits” of the land are to be brought before God.
 10.  Do not boil a baby goat in its mother’s milk.
 
-First of all you can see already that something is not right here, since number 8 is actually two different commands. Actually if you have a good look at the text and list all the commandments you get:
+First of all you can see already that something is not right here. The first one is actually three commandments. Number 8 is actually two diffeeent commands. Actually if you have a good look at the text you can find no less than 16 commandments:
 
 1.  Do not make a covenant with the inhabitants of the promised land.
 2.  Pull down the altars of the pagans.
