@@ -2,11 +2,9 @@
 layout: null
 permalink: /database.json
 ---
-{% assign database = {} %}
-{% for post in site.posts %}
-{% endfor %}
+
 {
-  "Foo": "bar4",
+  "Foo": "bar5",
   "posts": [
     {% for post in site.posts %}
       {
