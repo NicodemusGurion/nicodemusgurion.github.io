@@ -11,6 +11,7 @@ permalink: /database.json
   {% assign filtered_words = words | where_exp: "word", "word | unless: words_to_remove contains word" %}
   {{ post_id }}
 {% endfor %}
+Foo
 {
   "posts": [
     {% for post in site.posts %}
