@@ -1,4 +1,26 @@
 {% assign database = {} %}
+{% for post in site.posts %}
+  {% assign post_id = post.title + "|" + post.url %}
+  {% assign allwords = post.contents | split: " " }
+  {% words = allwords | uniq %}
+  {% assign words_to_remove = "of the" | split: " " | uniq %}
+  {% assign filtered_words = words | where_exp: "word", "word | unless: words_to_remove contains word" %}
+  {% for fword in filtered_words %}
+    {% assign count = 0 %}
+    {% for w in text | split: " " %}
+      {% if w == word %}
+        {% assign count = count | increment %}
+      {% endif %}
+    {% endfor %}
+    {% assign database[fword][post_id] = count
+  {% endfor %}
+{% endfor %}
 {
-   "word": {"page1":10,"page2":20}
+{% for word in database %}
+   "{{ word }}": {
+  {% for page_id in database[word] %}
+    "{{page_id}}": {{ database[word][page_id] }},
+  {% endfor %}
+},
+{% endfor %}
 }
