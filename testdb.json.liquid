@@ -1,8 +1,0 @@
----
----
-{
-  {%- for p in site.pages %}
-    {{ p.url | jsonify }}: {{ p.content | markdownify | strip_html | jsonify }}
-    {%- unless forloop.last %},{% endunless -%}
-  {% endfor %}
-}
