@@ -1,3 +1,5 @@
+---
+---
 {% assign database = {} %}
 {% for post in site.posts %}
   {% assign post_id = post.title + "|" + post.url %}
@@ -17,10 +19,12 @@
 {% endfor %}
 {
 {% for word in database %}
-   "{{ word }}": {
+   "{{ word | jsonify }}": {
   {% for page_id in database[word] %}
-    "{{page_id}}": {{ database[word][page_id] }},
+    "{{page_id | jsonify }}": {{ database[word][page_id] }}
+    {%- unless forloop.last %},{% endunless -%}
   {% endfor %}
-},
+  }
+  {%- unless forloop.last %},{% endunless -%}
 {% endfor %}
 }
