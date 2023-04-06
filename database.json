@@ -2,14 +2,11 @@
 layout: null
 permalink: /database.json
 ---
+1
 {% assign database = {} %}
 {% for post in site.posts %}
-{% assign post_id = post.title | append "|" | append post.url %}
-  {% assign allwords = post.contents | strip_html | split: " " }
-  {% words = allwords | uniq %}
-  {% assign words_to_remove = "the be to of and a an in I that it for on he because if so than also" | split: " " | uniq %}
-  {% assign filtered_words = words | where_exp: "word", "word | unless: words_to_remove contains word" %}
-  {{ post_id }}
+{% assign post_id = post.title | append "|" | append post.url %} 
+{{ post_id }}
 {% endfor %}
 Foo
 {
