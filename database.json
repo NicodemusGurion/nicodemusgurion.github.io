@@ -1,3 +1,4 @@
+{% assign database = {} %}
 {
    "word": {"page1":10,"page2":20}
 }
