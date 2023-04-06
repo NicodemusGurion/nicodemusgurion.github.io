@@ -3,7 +3,7 @@ layout: null
 permalink: /database.json
 ---
 {% assign word_counts = {} %}
-
+{{ site.posts | inspect }}
 {% for post in site.posts %}
   {% assign words = post.content | split: ' ' %}
   
