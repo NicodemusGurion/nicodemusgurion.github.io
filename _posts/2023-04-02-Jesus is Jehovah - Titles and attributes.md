@@ -55,3 +55,4 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 [^before]: Jesus is before all things.
 [^wasthere]: Jesus was there since eternity and will be there for eternity.
 [^exodus17]: Reveals that Jehovah in Exodus 17:6 was Jesus.
+ 
