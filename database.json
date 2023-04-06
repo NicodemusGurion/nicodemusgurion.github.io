@@ -26,4 +26,4 @@ permalink: /database.json
   {% endfor %}
 {% endfor %}
 
-{{ word_counts | jsonify }}
+{{ word_counts }}
