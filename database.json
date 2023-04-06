@@ -5,6 +5,7 @@ permalink: /database.json
 {% assign database = {} %}
 {% for post in site.posts %}
   {% assign post_id = post.title | append: "|" | append: post.url %}
+  {% assign allwords = post.contents | split: " " }
   {{ post_id }}
 {% endfor %}
 {
