@@ -31,7 +31,7 @@
 		window.onload = function() {
 			var text = document.getElementById("thecontent").innerHTML;
 			var pattern = /([1-3]?[a-zA-Z]{3,}\s+\d{1,3}:[0-9]{1,3})/g; // regular expression pattern to match scripture references
-			var replacedText = text.replace(pattern, '<a href="https://biblehub.com/$1" target="_blank">$1</a>'); // replace matched references with links to Biblehub.com
+			var replacedText = text.replace(pattern, '<a href="https://biblescan.com/search.php?q=$1" target="_blank">$1</a>'); // replace matched references with links to Biblehub.com
 			document.getElementById("thecontent").innerHTML = replacedText;
 		}
 	</script>
