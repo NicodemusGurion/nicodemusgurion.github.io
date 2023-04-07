@@ -3,6 +3,7 @@ layout: null
 permalink: /database.json
 ---
 Foo
+{% capture foobar %}
 {% assign word_counts = {} %}
 {% for post in site.posts %}
   {% capture post_id %}{{ post.title }}|{{  post.url }}{% endcapture %}
@@ -11,17 +12,10 @@ Foo
   {% for word in words %}
     {% assign word = word | strip %}
     {% unless word == '' %}
-      {% if word_counts[word] == null %}
-        {% assign word_counts[word] = {} %}
-      {% endif %}
-      {% if word_counts[word][post_id] == null %}
-        {% assign word_counts[word][post_id] = 1 %}
-      {% else %}
-        {% assign word_counts[word][post_id] = word_counts[word][post_id] | plus: 1 %}
-     {% endif %}
-     {{ word_counts[word][post_id] }}
+      {% increment word_counts[word][post_id] %}
     {% endunless %}
   {% endfor %}
 {% endfor %}
+{% endcapture %}
 Foo
 {{ word_counts | jsonify }}
