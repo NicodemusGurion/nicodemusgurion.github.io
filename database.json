@@ -4,7 +4,7 @@ permalink: /database.json
 ---
 Foo
 {% capture foobar %}
-{% assign word_counts = {} %}
+{% assign word_counts = {"test":{"testing":48}} %}
 {% for post in site.posts %}
   {% capture post_id %}{{ post.title }}|{{  post.url }}{% endcapture %}
   {{ post_id }}
