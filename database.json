@@ -5,20 +5,21 @@ permalink: /database.json
 Foo
 {% assign word_counts = {} %}
 {% for post in site.posts %}
+  {% capture post_id %}{{ post.title }}|{{  post.url }}{% endcapture %}
+  {{ post_id }}
   {% assign words = post.content | strip_html | slugify: "latin" | split: '-' %}
   {% for word in words %}
     {% assign word = word | strip %}
     {% unless word == '' %}
-      {% capture post_url %}{{ post.title }}|{{  post.url }}{% endcapture %}
-      {{ post_url }}
- {% if word_counts[word] == null %}
+      {% if word_counts[word] == null %}
         {% assign word_counts[word] = {} %}
       {% endif %}
-      {% if word_counts[word][post_url] == null %}
-        {% assign word_counts[word][post_url] = 1 %}
+      {% if word_counts[word][post_id] == null %}
+        {% assign word_counts[word][post_id] = 1 %}
       {% else %}
-        {% assign word_counts[word][post_url] = word_counts[word][post_url] | plus: 1 %}
+        {% assign word_counts[word][post_id] = word_counts[word][post_id] | plus: 1 %}
      {% endif %}
+     {{ word_counts[word][post_id] }}
     {% endunless %}
   {% endfor %}
 {% endfor %}
