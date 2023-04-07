@@ -5,13 +5,10 @@ permalink: /database.json
 {% assign word_counts = {} %}
 {% for post in site.posts %}
   {% assign words = post.content | strip_html | slugify: "latin" | split: '-' %}
-  
   {% for word in words %}
     {% assign word = word | strip %}
-    
     {% unless word == '' %}
       {% capture post_url %}{{ post.title }}|{{  post.url }}{% endcapture %}
-      
       {% if word_counts[word] == null %}
         {% assign word_counts[word] = {} %}
       {% endif %}
