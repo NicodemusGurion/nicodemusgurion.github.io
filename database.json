@@ -14,15 +14,16 @@ permalink: /database.json
       
       {% if word_counts[word] == null %}
         {% assign word_counts[word] = {} %}
-        Assigning word_counts[word] = {}
+     
       {% endif %}
       
       {% if word_counts[word][post_url] == null %}
         {% assign word_counts[word][post_url] = 1 %}
-        assign word_counts[word][post_url] = 1
+
       {% else %}
         {% assign word_counts[word][post_url] = word_counts[word][post_url] | plus: 1 %}
- assign word_counts[word][post_url] = word_counts[word][post_url] | plus: 1
+ assign word_counts[{{ word }}][{{ post_url }}] = word_counts[word][post_url] | plus: 1
+
      {% endif %}
     {% endunless %}
   {% endfor %}
