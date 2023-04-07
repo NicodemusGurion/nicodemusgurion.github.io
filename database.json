@@ -2,6 +2,7 @@
 layout: null
 permalink: /database.json
 ---
+Foo
 {% assign word_counts = {} %}
 {% for post in site.posts %}
   {% assign words = post.content | strip_html | slugify: "latin" | split: '-' %}
@@ -9,21 +10,17 @@ permalink: /database.json
     {% assign word = word | strip %}
     {% unless word == '' %}
       {% capture post_url %}{{ post.title }}|{{  post.url }}{% endcapture %}
-      {% if word_counts[word] == null %}
+      {{ post_url }}
+ {% if word_counts[word] == null %}
         {% assign word_counts[word] = {} %}
       {% endif %}
       {% if word_counts[word][post_url] == null %}
         {% assign word_counts[word][post_url] = 1 %}
       {% else %}
         {% assign word_counts[word][post_url] = word_counts[word][post_url] | plus: 1 %}
- Add 1 {{ word }}{{ post_url }}
      {% endif %}
     {% endunless %}
   {% endfor %}
 {% endfor %}
-{% unless word_counts == null %}
-  {% for word in word_counts %}
-    {{ word }}: {{ word_counts[word] }}
-  {% endfor %}
-{% endunless %}
+Foo
 {{ word_counts | jsonify }}
