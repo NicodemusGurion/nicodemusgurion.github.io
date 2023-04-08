@@ -35,8 +35,8 @@ permalink: /database.json
 {%         assign thisUrlCount = thisUrlCount | plus: 1 %}
 {%       endif %}
 {%     endfor %}
-{{     thisUrlCount }}
+{{     thisUrlCount }}{% unless forloop.last %},{% endunless -%}
 {%   endfor %}
-]
+]{% unless forloop.last %},{% endunless -%}
 {% endfor %}
 
