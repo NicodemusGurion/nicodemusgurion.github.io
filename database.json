@@ -2,7 +2,8 @@
 layout: null
 permalink: /database.json
 ---
-V4
+V5
+{% capture output %}
 {% assign searchdb = {} %}
 
 {% for post in site.posts %}
@@ -31,3 +32,6 @@ V4
   }{% unless forloop.last %},{% endunless %}
 {% endfor %}
 }
+{% endcapture %}
+
+{{ output }}
