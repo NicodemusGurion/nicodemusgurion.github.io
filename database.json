@@ -4,6 +4,7 @@ permalink: /database.json
 ---
 {{- site.time -}}
 {% assign searchdb = "" | split: "," %}
+{% assign postdb = "" | split: "," %}
 {% for post in site.posts %}
   {% assign content = post.content | replace: "&nbsp;", " " %}
   {% assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %}
@@ -12,10 +13,11 @@ permalink: /database.json
       {% assign searchdb = searchdb | push: word %}
     {% endunless %}
     {% assign wordIndex = searchdb | index: word %}
-    {% unless searchdb[wordIndex].posts contains post.url %}
-      {% assign searchdb[wordIndex].posts = searchdb[wordIndex].posts | push: post.url %}
+    {% unless postdb[wordIndex] contains post.url %}
+      {% assign postdb[wordIndex] = postdb[wordIndex] | push: post.url %}
     {% endunless %}
   {% endfor %}
 {% endfor %}
+{{ postdb | json }}
 {{ searchdb | json }}
 
