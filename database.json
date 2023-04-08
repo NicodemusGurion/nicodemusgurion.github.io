@@ -13,8 +13,8 @@ permalink: /database.json
 {%       assign wordList = wordList | append: "[" | append: word | append: "]{" | append: post.url | append: "} " %}
 {%     else %}
 {%       assign lookForWord = "[" | append: word | append: "]{"
-{%       assign splitWordList = wordList | split lookForWord %}
-{%       assign wordList = splitWordList[0] | append: lookforWord | append: post.url | append: "," | append splitWordList[1]  %}
+{%       assign splitWordList = wordList | split: lookForWord %}
+{%       assign wordList = splitWordList[0] | append: lookforWord | append: post.url | append: "," | append: splitWordList[1]  %}
 {%     endunless %}
 {%   endfor %}
 {% endfor %}
