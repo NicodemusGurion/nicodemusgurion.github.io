@@ -7,7 +7,7 @@ mydb:
   count: 16
 ---
 {{- site.time -}}
-{{- mydb | jsonify -}}
+{{- post.mydb | jsonify -}}
 {% assign searchdb = "" | split: "," %}
 {% for post in site.posts %}
   {% assign content = post.content | replace: "&nbsp;", " " %}
