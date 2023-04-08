@@ -10,11 +10,11 @@ permalink: /database.json
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
 {%     unless wordList contains word  %}
-{%       assign wordList = wordList | append: "[" | append: word | append: "]<br>" | append: post.url | append: "<br>" %}
+{%       assign wordList = wordList | append: "[" | append: word | append: "]{" | append: post.url | append: "}" %}
 {%     else %}
-{%       assign lookForWord = "[" | append: word | append: "]" %}
+{%       assign lookForWord = "[" | append: word | append: "]{" %}
 {%       assign splitWordList = wordList | split: lookForWord %}
-{%       assign wordList = splitWordList[0] | append: lookforWord | append: "<br>" | append: post.url | append: splitWordList[1]  %}
+{%       assign wordList = splitWordList[0] | append: lookforWord | append: post.url | append: "," | append: splitWordList[1]  %}
 {%     endunless %}
 {%   endfor %}
 {% endfor %}
