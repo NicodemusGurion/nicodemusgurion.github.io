@@ -24,6 +24,11 @@ permalink: /database.json
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
 {%   assign wordAndList = section | split: "]" %}
-word: {{ wordAndList[0] }}
+"{{ wordAndList[0] }}": [
+{%   assign urls = wordAndList[1] | split: "," | uniq %}
+{%   for url in urls %}
+{{ url }},
+{%   endfor %}
+]
 {% endfor %}
 
