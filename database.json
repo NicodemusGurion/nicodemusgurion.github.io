@@ -6,7 +6,7 @@ permalink: /database.json
 {% assign searchdb = "" | split: "," %}
 {% for post in site.posts %}
   {% assign content = post.content | replace: "&nbsp;", " " %}
-  {% assign words = content | strip_html | strip_newlines | split: " " %}
+  {% assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %}
   {% for word in words %}
     {% unless searchdb contains word %}
       {% assign searchdb = searchdb | push: word %}
