@@ -5,6 +5,7 @@ permalink: /database.json
 Foo
 
 {% assign word_counts = {"test":{"testing":48}} %}
+{{ word_counts | inspect }}
 {% assign post = sitt.posts[0] %}
 {% assign text = post.content %}
 {{ text }}
