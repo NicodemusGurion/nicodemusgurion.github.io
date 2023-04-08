@@ -3,5 +3,5 @@ layout: null
 permalink: /database.json
 ---
 {% for post in site.posts %}
-{{ post.title }}
+{{ post.title }}|{{post.url}}
 {% endfor %} 
