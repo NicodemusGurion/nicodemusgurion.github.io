@@ -17,6 +17,7 @@ permalink: /database.json
 {%       assign splitWordList = wordList | split: lookForWord %}
 {%       assign wordList = splitWordList[0] | append:"€" | append: lookforWord | append: post.url | append: "," | append:"€" | append: splitWordList[1]  %}
 {%     endunless %}
-{%   endfor %}
-{% endfor %}
 {{- wordList -}}
+{%   endfor %}
+{%   break %}
+{% endfor %}
