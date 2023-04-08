@@ -2,15 +2,6 @@
 layout: null
 permalink: /database.json
 ---
-Bar
-
-{% assign word_counts = {"test":{"testing":48}} %}
-{{ word_counts | inspect }}
-{% assign post = sitt.posts[0] %}
-{% assign text = post.content %}
-{{ text }}
-{% capture post_id %}{{ post.title }}|{{  post.url }}{% endcapture %}
-{{ post_id }}
-{{ text }}
-{% assign words = text | strip_html | slugify: "latin" | split: '-' %}
-{{ words | inspect }}
+{% for post in site.posts %}
+{{ post.title }}
+{% endfor %} 
