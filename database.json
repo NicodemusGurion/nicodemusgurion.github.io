@@ -2,6 +2,8 @@
 layout: null
 permalink: /database.json
 ---
+{% assign database = {"word": {"page1":5}} %}
 {% for post in site.posts %}
 {{ post.title }}|{{post.url}}
 {% endfor %} 
+{{ database | inspect }}
