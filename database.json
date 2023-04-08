@@ -3,23 +3,33 @@ layout: null
 permalink: /database.json
 ---
 {{- site.time -}}
-{% assign my_array = "apple,orange,banana,apple,orange,orange" | split:"," %}
-{% assign items = "" | split: "," %}
-{% assign counts = "" | split: "," %}
-
-{% for item in my_array %}
-  {% assign index = items | index: item %}
-  {% if index == nil %}
-    {% assign items = items | push: item %}
-    {% assign counts = counts | push: 1 %}
-  {% else %}
-    {% assign counts[index] = counts[index] | plus: 1 %}
-  {% endif %}
+{% assign wordList = ""  %}
+{% assign valList = "" %}
+{% for post in site.posts  %}
+{%   assign content = post.content | replace: "&nbsp;", " "  %}
+{%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
+{%   for word in words  %}
+{%     assign wordKey = "[" | append: word | append: "]" %}
+{%     unless wordList contains wordKey  %}
+{%       assign wordList = wordList | append: "[" | append: word | append: "]" | append: post.url %}
+{%     else %}
+{%       assign lookForWord = "[" | append: word | append: "]" %}
+{%       assign splitWordList = wordList | split: lookForWord %}
+{%       assign wordList = splitWordList[0] | append: lookForWord | append: post.url | append: "," | append: splitWordList[1]  %}
+{%     endunless %}
+{%   endfor %}
+{%   break %}
 {% endfor %}
-
-{% for i in (0..items.size) %}
-  {% if items[i] != nil %}
-    {{ items[i] }}: {{ counts[i] }}<br>
-  {% endif %}
+{{- wordList -}}
+{% assign sections = wordList | split "[" %}
+{% for section in sections  %}
+{%   assign wordAndList = section | split "]" %}
+"{{ wordAndList[0] }}":
+[
+{%   assign urllist = wordAndList[1] | split "," %}
+{%   for url in urlList  %}
+     {{ url }},
+{%   endfor %}
+]
 {% endfor %}
 
