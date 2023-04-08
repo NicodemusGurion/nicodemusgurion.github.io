@@ -25,9 +25,17 @@ permalink: /database.json
 {% for section in sections  %}
 {%   assign wordAndList = section | split: "]" %}
 "{{ wordAndList[0] }}": [
-{%   assign urls = wordAndList[1] | split: "," | uniq %}
-{%   for url in urls %}
-{{ url }},
+{%   assign urls = wordAndList[1] | split: "," | sort %}
+{%   assign uniqurls = urls | uniq %}
+{%   for uniqurl in uniqurls %}
+"{{    uniqurl }}": 
+{%     assign thisUrlCount = 0 %}
+{%     for url in urls %}
+{%       if url == uniqurl %}
+{%         assign thisUrlCount = thisUrlCount | plus: 1 %}
+{%       endif %}
+{%     endfor %}
+{{     thisUrlCount }}
 {%   endfor %}
 ]
 {% endfor %}
