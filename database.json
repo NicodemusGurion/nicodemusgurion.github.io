@@ -14,7 +14,7 @@ permalink: /database.json
 {%     else %}
 {%       assign lookForWord = "[" | append: word | append: "]" %}
 {%       assign splitWordList = wordList | split: lookForWord %}
-{%       assign wordList = splitWordList[0] | append: lookforWord | append: "<br>" | append: post.url | append: "<br>" | append: splitWordList[1]  %}
+{%       assign wordList = splitWordList[0] | append: lookforWord | append: "<br>" | append: post.url | append: splitWordList[1]  %}
 {%     endunless %}
 {%   endfor %}
 {% endfor %}
