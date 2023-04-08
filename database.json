@@ -9,7 +9,7 @@ permalink: /database.json
 {%   assign content = post.content | replace: "&nbsp;", " "  %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
-{%    unless searchdb contains word  %}
+{%    unless keyList contains word  %}
 {%       assign pageList = "" | split: "," | push: page.url %}
 {%       assign keyList = keyList | push: word  %}
 {%       assign valList = valList | push: pageList  %}
