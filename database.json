@@ -6,7 +6,7 @@ permalink: /database.json
 {% capture string_with_newlines %}
 {% assign wordList = ""  %}
 {% for post in site.posts  %}
-{%   assign content = post.content | replace: "&nbsp;", " "  %}
+{%   assign content = post.title | append: " " | append: post.content %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
 {%     assign wordKey = "[" | append: word | append: "]" %}
@@ -18,7 +18,6 @@ permalink: /database.json
 {%       assign wordList = splitWordList[0] | append: lookForWord | append: post.url | append: "," | append: splitWordList[1]  %}
 {%     endunless %}
 {%   endfor %}
-{%   break %}
 {% endfor %}
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
@@ -42,5 +41,6 @@ permalink: /database.json
 {%   endunless %}
 {% endfor %}
 {% endcapture %}
+{
 {{ string_with_newlines | strip_newlines }}
-
+}
