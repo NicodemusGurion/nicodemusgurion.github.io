@@ -10,9 +10,12 @@ permalink: /database.json
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
 {%    unless keyList contains word  %}
-{%       assign pageList = "" | split: "," | push: page.url %}
+{%       assign pageList = "" | split: "," | push: post.url %}
 {%       assign keyList = keyList | push: word  %}
 {%       assign valList = valList | push: pageList  %}
+{%       else %}
+{%         assign wordindex = keyList | index: word %}
+{%         assign valList[wordIndex] = valList[wordIndex] | push: post.url %}
 {%     endunless %}
 {%   endfor %}
 {% endfor %}
