@@ -2,6 +2,7 @@
 layout: null
 permalink: /database.json
 ---
+V1
 {% assign searchdb = \{"word": \{"page1":5\}\} %}
 {{ searchdb | inspect }}
 
