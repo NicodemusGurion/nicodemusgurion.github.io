@@ -2,6 +2,6 @@
 layout: null
 permalink: /database.json
 ---
-V2
+V3
 {% assign searchdb = {'word': {'page1': 5}} %}
-{{ searchdb | inspect }}
+{{ searchdb | jsonify }}
