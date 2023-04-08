@@ -19,6 +19,9 @@ permalink: /database.json
 {%     endunless %}
 {%   endfor %}
 {% endfor %}
-
+{% assign wordIndex = 0 %}
+{% for key in keyList %}
+{{- keyList[wordIndex] -}}: 
+{% endfor %}
 {{ keyList | jsonify }}
 {{ valList | jsonify }}
