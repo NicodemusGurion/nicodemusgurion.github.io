@@ -10,9 +10,9 @@ permalink: /database.json
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
 {%    unless wordList contains word  %}
-{%       assign wordList = wordList | append: " " | append: word  %}
-{{- wordList -}}
+{%       assign wordList = wordList | append: "[" | append: word | append: "] " %}
 {%     else %}
 {%     endunless %}
 {%   endfor %}
 {% endfor %}
+{{- wordList -}}
