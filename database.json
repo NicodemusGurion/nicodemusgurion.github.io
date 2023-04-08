@@ -39,7 +39,7 @@ permalink: /database.json
 {{       thisUrlCount }}{% unless forloop.last %},{% endunless -%}
 {%     endfor %}
 ]{% unless forloop.last %},{% endunless -%}
-{%   endif %}
+{%   endunless %}
 {% endfor %}
 {% endcapture %}
 {{ string_with_newlines | strip_newlines }}
