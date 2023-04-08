@@ -2,7 +2,7 @@
 layout: null
 permalink: /database.json
 ---
-V3
+V4
 {% assign searchdb = {} %}
 
 {% for post in site.posts %}
@@ -22,4 +22,12 @@ V3
   {% endfor %}
 {% endfor %}
 
-{{ searchdb | jsonify }}
+{
+{% for word in searchdb %}
+  "{{ word[0] }}": {
+  {% for post in word[1] %}
+    "{{ post[0] }}": {{ post[1] }}{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+}
