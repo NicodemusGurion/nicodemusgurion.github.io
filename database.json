@@ -23,23 +23,23 @@ permalink: /database.json
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
 {%   assign wordAndList = section | split: "]" %}
-{%   if wordAndList[0] == "" %}
-{%     continue %}
-{%   endif %}
-"{{ wordAndList[0] }}": [
-{%   assign urls = wordAndList[1] | split: "," | sort %}
-{%   assign uniqurls = urls | uniq %}
-{%   for uniqurl in uniqurls %}
-"{{    uniqurl }}": 
-{%     assign thisUrlCount = 0 %}
-{%     for url in urls %}
-{%       if url == uniqurl %}
-{%         assign thisUrlCount = thisUrlCount | plus: 1 %}
-{%       endif %}
+{%   assign sectionWord = wordAndList[0] | trim %}
+{%   unless sectionWord == "" %}
+"{{    sectionWord }}": [
+{%     assign urls = wordAndList[1] | split: "," | sort %}
+{%     assign uniqurls = urls | uniq %}
+{%     for uniqurl in uniqurls %}
+"{{      uniqurl }}": 
+{%       assign thisUrlCount = 0 %}
+{%       for url in urls %}
+{%         if url == uniqurl %}
+{%           assign thisUrlCount = thisUrlCount | plus: 1 %}
+{%         endif %}
+{%       endfor %}
+{{       thisUrlCount }}{% unless forloop.last %},{% endunless -%}
 {%     endfor %}
-{{     thisUrlCount }}{% unless forloop.last %},{% endunless -%}
-{%   endfor %}
 ]{% unless forloop.last %},{% endunless -%}
+{%   endif %}
 {% endfor %}
 {% endcapture %}
 {{ string_with_newlines | strip_newlines }}
