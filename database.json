@@ -13,15 +13,31 @@ permalink: /database.json
 {%       assign pageList = "" | split: "," | push: post.url %}
 {%       assign keyList = keyList | push: word  %}
 {%       assign valList = valList | push: pageList  %}
-{%       else %}
-{%         assign wordindex = keyList | index: word %}
-{%         assign valList[wordIndex] = valList[wordIndex] | push: post.url %}
+{%     else %}
+{%       assign wordindex = keyList | index: word %}
+{%       assign valList[wordIndex] = valList[wordIndex] | push: post.url %}
 {%     endunless %}
 {%   endfor %}
 {% endfor %}
 {% assign wordIndex = 0 %}
 {% for key in keyList %}
 {{- keyList[wordIndex] -}}: 
+{%   assign pageCountNames = "" | split: "," %}
+{%   assign pageCountNumbers = "" | split: "," %}
+{%   for pageUrl in valList %}
+{%     unless pageCountNames contain pageUrl %}
+{%       assign pageCountNames = pageCountNames | push: pageUrl %}
+{%       assign pageCountNumbers = pageCountNumbers | push: 1 %}
+{%     else %}
+{%       assign PCNindex = pageCountNames | index: pageUrl %}
+{%       assign pageCountNumbers[PCNindex] = pageCountNumbers[PCNindex] | plus: 1 %}
+{%     endunless %}
+{%   endfor %}
+{%   assign PCNindex = 0 %}
+{%   for pcn in pageCountNumbers %}
+      {{- pageCountNames[PCNindex] -}}: {{- pageCountNumbers[PCNindex] -}}
+{%     assign PCNindex = PCNindex | plus 1 %}
+{%   endfor %}
 {% assign wordIndex = wordIndex | plus: 1 %}
 {% endfor %}
 {{ keyList | jsonify }}
