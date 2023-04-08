@@ -1,10 +1,14 @@
 ---
 layout: null
 permalink: /database.json
+mydb:
+  word: "Foobar"
+  page: "pageurl"
+  count: 16
 ---
 {{- site.time -}}
+{{- mydb | jsonify -}}
 {% assign searchdb = "" | split: "," %}
-{% assign postdb = "" | split: "," %}
 {% for post in site.posts %}
   {% assign content = post.content | replace: "&nbsp;", " " %}
   {% assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %}
@@ -12,12 +16,5 @@ permalink: /database.json
     {% unless searchdb contains word %}
       {% assign searchdb = searchdb | push: word %}
     {% endunless %}
-    {% assign wordIndex = searchdb | index: word %}
-    {% unless postdb[wordIndex] contains post.url %}
-      {% assign postdb[wordIndex] = postdb[wordIndex] | push: post.url %}
-    {% endunless %}
   {% endfor %}
 {% endfor %}
-{{ postdb | json }}
-{{ searchdb | json }}
-
