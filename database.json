@@ -2,7 +2,20 @@
 layout: null
 permalink: /database.json
 ---
-V6
-{% assign searchdb = {"test": 10} %}
+{{- site.time -}}
+{% assign searchdb = "" | split: "," %}
+{% for post in site.posts %}
+  {% assign content = post.content | replace: "&nbsp;", " " %}
+  {% assign words = content | strip_html | strip_newlines | split: " " %}
+  {% for word in words %}
+    {% unless searchdb contains word %}
+      {% assign searchdb = searchdb | push: word %}
+    {% endunless %}
+    {% assign wordIndex = searchdb | index: word %}
+    {% unless searchdb[wordIndex].posts contains post.url %}
+      {% assign searchdb[wordIndex].posts = searchdb[wordIndex].posts | push: post.url %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+{{ searchdb | json }}
 
-{{ searchdb }}
