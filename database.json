@@ -3,6 +3,6 @@ layout: null
 permalink: /database.json
 ---
 V6
-{% assign searchdb = "test" %}
+{% assign searchdb = {"test": 10} %}
 
 {{ searchdb }}
