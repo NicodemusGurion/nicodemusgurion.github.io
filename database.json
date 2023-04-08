@@ -15,9 +15,30 @@ permalink: /database.json
 {%     else %}
 {%       assign lookForWord = "[" | append: word | append: "]{" %}
 {%       assign splitWordList = wordList | split: lookForWord %}
-{%       assign wordList = splitWordList[0] | append:"€" | append: lookForWord | append: post.url | append: "," | append:"€" | append: splitWordList[1]  %}
+{%       assign wordList = splitWordList[0] | append: lookForWord | append: post.url | append: "," | append: splitWordList[1]  %}
 {%     endunless %}
 {{- wordList -}}
 {%   endfor %}
 {%   break %}
 {% endfor %}
+
+{% assign my_array = "apple,orange,banana,apple,orange,orange" | split:"," %}
+{% assign items = "" | split: "," %}
+{% assign counts = "" | split: "," %}
+
+{% for item in my_array %}
+  {% assign index = items | index: item %}
+  {% if index == nil %}
+    {% assign items = items | push: item %}
+    {% assign counts = counts | push: 1 %}
+  {% else %}
+    {% assign counts[index] = counts[index] | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+{% for i in (0..items.size) %}
+  {% if items[i] != nil %}
+    {{ items[i] }}: {{ counts[i] }}<br>
+  {% endif %}
+{% endfor %}
+
