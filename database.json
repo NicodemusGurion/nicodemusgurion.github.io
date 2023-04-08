@@ -25,18 +25,7 @@ permalink: /database.json
 {%   assign pageCountNames = "" | split: "," %}
 {%   assign pageCountNumbers = "" | split: "," %}
 {%   for pageUrl in valList %}
-{%     unless pageCountNames contain pageUrl %}
-{%       assign pageCountNames = pageCountNames | push: pageUrl %}
-{%       assign pageCountNumbers = pageCountNumbers | push: 1 %}
-{%     else %}
-{%       assign PCNindex = pageCountNames | index: pageUrl %}
-{%       assign pageCountNumbers[PCNindex] = pageCountNumbers[PCNindex] | plus: 1 %}
-{%     endunless %}
-{%   endfor %}
-{%   assign PCNindex = 0 %}
-{%   for pcn in pageCountNumbers %}
-      {{- pageCountNames[PCNindex] -}}: {{- pageCountNumbers[PCNindex] -}}
-{%     assign PCNindex = PCNindex | plus 1 %}
+       {{ pageUrl }}
 {%   endfor %}
 {% assign wordIndex = wordIndex | plus: 1 %}
 {% endfor %}
