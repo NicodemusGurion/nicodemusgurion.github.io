@@ -3,5 +3,23 @@ layout: null
 permalink: /database.json
 ---
 V3
-{% assign searchdb = {'word': {'page1': 5}} %}
+{% assign searchdb = {} %}
+
+{% for post in site.posts %}
+  {% assign words = post.content | strip_html | replace: '&nbsp;', ' ' | split: ' ' %}
+  {% for word in words %}
+    {% unless word contains '<%' or word contains '{{' %}
+      {% assign word = word | replace: ',', '' | replace: '.', '' | downcase %}
+      {% if searchdb[word] == nil %}
+        {% assign searchdb[word] = {} %}
+      {% endif %}
+      {% if searchdb[word][post.url] == nil %}
+        {% assign searchdb[word][post.url] = 1 %}
+      {% else %}
+        {% assign searchdb[word][post.url] = searchdb[word][post.url] | plus: 1 %}
+      {% endif %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+
 {{ searchdb | jsonify }}
