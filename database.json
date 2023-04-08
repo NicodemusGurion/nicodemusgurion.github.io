@@ -2,8 +2,9 @@
 layout: null
 permalink: /database.json
 ---
-{% assign database = {"word": {"page1":5}} %}
+{% assign searchdb = {"word": {"page1":5}} %}
+{{ searchdb | inspect }}
 {% for post in site.posts %}
 {{ post.title }}|{{post.url}}
 {% endfor %} 
-{{ database | inspect }}
+
