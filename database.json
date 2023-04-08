@@ -22,9 +22,9 @@ permalink: /database.json
 {% endfor %}
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
-{%   assign wordAndList = section | split: "]" %}
-{%   assign sectionWord = wordAndList[0] | trim %}
-{%   unless sectionWord == "" %}
+{%   unless section == "" %}
+{%     assign wordAndList = section | split: "]" %}
+{%     assign sectionWord = wordAndList[0] | trim %}
 "{{    sectionWord }}": [
 {%     assign urls = wordAndList[1] | split: "," | sort %}
 {%     assign uniqurls = urls | uniq %}
