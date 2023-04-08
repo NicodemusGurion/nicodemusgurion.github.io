@@ -23,8 +23,8 @@ permalink: /database.json
 {% for key in keyList %}
 {{-  keyList[wordIndex] -}}: 
 {%   assign urlList = valList[wordIndex] %}
-{%   for url in urllist %}
-{{-    url -}}
+{%   for val in valList[wordIndex]  %}
+      - {{- val -}} -
 {%   endfor %}
 {% assign wordIndex = wordIndex | plus: 1 %}
 {% endfor %}
