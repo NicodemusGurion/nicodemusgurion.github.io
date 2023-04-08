@@ -22,11 +22,6 @@ permalink: /database.json
 {% assign wordIndex = 0 %}
 {% for key in keyList %}
 {{- keyList[wordIndex] -}}: 
-{%   assign pageCountNames = "" | split: "," %}
-{%   assign pageCountNumbers = "" | split: "," %}
-{%   for pageUrl in valList %}
-       {{ pageUrl }}
-{%   endfor %}
 {% assign wordIndex = wordIndex | plus: 1 %}
 {% endfor %}
 {{ keyList | jsonify }}
