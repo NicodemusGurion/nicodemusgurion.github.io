@@ -24,5 +24,3 @@ permalink: /database.json
 {{- keyList[wordIndex] -}}: 
 {% assign wordIndex = wordIndex | plus: 1 %}
 {% endfor %}
-{{ keyList | jsonify }}
-{{ valList | jsonify }}
