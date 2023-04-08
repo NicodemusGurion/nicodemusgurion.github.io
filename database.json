@@ -21,6 +21,10 @@ permalink: /database.json
 {% endfor %}
 {% assign wordIndex = 0 %}
 {% for key in keyList %}
-{{- keyList[wordIndex] -}}: 
+{{-  keyList[wordIndex] -}}: 
+{%   assign urlList = valList[wordIndex] %}
+{%   for url in urllist %}
+{{-    url -}}
+{%   endfor %}
 {% assign wordIndex = wordIndex | plus: 1 %}
 {% endfor %}
