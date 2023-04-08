@@ -21,7 +21,9 @@ permalink: /database.json
 {%   break %}
 {% endfor %}
 {{- wordList -}}
-{% assign sections = wordList | split "[" %}
+{% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
+{%   assign wordAndList = section | split: "]" %}
+word: {{ wordAndList[0] }}
 {% endfor %}
 
