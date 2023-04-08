@@ -23,13 +23,5 @@ permalink: /database.json
 {{- wordList -}}
 {% assign sections = wordList | split "[" %}
 {% for section in sections  %}
-{%   assign wordAndList = section | split "]" %}
-"{{ wordAndList[0] }}":
-[
-{%   assign urllist = wordAndList[1] | split "," %}
-{%   for url in urlList  %}
-     {{ url }},
-{%   endfor %}
-]
 {% endfor %}
 
