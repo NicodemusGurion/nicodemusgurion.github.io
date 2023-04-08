@@ -3,6 +3,7 @@ layout: null
 permalink: /database.json
 ---
 {{- site.time -}}
+{% capture string_with_newlines %}
 {% assign wordList = ""  %}
 {% for post in site.posts  %}
 {%   assign content = post.content | replace: "&nbsp;", " "  %}
@@ -19,7 +20,6 @@ permalink: /database.json
 {%   endfor %}
 {%   break %}
 {% endfor %}
-{% capture string_with_newlines %}
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
 {%   assign wordAndList = section | split: "]" %}
