@@ -2,7 +2,7 @@
 layout: null
 permalink: /database.json
 ---
-Foo
+Bar
 
 {% assign word_counts = {"test":{"testing":48}} %}
 {{ word_counts | inspect }}
