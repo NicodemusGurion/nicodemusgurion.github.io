@@ -4,7 +4,6 @@ permalink: /database.json
 ---
 {{- site.time -}}
 {% assign wordList = ""  %}
-{% assign valList = "" %}
 {% for post in site.posts  %}
 {%   assign content = post.content | replace: "&nbsp;", " "  %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
@@ -20,7 +19,7 @@ permalink: /database.json
 {%   endfor %}
 {%   break %}
 {% endfor %}
-{{- wordList -}}
+{% capture string_with_newlines %}
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
 {%   assign wordAndList = section | split: "]" %}
@@ -42,4 +41,6 @@ permalink: /database.json
 {%   endfor %}
 ]{% unless forloop.last %},{% endunless -%}
 {% endfor %}
+{% endcapture %}
+{{ string_with_newlines | strip_newlines }}
 
