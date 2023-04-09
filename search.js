@@ -49,5 +49,6 @@ function searchForArticles(query)
       }
     }
     outputText += "</ul>"
+    $("#searchResults").html(outputText)
   }
 }
