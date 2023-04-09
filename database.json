@@ -4,19 +4,23 @@ permalink: /database.json
 ---
 {% capture string_with_newlines %}
 {% assign wordList = ""  %}
+{% assign skipWordList = "|the|be|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|"  %}     
 {% for post in site.posts  %}
 {%   assign content = post.title | append: " " | append: post.content %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
-{%     assign wordKey = "[" | append: word | append: "]" %}
-{%     unless wordList contains wordKey  %}
-{%       assign post_id = post.title | append: "|" | append: post.url %}
-{%       assign wordList = wordList | append: "[" | append: word | append: "]" | append: post_id %}
-{%     else %}
-{%       assign lookForWord = "[" | append: word | append: "]" %}
-{%       assign splitWordList = wordList | split: lookForWord %}
-{%       assign post_id = post.title | append: "|" | append: post.url %}
-{%       assign wordList = splitWordList[0] | append: lookForWord | append: post_id | append: "," | append: splitWordList[1]  %}
+{%     assign invalidWordCheck = "|" | append: word | append: "|"   %}
+{%     unless skipWordList contains invalidWordCheck %}
+{%       assign wordKey = "[" | append: word | append: "]" %}
+{%       unless wordList contains wordKey  %}
+{%         assign post_id = post.title | append: "|" | append: post.url %}
+{%         assign wordList = wordList | append: "[" | append: word | append: "]" | append: post_id %}
+{%       else %}
+{%         assign lookForWord = "[" | append: word | append: "]" %}
+{%         assign splitWordList = wordList | split: lookForWord %}
+{%         assign post_id = post.title | append: "|" | append: post.url %}
+{%         assign wordList = splitWordList[0] | append: lookForWord | append: post_id | append: "," | append: splitWordList[1]  %}
+{%       endunless %}
 {%     endunless %}
 {%   endfor %}
 {% endfor %}
