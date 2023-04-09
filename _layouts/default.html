@@ -25,9 +25,10 @@
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
+    <script src="https://code.jquery.com/jquery-3.6.4.slim.min.js" integrity="sha256-a2yjHM4jnF9f54xUQakjZGaqYs/V1CYvWpoqZzC2/Bw=" crossorigin="anonymous"></script>
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
     <script>
+      /* Convert scripture references to links */
 		window.onload = function() {
 			var text = document.getElementById("thecontent").innerHTML;
 			var pattern = /([1-3]?[a-zA-Z]{3,}\s+\d{1,3}:[0-9\-\,\s]+)/g; // regular expression pattern to match scripture references
