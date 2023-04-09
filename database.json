@@ -4,7 +4,7 @@ permalink: /database.json
 ---
 {% capture string_with_newlines %}
 {% assign wordList = ""  %}
-{% assign skipWordList = "|the|be|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|"  %}     
+{% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|"  %}     
 {% for post in site.posts  %}
 {%   assign content = post.title | append: " " | append: post.content %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
