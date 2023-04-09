@@ -15,37 +15,37 @@
 })(document);
 
 
-var SearchDatabase //undefined 
+var SearchDatabase; //undefined 
 
 // this function is called when the user taps the search bar to lazy-load the search database
 function loadDatabase()
 {
   if SearchDatabase == undefined
   {
-    $("searchMessage").html("Loading database...")
+    $("searchMessage").html("Loading database...");
     $.getJSON("/database.json", function(json) {
       SearchDatabase = json;
-$("searchMessage").html("Database loaded.")
+$("searchMessage").html("Database loaded.");
     });
   }
 }
 
 function searchForArticles()
 {
-  var query = $("#searchQuery").value()
-$("searchMessage").html("Searching for " + query)
+  var query = $("#searchQuery").value();
+$("searchMessage").html("Searching for " + query);
   if SearchDatabase == undefined
   {
-    $("#searchMessage").html("Database not loaded.")
-    loadDatabase()
+    $("#searchMessage").html("Database not loaded.");
+    loadDatabase();
   }
   else
   {
     // prep output
-    var resultList = {}
-    var outputText = "<ul>"
+    var resultList = {};
+    var outputText = "<ul>";
     //split query into words 
-    var searchWords = query.split(" ")
+    var searchWords = query.split(" ");
     //check each search word 
     for (searchWord in searchWords)
     {
@@ -64,13 +64,13 @@ $("searchMessage").html("Searching for " + query)
         resultArray.sort((a, b) => b.value - a.value);
         for (resultRow in resultArray)
         {
-          var titleAndUrl = resultRow.key.split("|")
-          outputText += "<ul><a href=\"" + titleAndUrl[1] + "\">" +titleAndUrl[0] + "</a></li>"
+          var titleAndUrl = resultRow.key.split("|");
+          outputText += "<ul><a href=\"" + titleAndUrl[1] + "\">" +titleAndUrl[0] + "</a></li>";
         }
       }
     }
-    outputText += "</ul>"
-    $("#searchResults").html(outputText)
-    $("searchMessage").html("Search finished.")
+    outputText += "</ul>";
+    $("#searchResults").html(outputText);
+    $("searchMessage").html("Search finished.");
   }
 }
