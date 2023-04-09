@@ -38,6 +38,11 @@ function searchForArticles(query)
             }
           }
         }
+        var resultArray = Object.keys(resultList).map(key => ({ key, value: resultList[key] }));
+        resultArray.sort((a, b) => b.value - a.value);
+        for (resultRow in resultArray)
+        {
+        }
       }
     }
   }
