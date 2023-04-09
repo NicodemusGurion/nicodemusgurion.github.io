@@ -22,8 +22,10 @@ function loadDatabase()
 {
   if SearchDatabase == undefined
   {
+    $("searchMessage").html("Loading database...")
     $.getJSON("/database.json", function(json) {
       SearchDatabase = json;
+$("searchMessage").html("Database loaded.")
     });
   }
 }
@@ -31,9 +33,10 @@ function loadDatabase()
 function searchForArticles()
 {
   var query = $("#searchQuery").value()
+$("searchMessage").html("Searching for " + query)
   if SearchDatabase == undefined
   {
-    $("#searchResults").html("Database not loaded.")
+    $("#searchMessage").html("Database not loaded.")
     loadDatabase()
   }
   else
@@ -68,5 +71,6 @@ function searchForArticles()
     }
     outputText += "</ul>"
     $("#searchResults").html(outputText)
+    $("searchMessage").html("Search finished.")
   }
 }
