@@ -33,7 +33,7 @@ $("searchMessage").html("Database loaded.");
 function searchForArticles()
 {
   var query = $("#searchQuery").value();
-$("searchMessage").html("Searching for " + query);
+  $("#searchMessage").html("Searching for " + query);
   if SearchDatabase == undefined
   {
     $("#searchMessage").html("Database not loaded.");
