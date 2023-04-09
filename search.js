@@ -22,6 +22,7 @@ function searchForArticles(query)
   {
     // prep output
     var resultList = {}
+    var outputText = "<ul>"
     //split query into words 
     var searchWords = query.split(" ")
     //check each search word 
@@ -42,8 +43,11 @@ function searchForArticles(query)
         resultArray.sort((a, b) => b.value - a.value);
         for (resultRow in resultArray)
         {
+          var titleAndUrl = resultRow.key.split("|")
+          outputText += "<ul><a href=\"" + titleAndUrl[1] + "\">" +titleAndUrl[0] + "</a></li>"
         }
       }
     }
+    outputText += "</ul>"
   }
 }
