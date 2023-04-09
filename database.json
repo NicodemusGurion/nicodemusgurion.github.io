@@ -2,7 +2,6 @@
 layout: null
 permalink: /database.json
 ---
-{{- site.time -}}
 {% capture string_with_newlines %}
 {% assign wordList = ""  %}
 {% for post in site.posts  %}
@@ -43,6 +42,4 @@ permalink: /database.json
 {%   endunless %}
 {% endfor %}
 {% endcapture %}
-{
-{{ string_with_newlines | strip_newlines | strip }}
-}
+{ {{ string_with_newlines | strip_newlines | strip }} }
