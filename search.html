@@ -2,3 +2,8 @@
 layout: default
 page: search
 ---
+<form>
+<input type=text name=query onfocus="loadDatabase();" >
+<button onclick="searchForArticles()" value="Search" />
+</form>
+<div id = "searchResults"></div>
