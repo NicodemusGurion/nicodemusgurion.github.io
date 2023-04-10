@@ -8,4 +8,8 @@ The Bible is clear that while Jesus was begotten of God by Holy Spirit, Joseph, 
 
 > Matthew 1:24-25 When Joseph woke from sleep, he did as the angel of the Lord commanded him: he took his wife, 25 but knew her not until she had given birth to a son. And he called his name Jesus.
 
+Joseph was Jesus' step father.
+
+> Matthew 1:16 and Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called Christ.
+
 > Luke 3:23  Jesus, when he began his ministry, was about thirty years of age, being the son (as was supposed) of Joseph, the son of Heli,
