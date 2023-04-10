@@ -2,11 +2,11 @@
 tags: [Contradictions, Gospel accounts, Apologetics]
 ---
 
-They provide details that tell us more exactly what happened.
+No. They provide supplementary details that tell us more exactly what happened.
 
 > Matthew 27:5 And throwing down the pieces of silver into the temple, he [Judas] departed, and he went and hanged himself.
 
-This happened on a before a sabbath . His body would be hanging for at least 24 hours because no one would do the work of cutting down his body during the Sabbath.
+This happened on a before a sabbath. His body would be hanging for at least 24 hours because no one would do the work of cutting down his body during the Sabbath.
 
 > Acts 1:18,19 (Now this man acquired a field with the reward of his wickedness, and falling headlong he burst open in the middle and all his bowels gushed out. 19 And it became known to all the inhabitants of Jerusalem, so that the field was called in their own language Akeldama, that is, Field of Blood.)
 
