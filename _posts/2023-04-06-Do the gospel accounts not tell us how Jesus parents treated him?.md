@@ -1,5 +1,6 @@
 ---
 tags: [Contradictions, Gospel accounts, Apologetics]
+---
 
 Joseph took care of and protected his family
 
