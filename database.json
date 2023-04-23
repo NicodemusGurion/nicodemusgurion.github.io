@@ -6,9 +6,9 @@ permalink: /database.json
 {% assign wordList = ""  %}
 {% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|"  %}     
 {% assign postCounter = 0 %}
-{ "postlist": [
+"postlist": [
 {% for post in site.posts  %}
-  { "title": {{ post.title | jsonify }}, "url": {{ post.url | jsonify }} }{% unless forloop.last %},{% endunless -%}
+{ "title": {{ post.title | jsonify }}, "url": {{ post.url | jsonify }} }{% unless forloop.last %},{% endunless -%}
 {%   assign content = post.title | append: " " | append: post.content %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
@@ -29,7 +29,7 @@ permalink: /database.json
 {% assign postCounter = postCounter | plus: 1 %}
 {% endfor %}
 ],
-"searchdata":
+"searchdata": {
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
 {%   unless section == "" %}
