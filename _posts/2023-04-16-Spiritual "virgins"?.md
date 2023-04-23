@@ -1,7 +1,7 @@
 ---
 Tags: [Jehovah's Witnesses, Watchtower]
 ---
-What does it mean to be a virgin? Traditionally, being a virgin means being someone who has never had any sexual intercourse. In the book of Revelation it talks about a group of144.000 which Jehovah's witnesses believe are the only humans who are "anointed" and go to heaven when they die. The Governing Body of the Watchtower, the leaders of Jehovah's witnesses, are said to be part of this group. However Revelation teaches that these 144.000 are "virgins". The Watchtower interprets this as that the 144.000 of Revelation are "spiritual virgins" meaning they have never partaken in false worship.
+What does it mean to be a virgin? Traditionally, being a virgin means being someone who has never had any sexual intercourse. In the book of Revelation it talks about a group of 144.000 which Jehovah's witnesses believe are the only humans who are "anointed" and go to heaven when they die. The Governing Body of the Watchtower, the leaders of Jehovah's witnesses, are said to be part of this group. However Revelation teaches that these 144.000 are "virgins". The Watchtower interprets this as that the 144.000 of Revelation are "spiritual virgins" meaning they have never partaken in false worship.
 
 > **144,000 ‘not defiled with women.’** In Revelation 14:1-4, the 144,000 described as standing with the Lamb on Mount Zion are said to have been “bought from the earth. These are the ones that did not defile themselves with women; in fact, they are virgins.” ... **The “women” therefore must be symbolic women, doubtless religious organizations such as Babylon the Great and her ‘daughters,’ false religious organizations, the joining of and participation in which would prevent one from being spotless**.
 
