@@ -33,13 +33,14 @@ var SearchDatabase;
   {
     if (SearchDatabase === undefined)
     {
-	  document.querySelector("#searchResults").innerHTML = "Database not loaded.";
-	  return;
+      loadDatabase();
+   	  return;
     }
     var queryWords = query.toLowerCase().trim().split(" ");
     if (query.trim().length == "")
     {
-    	document.querySelector("#searchResults").innerHTML = "No results.";
+    	document.querySelector("#searchResults").innerHTML = "";
+      document.querySelector("#searchResults").style = "display:none;";
     	return;
     }
     var foundMatches = {};
@@ -74,6 +75,7 @@ var SearchDatabase;
 	if (Object.keys(foundMatches).length === 0)
     {
     	document.querySelector("#searchResults").innerHTML = "No results.";
+      document.querySelector("#searchResults").style = "display:block;";
     	return;
     }
     const fm_arr = Object.entries(foundMatches);
@@ -84,4 +86,6 @@ var SearchDatabase;
     }
     output += "</ul>";
     document.querySelector("#searchResults").innerHTML = output;
+    document.querySelector("#searchResults").style = "display:block;";
+
   }
