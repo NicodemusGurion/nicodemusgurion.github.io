@@ -30,7 +30,7 @@
     <script>
       /* Convert scripture references to links */
 		window.onload = function() {
-			var text = document.getElementById("thecontent").innerHTML;
+			var text = document.getElementById("maincontent").innerHTML;
 			var pattern = /([1-3]?[a-zA-Z]{3,}\s+\d{1,3}:[0-9\-\,\s\;]+)/g; // regular expression pattern to match scripture references
 			var replacedText = text.replace(pattern, '<a href="https://www.biblegateway.com/passage/?search=$1&version=ESV" target="_blank">$1</a>'); // replace matched references with links to Biblehub.com
 			document.getElementById("thecontent").innerHTML = replacedText;
