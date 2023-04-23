@@ -8,7 +8,7 @@ permalink: /database.json
 {% assign postCounter = 0 %}
 "postlist": [
 {% for post in site.posts  %}
-{ "title": {{ post.title | jsonify }}, "url": {{ post.url | jsonify }} }{% unless forloop.last %},{% endunless -%}
+{"title": {{ post.title | jsonify }}, "url": {{ post.url | jsonify }}}{% unless forloop.last %},{% endunless -%}
 {%   assign content = post.title | append: " " | append: post.content %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
@@ -53,4 +53,4 @@ permalink: /database.json
 {% endfor %}
 }
 {% endcapture %}
-{ {{ string_with_newlines | strip_newlines | strip }} }
+{{{ string_with_newlines | strip_newlines | strip }}}
