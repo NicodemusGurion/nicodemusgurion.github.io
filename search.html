@@ -8,7 +8,7 @@ title: Search
 <div id = "searchMessage">message</div>
 <div id = "searchResults">results</div>
 <script>
-  fetch("database.json")
+  fetch("/database.json")
   //.then(response => response.json())
   .then(data => {
     console.log(data)
