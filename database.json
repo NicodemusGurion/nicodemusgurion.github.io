@@ -6,7 +6,6 @@ permalink: /database.json
 {% assign wordList = ""  %}
 {% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|"  %}     
 {% assign postCounter = 0 %}
-{% assign postList = "" | split "," %}
 { "postlist": [
 {% for post in site.posts  %}
   { "title": {{ post.title | jsonify }}, "url": {{ post.url | jsonify }} }{% unless forloop.last %},{% endunless -%}
