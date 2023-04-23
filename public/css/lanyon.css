@@ -2,13 +2,13 @@
 {
   display:none;
     /* Center the div */
-  margin: 0 auto;
+  /*margin: 0 auto;*/
   /* Set the width of the div */
-  width: 80%;
+  /*width: 80%;*/
   /* Add a dark gray border */
   border: 1px solid #333;
   /* Add some padding inside the div */
-  padding: 20px;
+  /*padding: 20px;*/
   /* Add a background color */
   background-color: #f7f7f7;
 }
