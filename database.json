@@ -5,6 +5,7 @@ permalink: /database.json
 {% capture string_with_newlines %}
 {% assign wordList = ""  %}
 {% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|"  %}     
+{% assign postCounter = 0 %}
 {% for post in site.posts  %}
 {%   assign content = post.title | append: " " | append: post.content %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
@@ -23,13 +24,14 @@ permalink: /database.json
 {%       endunless %}
 {%     endunless %}
 {%   endfor %}
+{% assign postCounter = postCounter | plus 1 %}
 {% endfor %}
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
 {%   unless section == "" %}
 {%     assign wordAndList = section | split: "]" %}
 {%     assign sectionWord = wordAndList[0] | strip %}
-{{    sectionWord | jsonify }}: [
+{{    sectionWord | jsonify }}: {
 {%     assign urls = wordAndList[1] | split: "," | sort %}
 {%     assign uniqurls = urls | uniq %}
 {%     for uniqurl in uniqurls %}
@@ -42,7 +44,7 @@ permalink: /database.json
 {%       endfor %}
 {{       thisUrlCount }}{% unless forloop.last %},{% endunless -%}
 {%     endfor %}
-]{% unless forloop.last %},{% endunless -%}
+}{% unless forloop.last %},{% endunless -%}
 {%   endunless %}
 {% endfor %}
 {% endcapture %}
