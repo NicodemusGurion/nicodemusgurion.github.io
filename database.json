@@ -6,7 +6,10 @@ permalink: /database.json
 {% assign wordList = ""  %}
 {% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|"  %}     
 {% assign postCounter = 0 %}
+{% assign postList = "" | split "," %}
+{ "postlist": [
 {% for post in site.posts  %}
+  { "title": {{ post.title | jsonify }}, "url": {{ post.url | jsonify }} }{% unless forloop.last %},{% endunless -%}
 {%   assign content = post.title | append: " " | append: post.content %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
@@ -15,17 +18,19 @@ permalink: /database.json
 {%       assign wordKey = "[" | append: word | append: "]" %}
 {%       unless wordList contains wordKey  %}
 {%         assign post_id = post.title | append: "|" | append: post.url %}
-{%         assign wordList = wordList | append: "[" | append: word | append: "]" | append: post_id %}
+{%         assign wordList = wordList | append: "[" | append: word | append: "]" | append: postCounter %}
 {%       else %}
 {%         assign lookForWord = "[" | append: word | append: "]" %}
 {%         assign splitWordList = wordList | split: lookForWord %}
 {%         assign post_id = post.title | append: "|" | append: post.url %}
-{%         assign wordList = splitWordList[0] | append: lookForWord | append: post_id | append: "," | append: splitWordList[1]  %}
+{%         assign wordList = splitWordList[0] | append: lookForWord | append: postCounter | append: "," | append: splitWordList[1]  %}
 {%       endunless %}
 {%     endunless %}
 {%   endfor %}
-{% assign postCounter = postCounter | plus 1 %}
+{% assign postCounter = postCounter | plus: 1 %}
 {% endfor %}
+],
+"searchdata":
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
 {%   unless section == "" %}
@@ -47,5 +52,6 @@ permalink: /database.json
 }{% unless forloop.last %},{% endunless -%}
 {%   endunless %}
 {% endfor %}
+}
 {% endcapture %}
 { {{ string_with_newlines | strip_newlines | strip }} }
