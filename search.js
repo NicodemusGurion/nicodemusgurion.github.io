@@ -1,4 +1,4 @@
-var SearchDatabase //undefined 
+/* var SearchDatabase //undefined 
 
 // this function is called when the user taps the search bar to lazy-load the search database
 function loadDatabase()
@@ -51,4 +51,4 @@ function searchForArticles(query)
     outputText += "</ul>"
     $("#searchResults").html(outputText)
   }
-}
+}*/
