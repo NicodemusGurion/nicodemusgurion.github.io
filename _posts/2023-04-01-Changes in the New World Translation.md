@@ -146,9 +146,12 @@ The words translated "from house to house" here are the Greek words κατ’ ο
 
 ### Addition
 
-![Acts 20:28 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1151-272x300.jpg)]
+![Acts 20:28 Kingdom Interlinear Translation](https://i.ibb.co/JBSk6YB/acts2028.jpg)  
+*Acts 20:28 Kingdom Interlinear Translation*
 
-If you look at this scripture in the original Greek, there is no indication that the word “Son” should be found anywhere here:   The Greek word ἰδίου (idíou) means “self”. So this last part is properly translated as: “Shepherd the congregation of God, which He purchased through the blood of **himself**” (or “through **his own blood**”). So God is said to have bought us with **his own** blood. But what does that mean? Whose blood was spilled to buy us from the world? Of course it is Jesus’ blood who bought us. Hence the only exegetical conclusion of this scripture is that Jesus is God. This is of course unacceptable to Arians such as Jehovah’s witnesses, so the Watchtower just goes ahead and inserts words which completely change the meaning of this passage to match up with their own teachings.
+If you look at this scripture in the original Greek, there is no indication that the word “Son” should be found anywhere here:   The Greek word ἰδίου (idíou) means “self”. So this last part is properly translated as: “Shepherd the congregation of God, which He purchased through the blood of **himself**” (or “through **his own blood**”). So God is said to have bought us with **his own** blood. 
+
+But what does that mean? Whose blood was spilled to buy us from the world? Of course it is Jesus’ blood who bought us. Hence the only exegetical conclusion of this scripture is that Jesus is God. This is of course unacceptable to Arians such as Jehovah’s witnesses, so the Watchtower just goes ahead and inserts words which completely change the meaning of this passage to match up with their own teachings.
 
 ## Romans 8:1
 
@@ -156,13 +159,15 @@ If you look at this scripture in the original Greek, there is no indication that
 
 ### Removal
 
-![Romans 8:1 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1152-300x66.jpg)]
+![Romans 8:1 Kingdom Interlinear Translation](https://i.ibb.co/f2ck7b1/Rom81.jpg)  
+*Romans 8:1 Kingdom Interlinear Translation*
 
 The Greek and other translation has the word “now” in the text: “There is therefore **now** no condemnation to them that are in Christ Jesus.”   This is probably removed to hide the fact that salvation by faith in Jesus is an instant thing, and not something that is postponed until after Armageddon, the millennial reign and the final test. The moment you put faith in Jesus you are instantly saved for all eternity. Christians can enjoy their salvation in Christ immediately, but the Watchtower wants to hide this in order to coerce the Witnesses to keep striving after a carrot they may never reach.
 
 ## Romans 8:23
 
-![Romans 8:23 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/05/IMG_3025-2-277x300.jpg)]
+![Romans 8:23 Kingdom Interlinear Translation](https://i.ibb.co/jgrd4wV/rom823.jpg)  
+*Romans 8:23 Kingdom Interlinear Translation*
 
 > Not only that, but we ourselves also who have the firstfruits, namely, the spirit, yes, we ourselves groan within ourselves while we are earnestly waiting for adoption as sons, **the release from our bodies by ransom**.
 
@@ -172,11 +177,14 @@ If we have a look at the greek, what the bold section actually says is "awaiting
 
 ## Romans 8:27
 
+![Romans 8:27 Kingdom Interlinear Translation]([url=https://ibb.co/1rdkF5b][img]https://i.ibb.co/jyWSn2H/rom827.jpg[/img][/url])  
+*Romans 8:27 Kingdom Interlinear Translation*
+
 > But the one who searches the hearts knows what the **meaning** of the spirit is, because it is pleading in harmony with God for the holy ones.
 
 ### Change
 
-In this verse which talks about the Holy Spirit, the Greek says φρόνημα (_phronēma_) which means "what one has in the mind, the thoughts and purposes", meaning "the mind" or "the thoughts" or "the thinking". ![](https://thyreon.com/wp-content/uploads/2022/11/347C22AF-AC1C-4971-A72E-492F881CA293-300x283.jpeg) But the Watchtower has changed this to "meaning". This is to hide the fact that the Holy Spirit is a person who has a mind and thoughts.
+In this verse which talks about the Holy Spirit, the Greek says φρόνημα (_phronēma_) which means "what one has in the mind, the thoughts and purposes", meaning "the mind" or "the thoughts" or "the thinking".  But the Watchtower has changed this to "meaning". This is to hide the fact that the Holy Spirit is a person who has a mind and thoughts.
 
 ## Romans 9:5
 
@@ -184,7 +192,7 @@ In this verse which talks about the Holy Spirit, the Greek says φρόνημα (
 
 ### Change
 
-![Romans 9:5 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1153-300x276.jpg)
+![Romans 9:5 Kingdom Interlinear Translation](https://i.ibb.co/kB8Nnn0/rom95.jpg)
 
 The Greek wording inthis verse goes "of-whom the fathers and out-of whom the Christ the-thing according-to flesh the-one being upon all-things God blessed-one into the ages amen". So in this passage it is clear that it is talking about only one person, Christ, who is described as being above all things, and being God, is blessed forever. This clearly and straightforwardly calls Christ “God”. But the Watchtower changes the text in three important ways here: 1) They put a full stop in the middle of this sentence and divides it into two different sentences. They do this because this scripture clearly affirms the deity of Christ, and their doctrine denies it, so they allow their own doctrine to contradict the Bible. This makes the second sentence introduce another person to make an awkward and abrupt appearance where he doesn’t belong. The natural flow of the Greek is interrupted by a change of topic and an out-of-context exhortation to praise God. This is emphasized by #2: 2) They switch the order of the words and put “who is over all” **after** “God”, when it is supposed to be **after Christ**. “Who is over all” is a description of Christ in this sentence. And who is “over all” except God? This is unacceptable to their doctrines so they change the Bible. 3) They add “be” before blessed. This turns the meaning from a description into a exhortation. The Greek is describing Christ as being “God who is blessed”. The NWT instead turns this into a **command** to praise God. Had it just been a case of punctuation then it could be debatable, but they have done at least **three** different changes in order to twist this scripture to make it say what they want: to deny the deity of Christ.
 
