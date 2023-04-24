@@ -1,6 +1,6 @@
 ---
 title: "The word 'Trinity' is not in the Bible"
-tags: [Trinity, Apologetics, Lists, Criticism]
+tags: [Jehovah's witnesses, Trinity, Apologetics, Lists, Criticism]
 thumb: https://i.ibb.co/Hps0Cr5/Trinity-shield.png
 ---
 <span class="infobox"> ![](https://i.ibb.co/LhWMrCV/Trinity-shield.png) </span>
