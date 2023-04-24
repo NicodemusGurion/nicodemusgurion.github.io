@@ -85,7 +85,7 @@ var SearchDatabase;
     output += "</ul>";
     if (suggestWords)
     {
-    	output = "<span onclick=\"document.querySelector('#searchQuery').value = '" + suggestedWords.trim() + " ';document.querySelector('#searchQuery').focus()\"><u>" + suggestedWords.trim() + "</u></span><br><hr><br>" + output;
+    	output = "<span onclick=\"document.querySelector('#searchQuery').value = '" + suggestedWords.trim() + " ';document.querySelector('#searchQuery').focus()\"><u>" + suggestedWords.trim() + "</u></span>" + output;
     }
     document.querySelector("#searchResults").innerHTML = output;
     document.querySelector("#searchResults").style.display ="block";
