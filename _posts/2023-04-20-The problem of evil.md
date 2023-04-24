@@ -2,11 +2,11 @@
 Title: The Epicurean problem of evil
 Tags: [Criticism, Philosophy, Evil, Suffering, Apologetics]
 ---
-<span style="caret-color: #54595d; color: #54595d; font-family: -apple-system, BlinkMacSystemFont,;">The earliest statement of the problem of evil is attributed to the</span> Greek philosopher <span style="caret-color: #54595d; color: #54595d; font-family: -apple-system, BlinkMacSystemFont,;">[Epicurus](https://en.wikipedia.org/wiki/Epicurus)</span><span style="caret-color: #54595d; color: #54595d; font-family: -apple-system, BlinkMacSystemFont,;">. It is frequently used as an</span> argument <span style="caret-color: #54595d; color: #54595d; font-family: -apple-system, BlinkMacSystemFont,;">against God as defined by the</span> Bible<span style="caret-color: #54595d; color: #54595d; font-family: -apple-system, BlinkMacSystemFont,;">.</span> <span style="caret-color: #202122; color: #202122; font-family: -apple-system, BlinkMacSystemFont,;">Epicurus's version of the problem is commonly</span> summarized <span style="caret-color: #202122; color: #202122; font-family: -apple-system, BlinkMacSystemFont,;">as follows:</span>
+The earliest statement of the problem of evil is attributed to the Greek philosopher [Epicurus](https://en.wikipedia.org/wiki/Epicurus). It is frequently used as an argument against God as defined by the Bible. Epicurus's version of the problem is commonly summarized as follows:
 
-> <span style="caret-color: #202122; color: #202122; font-family: -apple-system, BlinkMacSystemFont,;">"Is God willing to prevent evil, but not able? Then he is not omnipotent. Is he able, but not willing? Then he is malevolent. Is he both able and willing? Then from whence comes evil?"</span>
+> "Is God willing to prevent evil, but not able? Then he is not omnipotent. Is he able, but not willing? Then he is malevolent. Is he both able and willing? Then from whence comes evil?"
 
-<span style="caret-color: #202122; color: #202122; font-family: -apple-system, BlinkMacSystemFont,;">A more structured and detailed version</span> could <span style="caret-color: #202122; color: #202122; font-family: -apple-system, BlinkMacSystemFont,;">be written like:</span>
+A more structured and detailed version could be written like:
 
 *   P1\. If there exists an omnipotent, omnibenevolent and omniscient God, then no evil exists.
     *   P1a. God exists.
