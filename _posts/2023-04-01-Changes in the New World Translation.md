@@ -84,7 +84,7 @@ The part translated "Jehovah examines the motives" is actually "Jehovah examines
 
 ### Removal
 
-![John 13:32 Kingdom Interlinear Translation](https://i.ibb.co/JBdPk0f/john1332.jpg)  
+![](https://i.ibb.co/JBdPk0f/john1332.jpg)  
 *John 13:32 Kingdom Interlinear Translation.*
 
 The Greek and other translations say: “God will glorify him [Jesus] **in himself**”.   The NWT probably removes this because that Jesus is glorified **in** God strongly hints at the triune nature of God.
@@ -95,7 +95,7 @@ The Greek and other translations say: “God will glorify him [Jesus] **in himse
 
 ### Removal
 
-![John 14:14 Kingdom Interlinear Translation](https://i.ibb.co/yX2WnDL/john1414.jpg)  
+![](https://i.ibb.co/yX2WnDL/john1414.jpg)  
 *John 14:14 Kingdom Interlinear Translation*
 
 The Greek text, the Vulgate and many English translations (NLT, CSB, NIV, ESV, NET, NASB, BBE) include the word “me” between “ask” and “anything”. Jesus is telling his followers that “if you ask **me** anything in my name, I will do it.” Jesus is straight out telling us that it is appropriate to address **him** in prayer. The Watchtower removes this because they have a faulty view of Jesus’ deity. The verse proves Jesus’ omniscience and omnipotence, that he can hear any prayer and do anything. These are attributes only God possesses. The truth revealed in this scripture is that Jesus is God and it is entirely appropriate to ask him things in prayer.
@@ -106,7 +106,7 @@ The Greek text, the Vulgate and many English translations (NLT, CSB, NIV, ESV, N
 
 ### Change/Strange Word Choice
 
-![John 16:8 Kingdom Interlinear Translation](https://i.ibb.co/qC6JFtL/john168.jpg)  
+![](https://i.ibb.co/qC6JFtL/john168.jpg)  
 *John 16:8 Kingdom Interlinear Translation*
 
 In this verse the Greek says "that (one) will reprove the world".   It is quite clear that the Holy Spirit (that one) will reprove the world. The world is the object of the sentence, the one who receives the reproof. The Holy Spirit like a lawyer acting as an accuser in court, and the world is the accused one. 
@@ -119,7 +119,7 @@ But “he will give the world convincing evidence concerning sin” means that t
 
 ### Change/biased translation
 
-<span class="floatright"> ![John 16:27,28 Kingdom Interlinear Translation](https://i.ibb.co/drcfRWJ/john16728.jpg)  
+<span class="infobox"> ![](https://i.ibb.co/drcfRWJ/john16728.jpg)  
 *John 16:27,28 Kingdom Interlinear Translation* </span>
 
 The Greek word translated here as as “representative” is ἐξῆλθον (exelthon).   This word has absolutely nothing to do with representation or representatives. Exelthon simply means “come out”. In the New World Translation it is consistently translated “come out” everywhere except in this passage: The disciples came out of the city, Paul **came out** **of** Macedonia, smoke and locusts **came out of** the pit. It is always the action of something **coming out of** one location into another. So what Jesus is really saying is that he **came out of** the Father. This means that before he came to earth he was somehow **in** the Father. This matches perfectly with the Trinity doctrine which teaches that the Father and Son share the same substance. Although Jesus did represent God on earth, this word **does not** mean “representative”. It is a blatant change or at best a very far-fetched and fanciful biased word choice. The Watchtower change this to support their [Arian teachings.](https://en.wikipedia.org/wiki/Arianism)
@@ -146,8 +146,8 @@ The words translated "from house to house" here are the Greek words κατ’ ο
 
 ### Addition
 
-![Acts 20:28 Kingdom Interlinear Translation](https://i.ibb.co/JBSk6YB/acts2028.jpg)  
-*Acts 20:28 Kingdom Interlinear Translation*
+<span class="infobox"> ![](https://i.ibb.co/JBSk6YB/acts2028.jpg)  
+*Acts 20:28 Kingdom Interlinear Translation* </span>
 
 If you look at this scripture in the original Greek, there is no indication that the word “Son” should be found anywhere here:   The Greek word ἰδίου (idíou) means “self”. So this last part is properly translated as: “Shepherd the congregation of God, which He purchased through the blood of **himself**” (or “through **his own blood**”). So God is said to have bought us with **his own** blood. 
 
@@ -159,14 +159,14 @@ But what does that mean? Whose blood was spilled to buy us from the world? Of co
 
 ### Removal
 
-![Romans 8:1 Kingdom Interlinear Translation](https://i.ibb.co/f2ck7b1/Rom81.jpg)  
+![](https://i.ibb.co/f2ck7b1/Rom81.jpg)  
 *Romans 8:1 Kingdom Interlinear Translation*
 
 The Greek and other translation has the word “now” in the text: “There is therefore **now** no condemnation to them that are in Christ Jesus.”   This is probably removed to hide the fact that salvation by faith in Jesus is an instant thing, and not something that is postponed until after Armageddon, the millennial reign and the final test. The moment you put faith in Jesus you are instantly saved for all eternity. Christians can enjoy their salvation in Christ immediately, but the Watchtower wants to hide this in order to coerce the Witnesses to keep striving after a carrot they may never reach.
 
 ## Romans 8:23
 
-![Romans 8:23 Kingdom Interlinear Translation](https://i.ibb.co/jgrd4wV/rom823.jpg)  
+![](https://i.ibb.co/jgrd4wV/rom823.jpg)  
 *Romans 8:23 Kingdom Interlinear Translation*
 
 > Not only that, but we ourselves also who have the firstfruits, namely, the spirit, yes, we ourselves groan within ourselves while we are earnestly waiting for adoption as sons, **the release from our bodies by ransom**.
@@ -177,7 +177,7 @@ If we have a look at the greek, what the bold section actually says is "awaiting
 
 ## Romans 8:27
 
-![Romans 8:27 Kingdom Interlinear Translation]([url=https://ibb.co/1rdkF5b][img]https://i.ibb.co/jyWSn2H/rom827.jpg[/img][/url])  
+![](https://i.ibb.co/jyWSn2H/rom827.jpg)  
 *Romans 8:27 Kingdom Interlinear Translation*
 
 > But the one who searches the hearts knows what the **meaning** of the spirit is, because it is pleading in harmony with God for the holy ones.
@@ -192,7 +192,8 @@ In this verse which talks about the Holy Spirit, the Greek says φρόνημα (
 
 ### Change
 
-![Romans 9:5 Kingdom Interlinear Translation](https://i.ibb.co/kB8Nnn0/rom95.jpg)
+![](https://i.ibb.co/kB8Nnn0/rom95.jpg)
+*Romans 9:5 Kingdom Interlinear Translation*
 
 The Greek wording inthis verse goes "of-whom the fathers and out-of whom the Christ the-thing according-to flesh the-one being upon all-things God blessed-one into the ages amen". So in this passage it is clear that it is talking about only one person, Christ, who is described as being above all things, and being God, is blessed forever. This clearly and straightforwardly calls Christ “God”. But the Watchtower changes the text in three important ways here: 1) They put a full stop in the middle of this sentence and divides it into two different sentences. They do this because this scripture clearly affirms the deity of Christ, and their doctrine denies it, so they allow their own doctrine to contradict the Bible. This makes the second sentence introduce another person to make an awkward and abrupt appearance where he doesn’t belong. The natural flow of the Greek is interrupted by a change of topic and an out-of-context exhortation to praise God. This is emphasized by #2: 2) They switch the order of the words and put “who is over all” **after** “God”, when it is supposed to be **after Christ**. “Who is over all” is a description of Christ in this sentence. And who is “over all” except God? This is unacceptable to their doctrines so they change the Bible. 3) They add “be” before blessed. This turns the meaning from a description into a exhortation. The Greek is describing Christ as being “God who is blessed”. The NWT instead turns this into a **command** to praise God. Had it just been a case of punctuation then it could be debatable, but they have done at least **three** different changes in order to twist this scripture to make it say what they want: to deny the deity of Christ.
 
@@ -206,7 +207,8 @@ Almost all other translation translates the last part as something along the lin
 
 ## 2 Corinthians 5:20
 
-![2 Corinthians 5:20 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1154-300x233.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1154-300x233.jpg)
+*2 Corinthians 5:20 Kingdom Interlinear Translation*
 
 > Therefore, we are ambassadors **substituting** for Christ, as though God were making an appeal through us. As **substitutes** for Christ, we beg: “Become reconciled to God.”
 
@@ -221,11 +223,14 @@ The Watchtower adds the word “substituting” in this verse. If you are an amb
 ### Change
 
 ![](https://thyreon.com/wp-content/uploads/2022/08/1AB16353-512F-4477-9BB1-87526896354D-300x234.jpeg)
+*Galatians 6:18 Kingdom Interlinear Translation*
+
 The Greek in this verse is translated as "the spirit of you". Most translations tended this "your spirit" or similar. Why would the Watchtower change this to "the spirit you show"? Probably because Jehovah's witnesses have a materialistic view of humans, thinking that the soul is the entire person, and the spirit is the physical energy that keeps a body going. It makes no sense to say that the favor of Christ should be with the bioelectrical impulses that keep your body alive. So adding "you show" makes it sound like Paul is talking about their general attitude, "the spirit you show". Scriptures like 1 Thessalonians 5:23 shows that the spirit of a man is one of three parts of what makes up the human being. It is the part that is born when a person is born again. (John 3:3-6) It makes sense that Jesus would show favor to our spirits as being part of our very being. But it makes no sense to Jehovah's Witnesses who does not believe in human spirits, so they have to add words to make it seem like it's talking about attitude.
 
 ## Ephesians 4:8
 
-![2 Corinthians 5:20 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1155-300x139.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1155-300x139.jpg)
+*2 Corinthians 5:20 Kingdom Interlinear Translation*
 
 > For it says: “When he ascended on high he carried away captives; he gave gifts **in** men.”
 
@@ -239,7 +244,8 @@ The original Greek and all other translations says that Jesus gave gifts **to** 
 
 ### Change
 
-![Ephesians 4:9 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1156-300x124.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1156-300x124.jpg)
+*Ephesians 4:9 Kingdom Interlinear Translation*
 
 The Greek for the end of this verse properly translates as“he stepped down into the lower parts **of the** earth”. Most translations render it similarly. Ever since the first century, Christians have interpreted this as Jesus going down into Hades after he died. Early creeds read like the Apostles’ creed mention this:
 
@@ -255,7 +261,8 @@ The Jehovah’s Witnesses teach that humans cease to exist at death. It is a fal
 
 The NWT adds the word “other” five times in this passage. No Greek manuscript and no other translation uses the word “other” here. The word “other” radically changes the meaning here. Without “other” it says “all things were created by [Jesus]”, meaning that Jesus himself is not a creation but the eternal creator himself. By inserting the “other”, it suddenly means that Jesus could himself be included in the category of created things and thus not be the eternal creator. It is inserted to support the Jehovah’s Witness teaching that Jesus is a created being, which is based on the third century heresy called [Arianism](https://en.m.wikipedia.org/wiki/Arianism).
 
-![Colossians 1:15–17, 20 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1157-180x300.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1157-180x300.jpg)
+*Colossians 1:15–17, 20 Kingdom Interlinear Translation*
 
 ## Colossians 1:21,22
 
@@ -265,7 +272,8 @@ The NWT adds the word “other” five times in this passage. No Greek manuscrip
 
 Yet another example of the abuse of prepositions, especially the “in” preposition.The Greek uses “εν” meaning “in”. Replaced this preposition with other prepositions render the meaning totally different. In this passage the correct translation would be “now has he reconciled **in** the body of his flesh through death”, because just like Noah was in the ark for salvation, so we are in a spiritual sense positionally **in** Christ’s body. But the Watchtower on the one hand officially teaches that [Jesus’ body was disintegrated into atoms](https://wol.jw.org/en/wol/d/r1/lp-e/1953641#h=12), and in a spiritual sense only 144.000 Jehovah’s Witnesses are “in” the body of Jesus. So this scripture would indicate either that Jesus was bodily resurrected, which the Watchtower denies. Or it would indicate that all non-anointed Jehovah’s Witnesses are still alienated and enemies of God. The Watchtower changes **in** to **by means of** and thus make his body more akin to a tool or instrument.
 
-![Colossians 1:21,22 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1158-300x233.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1158-300x233.jpg)
+*Colossians 1:21,22 Kingdom Interlinear Translation*
 
 ## Colossians 2:9
 
@@ -277,7 +285,8 @@ The Greek word rendered “divine quality” is θεότητος (Theotetos) whi
 
 ## Colossians 3:23,24
 
-![Colossians 3:23,24 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/05/IMG_3024-232x300.jpg)](https://thyreon.com/wp-content/uploads/2022/05/IMG_3024.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/05/IMG_3024-232x300.jpg)](https://thyreon.com/wp-content/uploads/2022/05/IMG_3024.jpg)  
+*Colossians 3:23,24 Kingdom Interlinear Translation*
 
 > Whatever you are doing, work at it whole-souled as for **Jehovah**, and not for men, for you know that it is from **Jehovah** you will receive the inheritance as a reward. Slave for the **Master**, Christ.
 
@@ -291,7 +300,8 @@ The whole chapter of Colossians 3 is all about Jesus Christ. Christ is explicitl
 
 ### Addition
 
-![1 Timothy 2:3,5 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1159-300x139.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1159-300x139.jpg)
+*1 Timothy 2:3,5 Kingdom Interlinear Translation*
 
 The Watchtower adds the words “sorts of“ in this verse. The originals says that God wants **all people** to be saved. His wish is for everyone to be saved. By adding “sorts of”, the Watchtower makes it sound like God is content with just saving people of each kind, like Noah saving two animals of each kind. Like a butterfly collector who capture one or two of each kind of butterfly to pin onto a bird with a neat label underneath, just as a sampling of what exists in the wild, once God has completed his little hobby project and have samples of each sort of humans — each shade of skin, one of each sex, fat, thin, rich, poor, tall, short, young, old — he will be satisfied. It’s as if God only is interested in checking off the various possible categories of humans rather than having any real concern for humanity. Since the Watchtower preaching campaign has only attracted about one person in a thousand while the biblical Christian gospel has attracted a third of the world’s population, it makes sense to lower God’s expectation from “all” to “a few samples of every category”. If the Jehovah’s witnesses are the true religion then God’s wish that **all people** be saved would be unattainable. It would take hundreds of thousands of years at their current rate to even come close to that goal. This unauthorised change of the Bible text changes a person’s understanding of salvation and their perception of other people. This is the most prominent scripture but the same deceptive translation also occur in:
 
@@ -306,7 +316,8 @@ The Watchtower adds the words “sorts of“ in this verse. The originals says t
 
 ## 1 Timothy 4:1
 
-![1 Timothy 4:1 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/05/IMG_3026-300x276.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/05/IMG_3026-300x276.jpg)
+*1 Timothy 4:1 Kingdom Interlinear Translation*
 
 > However, **the inspired word** clearly says that in later times some will fall away from the faith, paying attention to misleading inspired statements and teachings of demons,
 
@@ -316,7 +327,8 @@ The words "the inspired word" in this verse have been changed. In the Greek it s
 
 ## Hebrews 1:8
 
-![Hebrews 1:8](https://thyreon.com/wp-content/uploads/2022/01/9F540853-3632-4A19-B5DC-23AE5A84FDC7-300x283.jpeg)
+![](https://thyreon.com/wp-content/uploads/2022/01/9F540853-3632-4A19-B5DC-23AE5A84FDC7-300x283.jpeg)
+*Hebrews 1:8 Kingdom Interlinear Translation*
 
 > But about the Son, he says: “**God is your throne** forever and ever, and the scepter of your Kingdom is the scepter of uprightness.
 
@@ -334,7 +346,8 @@ The words in verse 13 that are translated "in the land" in Greek actually means 
 
 ## Revelation 5:10­
 
-![Revelation 5:10 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1162-300x102.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1162-300x102.jpg)
+*Revelation 5:10 Kingdom Interlinear Translation*
 
 > and you made them to be a kingdom and priests to our God, and they are to rule as kings **over** the earth.”
 
@@ -342,11 +355,13 @@ The words in verse 13 that are translated "in the land" in Greek actually means 
 
 The text translates the Greek word ἐπὶ (epi) as “over” when it is a preposition that means “upon”. From the surface of something and upward. This diagram from the first page of the printed edition of the Kingdom Interlinear explains it:
 
-![Diagram explaining Greek prepositions, from the Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1160-300x215.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1160-300x215.jpg)
+*Diagram explaining Greek prepositions, from the Kingdom Interlinear Translation*
 
 The word is translated as “upon” or “on” in other parts of the Bible, for example in Matthew 6:10, which translates the same phrase, “on [the] earth”, as in Revelation 5:10.
 
-![Matthew 6:10 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1161-300x86.jpg)
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1161-300x86.jpg)
+*Matthew 6:10 Kingdom Interlinear Translation*
 
 > Matthew 6:10 — Let your Kingdom come. Let your will take place, as in heaven, also **on earth**.
 
