@@ -13,7 +13,7 @@ This accusation is easily defeated when looking at the context. The text is not 
 
 So we learn an interesting facts. The top part of the Copper Sea was shaped like "the brim of a cup". How are those shaped? 
 
-<span class="infobox"> ![](https://i.ibb.co/cTBrPBj/ancient-cup.jpg)   
+<span class="infobox"> ![](https://i.ibb.co/Jk1sN19/ancient-cup.jpg)   
   **An ancient cup with a jutting brim** </span>
 
 If you look up how ancient Israelite cups were made you can clearly see what is meant. It is very common that the brim juts out. 
