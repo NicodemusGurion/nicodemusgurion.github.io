@@ -84,7 +84,8 @@ The part translated "Jehovah examines the motives" is actually "Jehovah examines
 
 ### Removal
 
-![John 13:32 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1147-300x69.jpg)
+![John 13:32 Kingdom Interlinear Translation](https://i.ibb.co/JBdPk0f/john1332.jpg)  
+*John 13:32 Kingdom Interlinear Translation.*
 
 The Greek and other translations say: “God will glorify him [Jesus] **in himself**”.   The NWT probably removes this because that Jesus is glorified **in** God strongly hints at the triune nature of God.
 
