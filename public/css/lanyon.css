@@ -23,11 +23,11 @@
 .featured-thumbnail{width:75px;height:75px;object-fit:cover;float:left;margin-right:0.5em;}
 .featured-thumbnail-mini {width:16px;height:16px;object-fit:cover;float:left;margin-right:0.5em;}
 .featured-image-post{width:100%;height:150px;object-fit:fill;object-position: center;}
-.archive-group {
+/*.archive-group {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-}
+}*/
 /* Collapsing tables on small device screens */
 
 table {
