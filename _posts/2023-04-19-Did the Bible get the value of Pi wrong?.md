@@ -23,7 +23,7 @@ If you look up how ancient Israelite cups were made you can clearly see what is 
 <span class="infobox"> 
   ![A lily flower](https://i.ibb.co/fYKnZ0R/Lily-Flower.jpg)   
   **A lily flower**  
-  </span>
+</span>
 
 It also says it's like a lily flower. As you can see, the edges of lilies are bent outward.
 
