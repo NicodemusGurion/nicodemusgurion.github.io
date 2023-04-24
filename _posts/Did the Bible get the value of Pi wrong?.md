@@ -12,10 +12,12 @@ This accusation is easily defeated when looking at the context. The text is not 
 
 So we learn an interesting facts. The top part of the Copper Sea was shaped like "the brim of a cup". How are those shaped? 
 ![An ancient cup with a jutting brimAn ancient cup with a jutting brim](https://thyreon.com/wp-content/uploads/2022/01/img_2410-210x300.jpg)
+
 [**An ancient cup with a jutting brim**](https://zaksantiquities.com/product-category/ancient-pottery/clay-cups-goblets/)
 
 If you look up how ancient Israelite cups were made you can clearly see what is meant. It is very common that the brim juts out. 
 ![A lily flower](https://thyreon.com/wp-content/uploads/2022/01/80678BFF-0D93-4589-962E-AD8A30774698.jpeg)
+
 **A lily flower**
 
 It also says it's like a lily flower. As you can see, the edges of lilies are bent outward.
@@ -35,6 +37,7 @@ Verse 23 says that the Sea was 5 cubits high, which equals 2,25 meters. This als
 If the bottom of the basin was circular, it would be really difficult to balance it on the backs of twelve copper oxen placed in lines of 3\. A square shape would be much more logical. If the lower part of the basin was a square or cubic shape which transitions into a lily-like opening. By trying a few measurements and using geometric formulas to calculate the volume, I came up with measurements that produce a very accurate result and an aesthetically pleasing basin.
 
 ![Schematic of the Copper Sea](https://images2.imgbox.com/14/87/Gowfkkgr_o.jpeg)
+
 **Schematic of the Copper Sea**
 
 This model consists of a cubic base section 2 cubits (90cm) high, a truncated pyramid middle section one cubit high and a cylindrical top section 2 cubits high. 
