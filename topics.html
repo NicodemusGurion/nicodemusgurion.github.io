@@ -16,7 +16,7 @@ title: Topics
     {% for post in site.tags[topic_name] %}
     <li class="archive-item">
          {%- if post.thumb -%}
-          <img src="{{- post.thumb | relative_url -}}" alt="" class="featured-thumbnail">
+          <img src="{{- post.thumb | relative_url -}}" alt="" class="featured-thumbnail-mini">
          {%- endif -%}
       <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
     </li>
