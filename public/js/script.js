@@ -33,49 +33,47 @@ var SearchDatabase;
   {
     if (SearchDatabase === undefined)
     {
-      loadDatabase();
-   	  return;
+	  document.querySelector("#searchResults").innerHTML = "Database not loaded.";
+	  return;
     }
     var queryWords = query.toLowerCase().trim().split(" ");
     if (query.trim().length == "")
     {
-    	document.querySelector("#searchResults").innerHTML = "";
-      document.querySelector("#searchResults").style = "display:none;";
+    	document.querySelector("#searchResults").innerHTML = "No results.";
     	return;
     }
     var foundMatches = {};
+    var suggestWords = false;
+    var suggestedWords = "";
     for (queryWord of queryWords)
     {
-    	var queryKey = queryWord
     	if (!(queryWord in SearchDatabase.searchdata)) //if the key does not exist, look for a partial match
     	{
     	  for (const [key, value] of Object.entries(SearchDatabase.searchdata)) {
 			if (key.startsWith(queryWord)) {
 			console.log(key);
-			  queryKey = key;
+			  queryWord = key;
+			  suggestWords = true;
 			  break;
 			}
 		  }
     	}
-		if (queryKey in SearchDatabase.searchdata)
+		if (queryWord in SearchDatabase.searchdata)
     	{    	
-    		for (const key in SearchDatabase.searchdata[queryKey])
+    		for (const pageIndex in SearchDatabase.searchdata[queryWord])
     	  	{
-    	  		if (key in foundMatches)
-    	  		{ 
-    	  			foundMatches[key] += 1;
-    	  		}
-    	  		else
+    	  		foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0)
+    	  		if (SearchDatabase.postlist[pageIndex].title.includes(queryWord))
     	  		{
-    	  			foundMatches[key] = 1;
+    	  			foundMatches[pageIndex] += 2
     	  		}
     	  	}
     	}
+    	suggestedWords += " " + queryWord;
     }
 	if (Object.keys(foundMatches).length === 0)
     {
     	document.querySelector("#searchResults").innerHTML = "No results.";
-      document.querySelector("#searchResults").style = "display:block;";
     	return;
     }
     const fm_arr = Object.entries(foundMatches);
@@ -85,7 +83,9 @@ var SearchDatabase;
 		output += "<li><a href=\"" + SearchDatabase.postlist[key].url + "\">" + SearchDatabase.postlist[key].title + "</a></li>";  	
     }
     output += "</ul>";
+    if (suggestWords)
+    {
+    	output = "<span onclick=\"document.querySelector('#searchQuery').value = '" + suggestedWords.trim() + " ';document.querySelector('#searchQuery').focus()\"><u>" + suggestedWords.trim() + "</u></span><br><hr><br>" + output;
+    }
     document.querySelector("#searchResults").innerHTML = output;
-    document.querySelector("#searchResults").style = "display:block;";
-
   }
