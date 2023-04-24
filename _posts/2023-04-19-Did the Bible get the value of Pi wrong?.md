@@ -12,12 +12,13 @@ This accusation is easily defeated when looking at the context. The text is not 
 > Its thickness was a handbreadth, and its brim was made like the brim of a cup, like the flower of a lily. It held two thousand baths.
 
 So we learn an interesting facts. The top part of the Copper Sea was shaped like "the brim of a cup". How are those shaped? 
+
 ![An ancient cup with a jutting brimAn ancient cup with a jutting brim](https://thyreon.com/wp-content/uploads/2022/01/img_2410-210x300.jpg)
 
 [**An ancient cup with a jutting brim**](https://zaksantiquities.com/product-category/ancient-pottery/clay-cups-goblets/)
 
 If you look up how ancient Israelite cups were made you can clearly see what is meant. It is very common that the brim juts out. 
-![A lily flower](https://thyreon.com/wp-content/uploads/2022/01/80678BFF-0D93-4589-962E-AD8A30774698.jpeg)
+![A lily flower](/public/images/LilyFlower.jpeg)
 
 **A lily flower**
 
