@@ -63,11 +63,11 @@ var SearchDatabase;
     	  	{
     	  		if (key in foundMatches)
     	  		{ 
-    	  			foundMatches[key] += SearchDatabase.searchdata[queryKey][key];
+    	  			foundMatches[key] += 1;
     	  		}
     	  		else
     	  		{
-    	  			foundMatches[key] = SearchDatabase.searchdata[queryKey][key];
+    	  			foundMatches[key] = 1;
     	  		}
     	  	}
     	}
