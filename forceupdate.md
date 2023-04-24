@@ -1,5 +1,5 @@
 ---
 title: Last update
-path: /update/
+permalink: /update/
 ---
 {{ site.time }}
