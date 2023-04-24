@@ -119,7 +119,7 @@ But “he will give the world convincing evidence concerning sin” means that t
 
 ### Change/biased translation
 
-<span class="infobox"> ![](https://i.ibb.co/drcfRWJ/john16728.jpg)  
+<span class="floatright"> ![](https://i.ibb.co/drcfRWJ/john16728.jpg)  
 *John 16:27,28 Kingdom Interlinear Translation* </span>
 
 The Greek word translated here as as “representative” is ἐξῆλθον (exelthon).   This word has absolutely nothing to do with representation or representatives. Exelthon simply means “come out”. In the New World Translation it is consistently translated “come out” everywhere except in this passage: The disciples came out of the city, Paul **came out** **of** Macedonia, smoke and locusts **came out of** the pit. It is always the action of something **coming out of** one location into another. So what Jesus is really saying is that he **came out of** the Father. This means that before he came to earth he was somehow **in** the Father. This matches perfectly with the Trinity doctrine which teaches that the Father and Son share the same substance. Although Jesus did represent God on earth, this word **does not** mean “representative”. It is a blatant change or at best a very far-fetched and fanciful biased word choice. The Watchtower change this to support their [Arian teachings.](https://en.wikipedia.org/wiki/Arianism)
@@ -146,7 +146,7 @@ The words translated "from house to house" here are the Greek words κατ’ ο
 
 ### Addition
 
-<span class="infobox"> ![](https://i.ibb.co/JBSk6YB/acts2028.jpg)  
+<span class="floatright"> ![](https://i.ibb.co/JBSk6YB/acts2028.jpg)  
 *Acts 20:28 Kingdom Interlinear Translation* </span>
 
 If you look at this scripture in the original Greek, there is no indication that the word “Son” should be found anywhere here:   The Greek word ἰδίου (idíou) means “self”. So this last part is properly translated as: “Shepherd the congregation of God, which He purchased through the blood of **himself**” (or “through **his own blood**”). So God is said to have bought us with **his own** blood. 
