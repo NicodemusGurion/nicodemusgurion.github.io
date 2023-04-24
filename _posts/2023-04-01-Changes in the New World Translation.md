@@ -95,7 +95,8 @@ The Greek and other translations say: “God will glorify him [Jesus] **in himse
 
 ### Removal
 
-![John 14:14 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/image-300x98.jpg)
+![John 14:14 Kingdom Interlinear Translation](https://i.ibb.co/yX2WnDL/john1414.jpg)  
+*John 14:14 Kingdom Interlinear Translation*
 
 The Greek text, the Vulgate and many English translations (NLT, CSB, NIV, ESV, NET, NASB, BBE) include the word “me” between “ask” and “anything”. Jesus is telling his followers that “if you ask **me** anything in my name, I will do it.” Jesus is straight out telling us that it is appropriate to address **him** in prayer. The Watchtower removes this because they have a faulty view of Jesus’ deity. The verse proves Jesus’ omniscience and omnipotence, that he can hear any prayer and do anything. These are attributes only God possesses. The truth revealed in this scripture is that Jesus is God and it is entirely appropriate to ask him things in prayer.
 
@@ -105,9 +106,12 @@ The Greek text, the Vulgate and many English translations (NLT, CSB, NIV, ESV, N
 
 ### Change/Strange Word Choice
 
-![John 16:8 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1149-300x234.jpg)]
+![John 16:8 Kingdom Interlinear Translation](https://i.ibb.co/qC6JFtL/john168.jpg)
+*John 16:8 Kingdom Interlinear Translation*
 
-In this verse the Greek says "that (one) will reprove the world".   It is quite clear that the Holy Spirit (that one) will reprove the world. The world is the object of the sentence, the one who receives the reproving. It’s like a lawyer acting as an accuser in court, and the world is the accused one. But “he will give the world convincing evidence concerning sin” means that the world is a passive recipient of evidence, like the world is not the one on trial but rather the judge or jury. And whose sin is it talking about? It’s all very unclear. The word ἐλέγξει (elengchei) can mean “to expose, convict, reprove”, and I guess the meaning “expose” can be forced to mean “give evidence”, but that’s a stretch. In that case it would rather be “give evidence **against** someone” rather than “give evidence to someone”. I do not know why they would change the clear meaning of the word to make such a complicated translation, but it’s not accurate.
+In this verse the Greek says "that (one) will reprove the world".   It is quite clear that the Holy Spirit (that one) will reprove the world. The world is the object of the sentence, the one who receives the reproof. The Holy Spirit like a lawyer acting as an accuser in court, and the world is the accused one. 
+
+But “he will give the world convincing evidence concerning sin” means that the world is a passive recipient of evidence, like the world is not the one on trial but rather the judge or jury. And whose sin is it talking about? It’s all very unclear. The word ἐλέγξει (elengchei) can mean “to expose, convict, reprove”, and I guess the meaning “expose” can be forced to mean “give evidence”, but that’s a stretch. In that case it would rather be “give evidence **against** someone” rather than “give evidence **to** someone”. I do not know why they would change the clear meaning of the word to make such a complicated translation, but it’s not accurate.
 
 ## John 16:27,28
 
@@ -115,7 +119,8 @@ In this verse the Greek says "that (one) will reprove the world".   It is quite
 
 ### Change/biased translation
 
-![John 16:27,28 Kingdom Interlinear Translation](https://thyreon.com/wp-content/uploads/2022/01/img_1150-193x300.jpg)]
+![John 16:27,28 Kingdom Interlinear Translation](https://i.ibb.co/drcfRWJ/john16728.jpg)]
+*John 16:27,28 Kingdom Interlinear Translation*
 
 The Greek word translated here as as “representative” is ἐξῆλθον (exelthon).   This word has absolutely nothing to do with representation or representatives. Exelthon simply means “come out”. In the New World Translation it is consistently translated “come out” everywhere except in this passage: The disciples came out of the city, Paul **came out** **of** Macedonia, smoke and locusts **came out of** the pit. It is always the action of something **coming out of** one location into another. So what Jesus is really saying is that he **came out of** the Father. This means that before he came to earth he was somehow **in** the Father. This matches perfectly with the Trinity doctrine which teaches that the Father and Son share the same substance. Although Jesus did represent God on earth, this word **does not** mean “representative”. It is a blatant change or at best a very far-fetched and fanciful biased word choice. The Watchtower change this to support their [Arian teachings.](https://en.wikipedia.org/wiki/Arianism)
 
