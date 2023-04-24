@@ -1,3 +1,7 @@
+---
+title: "The word 'Trinity' is not in the Bible"
+tags: [Trinity, Apologetics, Lists, Criticism]
+---
 One common argument against the doctrine of the trinity is "The word 'Trinity' is not in the Bible", as if the word didn't exist, it would disprove the concept. Well, if that's a good argument to reject a doctrine, here is a list of other words and phrases important to Jehovah's witnesses that are not in the Bible:
 
 * Bible
