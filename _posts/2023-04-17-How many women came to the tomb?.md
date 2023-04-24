@@ -4,7 +4,6 @@ tags: [Contradictions, Apologetics, Gospel accounts]
 image: https://i.ibb.co/r0p45hr/79201442-3-A3-F-4108-B363-793-DA1-DC320-E.jpg
 thumb: https://i.ibb.co/c38D29n/79201442-3-A3-F-4108-B363-793-DA1-DC320-E.jpg
 ---
-
 A classic example of a supposed biblical contradiction is that the four gospels differ in their lists of the women who visited Jesus' tomb when he was resurrected. Let's see what the four gospel accounts say and see whether there is any contradiction:
 
 > Matthew 28:1 Now after the Sabbath, toward the dawn of the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
