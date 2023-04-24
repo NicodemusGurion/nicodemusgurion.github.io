@@ -1,4 +1,5 @@
 ---
+title: Does Numbers 5:11-31 support abortion?
 tags: [Criticism, Apologetics, Abortion, Misreading scripture]
 ---
 Whenever the topic of abortion comes up you can be sure someone will claim that ”there is an abortion procedure described in Numbers 5:11-31”. Is this true? [You can read the whole passage here](https://biblehub.com/bsb/numbers/5.htm), but it is long, so let’s just look at the pertinent parts.
