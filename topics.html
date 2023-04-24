@@ -3,8 +3,6 @@ layout: page
 permalink: /topics/
 title: Topics
 ---
-
-
 <div id="archives">
 {% for topic in site.tags %}
   <div class="archive-group">
@@ -14,15 +12,16 @@ title: Topics
 
     <h3 class="category-head">{{ topic_name }}</h3>
     <a name="{{ topic_name | slugize }}"></a>
+    <ul>
     {% for post in site.tags[topic_name] %}
-    <article class="archive-item">
-      <h4>
+    <li class="archive-item">
          {%- if post.thumb -%}
           <img src="{{- post.thumb | relative_url -}}" alt="" class="featured-thumbnail">
          {%- endif -%}
-      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
-    </article>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+    </li>
     {% endfor %}
+    </ul>
   </div>
 {% endfor %}
 </div>
