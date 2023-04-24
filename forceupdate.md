@@ -1,4 +1,4 @@
 ---
 title: Force update
 ---
-lalala
+{{ site.time }}
