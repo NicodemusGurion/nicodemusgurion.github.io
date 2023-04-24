@@ -1,6 +1,6 @@
 ---
 title: How many women came to the tomb?
-tags: [Supposed contradictions, Apologetics, Gospel accounts]
+tags: [Contradictions, Apologetics, Gospel accounts]
 image: https://i.ibb.co/r0p45hr/79201442-3-A3-F-4108-B363-793-DA1-DC320-E.jpg
 thumb: https://i.ibb.co/c38D29n/79201442-3-A3-F-4108-B363-793-DA1-DC320-E.jpg
 ---
