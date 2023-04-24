@@ -106,7 +106,7 @@ The Greek text, the Vulgate and many English translations (NLT, CSB, NIV, ESV, N
 
 ### Change/Strange Word Choice
 
-![John 16:8 Kingdom Interlinear Translation](https://i.ibb.co/qC6JFtL/john168.jpg)
+![John 16:8 Kingdom Interlinear Translation](https://i.ibb.co/qC6JFtL/john168.jpg)  
 *John 16:8 Kingdom Interlinear Translation*
 
 In this verse the Greek says "that (one) will reprove the world".   It is quite clear that the Holy Spirit (that one) will reprove the world. The world is the object of the sentence, the one who receives the reproof. The Holy Spirit like a lawyer acting as an accuser in court, and the world is the accused one. 
