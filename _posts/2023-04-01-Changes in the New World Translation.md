@@ -1,8 +1,8 @@
 ---
 Title: Changes in the New World Trabslation
 tags: [Featured, Jehovah's witnesses, New World Translation, Watchtower shenanigans]
-image: https://images2.imgbox.com/d3/54/7Lf9Geg1_o.jpeg
-thumb: https://thumbs2.imgbox.com/d3/54/7Lf9Geg1_t.jpeg
+image: https://i.ibb.co/JvTTgWS/7-Lf9-Geg1-o.jpg
+thumb: https://i.ibb.co/48LL3w0/7-Lf9-Geg1-o.jpg
 ---
 The New World Translation is claimed by the Watchtower corporation to be the best and most accurate Bible translation. They say they have translated it to convey the correct meaning. But when scrutinized it turns out that the New World Translation team has both added, removed and changed words and phrases to fit their own doctrines. This is condemned in scripture and is a serious sin. (Deuteronomy 4:2; Proverbs 30:5,6; Revelation 22:18,19) Other passages are simply clunky and inelegant.
 
