@@ -1,7 +1,7 @@
 ---
 title: Did the Bible get the value of Pi wrong?
 tags: [Criticism, Apologetics, Math]
-thumbnail: https://thumbs2.imgbox.com/14/87/Gowfkkgr_t.jpeg
+thumb: https://thumbs2.imgbox.com/14/87/Gowfkkgr_t.jpeg
 ---
 This is a popular issue some sceptics raise with the passages of 1 Kings 7:23-26 and 2 Chronicles 4:2-5 which describes the so called Copper Sea, a large water basin made out of copper for the Jerusalem temple. Specifically the math in 1 Kings 7:23 and 2 Chronicles 4:2 where it says that the Sea was circular in shape, with 10 cubits (ca 4.5 meters) from brim to brim, yet it took a measuring line of 30 cubits (ca 13.5 meters) to go around it. The arguments goes that if you have a circle with a diameter of 10 units, the circumference would be 10 x π or ca 31.415 units around. Hence, it would seem the Bible wrongly defines the value of π as 3, rather than approximately 3,14159…
 
@@ -13,7 +13,7 @@ This accusation is easily defeated when looking at the context. The text is not 
 
 So we learn an interesting facts. The top part of the Copper Sea was shaped like "the brim of a cup". How are those shaped? 
 
-![An ancient cup with a jutting brimAn ancient cup with a jutting brim](https://thyreon.com/wp-content/uploads/2022/01/img_2410-210x300.jpg)
+![An ancient cup with a jutting brim](/public/inages/AncientCup.jpg)
 
 [**An ancient cup with a jutting brim**](https://zaksantiquities.com/product-category/ancient-pottery/clay-cups-goblets/)
 
