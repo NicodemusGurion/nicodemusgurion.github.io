@@ -5,11 +5,12 @@
   clear:right;
   border: thin black solid;
   padding:0.5em;
+  max-width:200px;
 }
 
 .infobox img {
-  max-width:300px;
-  max-height:300px;
+  max-width:200px;
+  max-height:200px;
 }
 
 
