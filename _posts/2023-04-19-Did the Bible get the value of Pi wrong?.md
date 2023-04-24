@@ -19,7 +19,7 @@ So we learn an interesting facts. The top part of the Copper Sea was shaped like
 
 If you look up how ancient Israelite cups were made you can clearly see what is meant. It is very common that the brim juts out. 
 <span class="infobox">
-![A lily flower](/public/images/LilyFlower.jpeg)
+![A lily flower](https://i.ibb.co/fYKnZ0R/Lily-Flower.jpg)
 
 **A lily flower**
 </span>
@@ -40,7 +40,7 @@ Verse 23 says that the Sea was 5 cubits high, which equals 2,25 meters. This als
 
 If the bottom of the basin was circular, it would be really difficult to balance it on the backs of twelve copper oxen placed in lines of 3\. A square shape would be much more logical. If the lower part of the basin was a square or cubic shape which transitions into a lily-like opening. By trying a few measurements and using geometric formulas to calculate the volume, I came up with measurements that produce a very accurate result and an aesthetically pleasing basin.
 
-![Schematic of the Copper Sea](https://images2.imgbox.com/14/87/Gowfkkgr_o.jpeg)
+![Schematic of the Copper Sea](https://i.ibb.co/tbrRXqJ/copper-sea.jpg)
 
 **Schematic of the Copper Sea**
 
