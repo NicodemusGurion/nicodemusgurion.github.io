@@ -1,6 +1,8 @@
 ---
 Title: The Kingdom is not a pearl
 tags: [Jehovah's witnesses, Exegesis]
+image: https://i.ibb.co/4m1Hvqd/pearl.jpg
+thumb: https://i.ibb.co/3rRn63z/pearl.jpg
 ---
 
 In Matthew 13:45,46 Jesus tells the parable of the pearl of great value:
