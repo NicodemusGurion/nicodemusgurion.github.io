@@ -2,7 +2,11 @@
 Title: Were ancient Jews illiterate?
 tags: [Apologetics, History, Jewish culture, Archaeology]
 ---
-A common accusation against the Bible has to do with literacy. It is assumed that people in biblical times were illiterate. That they were just dumb peasants and fishermen who could not read or write. Is this true? [A recent study says no. The ancient Israelites were more literate than previously thought.](https://www.pnas.org/content/113/17/4664) After examining shards of pottery with writing from around 600BC found in a fort in Tel Arad, researchers foundthat "evidence suggests a high degree of literacy in the entire Judahite chain of command." They could identify at least 6 different authors, ranging from the King down to the assistant to the quartermaster. "To support this bureaucratic apparatus, an appropriate educational system must have existed in Judah at the end of the first Temple period." (([Download the study as a PDF](https://thyreon.com/wp-content/uploads/2022/02/high-literacy-levels-in-600bc-judah.pdf))) This is no surprise since the Jewish people have treasured learning throughout history.
+A common accusation against the Bible has to do with literacy. It is assumed that people in biblical times were illiterate. That they were just dumb peasants and fishermen who could not read or write. Is this true? 
+
+# What does archaeology show?
+
+[A recent study says no. The ancient Israelites were more literate than previously thought.](https://www.pnas.org/content/113/17/4664) After examining shards of pottery with writing from around 600BC found in a fort in Tel Arad, researchers foundthat "evidence suggests a high degree of literacy in the entire Judahite chain of command." They could identify at least 6 different authors, ranging from the King down to the assistant to the quartermaster. "To support this bureaucratic apparatus, an appropriate educational system must have existed in Judah at the end of the first Temple period." (([Download the study as a PDF](https://thyreon.com/wp-content/uploads/2022/02/high-literacy-levels-in-600bc-judah.pdf))) This is no surprise since the Jewish people have treasured learning throughout history.
 
 # What does the Bible show?
 
