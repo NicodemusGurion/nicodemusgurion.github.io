@@ -271,7 +271,7 @@ The NWT adds the word “other” five times in this passage. No Greek manuscrip
 
 Yet another example of the abuse of prepositions, especially the “in” preposition.The Greek uses “εν” meaning “in”. Replaced this preposition with other prepositions render the meaning totally different. In this passage the correct translation would be “now has he reconciled **in** the body of his flesh through death”, because just like Noah was in the ark for salvation, so we are in a spiritual sense positionally **in** Christ’s body. But the Watchtower on the one hand officially teaches that [Jesus’ body was disintegrated into atoms](https://wol.jw.org/en/wol/d/r1/lp-e/1953641#h=12), and in a spiritual sense only 144.000 Jehovah’s Witnesses are “in” the body of Jesus. So this scripture would indicate either that Jesus was bodily resurrected, which the Watchtower denies. Or it would indicate that all non-anointed Jehovah’s Witnesses are still alienated and enemies of God. The Watchtower changes **in** to **by means of** and thus make his body more akin to a tool or instrument.
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1158-300x233.jpg)
+![](https://i.ibb.co/cbjr7RG/68-D7-FAB0-8-A42-4-F38-A13-C-EE638-ECF6-CDE.jpg)
 *Colossians 1:21,22 Kingdom Interlinear Translation*
 
 ## Colossians 2:9
