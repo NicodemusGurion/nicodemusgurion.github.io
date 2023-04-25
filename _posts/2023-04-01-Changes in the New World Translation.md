@@ -319,7 +319,7 @@ The Watchtower adds the words “sorts of“ in this verse. The originals says t
 
 ### Change/Addition
 
-![](https://thyreon.com/wp-content/uploads/2022/05/IMG_3026-300x276.jpg)
+![](https://i.ibb.co/0Y7fprj/738-DC25-B-CB43-4267-BED7-4-ADCA2-B9-F02-B.jpg)
 *1 Timothy 4:1 Kingdom Interlinear Translation*
 
 The words "the inspired word" in this verse have been changed. In the Greek it says that "the spirit" is saying these things. I actually have no idea how they could twist this to mean "the inspired word". Word is "logos" and there is no "logos" in this verse. However I do understand why they would change this. This verse says that "the spirit", obviously the Holy Spirit, is saying something. And if it is saying something or speaking, that means that it is a person. "Active forces" like electricity can not "say" anything or speak prophecies as the Holy Spirit does here. Ironically this passage warns people that in "in later times" or the last days, some will fall away by listening to false spirits and teachings of demons, and by the hypocrisy of men who speak lies. Funny how the sect of Jehovah's witnesses emerged in the later days based on the teachings of a men who paid attention to false spirits and teachings of demons. And as this document shows, men who are not afraid to lie and deceive to push their false teachings.
