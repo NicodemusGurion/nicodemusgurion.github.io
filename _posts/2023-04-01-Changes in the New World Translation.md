@@ -222,7 +222,7 @@ The Watchtower adds the word “substituting” in this verse. If you are an amb
 
 ### Change
 
-![](https://thyreon.com/wp-content/uploads/2022/08/1AB16353-512F-4477-9BB1-87526896354D-300x234.jpeg)
+![](https://i.ibb.co/h2tSG52/FBC313-E0-1931-49-F5-8-F7-C-C71-BA13-E1-AB4.jpg)
 *Galatians 6:18 Kingdom Interlinear Translation*
 
 The Greek in this verse is translated as "the spirit of you". Most translations tended this "your spirit" or similar. Why would the Watchtower change this to "the spirit you show"? Probably because Jehovah's witnesses have a materialistic view of humans, thinking that the soul is the entire person, and the spirit is the physical energy that keeps a body going. It makes no sense to say that the favor of Christ should be with the bioelectrical impulses that keep your body alive. So adding "you show" makes it sound like Paul is talking about their general attitude, "the spirit you show". Scriptures like 1 Thessalonians 5:23 shows that the spirit of a man is one of three parts of what makes up the human being. It is the part that is born when a person is born again. (John 3:3-6) It makes sense that Jesus would show favor to our spirits as being part of our very being. But it makes no sense to Jehovah's Witnesses who does not believe in human spirits, so they have to add words to make it seem like it's talking about attitude.
