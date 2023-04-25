@@ -17,7 +17,7 @@
 
 var SearchDatabase;
 
-	function loadDatabase()
+	function loadDatabase() //load database if not loaded
 	{
 		if (SearchDatabase === undefined)
 		{
@@ -29,63 +29,101 @@ var SearchDatabase;
 		}
 	}
   
-  function searchInDatabase(query)
+  function applySuggestion(suggestedWord)
   {
-    if (SearchDatabase === undefined)
+	let searchQueryWords = document.querySelector("#searchQuery").value.trim().split(" "); //get current query split into an array
+	searchQueryWords.pop(); //remove last word
+	searchQueryWords.push(suggestedWord); //push the suggestion to the end
+	let newQuery = searchQueryWords.join(" ");
+	document.querySelector("#searchQuery").value = newQuery;
+	document.querySelector('#searchQuery').focus(); //put focus on the input field
+	searchInDatabase(newQuery); //execute the query
+  }
+  
+  function searchInDatabase(query) //search for a query text
+  {
+    if (SearchDatabase === undefined) //make sure db is loaded
     {
       loadDatabase();
   	  return;
     }
-    var queryWords = query.toLowerCase().trim().split(" ");
-    if (query.trim().length == "")
+	var queryWords = query.toLowerCase().trim().split(" "); //prep query words by splitting
+
+    if (query.trim().length == "" || queryWords.length == 0) //on empty query, show no result box
     {
       document.querySelector("#searchResults").style.display ="none";
     	return;
     }
-    var foundMatches = {};
-    var suggestWords = false;
-    var suggestedWords = "";
-    for (queryWord of queryWords)
-    {
-    	if (!(queryWord in SearchDatabase.searchdata)) //if the key does not exist, look for a partial match
-    	{
-    	  for (const [key, value] of Object.entries(SearchDatabase.searchdata)) {
-			if (key.startsWith(queryWord)) {
-			  queryWord = key;
-			  suggestWords = true;
-			  break;
+    var foundMatches = {}; //a hash with the page ids where the words are found, and how many times a word is found on that page.
+    var suggestedWords = []; //if the user writes a partial word not in the list, make some suggestions
+    var lastWord = queryWords[queryWords.length - 1]; //get last word to generate suggestions.
+	for (const [key, value] of Object.entries(SearchDatabase.searchdata)) { //loop thru key/val pairs
+		if (key.startsWith(lastWord) && key != lastWord) { //if a word starts with the word (but is not the word)
+			suggestedWords.push(key) //add word to suggestions
+			if (suggestedWords.length >= 10) //limit to 10 suggestions
+			{
+				break;
 			}
-		  }
-    	}
-		if (queryWord in SearchDatabase.searchdata)
+		}
+	}
+    for (queryWord of queryWords) //loop thru query word list
+    {
+		if (queryWord in SearchDatabase.searchdata) //check if the word exists in the db
     	{    	
-    		for (const pageIndex in SearchDatabase.searchdata[queryWord])
+    		for (const pageIndex in SearchDatabase.searchdata[queryWord]) //get the page indexes to the pages that the word is found in
     	  	{
-    	  		foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0)
-    	  		if (SearchDatabase.postlist[pageIndex].title.includes(queryWord))
+    	  		foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
+    	  		if (SearchDatabase.postlist[pageIndex].title.includes(queryWord)) //if the word is even found in the title...
     	  		{
-    	  			foundMatches[pageIndex] += 2
+    	  			foundMatches[pageIndex] += 2; //increase the score even more because that's good stuff
     	  		}
     	  	}
     	}
-    	suggestedWords += " " + queryWord;
     }
-	if (Object.keys(foundMatches).length === 0)
+    output = "";
+    if (Object.keys(foundMatches).length === 0)
     {
-    	document.querySelector("#searchResults").innerHTML = "No results.";
-      document.querySelector("#searchResults").style.display ="block";
-    	return;
+    	for (queryWord of suggestedWords) //loop thru suggested word list
+		{
+			if (queryWord in SearchDatabase.searchdata) //check if the word exists in the db
+			{    	
+				for (const pageIndex in SearchDatabase.searchdata[queryWord]) //get the page indexes to the pages that the word is found in
+				{
+					foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
+					if (SearchDatabase.postlist[pageIndex].title.includes(queryWord)) //if the word is even found in the title...
+					{
+						foundMatches[pageIndex] += 2; //increase the score even more because that's good stuff
+					}
+				}
+			}
+		}
+		output += "<sub>(No exact matches. Result is based on suggested words.)</sub>";
     }
-    const fm_arr = Object.entries(foundMatches);
-    fm_arr.sort((a, b) => b[1] - a[1]);
-    output = "<ul>";
-    for (const [key, value] of fm_arr) {
-		output += "<li><a href=\"" + SearchDatabase.postlist[key].url + "\">" + SearchDatabase.postlist[key].title + "</a></li>";  	
-    }
-    output += "</ul>";
-    if (suggestWords)
+	if (Object.keys(foundMatches).length === 0) //If it turns out we couldn't find anything, output a no result box
     {
-    	output = "<span onclick=\"document.querySelector('#searchQuery').value = '" + suggestedWords.trim() + " ';document.querySelector('#searchQuery').focus()\"><u>" + suggestedWords.trim() + "</u></span>" + output;
+    	output = "No results.";
+    }
+    else
+    {
+		const fm_arr = Object.entries(foundMatches); //sort the results according to how many points it scored.
+		fm_arr.sort((a, b) => b[1] - a[1]);
+		//generate a html list of the results
+		output += "<ul>";
+		for (const [key, value] of fm_arr) {
+			let thumb = (SearchDatabase.postlist[key].thumb != null ? "<img src=\"" + SearchDatabase.postlist[key].thumb + "\" class=\"featured-thumbnail-mini\" />": "")
+			output += "<li>" + thumb + "<a href=\"" + SearchDatabase.postlist[key].url + "\">" + SearchDatabase.postlist[key].title + "</a></li>";  	
+		}
+		output += "</ul>";
+    }
+
+    if (suggestedWords.length > 0) //if there was an incomplete last word and there were similar words found, make a short list of them
+    {
+    	var suggestions = "";
+    	for (suggestedWord of suggestedWords)
+    	{
+    		suggestions += "<span onclick=\"applySuggestion('" + suggestedWord.trim() + "')\" style=\"cursor: pointer;\"><u>" + suggestedWord.trim() + "</u></span> &nbsp;";
+    	}
+    	output = suggestions + "<hr>" + output;
     }
     document.querySelector("#searchResults").innerHTML = output;
     document.querySelector("#searchResults").style.display ="block";
