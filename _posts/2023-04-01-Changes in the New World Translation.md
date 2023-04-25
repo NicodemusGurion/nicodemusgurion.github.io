@@ -243,7 +243,7 @@ The original Greek and all other translations says that Jesus gave gifts **to** 
 
 ### Change
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1156-300x124.jpg)
+![](https://i.ibb.co/GCpkFC7/1-D4-E4614-38-FD-475-F-A224-404602-F37-C4-F.jpg)
 *Ephesians 4:9 Kingdom Interlinear Translation*
 
 The Greek for the end of this verse properly translates as“he stepped down into the lower parts **of the** earth”. Most translations render it similarly. Ever since the first century, Christians have interpreted this as Jesus going down into Hades after he died. Early creeds read like the Apostles’ creed mention this:
