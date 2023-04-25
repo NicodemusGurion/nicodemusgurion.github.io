@@ -1,6 +1,6 @@
 --- 
-Title: Was Rutherford a necromancer?
-Tags: [Watchtower, History, Necromancy, Doctrine, Jehovah's Witnesses]
+title: Was Rutherford a necromancer?
+tags: [Watchtower, History, Necromancy, Doctrine, Jehovah's Witnesses]
 ---
 
 Necromancy, the communication with the spirits of dead people, is strictly condemned in the Bible. (Lev 19:31; 20:6;20:27;Deut 18:9-12; Isaiah 18:19)
