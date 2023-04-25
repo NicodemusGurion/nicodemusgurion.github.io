@@ -359,7 +359,7 @@ The text translates the Greek word ἐπὶ (epi) as “over” when it is a pre
 
 The word is translated as “upon” or “on” in other parts of the Bible, for example in Matthew 6:10, which translates the same phrase, “on [the] earth”, as in Revelation 5:10.
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1161-300x86.jpg)
+![](https://i.ibb.co/0t9qyML/9-D1-F8-A7-B-06-CE-4-DC9-A6-CF-5-ABF9-F1-F8077.jpg)
 *Matthew 6:10 Kingdom Interlinear Translation*
 
 > Matthew 6:10 — Let your Kingdom come. Let your will take place, as in heaven, also **on earth**.
