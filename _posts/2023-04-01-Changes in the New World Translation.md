@@ -234,7 +234,7 @@ The Greek in this verse is translated as "the spirit of you". Most translations 
 
 ### Change
 ![](https://thyreon.com/wp-content/uploads/2022/01/img_1155-300x139.jpg)
-*2 Corinthians 5:20 Kingdom Interlinear Translation*
+*Ephesians 4:8 Kingdom Interlinear Translation*
 
 The original Greek and all other translations says that Jesus gave gifts **to** men, not **in** men. The text refers to the gifts of the Holy Spirit that Jesus gives **to** people to help them do his will. The Watchtower changes this words because they need an unquestioning obedience to their hierarchy of authority. By saying that the leaders are “gifts from God” they thus inappropriately glorify men, bordering on idolatry.
 
