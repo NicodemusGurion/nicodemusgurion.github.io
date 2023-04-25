@@ -1,5 +1,5 @@
 ---
-Title: The Kingdom is not a pearl
+title: The Kingdom is not a pearl
 tags: [Jehovah's witnesses, Exegesis]
 image: https://i.ibb.co/ngPFdGC/pearl.jpg
 thumb: https://i.ibb.co/3rRn63z/pearl.jpg
