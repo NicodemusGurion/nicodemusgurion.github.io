@@ -64,11 +64,21 @@ The word translated “close friendship“ is the Hebrew סוד (sod) which mean
 
 ## Change/Biased Translation
 
-Chapter 8 of proverbs speaks about wisdom in anthropological terms, describing is as a woman who cries out to people to pursue her. Ignoring the fact that it is about a woman, the Watchtower wants to claim that this passage talks about the preincarnate Jesus. And specifically about how they think that Jesus is a created creature. To do this they make a tenuous association between “wisdom” and Jesus being “the Word of God”, like wisdom and words are the same thing. There are several problems with that interpretation even in this text, for example verse 12 says that “I, wisdom, dwell together with shrewdness…” which means that Jesus is not only a woman, but also that she has a roommate called Shrewdness. In verse 22 the word they translate “produced” is “qanah” which according to Strongs mean:
+Chapter 8 of proverbs speaks about wisdom in anthropological terms, describing is as a woman who cries out to people to pursue her. The Watchtower says that this passage talks about the preincarnate Jesus. And specifically about how they think that Jesus is a created creature. There are several problems with that interpretation. For example verse 12 says that “I, wisdom, dwell together with shrewdness…” which would mean that Jesus is not only a woman, but also that she has a roommate called Shrewdness. 
+
+In verse 22 the word they translate “produced” is “qanah” which according to Strongs mean:
 
 > to erect, i.e. create; by extension, to procure, especially by purchase (causatively, sell); by implication to own
 
-So it can mean both to produce and to possess something. Now, pretty much every other translation translates it as “posess” or some synonym. But the NWT chooses “produce”. Does that make sense? When a translator sees a passage like this he has to ask himself “Does God posess wisdom, or did he produce wisdom?” If God produced wisdom then the implication is that there was a point in time where God did not **have** wisdom. And also that God somehow created wisdom out of nothing. However, who can argue with the statement “God **has** wisdom”? Hence the meaning that the Watchtower have chosen is the wrong meaning. It makes no sense. According to them Jesus is a woman who has a roommate named Shrewdness, and God at one point did not have wisdom. Verse 23 also says that wisdom existed for eternity past, so that’s also a problem for the Watchtower. If that wisdom is Jesus himself, then Jesus is eternal, which goes against their teachings.
+So it can mean both to produce and to possess something. Now, pretty much every other translation translates it as “posess” or some synonym. But the NWT chooses “produce”. 
+
+Does that make sense? Does God posess wisdom, or did he produce wisdom? 
+
+If God **produced** wisdom then the implication is that there was a point in time where God did not **have** wisdom. And also that God somehow created wisdom out of nothing, without having the wisdom to do so. 
+
+However, who can argue with the statement “God **has** wisdom”? Hence the meaning that the Watchtower have chosen is evidently the wrong meaning. It makes no sense. According to them Jesus is a woman who has a roommate named Shrewdness, and God at one point did not have wisdom. 
+
+Verse 23 also says that wisdom existed for eternity past, so that’s also a problem for the Watchtower. If that wisdom is Jesus himself, then Jesus is eternal, which goes against their teachings.
 
 # Proverbs 16:2
 
