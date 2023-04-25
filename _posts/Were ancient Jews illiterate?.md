@@ -4,10 +4,9 @@ tags: [Apologetics, History, Jewish culture, Archaeology]
 ---
 A common accusation against the Bible has to do with literacy. It is assumed that people in biblical times were illiterate. That they were just dumb peasants and fishermen who could not read or write. Is this true? [A recent study says no. The ancient Israelites were more literate than previously thought.](https://www.pnas.org/content/113/17/4664) After examining shards of pottery with writing from around 600BC found in a fort in Tel Arad, researchers foundthat "evidence suggests a high degree of literacy in the entire Judahite chain of command." They could identify at least 6 different authors, ranging from the King down to the assistant to the quartermaster. "To support this bureaucratic apparatus, an appropriate educational system must have existed in Judah at the end of the first Temple period." (([Download the study as a PDF](https://thyreon.com/wp-content/uploads/2022/02/high-literacy-levels-in-600bc-judah.pdf))) This is no surprise since the Jewish people have treasured learning throughout history.
 
-What **does** the Bible show?
------------------------------
+# What does the Bible show?
 
-Moses was for sure literate. He was an Egyptian prince so he had to be able to read and write egyptian script. Most likely he knew Akkadian and other writing systems too. In Exodus thereare a number of occations where he both reads and writes. As did Joshua. In fact, all kings and leaders were required to be able to read and write.
+Moses was literate. He was an Egyptian prince so he had to be able to read and write egyptian script. Most likely he knew Akkadian and other writing systems too. In Exodus there are a number of occations where he both reads and writes. As did Joshua. In fact, all kings and leaders were required to be able to read and write.
 
 > Deuteronomy 17:18-19 “And when he \[the king\] sits on the throne of his kingdom, he shall **write** for himself in a book a copy of this law, approved by the Levitical priests. 19 And it shall be with him, and he shall **read** in it all the days of his life, that he may learn to fear the LORD his God by keeping all the words of this law and these statutes, and doing them,
 
@@ -41,13 +40,13 @@ Women could also write:
 
 > 1 Kings 21:8, 9 So she wrote letters in Ahab’s name and sealed them with his seal, and she sent the letters to the elders and the leaders who lived with Naboth in his city.And she wrote in the letters, “Proclaim a fast, and set Naboth at the head of the people.
 
-### What about the first century?
+## What about the first century?
 
 When John the Baptist was born, his father wrote a message on a tablet which all his neighbors could read. These were just ordinary people:
 
 > Luke 1:63 And he asked for a writing tablet and wrote, “His name is John.” And they all wondered.
 
-### What about Jesus?
+## What about Jesus?
 
 Jesus could read. He read from a scroll. This was no extraordinary feat. People were used to hear the carpenter's son read to them. It was his custom:
 
@@ -67,7 +66,6 @@ And when Jesus was crucified, common Jewish people had the ability to read the s
 
 It also shows common people were multilingual.
 
-**Conclusion**
---------------
+## Conclusion
 
-It is abundantly evident from both archaeological and historical evidence that literacy was common and wide spread among all strata of society, all the way back to the founding of the nation of Israel. Hence anyone who tries to cast doubt on the ability of common people like Jesus' diciples to produce literature is clearly either ignorant or lying.
+It is evident from both archaeological and historical evidence that literacy was common and wide spread among all strata of society, all the way back to the founding of the nation of Israel. Hence anyone who tries to cast doubt on the ability of common people like Jesus' diciples to produce literature is clearly either ignorant or lying.
