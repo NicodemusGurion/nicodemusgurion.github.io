@@ -330,7 +330,7 @@ The words "the inspired word" in this verse have been changed. In the Greek it s
 
 ### Change
 
-![](https://thyreon.com/wp-content/uploads/2022/01/9F540853-3632-4A19-B5DC-23AE5A84FDC7-300x283.jpeg)
+![](https://i.ibb.co/crY1C6M/0-B5-FDF69-07-F5-4-F84-ABD5-67598-FB49704.jpg)
 *Hebrews 1:8 Kingdom Interlinear Translation*
 
 In Greek the verse says "toward (but) the Son The throne of you the God" meaning that God (the Father) tells the son: "The throne of you, o God...". God the Father here directly calls Jesus "God". This is a strong piece of evidence for the divinity of Jesus. So it is no surprise that the Watchtower boldly and blatantly change it into something that makes no sense whatsoever. "God is your throne"? Is God a chair now? How does that even make sense?
