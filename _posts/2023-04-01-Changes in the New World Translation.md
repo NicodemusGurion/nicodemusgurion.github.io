@@ -229,11 +229,10 @@ The Greek in this verse is translated as "the spirit of you". Most translations 
 
 ## Ephesians 4:8
 
-
 > For it says: “When he ascended on high he carried away captives; he gave gifts **in** men.”
 
 ### Change
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1155-300x139.jpg)
+![](https://i.ibb.co/ZfVKHpC/BB1-DD7-FA-D2-D7-4-E2-B-AEAB-183-B06777779.jpg)
 *Ephesians 4:8 Kingdom Interlinear Translation*
 
 The original Greek and all other translations says that Jesus gave gifts **to** men, not **in** men. The text refers to the gifts of the Holy Spirit that Jesus gives **to** people to help them do his will. The Watchtower changes this words because they need an unquestioning obedience to their hierarchy of authority. By saying that the leaders are “gifts from God” they thus inappropriately glorify men, bordering on idolatry.
