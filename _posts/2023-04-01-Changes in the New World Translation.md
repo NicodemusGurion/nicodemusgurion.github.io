@@ -211,7 +211,7 @@ Almost all other translation translates the last part as something along the lin
 
 ### Addition
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1154-300x233.jpg)
+![](https://i.ibb.co/JsRDwPs/E7752-C5-A-DB9-C-4-A47-983-B-2770800-D32-A7.jpg)
 *2 Corinthians 5:20 Kingdom Interlinear Translation*
 
 The Watchtower adds the word “substituting” in this verse. If you are an ambassador, you’re an ambassador for someone. You might **represent** them. But you never **substitute** them. The word is not there in Greek or any other translations. The Watchtower has added this word here to bolster their claim that they are God’s representative on earth, even to the point that they blasphemously claim that they are **substitutes** for Jesus Christ, as if Jesus is not present, so they now have all his authority. They have in a sense thrown Jesus off his throne and sat themselves down there instead. This is narcissism, hubris and blasphemy.
