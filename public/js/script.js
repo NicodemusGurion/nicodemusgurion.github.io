@@ -123,7 +123,7 @@ var SearchDatabase;
     	{
     		suggestions += "<span onclick=\"applySuggestion('" + suggestedWord.trim() + "')\" style=\"cursor: pointer;\"><u>" + suggestedWord.trim() + "</u></span> &nbsp;";
     	}
-    	output = suggestions + output;
+    	output = suggestions + "<br>" + output;
     }
     document.querySelector("#searchResults").innerHTML = output;
     document.querySelector("#searchResults").style.display ="block";
