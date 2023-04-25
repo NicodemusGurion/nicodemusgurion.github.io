@@ -1,4 +1,5 @@
 ---
+title: Do the gospels disagree on how Judas Iscariot died?
 tags: [Contradictions, Gospel accounts, Apologetics]
 ---
 
