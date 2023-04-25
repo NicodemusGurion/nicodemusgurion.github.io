@@ -261,7 +261,7 @@ The Jehovah’s Witnesses teach that humans cease to exist at death. It is a fal
 
 The NWT adds the word “other” five times in this passage. No Greek manuscript and no other translation uses the word “other” here. The word “other” radically changes the meaning here. Without “other” it says “all things were created by [Jesus]”, meaning that Jesus himself is not a creation but the eternal creator himself. By inserting the “other”, it suddenly means that Jesus could himself be included in the category of created things and thus not be the eternal creator. It is inserted to support the Jehovah’s Witness teaching that Jesus is a created being, which is based on the third century heresy called [Arianism](https://en.m.wikipedia.org/wiki/Arianism).
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1157-180x300.jpg)
+![](https://i.ibb.co/Twh6nqD/79-E359-AC-3518-40-A4-B87-E-B29-A130-BD26-C.jpg)
 *Colossians 1:15–17, 20 Kingdom Interlinear Translation*
 
 ## Colossians 1:21,22
