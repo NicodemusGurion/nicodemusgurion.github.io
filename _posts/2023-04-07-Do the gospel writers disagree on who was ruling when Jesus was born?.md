@@ -1,4 +1,5 @@
 ---
+title: Do the gospel writers disagree on who was ruling when Jesus was born?
 tags: [Contradictions, Apologetics, Errors]
 ---
 Only Matthew and Luke mentions the birth. Matthew says that Herod was king of Judea, and Luke provides the detail that Caesar Augustus was emperor, and Quirinius was governor of the province of Syria. None of these details contradict one another.
