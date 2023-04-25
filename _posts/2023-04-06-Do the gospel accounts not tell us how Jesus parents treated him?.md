@@ -1,4 +1,5 @@
 ---
+title: Do the gospel accounts not tell us how Jesus parents treated him?
 tags: [Contradictions, Gospel accounts, Apologetics]
 ---
 
