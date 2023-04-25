@@ -349,7 +349,7 @@ The words in verse 13 that are translated "in the land" in Greek actually means 
 
 ### Change / Biased translation
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1162-300x102.jpg)
+![]([https://i.ibb.co/GkTP3s0/3-A0-CFB0-E-C41-D-4-D2-B-9606-A555253749-B3.jpg)
 *Revelation 5:10 Kingdom Interlinear Translation*
 
 The text translates the Greek word ἐπὶ (epi) as “over” when it is a preposition that means “upon”. From the surface of something and upward. This diagram from the first page of the printed edition of the Kingdom Interlinear explains it:
