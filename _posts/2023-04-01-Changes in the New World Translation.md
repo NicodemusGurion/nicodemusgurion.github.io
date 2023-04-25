@@ -354,7 +354,7 @@ The words in verse 13 that are translated "in the land" in Greek actually means 
 
 The text translates the Greek word ἐπὶ (epi) as “over” when it is a preposition that means “upon”. From the surface of something and upward. This diagram from the first page of the printed edition of the Kingdom Interlinear explains it:
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1160-300x215.jpg)
+![](https://i.ibb.co/YWbBmzR/857600-A2-3327-4044-B6-E6-F769-E07324-FC.jpg)
 *Diagram explaining Greek prepositions, from the Kingdom Interlinear Translation*
 
 The word is translated as “upon” or “on” in other parts of the Bible, for example in Matthew 6:10, which translates the same phrase, “on [the] earth”, as in Revelation 5:10.
