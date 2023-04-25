@@ -1,8 +1,8 @@
 ---
-Title: Evidence of early dating - Bartimaeus
-Tags: [Early dating, Apologetics]
+title: Evidence of early dating - Bartimaeus
+tags: [Early dating, Apologetics]
 ---
-Like in the case of [Simon of Cyrene](https://thyreon.com/evidence-for-an-early-gospel-simon-of-cyrene/), Mark 10:46 has a strange remark:
+Like in the case of [Simon of Cyrene](/Evidence-for-an-early-gospel-Simon-of-Cyrene), Mark 10:46 has a strange remark:
 
 > And they came to Jericho. And as he was leaving Jericho with his disciples and a great crowd, Bartimaeus, a blind beggar, the son of Timaeus, was sitting by the roadside.
 
