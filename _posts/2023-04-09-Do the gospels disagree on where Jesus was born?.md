@@ -1,4 +1,5 @@
 ---
+title: Do the gospels disagree on where Jesus was born?
 tags: [Apologetics, Errors, Contradictions, Gospel accounts]
 ---
 The two gospel writers Matthew and Luke agree that Jesus was born in Bethlehem. Mark and John do not cover the birth of Jesus.
