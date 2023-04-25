@@ -284,7 +284,7 @@ The Greek word rendered “divine quality” is θεότητος (Theotetos) whi
 
 ## Colossians 3:23,24
 
-![](https://thyreon.com/wp-content/uploads/2022/05/IMG_3024-232x300.jpg)](https://thyreon.com/wp-content/uploads/2022/05/IMG_3024.jpg)  
+![](https://i.ibb.co/hBM43hB/4172-CD89-0-BFC-4-A7-B-AFE8-CE6-DAF3-D3151.jpg)  
 *Colossians 3:23,24 Kingdom Interlinear Translation*
 
 > Whatever you are doing, work at it whole-souled as for **Jehovah**, and not for men, for you know that it is from **Jehovah** you will receive the inheritance as a reward. Slave for the **Master**, Christ.
