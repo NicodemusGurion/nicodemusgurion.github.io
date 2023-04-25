@@ -1,5 +1,5 @@
 ---
-Title: Evidence for an early gospel - Simon of Cyrene
+title: Evidence for an early gospel - Simon of Cyrene
 tags: [Early dating, Gospels, Apologetics]
 ---
 
