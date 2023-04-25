@@ -1,6 +1,6 @@
 ---
-Title: Is faith believing something without evidence?
-Tags: [Criticism, Apologetics]
+title: Is faith believing something without evidence?
+tags: [Criticism, Apologetics, Definitions, Logic]
 ---
 Believing something without evidence is not faith but gullibility. 
 
