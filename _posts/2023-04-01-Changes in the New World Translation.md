@@ -1,5 +1,5 @@
 ---
-title: Changes in the New World Trabslation
+title: Changes in the New World Translation
 tags: [Featured, Jehovah's witnesses, New World Translation, Watchtower shenanigans]
 image: https://i.ibb.co/JvTTgWS/7-Lf9-Geg1-o.jpg
 thumb: https://i.ibb.co/48LL3w0/7-Lf9-Geg1-o.jpg
