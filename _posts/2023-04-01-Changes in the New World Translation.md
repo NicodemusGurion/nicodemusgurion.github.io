@@ -166,23 +166,23 @@ The Greek and other translation has the word “now” in the text: “There is 
 
 ## Romans 8:23
 
-![](https://i.ibb.co/jgrd4wV/rom823.jpg)  
-*Romans 8:23 Kingdom Interlinear Translation*
-
 > Not only that, but we ourselves also who have the firstfruits, namely, the spirit, yes, we ourselves groan within ourselves while we are earnestly waiting for adoption as sons, **the release from our bodies by ransom**.
 
 ### Change
+
+![](https://i.ibb.co/jgrd4wV/rom823.jpg)  
+*Romans 8:23 Kingdom Interlinear Translation*
 
 If we have a look at the greek, what the bold section actually says is "awaiting the release-by-ransom of-the body of-us". The grammar is clear. It is **the bodies** that are ransomed or released. It is not a release **from** our bodies, but a release **of** our bodies. The correct translation of this verse would be "And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies." The reason they change this is probably because the true teaching of the Bible is that God does not ignore our physical bodies in his plan of redemption, but he plans to resurrect them into a glorified state in the future earth. However the Watchtower teaches that not only Jesus but also the so called "anointed" when they die leave behind their bodies to live as some sort of wispy bodiless spirits and never return to earth. This teaching is false. Not only was Jesus resurrected in his own body, but **all** Christians will be resurrected into their physical bodies. So if the Watchtower would translate this verse accurately, some of their followers might start to question this ridiculous idea that 144.000 of them will turn into ghosts while the others will have physical bodies.
 
 ## Romans 8:27
 
-![](https://i.ibb.co/jyWSn2H/rom827.jpg)  
-*Romans 8:27 Kingdom Interlinear Translation*
-
 > But the one who searches the hearts knows what the **meaning** of the spirit is, because it is pleading in harmony with God for the holy ones.
 
 ### Change
+
+![](https://i.ibb.co/jyWSn2H/rom827.jpg)  
+*Romans 8:27 Kingdom Interlinear Translation*
 
 In this verse which talks about the Holy Spirit, the Greek says φρόνημα (_phronēma_) which means "what one has in the mind, the thoughts and purposes", meaning "the mind" or "the thoughts" or "the thinking".  But the Watchtower has changed this to "meaning". This is to hide the fact that the Holy Spirit is a person who has a mind and thoughts.
 
@@ -207,12 +207,12 @@ Almost all other translation translates the last part as something along the lin
 
 ## 2 Corinthians 5:20
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1154-300x233.jpg)
-*2 Corinthians 5:20 Kingdom Interlinear Translation*
-
 > Therefore, we are ambassadors **substituting** for Christ, as though God were making an appeal through us. As **substitutes** for Christ, we beg: “Become reconciled to God.”
 
 ### Addition
+
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1154-300x233.jpg)
+*2 Corinthians 5:20 Kingdom Interlinear Translation*
 
 The Watchtower adds the word “substituting” in this verse. If you are an ambassador, you’re an ambassador for someone. You might **represent** them. But you never **substitute** them. The word is not there in Greek or any other translations. The Watchtower has added this word here to bolster their claim that they are God’s representative on earth, even to the point that they blasphemously claim that they are **substitutes** for Jesus Christ, as if Jesus is not present, so they now have all his authority. They have in a sense thrown Jesus off his throne and sat themselves down there instead. This is narcissism, hubris and blasphemy.
 
@@ -229,12 +229,12 @@ The Greek in this verse is translated as "the spirit of you". Most translations 
 
 ## Ephesians 4:8
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1155-300x139.jpg)
-*2 Corinthians 5:20 Kingdom Interlinear Translation*
 
 > For it says: “When he ascended on high he carried away captives; he gave gifts **in** men.”
 
 ### Change
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1155-300x139.jpg)
+*2 Corinthians 5:20 Kingdom Interlinear Translation*
 
 The original Greek and all other translations says that Jesus gave gifts **to** men, not **in** men. The text refers to the gifts of the Holy Spirit that Jesus gives **to** people to help them do his will. The Watchtower changes this words because they need an unquestioning obedience to their hierarchy of authority. By saying that the leaders are “gifts from God” they thus inappropriately glorify men, bordering on idolatry.
 
@@ -316,23 +316,23 @@ The Watchtower adds the words “sorts of“ in this verse. The originals says t
 
 ## 1 Timothy 4:1
 
-![](https://thyreon.com/wp-content/uploads/2022/05/IMG_3026-300x276.jpg)
-*1 Timothy 4:1 Kingdom Interlinear Translation*
-
 > However, **the inspired word** clearly says that in later times some will fall away from the faith, paying attention to misleading inspired statements and teachings of demons,
 
 ### Change/Addition
+
+![](https://thyreon.com/wp-content/uploads/2022/05/IMG_3026-300x276.jpg)
+*1 Timothy 4:1 Kingdom Interlinear Translation*
 
 The words "the inspired word" in this verse have been changed. In the Greek it says that "the spirit" is saying these things. I actually have no idea how they could twist this to mean "the inspired word". Word is "logos" and there is no "logos" in this verse. However I do understand why they would change this. This verse says that "the spirit", obviously the Holy Spirit, is saying something. And if it is saying something or speaking, that means that it is a person. "Active forces" like electricity can not "say" anything or speak prophecies as the Holy Spirit does here. Ironically this passage warns people that in "in later times" or the last days, some will fall away by listening to false spirits and teachings of demons, and by the hypocrisy of men who speak lies. Funny how the sect of Jehovah's witnesses emerged in the later days based on the teachings of a men who paid attention to false spirits and teachings of demons. And as this document shows, men who are not afraid to lie and deceive to push their false teachings.
 
 ## Hebrews 1:8
 
-![](https://thyreon.com/wp-content/uploads/2022/01/9F540853-3632-4A19-B5DC-23AE5A84FDC7-300x283.jpeg)
-*Hebrews 1:8 Kingdom Interlinear Translation*
-
 > But about the Son, he says: “**God is your throne** forever and ever, and the scepter of your Kingdom is the scepter of uprightness.
 
 ### Change
+
+![](https://thyreon.com/wp-content/uploads/2022/01/9F540853-3632-4A19-B5DC-23AE5A84FDC7-300x283.jpeg)
+*Hebrews 1:8 Kingdom Interlinear Translation*
 
 In Greek the verse says "toward (but) the Son The throne of you the God" meaning that God (the Father) tells the son: "The throne of you, o God...". God the Father here directly calls Jesus "God". This is a strong piece of evidence for the divinity of Jesus. So it is no surprise that the Watchtower boldly and blatantly change it into something that makes no sense whatsoever. "God is your throne"? Is God a chair now? How does that even make sense?
 
@@ -346,12 +346,12 @@ The words in verse 13 that are translated "in the land" in Greek actually means 
 
 ## Revelation 5:10­
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1162-300x102.jpg)
-*Revelation 5:10 Kingdom Interlinear Translation*
-
 > and you made them to be a kingdom and priests to our God, and they are to rule as kings **over** the earth.”
 
 ### Change / Biased translation
+
+![](https://thyreon.com/wp-content/uploads/2022/01/img_1162-300x102.jpg)
+*Revelation 5:10 Kingdom Interlinear Translation*
 
 The text translates the Greek word ἐπὶ (epi) as “over” when it is a preposition that means “upon”. From the surface of something and upward. This diagram from the first page of the printed edition of the Kingdom Interlinear explains it:
 
