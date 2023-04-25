@@ -1,6 +1,6 @@
 ---
 title: Does Exodus 21:22-25 support abortion?
-tags: [Abortion, Mosaic law, Apologetics]
+tags: [Abortion, Mosaic law, Apologetics, Eisegesis]
 ---
 A common claim by abortion promoters is to say that the Bible promotes abortion. One scripture they misinterpret is Numbers 5: 11-35\. And their other favorite is Exodus 21:22-25.
 
