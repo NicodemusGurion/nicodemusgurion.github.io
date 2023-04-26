@@ -1,10 +1,9 @@
 ---
-Title: The Gospels are Greco-Roman historical biographies
-Tags: [Criticis, Scholarship, Gospel accounts, History]
+title: The Gospels are Greco-Roman historical biographies
+tags: [Criticism, Scholarship, Gospel accounts, History]
 ---
 
-
-<span style="caret-color: rgb(51, 51, 51); color: rgb(51, 51, 51); font-family" open="" sans="" arial="" sans-serif="" font-size:="" font-style:="" normal="" font-variant-caps:="" font-weight:="" letter-spacing:="" orphans:="" auto="" text-align:="" left="" text-indent:="" text-transform:="" none="" white-space:="" widows:="" word-spacing:="" rgba="" background-color:="" rgb="" text-decoration:="" display:="" inline="" float:="">Are the gospels and Acts comparable to Suetonius’ Lives of the Caesars, Tacitus’ Agricola, Plutarch’s Cato Minor, Lucian’s Demonax, and Philostratus’ Apollonius of Tyana?</span> Here is what the experts say:
+Are the gospels and Acts comparable to Suetonius’ Lives of the Caesars, Tacitus’ Agricola, Plutarch’s Cato Minor, Lucian’s Demonax, and Philostratus’ Apollonius of Tyana? Here is what the experts say:
 
 *   Philip Stadter: “Philosophical biography brought out the moral character of its subjects and the relation of their teachings to their lives. Aristoxenus, a pupil of Aristotle, wrote on Pythagoras, Archytas, Socrates, and Plato; Hermippus in the third century wrote Lives of many philosophers, as well as lawgivers and other figures. Diogenes Laertius’ extant Lives of the Philosophers continues the tradition. Since such lives are usually heavy in sayings, as in Lucian’s Demonax, they may be difficult to distinguish from apophthegm collections. The Gospels also belong to this category, as does Philostratus’ novelistic Life of Apollonius of Tyana.” [“Biography and History” in A Companion to Greek and Roman Historiography vol. 2 (), 528, 530.]
 *   David Aune: “Craig Keener argues convincingly that ancient readers of Greek and Latin biographies from the period of the early Roman Empire (e.g., Cornelius Nepos, Plutarch, Suetonius, and Tacitus) had the same expectation as those who read the Gospels, expecting them to preserve the gist of what their subjects had actually said and done.” [Christobiography (Eerdmans, 2019), 3.]
