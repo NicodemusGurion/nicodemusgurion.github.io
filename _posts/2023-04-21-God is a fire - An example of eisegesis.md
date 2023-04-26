@@ -17,6 +17,7 @@ God is a fire.
 Did you know that God is actually fire? Pure, holy fire. Don't believe me? Well, it is based **only** on what the Bible teaches.
 
 > Hebrews 12:29 For our God is a consuming fire. 
+
 > Deuteronomy 4:24 For Jehovah your God is a consuming fire, a God who requires exclusive devotion.
 
 The Bible directly teaches that Jehovah God, the most high, is a consuming fire. (See also Psalm 50:3) 
