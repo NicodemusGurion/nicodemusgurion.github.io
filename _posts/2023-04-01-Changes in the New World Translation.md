@@ -14,7 +14,7 @@ This article will look at a selection of scriptures in the New World Translation
 
 ## Biased translation
 
-Strangely enough this is the only place in the NWT where they use the word "active force". Since the Watchtower teaches that the Holy Spirit is not a percon but a firce like electricity ir gravity, they have to insert this *somewhere*. But this is the only place. Perhaps they worried that if they did it consistently it would start sounding like Star Wars fan fiction.
+Strangely enough this is the only place in the NWT where they use the word "active force". Since the Watchtower teaches that the Holy Spirit is not a person but a force like electricity or gravity, they have to insert this *somewhere*. But this is the only place. Perhaps they worried that if they did it consistently it would start sounding like Star Wars fan fiction.
 
 The hebrew phrase "*Ruach Elohim*" should be translated "God's spirit". A *ruach* literally means breath or wind, but also spirit, i.e. something invisible, but that you can feel the effects of. But in every case where *Ruach* refers to things in the supernatural it refers to a living being, such as angels, demons, or the spirit of man. The only times it is referred to as an impersonal force is when it is a natural phenomena such as wind. How come that God's Holy Spirit is the only supernatural *Ruach* that is not a spirit being, but rather compared to a natural phenomena like electricity? Even though natural phenomena makes no sense in a supernatural realm? This is the kind of nonsense you get when you deny the personhood of the Holy Spirit.
 
