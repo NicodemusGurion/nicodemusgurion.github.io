@@ -49,4 +49,4 @@ There is no way you can add it up to 607 BCE without getting gaps of up to 20 ye
 
 If you don’t have 607 B.C.E you can’t have 1914 C.E. If you don’t have 1914 C.E. you don’t have any invisible coming of Jesus Christ, nor any selection of a divinely appointed “Faithful servant”. In other words, the Watchtower has no divine appointment and there is no reason for you to trust or fear them.
 
-![](https://thyreon.com/wp-content/uploads/2022/01/img_1164-1024x699.jpg)
+![](https://i.ibb.co/Bcq4yT5/Destruction-Of-Jerusalem.jpg)
