@@ -62,6 +62,8 @@ The voice of Jehovah strikes with flames.
 God consumed the sacrifice of Elijah by fire.
 
 > 1 Kings 18:24 Then you must call on the name of your god, and I will call on the name of Jehovah. **The God who answers by fire will show that he is the true God**.” To this all the people answered: “What you say is good.” 
+
+
 > 1 Kings 18: 38 At that the fire of Jehovah fell from above and consumed the burnt offering, the pieces of wood, the stones, and the dust, and it licked up the water from the trench. 
 > 2 Kings 2:12 But E·liʹjah answered them: “If I am a man of the true God, let fire come down from the heavens and consume you and your 50 men.” And fire of God came down from the heavens and consumed him and his 50 men. 
 > Revelation 14:10 he will also drink of the wine of the anger of God that is poured out undiluted into the cup of His wrath, and he will be tormented with fire and sulfur in the sight of the holy angels and in the sight of the Lamb. 
