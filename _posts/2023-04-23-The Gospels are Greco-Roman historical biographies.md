@@ -1,8 +1,8 @@
 ---
 title: The Gospels are Greco-Roman historical biographies
 tags: [Criticism, Scholarship, Gospel accounts, History]
-image: https://i.ibb.co/gwbRwWt/tacitus2.jpg
-thumb: https://i.ibb.co/2j26KX3/tacitus.jpg
+image: https://i.ibb.co/D7XbK3f/tacitus.jpg
+thumb: https://i.ibb.co/gwbRwWt/tacitus2.jpg
 ---
 
 Are the gospels and Acts comparable to Suetonius’ Lives of the Caesars, Tacitus’ Agricola, Plutarch’s Cato Minor, Lucian’s Demonax, and Philostratus’ Apollonius of Tyana? Here is what the experts say:
