@@ -9,7 +9,7 @@ permalink: /databasenew.json
 "postlist": [
 {% for post in site.posts  %}
 { "title": {{ post.title | jsonify }}, "url": {{ post.url | jsonify }}, "thumb": {{ post.thumb | jsonify }} }{% unless forloop.last %},{% endunless -%}
-{%   assign content = post.title | append: " " | append: post.content | replace: "'", "" %}
+{%   assign content = post.title | append: " " | append: post.content | replace: "'", "" | replace: "’", "" %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
 {%     unless word.size < 2 %}
