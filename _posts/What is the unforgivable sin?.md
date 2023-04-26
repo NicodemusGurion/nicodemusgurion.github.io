@@ -1,3 +1,7 @@
+---
+image: https://i.ibb.co/b3cmqWY/holyspirit.jpg
+thumb: https://i.ibb.co/kyNBkHz/holyspirit.jpg
+---
 Blaspheming the Holy Spirit, also known as the unforgivable or unpardonable sin, is a topic that it seems a lot of people are concerned about. If you’re asking this question I can put your mind at ease, you probably haven’t.
 
 The unforgivable sin is interpreted by Christian theologians in slightly different ways, but they generally agree that one who has committed the sin is no longer able to repent, so if you are fearful that you have committed it, that means you have not done so.
