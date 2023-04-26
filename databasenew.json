@@ -16,13 +16,11 @@ permalink: /databasenew.json
 {%     unless skipWordList contains invalidWordCheck %}
 {%       assign wordKey = "[" | append: word | append: "]" %}
 {%       unless wordList contains wordKey  %}
-{%         assign post_id = post.title | append: "|" | append: post.url %}
 {%         assign wordList = wordList | append: "[" | append: word | append: "]" | append: postCounter %}
 {%       else %}
 {%         assign lookForWord = "[" | append: word | append: "]" %}
-{%         assign splitWordList = wordList | split: lookForWord %}
-{%         assign post_id = post.title | append: "|" | append: post.url %}
-{%         assign wordList = splitWordList[0] | append: lookForWord | append: postCounter | append: "," | append: splitWordList[1]  %}
+{%         assign splitWordList = wordList | split: wordKey %}
+{%         assign wordList = splitWordList[0] | append: wordKey | append: postCounter | append: "," | append: splitWordList[1]  %}
 {%       endunless %}
 {%     endunless %}
 {%   endfor %}
