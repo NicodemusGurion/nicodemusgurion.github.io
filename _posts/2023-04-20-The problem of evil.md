@@ -1,6 +1,7 @@
 ---
 title: The Epicurean problem of evil
 tags: [Criticism, Philosophy, Evil, Suffering, Apologetics]
+thumb: https://i.ibb.co/Jy9Tb0J/A4-F88479-8-AA1-45-EA-840-B-F559-CB9-ACA25.jpg
 ---
 The earliest statement of the problem of evil is attributed to the Greek philosopher [Epicurus](https://en.wikipedia.org/wiki/Epicurus). It is frequently used as an argument against God as defined by the Bible. Epicurus's version of the problem is commonly summarized as follows:
 
