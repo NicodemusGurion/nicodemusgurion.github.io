@@ -1,7 +1,7 @@
 ---
 title: Can God create a rock so big he can't lift it?
 tags: [Logic, Atheism, Scepticism, Gotchas, Criticism]
-image:
+image: https://i.ibb.co/5Y667cd/42012029-6992-4-A41-928-A-D4-A7-FC386-A9-F.jpg
 thumb: 
 ---
 
