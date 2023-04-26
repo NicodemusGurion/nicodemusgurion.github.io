@@ -1,7 +1,8 @@
 ---
 title: Arian proof texts: Revelation 3:14 Jesus is the beginning
 tags: [Arianism, Deity of Christ, Jehovah's witnesses, Greek]
-
+thumb: https://i.ibb.co/yXYVMX0/beginningandend.jpg
+image: https://i.ibb.co/m8xJWLR/beginningandendheader.jpg
 ---
 
 ## The argument:
