@@ -12,15 +12,17 @@ permalink: /databasenew.json
 {%   assign content = post.title | append: " " | append: post.content %}
 {%   assign words = content | strip_html | strip_newlines | slugify: "latin" | split: "-" %} 
 {%   for word in words  %}
-{%     assign invalidWordCheck = "|" | append: word | append: "|"   %}
-{%     unless skipWordList contains invalidWordCheck %}
-{%       assign wordKey = "[" | append: word | append: "]" %}
-{%       unless wordList contains wordKey  %}
-{%         assign wordList = wordList | append: "[" | append: word | append: "]" | append: postCounter %}
-{%       else %}
-{%         assign lookForWord = "[" | append: word | append: "]" %}
-{%         assign splitWordList = wordList | split: wordKey %}
-{%         assign wordList = splitWordList[0] | append: wordKey | append: postCounter | append: "," | append: splitWordList[1]  %}
+{%     unless word.size < 2 %}
+{%       assign invalidWordCheck = "|" | append: word | append: "|"   %}
+{%       unless skipWordList contains invalidWordCheck %}
+{%         assign wordKey = "[" | append: word | append: "]" %}
+{%         unless wordList contains wordKey  %}
+{%           assign wordList = wordList | append: "[" | append: word | append: "]" | append: postCounter %}
+{%         else %}
+{%           assign lookForWord = "[" | append: word | append: "]" %}
+{%           assign splitWordList = wordList | split: wordKey %}
+{%           assign wordList = splitWordList[0] | append: wordKey | append: postCounter | append: "," | append: splitWordList[1]  %}
+{%         endunless %}
 {%       endunless %}
 {%     endunless %}
 {%   endfor %}
