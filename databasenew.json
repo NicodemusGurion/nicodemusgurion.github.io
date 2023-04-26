@@ -32,20 +32,20 @@ permalink: /databasenew.json
 {%   unless section == "" %}
 {%     assign wordAndList = section | split: "]" %}
 {%     assign sectionWord = wordAndList[0] | strip %}
-{{    sectionWord | jsonify }}: {
+{{    sectionWord | jsonify }}: [
 {%     assign urls = wordAndList[1] | split: "," | sort %}
 {%     assign uniqurls = urls | uniq %}
 {%     for uniqurl in uniqurls %}
-{{      uniqurl | jsonify }}:
+{{      uniqurl | jsonify }}
 {%       assign thisUrlCount = 0 %}
 {%       for url in urls %}
 {%         if url == uniqurl %}
 {%           assign thisUrlCount = thisUrlCount | plus: 1 %}
 {%         endif %}
 {%       endfor %}
-{{       thisUrlCount }}{% unless forloop.last %},{% endunless -%}
+{% unless forloop.last %},{% endunless -%}
 {%     endfor %}
-}{% unless forloop.last %},{% endunless -%}
+]{% unless forloop.last %},{% endunless -%}
 {%   endunless %}
 {% endfor %}
 }
