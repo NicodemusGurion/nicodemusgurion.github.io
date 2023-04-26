@@ -1,6 +1,8 @@
 ---
-Title: Were ancient Jews illiterate?
+title: Were ancient Jews illiterate?
 tags: [Apologetics, History, Jewish culture, Archaeology]
+thumb: https://i.ibb.co/QXzZ7mr/jewreading.jpg
+image: https://i.ibb.co/ZNt3RTW/jewreading.jpg
 ---
 A common accusation against the Bible has to do with literacy. It is assumed that people in biblical times were illiterate. That they were just dumb peasants and fishermen who could not read or write. Is this true? 
 
