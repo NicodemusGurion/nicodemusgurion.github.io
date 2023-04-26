@@ -244,7 +244,7 @@ Paul later recalls how Ananias came to him, and told him:
 
 > Acts 22:16 And now why do you wait? Rise and be baptized and wash away your sins, **calling on his name**.’
 
-The result of Paul's conversion was so amazing and soead through the Christian population. This is their reaction:
+The result of Paul's conversion was so amazing and spread through the Christian population. This is their reaction:
 
 > Acts 9:21 And all who heard him were amazed and said, “Is not this the man who made havoc in Jerusalem of **those who called upon this name?** And has he not come here for this purpose, to bring them bound before the chief priests?”
 
