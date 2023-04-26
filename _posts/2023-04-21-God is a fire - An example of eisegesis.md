@@ -1,6 +1,8 @@
 ---
 title: God is a fire - An example of eisegesis
 tags: [Jehovah's witnesses, Exegesis, Eisegesis, Interpretation]
+image: https://i.ibb.co/P1n28mp/fire-ga055d869d-640.jpg
+thumb: https://i.ibb.co/wpXn10H/fire-ga055d869d-640.jpg
 ---
 
 [Eisegesis](https://en.m.wikipedia.org/wiki/Eisegesis) (/ˌaɪsɪˈdʒiːsɪs/) is **the process of interpreting text in such a way as to introduce one's own presuppositions, agendas or biases**. It is commonly referred to as "reading into the text". The opposite of this is [exegesis](https://en.m.wikipedia.org/wiki/Exegesis),  which is to read and interpret a text based on its internal context, without our external biases. 
