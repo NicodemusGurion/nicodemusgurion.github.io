@@ -1,7 +1,8 @@
 ---
 title: Extraordinary claims require extraordinary evidence
 tags: [Criticism, Scepticism, Apologetics]
-
+thumb: https://i.ibb.co/d0GKSTn/3-ED4-DAF1-A323-4-DE0-932-F-640-F7-FEAE3-FE.jpg
+image: https://i.ibb.co/Fnf1Z7W/6-EAEADA0-723-B-4-C57-9-BD6-CC8-EE748-D83-E.jpg
 ---
 This is something that you'll often hear in slogan or meme form on the internet. Especially when it comes to proving the resurrection of Jesus Christ. 
 
