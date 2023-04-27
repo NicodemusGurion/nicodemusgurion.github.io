@@ -15,8 +15,7 @@
 })(document);
 
 
-var SearchDatabase;
-
+  	var SearchDatabase;
 	function loadDatabase() //load database if not loaded
 	{
 		if (SearchDatabase === undefined)
@@ -28,17 +27,16 @@ var SearchDatabase;
 		  })	
 		}
 	}
-  
-  function applySuggestion(suggestedWord)
-  {
-	let searchQueryWords = document.querySelector("#searchQuery").value.trim().split(" "); //get current query split into an array
-	searchQueryWords.pop(); //remove last word
-	searchQueryWords.push(suggestedWord); //push the suggestion to the end
-	let newQuery = searchQueryWords.join(" ");
-	document.querySelector("#searchQuery").value = newQuery;
-	document.querySelector('#searchQuery').focus(); //put focus on the input field
-	searchInDatabase(newQuery); //execute the query
-  }
+	function applySuggestion(suggestedWord)
+	{
+		let searchQueryWords = document.querySelector("#searchQuery").value.trim().toLowerCase().split(" "); //get current query split into an array
+		searchQueryWords.pop(); //remove last word
+		searchQueryWords.push(suggestedWord); //push the suggestion to the end
+		let newQuery = searchQueryWords.join(" ");
+		document.querySelector("#searchQuery").value = newQuery;
+		document.querySelector('#searchQuery').focus(); //put focus on the input field
+		searchInDatabase(newQuery); //execute the query
+	}
   
   function searchInDatabase(query) //search for a query text
   {
@@ -47,7 +45,7 @@ var SearchDatabase;
       loadDatabase();
   	  return;
     }
-	var queryWords = query.toLowerCase().trim().split(" "); //prep query words by splitting
+	var queryWords = query.toLowerCase().trim().replace(/[\'\’\ʹ\·]/gi, "").split(" "); //prep query words by splitting
 
     if (query.trim().length == "" || queryWords.length == 0) //on empty query, show no result box
     {
@@ -57,48 +55,52 @@ var SearchDatabase;
     var foundMatches = {}; //a hash with the page ids where the words are found, and how many times a word is found on that page.
     var suggestedWords = []; //if the user writes a partial word not in the list, make some suggestions
     var lastWord = queryWords[queryWords.length - 1]; //get last word to generate suggestions.
-	for (const [key, value] of Object.entries(SearchDatabase.searchdata)) { //loop thru key/val pairs
-		if (key.startsWith(lastWord) && key != lastWord) { //if a word starts with the word (but is not the word)
+	const sortedEntries = Object.entries(SearchDatabase.searchdata).sort((a, b) => b[1].length - a[1].length); //sort database words according to how many pages contain them
+    sortedEntries.forEach(entry => {
+	  	const key = entry[0];
+	  	if (key.startsWith(lastWord) && key != lastWord) { //if a word starts with the word (but is not the word)
 			suggestedWords.push(key) //add word to suggestions
-			if (suggestedWords.length >= 10) //limit to 10 suggestions
-			{
-				break;
-			}
 		}
-	}
+	});
+	suggestedWords = suggestedWords.slice(0,10); //pick only first 10 suggestions
+
     for (queryWord of queryWords) //loop thru query word list
     {
 		if (queryWord in SearchDatabase.searchdata) //check if the word exists in the db
     	{    	
-    		for (const pageIndex in SearchDatabase.searchdata[queryWord]) //get the page indexes to the pages that the word is found in
-    	  	{
-    	  		foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
-    	  		if (SearchDatabase.postlist[pageIndex].title.includes(queryWord)) //if the word is even found in the title...
-    	  		{
-    	  			foundMatches[pageIndex] += 2; //increase the score even more because that's good stuff
-    	  		}
-    	  	}
+    		for(pageIndex of SearchDatabase.searchdata[queryWord])
+			{
+				foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
+				if (SearchDatabase.postlist[pageIndex].title.toLowerCase().includes(queryWord)) //if the word is even found in the title...
+				{
+					foundMatches[pageIndex] = 2 + (foundMatches[pageIndex] || 0); //increase the score even more because that's good stuff
+				}
+			}
+
     	}
     }
-    output = "";
+    var output = "";
     if (Object.keys(foundMatches).length === 0)
     {
     	for (queryWord of suggestedWords) //loop thru suggested word list
 		{
 			if (queryWord in SearchDatabase.searchdata) //check if the word exists in the db
 			{    	
-				for (const pageIndex in SearchDatabase.searchdata[queryWord]) //get the page indexes to the pages that the word is found in
+				for(pageIndex of SearchDatabase.searchdata[queryWord])
 				{
 					foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
-					if (SearchDatabase.postlist[pageIndex].title.includes(queryWord)) //if the word is even found in the title...
+					if (SearchDatabase.postlist[pageIndex].title.toLowerCase().includes(queryWord)) //if the word is even found in the title...
 					{
-						foundMatches[pageIndex] += 2; //increase the score even more because that's good stuff
+						foundMatches[pageIndex] = 2 + (foundMatches[pageIndex] || 0); //increase the score even more because that's good stuff
 					}
 				}
 			}
 		}
+		
 		output += "<sub>(No exact matches. Result is based on suggested words.)</sub>";
     }
+    console.log(foundMatches);
+
 	if (Object.keys(foundMatches).length === 0) //If it turns out we couldn't find anything, output a no result box
     {
     	output = "No results.";
@@ -115,7 +117,6 @@ var SearchDatabase;
 		}
 		output += "</ul>";
     }
-
     if (suggestedWords.length > 0) //if there was an incomplete last word and there were similar words found, make a short list of them
     {
     	var suggestions = "";
@@ -127,5 +128,4 @@ var SearchDatabase;
     }
     document.querySelector("#searchResults").innerHTML = output;
     document.querySelector("#searchResults").style.display ="block";
-
   }
