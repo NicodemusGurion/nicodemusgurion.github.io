@@ -1,6 +1,7 @@
 ---
 title: Is God lying in these scriptures?
 tags: [Criticism, Apologetics, Contradictions]
+thumb: https://i.ibb.co/Ch3vdhn/038-B02-A6-E709-4-FF5-81-F7-CB58574-F0-F3-C.jpg
 ---
 Numbers 23:19 says "God is not human, that he should lie", Hebrews 6:18 says "it is impossible for God to lie" and Titus 1:2 says "God, who does not lie". It seems pretty clear that God is not a liar. But there are some scriptures that seem to question this assumption. We'll look at some examples of places where it may look like God is lying, but let's examine them closer.
 
