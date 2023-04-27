@@ -1,6 +1,8 @@
 ---
 title: Spiritual "virgins"?
-tags: [Jehovah's Witnesses, Watchtower]
+tags: [Jehovah's Witnesses, Watchtower, Anointed, Governing body]
+thumb: https://i.ibb.co/cb79BKs/3-F6-BCA7-E-7199-4918-9-BE8-5-B0-F36-B40-E7-A.jpg
+image: https://i.ibb.co/0BdL7pz/3-F6-BCA7-E-7199-4918-9-BE8-5-B0-F36-B40-E7-A.jpg
 ---
 What does it mean to be a virgin? Traditionally, being a virgin means being someone who has never had any sexual intercourse. In the book of Revelation it talks about a group of 144.000 which Jehovah's witnesses believe are the only humans who are "anointed" and go to heaven when they die. The Governing Body of the Watchtower, the leaders of Jehovah's witnesses, are said to be part of this group. However Revelation teaches that these 144.000 are "virgins". The Watchtower interprets this as that the 144.000 of Revelation are "spiritual virgins" meaning they have never partaken in false worship.
 
