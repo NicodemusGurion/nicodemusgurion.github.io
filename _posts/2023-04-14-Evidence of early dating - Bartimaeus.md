@@ -1,6 +1,8 @@
 ---
 title: Evidence of early dating - Bartimaeus
 tags: [Early dating, Apologetics]
+thumb: https://i.ibb.co/86Tn4xL/2-F3-E90-D9-BE62-4713-863-E-8881884-FDB03.jpg
+image: https://i.ibb.co/n8qY05P/4-D9-A7961-625-D-48-F4-9561-E393996-CE27-E.jpg
 ---
 Like in the case of [Simon of Cyrene](/Evidence-for-an-early-gospel-Simon-of-Cyrene), Mark 10:46 has a strange remark:
 
