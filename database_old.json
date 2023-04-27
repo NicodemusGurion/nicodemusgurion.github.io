@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /database.json
+permalink: /databaseold.json
 ---
 {% capture string_with_newlines %}
 {% assign wordList = ""  %}
