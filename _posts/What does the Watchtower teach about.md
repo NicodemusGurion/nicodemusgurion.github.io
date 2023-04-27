@@ -1,9 +1,13 @@
+---
+title: What does the Watchtower teach about...
+tags: [Jehovah's witnesses, Watchtower, Lists, Resources, Jehovah, Jesus, Salvation, Michael the archangel, The Bible, Child Sexual Abuse, 1914]
+---
 This is a long list of references to Watchtower publications for easy access to what the Watchtower teaches about different issues.
 
 # God
 
 What does the Watchtower teach about God?
-
+ 
 ## The name of God, is it Jehovah or Yahweh?
 
 *   ["We do not say that “Jehovah” is the correct pronunciation of God’s name.... for in [the thirteenth century] century the word [Jehovah] historically appears..."](https://wol.jw.org/en/wol/d/r1/lp-e/1950881?p=par#h=27)
