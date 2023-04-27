@@ -1,3 +1,7 @@
+---
+image: https://i.ibb.co/bzqWPzG/17615243-334-C-486-D-B46-F-F9-F7962688-A0.jpg
+thumb: https://i.ibb.co/Pw3mNwV/17615243-334-C-486-D-B46-F-F9-F7962688-A0.jpg
+---
 If you read the gospel of John, John never explicitly identify himself by name, which cause some to say that the gospel is anonymous. In the technical sense that he doesn't identify himself, then yes. But is it really so that it is impossible to know who wrote it? I put it to you that the writer of the gospel of John reveals who he is between the lines. Let's look at only internal evidence to see who the author may be.
 
 ## The author was Jewish
@@ -6,7 +10,14 @@ This point is rarely disputed. The author made many references to Jewish beliefs
 
 ## The author was a native of Palestine
 
-In John 2:11,12 there's a trip from Cana to Capernaum that is described as going "down". Cana is about 200 meters above sea level and Capernaum is about 200 meters below sea level. In John 4:46;5:1 it describes how Jesus went "up" from Cana to Jerusalem. Jerusalem has an elevation of 785 meters above sea level. In John 11:18 Bethany is described as being 15 stadia (1.7 miles/2.77km) from Jerusalem, which is accurate. [caption id="attachment_806" align="alignright" width="300"][![Photo of the ruins of the pool of Bethesda](https://thyreon.com/wp-content/uploads/2022/04/C7AB7793-F491-4338-A202-05EB1D47A554-300x200.jpeg)](https://www.flickr.com/people/41523983@N08) [Pool of Bethesda (Carole Raddato)](https://www.flickr.com/people/41523983@N08)[/caption] In John 5:2 the author describes the pool of Bethesda which had 5 colonnades. When excavated it turned out to be true. In John 10:23 he describes the colonnade of Solomon. Since the temple of Jerusalem was destroyed in 70 AD, whoever wrote these details must have been someone who lived before 70 AD. In John 6:1 he refers to the Sea of Galilee as the Sea of Tiberias, which was a local unofficial name for it. (John 6:1)  Something only a local would be likely to know and use. Getting this kind of information would be almost impossible for someone who was an outsider. So we can conclude that the author was a local who lived in the area of Palestine before 70 AD and had accurate knowledge of place names, geography and topology.
+In John 2:11,12 there's a trip from Cana to Capernaum that is described as going "down". Cana is about 200 meters above sea level and Capernaum is about 200 meters below sea level. In John 4:46;5:1 it describes how Jesus went "up" from Cana to Jerusalem. Jerusalem has an elevation of 785 meters above sea level. In John 11:18 Bethany is described as being 15 stadia (1.7 miles/2.77km) from Jerusalem, which is accurate.
+
+<span class="infobox">
+[ ![Photo of the ruins of the pool of Bethesda](https://i.ibb.co/GvSWfkP/Pool-Of-Bethesda.jpg) ](https://www.flickr.com/people/41523983@N08)  
+[Pool of Bethesda (Carole Raddato)](https://www.flickr.com/people/41523983@N08) 
+</span>
+
+In John 5:2 the author describes the pool of Bethesda which had 5 colonnades. When excavated it turned out to be true. In John 10:23 he describes the colonnade of Solomon. Since the temple of Jerusalem was destroyed in 70 AD, whoever wrote these details must have been someone who lived before 70 AD. In John 6:1 he refers to the Sea of Galilee as the Sea of Tiberias, which was a local unofficial name for it. (John 6:1)  Something only a local would be likely to know and use. Getting this kind of information would be almost impossible for someone who was an outsider. So we can conclude that the author was a local who lived in the area of Palestine before 70 AD and had accurate knowledge of place names, geography and topology.
 
 ## The author was an **eyewitness**
 
