@@ -34,6 +34,14 @@ This matches perfectly with the previous contexts because in chapter 18 and 19 J
 
 The plain reading of the Bible matches well with the Trinity doctrine. So likely the Watchtower change the wording to hide what could be used as evidence for the trinity doctrine. Their interpretation is clunky: “Jehovah made it rain. It came from Jehovah. From heaven.” Sounds like something a caveman would say.
 
+# Numbers 23:2,3
+
+> Numbers 23:3,4 — Baʹlaam then said to Baʹlak: “Stay here by your burnt offering, and I will go. Perhaps Jehovah will **get in touch** with me. Whatever he reveals to me, I will tell you.” So he went to a barren hill. 4 Then God **got in touch** with Baʹlaam, who said to Him: “I set the seven altars in rows, and I offered up a bull and a ram on each altar.”
+
+## Change/Misleading translation 
+
+The text actually says that Jehovak **met** Balaam on the hill. Throughout the Old Testament Jehovah continually meets people physically, and is visibly seen and sometimes even touched by people. This goes against the Watchtower idea that Jehovah is kind of like Allah, impossible to meet. And the idea of Jehovah coming to meet people on earth sounds too much like something Jesus would do. Therefore they try to obfuscate passages like these, using a term like "get in touch with" which can mean both to meet and to just generally contact someone. It kind of makes it sound like a Wall Street yuppie wanting to get in touch with you, do lunch and make a deal or something.
+
 # Psalm 14:1
 
 > The foolish one says in his heart: “There is no **Jehovah**.” Their actions are corrupt, and their dealings are detestable; No one is doing good.
