@@ -75,3 +75,5 @@ It also shows common people were multilingual.
 ## Conclusion
 
 It is evident from both archaeological and historical evidence that literacy was common and wide spread among all strata of society, all the way back to the founding of the nation of Israel. Hence anyone who tries to cast doubt on the ability of common people like Jesus' diciples to produce literature is clearly either ignorant or lying.
+
+<sub>Image courtesy of [dyskfirmowy0](https://pixabay.com/users/dyskfirmowy0-883930/)</sub>
