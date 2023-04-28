@@ -26,4 +26,4 @@ This is also in harmony with the Bible's overarching emphasis on the sanctity of
 
 So no, Exodus 21:22-25 can not be used as support for abortions. Rather it shows how serious God views the intentional or unintentional killing of an unborn child.
 
-<sub>Image courtesy of [Marbcov](https://pixabay.com/users/marncom-3328827/)</sub>
+<sub>Image courtesy of [Marncov](https://pixabay.com/users/marncom-3328827/)</sub>
