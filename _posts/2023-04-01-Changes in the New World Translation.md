@@ -40,7 +40,7 @@ The plain reading of the Bible matches well with the Trinity doctrine. So likely
 
 ## Change/Misleading translation 
 
-The text actually says that Jehovak **met** Balaam on the hill. Throughout the Old Testament Jehovah continually meets people physically, and is visibly seen and sometimes even touched by people. This goes against the Watchtower idea that Jehovah is kind of like Allah, impossible to meet. And the idea of Jehovah coming to meet people on earth sounds too much like something Jesus would do. Therefore they try to obfuscate passages like these, using a term like "get in touch with" which can mean both to meet and to just generally contact someone. It kind of makes it sound like a Wall Street yuppie wanting to get in touch with you, do lunch and make a deal or something.
+The text actually says that Jehovak **met** Balaam on the hill. Throughout the Old Testament Jehovah continually meets people physically, and is visibly seen and sometimes even touched by people. This goes against the Watchtower idea that Jehovah is kind of like Allah, impossible to meet. And the idea of Jehovah coming to meet people on earth sounds too much like something Jesus would do. Therefore they try to obfuscate passages like these, using a term like "get in touch with" which can mean both to meet and to just generally contact someone. 
 
 # Psalm 14:1
 
