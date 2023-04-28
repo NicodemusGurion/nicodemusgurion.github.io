@@ -1,6 +1,8 @@
 ---
 title: Does Exodus 21:22-25 support abortion?
 tags: [Abortion, Mosaic law, Apologetics, Eisegesis]
+image: https://i.ibb.co/rb488Wg/C2-A02-A0-B-AAB2-4-FD1-99-CA-51277-B36-FF7-A.jpg
+thumb: https://i.ibb.co/wy5s5v7/1-E3-E8864-91-F4-466-D-A19-C-03-E886-FA743-E.jpg
 ---
 A common claim by abortion promoters is to say that the Bible promotes abortion. One scripture they misinterpret is Numbers 5: 11-35\. And their other favorite is Exodus 21:22-25.
 
@@ -23,3 +25,5 @@ In other words if the woman gives birth prematurely and the _child_ dies, then t
 This is also in harmony with the Bible's overarching emphasis on the sanctity of life.
 
 So no, Exodus 21:22-25 can not be used as support for abortions. Rather it shows how serious God views the intentional or unintentional killing of an unborn child.
+
+<sub>Image courtesy of [Marbcov](https://pixabay.com/users/marncom-3328827/)</sub>
