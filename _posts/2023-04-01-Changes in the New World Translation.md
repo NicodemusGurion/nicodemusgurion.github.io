@@ -37,6 +37,7 @@ The plain reading of the Bible matches well with the Trinity doctrine. So likely
 # Numbers 23:2,3,15,16
 
 > Baʹlaam then said to Baʹlak: “Stay here by your burnt offering, and I will go. Perhaps Jehovah will **get in touch with** me. Whatever he reveals to me, I will tell you.” So he went to a barren hill. 4 Then God **got in touch with** Baʹlaam, who said to Him: “I set the seven altars in rows, and I offered up a bull and a ram on each altar.” [...] 15 So Baʹlaam said to Baʹlak: “Stay here by your burnt offering while I **get in touch with** Him over there.” 16 And Jehovah **got in touch with** Baʹlaam and put this word in his mouth: “Return to Baʹlak, and this is what you are to say.”
+
 ## Change/Misleading translation 
 
 The text actually says that Jehovak **met** Balaam on the hill. Throughout the Old Testament Jehovah continually meets people physically, and is visibly seen and sometimes even touched by people. This goes against the Watchtower idea that Jehovah is kind of like Allah, impossible to meet. And the idea of Jehovah coming to meet people on earth sounds too much like something Jesus would do. Therefore they try to obfuscate passages like these, using a term like "get in touch with" which can mean both to meet and to just generally contact someone. It kind of makes it sound like a Wall Street yuppie wanting to get in touch with you, do lunch and make a deal or something.
