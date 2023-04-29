@@ -22,7 +22,7 @@ Whenever the topic of abortion comes up you can be sure someone will claim that 
 
 So what is going on here?
 
-First of all this is all about a man being jealous or suspicious that his wife has been unfaitful. It has absolutely nothing to do with abortions or even causing a misscarriage. There is not even a single indication that the woman is even pregnant.
+First of all this is all about a man being jealous or suspicious that his wife has been unfaitful. *It has absolutely nothing to do with abortions or even causing a misscarriage.* There is not even a single indication that the woman is even pregnant.
 
 So the jealous husband takes her to the priest. The priest does a weird ritual involving water mixed with dust and ink and saying some oaths.
 
