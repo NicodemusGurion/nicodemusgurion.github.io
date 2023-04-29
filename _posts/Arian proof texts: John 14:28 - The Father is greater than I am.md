@@ -1,3 +1,8 @@
+---
+title: "Arian proof texts: John 14:28 - The Father is greater than I aml
+tags: [Arianism, Jehovah's witnesses, Deity of Christ, Exegesis]
+---
+
 ## The argument:
 
 > John 14:28 — You heard that I said to you, ‘I am going away and I am coming back to you.’ If you loved me, you would rejoice that I am going to the Father, for **the Father is greater than I am.**
