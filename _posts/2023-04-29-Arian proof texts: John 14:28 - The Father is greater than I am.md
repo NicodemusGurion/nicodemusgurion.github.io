@@ -1,5 +1,5 @@
 ---
-title: "Arian proof texts: John 14:28 - The Father is greater than I aml
+title: "Arian proof texts: John 14:28 - The Father is greater than I am"
 tags: [Arianism, Jehovah's witnesses, Deity of Christ, Exegesis]
 ---
 
