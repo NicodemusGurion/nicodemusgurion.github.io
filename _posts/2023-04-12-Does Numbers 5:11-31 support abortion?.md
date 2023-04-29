@@ -1,6 +1,8 @@
 ---
 title: Does Numbers 5:11-31 support abortion?
 tags: [Criticism, Apologetics, Abortion, Eisegesis]
+image: https://i.ibb.co/20223Xd/84-A73-D86-A943-4-D4-C-BB74-486-CE2-F6-E5-D9.jpg
+thumb: https://i.ibb.co/zWccVKZ/84-A73-D86-A943-4-D4-C-BB74-486-CE2-F6-E5-D9.jpg
 ---
 Whenever the topic of abortion comes up you can be sure someone will claim that ”there is an abortion procedure described in Numbers 5:11-31”. Is this true? [You can read the whole passage here](https://biblehub.com/bsb/numbers/5.htm), but it is long, so let’s just look at the pertinent parts.
 
@@ -31,3 +33,5 @@ If the woman is guilty she is punished directly by God with what appears to be [
 However if the woman is innocent, she will be blessed with pregnancy. Because being pregnant and fruitful is a great blessing. So one of the two outcomes of this ritual would be **the polar opposite of an abortion**.
 
 Whoever came up with this myth lacks basic reading comprehension skills. Please stop spreading this false claim.
+
+<sub> Image courtesy of [StockSnap](https://pixabay.com/users/stocksnap-894430/) </sub>
