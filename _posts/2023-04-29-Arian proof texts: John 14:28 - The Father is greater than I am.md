@@ -3,6 +3,8 @@ title: "Arian proof texts: John 14:28 - The Father is greater than I am"
 tags: [Arianism, Jehovah's witnesses, Deity of Christ, Exegesis]
 ---
 
+Does John 14:28 prove that Jesus is not God? Arians have claimed this for 1700 years. Let's look into it.
+
 ## The argument:
 
 > John 14:28 — You heard that I said to you, ‘I am going away and I am coming back to you.’ If you loved me, you would rejoice that I am going to the Father, for **the Father is greater than I am.**
