@@ -8,13 +8,27 @@ The final part of a sentence taken out of context suggests that there is a diffe
 
 This is probably the most well known Arian proof text. It is one of the verses Arius himself took out of context to prove his new teachings at the turn of the fourth century.
 
-### Greater in what way?
+### The immediate context
 
-Arians never stop to ask themselves "The Father is greater than the Son **in what way?**" They would read past verse 12 without thinking either:
+When Jesus spoke these words, he existed as a human being on earth. As Philippians 2:5-8 points out, Jesus was originally existing in the same form as God the Father in Heaven, showing that he shares the divine essence. However he humbly "emptied himself" of his divine glory, and took on the form of a human. In other words he added a human essence to his divine essence. During his time on earth, Jesus operated through his human essence. And after his sacrifice he returned to his former divine glory in Heaven.
+
+John 14 is all about Jesus teaching his disciples about this last part: That he soon would have to leave earth and go back to his divine position in heaven. He tells them that when he is gone, the Holy Spirit will come instead. In the long run it will be better for them to have the Holy Spirit than to have him, because his physical human form is limited and can only be in one place at a time, and can only do so much. This is what leads up to verse 28. And in verse 28 he says that they should be happy that he is going back to the father, because the father is greater than him.
+
+In other words, "be happy that I will regain my divine equality with the father, because when I have, I can send the Holy Spirit to hep you."
+
+So in this was we understand that Jesus meant that his powers as a human were limited, and that the father's powers were greater. But he also said that he would soon go back to the Father and regain these powers. So in this sense him being less great than the father was just temporary.
+
+### Greater in other ways
+
+Arians never stop to ask themselves "The Father is greater than the Son **in what way?**" 
+
+The word "greater" is even used in verse 12:
 
 > John 14:12 “Truly, truly, I say to you, whoever believes in me will also do the works that I do; and **greater works than these** will he do, because I am going to the Father.
 
-Jesus did amazing works, including expelling demons, curing sick people, multiplying food, even raising the dead. How would his diciples ever top that and do "greater works than these". By the _quantity_, not the _quality._ They would do their works for a greater time, in a greater area, to a greater number of people, and a greater number of times. The same way, when Jesus is saying the Father is _greater_ than him, he is not saying this in the absolute term. In heaven, the Father is greater than the Son in position, authority and rank_,_ but **not**in _divinity._ Many other scriptures affirm that the Son shares the same godhood as the Father.(([See examples of scriptures proving the divinity of the Son here.](https://thyreon.com/list-of-scriptures-proving-the-deity-of-christ/))) And while Jesus was on earth, active in the form of a human, the Father was temporarily also greater in divine power. But it does not mean that the Father is greater in the Son in his divinity, or godhood. The whole of John chapter 14 repeatedly affirms the divinity of Jesus, which leads us to the next point that Arians fail at.
+Jesus did amazing works, including expelling demons, curing sick people, multiplying food, even raising the dead. How would his diciples ever top that and do "greater works than these"?
+
+By the _quantity_, not the _quality._ They would do their works for a greater *time*, in a greater *area*, to a greater *number of people*, and a greater *number of times*. The same way, when Jesus is saying the Father is _greater_ than him, he is not saying this in the absolute term. In heaven, the Father is greater than the Son in position, authority and rank, but **not** in _divinity._ Many other scriptures affirm that the Son shares the same godhood as the Father.(([See examples of scriptures proving the divinity of the Son here.](https://thyreon.com/list-of-scriptures-proving-the-deity-of-christ/))) And while Jesus was on earth, active in the form of a human, the Father was temporarily also greater in divine power. But it does not mean that the Father is greater in the Son in his divinity, or godhood. The whole of John chapter 14 repeatedly affirms the divinity of Jesus, which leads us to the next point that Arians fail at.
 
 ### Look at the context
 
