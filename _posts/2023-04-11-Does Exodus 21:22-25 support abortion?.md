@@ -4,7 +4,7 @@ tags: [Abortion, Mosaic law, Apologetics, Eisegesis]
 image: https://i.ibb.co/rb488Wg/C2-A02-A0-B-AAB2-4-FD1-99-CA-51277-B36-FF7-A.jpg
 thumb: https://i.ibb.co/wy5s5v7/1-E3-E8864-91-F4-466-D-A19-C-03-E886-FA743-E.jpg
 ---
-A common claim by abortion promoters is to say that the Bible promotes abortion. One scripture they misinterpret is Numbers 5: 11-35\. And their other favorite is Exodus 21:22-25.
+A common claim by abortion promoters is to say that the Bible condones abortion. One scripture used for this is Exodus 21:22-25. Does it condone abortions? Let's look into it...
 
 So does Exodus 21:22-25 support abortions? Let's look at the passage:
 
