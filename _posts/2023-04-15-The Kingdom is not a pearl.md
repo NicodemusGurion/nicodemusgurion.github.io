@@ -4,7 +4,7 @@ tags: [Jehovah's witnesses, Exegesis]
 image: https://i.ibb.co/ngPFdGC/pearl.jpg
 thumb: https://i.ibb.co/3rRn63z/pearl.jpg
 ---
-In Matthew 13:45,46 Jesus tells the parable of the pearl of great value:
+In Matthew 13:45,46 Jesus tells the parable of the pearl of great value. In this parable there is a merchant who finds a pearl, but who is the merchant and what does the pearl represent?
 
 > Matthew 13:45,46 (NWT) “Again the Kingdom of the heavens is like a traveling merchant seeking fine pearls. 46 Upon finding one pearl of high value, he went away and promptly sold all the things he had and bought it.
 
