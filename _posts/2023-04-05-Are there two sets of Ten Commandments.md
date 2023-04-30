@@ -1,6 +1,8 @@
 ---
 title: Are there two sets of Ten Commandments?
 tags: [Apologetics, Criticism, Mosaic law, Old testament, Contradictions]
+thumb: https://i.ibb.co/nqy57dx/9536-EBF8-9380-471-D-8-DC8-89-A9056-C7-F11.jpg
+image: https://i.ibb.co/nDvJwdM/BCBFF0-B7-7-C20-40-B5-9-F39-F968168-F03-AE.jpg
 ---
 In Exodus 20:2-17 and Deuteronomy 5:6-21 are listed the classical Ten Commandments that most people know about. But in Exodus 34:10-26 is a list of ten or so seemingly random commands, Exodus 34:28 indicates that these are also referred to as the Ten Commandments. 
 So what gives? Are these two different versions of the Ten Commandments?
