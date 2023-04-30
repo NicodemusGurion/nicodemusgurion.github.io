@@ -102,19 +102,19 @@ The part translated "Jehovah examines the motives" is actually "Jehovah examines
 
 ## Addition
 
-In this passage, the Angel of Jehovah stands by Satan and the High Priest, but the interesting thing is that in verse 2, it actually says that it is **Jehovah** who speaks **to Jehovah**.
+In this passage, the Angel of Jehovah stands by Satan and the High Priest, but the interesting thing is that in verse 2, it actually says that it is **Jehovah** who speaks **about Jehovah in the third person**.
 
 > Zechariah 3:2 (ASV) — And Jehovah said unto Satan, Jehovah rebuke thee, O Satan; ...
 
-You actually have one person called Jehovah speaking to another person called Jehovah. What is going on here? 
+You actually have one person called Jehovah requesting that **another** person called Jehovah would rebuke Satan. What is going on here? 
 
 The explanation is that in the ancient Jewish mindset and doctrine, Jehovah is a God with a plurality of persons or agents. Jehovah not only exist in heaven but also exist as a localized human like figure who interacts with humans. This was called the Two powers of heaven doctrine. And it is the theological predecessor of the Trinity doctrine. It is evident in scriptures like Genesis 19:24 and Daniel 7:13 where God is acting as two separate agents at the same time. Zechariah 3:1,2 is another example.
 
-This secondary Jehovah person is often called The Angel of Jehovah. Angel basically means messenger. But the Angel of Jehovah usually does not refer to a lower created spirit being who only brings a message. In most cases such as here, or in the case of the Angel of Jehovah who led the Israelites through the wilderness, it actually refers to this secondary Jehovah person. The text makes it clear that the Angel of Jehovah in verse 1 is identical with Jehovah in verse 2, and that this secondary Jehovah person on earth is speaking with the primary Jehovah person in heaven.
+This secondary Jehovah person is often called The Angel of Jehovah. Angel basically means messenger. But the Angel of Jehovah usually does not refer to a lower created spirit being who only brings a message. In most cases such as here, or in the case of the Angel of Jehovah who led the Israelites through the wilderness, it actually refers to this secondary Jehovah person. The text makes it clear that the Angel of Jehovah in verse 1 is identical with Jehovah in verse 2, and that this secondary Jehovah person on earth is requesting the primary Jehovah person in heaven to rebuke Satan.
 
 This secondary Jehovah person is also the same person who later became Jesus. He is fully divine and a part of Jehovah's very being.
 
-The Watchtower adds the words "the angel of" in verse 2 to hide the fact that the Angel of Jehovah is identical with Jehovah, so it is actually Jehovah speaking with Jehovah. Two persons both being one God is of course way too close to what the trinity doctrine teaches, so they must change the Bible text to hide it. 
+The Watchtower adds the words "the angel of" in verse 2 to hide the fact that the Angel of Jehovah is identical with Jehovah, so it is actually the second person of Jehovah requesting that the first person of Jehovah rebuke Satan. Two persons both being one God is of course way too close to what the trinity doctrine teaches, so they must change the Bible text to hide it. 
 
 ![](https://i.ibb.co/18kkT4w/ECB27-CD5-AA61-4-B15-B761-A2-ED3-F24-EDB6.jpg)  
 Zechariah 3:2a in interlinear form.
