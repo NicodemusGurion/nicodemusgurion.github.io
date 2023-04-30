@@ -1,6 +1,8 @@
 ---
 title: Evidence for an early gospel - Simon of Cyrene
 tags: [Early dating, Gospels, Apologetics]
+thumb: https://i.ibb.co/HrCTQWf/E3025015-2-CF3-415-A-8-CC9-F8943432-F6-CA.jpg
+image: https://i.ibb.co/jbyJ3Ph/6-D4-E5337-850-C-4-AFC-8919-71-C3-EBB5-B7-F5.jpg
 ---
 
 One piece of evidence for an early dating of the Gospels are found in all of the synoptic gospels, Simon of Cyrene. When Jesus is being led to his execution, Simon is forced to help him carry his cross.
@@ -25,3 +27,5 @@ However if the synoptic gospels were written before 70AD, it would be much more 
 Since both Simon, Alexander and Rufus are mentioned it is reasonable to conclude they all became Christians. However Romans 16:13 only mentions Rufus and his mother, which could be an indication that Simon and Alexander died before Romans was written, which would even date the synoptic gospels before 57 AD when the book of Romans was written.
 
 Also the Gospel of John, written in the 90's, does not mention Simon. Perhaps by then Simon was dead, so it wouldn’t make sense to inquire of him.
+
+<sub> Image courtesy of [JeffJacobs1990](https://pixabay.com/users/jeffjacobs1990-7438739/) </sub>
