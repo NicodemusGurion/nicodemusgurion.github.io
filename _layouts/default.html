@@ -33,7 +33,7 @@
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
     <script>
       /* Convert scripture references to links */
-		window.onload = function() {
+	/* 	window.onload = function() {
       let element = document.getElementById("thecontent");
       if (element != null)
       {
@@ -42,7 +42,8 @@
         var replacedText = text.replace(pattern, '<a href="https://www.biblegateway.com/passage/?search=$1&version=ESV" target="_blank">$1</a>'); // replace matched references with links to Biblehub.com
         element.innerHTML = replacedText;
       }
-		}
+		}*/
 	</script>
+      <script src="https://static.esvmedia.org/crossref/crossref.min.js"></script>
   </body>
 </html>
