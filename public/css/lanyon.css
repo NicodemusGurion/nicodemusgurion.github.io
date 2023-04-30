@@ -467,6 +467,7 @@ a.sidebar-nav-item:focus {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   color: #ccc;
   text-align: center;
+  margin-bottom: 2rem;
 }
 
 /* Pagination items can be `span`s or `a`s */
