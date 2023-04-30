@@ -12,3 +12,4 @@ The two gospel writers Matthew and Luke agree that Jesus was born in Bethlehem. 
 
 No disagreements or contradictions.
 
+<sub> Image courtesy of [Geralt](https://pixabay.com/users/geralt-9301/) </sub>
