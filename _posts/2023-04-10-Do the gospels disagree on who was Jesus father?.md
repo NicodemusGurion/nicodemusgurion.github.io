@@ -16,3 +16,5 @@ Joseph was Jesus' step father.
 > Matthew 1:16 and Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called Christ.
 
 > Luke 3:23  Jesus, when he began his ministry, was about thirty years of age, being the son (as was supposed) of Joseph, the son of Heli,
+
+<sub> Image courtesy of [Geralt](https://pixabay.com/users/geralt-9301/) </sub>
