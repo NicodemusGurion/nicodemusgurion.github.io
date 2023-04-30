@@ -18,3 +18,5 @@ When you cut down a bloated corpse hanging from the neck, it is quite common tha
 > "Bowel wall hemorrhage is recently suggested as **a characteristic sign of death by hanging**.... 138 hanging cases were studied. Bowel wall hemorrhage was confirmed by microscopic examination in 16 cases (11.6%). Our findings show that after exclusion of other conditions leading to intra-abdominal congestion, **presence of bowel wall hemorrhage**, especially in the small bowel, **can be an important sign for death by hanging** together with other previously described signs. "
 
 These two pieces of evidence together paints a picture of the hanging of Judas that is scientifically and medically accurate.
+
+<sub> Image courtesy of [Ronsa06](https://pixabay.com/users/ronsa06-4746864/) </sub>
