@@ -61,4 +61,6 @@ The context of Exodus 20-33 is how God gave the covenant code to the Israelites 
 *   The commandment to not let the passive meal remain until morning is from Exodus 12:10
 *   Both commands to give the best and to not boil a goat in its mother's milk come from Exodus 23:19.
 
-So every command except two is a direct repetition of some of the commandments found between Exodus 20-23\. The exceptions are about redeeming firstborns and not leaving the Passover meal overnight, which hails back to the day of the Passover and exodus out of Egypt. So in essence these are samples of earlier covenant laws that God has established with the Israelites. It is kind of like a recap, like God is saying "Previously on God's establishing a covenant with the Israelites..." and lists some highlights. It is a summary, not a separate set of Ten Commandments.
+So every command except two is a direct repetition of some of the commandments found between Exodus 20-23\. The exceptions are about redeeming firstborns and not leaving the Passover meal overnight, which hails back to the day of the Passover and exodus out of Egypt. 
+
+So in essence this list contain samples of earlier covenant laws that God has established with the Israelites. It is kind of like a recap, like God is saying "Previously on God's establishing a covenant with the Israelites..." and lists some highlights. It is a summary, not a separate set of Ten Commandments.
