@@ -21,3 +21,5 @@ This fallacy is when you see one member of a group being in a certain way and co
 While different worldviews encourage certain behaviors, in the end it is the follower who decides how to act it out. Even the best worldview produce assholes, and even the worst worldview can produce shining epitomes of human excellence. And there are hypocrites in every camp. 
 
 How a person chooses to act out their beliefs, whether positively or negatively, is not a reflection of the beliefs, but of the person. If you want to judge whether a worldview is positive then judge the worldview itself and not how the outliers of its followers behave when they fail to live up to its ideals.
+
+<small> Image courtesy of [Ryan McGuire](https://pixabay.com/users/ryanmcguire-123690/) </small>
