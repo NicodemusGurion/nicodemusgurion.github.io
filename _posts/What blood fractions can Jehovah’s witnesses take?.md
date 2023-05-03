@@ -3,11 +3,15 @@ thumb: https://i.ibb.co/xXL7c90/redbloodcells.jpg
 image: https://i.ibb.co/TY2gnjS/redbloodcells.jpg
 ---
 
-Jehovah's witnesses are not allowed to transfuse whole blood, nor any of the four main components of blood, plasma, red blood cells, white blood cells and plasma. But for smaller fractions, things aren't so simple. Here is the latest teaching on this subject, from the new study book "[Enjoy life forever](https://wol.jw.org/en/wol/d/r1/lp-e/1102021239)".
+["Jehovah’s Witnesses refuse transfusions of both whole blood and its primary blood components"](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18) plasma, red blood cells, white blood cells and plasma. ["Beyond that, when it comes to fractions of any of the primary components, each Christian, after careful and prayerful meditation, must conscientiously decide for himself."](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18)
+
+This chart from the new study book "[Enjoy life forever](https://wol.jw.org/en/wol/d/r1/lp-e/1102021239)" shows that whole blood and blood components are unacceptable but that all minor blood fractions are a matter of personal conscience.
 
 ![](https://i.ibb.co/Yc8kzWF/Acceptable-Fractions.png)
 
-Some critical life saving medicines, such as snake venom serum and rabies vaccines contain blood fractions. So Jehovah's witnesses must decide how to handle these things in case they're bitten by a snake or rabid animal. The guide simply says that accepting any minor fractions is a case of individual conscience. So let's have a look at what the fractions actually are.
+["Clotting factor VIII has been given to hemophiliacs, who bleed easily."](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=13) ["White blood cells may be a source of interferons and interleukins, used to treat some viral infections and cancers. Platelets can be processed to extract a wound-healing factor"](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=14) Some critical life saving medicines, such as snake venom serum and rabies vaccines contain blood fractions. So Jehovah's witnesses must decide how to handle these things in case they end up in a serious medical condition or they're bitten by a snake or rabid animal. 
+
+So let's have a look at what the fractions actually are.
 
 # Blood fractions allowed to Jehovah\'s witnesses
 
@@ -27,15 +31,22 @@ Blood plasma consists of these components:
 *   Carbon dioxide
 *   Oxygen
 
-The Watchtower only mentions Albumins, Globulins and Clotting factors as being a matter of conscience, so there must be something among the other components that is **not** a matter of conscience, something that a Jehovah’s Witness couldn’t possibly accept. Let’s go through the list:
-
 ### Water
 
-Plasma consists 95% of water. Is water something that Jehovah’s witnesses can not ingest or inject into their bodies? Definitely not. You’d die within days without water.
+[Plasma consists 95% of water](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=13). Is water something that Jehovah’s witnesses can not ingest or inject into their bodies? Definitely not. You’d die within days without water.
 
-### Proteins — Fibrogens
+### Albumin
 
-The two other types of proteins present in plasma — albumin and globulin — are OK for Jehovah’s Witnesses to use if their conscience allows it. What about Fibrogens? Fibrogens are a type of protein that is one of the clotting factors, and clotting factors are allowed, so fibrogens are also allowed.
+This is the most abundant protein in human blood plasma, making up about 60% of its total protein content. Albumin helps to maintain the osmotic pressure of the blood and carries various substances such as hormones and fatty acids.
+
+### Globulin
+
+These are a diverse group of proteins that can be further subdivided into alpha, beta, and gamma globulins. Alpha and beta globulins transport substances such as iron and lipids, while gamma globulins are a type of antibody that plays a key role in the immune system.
+
+### Fibrogens
+
+This is a protein that plays a critical role in blood clotting. When a blood vessel is damaged, fibrinogen is converted into fibrin, which forms a network of fibers that help to seal the wound and stop bleeding.
+Fibrogens are a type of protein functions as a clotting factor.  clotting factors are allowed, so fibrogens are also allowed.
 
 ### Glucose
 
