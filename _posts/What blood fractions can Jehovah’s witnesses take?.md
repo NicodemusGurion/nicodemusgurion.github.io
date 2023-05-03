@@ -3,7 +3,7 @@ thumb: https://i.ibb.co/xXL7c90/redbloodcells.jpg
 image: https://i.ibb.co/TY2gnjS/redbloodcells.jpg
 ---
 
-Jehovah's witnesses are not allowed to transfuse whole blood, nor any of the four main components of blood, plasma, red blood cells, white blood cells and plasma. But for smaller fractions, things aren't so simple. Here is the latest teaching on this subject, from the new study bool "[Enjoy life forever](https://wol.jw.org/en/wol/d/r1/lp-e/1102021239)".
+Jehovah's witnesses are not allowed to transfuse whole blood, nor any of the four main components of blood, plasma, red blood cells, white blood cells and plasma. But for smaller fractions, things aren't so simple. Here is the latest teaching on this subject, from the new study book "[Enjoy life forever](https://wol.jw.org/en/wol/d/r1/lp-e/1102021239)".
 
 ![](https://i.ibb.co/Yc8kzWF/Acceptable-Fractions.png)
 
