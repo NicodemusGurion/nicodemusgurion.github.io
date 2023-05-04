@@ -1,4 +1,6 @@
 ---
+title: Are you one of the anointed?
+tags: [Jehovah's witnesses, Anointed, Holy Spirit]
 image: https://i.ibb.co/19wHTrF/breadwineheader.jpg
 thumb: https://i.ibb.co/s95sLYB/breadwine.jpg
 ---
