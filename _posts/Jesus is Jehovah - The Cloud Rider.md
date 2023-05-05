@@ -2,7 +2,7 @@
 image: https://i.ibb.co/mNT86TG/cloudrider.jpg
 thumb: https://i.ibb.co/nPmCzmb/cloudrider.jpg
 ---
-Having an Arian or Unitarian view of God leads you to many false beliefs about God and misunderstandings about the Bible. When you start looking into it there are many things you can not explain from a unitarian perspective. Such as all the connections between Jesus in the New Testament and Jehovah in the Old Testament. Here is an example, the Cloud Rider. (All quotes taken from the NWT.)
+Examining the many titles and epithets of God can teach us more about him. Among his many titles and descriptions, a very interesting one is that Jehovah is the one who comes on the clouds. Let's examine where it comes from and what it means.
 
 ## The Cloud Rider is Jehovah
 
