@@ -42,6 +42,8 @@ Jehovah rides the clouds like a chariot.
 
 So it is very clear that when someone is described as riding on the clouds, it talks about Jehovah. In the ancient Jewish mind, Jehovah is the Cloud Rider. 
 
+## A Son of Man
+
 But things get interesting when you get into Daniel 7 and get to view the divine council scene:
 
 > Daniel 7:13 — “I kept watching in the visions of the night, and look! **with the clouds of the heavens, someone like a son of man was coming**; and he gained access to the Ancient of Days, and they brought him up close before that One.
@@ -52,24 +54,36 @@ Who then is this "Son of Man"? The gospel accounts make it clear that it is none
 
 ## The Cloud Rider is Jesus
 
-Can we support this connection? In the New Testament things get even clearer.
+Can we support this connection? Yes. In the New Testament things get even clearer.
 
 > Matthew 24:30 — Then the sign of the Son of man will appear in heaven, and all the tribes of the earth will beat themselves in grief, and they will see _the Son of man coming on the clouds of heaven_ with power and great glory.
 
-Jesus is telling his disciples: "Hey, remember that Son of Man Cloud Rider in Daniel 7:13? Yeah, that's me. I'm Jehovah." ((See also Luke 21:27)) Later on Jesus is caught by the Sanhedrin and tells them:
+<small> See also Luke 21:27 </small>
+
+Jesus is telling his disciples: "Hey, remember that Son of Man Cloud Rider in Daniel 7:13? Yeah, that's me. I'm Jehovah." 
+
+Later on Jesus is caught by the Sanhedrin and tells them:
 
 > Matthew 26:64,65 — Jesus said to him: “You yourself said it. But I say to you: From now on you will _see the Son of man sitting at the right hand of power and coming on the clouds of heaven_.” 65 Then the high priest ripped his outer garments, saying: “_He has blasphemed!_ What further need do we have of witnesses? See! Now _you have heard the blasphemy._
 
-In this case Jesus tells the Sanhedrin the same thing. "I'm the Coud Rider of Daniel 7:13!" And they understand what he is saying. He is saying that "I am Jehovah!" That is why they immediately accuse and judge him guilty of blasphemy, because he claims to be God! ((See also Mark 14:62)) Later in Acts Jesus proves beyond the shadow of a doubt that he is in fact the Cloud Rider when he literally rides on a cloud up to heaven.
+<small> See also Mark 14:62 </small>
+
+In this case Jesus tells the Sanhedrin the same thing. "I'm the Cloud Rider of Daniel 7:13!" And they understand what he is saying. He is saying that "I am Jehovah!" That is the reason why they immediately accuse and judge him guilty of blasphemy. In the Jewish ear he claimed to be Jehovah God! 
+
+Later in Acts Jesus proves beyond the shadow of a doubt that he is in fact the Cloud Rider when he literally rides on a cloud up to heaven.
 
 > Acts 1:9-11 — After he had said these things, while they were looking on, he was lifted up and a cloud caught him up from their sight. 10 And as they were gazing into the sky while he was on his way, suddenly two men in white garments stood beside them 11 and said: “Men of Galʹi·lee, why do you stand looking into the sky? This Jesus who was taken up from you into the sky will _come in the same manner_ as you have seen him going into the sky.”
 
-So Jesus is the Cloud Rider. Jehovah is the only one who is the Cloud Rider. Hence Jesus is Jehovah. But the fun doesn't stop there! Remember in Matthew 24:30, where Jesus describes how the Coming((Not "presence". You can't be present before you arrive, can you? That Jesus already has been invisibly present since 1914 is a dumb doctrine that does not conform to Matthew 24:23-26 which says that if anyone tells you that Jesus has already come, but invisibly, the they're false prophets)) of the Son of Man will be like? They will see the Son of Man come on the clouds. Revelation also touches on this:
+So Jesus is the Cloud Rider. Jehovah is the only one who is the Cloud Rider. Hence Jesus is Jehovah. 
 
-> Revelation 1:7 — Look! _He is coming with the clouds_, and every eye will see him, and those who pierced him; and all the tribes of the earth will beat themselves in grief because of him. Yes, Amen.
+But the fun doesn't stop there! Remember in Matthew 24:30, where Jesus describes how the Coming of the Son of Man will be like? They will see the Son of Man come on the clouds. Revelation also touches on this:
+
+> Revelation 1:7 — Look! **He is coming with the clouds**, and every eye will see him, and those who pierced him; and all the tribes of the earth will beat themselves in grief because of him. Yes, Amen.
 
 This verse also proves that Jesus is the Cloud Rider who is the same as Jehovah. Revelation goes on:
 
-> Revelation 14:14,15 — Then I saw, and look! a white cloud, and _seated on the cloud_ was someone like a _son of man_, with a golden crown on his head and a sharp sickle in his hand. 15 Another angel emerged from the temple sanctuary, calling with a loud voice to _the one seated on the cloud_: “Put your sickle in and reap, because the hour has come to reap, for the harvest of the earth is fully ripe.”
+> Revelation 14:14,15 — Then I saw, and look! **a white cloud**, and **seated on the cloud** was someone like a _son of man_, with a golden crown on his head and a sharp sickle in his hand. 15 Another angel emerged from the temple sanctuary, calling with a loud voice to **the one seated on the cloud**: “Put your sickle in and reap, because the hour has come to reap, for the harvest of the earth is fully ripe.”
 
-The Son of Man Jesus is sitting on the cloud like it's his vehicle as he goes out to harvest the earth. This reminds us a lot about Daniel 7:13 as well. This red thread goes all the way through the Bible. Jehovah is consistently the Cloud Rider all throughout the Old Testament. In Daniel 7:13 we get the insight that Jehovah is also the Sonnof Man. And in the New Testament, the Cloud Rider is consistently Jesus. This proves that Jesus is Jehovah manifested in the flesh. This of course goes against Watchtower doctrine, but it's simply what the Bible teaches. ((It matches very well with the trinity doctrine though.)) It also proves that the Watchtower doctrine of Jesus being "present" since 1914 is false, since both Matthew 24:23-26,30 and Revelation 1:7 shows that when the Cloud Rider comes, he will be visible to **all** people, not a few, and not symbolically and definitely not invisible, but as physically and clearly visible as when he left earth. Riding on a cloud...
+The Son of Man Jesus is sitting on the cloud like it's his vehicle as he goes out to harvest the earth. This reminds us a lot about Daniel 7:13 as well. This red thread goes all the way through the Bible. Jehovah is consistently the Cloud Rider all throughout the Old Testament. In Daniel 7:13 we get the insight that Jehovah is also the Son of Man. And in the New Testament, the Cloud Rider is consistently Jesus. 
+
+This proves that Jesus is Jehovah manifested in the flesh. 
