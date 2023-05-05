@@ -1,4 +1,6 @@
 ---
+title: Who is the cloud rider?
+tags: [Jesus is Jehovah, Deity of Christ, Cloud rider, Trinity, Jehovah's witnesses]
 image: https://i.ibb.co/mNT86TG/cloudrider.jpg
 thumb: https://i.ibb.co/nPmCzmb/cloudrider.jpg
 ---
