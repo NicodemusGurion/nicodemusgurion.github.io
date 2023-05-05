@@ -2,7 +2,7 @@
 image: https://i.ibb.co/mNT86TG/cloudrider.jpg
 thumb: https://i.ibb.co/nPmCzmb/cloudrider.jpg
 ---
-Examining the many titles and epithets of God can teach us more about him. Among his many titles and descriptions, a very interesting one is that Jehovah is the one who comes on the clouds. Let's examine where it comes from and what it means.
+Examining the many titles and epithets of God can teach us more about him. Among his many titles and descriptions, a very interesting one is that Jehovah is "the one who comes on the clouds". Let's examine where it comes from and what it means.
 
 ## The Cloud Rider is Jehovah
 
