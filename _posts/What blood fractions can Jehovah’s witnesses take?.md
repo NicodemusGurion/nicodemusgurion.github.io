@@ -13,13 +13,11 @@ The interesting upshot of this is that while a Jehovah's witness is not allowed 
 
 Still, rejecting life saving blood can be an issue of habit or bias, thinking blood is "yucky" or unclean. So in this article we will go through what blood actually contains to let everyone see that it is not so yucky or unclean.
 
-This is also important because there are many important medicines that contain blood fractions. For example ["clotting factor VIII has been given to hemophiliacs, who bleed easily."](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=13) ["White blood cells may be a source of interferons and interleukins, used to treat some viral infections and cancers. Platelets can be processed to extract a wound-healing factor"](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=14) Some critical life saving medicines, such as snake venom serum and rabies vaccines contain blood fractions. So Jehovah's witnesses must decide how to handle these things in case they end up in a serious medical condition or they're bitten by a snake or rabid animal. 
+This is also important because there are many important medicines that contain blood fractions. For example [fibronogens are used to save the lives of hemophiliacs](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=13) and [interferons and interleukins are used to treat viral infections and cancers.](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=14) Some critical life saving medicines, such as snake venom serum and rabies vaccines contain blood fractions. So Jehovah's witnesses must decide how to handle these things in case they end up in a serious medical condition or they're bitten by a snake or rabid animal. 
 
 So let's have a look at what the fractions actually are.
 
-# Blood fractions allowed to Jehovah\'s witnesses
-
-## Blood Plasma components
+# Blood Plasma components
 
 Blood plasma consists of these components:
 
