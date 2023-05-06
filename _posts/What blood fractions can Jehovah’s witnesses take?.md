@@ -3,7 +3,7 @@ thumb: https://i.ibb.co/xXL7c90/redbloodcells.jpg
 image: https://i.ibb.co/TY2gnjS/redbloodcells.jpg
 ---
 
-["Jehovah’s Witnesses refuse transfusions of both whole blood and its primary blood components"](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18) plasma, red blood cells, white blood cells and plasma. ["Beyond that, when it comes to fractions of any of the primary components, each Christian, after careful and prayerful meditation, must conscientiously decide for himself."](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18)
+[Jehovah’s Witnesses refuse transfusions of both whole blood and its primary blood components](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18) plasma, red blood cells, white blood cells and plasma. ["Beyond that, when it comes to fractions of any of the primary components, each Christian, after careful and prayerful meditation, must conscientiously decide for himself."](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18)
 
 This chart from the new study book "[Enjoy life forever](https://wol.jw.org/en/wol/d/r1/lp-e/1102021239)" shows that whole blood and blood components are unacceptable but that all minor blood fractions are a matter of personal conscience.
 
