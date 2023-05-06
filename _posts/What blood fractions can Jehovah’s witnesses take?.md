@@ -89,17 +89,17 @@ Oxygen and carbon dioxide gases are dissolved in plasma.
 
 Red blood cells, also known as erythrocytes, are specialized cells within the blood that play a crucial role in transporting oxygen from the lungs to the body's tissues and carrying carbon dioxide, a waste product, back to the lungs for elimination. They don’t even have a nucleus with DNA in them. Apart from the cell membrane they only contain hemoglobin and enzymes needed for their cellular functioning.
 
-Small amounts of red blood cells normally travel from a baby to the mother in tge womb.
+Small amounts of red blood cells normally travel from a baby to the mother in the womb.
 
 ## Hemoglobin 
 
-Hemoglobin is the protein found within red blood cells that enables them to carry oxygen. It is responsible for the characteristic red color of blood. Hemoglobin consists of four protein chains called globins, each containing a heme group that can bind to oxygen molecules. Oxygen binds to the heme groups when red blood cells pass through the lungs, and it is released to the tissues that require oxygen for metabolism.
+Hemoglobin is the protein found within red blood cells that enables them to carry oxygen. It is responsible for the characteristic red color of blood. Oxygen binds to hemoglobin when red blood cells pass through the lungs, and it is released to the tissues that require oxygen for metabolism.
 
 ## Membrane Proteins
 
 Red blood cells possess various membrane proteins that are involved in their structure, function, and interaction with other cells and substances. These proteins include the band 3 protein (anion exchanger), glycophorins (surface glycoproteins), and spectrins (structural proteins). They contribute to the flexibility, shape, and stability of red blood cells.
 
-It is worth noticing that there is no difference between these cell membranes and other animal crll membranes that you consume in a normal diet. 
+It is worth noticing that there is no difference between these cell membranes and other animal cell membranes that you consume in a normal diet. 
 Also it is impossible to remove all red blood cells out of meat, so if you have ever eaten meat, you have eaten red blood cells.
 
 ## Enzymes
@@ -126,8 +126,7 @@ Platelets, also known as thrombocytes, are small, disc-shaped cell fragments fou
 
 Platelets can be used to make platelet gel, which can be applied topically to wounds, surgical sites, or ulcers to promote healing.
 
-
-[What does the Watchtower say about bone marrow?](https://wol.jw.org/en/wol/d/r1/lp-e/1200002913)
+Since platekets are bone marrow fragments, [what does the Watchtower say about bone marrow?](https://wol.jw.org/en/wol/d/r1/lp-e/1200002913)
 
 > Animal bone marrow was apparently used for food by the Israelites. (Compare Mic 3:2, 3.) It has a very high nutritional value, being rich in protein, fats, and iron. Jehovah’s banquet for all the peoples, therefore, fittingly includes symbolic “well-oiled dishes filled with marrow.” — Isa 25:6.
 
@@ -143,10 +142,13 @@ So if Jehovah offers you platelet-filled bone marrow. Will you accept it? Appare
 
 # Biblical principles to consider
 
+> Leviticus 17:11 — For the life of the flesh is in the blood…
 
-> _Leviticus 17:11 — For the life of the flesh is in the blood…_
+Blood is truly life giving, and as you can see from this brief overview. The Watchtower says [“There was only one use of blood that God ever approved, namely, for sacrifice](https://wol.jw.org/en/wol/d/r1/lp-e/1200000774)“, but as you have seen, God has even created us to automatically transfuse blood to our offspring, so apparently the Watchtower is drawing a false conclusions. Their previous, more strict view of blood fractions has already cost the lives of thousands of brothers and sisters. Some day you may give your life for a policy that they may change the next day. This kind of needless deaths for religious reasons is no different than human sacrifices. Is Jehovah like Molech, Baal or the other gods who were pleased in human sacrifices?
 
-Blood is truly life giving, and as you can see from this brief overview. The Watchtower says [“There was only one use of blood that God ever approved, namely, for sacrifice](https://wol.jw.org/en/wol/d/r1/lp-e/1200000774)“, but as you have seen, God has even created us to automatically transfuse blood to our offspring, so apparently the Watchtower is jumping to false conclusions. Their previous, more strict view of blood fractions has already cost the lives of thousands of brothers and sisters. Some day you may give your life for a policy that they may change a day later. This kind of frivolous deaths for religious reasons is no different than the human sacrifices to Molech that Jehovah condemns over and over again. But notice that the Bible only ever prohibits the **eating** of blood, so using it’s components for medical purposes would be in line with the principles we learn in Matthew 12:10–12:
+
+
+But notice that the Bible only ever prohibits the **eating** of blood, so using it’s components for medical purposes would be in line with the principles we learn in Matthew 12:10–12:
 
 > _Matthew 12:10–12_ — _and look! there was a man with a withered hand! So they asked him, “Is it lawful to cure on the Sabbath?” so that they might accuse him. 11 He said to them: “If you have one sheep and that sheep falls into a pit on the Sabbath, is there a man among you who will not grab hold of it and lift it out? 12 How much more valuable is a man than a sheep! So it is lawful to do a fine thing on the Sabbath.”_
 
