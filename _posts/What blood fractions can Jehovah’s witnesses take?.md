@@ -83,13 +83,27 @@ Oxygen and carbon dioxide gases are dissolved in plasma. Oxygen is transported f
 
 ![](https://i.ibb.co/TY2gnjS/redbloodcells.jpg)
 
-## Red Blood Cells
+# Red Blood Cells
 
-Red blood cells, or erythrocytes, are very simple cells. They don’t even have a nucleus with DNA in them. Apart from the cell membrane they only contain hemoglobin. Hemoglobin contains hemin. Since both hemin and hemoglobin are allowed by the Watchtower, the question is, is there something wrong with cell membranes?
+Red blood cells, also known as erythrocytes, are specialized cells within the blood that play a crucial role in transporting oxygen from the lungs to the body's tissues and carrying carbon dioxide, a waste product, back to the lungs for elimination. They don’t even have a nucleus with DNA in them. Apart from the cell membrane they only contain hemoglobin and enzymes needed for their cellular functioning.
 
-### Cell membranes
+## Hemoglobin 
 
-All human (and animal) cell membranes are made the same way, so if you eat one, you can eat the other. If you eat meat, fish, fowl, you are eating cell membranes that contain the exact same components as red blood cell membranes. Also it is impossible to remove all red blood cells out of meat, so if you have ever eaten meat, you have eaten red blood cells. Furthermore as you will see in the section about white blood cells, we humans also ingest other humans’ cells at least at some point in our lives, so the argument can’t be made that somehow ingesting human cells is different.
+Hemoglobin is the protein found within red blood cells that enables them to carry oxygen. It is responsible for the characteristic red color of blood. Hemoglobin consists of four protein chains called globins, each containing a heme group that can bind to oxygen molecules. Oxygen binds to the heme groups when red blood cells pass through the lungs, and it is released to the tissues that require oxygen for metabolism.
+
+## Membrane Proteins
+
+Red blood cells possess various membrane proteins that are involved in their structure, function, and interaction with other cells and substances. These proteins include the band 3 protein (anion exchanger), glycophorins (surface glycoproteins), and spectrins (structural proteins). They contribute to the flexibility, shape, and stability of red blood cells.
+
+It is worth noticing that there is no difference between these cell membranes and other animal crll membranes that you consume in a normal diet. 
+Also it is impossible to remove all red blood cells out of meat, so if you have ever eaten meat, you have eaten red blood cells.
+
+## Enzymes
+
+Red blood cells contain specific enzymes that help maintain the cell's metabolic functions and integrity. Examples of these enzymes include carbonic anhydrase, which catalyzes the conversion of carbon dioxide into bicarbonate ions, and glycolytic enzymes, which are involved in the metabolism of glucose for energy production.
+
+
+
 
 ![](https://i.ibb.co/r2jNQSy/whitebloodcells.jpg)
 
