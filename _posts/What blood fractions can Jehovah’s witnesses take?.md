@@ -33,6 +33,36 @@ Blood plasma consists of these components:
 *   Carbon dioxide
 *   Oxygen
 
+Water
+
+The largest component of plasma, making up approximately 90-92% of its composition.
+
+## Proteins
+
+Plasma contains a variety of proteins, including albumin, globulins, and fibrinogen. These proteins play essential roles in maintaining osmotic pressure, transporting substances, and aiding in blood clotting.
+
+
+
+## Electrolytes
+
+Plasma contains various electrolytes such as sodium, potassium, chloride, calcium, and bicarbonate ions. These ions are crucial for maintaining the body's pH balance and conducting electrical impulses.
+
+## Nutrients
+
+Plasma carries essential nutrients like glucose (sugar), amino acids, lipids (fats), vitamins, and minerals. These nutrients are transported to different cells and tissues throughout the body.
+
+## Waste Products
+
+Metabolic waste products, such as urea, creatinine, bilirubin, and lactic acid, are also present in plasma. They are the byproducts of cellular metabolism and are eventually eliminated from the body.
+
+## Hormones
+
+Plasma transports hormones produced by various glands and organs. Hormones are chemical messengers that regulate various physiological processes in the body.
+
+## Gases
+
+Oxygen and carbon dioxide gases are dissolved in plasma. Oxygen is transported from the lungs to tissues, while carbon dioxide is carried from tissues back to the lungs for elimination.
+
 ### Water
 
 [Plasma consists 95% of water](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=13). Is water something that Jehovah’s witnesses can not ingest or inject into their bodies? Definitely not. You’d die within days without water.
