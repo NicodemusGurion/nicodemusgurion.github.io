@@ -31,7 +31,7 @@ Plasma contains a variety of proteins, including albumin, globulins, and fibrino
 
 ### Albumin
 
- Albumin is the most abundant protein in plasma, accounting for approximately 55-60% of the total protein content. It plays a crucial role in maintaining the osmotic pressure of the blood, which helps regulate the distribution of water between the blood and surrounding tissues. Albumin also binds and transports various substances such as hormones, fatty acids, and drugs throughout the body.
+Albumin is the most abundant protein in plasma, accounting for approximately 55-60% of the total protein content. It plays a crucial role in maintaining the osmotic pressure of the blood, which helps regulate the distribution of water between the blood and surrounding tissues. Albumin also binds and transports various substances such as hormones, fatty acids, and drugs throughout the body.
 
 ### Globulins
 
@@ -55,7 +55,6 @@ Fibrinogen is a clotting protein that plays a crucial role in the formation of b
 
 In addition to these major proteins, blood plasma also contains smaller amounts of other proteins, such as enzymes, complement proteins (part of the immune system), and regulatory proteins involved in various physiological processes.
 
-
 ## Electrolytes
 
 Plasma contains various electrolytes such as sodium, potassium, chloride, calcium, and bicarbonate ions. These ions are crucial for maintaining the body's pH balance and conducting electrical impulses.
@@ -75,47 +74,6 @@ Plasma transports hormones produced by various glands and organs. Hormones are c
 ## Gases
 
 Oxygen and carbon dioxide gases are dissolved in plasma. Oxygen is transported from the lungs to tissues, while carbon dioxide is carried from tissues back to the lungs for elimination.
-
-### Water
-
-[Plasma consists 95% of water](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=13). Is water something that Jehovah’s witnesses can not ingest or inject into their bodies? Definitely not. You’d die within days without water.
-
-### Albumin
-
-This is the most abundant protein in human blood plasma, making up about 60% of its total protein content. Albumin helps to maintain the osmotic pressure of the blood and carries various substances such as hormones and fatty acids.
-
-### Globulin
-
-These are a diverse group of proteins that can be further subdivided into alpha, beta, and gamma globulins. Alpha and beta globulins transport substances such as iron and lipids, while gamma globulins are a type of antibody that plays a key role in the immune system.
-
-### Fibrogens
-
-This is a protein that plays a critical role in blood clotting. When a blood vessel is damaged, fibrinogen is converted into fibrin, which forms a network of fibers that help to seal the wound and stop bleeding.
-Fibrogens are a type of protein functions as a clotting factor.  clotting factors are allowed, so fibrogens are also allowed.
-
-### Glucose
-
-Glucose is sugar. I know of no ban against sugar among Jehovah’s Witnesses.
-
-### Electrolytes
-
-Electrolytes are nothing but electrically charged minerals, found for example in many sports drinks, such as Brawndo - The Thirst Mutilator.
-
-### Hormones
-
-Blood plasma contains regular human hormones. As far as I know there is no restrictions on hormone treatments. Insulin, estrogen, as well as thyroid and adrenal hormones help many people live healthy lives. [The Watchtower does not condemn them.](https://wol.jw.org/en/wol/d/r1/lp-e/101974042)
-
-### Carbon Dioxide
-
-It’s the gas you expell when exhaling. It’s not condemned in the Bible.
-
-### Oxygen
-
-You need oxygen to survive for more than a minute. It’s not condemned in the Bible.
-
-## Conclusion about Blood Plasma
-
-There is no single component in Blood plasma that is condemned either by the Bible or by the Watchtower. So if you in theory took all the components and mixed them together, it would be a mixture they consider completely OK to transfuse. However if you have the exact same components in blood plasma, for some reason it’s wrong. That’s like saying it’s wrong to eat bread, but it’s ok to eat flour mixed with yeast, sugar, salt, water, kneaded, raised and baked in an oven. Just doesn’t make sense.
 
 ![](https://i.ibb.co/TY2gnjS/redbloodcells.jpg)
 
