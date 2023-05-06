@@ -53,6 +53,8 @@ Gamma-globulins are a class of proteins known as immunoglobulins or antibodies. 
 
 Immunoglobulins are used for passive immunization in situations where immediate protection against a particular pathogen or toxin is needed, such as in cases of exposure to certain infections or after a suspected rabies exposure. They can also be used to treat certain immune deficiencies or autoimmune disorders.
 
+Immunoglobulins are transfered from mother to child in the womb. Also breast milk contains immunoglobulins, particularly IgA (Immunoglobulin A). These antibodies play a crucial role in providing passive immunity to the newborn, offering protection against infections in the early stages of life when the infant's own immune system is still developing.
+
 ### Fibrinogen
 
 Fibrinogen is a clotting protein that plays a crucial role in the formation of blood clots. When blood vessels are damaged, fibrinogen is converted into fibrin, forming a mesh-like structure that helps stop bleeding by forming a clot.
@@ -79,13 +81,15 @@ Plasma transports hormones produced by various glands and organs. Hormones are c
 
 ## Gases
 
-Oxygen and carbon dioxide gases are dissolved in plasma. Oxygen is transported from the lungs to tissues, while carbon dioxide is carried from tissues back to the lungs for elimination.
+Oxygen and carbon dioxide gases are dissolved in plasma. 
 
 ![](https://i.ibb.co/TY2gnjS/redbloodcells.jpg)
 
 # Red Blood Cells
 
 Red blood cells, also known as erythrocytes, are specialized cells within the blood that play a crucial role in transporting oxygen from the lungs to the body's tissues and carrying carbon dioxide, a waste product, back to the lungs for elimination. They don’t even have a nucleus with DNA in them. Apart from the cell membrane they only contain hemoglobin and enzymes needed for their cellular functioning.
+
+Small amounts of red blood cells normally travel from a baby to the mother in tge womb.
 
 ## Hemoglobin 
 
@@ -102,14 +106,11 @@ Also it is impossible to remove all red blood cells out of meat, so if you have 
 
 Red blood cells contain specific enzymes that help maintain the cell's metabolic functions and integrity. Examples of these enzymes include carbonic anhydrase, which catalyzes the conversion of carbon dioxide into bicarbonate ions, and glycolytic enzymes, which are involved in the metabolism of glucose for energy production.
 
-
-
-
 ![](https://i.ibb.co/r2jNQSy/whitebloodcells.jpg)
 
-## White Blood Cells
+#White Blood Cells
 
-White Blood cells come in 5 different varieties:
+White blood cells, also known as leukocytes, are a crucial component of the immune system. They are responsible for defending the body against infections, foreign substances, and abnormal cells. White Blood cells come in 5 different varieties:
 
 *   Neutrophils (62%)
 *   Lymphocytes (30%)
@@ -117,7 +118,7 @@ White Blood cells come in 5 different varieties:
 *   Eosinophils (2.3%)
 *   Basophils (0.4%)
 
-[The thing about white blood cells is that **all of them are transfered from mother to child via the breast milk**.](https://www.nature.com/articles/pr200445) Yes, Jehovah designed humans so that mothers feed their babies this blood fraction for several months. Breast milk contains all sorts of goodies that bootstraps and boosts the baby’s immune system, including white blood cells. One drop of breast milk contains around a million white blood cells. And this is true for other species as well, cows, goats, you name it. If you have ever drunk milk, eaten butter or cheese then guess what, you have eaten blood fractions by the billions. If the Watchtower wants to disfellowship people for eating blood fractions, then they must disfellowship everyone who has ever been breastfed, eaten butter, cheese or drank milk.
+[The thing about white blood cells is that **all of them are transfered from mother to child via the breast milk**.](https://www.nature.com/articles/pr200445) Yes, Jehovah designed humans so that mothers feed their babies this blood fraction for several months. One drop of breast milk contains around a million white blood cells. And this is true for other species as well, cows, goats, you name it. If you have ever drank milk, eaten butter or cheese then you have eaten blood fractions by the trillions. 
 
 ## Platelets
 
