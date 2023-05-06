@@ -122,23 +122,27 @@ White blood cells, also known as leukocytes, are a crucial component of the immu
 
 ## Platelets
 
-[According to Wikipedia](https://en.wikipedia.org/wiki/Platelet), platelets are “cytoplasmic fragments of bone marrow megakaryocytes”. This means that they are tiny parts of bone marrow that break off and enter the blood stream. [What does the Watchtower say about bone marrow?](https://wol.jw.org/en/wol/d/r1/lp-e/1200002913)
+Platelets, also known as thrombocytes, are small, disc-shaped cell fragments found in the blood. Platelets are [“cytoplasmic fragments of bone marrow megakaryocytes”.](https://en.wikipedia.org/wiki/Platelet) This means that they are tiny parts of bone marrow that break off and enter the blood stream. Platelets contain granules that store various substances, such as clotting factors and growth factors, and play a crucial role in the formation of blood clots to stop bleeding. The growth factors and other bioactive substances released by platelets are believed to stimulate tissue repair, reduce inflammation, and enhance the healing process. 
 
-> _Animal bone marrow was apparently used for food by the Israelites. (Compare Mic 3:2, 3.) It has a very high nutritional value, being rich in protein, fats, and iron. Jehovah’s banquet for all the peoples, therefore, fittingly includes symbolic “well-oiled dishes filled with marrow.” — Isa 25:6._
+Platelets can be used to make platelet gel, which can be applied topically to wounds, surgical sites, or ulcers to promote healing.
+
+
+[What does the Watchtower say about bone marrow?](https://wol.jw.org/en/wol/d/r1/lp-e/1200002913)
+
+> Animal bone marrow was apparently used for food by the Israelites. (Compare Mic 3:2, 3.) It has a very high nutritional value, being rich in protein, fats, and iron. Jehovah’s banquet for all the peoples, therefore, fittingly includes symbolic “well-oiled dishes filled with marrow.” — Isa 25:6.
 
 The Israelites ate bone marrow. Micah 3:3 describes how they used to do:
 
-> _Micah 3:3 — Smashing their bones, crushing them to pieces, Like what is cooked in a pot, like meat in a cooking pot._
+> Micah 3:3 — Smashing their bones, crushing them to pieces, Like what is cooked in a pot, like meat in a cooking pot.
 
 And in Isaiah 25:6 it says:
 
-> _In this mountain **Jehovah** of armies **will make for all the peoples** A banquet of rich dishes, A banquet of fine wine, Of **rich dishes filled with marrow**, Of fine, filtered wine._
+> In this mountain **Jehovah** of armies **will make for all the peoples** A banquet of rich dishes, A banquet of fine wine, Of **rich dishes filled with marrow**, Of fine, filtered wine.
 
-So Jehovah offers you platelet-filled bone marrow. Will you accept it?
+So if Jehovah offers you platelet-filled bone marrow. Will you accept it? Apparently it is fine with him. Is it fine with you?
 
-## Conclusion
+# Biblical principles to consider
 
-There doesn’t seem to be one single blood fraction that is actually prohibited by the Watchtower. Therefor the four main components — Red and white blood cells, plasma and platelets — can’t be wrong to use either. So if anything, only whole blood could be said to be prohibited.
 
 > _Leviticus 17:11 — For the life of the flesh is in the blood…_
 
