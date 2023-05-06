@@ -21,19 +21,7 @@ So let's have a look at what the fractions actually are.
 
 Blood plasma consists of these components:
 
-*   Water (ca 95%)
-*   Proteins
-    *   Albumins
-    *   Globulins
-    *   Fibrinogens
-*   Glucose
-*   Clotting factors
-*   Electrolytes
-*   Hormones
-*   Carbon dioxide
-*   Oxygen
-
-Water
+## Water
 
 The largest component of plasma, making up approximately 90-92% of its composition.
 
@@ -41,6 +29,31 @@ The largest component of plasma, making up approximately 90-92% of its compositi
 
 Plasma contains a variety of proteins, including albumin, globulins, and fibrinogen. These proteins play essential roles in maintaining osmotic pressure, transporting substances, and aiding in blood clotting.
 
+### Albumin
+
+ Albumin is the most abundant protein in plasma, accounting for approximately 55-60% of the total protein content. It plays a crucial role in maintaining the osmotic pressure of the blood, which helps regulate the distribution of water between the blood and surrounding tissues. Albumin also binds and transports various substances such as hormones, fatty acids, and drugs throughout the body.
+
+### Globulins
+
+Globulins are a diverse group of proteins present in plasma. They can be further classified into three main types:
+
+#### Alpha-Globulins
+
+Alpha-globulins include proteins such as alpha-1 antitrypsin, alpha-2 macroglobulin, and haptoglobin. These proteins are involved in immune responses, blood clotting, and binding and transport of substances.
+
+#### Beta-Globulins
+
+Beta-globulins include proteins such as transferrin and low-density lipoproteins (LDL). Transferrin is responsible for transporting iron in the blood, while LDL carries cholesterol to various cells and tissues.
+
+#### Gamma-Globulins
+
+Gamma-globulins are a class of proteins known as immunoglobulins or antibodies. They are vital components of the immune system and help defend against foreign substances, such as bacteria, viruses, and other pathogens.
+
+### Fibrinogen
+
+Fibrinogen is a clotting protein that plays a crucial role in the formation of blood clots. When blood vessels are damaged, fibrinogen is converted into fibrin, forming a mesh-like structure that helps stop bleeding by forming a clot.
+
+In addition to these major proteins, blood plasma also contains smaller amounts of other proteins, such as enzymes, complement proteins (part of the immune system), and regulatory proteins involved in various physiological processes.
 
 
 ## Electrolytes
