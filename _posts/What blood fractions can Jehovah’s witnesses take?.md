@@ -3,13 +3,17 @@ thumb: https://i.ibb.co/xXL7c90/redbloodcells.jpg
 image: https://i.ibb.co/TY2gnjS/redbloodcells.jpg
 ---
 
-[Jehovah’s Witnesses refuse transfusions of both whole blood and its primary blood components](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18) plasma, red blood cells, white blood cells and plasma. ["Beyond that, when it comes to fractions of any of the primary components, each Christian, after careful and prayerful meditation, must conscientiously decide for himself."](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18)
+[Jehovah’s Witnesses refuse transfusions of both whole blood and its primary blood components](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18) plasma, red blood cells, white blood cells and plasma. ["Beyond that, when it comes to fractions of any of the primary components, each Christian, after careful and prayerful meditation, must conscientiously decide for himself.](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=18)
 
 This chart from the new study book "[Enjoy life forever](https://wol.jw.org/en/wol/d/r1/lp-e/1102021239)" shows that whole blood and blood components are unacceptable but that all minor blood fractions are a matter of personal conscience.
 
 ![](https://i.ibb.co/Yc8kzWF/Acceptable-Fractions.png)
 
-["Clotting factor VIII has been given to hemophiliacs, who bleed easily."](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=13) ["White blood cells may be a source of interferons and interleukins, used to treat some viral infections and cancers. Platelets can be processed to extract a wound-healing factor"](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=14) Some critical life saving medicines, such as snake venom serum and rabies vaccines contain blood fractions. So Jehovah's witnesses must decide how to handle these things in case they end up in a serious medical condition or they're bitten by a snake or rabid animal. 
+The interesting upshot of this is that while a Jehovah's witness is not allowed to accept whole blood or any of the four main components, they are free to accept 100% of every smaller fraction, as long as their conscience allows it. But since there is no fraction of blood that is forbidden, it logically means that accepting the four main blood components or even whole blood must be acceptable - as long as you can conscientiously accept all fractions.
+
+Still, rejecting life saving blood can be an issue of habit or bias, thinking blood is "yucky" or unclean. So in this article we will go through what blood actually contains to let everyone see that it is not so yucky or unclean.
+
+This is also important because there are many important medicines that contain blood fractions. For example ["clotting factor VIII has been given to hemophiliacs, who bleed easily."](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=13) ["White blood cells may be a source of interferons and interleukins, used to treat some viral infections and cancers. Platelets can be processed to extract a wound-healing factor"](https://wol.jw.org/en/wol/d/r1/lp-e/2004448#h=14) Some critical life saving medicines, such as snake venom serum and rabies vaccines contain blood fractions. So Jehovah's witnesses must decide how to handle these things in case they end up in a serious medical condition or they're bitten by a snake or rabid animal. 
 
 So let's have a look at what the fractions actually are.
 
