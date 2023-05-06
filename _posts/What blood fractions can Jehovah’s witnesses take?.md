@@ -33,6 +33,8 @@ Plasma contains a variety of proteins, including albumin, globulins, and fibrino
 
 Albumin is the most abundant protein in plasma, accounting for approximately 55-60% of the total protein content. It plays a crucial role in maintaining the osmotic pressure of the blood, which helps regulate the distribution of water between the blood and surrounding tissues. Albumin also binds and transports various substances such as hormones, fatty acids, and drugs throughout the body.
 
+Albumin is used as a plasma expander during surgery, and it can also be used to treat burns and edema.
+
 ### Globulins
 
 Globulins are a diverse group of proteins present in plasma. They can be further classified into three main types:
@@ -49,9 +51,13 @@ Beta-globulins include proteins such as transferrin and low-density lipoproteins
 
 Gamma-globulins are a class of proteins known as immunoglobulins or antibodies. They are vital components of the immune system and help defend against foreign substances, such as bacteria, viruses, and other pathogens.
 
+Immunoglobulins are used for passive immunization in situations where immediate protection against a particular pathogen or toxin is needed, such as in cases of exposure to certain infections or after a suspected rabies exposure. They can also be used to treat certain immune deficiencies or autoimmune disorders.
+
 ### Fibrinogen
 
 Fibrinogen is a clotting protein that plays a crucial role in the formation of blood clots. When blood vessels are damaged, fibrinogen is converted into fibrin, forming a mesh-like structure that helps stop bleeding by forming a clot.
+
+Fibrinogen, along with other clotting factors found in plasma, is used in the treatment of bleeding disorders, such as hemophilia or von Willebrand disease. It is also used in wound glue, a substance that can be used instead of stitches to close wounds.
 
 In addition to these major proteins, blood plasma also contains smaller amounts of other proteins, such as enzymes, complement proteins (part of the immune system), and regulatory proteins involved in various physiological processes.
 
