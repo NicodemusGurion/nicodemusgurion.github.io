@@ -140,9 +140,24 @@ And in Isaiah 25:6 it says:
 
 So if Jehovah offers you platelet-filled bone marrow. Will you accept it? Apparently it is fine with him. Is it fine with you?
 
-# Biblical principles to consider
+# Understanding the real reason for the prohibition of blood consumption
+
+In ancient Near Eastern cultures, including those surrounding ancient Israel, blood was often associated with ideas of life force, vitality, and power. 
 
 > Leviticus 17:11 — For the life of the flesh is in the blood…
+
+It was believed that by consuming the blood of an animal or a person, one could acquire some of that life force or power. This concept is known as "sympathetic magic" or the belief in the transfer of qualities or attributes through physical contact or ingestion.
+
+Within the context of idolatry and false worship, blood consumption played a significant role. In many ancient cultures, rituals involving blood were performed as offerings to gods or supernatural beings. These rituals were meant to establish a connection between the worshiper and the deity, often with the intention of receiving blessings, protection, or favor from the divine.
+
+The act of consuming blood in these religious practices was seen as a way to participate in the life force or power of the deity being worshiped. It was believed that by partaking in the blood, the worshiper would establish a communion or union with the divine being, thus gaining access to its attributes or benefits.
+
+However, in the Israelite religious worldview, there was a clear distinction between the worship of Jehovah, and the worship of false gods or idols. The Israelites were instructed to worship Jehovah alone and to reject the worship of other deities. This included abstaining from participating in the rituals and practices associated with those false gods, which often involved the consumption of blood.
+
+By prohibiting the consumption of blood, the Israelite religious laws sought to establish a clear boundary between the worship of Jehovah and the idolatrous practices of the surrounding cultures. It was a way to ensure the exclusive devotion and loyalty of the Israelites to their God and to prevent any syncretism or mixing of religious practices that would dilute their monotheistic faith.
+
+
+
 
 Blood is truly life giving, and as you can see from this brief overview. The Watchtower says [“There was only one use of blood that God ever approved, namely, for sacrifice](https://wol.jw.org/en/wol/d/r1/lp-e/1200000774)“, but as you have seen, God has even created us to automatically transfuse blood to our offspring, so apparently the Watchtower is drawing a false conclusions. Their previous, more strict view of blood fractions has already cost the lives of thousands of brothers and sisters. Some day you may give your life for a policy that they may change the next day. This kind of needless deaths for religious reasons is no different than human sacrifices. Is Jehovah like Molech, Baal or the other gods who were pleased in human sacrifices?
 
