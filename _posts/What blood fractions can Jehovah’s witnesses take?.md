@@ -108,7 +108,7 @@ Red blood cells contain specific enzymes that help maintain the cell's metabolic
 
 ![](https://i.ibb.co/r2jNQSy/whitebloodcells.jpg)
 
-#White Blood Cells
+# White Blood Cells
 
 White blood cells, also known as leukocytes, are a crucial component of the immune system. They are responsible for defending the body against infections, foreign substances, and abnormal cells. White Blood cells come in 5 different varieties:
 
@@ -146,7 +146,11 @@ So if Jehovah offers you platelet-filled bone marrow. Will you accept it? Appare
 
 Blood is truly life giving, and as you can see from this brief overview. The Watchtower says [“There was only one use of blood that God ever approved, namely, for sacrifice](https://wol.jw.org/en/wol/d/r1/lp-e/1200000774)“, but as you have seen, God has even created us to automatically transfuse blood to our offspring, so apparently the Watchtower is drawing a false conclusions. Their previous, more strict view of blood fractions has already cost the lives of thousands of brothers and sisters. Some day you may give your life for a policy that they may change the next day. This kind of needless deaths for religious reasons is no different than human sacrifices. Is Jehovah like Molech, Baal or the other gods who were pleased in human sacrifices?
 
+Sure the eating of blood was a violation of the Mosaic law. But how serious was it?
 
+> 1 Samuel 14:32-35 — So the people began rushing greedily at the spoil, and they took sheep and cattle and calves and slaughtered them on the ground, and they ate the meat along with the blood. 33 So it was reported to Saul: “Look! The people are sinning against Jehovah by eating meat with the blood.” At this he said: “You have acted faithlessly. Roll a large stone to me immediately.” 34 Saul then said: “Spread out among the people and say to them, ‘Each of you must bring his bull and his sheep and slaughter them here and then eat them. Do not sin against Jehovah by eating meat with the blood.’” So each of them brought his bull with him that night and slaughtered it there. 35 And Saul built an altar to Jehovah. This was the first altar he built to Jehovah.
+
+When the people ate blood, all that happened was that Saul 
 
 But notice that the Bible only ever prohibits the **eating** of blood, so using it’s components for medical purposes would be in line with the principles we learn in Matthew 12:10–12:
 
