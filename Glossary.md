@@ -16,6 +16,8 @@ The Divine Council is involved in the decision-making process regarding earthly 
 
 Some members of the Divine Council, such as the figure of the biblical "Satan," rebelled against Yahweh's authority. This rebellion resulted in divine judgment and expulsion from the council.
 
+Examples: Psalm 82; 2 Chronicles 18:18-22
+
 # Elohim
 
 **A member of the disembodied spiritual world.**
