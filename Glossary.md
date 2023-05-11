@@ -8,7 +8,7 @@ layout: page
 
 **A group of high ranking spirits. Also known as the Sons of God.**
 
-The Divine Council refers to a theological concept found in the Hebrew Bible (Old Testament) and other ancient Near Eastern texts. It involves the idea that [Yahweh](#Yahweh), the God of Israel, presides over a heavenly assembly or council composed of divine beings, often referred to as "elohim" (a Hebrew word translated as "gods" or "divine beings").
+The Divine Council refers to a theological concept found in the Hebrew Bible (Old Testament) and other ancient Near Eastern texts. It involves the idea that [Yahweh](#yahweh), the God of Israel, presides over a heavenly assembly or council composed of divine beings, often referred to as "elohim" (a Hebrew word translated as "gods" or "divine beings").
 
 The Divine Council is depicted as a gathering of divine beings, including angels, heavenly beings, and supernatural entities. They are distinct from Yahweh but operate under His authority. While the Divine Council consists of multiple divine beings, Yahweh holds the highest position as the supreme God. He is portrayed as the one who created and governs the council. Within the Divine Council, there is a hierarchical structure, with Yahweh as the ultimate authority. Other members of the council have different ranks and roles, and some are assigned to oversee specific nations or territories.
 
@@ -23,7 +23,7 @@ Some members of the Divine Council, such as the figure of the biblical "Satan," 
 The hebrew word Elohim as used in the hebrew text simply means a spirit. The word does not indicate a specific status or role, but only what kind of being someone is. Elohim is used to describe 
 
 * [Yahweh](#yahweh)
-* The Sons of God/[Divine Council](#Divine_Council)
+* The Sons of God/[Divine Council](#divine-council)
 * Low ranking spirits
 * Demons
 * Human spirits
@@ -36,7 +36,7 @@ The word Elohim is plural (ending in -im) and in hebrew grammar plural nouns are
 
 In hebrew, words were spelled using only the consonants. The divine name was spelled with the hebrew letters corresponding to YHVH. Somewhere in the second temple period the Jews became afraid of missusing God's name so they stopped using it altogether, aubstitutibg it for other words such as Adonai (Lord). Later when hebrew started using vowel pointing (little points to indicate what vowels to use), to prevent people from accidentally pronouncing the divine name when reading the scriptures, they added the vowel points for "Adonai", A-O-AI to the consonants YHVH. The idea was that the reader should see these and say "Adonai" instead of the divine name.
 
-In the Middle Ages scholars who did not understand this practice saw the divine name with these vowel points and attempted to represent the divine name using the consonants YHWH mixed with the vowels from the word "Adonai" (A-o-ai), resulting in the hybrid form "Ya-ho-vah" or "Jehovah".
+In the Middle Ages scholars who did not understand this practice saw the divine name with these vowel points and attempted to represent the divine name using the consonants YHWH mixed with the vowels from the word "Adonai" (Æ-O-A), resulting in the hybrid form "Yæ-ho-va-h" or "Jehovah".
 
 # Yahweh
 
