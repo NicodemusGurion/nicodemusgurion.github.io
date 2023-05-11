@@ -4,6 +4,18 @@ permalink: /glossary/
 layout: page
 ---
 
+# Divine Council
+
+**A group of high ranking spirits. Also known as the Sons of God.**
+
+The Divine Council refers to a theological concept found in the Hebrew Bible (Old Testament) and other ancient Near Eastern texts. It involves the idea that [Yahweh](#Yahweh), the God of Israel, presides over a heavenly assembly or council composed of divine beings, often referred to as "elohim" (a Hebrew word translated as "gods" or "divine beings").
+
+The Divine Council is depicted as a gathering of divine beings, including angels, heavenly beings, and supernatural entities. They are distinct from Yahweh but operate under His authority. While the Divine Council consists of multiple divine beings, Yahweh holds the highest position as the supreme God. He is portrayed as the one who created and governs the council. Within the Divine Council, there is a hierarchical structure, with Yahweh as the ultimate authority. Other members of the council have different ranks and roles, and some are assigned to oversee specific nations or territories.
+
+The Divine Council is involved in the decision-making process regarding earthly matters. They participate in discussions and deliberations, providing counsel and advice to Yahweh. However, it is ultimately Yahweh who makes the final decisions. Members of the Divine Council are assigned as patrons over different nations. These divine beings influence the destiny, governance, and spiritual conditions of their respective territories.
+
+Some members of the Divine Council, such as the figure of the biblical "Satan," rebelled against Yahweh's authority. This rebellion resulted in divine judgment and expulsion from the council.
+
 # Elohim
 
 **A member of the disembodied spiritual world.**
@@ -11,7 +23,7 @@ layout: page
 The hebrew word Elohim as used in the hebrew text simply means a spirit. The word does not indicate a specific status or role, but only what kind of being someone is. Elohim is used to describe 
 
 * [Yahweh](#yahweh)
-* The Sons of God/Divine Council
+* The Sons of God/[Divine Council](#Divine_Council)
 * Low ranking spirits
 * Demons
 * Human spirits
