@@ -3,6 +3,12 @@ title: Glossary
 permalink: /glossary/
 layout: page
 ---
+# Table of contents
+
+- [Divine Council](#divine-council)
+- [Elohim](#elohim)
+- [Jehovah](#jehovah)
+- [Yahweh](#yahweh)
 
 # Divine Council
 
@@ -39,6 +45,8 @@ The word Elohim is plural (ending in -im) and in hebrew grammar plural nouns are
 In hebrew, words were spelled using only the consonants. The divine name was spelled with the hebrew letters corresponding to YHVH. Somewhere in the second temple period the Jews became afraid of missusing God's name so they stopped using it altogether, aubstitutibg it for other words such as Adonai (Lord). Later when hebrew started using vowel pointing (little points to indicate what vowels to use), to prevent people from accidentally pronouncing the divine name when reading the scriptures, they added the vowel points for "Adonai", A-O-AI to the consonants YHVH. The idea was that the reader should see these and say "Adonai" instead of the divine name.
 
 In the Middle Ages scholars who did not understand this practice saw the divine name with these vowel points and attempted to represent the divine name using the consonants YHWH mixed with the vowels from the word "Adonai" (Æ-O-A), resulting in the hybrid form "Yæ-ho-va-h" or "Jehovah".
+
+See also: [Yahweh](#yahweh)
 
 # Yahweh
 
