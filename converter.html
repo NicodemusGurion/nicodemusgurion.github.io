@@ -25,4 +25,18 @@ function htmlToMarkdown(html) {
 
   return html;
 }
+  function convertHtmlToMarkdown() {
+      var htmlInput = document.getElementById('htmlInput');
+      var markdownOutput = document.getElementById('markdownOutput');
+
+      var htmlContent = htmlInput.value;
+      var markdownContent = htmlToMarkdown(htmlContent);
+
+      markdownOutput.textContent = markdownContent;
+    }
 </script>
+<h1>HTML to Markdown Converter</h1>
+  
+  <textarea id="htmlInput" rows="5" cols="50"></textarea><br>
+  <button onclick="convertHtmlToMarkdown()">Convert</button><br>
+  <pre id="markdownOutput"></pre>
