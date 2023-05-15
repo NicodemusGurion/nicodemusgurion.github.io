@@ -48,10 +48,31 @@ function htmlToMarkdown(html) {
     selection.addRange(range);
   }
 }
+function pasteFromClipboard() {
+      navigator.clipboard.readText().then(function (text) {
+        var htmlInput = document.getElementById('htmlInput');
+        htmlInput.value = text;
+      });
+    }
 
+    function copyToClipboard() {
+      var markdownOutput = document.getElementById('markdownOutput');
+      var markdownContent = markdownOutput.textContent;
+
+      navigator.clipboard.writeText(markdownContent).then(function () {
+        // Handle success
+        alert('Markdown content copied to clipboard!');
+      }, function () {
+        // Handle error
+        alert('Failed to copy markdown content to clipboard!');
+      });
+    }
 </script>
 <h1>HTML to Markdown Converter</h1>
   
   <textarea id="htmlInput" style="width:100%;min-height:20em;resize: vertical;"></textarea><br>
+<button onclick="pasteFromClipboard()">Paste from Clipboard</button>
   <button onclick="convertHtmlToMarkdown()">Convert</button><br>
+
+  <button onclick="copyToClipboard()">Copy to Clipboard</button>
   <pre id="markdownOutput" style="width: 100%;  white-space: pre-wrap;  word-wrap: normal; overflow-wrap: break-word;"></pre>
