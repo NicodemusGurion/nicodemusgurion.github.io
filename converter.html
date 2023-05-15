@@ -23,6 +23,7 @@ function htmlToMarkdown(html) {
   html = html.replace(/<code(.*?)>(.*?)<\/code>/g, '`$2`');
   html = html.replace(/<a.*href.*=.*"(.*?).*">(.*?)<\/a>/g, '[$2]($1)');
   html = html.replace(/<img.*src.*=.*"(.*?).*".*alt.*=.*"(.*?).*">/g, '![$2]($1)');
+  html = html.replace("&nbsp;"," ");
 
   return html;
 }
