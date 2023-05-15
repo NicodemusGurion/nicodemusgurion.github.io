@@ -26,14 +26,18 @@ function htmlToMarkdown(html) {
   return html;
 }
   function convertHtmlToMarkdown() {
-      var htmlInput = document.getElementById('htmlInput');
-      var markdownOutput = document.getElementById('markdownOutput');
+  var htmlInput = document.getElementById('htmlInput');
+  var markdownOutput = document.getElementById('markdownOutput');
 
-      var htmlContent = htmlInput.value;
-      var markdownContent = htmlToMarkdown(htmlContent);
+  var htmlContent = htmlInput.value;
+  var markdownContent = htmlToMarkdown(htmlContent);
 
-      markdownOutput.textContent = markdownContent;
-    }
+  // Remove remaining HTML tags from the converted Markdown content
+  var markdownWithoutTags = markdownContent.replace(/<[^>]+>/g, '');
+
+  markdownOutput.textContent = markdownWithoutTags;
+}
+
 </script>
 <h1>HTML to Markdown Converter</h1>
   
