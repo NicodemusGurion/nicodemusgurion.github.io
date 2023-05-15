@@ -33,10 +33,20 @@ function htmlToMarkdown(html) {
   var htmlContent = htmlInput.value;
   var markdownContent = htmlToMarkdown(htmlContent);
 
-  // Remove remaining HTML tags from the converted Markdown content
+  // Remove remaining HTML tags from the converted Markdowno content
   var markdownWithoutTags = markdownContent.replace(/<[^>]+>/g, '');
 
   markdownOutput.textContent = markdownWithoutTags;
+    
+    markdownOutput.addEventListener('click', selectText);
+  markdownOutput.addEventListener('dblclick', selectText);
+    function selectText() {
+    var range = document.createRange();
+    range.selectNodeContents(markdownOutput);
+    var selection = window.getSelection();
+    selection.removeAllRanges();
+    selection.addRange(range);
+  }
 }
 
 </script>
