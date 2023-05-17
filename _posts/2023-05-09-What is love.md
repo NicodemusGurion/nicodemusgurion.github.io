@@ -12,7 +12,7 @@ Love is other-centered, not self-centered. If you “love yourself” that is no
 
 # God IS love
 
-> 1 John 4:8 — “Whoever does not love has not come to know God, because **God is love**”
+> 1 John 4:8 — “Anyone who does not love does not know God, because **God is love.**”
 
 John wrote something amazing. He is saying that God **IS** love. He could have said that God **has** love, but he chose to say that he **is** love. That means that love is an intrinsic part of what God **is**. Love is God's very nature or essense. 
 
