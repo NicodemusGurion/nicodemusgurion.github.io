@@ -14,11 +14,9 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
     {{ post.excerpt }}
-    <a href="{{ post.url | absolute_url }}">Continue reading...</a>
+    <p><a href="{{ post.url | absolute_url }}">Continue reading...</a></p>
   </div>
   {% endfor %}
 </div>
