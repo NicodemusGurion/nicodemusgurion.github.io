@@ -4,7 +4,7 @@ tags: [Arianism, Jehovah's witnesses, Trinity, Deity of Christ]
 image: https://i.ibb.co/ZNXjLBL/love-header.jpg
 thumb: https://i.ibb.co/LQSK1t0/love.jpg
 ---
-Love is a loyal self-sacrificing, other-focused, giving relationship to another person. If you love someone, you will be concerned about their wellbeing, you will be loyal to them, you will appreciate them, and you will give of yourself for them. Since love is a relationship, it can only exist as long as there are at least two persons between whom the loving relationsip can exist. If there is only one person, then love simply can not exist. 
+Love is a loyal, self-sacrificing, other-focused, giving relationship to another person. If you love someone, you will be concerned about their wellbeing, you will be loyal to them, you will appreciate them, and you will give of yourself for them. Since love is a relationship, it can only exist as long as there are at least two persons between whom the loving relationsip can exist. If there is only one person, then love simply can not exist. 
 
 # But can’t you love yourself?
 
