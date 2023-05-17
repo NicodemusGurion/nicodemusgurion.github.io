@@ -1,4 +1,5 @@
 ---
+title: "Study: Does Religion Suppress, Socialize, Soothe, or Support? Exploring Religiosity's Influence on Crime"
 tags: [Studies]
 ---
 [https://www.researchgate.net/publication/259443967_Does_Religion_Suppress_Socialize_Soothe_or_Support_Exploring_Religiosity%27s_Influence_on_Crime](https://www.researchgate.net/publication/259443967_Does_Religion_Suppress_Socialize_Soothe_or_Support_Exploring_Religiosity%27s_Influence_on_Crime)
