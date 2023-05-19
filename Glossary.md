@@ -51,7 +51,7 @@ See also: [Yahweh](#yahweh)
 
 # Trinity
 
-The doctrine of the trinity is a summary of what the Bible teaches about God's nature, harmonizing everything the Bible says without adding, subtracting or changing anything.
+**The doctrine of the trinity is a summary of what the Bible teaches about God's nature, harmonizing everything the Bible says without adding, subtracting or changing anything.**
 
 The Bible reveals that the creator deity [Yahweh](#yahweh) is one divine being existing in three coequal, coeternal, consubstantial divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases) sharing one essence/substance/nature (homoousion). 
 
