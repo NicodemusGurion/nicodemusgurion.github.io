@@ -8,6 +8,7 @@ layout: page
 - [Divine Council](#divine-council)
 - [Elohim](#elohim)
 - [Jehovah](#jehovah)
+- [Trinity](#trinity)
 - [Yahweh](#yahweh)
 
 # Divine Council
@@ -47,6 +48,12 @@ In hebrew, words were spelled using only the consonants. The divine name was spe
 In the Middle Ages scholars who did not understand this practice saw the divine name with these vowel points and attempted to represent the divine name using the consonants YHWH mixed with the vowels from the word "Adonai" (Æ-O-A), resulting in the hybrid form "Yæ-ho-va-h" or "Jehovah".
 
 See also: [Yahweh](#yahweh)
+
+# Trinity
+
+The doctrine of the trinity is a summary of what the Bible teaches about God's nature, harmonizing everything the Bible says without adding, subtracting or changing anything.
+
+The Bible reveals that the creator deity [Yahweh](#yahweh) is one divine being existing in three coequal, coeternal, consubstantial divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases) sharing one essence/substance/nature (homoousion). 
 
 # Yahweh
 
