@@ -16,7 +16,7 @@ In order to vindicate Jehovah's sovereignty and sanctify his name of the reproac
 
 In order to repay the debt of Adam, he was nailed to a stake, not a cross, under Pontius Pilate. He died and was buried. His body was then miraculously dissolved into atoms.
 
-On the third day he came back again as the archangel Michael again and materialized and dematerialized several bodies in order to convince his follwers that he had been bodily resurrected, even making a body with wounds so that he could convince Thomas; he ascended into heaven and waited for 1880 years before he seated himself at the right hand of Jehovah. 
+On the third day he came back again as the archangel Michael and materialized and dematerialized several mock bodies in order to deceive his follwers into believing that he had been bodily resurrected, even making a body with wounds so that he could convince Thomas; he ascended into heaven and waited for 1880 years before he seated himself at the right hand of Jehovah. 
 
 Since 1914 he is invisibly present although he has not yet come. Someday very very soon he will come again at Armageddon and kill everyone who is not a Jehovah's witness, and will rule his kingdom from heaven with 144.000 co-rulers for a thousand years. 
 
