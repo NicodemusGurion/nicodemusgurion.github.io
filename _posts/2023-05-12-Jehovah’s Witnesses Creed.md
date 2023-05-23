@@ -1,6 +1,8 @@
 ---
 title: Jehovah's Witnesses Creed
 tags: [Jehovah's witnesses, Arianism, Creeds, Theology, Belief]
+thumb: https://i.ibb.co/Ycj9Hm0/CF2-A47-E9-8-F86-43-C8-8479-32-C6326995-C1.png
+image: https://i.ibb.co/cDYwqL1/EB6-A7-EC8-BECD-41-B8-83-B0-A48-AD5-E60-AD7.jpg
 ---
 How would [the Nicene creed](https://en.m.wikipedia.org/wiki/English_versions_of_the_Nicene_Creed) have looked like if the Jehovah's witnesses were the true religion? This is a version of [the Nicene creed](https://en.m.wikipedia.org/wiki/English_versions_of_the_Nicene_Creed) with the doctrinal statements changed to conform to the actual beliefs of Jehovah's witnesses:
 
