@@ -17,7 +17,7 @@ The Christian doctrine of the Trinity is the central doctrine concerning the nat
 Notice that in the Bible there are several titles and attributes that identify Jehovah God. Whenever someone is said to posess these, it is an indication that the writer and readers understands that it's talking about God. Some of these attributes are given to God in the old testament and to Jesus Christ in the New Testament, showing that the weiter and readers considered them to be one and the same. These include 
 - [The Son of Man](#the-son-of-man)
 - [The one who comes on the clouds](#the-cloud-rider)
-- [The one to whom every knee will bow](the-one-to-whom-every-knee-will-bow) 
+- [The one to whom every knee will bow](#the-one-to-whom-every-knee-will-bow) 
 - [The one with the highest name](#the-one-with-the-highest-name)
 - [The First and the Last](#the-first-and-the-last)
 
