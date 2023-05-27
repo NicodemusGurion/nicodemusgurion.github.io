@@ -52,7 +52,7 @@ Here is a list of scriptures that harmonize with or prove the trinity doctrine, 
 
 > Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless the LORD your God from everlasting to everlasting. **Blessed be your glorious name, which is exalted above all blessing and praise**.
 
-Jehovah has the highest name. Philippians 2:9 reveal that Jesus is the one with the highest name. So either Jesus is Jehovah or Jehovah is not the highest name.
+Jehovah has the highest name. [Philippians 2:9](#philippians-29) reveal that Jesus is the one with the highest name. So either Jesus is Jehovah or Jehovah is not the highest name.
 
 ## Job 9:8 
 
