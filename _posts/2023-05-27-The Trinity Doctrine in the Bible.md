@@ -6,7 +6,7 @@ The Trinity Doctrine is probably the most misunderstood and attacked Christian d
 
 # The Trinity, Definitions and common misunderstanding
 
-The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases) sharing one essence/substance/nature (homoousion). In this context, one essence/nature defines **what** God is, while the three persons define **who** God is. Since what someone is and who someone is are two distinct concepts there is no contradiction in the idea tgat God is one essence with three persons.
+The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases) sharing one being/essence/substance/nature (homoousion). In this context, one being/essence/substance/nature defines **what** God is, while the three persons define **who** God is. Since *what* someone is and *who* someone is are two distinct concepts there is no contradiction in the idea that God is one being with three persons.
 
 [^coequal]: Being equal in essence. No one is more of less "God", however in the cooperation between the persons of God, there is a certain hierarchy of authority and responsibility.
 [^coeternal]: All if the are eternal. None has a beginning nor an end. 
