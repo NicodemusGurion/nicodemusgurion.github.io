@@ -502,7 +502,6 @@ When Jesus later told the Sanhedrin that they would "see [the Son of Man](#the-s
 
 Some 40 days later, Jesus did ascend on the clouds to the throne of God as Daniel foretold. And he will come back the same way, on the clouds in glory.
 
-
 ## The Son of Man
 
 The title Jesus uses about himself more than any other is "The Son of Man." This refers to Daniel 7:13 where Daniel sees a vision of a Son of Man, meaning a human being, [coming on the clouds](#the-cloud-rider), which was something only God did. So this character was both human and god at the same time. And he sits down at the right hand of the Ancient of Days and recieve total power over and worship from the entire universe.
@@ -538,7 +537,19 @@ God is the one who rewards or punishes people according to their deeds.
 - [Romans 2:6](#romans-26) 
 - [Revelation 22:12](#revelation-2212)
 
-## The Son of God
+## Monogenes 
+
+The greek word *monogenes* (μονογενής) often translated as only-begotten, is a word used to describe the relationship of the Son to the Father. For a long time translators thought that the word came from *mono* (μονο) meaning only, and *gennao* (γεννάω) meaning born. This is the word that words like "generate", "genesis", and "generation" come from. 
+
+However recent research into other ancient literature revealed that the second part of the word rather comes from the greek word *genos* (γένος), which means kind or type. So the more accurate rendering of *monogenes* would be "one of a kind" or "unique", and it has nothing to do with being born. This is the word that words like "genetics", "genus", "gender" and "gentile" come from.
+
+That Jesus is the **unique** son of God emphasizes that in contrast with the other spirit beings sometimes called "sons of God", Jesus is special, one of a kind. He is unique because while these spirit beings and even the human Adam are "sons" in a relational sense, like adoptive children, they are different from God in substance. Jesus however is a true son, having the same substance as the Father. They are "genetically" related, having the same "*genos*" or type. 
+
+Since Jesus shares the same unique substance as the Father, this means they are both God, sharers in the God-substance.
+
+### The Son of God
+
+Jesus being "the" son of God is a shorter way of saying he is [the unique son of God](#monogenes), and not just "a" son of God.
 
 # Attributes of God
 
@@ -549,8 +560,6 @@ These are attributes that only God posess. the Bible shows that both the Father,
 The ability to be in any and all place at any time. 
 
 ## Omniscience
-
-
 
 # Other phrases and idioms
 
