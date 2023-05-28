@@ -109,6 +109,12 @@ Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-29) shows
 
 [See The Cloud Rider](#the-cloud-rider)
 
+## Isaiah 40:10 
+
+> Behold, the Lord GOD comes with might, and his arm rules for him; behold, his reward is with him, and his recompense before him.
+
+[The one who repays deeds](#the-one-who-repays-deeds) is a divine title which in [Revelation 22:12,13](#revelation-221213) is used about Jesus, proving his deity.
+
 ## Isaiah 41:4 
 
 > Who has performed and done this, calling the generations from the beginning? I, the LORD, the first, and with the last; I am he.
@@ -506,7 +512,7 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 > and I [Jesus] will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works.
 
-**He who searches minds and hearts** is a reference to the old testament in passages such as [Jeremiah 17:10](#jeremiah-1710)  where it says that Jehovah search the mind, and try the heart and who give to every man according to his ways. This shows that Jesus claims to be tye same as Jehovah in these passages.
+**He who searches minds and hearts** is a reference to the old testament in passages such as [Jeremiah 17:10](#jeremiah-1710)  where it says that Jehovah searches the mind, and try the heart and who give to every man according to his ways. This shows that Jesus claims to be the same as Jehovah in these passages, which proves the deity of Christ.
 
 ## Revelation 22:12,13 
 
