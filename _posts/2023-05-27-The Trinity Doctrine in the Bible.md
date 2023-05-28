@@ -4,7 +4,7 @@ tags: [Trinity, Arianism, Deity of Christ, Featured]
 ---
 The Trinity Doctrine is probably the most misunderstood and attacked Christian doctrine. It is firmly rooted in the Bible. Here is a list of scriptures that prove or support the trinity doctrine along with explanations. This list will be continually expanded.
 
-# The Trinity, Definitions and common misunderstanding
+# The Trinity: Definitions and common misunderstanding
 
 The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases) sharing one being/essence/substance/nature (homoousion). In this context, one being/essence/substance/nature defines **what** God is, while the three persons define **who** God is. Since *what* someone is and *who* someone is are two distinct concepts there is no contradiction in the idea that God is one being with three persons.
 
@@ -141,8 +141,6 @@ Every knee shall bow before Jehovah, and every tongue swear allegiance. In [Phil
 
 Jehovah God gives his glory to no other. Yet in scriptures like [John 5:23](#john-523), [Matthew 16:27](#matthew-1627), and [2 Peter 1:17](#2-peter-117), The Son, Jesus, is glorified by the Father and humans with equal glory to the Father. Since Jehovah gives his glory to no other, it means that Jesus is no other than Jehovah. This proves the deity of Christ.
 
-
-
 ## Jeremiah 23:23-24  
 
 > “Am I a God at hand, declares the LORD, and not a God far away? 24 Can a man hide himself in secret places so that I cannot see him? declares the LORD. Do I not fill heaven and earth? declares the LORD.”
@@ -212,7 +210,7 @@ This shows that Jesus is omnipresent, having the ability to be anywhere. This is
 ## Matthew 24:30 
 > Then will appear in heaven the sign of the Son of Man, and then all the tribes of the earth will mourn, and **they will see the Son of Man coming on the clouds of heaven** with power and great glory.
 
-[See The Cloud Rider](#the-cloud-rider)
+Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 ## Matthew 28:20 
 
@@ -231,25 +229,26 @@ When the scribes get upset and accuse Jesus of blasphemy because Jesus forgives 
 
 > And he saw that they were making headway painfully, for the wind was against them. And about the fourth watch of the night he came to them, **walking on the sea**. He meant to pass by them,
 
-The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-98)) This shows that Jesus is God, and why they fell downand worshipped him. ([Matthew 14:33](#matthew-1433)
+The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-98)) This shows that Jesus is God, and why they fell downand worshipped him. ([Matthew 14:33](#matthew-1433))
 
 ## Mark 13:26 
 
 > And then they will see the Son of Man **coming in clouds** with great power and glory.
 
-[See The Cloud Rider](#the-cloud-rider)
+Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 ## Mark 14:62-64 
 
 And Jesus said, “I am, and you will see **the Son of Man** seated at the right hand of Power, and **coming with the clouds of heaven**.” 63 And the high priest tore his garments and said, “What further witnesses do we need? 64 **You have heard his blasphemy**. What is your decision?” And **they all condemned him as deserving death.**
 
-[See The Cloud Rider](#the-cloud-rider) and [the Son of Man](#the-son-of-man).
+When putnunder oath, Jesus reveals that he is [The Cloud Rider](#the-cloud-rider) and [the Son of Man](#the-son-of-man), two divine titles that are unique to Jehovah God. Thus claiming to be God he was judged as a blasphemer.
 
 ## Luke 21:27 
 
 > And then they will see the Son of Man **coming in a cloud** with power and great glory.
 
-[See The Cloud Rider](#the-cloud-rider)
+Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
+
 
 ## John 1:1 
 
@@ -257,7 +256,7 @@ And Jesus said, “I am, and you will see **the Son of Man** seated at the right
 
 This verse describes the second person if the trinity, known as the Son, Jesus or the Word. It shows that **in the beginning**, he already existed, meaning he is eternal. 
 
-It also shows that he is a separate person from God, he was **with God**, but that at the same time he is God. The original greek grammar is hard to convey here, but greek could in some cases use a noun serving as an adjective, so while the Word is separate from the person called God, the Word is God-ish or Godly, or divine. He possesses all that is required for a person to be God.
+It also shows that he is a separate person from God, he was **with God**, but that at the same time he **was God**. The original greek grammar is hard to convey here, but greek could in some cases use a noun serving as an adjective, so while the Word is separate from the person called God, the Word is God-ish or Godly, or divine. He possesses all that is required for a person to be God.
 
 ## John 1:3 
 
