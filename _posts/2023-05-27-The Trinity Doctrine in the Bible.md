@@ -177,6 +177,12 @@ See [The one who sees the heart](#the-one-who-sees-hearts)and The one who repays
 
 God is omnipresent, filling heaven and earth, is near and far, and in every secret place. Both God the Father, The Son and the Holy Spirit are said to be omnipresent. See [Omnipresence](#omnipresence)
 
+## Lamentations 3:64
+
+> “You will repay them, O LORD, according to the work of their hands.
+
+God is [the one who repays deeds](#the-one-who-repays-deeds), which is a divine title used for Jesus Christ as well in [Revelation 22:12,13](#revelation-221213) proving the deity of Christ.
+
 ## Daniel 7:13 
 
 > “I saw in the night visions, and behold, **with the clouds of heaven there came one like a son of man**, and he came to the Ancient of Days and was presented before him.
