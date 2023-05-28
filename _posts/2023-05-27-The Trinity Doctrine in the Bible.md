@@ -377,7 +377,7 @@ This proves that Jesus accepts prayer and that he is [omniscient](#omniscience),
 
 ## Philippians 2:5-7 
 
-> Have this mind among yourselves, which is yours in Christ Jesus, 6 who, though **he was in the form of God**, did not count equality with God a thing to be grasped, 7 but emptied himself, by taking the form of a servant, being born in the likeness of men.
+> Have this mind among yourselves, which is yours in Christ Jesus, 6 who, though he was in the form of God, did not count equality with God a thing to be grasped, 7 but emptied himself, by taking the form of a servant, being born in the likeness of men.
 
 Jesus has the form of God, being fully of the same substance as God the Father. He did not have the same status position as the Father and didn't grasp for that, but he emptied himself of the status that he did have to take on the lowliest status, that of a slave. He did this by taking on the substance of a human along with his divine substance, and to live a life of service.
 
@@ -391,14 +391,13 @@ In the Old Testament, Jehovah God has the highest name, the name above wvery nam
 
 ## Philippians 2:10-11 
 
-> so that at the name of Jesus **every knee should bow**, in heaven and on earth and under the earth, 11 and **every tongue confess** that Jesus Christ is Lord, to the glory of God the Father.
+> so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, 11 and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
 
-**Every knee should bow** shows that Jesus is receiving worship as God. Paul quotes Old Testament scriptures like Isaiah 45:23 which use these phrases for God. Paul is therefore ascribing equality between Jesus and Jehovah God. This indicates the deity of Christ.
-
+**Every knee should bow** shows that Jesus is receiving worship as God. Paul quotes Old Testament scriptures like [Isaiah 45:23](#isaiah-4523) which use these phrases for God. Paul is therefore ascribing equality between Jesus and Jehovah God. This proves the deity of Christ.
 
 ## Colossians 1:15 
 
-> **He is the image of the invisible God**, the firstborn of all creation.
+> He is the image of the invisible God, the firstborn of all creation.
 
 Jesus is the image of the invisible God. God the Father, the invisible God, still needs a way to interact with humans. So Jesus is the image, or physical, visible manifestation of the invisible God. Fully God, but in his humanity the visible representation that we humans can understand.
 
@@ -412,30 +411,27 @@ Jesus is therefore eternal and fully divine.
 
 ## Colossians 2:9  
 
-> For in him **the whole fullness of deity** dwells bodily,
+> For in him the whole fullness of deity dwells bodily,
 
-In Jesus, the whole fullness of deity dwells. The fullness of deity means "everything that makes God God". So in Jesus dwells everything that makes God God. Whoever has everything that makes God God, is by definition God. Jesus is fully God. And the fullness if deity dwell bodily because Jesus took on a human substance.
+In Jesus, **the whole fullness of deity dwells**. **The fullness of deity** means "everything that makes God God". So in Jesus dwells everything that makes God God. Whoever has everything that makes God God, is by definition God. Jesus is fully God. And the fullness if deity dwell bodily because Jesus took on a human substance.
 
 ## Titus 2:13 
 
-> waiting for our blessed hope, the appearing of the glory of **our great God and Savior Jesus Christ**
+> waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ
 
-Jesus is called "our Great God and Savior" by the apostle Paul. This is what the firat Christians believed.
-
+Jesus is called **our Great God and Savior** by the apostle Paul. This is what the first Christians believed.
 
 ## Hebrews 1:3 
 
 > He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,
 
-Jesus is the **Radiance of the Glory**. Glory is not Glory without it's radiance. The radiance is the Glory itself. God is not God without Jesus, Jesus is God. The earliest church Fathers compared the Father and Som to the Sun and the Sunshine. They would call both "sun". Today we may make a distinction, but in common parlance we still refer to both with the word "sun". "Let's move to the sun" means to go to where the sun shines, not to fly to the heavenly body called the sun. And if not for the sunshine we would not be able to know that the heavenly body existed. And like the aunshine is dependent on the heavenly nody for their exiatence, so the Som is dependent on the Father for his existence, however not in the temporal way as if he ever had a beginning. God has always existed and the Son, the Glory of God has always radiated.
+Jesus is the **Radiance of the Glory**. Glory is not Glory without it's radiance. The radiance is the Glory itself. God is not God without Jesus, Jesus is God. The earliest church Fathers compared the Father and Son to the Sun and the Sunshine. They would call both "sun". Today we may make a distinction, but in common parlance we still refer to both with the word "sun". "Let's move to the sun" means to go to where the sun shines, not to fly to the heavenly body called the sun. And if not for the sunshine we would not be able to know that the heavenly body existed. And like the sunshine is dependent on the heavenly body for their existence, so the Son is dependent on the Father for his existence. However not in the temporal way as if he ever had a beginning. God has always existed and the Son, the Glory of God has always radiated.
 
-Jesus is **the exact imprint of God's nature**. Whatever God is, Jesus is. In the vein of Colossians 1:15 this explains that Jesus is God manifested in a way humans can understand.  
+Jesus is **the exact imprint of God's nature**. Whatever God is, Jesus is. In the vein of [Colossians 1:15](#colossians-115) this explains that Jesus is God manifested in a way humans can understand.  
 
 Jesus **upholds the universe** by his power, showing he is almighty, omnipotent. Every atom is in place thanks to him.
 
 That **he sat down at the right hand** of God the Father shows that the Son is still separate from the Father.
-
-
 
 ## Hebrews 1:8  
 
@@ -447,13 +443,13 @@ God the Father calls Jesus "God".
 
 > But **of the Son** he says,... 10 And, “You, Lord, laid the foundation of the earth in the beginning, and the heavens are the work of your hands; 11 they will perish, but you remain; they will all wear out like a garment, 12 like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end.”
 
-Paul quotes Psalm 102 which talks about Jehovah, and he applies it to Jesus. Jesus is the one who laid the foundation of the earth, because Jesus is Jehovah.
+Paul quotes [Psalm 102](#psalm-10225-27) which talks about Jehovah, and he applies it to Jesus. Jesus is the one who laid the foundation of the earth, because Jesus is Jehovah.
 
 ## 2 Peter 1:1 
 
-> Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of **our God and Savior Jesus Christ:**
+> Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ:
 
-Jesus is called "our Great God and Savior" by the apostle Peter. This is what the firat Christians believed.
+Jesus is called **our Great God and Savior** by the apostle Peter. This is what the firat Christians believed.
 
 ## 2 Peter 1:17 
 
@@ -461,11 +457,13 @@ Jesus is called "our Great God and Savior" by the apostle Peter. This is what th
 
 Jesus **received honor and glory from God the Father**. However scriptures like [Isaiah 42:8](#isaiah-428) and [48:11](#isaiah-4811) show that God does not allow anyone else to have equal glory to him. This means that Jesus is no one else but God. This proves the deity of Christ.
 
+**This is my beloved Son** shows that Jesus is the [unique son of God](#monogenes), of the same substance as the Father. This proves the deity of Christ.
+
 ## Revelation 1:7 
 
-> Behold, **he is coming with the clouds**, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen.
+> Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen.
 
-[See The Cloud Rider](#the-cloud-rider)
+Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 ## Revelation 1:8 
 
