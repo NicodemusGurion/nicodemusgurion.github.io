@@ -350,13 +350,13 @@ See [Calling on the name of...](#calling-on-the-name-of)
 
 > He will render to each one according to his works:
 
-God is the one who [The one who repays deeds](#the-one-who-repays-deeds). However this description is also used about Jesus in [Matthew 16:27](#matthew-1627) and [Revelation 22:12](#revelation-2212), proving the deity of Christ.
+God is the one who [The one who repays deeds](#the-one-who-repays-deeds). However this description is also used about Jesus in [Matthew 16:27](#matthew-1627) and [Revelation 22:12,13](#revelation-221213), proving the deity of Christ.
 
 ## Romans 14:11 
 
 > for it is written, “As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.”
 
-Paul is referring to Isaiah 45:23 which says that **every knee will bow to** God and **every tongue confess** him as Lord, and he is applying this to Jesus because Paul believed that Jesus is God. This indicates the deity of Christ
+Paul is referring to [Isaiah 45:23](#isaiah-4523) which says that **every knee will bow to** God and **every tongue confess** him as Lord, and he is applying this to Jesus because Paul believed that Jesus is God. This indicates the deity of Christ
 
 
 ## 1 Corinthians 1:2 
