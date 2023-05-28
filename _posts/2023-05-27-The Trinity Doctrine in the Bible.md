@@ -178,7 +178,15 @@ Jesus is **knowing their thoughts** because he is omniscient, having the ability
 
 > And in the fourth watch of the night he came to them, **walking on the sea**.
 
-The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-98)) This shows that Jesus is God, and why they fell downand worshipped him. ([Matthew 14:33](#matthew-1433))
+The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-98)) This shows that Jesus is God, and why they fell down and worshipped him. ([Matthew 14:33](#matthew-1433))
+
+## Matthew 14:33
+
+> And those in the boat worshiped him, saying, “Truly you are the Son of God.”
+
+They **worshipped him** because [in verse 25](#matthew1425) they had just seen him do something that a Jew knew only Jehovah does, walking on water. See [Job 9:9](#job-99) for the scriptural basis for this.
+
+They recognized that Jesus is **the Son of God**. Not "a" son of God as someone from the [Divine Council](#the-divine-council) may be referred to, but "the", as in the unique son of God. Unique in the sense that he partakes of the same substance as the Father. See [The Son of God](#the-son-of-god).
 
 ## Matthew 16:27 
 
@@ -529,6 +537,8 @@ God is the one who rewards or punishes people according to their deeds.
 - [Matthew 16:27](#matthew-1627)
 - [Romans 2:6](#romans-26) 
 - [Revelation 22:12](#revelation-2212)
+
+## The Son of God
 
 # Attributes of God
 
