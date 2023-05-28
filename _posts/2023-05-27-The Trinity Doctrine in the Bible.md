@@ -410,7 +410,10 @@ In Jesus, the whole fullness of deity dwells. The fullness of deity means "every
 
 Jesus is called "our Great God and Savior" by the apostle Paul. This is what the firat Christians believed.
 
-> Hebrews 1:3 He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,
+
+## Hebrews 1:3 
+
+> He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,
 
 Jesus is the **Radiance of the Glory**. Glory is not Glory without it's radiance. The radiance is the Glory itself. God is not God without Jesus, Jesus is God. The earliest church Fathers compared the Father and Som to the Sun and the Sunshine. They would call both "sun". Today we may make a distinction, but in common parlance we still refer to both with the word "sun". "Let's move to the sun" means to go to where the sun shines, not to fly to the heavenly body called the sun. And if not for the sunshine we would not be able to know that the heavenly body existed. And like the aunshine is dependent on the heavenly nody for their exiatence, so the Som is dependent on the Father for his existence, however not in the temporal way as if he ever had a beginning. God has always existed and the Son, the Glory of God has always radiated.
 
@@ -428,7 +431,7 @@ That **he sat down at the right hand** of God the Father shows that the Son is s
 
 God the Father calls Jesus "God". 
 
-## Hebrews 1:8, 10-12 
+## Hebrews 1:10-12 
 
 > But **of the Son** he says,... 10 And, “You, Lord, laid the foundation of the earth in the beginning, and the heavens are the work of your hands; 11 they will perish, but you remain; they will all wear out like a garment, 12 like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end.”
 
