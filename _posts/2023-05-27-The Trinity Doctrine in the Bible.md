@@ -186,7 +186,7 @@ The disciples knew that only God has the power to walk on the water. ([Job 9:8](
  
 They **worshipped him** because [in verse 25](#matthew-1425) they had just seen him do something that a Jew knew only Jehovah does, walking on water. See [Job 9:8](#job-98) for the scriptural basis for this.
 
-They recognized that Jesus is **the Son of God**. Not "a" son of God as someone from the [Divine Council](#the-divine-council) may be referred to, but "the", as in the unique son of God. Unique in the sense that he partakes of the same substance as the Father. See [The Son of God](#the-son-of-god).
+They recognized that Jesus is **the Son of God**. Not "a" son of God as someone from the [Divine Council](#the-divine-council) may be referred to, but "the", as in [the unique son of God](#monogenes). Unique in the sense that he partakes of the same substance as the Father. See [The Son of God](#monogenes).
 
 ## Matthew 16:27 
 
@@ -194,11 +194,11 @@ They recognized that Jesus is **the Son of God**. Not "a" son of God as someone 
 
 Jesus is here called **the [Son of Man](#son-of-man)**, which is a divine title for the human manifestation of Jehovah mentioned in [Daniel 7:13](#daniel-713)
 
-See [Son of Man](#son-of-man).
+See [Son of Man](#the-son-of-man).
 
 Jesus is coming **in the glory of his Father**. Scriptures like [Isaiah 42:8](#isaiah-428) and [48:11](#isaiah-4811) show that God does not allow anyone else to have equal glory to him. This means that Jesus is no one else but God. This proves the deity of Christ.
 
-That Jesus will **repay each person according to what he has done**. [Isaiah 40:10](#isaiah-40:10) shows that the one who does this is Jehovah, meaning Jesus is Jehovah. [Romans 2:6](#romans-26) shows that the one who does this is God, meaning Jesus is God. It also shows that the one mentioned in [Revelation 22:12](#revelation-2212) is Jesus, who is the Alpha and Omega, who is God Almighty. This is proof of the deity of Christ.
+That Jesus will **repay each person according to what he has done**. [Isaiah 40:10](#isaiah-4010) shows that the one who does this is Jehovah, meaning Jesus is Jehovah. [Romans 2:6](#romans-26) shows that the one who does this is God, meaning Jesus is God. It also shows that the one mentioned in [Revelation 22:12](#revelation-2212) is Jesus, who is the Alpha and Omega, who is God Almighty. This is proof of the deity of Christ.
 
 See [The one who repays deeds](#the-one-who-repays-deeds)
 
