@@ -469,8 +469,7 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 > “I am the Alpha and the Omega,” says the Lord God, “who is and who was and who is to come, the Almighty.”
 
-**The Alpha and the Omega** is a divine title emphasizing the eternity of God. This verse makes it clear that it is about God Almighty. Revelation 1:72:23;22:13 shows that this is also a title applied to Jesus. This is evidence that Jesus is divine.
-
+**The Alpha and the Omega** is a divine title emphasizing the eternity of God. This verse makes it clear that it is about God Almighty. [Revelation 1:17](#revelation-117);[2:23](#revelation-223);[22:13](#revelation-2212-13) shows that this is also a title applied to Jesus. This proves the deity of Jesus.
 
 ## Revelation 1:17 
 
@@ -478,21 +477,21 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 **He laid his right hand on me** shows that this was not a vision but a real life experience. John met the physical Jesus Christ, who even touched him. This is evidence that Jesus still keeps his glorified human substance (body) in heaven. Being both human and God, it makes him the only possible perfect mediator between humanity and divinity.
 
-**The first and the last** is a divine title of Jehovah used in Isaiah 41:4; 44:6; 48:12. It means that he is eternal, the one whom everything begins with and ends with. As Isaiah 44:6 points out there is inly one God wirtgy of this title, and the fact that Jesus applies this title to himself is evidence of his divinity. He is fully God, the second person of the trinity.
+**The first and the last** is a divine title of Jehovah used in [Isaiah 41:4](#isaiah-414); [44:6](#isaiah-446); [48:12](#isaiah-4812). It means that he is eternal, the one whom everything begins with and ends with. As [Isaiah 44:6](#isaiah-446) points out there is only one God worthy of this title, and the fact that Jesus applies this title to himself is evidence of his divinity. He is fully God, the second person of the trinity.
 
 ## Revelation 2:23 
 
 > and I [Jesus] will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works.
 
-**He who searches minds and hearts** is a reference to the old testament in passages such as Jeremiah 17:10  where it says that Jehovah search the mind,and try the heart and who give to every man according to his ways. This shows that Jesus claims to be tye same as Jehovah in these passages.
+**He who searches minds and hearts** is a reference to the old testament in passages such as [Jeremiah 17:10](#jeremiah-1710)  where it says that Jehovah search the mind, and try the heart and who give to every man according to his ways. This shows that Jesus claims to be tye same as Jehovah in these passages.
 
 ## Revelation 22:12,13 
 
 > 12 “Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done. 13 I am the Alpha and the Omega, the first and the last, the beginning and the end.”
 
-This passage is about Jesus, because Jesus is the one who is **coming soon**. **To repay each one for what he has done** is a reference to scriptures like Isaiah 40:10; Lamentations 3:64; Hosea 12:2, which is what God will do. This is evidence that Jesus is God.
+This passage is about Jesus, because Jesus is the one who is **coming soon**. **To repay each one for what he has done** is a reference to scriptures like [Isaiah 40:10](#isaiah-4010); [Lamentations 3:64](#lamentations-364); [Hosea 12:2](#hosea-122), which is what God will do. This is evidence that Jesus is God.
 
-**[The First and the Last](#the-first-and-the-last)** is a divine title that only apply to the eternal God. In Revelation 1:17;2:23 and here, Jesus applies it to himself. In this verse we also see that synonymous titles the Alpha and Omega, as well as the Beginning and the End. These are all divine titles of God applied to Jesus.
+**[The First and the Last](#the-first-and-the-last)** is a divine title that only apply to the eternal God. In [Revelation 1:17](#revelation-117);[2:23](#revelation-223) and here, Jesus applies it to himself. In this verse we also see that synonymous titles the Alpha and Omega, as well as the Beginning and the End. These are all divine titles of God applied to Jesus.
 
 # Titles of God
 
