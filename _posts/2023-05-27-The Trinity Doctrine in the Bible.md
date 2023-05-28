@@ -70,7 +70,7 @@ The ability to walk on water is a unique attribute of God. In [Matthew 14:25](#m
 
 > that they may know that you alone, whose name is Jehovah, are the Most High over all the earth. 
 
-This scripture tellsnus that Jehovah God is the highest over all the earth. [Philippians 2:10-11](#philippians-21011) shows that Jesus is the one who is the most high over all the earth.
+This scripture tellsnus that Jehovah God is the highest over all the earth. [Philippians 2:10-11](#philippians-210-11) shows that Jesus is the one who is the most high over all the earth.
 
 ## Psalm 102:25-27 
 
