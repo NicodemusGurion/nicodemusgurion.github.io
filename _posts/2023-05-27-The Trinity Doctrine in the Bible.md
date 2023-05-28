@@ -345,6 +345,11 @@ Among the first things Ananias instructs Paul to do is to pray to and worship Je
 
 See [Calling on the name of...](#calling-on-the-name-of)
 
+## Romans 2:6
+
+> He will render to each one according to his works:
+
+God is the one who [The one who repays deeds](#the-one-who-repays-deeds). However this description is also used about Jesus in [Matthew 16:27](#matthew-1627) and [Revelation 22:12](#revelation-2212), proving the deity of Christ.
 
 ## Romans 14:11 
 
