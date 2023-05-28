@@ -157,6 +157,14 @@ This shows that God is **the first and the last**. This is who Jesus said that h
 
 [See The First and the Last](#the-first-and-the-last).
 
+## Jeremiah 17:10
+
+> “I the LORD search the heart and test the mind, to give every man according to his ways, according to the fruit of his deeds.”
+
+God is the one who **search the heart and test the mind**, and **give every man according to his ways**. These are two divine titles. Both titles are used about Jesus, proving his deity.
+
+See [The one who sees the heart](#the-one-who-sees-hearts)and The one who repays deeds](#the-one-who-repays-deeds).
+
 ## Jeremiah 23:23-24  
 
 > “Am I a God at hand, declares the LORD, and not a God far away? 24 Can a man hide himself in secret places so that I cannot see him? declares the LORD. Do I not fill heaven and earth? declares the LORD.”
