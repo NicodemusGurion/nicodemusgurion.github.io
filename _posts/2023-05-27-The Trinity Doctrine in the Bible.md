@@ -141,6 +141,14 @@ Every knee shall bow before Jehovah, and every tongue swear allegiance. In [Phil
 
 Jehovah God gives his glory to no other. Yet in scriptures like [John 5:23](#john-523), [Matthew 16:27](#matthew-1627), and [2 Peter 1:17](#2-peter-117), The Son, Jesus, is glorified by the Father and humans with equal glory to the Father. Since Jehovah gives his glory to no other, it means that Jesus is no other than Jehovah. This proves the deity of Christ.
 
+## Isaiah 48:12
+
+> “Listen to me, O Jacob, and Israel, whom I called! I am he; I am the first, and I am the last.
+
+This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-117) and [2:23](#revelation-223), thus proving that he is God.
+
+[See The First and the Last](#the-first-and-the-last).
+
 ## Jeremiah 23:23-24  
 
 > “Am I a God at hand, declares the LORD, and not a God far away? 24 Can a man hide himself in secret places so that I cannot see him? declares the LORD. Do I not fill heaven and earth? declares the LORD.”
@@ -199,7 +207,6 @@ Jesus is coming **in the glory of his Father**. Scriptures like [Isaiah 42:8](#i
 That Jesus will **repay each person according to what he has done**. [Isaiah 40:10](#isaiah-4010) shows that the one who does this is Jehovah, meaning Jesus is Jehovah. [Romans 2:6](#romans-26) shows that the one who does this is God, meaning Jesus is God. It also shows that the one mentioned in [Revelation 22:12](#revelation-2212) is Jesus, who is the Alpha and Omega, who is God Almighty. This is proof of the deity of Christ.
 
 See [The one who repays deeds](#the-one-who-repays-deeds)
-
 
 ## Matthew 18:20  
 
