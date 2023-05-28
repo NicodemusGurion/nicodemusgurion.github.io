@@ -115,13 +115,11 @@ Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-29) shows
 
 Jehovah God gives his glory to no other. Yet in scriptures like [John 5:23](#john-523), [Matthew 16:27](#matthew-1627), and [2 Peter 1:17](#2-peter-117), The Son, Jesus, is glorified by the Father and humans with equal glory to the Father. Since Jehovah gives his glory to no other, it means that Jesus is no other than Jehovah. This proves the deity of Christ.
 
-
-
 ## Isaiah 43:25 
 
 > “I, I am he who blots out your transgressions for my own sake, and I will not remember your sins.
 
-God is the one who blots out transgressions, and no one else. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-2512) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
+God is the one who blots out transgressions, and no one else. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-25-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
 
 ## Isaiah 44:6 
 
