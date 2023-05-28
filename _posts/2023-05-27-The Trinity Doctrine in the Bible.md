@@ -566,3 +566,9 @@ The ability to be in any and all place at any time.
 ## Calling on the name of
 
 All throughout the Bible, the phrase "calling on the name of..." is without exception used for the worship of a deity. For example Genesis 4:26; 13:4; 26:25; 2 Kings 5:11; Psalm 116:4,13, 17; Joel 2:32 and Zephaniah 3:9 uses it to mean worshipping or praying to the Lord Jehovah. 1 Kings 18:24 shows it is used for Baal. So "calling on the name of" someone is an idiom for worshipping or praying to a deity. Very early on in the Christian era, even as early as the time Paul converted, Christians were well known far and wide as those calling on the name of Jesus, in other words those who worship Jesus. And they aply this on themselves in Acts 9:14,21;22:16 and 1 Corinthians 1:2. The first Christians worshipped Jesus as God.
+
+## The Divine Council
+
+An often overlooked feature of ancient Jewish theology is that God has a Divine Council, a royal court in heaven who cooperates with God in taking decisions. These are sometimes referred to as "the sons of God", but just like Adam, their sonship is merely relational, and not genetic. That is why the Word, Jesus, is singled out as the [unique son of God](#monogenes), because he is not simply one of these spirit beings of the council.
+
+The council is especially visible in passages such as 2 Chronicles 18:18-22 where God consults the Divine Council on how to deal with king Ahab. In Psalm 82, God chastises members of the Divine council for not performing their responsibility to guide the nations. To learn more about the Divine Council, I recommend the book The Unseen Realm" by Dr. Michael Heiser.
