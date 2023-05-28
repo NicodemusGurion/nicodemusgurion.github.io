@@ -101,7 +101,7 @@ God's name and word is exalted above all things. [Philippians 2:9](#philippians-
 
 > Let them praise the name of Jehovah, for his name alone is exalted; his majesty is above earth and heaven.
 
-Jehovah uniquely has the highest name.  2:9](#philippians-29) shows that Jesus is thenonenwith the uniquely highest name. This means Jesus is divine. 
+Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-29) shows that Jesus is the one with the uniquely highest name. This means Jesus is divine. 
 
 ## Isaiah 19:1 
 
