@@ -256,7 +256,9 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 This verse describes the second person if the trinity, known as the Son, Jesus or the Word. It shows that **in the beginning**, he already existed, meaning he is eternal. 
 
-It also shows that he is a separate person from God, he was **with God**, but that at the same time he **was God**. The original greek grammar is hard to convey here, but greek could in some cases use a noun serving as an adjective, so while the Word is separate from the person called God, the Word is God-ish or Godly, or divine. He possesses all that is required for a person to be God.
+It also shows that he is a separate person from God, he was **with God**, but that at the same time he **was God**. 
+
+The original greek grammar is hard to convey here. Greek sometimes use nouns as qualitative, describing a quality of something. So the Word being God means that the Word posesses all that qualities required for a person to be God. In short, he shares the divine substance.
 
 ## John 1:3 
 
