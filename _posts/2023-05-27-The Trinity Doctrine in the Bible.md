@@ -254,7 +254,7 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 > In the beginning was the Word, and the Word was with God, and the Word was God.
 
-This verse describes the second person if the trinity, known as the Son, Jesus or the Word. It shows that **in the beginning**, he already existed, meaning he is eternal. 
+This verse describes the second person of the trinity, known as the Son, Jesus or the Word. It shows that **in the beginning**, he already existed, meaning he is eternal. 
 
 It also shows that he is a separate person from God, he was **with God**, but that at the same time he **was God**. 
 
@@ -566,6 +566,8 @@ These are attributes that only God posess. the Bible shows that both the Father,
 The ability to be in any and all place at any time. 
 
 ## Omniscience
+
+## Omnipotence
 
 # Other phrases and idioms
 
