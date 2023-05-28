@@ -109,6 +109,14 @@ Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-29) shows
 
 [See The Cloud Rider](#the-cloud-rider)
 
+## Isaiah 41:4 
+
+> Who has performed and done this, calling the generations from the beginning? I, the LORD, the first, and with the last; I am he.
+
+This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-117) and [2:23](#revelation-223), thus proving that he is God.
+
+[See The First and the Last](#the-first-and-the-last).
+
 ## Isaiah 42:8 
 
 > I am Jehovah; that is my name; my glory I give to no other, nor my praise to carved idols.
