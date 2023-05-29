@@ -542,6 +542,12 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 **The first and the last** is a divine title of Jehovah used in [Isaiah 41:4](#isaiah-414); [44:6](#isaiah-446); [48:12](#isaiah-4812). It means that he is eternal, the one whom everything begins with and ends with. As [Isaiah 44:6](#isaiah-446) points out there is only one God worthy of this title, and the fact that Jesus applies this title to himself is evidence of his divinity. He is fully God, the second person of the trinity.
 
+## Revelation 2:8 
+
+> "And to the angel of the church in Smyrna write: ‘The words of the first and the last, who died and came to life.'"
+
+The one speaking is clearly Jesus since he is the one **who died and came to life**. He is identifying himself as **[the first and the last](#the-first-and-the-last)**, a divine title that implies [eternality](#eternality) and is a unique title of God. This proves Jesus is eternal and God.
+
 ## Revelation 2:23 
 
 > and I [Jesus] will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works.
