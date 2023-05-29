@@ -558,11 +558,11 @@ This passage is about Jesus, because Jesus is the one who is **coming soon**. **
 
 # Titles of God
 
-These are titles and epithets that identify God to an ancient Jewish reader. 
+These are titles and epithets that would identify God to an ancient Jewish reader. 
 
 ## The Cloud Rider
 
-In the Old Testament, one of the attributes of Jehovah God is that he comes with the clouds. This was an attribute of deity in rhe ancient near east. tThe pagan nations around Israel ascribed this to Baal, but the biblical writers polemically insisted that it is Jehovah who comes with the clouds. So this idea was deeply embedded in the jewish psyche. And when Daniel 7:13 says that there will be a "[Son of Man](#the-son-of-man)" coming on the clouds, they realized that somehow Jehovah would be coming in human form as a real human. 
+In the Old Testament, one of the attributes of Jehovah God is that he comes with the clouds. This was an attribute of deity in rhe ancient near east. tThe pagan nations around Israel ascribed this to Baal, but the biblical writers polemically insisted that it is Jehovah who comes with the clouds. So this idea was deeply embedded in the jewish psyche. And when [Daniel 7:13](#daniel-713) says that there will be a "[Son of Man](#the-son-of-man)" coming on the clouds, they realized that somehow Jehovah would be coming in human form as a real human. 
 
 When Jesus later told the Sanhedrin that they would "see [the Son of Man](#the-son-of-man) coming with the clouds" they accused him of blasphemy, because saying such a thing in their ears meant saying that you are Jehovah. So in short, Jesus was condemned by the Jews because he claimed to be God.
 
@@ -570,11 +570,11 @@ Some 40 days later, Jesus did ascend on the clouds to the throne of God as Danie
 
 ## The Son of Man
 
-The title Jesus uses about himself more than any other is "The Son of Man." This refers to Daniel 7:13 where Daniel sees a vision of a Son of Man, meaning a human being, [coming on the clouds](#the-cloud-rider), which was something only God did. So this character was both human and god at the same time. And he sits down at the right hand of the Ancient of Days and recieve total power over and worship from the entire universe.
+The title Jesus uses about himself more than any other is "The Son of Man." This refers to [Daniel 7:13](#daniel-713) where Daniel sees a vision of a Son of Man, meaning a human being, [coming on the clouds](#the-cloud-rider), which was something only God did. So this character was both human and god at the same time. And he sits down at the right hand of the Ancient of Days and recieve total power over and worship from the entire universe.
 
 When Jesus told the Sanhedrin that they would "see the Son of Man [coming with the clouds](#the-cloud-rider)" they accused him of blasphemy, because saying such a thing in their ears meant saying that you are Jehovah. So in short, Jesus was condemned by the Jews because he claimed to be God.
 
-Jesus used this title of himself all the time, and every time he does, he wants you to associate it with the fully-human, fully-God character of Daniel 7:13.
+Jesus used this title of himself all the time, and every time he does, he wants you to associate it with the fully-human, fully-God character of [Daniel 7:13](#daniel-713).
 
 ## The one to whom every knee will bow
 
@@ -584,11 +584,17 @@ However in [Philippians 2:10,11](#philippians-21011), it makes clear that the on
 
 ## The one with the highest name
 
+Only God has the highest most exalted name. (Psalm 8:1; 99:3; 148:13) However in Philippians 2:9,10 Jesus is thebone who has the name above all names. This means that Jesus is God, because ifnhe is not God, then Jesus has a name higher than God's name, and that would be a contradiction both theologically and logically.
+
 ## The First and the Last
+
+The First and the Last is a unique title of God. It emphasizes his [eternality](#eternality). Only one who exists beyond time itself can encompass both the First and the Last in time. In [Isaiah 41:4](#isaiah-414); [44:6](#isaiah-446); [48:12](#isaiah-4812) God uses this title on himself. However in [Revelation 1:17](#revelation-117) and [2:8](#revelation-28), Jesus uses this title to present himself. This proves that Jesus is [eternal](#eternality) and that Jesus is God.
 
 ## The one who sees the heart
 
-God is the one who can see what is in a persons's heart and judge them fairly.
+God is the one who can see what is in a persons's heart and judge them fairly. In the Old Testament [1 Kings 8:39](#1-kings-839); [1 Chronicles 28:9](#1-chronicles-289); [2 Chronicles 6:30](#2-chronicles-630); [Proverbs 16:2](#proverbs-162)); and [Jeremiah 17:10](#jeremiah-1710) it makes clear that Jehovah God is the one who can see the heart of people. This implies [omniscience](#omniscience), a divine attribute.
+
+In the New Testament it turns out that the one who sees the heart to judge them fairly is Jesus. In [1 Corinthians 4:5](#1-corinthians-45) Paul says that the Lord Jesus will judge based on the intentions of the heart. In [Revelation 2:23](#revelation-223) Jesus says that **he** is the one who sees the heart and will judge based on it. This means Jesus is [omniscient](#omniscience) and Divine.
 
 ## The one who repays deeds
 
