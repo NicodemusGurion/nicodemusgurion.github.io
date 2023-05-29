@@ -147,7 +147,7 @@ Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-29) shows
 
 > Who has performed and done this, calling the generations from the beginning? I, the LORD, the first, and with the last; I am he.
 
-This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-117) and [2:23](#revelation-223), thus proving that he is God.
+This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-117) and [2:8](#revelation-28), thus proving that he is God.
 
 [See The First and the Last](#the-first-and-the-last).
 
@@ -169,7 +169,7 @@ God is the one who blots out transgressions, and no one else. He is the only one
 
 **The king of Israel** and the **redeemer** is Jesus.
 
-**[The First and the Last](#the-first-and-the-last)** is a unique title of God which emphasizes his eternity. In [Revelation 1:17](#revelation-117);[2:23](#revelation-223) Jesus calls himself by this title, thus claiming that he is the eternal God.
+**[The First and the Last](#the-first-and-the-last)** is a unique title of God which emphasizes his eternity. In [Revelation 1:17](#revelation-117);[2:8](#revelation-28) Jesus calls himself by this title, thus claiming that he is the eternal God.
 
 ## Isaiah 45:23 
 
@@ -187,7 +187,7 @@ Jehovah God gives his glory to no other. Yet in scriptures like [John 5:23](#joh
 
 > “Listen to me, O Jacob, and Israel, whom I called! I am he; I am the first, and I am the last.
 
-This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-117) and [2:23](#revelation-223), thus proving that he is God.
+This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-117) and [2:8](#revelation-28), thus proving that he is God.
 
 [See The First and the Last](#the-first-and-the-last).
 
@@ -532,7 +532,7 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 > “I am the Alpha and the Omega,” says the Lord God, “who is and who was and who is to come, the Almighty.”
 
-**The Alpha and the Omega** is a divine title emphasizing the eternity of God. This verse makes it clear that it is about God Almighty. [Revelation 1:17](#revelation-117);[2:23](#revelation-223);[22:13](#revelation-2212-13) shows that this is also a title applied to Jesus. This proves the deity of Jesus.
+**The Alpha and the Omega** is a divine title emphasizing the eternity of God. This verse makes it clear that it is about God Almighty. [Revelation 1:17](#revelation-117);[2:8](#revelation-28);[22:13](#revelation-2212-13) shows that this is also a title applied to Jesus. This proves the deity of Jesus.
 
 ## Revelation 1:17 
 
@@ -554,7 +554,7 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 This passage is about Jesus, because Jesus is the one who is **coming soon**. **To repay each one for what he has done** is a reference to scriptures like [Isaiah 40:10](#isaiah-4010); [Lamentations 3:64](#lamentations-364); [Hosea 12:2](#hosea-122), which is what God will do. This is evidence that Jesus is God.
 
-**[The First and the Last](#the-first-and-the-last)** is a divine title that only apply to the eternal God. In [Revelation 1:17](#revelation-117);[2:23](#revelation-223) and here, Jesus applies it to himself. In this verse we also see that synonymous titles the Alpha and Omega, as well as the Beginning and the End. These are all divine titles of God applied to Jesus.
+**[The First and the Last](#the-first-and-the-last)** is a divine title that only apply to the eternal God. In [Revelation 1:17](#revelation-117);[2:8](#revelation-28) and here, Jesus applies it to himself. In this verse we also see that synonymous titles the Alpha and Omega, as well as the Beginning and the End. These are all divine titles of God applied to Jesus.
 
 # Titles of God
 
