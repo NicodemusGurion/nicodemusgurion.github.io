@@ -4,6 +4,17 @@ tags: [Trinity, Arianism, Deity of Christ, Featured]
 ---
 The Trinity Doctrine is probably the most misunderstood and attacked Christian doctrine. It is firmly rooted in the Bible. Here is a list of scriptures that prove or support the trinity doctrine along with explanations. This list will be continually expanded.
 
+## Quick links
+
+- [List of scriptures](#the-trinity-in-the-bible)
+
+End notes:
+
+- [Titles of God](#titles-of-god)
+- [Attributes of God](#attributes-of-god)
+- [Other phrases and idioms](#other-phrases-and-idioms)
+
+
 # The Trinity: Definitions and common misunderstanding
 
 The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases) sharing one being/essence/substance/nature (homoousion). In this context, one being/essence/substance/nature defines **what** God is, while the three persons define **who** God is. Since *what* someone is and *who* someone is are two distinct concepts there is no contradiction in the idea that God is one being with three persons.
@@ -48,7 +59,7 @@ These help us understand and identify God in scripture, and are exlained before 
 - The trinity doctrine doesnt teach that one person manifest in three different modes, facets or aspects. That's modalism.
 - The trinity doctrine does not teach that God consists of three parts that together form one God. That's partialism.
 
-# The Trinity in scripture
+# The Trinity in the Bible
 
 Here is a list of scriptures that harmonize with or prove the trinity doctrine, along with explanations as to what part of the doctrine they touch on.
 
