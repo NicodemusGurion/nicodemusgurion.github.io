@@ -12,9 +12,26 @@ The Christian doctrine of the Trinity is the central doctrine concerning the nat
 [^coeternal]: All if the are eternal. None has a beginning nor an end. 
 [^cosubstantial]: Consisting of the same substance or essence. Substance is whatever makes a being what it is. For example the human substance is what makes a person human.
 
+## Being God
+
+The Bible talks about God as a singular character, but it also uses the word God to describe that a person is Divine, or having the attributes of God. When God is the subject or object if a sentence, such as "God said..." or "he sinned against God", it talks about God as a singular character. But when it for example in John 1:1 says that Jesus "is God", God is rather used as a qualitative noun, almost like an adjective. Like saying "the car **is red**, Jesus **is God**". It doesn't mean that Jesus is the same **person** as God the Father, but that Jesus is of the same substance as the Father. He "is Divine", meaning he has the divine substance, and everything that is unique about God applies to Jesus.
+
+## Role v.s. substance
+
+While the Father, the Son and the Holy Spirit are equal in their substance, what it means to be God, they are not equal in other areas. As the name implies, the Father and Son are in an unequal relationship. The Father begets the Son and the Son is begotten of the Father. So the Son is dependent upon the Father for his existence, but the Father is not dependent upon the Son for his existence.
+
+Furthermore as in a household, each member of the trinity is in an unequal role to one another. The Father holds the higest authority. The Son and Holy Spirit obeys the Father. The Son is the mediator with mankind, and the savior, and therefore took on a [secondary human nature.](#the-hypostatic-union) The Holy Spirit does a lot of supportive heavy oifting. He creates, empowers, comforts, guides, helps, and draws people to Christ.
+
+The relationship is complex and deep, but thrpugh it God can be all things in all situations, and do anything in a harmonious loving way. This eterna relationship is why John could say "God is Love". ([1 John 4:8](#1-john-48))
+
+## Eternally begotten
+
+The Son is "eternally begotten". Begotten means that The Son has his origin in The Father, and his existence is dependent on the existence of the father, and his sibstance, what he consists of, comes from The Father. However "begotten" suggests a beginning in time. The Son is however the creator of all things, including time, so his begetting is beyond time, and is tgerefore eternal. In other words there has never been a time in which The Son has not existed. He is eternal like the Father.
+
 ## Titles and attributes of God
 
-Notice that in the Bible there are several titles and attributes that identify Jehovah God. Whenever someone is said to posess these, it is an indication that the writer and readers understands that it's talking about God. Some of these attributes are given to God in the old testament and to Jesus Christ in the New Testament, showing that the weiter and readers considered them to be one and the same. These include 
+Notice that in the Bible there are several titles and attributes that identify Jehovah God. Whenever someone is said to posess these, it is an indication that the writer and readers understands that it's talking about God. Some of these attributes are given to God in the old testament and to Jesus Christ in the New Testament, showing that the writer and readers considered them to be one and the same. These include 
+
 - [The Son of Man](#the-son-of-man)
 - [The one who comes on the clouds](#the-cloud-rider)
 - [The one to whom every knee will bow](#the-one-to-whom-every-knee-will-bow) 
@@ -593,19 +610,31 @@ Jesus being "the" son of God is a shorter way of saying he is [the unique son of
 
 These are attributes that only God posess. the Bible shows that both the Father, the Son and the Holy Spirit posess these atteibutes, which means that they are all God, Divine.
 
+## Eternality
+
+Being eternal means being beyond time itself. Only God is eternal, as he is the creator of everything, including time itself. 
+
 ## Omnipresence
 
-The ability to be in any and all place at any time. 
+Being omnipresent means having the ability to be in any and all place at any time. Being omnipresent means being beyond space and time. As for conscious beings, only God is omnipresent, has always existed, filling the entire universe and going beyond it. ([Jeremiah 23:23,24](#jeremiah-232324);1 Kings 8:27) As aspects of God's very nature, mathematics and logic are omnipresent, being present everywhere and in all times, unchanging.
+
+Since Jesus is said to be omnipresent, and omnipresence is a unique attribute of God, the only logical conclusion is that Jesus is God/Divine.
 
 ## Omniscience
 
+Being omniscient or all-knowing keans the ability to know any and all things. A unique attribute of God.
+
 ## Omnipotence
+
+Being omnipotent ir almighty means having the ability to do anything that power can do. A unique attribute of God.
 
 # Other phrases and idioms
 
+These are other phrases and idioms used in the Bible that are important to understand in order to grasp what the Bible is saying about God.
+
 ## Calling on the name of
 
-All throughout the Bible, the phrase "calling on the name of..." is without exception used for the worship of a deity. For example Genesis 4:26; 13:4; 26:25; 2 Kings 5:11; Psalm 116:4,13, 17; Joel 2:32 and Zephaniah 3:9 uses it to mean worshipping or praying to the Lord Jehovah. 1 Kings 18:24 shows it is used for Baal. So "calling on the name of" someone is an idiom for worshipping or praying to a deity. Very early on in the Christian era, even as early as the time Paul converted, Christians were well known far and wide as those calling on the name of Jesus, in other words those who worship Jesus. And they aply this on themselves in Acts 9:14,21;22:16 and 1 Corinthians 1:2. The first Christians worshipped Jesus as God.
+All throughout the Bible, the phrase "calling on the name of..." is without exception used for *the worship of a deity*. For example Genesis 4:26; 13:4; 26:25; 2 Kings 5:11; Psalm 116:4,13, 17; Joel 2:32 and Zephaniah 3:9 uses it to mean worshipping or praying to the Lord Jehovah. 1 Kings 18:24 shows it is used for Baal. So "calling on the name of" someone is an idiom for worshipping or praying to a deity. Very early on in the Christian era, even as early as the time Paul converted, Christians were well known far and wide as those calling on the name of Jesus, in other words those who worship Jesus. And they aply this on themselves in Acts 9:14,21;22:16 and 1 Corinthians 1:2. The first Christians worshipped Jesus as God.
 
 ## The Divine Council
 
