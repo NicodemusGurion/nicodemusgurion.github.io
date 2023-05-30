@@ -737,3 +737,16 @@ All throughout the Bible, the phrase "calling on the name of..." is without exce
 An often overlooked feature of ancient Jewish theology is that God has a Divine Council, a royal court in heaven who cooperates with God in taking decisions. These are sometimes referred to as "the sons of God", but just like Adam, their sonship is merely relational, and not genetic. That is why the Word, Jesus, is singled out as the [unique son of God](#monogenes), because he is not simply one of these spirit beings of the council.
 
 The council is especially visible in passages such as 2 Chronicles 18:18-22 where God consults the Divine Council on how to deal with king Ahab. In Psalm 82, God chastises members of the Divine council for not performing their responsibility to guide the nations. To learn more about the Divine Council, I recommend the book The Unseen Realm" by Dr. Michael Heiser.
+
+## The Two Powers in Heaven
+
+Alan F. Segal, a scholar of religion, discussed the concept of the "Two Powers in Heaven" doctrine in his book, "Two Powers in Heaven: Early Rabbinic Reports about Christianity and Gnosticism." This doctrine refers to a Jewish theological belief that existed in the late Second Temple period, around the time of Jesus and the early Christian movement.
+
+According to Segal, the Two Powers in Heaven doctrine can be understood as follows:
+
+1. **The Heavenly Throne**: The first power in heaven refers to the unique and supreme authority of God, who sits on the divine throne. This power is associated with God's absolute sovereignty, omnipotence, and transcendence. It represents the monotheistic understanding of God's oneness and supremacy.
+2. **The Exalted Divine Agent**: The second power in heaven represents a celestial being who is distinct from God but possesses divine qualities and authority. This being is often described as a divine figure, sometimes associated with the titles "the Angel of Jehovah", "Son of Man" or "Son of God." This power is considered subordinate to God but still occupies a high and exalted position within the divine hierarchy.
+
+Segal argues that the Two Powers in Heaven doctrine emerged within certain Jewish circles. This belief system reflects a complex understanding of the divine realm, acknowledging both God's ultimate sovereignty and the existence of an intermediary figure who participates in divine authority.
+
+
