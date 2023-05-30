@@ -64,6 +64,16 @@ The second person of God took on human flesh and became a true human. in doing s
 
 Here is a list of scriptures that harmonize with or prove the trinity doctrine, along with explanations as to what part of the doctrine they touch on.
 
+# Genesis 18:1,2 
+
+> And Jehovah appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. 2 He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth
+
+The Bible teaches that "no one can see God and live", however in this passage Abraham experiences how **Jehovah appeared to him**. The passage reveals that Jehovah here is visible, tangible[^tangible], has location, eats food, walks, and other things a regular person would. This tells us that there is not as simple as that God is invisible and transcendental. God can also be physically present as a human on earth.
+
+[^tangible]: **Tangible**: Being able to be touched.
+
+Notice also that Jehovah appears as three men. Some argue these are the Father, the Aon and the Holy Spirit. Others argue that this is Jehovah and two angels. In any case it shows that God is not so simple that you can put him in a neat box.
+
 ## Exodus 19:9 
 
 > And Jehovah said to Moses, “Behold, **I am coming to you in a thick cloud**, that the people may hear when I speak with you, and may also believe you forever.” When Moses told the words of the people to Jehovah,
