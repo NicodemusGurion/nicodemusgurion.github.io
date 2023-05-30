@@ -33,13 +33,17 @@ The Bible talks about God as a singular character, but it also uses the word God
 
 While the Father, the Son and the Holy Spirit are equal in their substance, what it means to be God, they are not equal in other areas. As the name implies, the Father and Son are in an unequal relationship. The Father begets the Son and the Son is begotten of the Father. So the Son is dependent upon the Father for his existence, but the Father is not dependent upon the Son for his existence.
 
-Furthermore as in a household, each member of the trinity is in an unequal role to one another. The Father holds the higest authority. The Son and Holy Spirit obeys the Father. The Son is the mediator with mankind, and the savior, and therefore took on a [secondary human nature.](#the-hypostatic-union) The Holy Spirit does a lot of supportive heavy oifting. He creates, empowers, comforts, guides, helps, and draws people to Christ.
+Furthermore as in a household, each member of the trinity is in an unequal role to one another. The Father holds the higest authority. The Son and Holy Spirit obeys the Father. The Son is the mediator with mankind, and the savior, and therefore took on a [secondary human nature.](#the-hypostatic-union) The Holy Spirit does a lot of supportive heavy oifting. He creates, empowers, comforts, guides, helps, and draws people to Christ. The Father is the unbegotten cause. The Son is eternally begotten. The Holy Spirit eternally proceeds from the Father.
 
-The relationship is complex and deep, but thrpugh it God can be all things in all situations, and do anything in a harmonious loving way. This eterna relationship is why John could say "God is Love". ([1 John 4:8](#1-john-48))
+The relationship is complex and deep, but through it God can be all things in all situations, and do anything in a harmonious loving way. This eternal loving relationship between three persons is how John could say "God is Love". ([1 John 4:8](#1-john-48))
 
 ## Eternally begotten
 
-The Son is "eternally begotten". Begotten means that The Son has his origin in The Father, and his existence is dependent on the existence of the father, and his sibstance, what he consists of, comes from The Father. However "begotten" suggests a beginning in time. The Son is however the creator of all things, including time, so his begetting is beyond time, and is tgerefore eternal. In other words there has never been a time in which The Son has not existed. He is eternal like the Father.
+The Son is "eternally begotten". Begotten means that The Son has his origin in The Father, and his substance, what he consists of, comes from The Father. However "begotten" suggests a beginning in time. The Son is however the creator of all things, including time, so his begetting is beyond time, and is tgerefore eternal. In other words there has never been a time in which The Son has not existed. He is eternal like the Father.
+
+## Eternally proceeding
+
+Like the Son is eternally begotten, so the Holy Spirit is eternally proceeding. Like an eternal stream he proceeds from the Father to do his will. 
 
 ## Titles and attributes of God
 
