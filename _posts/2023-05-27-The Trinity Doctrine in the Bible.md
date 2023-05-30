@@ -235,6 +235,11 @@ Daniel 7:13 links together the Cloud Rider of the Old Testament with the Cloud R
 
 Forgiveness belongs to God alone. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-25-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
 
+## Zechariah 12:10
+
+> “And I will pour out on the house of David and on the inhabitants of Jerusalem the Spirit of grace and of pleading, so that they will look at Me whom they pierced; and they will mourn for Him, like one mourning for an only son, and they will weep bitterly over Him like the bitter weeping over a firstborn.
+
+In this verse Jehovah God says **they will look at Me whom they pierced**. This is a prophecy pointing forward to the crucifixion of Jesus, because Jesus is the Jehovah that they pierced. This proves the deity of Christ.
 
 ## Matthew 1:23 
 
