@@ -74,11 +74,15 @@ Jehovah had the habit of **walking in the garden** every afternoon with Adam and
 
 This is a [theophany](#theophany) of the pre-incarnate second person of God.
 
+[See the Two Powers in Heaven](#the-two-powers-in-heaven)
+
 ## Genesis 12:7
 
 > Then Jehovah appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to Jehovah, who had appeared to him.
 
 **Jehovah appeared to Abram** which is a [theophany](#theophany) which disproves the idea that no one can see God. This is the second person of God, the Word, who appeared to Abram.
+
+[See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
 ## Genesis 17:1 
 
@@ -86,11 +90,15 @@ This is a [theophany](#theophany) of the pre-incarnate second person of God.
 
 In this [theophany](#theophany), Jehovah presents himself as **God Almighty**. Verse 22 shows that this was not a vision or some supernatural visual spectacle, since **God went up from Abram**. This is a visit from the second person of God, the Word of God, manifest as a human. 
 
+[See the Two Powers in Heaven](#the-two-powers-in-heaven)
+
 ## Genesis 17:22
 
 > When he had finished talking with him, God went up from Abraham.
 
 That **God went up from Abram** shows that God was with Abram in a physical location. This shows that what happens in this chapter is not a vision or vague appearance, but a physical, visual manifestation of the second person of God.
+
+[See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
 # Genesis 18:1-5 
 
@@ -115,7 +123,9 @@ In any case this passage shows that God is not so simple that you can put him in
 
 > Then he took curds and milk and the calf that he had prepared, and set it before them. And he stood by them under the tree while they ate.
 
-The fact that **they ate** shows that the concept of God as transcendental is not entirely true. God the Father may be invisible and transcendental, however God the Son has often appeared in a human figure throughout biblical history. This chapter details such a [Christophany or Theophany](#theophany).
+The fact that **they ate** shows that the concept of God as transcendental is not entirely true. God the Father may be invisible and transcendental, however God the Son has often appeared in a human figure throughout biblical history. This chapter details such a [theophany](#theophany).
+
+[See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
 ## Genesis 18:17-19
 
