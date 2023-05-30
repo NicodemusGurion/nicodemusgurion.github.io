@@ -64,15 +64,17 @@ The second person of God took on human flesh and became a true human. in doing s
 
 Here is a list of scriptures that harmonize with or prove the trinity doctrine, along with explanations as to what part of the doctrine they touch on.
 
-# Genesis 18:1,2 
+# Genesis 18:1-5 
 
-> And Jehovah appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. 2 He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth
+> And Jehovah appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. 2 He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth 3 and said, “O Lord, if I have found favor in your sight, do not pass by your servant. 4 Let a little water be brought, and wash your feet, and rest yourselves under the tree, 5 while I bring a morsel of bread, that you may refresh yourselves, and after that you may pass on--since you have come to your servant.” So they said, “Do as you have said.”
 
 The Bible teaches that "no one can see God and live", however in this passage Abraham experiences how **Jehovah appeared to him**. The passage reveals that Jehovah here is visible, tangible[^tangible], has location, eats food, walks, and other things a regular person would. This tells us that there is not as simple as that God is invisible and transcendental. God can also be physically present as a human on earth.
 
 [^tangible]: **Tangible**: Being able to be touched.
 
-Notice also that Jehovah appears as three men. Some argue these are the Father, the Aon and the Holy Spirit. Others argue that this is Jehovah and two angels. In any case it shows that God is not so simple that you can put him in a neat box.
+Abraham bows to Jehovah and adresses him in the singular "**in your sight**", and suddenly switches to the plural "**wash your feet, and rest yourselves ... refresh yourselves**", to which Jehovah answers in the plural, "**So they said, “Do as you have said.”**"
+
+Notice also that Jehovah appears as three men. Some argue these are the Father, the Aon and the Holy Spirit. Others argue that this is Jehovah and two angels. In any case they are adressed and answer as one and as multiple persons, and at least it shows that God is not so simple that you can put him in a neat box. The ancient near east concept of the supernatural is not as straightforward as our western thinking would like.
 
 ## Exodus 19:9 
 
