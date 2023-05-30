@@ -568,6 +568,14 @@ This passage is about Jesus, because Jesus is the one who is **coming soon**. **
 
 These are titles and epithets that would identify God to an ancient Jewish reader. 
 
+## The I AM
+
+In Exodus 3, Moses meets God at the burning bush. He asks God about his name, and in [Exodus 3:14](#exodus-314) God responds "I am that I am", or simply "I am". This is from the hebrew אֶהְיֶה אֲשֶׁר אֶהְיֶה  (a'hayah a'sher a'hayah) or אֶהְיֶה (a'hayah) for short. 
+
+In hebrew, the "A" functioned as the first person pronoun prefix, meaning "I". "Hayah" means to exist. God is saying "I exist" which is a profoubd statement because that is a unique attribute of God. He is the one who exists independently of anyone else, before time and beyond space or any other thin, he always exist. He is the self-existent one. 
+
+In verse 15 he tells Moses to call him "Jehovah" (יְהוָה). This is another way of saying A'hayah.
+
 ## The Cloud Rider
 
 In the Old Testament, one of the attributes of Jehovah God is that he comes with the clouds. This was an attribute of deity in rhe ancient near east. tThe pagan nations around Israel ascribed this to Baal, but the biblical writers polemically insisted that it is Jehovah who comes with the clouds. So this idea was deeply embedded in the jewish psyche. And when [Daniel 7:13](#daniel-713) says that there will be a "[Son of Man](#the-son-of-man)" coming on the clouds, they realized that somehow Jehovah would be coming in human form as a real human. 
