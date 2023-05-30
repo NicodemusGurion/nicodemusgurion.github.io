@@ -197,6 +197,12 @@ This shows that God is **the first and the last**. This is who Jesus said that h
 
 [See The First and the Last](#the-first-and-the-last).
 
+## Isaiah 48:16 
+
+> Draw near to me, hear this: from the beginning I [Jehovah] have not spoken in secret, from the time it came to be I have been there. And now Jehovah has sent me, and his Spirit.
+
+In the surrounding verses, Jehovah God is speaking. However in verse 16 Jehovah suddenly says **Jehovah has sent me, and his Spirit.** So Jehovah sent Jehovah and the Spirit of Jehovah. There are three characters here, one Jehovah who sends, one Jehovah who is sent and the Spirit of Jehovah who is also sent. These are the three persons of God, the Father who sends, the Son who is sent, and the Holy Spirit who also goes out from God.
+
 ## Jeremiah 17:10
 
 > “I the LORD search the heart and test the mind, to give every man according to his ways, according to the fruit of his deeds.”
