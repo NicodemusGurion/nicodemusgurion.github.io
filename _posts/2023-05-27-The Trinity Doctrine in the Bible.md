@@ -74,7 +74,18 @@ The Bible teaches that "no one can see God and live", however in this passage Ab
 
 Abraham bows to Jehovah and adresses him in the singular "**in your sight**", and suddenly switches to the plural "**wash your feet, and rest yourselves ... refresh yourselves**", to which Jehovah answers in the plural, "**So they said, “Do as you have said.”**"
 
-Notice also that Jehovah appears as three men. Some argue these are the Father, the Aon and the Holy Spirit. Others argue that this is Jehovah and two angels. In any case they are adressed and answer as one and as multiple persons, and at least it shows that God is not so simple that you can put him in a neat box. The ancient near east concept of the supernatural is not as straightforward as our western thinking would like.
+Notice also that Jehovah appears as three men. Some argue these are the Father, the Son and the Holy Spirit. I find this improbable. Others argue that this is Jehovah and two angels. That is more probable giving the overal context of the Bible. God in the Old Testament is sometimes manifested in two or even three agents, one in heaven, invisible and transcendental[^transcendental], one visible and immanent[^immanent]. In this case it is the immanent Jehovah, the second person of God, who visits Abraham.
+
+[^transcendental]: **Transcendental:** Beyond the natural world or the grasp of the senses.
+[^immanent]: **Immanent:** Existing or operating within the world.
+
+In any case this passage shows that God is not so simple that you can put him in a neat box. The ancient near east concept of the supernatural is not as straightforward as our western thinking would like.
+
+## Genesis 18:8 
+
+> Then he took curds and milk and the calf that he had prepared, and set it before them. And he stood by them under the tree while they ate.
+
+The fact that **they ate** shows that the concept of God as transcendental is not entirely true. God the Father may be invisible and transcendental, however God the Son has often appeared in a human figure throughout biblical history. 
 
 ## Exodus 19:9 
 
