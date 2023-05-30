@@ -396,6 +396,12 @@ Jesus is one with God the Father in substance. The Jews are upset, they think Je
 
 In John 14:14 the greek text contains a "me" that some translations leave out. The greek says "ἐάν τι αἰτήσητέ **με** ἐν τῷ ὀνόματί μου ἐγὼ ποιήσω". This means Jesus commands us tonpray to him in his name. Jesus receives prayer because he is [omniscient](#omniscience), and since he is [omnipotent](#omnipotence) he can also do whatever is asked. This is something only God can do, which proves that Jesus is the second person of God.
 
+## John 16:15 
+
+> All that the Father has is mine; therefore I said that he will take what is mine and declare it to you.
+
+That **all that the Father has is** Jesus' indicates equality between the Father and the Son.
+
 ## John 20:27-29 
 
 > Then he said to Thomas, “Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe.” 28 Thomas answered him, “**My Lord and my God!”** 29 Jesus said to him, “**Have you believed because you have seen me?** Blessed are those who have not seen and yet have believed.”
