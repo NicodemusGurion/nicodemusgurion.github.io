@@ -572,9 +572,9 @@ These are titles and epithets that would identify God to an ancient Jewish reade
 
 In Exodus 3, Moses meets God at the burning bush. He asks God about his name, and in [Exodus 3:14](#exodus-314) God responds "I am that I am", or simply "I am". This is from the hebrew אֶהְיֶה אֲשֶׁר אֶהְיֶה  (a'hayah a'sher a'hayah) or אֶהְיֶה (a'hayah) for short. 
 
-In hebrew, the "A" functioned as the first person pronoun prefix, meaning "I". "Hayah" means to exist. God is saying "I exist" which is a profoubd statement because that is a unique attribute of God. He is the one who exists independently of anyone else, before time and beyond space or any other thin, he always exist. He is the self-existent one. 
+In hebrew, the "A" functioned as the first person pronoun prefix, meaning "I". "Hayah" means to exist. God is saying "I exist" which is a profound statement because that is a unique attribute of God. He is the one who exists independently of anyone else, before time and beyond space or any other thing, he always exist. He is the self-existent one. 
 
-In verse 15 he tells Moses to call him "Jehovah" (יְהוָה). This is another way of saying A'hayah.
+In verse 15 he tells Moses to call him "Jehovah" (יְהוָה). This is another way of saying A'hayah. יְ (y) functioned as the third person masculine pronoun prefix. and הוה (havah) is a synonym to hayah which also means "to exist". Thus Yhvh means "He exists"
 
 ## The Cloud Rider
 
