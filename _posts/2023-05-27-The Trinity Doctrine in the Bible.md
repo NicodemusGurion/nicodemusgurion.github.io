@@ -15,7 +15,7 @@ End notes:
 - [Attributes of God](#attributes-of-god)
 - [Other phrases and idioms](#other-phrases-and-idioms)
 
-![](https://i.ibb.co/L1tQLBP/Trinity-Shield-With-Legend.png)
+[ ![](https://i.ibb.co/L1tQLBP/Trinity-Shield-With-Legend.png) ](https://i.ibb.co/HqzNWR2/Trinity-Shield-With-Legend.png)
 
 # The Trinity: Definitions and common misunderstanding
 
