@@ -2,6 +2,7 @@
 title: The Trinity Doctrine in the Bible
 tags: [Trinity, Arianism, Deity of Christ, Featured]
 image: https://i.ibb.co/L1tQLBP/Trinity-Shield-With-Legend.png
+thumb: https://i.ibb.co/nCr6yKL/Trinity-Shield-color.png
 ---
 The Trinity Doctrine is probably the most misunderstood and attacked Christian doctrine. It is firmly rooted in the Bible. Here is a list of scriptures that prove or support the trinity doctrine along with explanations. This list will be continually expanded.
 
