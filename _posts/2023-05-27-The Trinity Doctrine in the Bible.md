@@ -667,6 +667,10 @@ In verse 15 he tells Moses to call him "Jehovah" (יְהוָה). This is another
 
 In the greek Septuagint, the authoritative text Jesus quoted 80% of the time, this phrase "I am" is written *ἐγὼ εἰμί* (ego eimi). Thus "Ego eimi" was a title of God, equivalent to the name Yahweh/Jehovah, since it is the literal meaning of the divine name. This is important to understand when reading passages like [John 8:58](#john-858).
 
+## The Angel of Jehovah
+
+Angels in the Bible are not necessarily spirit beings of a certain type, but Angel is a job description which means messenger. Sometimes God sends spirits as angels. But sometimes he comes himself. Often when the Bible talks about "the Angel of Jehovah" context tells us that the angel is actually divine, yes, it is Jehovah himself. This is a title of the second person of God, the Word, also known as Jesus.
+
 ## The Cloud Rider
 
 In the Old Testament, one of the attributes of Jehovah God is that he comes with the clouds. This was an attribute of deity in rhe ancient near east. tThe pagan nations around Israel ascribed this to Baal, but the biblical writers polemically insisted that it is Jehovah who comes with the clouds. So this idea was deeply embedded in the jewish psyche. And when [Daniel 7:13](#daniel-713) says that there will be a "[Son of Man](#the-son-of-man)" coming on the clouds, they realized that somehow Jehovah would be coming in human form as a real human. 
@@ -773,7 +777,7 @@ Alan F. Segal, a scholar of religion, discussed the concept of the "Two Powers i
 According to Segal, the Two Powers in Heaven doctrine can be understood as follows:
 
 1. **The Heavenly Throne**: The first power in heaven refers to the unique and supreme authority of God, who sits on the divine throne. This power is associated with God's absolute sovereignty, omnipotence, and transcendence. It represents the monotheistic understanding of God's oneness and supremacy.
-2. **The Exalted Divine Agent**: The second power in heaven represents a celestial being who is distinct from God but possesses divine qualities and authority. This being is often described as a divine figure, sometimes associated with the titles "the Angel of Jehovah", "Son of Man" or "Son of God." This power is considered subordinate to God but still occupies a high and exalted position within the divine hierarchy.
+2. **The Exalted Divine Agent**: The second power in heaven represents a celestial being who is distinct from God but possesses divine qualities and authority. This being is often described as a divine figure, sometimes associated with the titles "the Word of Jehovah", "the Angel of Jehovah", "Son of Man" or "Son of God." This power is considered subordinate to God but still occupies a high and exalted position within the divine hierarchy.
 
 Segal argues that the Two Powers in Heaven doctrine emerged within certain Jewish circles. This belief system reflects a complex understanding of the divine realm, acknowledging both God's ultimate sovereignty and the existence of an intermediary figure who participates in divine authority.
 
