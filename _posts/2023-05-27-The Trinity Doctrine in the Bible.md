@@ -47,6 +47,10 @@ The Son is "eternally begotten". Begotten means that The Son has his origin in T
 
 Like the Son is eternally begotten, so the Holy Spirit is eternally proceeding. Like an eternal stream he proceeds from the Father to do his will. 
 
+## Hypostatic union
+
+The second person of God took on human flesh and became a true human. in doing so he added a secondary substance to his person. He is therefore a partaker of the sivine substance and the human substance. He is fully God and fully Man. (However the persons of the Father and the Holy Spirit do not partake of the human substance.) This is called the **Hypostatic Union**, the Union of two *Ousia* in one *Hypostasis* and is the reason only Jesus can be the mediator between Divinity and Humanity.
+
 ## Common misunderstandings
 
 - The trinity doctrine doesn't teach three gods or a triad if gods. That is called tritheism.
