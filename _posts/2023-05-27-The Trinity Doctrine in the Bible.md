@@ -81,11 +81,19 @@ Notice also that Jehovah appears as three men. Some argue these are the Father, 
 
 In any case this passage shows that God is not so simple that you can put him in a neat box. The ancient near east concept of the supernatural is not as straightforward as our western thinking would like.
 
+[See The Two Powers in Heaven](#the-two-powers-in-heaven)
+
 ## Genesis 18:8 
 
 > Then he took curds and milk and the calf that he had prepared, and set it before them. And he stood by them under the tree while they ate.
 
-The fact that **they ate** shows that the concept of God as transcendental is not entirely true. God the Father may be invisible and transcendental, however God the Son has often appeared in a human figure throughout biblical history. 
+The fact that **they ate** shows that the concept of God as transcendental is not entirely true. God the Father may be invisible and transcendental, however God the Son has often appeared in a human figure throughout biblical history. This chapter details such a [Christophany or Theophany](#theophany).
+
+## Genesis 18:17-19
+
+> 17 Jehovah said, “Shall I hide from Abraham what I am about to do, 18 seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him? 19 For I have chosen him, that he may command his children and his household after him to keep the way of Jehovah by doing righteousness and justice, so that Jehovah may bring to Abraham what he has promised him.”
+
+Here, Jehovah is speaking to himself, asking himself questions. Or perhaps he is speaking with the two angels. In any case Jehovah says **I have chosen him ... so that Jehovah may bring to Abraham what he has promised him.**
 
 ## Exodus 19:9 
 
