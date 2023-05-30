@@ -239,7 +239,7 @@ Forgiveness belongs to God alone. He is the only one with the absolute right to 
 
 > “And I will pour out on the house of David and on the inhabitants of Jerusalem the Spirit of grace and of pleading, so that they will look at Me whom they pierced; and they will mourn for Him, like one mourning for an only son, and they will weep bitterly over Him like the bitter weeping over a firstborn.
 
-In this verse Jehovah God says **they will look at Me whom they pierced**. This is a prophecy pointing forward to the crucifixion of Jesus, because Jesus is the Jehovah that they pierced. This proves the deity of Christ.
+In this verse Jehovah God says **they will look at Me whom they pierced**. How can an immaterial God be puerced unless he takes on a human body? This is a prophecy pointing forward to the crucifixion of Jesus, because Jesus is the Jehovah that they pierced. This proves the deity of Christ.
 
 ## Matthew 1:23 
 
