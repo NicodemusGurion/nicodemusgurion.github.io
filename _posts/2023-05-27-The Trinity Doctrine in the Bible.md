@@ -1,6 +1,7 @@
 ---
 title: The Trinity Doctrine in the Bible
 tags: [Trinity, Arianism, Deity of Christ, Featured]
+image: https://i.ibb.co/L1tQLBP/Trinity-Shield-With-Legend.png
 ---
 The Trinity Doctrine is probably the most misunderstood and attacked Christian doctrine. It is firmly rooted in the Bible. Here is a list of scriptures that prove or support the trinity doctrine along with explanations. This list will be continually expanded.
 
@@ -45,25 +46,12 @@ The Son is "eternally begotten". Begotten means that The Son has his origin in T
 
 Like the Son is eternally begotten, so the Holy Spirit is eternally proceeding. Like an eternal stream he proceeds from the Father to do his will. 
 
-## Titles and attributes of God
-
-Notice that in the Bible there are several titles and attributes that identify Jehovah God. Whenever someone is said to posess these, it is an indication that the writer and readers understands that it's talking about God. Some of these attributes are given to God in the old testament and to Jesus Christ in the New Testament, showing that the writer and readers considered them to be one and the same. These include 
-
-- [The Son of Man](#the-son-of-man)
-- [The one who comes on the clouds](#the-cloud-rider)
-- [The one to whom every knee will bow](#the-one-to-whom-every-knee-will-bow) 
-- [The one with the highest name](#the-one-with-the-highest-name)
-- [The First and the Last](#the-first-and-the-last)
-
-These help us understand and identify God in scripture, and are exlained before the footnotes.
-
-
 ## Common misunderstandings
 
 - The trinity doctrine doesn't teach three gods or a triad if gods. That is called tritheism.
 - The trinity doctrine doesn't teach that there are three persons in one person. That makes no sense.
-- The trinity doctrine doesnt teach that one person manifest in three different modes, facets or aspects. That's modalism.
-- The trinity doctrine does not teach that God consists of three parts that together form one God. That's partialism.
+- The trinity doctrine doesn't teach that one person manifest in three different modes, facets or aspects. That's modalism.
+- The trinity doctrine doesn't teach that God consists of three parts that together form one God. That's partialism.
 
 # The Trinity in the Bible
 
@@ -601,7 +589,7 @@ This passage is about Jesus, because Jesus is the one who is **coming soon**. **
 
 # Titles of God
 
-These are titles and epithets that would identify God to an ancient Jewish reader. 
+In the Bible there are several titles and attributes that identify Jehovah God. Whenever someone is said to posess these, it is an indication that the writer and readers understands that it's talking about God. Some of these attributes are given to God in the old testament and to Jesus Christ in the New Testament, showing that the writer and readers considered them to be one and the same.
 
 ## The I AM
 
