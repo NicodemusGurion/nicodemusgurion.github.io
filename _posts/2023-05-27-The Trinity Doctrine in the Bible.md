@@ -355,6 +355,20 @@ That **all may honor the Son, just as they honor the Father** means that Jesus i
 
 The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-98)) This shows that Jesus is God, and why they fell downand worshipped him. ([Matthew 14:33](#matthew-1433))
 
+## John 8:58
+
+> Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.” 
+
+In John 8:58, Jesus makes a significant statement during a heated debate with the religious leaders of his time. He says, "**Truly, truly, I say to you, before Abraham was, I am.**" To understand the significance of this statement, it's important to consider its historical and cultural context.
+
+The phrase "I am" is a direct reference to the name of God revealed to Moses in the Old Testament. In [Exodus 3:14](#exodus-314), when Moses encountered God at the burning bush and was tasked with leading the Israelites out of Egypt, he asked God what name he should give to the Israelites if they inquire about the identity of the one who sent him. God responded, "I AM WHO I AM" and instructed Moses to tell the Israelites, "I AM has sent me to you." In John 8:58, Jesus uses the Greek equivalent of this phrase, "[ego eimi](#the-i-am)," which can be translated as "I am" or "I exist." By using this phrase, Jesus was asserting his preexistence, his eternal nature, and his divinity, and applying [a divine title](#the-i-am) to himself, making a direct claim to the divine name and nature of God.
+
+The reaction of the Jews to Jesus' statement in John 8:59 confirms their understanding of its significance. By using the same phrase that God used to reveal His name to Moses, Jesus was unmistakably identifying himself as God. They **picked up stones to throw at him**, which was a punishment for blasphemy under Jewish law. They understood Jesus to be claiming equality with God, an assertion that they considered blasphemous and deserving of death.
+
+### "Jesus just used weird grammar" / "Jesus only meant he had existed for a long time"
+
+It is important to consider the context of the passage. The claim that Jesus used unusual grammar, or that he merely meant he had existed for a long time, does not adequately explain the reaction of the Jews or the significance of his statement. Their reaction was one of extreme offense. They immediately sought to stone him for what they perceived as blasphemy. Neither the use of unusual grammar nor claiming to be thousands of years old were crimes that warranted stoning according to the Mosaic law. However claiming to be divine would warrant stoning. This strong reaction suggests that they understood Jesus' words as a claim to deity, rather than simply a matter of grammar.
+
 ## John 10:30-33 
 
 > **I and the Father are one.**” 31 The Jews picked up stones again to stone him. 32 Jesus answered them, “I have shown you many good works from the Father; for which of them are you going to stone me?” 33 The Jews answered him, “It is not for a good work that we are going to stone you but for blasphemy, because **you**, being a man, **make yourself God.**”
@@ -574,7 +588,9 @@ In Exodus 3, Moses meets God at the burning bush. He asks God about his name, an
 
 In hebrew, the "A" functioned as the first person pronoun prefix, meaning "I". "Hayah" means to exist. God is saying "I exist" which is a profound statement because that is a unique attribute of God. He is the one who exists independently of anyone else, before time and beyond space or any other thing, he always exist. He is the self-existent one. 
 
-In verse 15 he tells Moses to call him "Jehovah" (יְהוָה). This is another way of saying A'hayah. יְ (y) functioned as the third person masculine pronoun prefix. and הוה (havah) is a synonym to hayah which also means "to exist". Thus Yhvh means "He exists"
+In verse 15 he tells Moses to call him "Jehovah" (יְהוָה). This is another way of saying A'hayah. יְ (y) functioned as the third person masculine pronoun prefix. and הוה (havah) is a synonym to hayah which also means "to exist". Thus Yhvh means "He exists".
+
+In the greek Septuagint, the authoritative text Jesus quoted 80% of the time, this phrase "I am" is written *ἐγὼ εἰμί* (ego eimi). Thus "Ego eimi" was a title of God, equivalent to the name Yahweh/Jehovah, since it is the literal meaning of the divine name. This is important to understand when reading passages like [John 8:58](#john-858).
 
 ## The Cloud Rider
 
