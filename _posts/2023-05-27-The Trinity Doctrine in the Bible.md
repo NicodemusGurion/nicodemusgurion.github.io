@@ -64,6 +64,34 @@ The second person of God took on human flesh and became a true human. in doing s
 
 Here is a list of scriptures that harmonize with or prove the trinity doctrine, along with explanations as to what part of the doctrine they touch on.
 
+## Genesis 3:8 
+
+> And they heard the voice of Jehovah God walking in the garden in the cool of the day: and the man and his wife hid themselves from the presence of Jehovah God amongst the trees of the garden.
+
+Jehovah had the habit of **walking in the garden** every afternoon with Adam and Eve. Walking implies actual physical bipedal movement. This is not like God is some kind of ghost or some mist of energy just hovering along. No this is a human figure walking alongside Adam and Eve on the ground. 
+
+**They heard the voice of Jehovah God** and they **hid themselves** which means that God had a location from which they heard the voide and from which they presumed to hide. This means God had a specific location and moved around.
+
+This is a [theophany](#theophany) of the pre-incarnate second person of God.
+
+## Genesis 12:7
+
+> Then Jehovah appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to Jehovah, who had appeared to him.
+
+**Jehovah appeared to Abram** which is a [theophany](#theophany) which disproves the idea that no one can see God. This is the second person of God, the Word, who appeared to Abram.
+
+## Genesis 17:1 
+
+> When Abram was ninety-nine years old Jehovah appeared to Abram and said to him, “I am God Almighty; walk before me, and be blameless,
+
+In this [theophany](#theophany), Jehovah presents himself as **God Almighty**. Verse 22 shows that this was not a vision or some supernatural visual spectacle, since **God went up from Abram**. This is a visit from the second person of God, the Word of God, manifest as a human. 
+
+## Genesis 17:22
+
+> When he had finished talking with him, God went up from Abraham.
+
+That **God went up from Abram** shows that God was with Abram in a physical location. This shows that what happens in this chapter is not a vision or vague appearance, but a physical, visual manifestation of the second person of God.
+
 # Genesis 18:1-5 
 
 > And Jehovah appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. 2 He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth 3 and said, “O Lord, if I have found favor in your sight, do not pass by your servant. 4 Let a little water be brought, and wash your feet, and rest yourselves under the tree, 5 while I bring a morsel of bread, that you may refresh yourselves, and after that you may pass on--since you have come to your servant.” So they said, “Do as you have said.”
