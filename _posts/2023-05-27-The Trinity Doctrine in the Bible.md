@@ -198,6 +198,7 @@ Here we have two Jehovahs, one on earth ([see 18:33](#genesis-1833)) and one in 
 
 > And Jehovah said to Moses, “Behold, **I am coming to you in a thick cloud**, that the people may hear when I speak with you, and may also believe you forever.” When Moses told the words of the people to Jehovah,
 
+Jehocah is the one who comes on the clouds.
 [See The Cloud Rider](#the-cloud-rider)
 
 ## Exodus 23:20-23
