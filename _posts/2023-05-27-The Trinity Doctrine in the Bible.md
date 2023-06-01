@@ -172,7 +172,7 @@ In any case this passage shows that God is not so simple that you can put him in
 
 > Then he took curds and milk and the calf that he had prepared, and set it before them. And he stood by them under the tree while they ate.
 
-The fact that **they ate** shows that the concept of God as transcendental is not entirely true. God the Father may be invisible and transcendental, however God the Son has often appeared in a human figure throughout biblical history. This chapter details such a [theophany](#theophany).
+The fact that **they ate** shows that the concept of God as transcendental[^transcendental] is not entirely true. God the Father may be invisible and transcendental, however God the Son has often appeared in a human figure throughout biblical history. This chapter details such a [theophany](#theophany).
 
 [See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
@@ -192,7 +192,7 @@ That **Jehovah went his way** shows that he was in one physical location with Ab
 
 > Then Jehovah rained on Sodom and Gomorrah sulfur and fire from Jehovah out of heaven.
 
-Here we have two Jehovahs, one on earth ([see 18:33](#genesis-1833)) and one in heaven, yet there is only one Jehovah. Jehovah on earth calls down fire, and the fire comes from Jehovah in heaven. This shows that Jehovah is acting in two distinct agents, one immanent[^immanent] and one transcendent[^transcendent]. This is a key scripture in the ancient Jewish doctrine of [the Two Powers in Heaven](#the-two-powers-in-heaven). It proves that God has a plurality of persons, and that he can be physically manifested on earth.
+Here we have two Jehovahs, one on earth ([see 18:33](#genesis-1833)) and one in heaven, yet there is only one Jehovah. Jehovah on earth calls down fire, and the fire comes from Jehovah in heaven. This shows that Jehovah is acting in two distinct agents, one immanent[^immanent] and one transcendental[^transcendental]. This is a key scripture in the ancient Jewish doctrine of [the Two Powers in Heaven](#the-two-powers-in-heaven). It proves that God has a plurality of persons, and that he can be physically manifested on earth.
 
 ## Exodus 19:9 
 
