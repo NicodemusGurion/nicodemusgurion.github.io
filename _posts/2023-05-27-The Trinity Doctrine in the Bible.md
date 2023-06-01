@@ -188,6 +188,18 @@ Here, Jehovah is speaking to himself, asking himself questions. Or perhaps he is
 
 [See The Cloud Rider](#the-cloud-rider)
 
+## Exodus 23:20-23
+
+> “Behold, I send an angel before you to guard you on the way and to bring you to the place that I have prepared. 21 Pay careful attention to him and obey his voice; do not rebel against him, for he will not pardon your transgression, for my name is in him. 22 “But if you carefully obey his voice and do all that I say, then I will be an enemy to your enemies and an adversary to your adversaries. 23 “When my angel goes before you and brings you to the Amorites and the Hittites and the Perizzites and the Canaanites, the Hivites and the Jebusites, and I blot them out,
+
+This passage presents [the Angel of Jehovah](#the-angel-of-Jehovah) who is not a regular low ranking messenger angel. They must obey him and not rebel against him because he has the authority of to **pardon transgressions**, forgive sins, something that only belongs to Jehovah. Jehovah also says **"my name is in him"**. The name being the presence of Jehovah, this means that Jehovah is present in this angel.
+
+Notice also that Jehovah says "carefully obey **his** voice and do all that **I** say", he is talking about himself in the third person. The voice that comes out of **him** is the voice of **Jehovah**. When the angel speaks, Jehovah speaks.
+
+Also Jehovah says that **he** will be an enemy to their enemies when the **angel** goes ahead of them, meaning that Jehovah is the angel.
+
+[See The Angel of Jehovah](#the-angel-of-Jehovah).
+
 ## Deuteronomy 33:26 
 
 > “There is none like God, O Jeshurun, **who rides through the heavens** to your help, through the skies in his majesty.
