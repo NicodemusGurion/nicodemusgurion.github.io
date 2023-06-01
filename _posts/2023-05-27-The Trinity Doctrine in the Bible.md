@@ -182,6 +182,18 @@ The fact that **they ate** shows that the concept of God as transcendental is no
 
 Here, Jehovah is speaking to himself, asking himself questions. Or perhaps he is speaking with the two angels. In any case Jehovah says **I have chosen him ... so that Jehovah may bring to Abraham what he has promised him.**
 
+## Genesis 18:33 
+
+> And Jehovah went his way, when he had finished speaking to Abraham, and Abraham returned to his place.
+
+That **Jehovah went his way** shows that he was in one physical location with Abraham, and he loved to another physical location away from Abraham. But he didn't go "up" to heaven as in [Genesis 17:22](#genesis-1722). He remained on earth, which is vital to understanding the context of [Genesis 19:24](#genesis-1924).
+
+## Genesis 19:24 
+
+> Then Jehovah rained on Sodom and Gomorrah sulfur and fire from Jehovah out of heaven.
+
+Here we have two Jehovahs, one on earth ([see 18:33](#genesis-1833)) and one in heaven. Jehovah on earth calls down fure, and the fire comes from Jehovah in heaven. This shows that Jehovah is acting in two distinct agents, one immanent[^immanent] and one transcendent[^transcendent]. This is a key scripture in the ancient Jewish doctrine of [the Two Powers in Heaven](#the-two-powers-in-heaven). It proves that God has a plurality of persons, and that he can be physically manifested on earth.
+
 ## Exodus 19:9 
 
 > And Jehovah said to Moses, “Behold, **I am coming to you in a thick cloud**, that the people may hear when I speak with you, and may also believe you forever.” When Moses told the words of the people to Jehovah,
