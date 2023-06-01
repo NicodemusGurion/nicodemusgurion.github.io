@@ -74,7 +74,7 @@ In this passage the **Spirit of God was hovering over the face of the waters** p
 
 [^corporeal]: **Corporeal**: Having a body.
 
-In both accounts, **God said** something. In Genesis, **God said, “Let there be..."**. His word goes forth 10 times to create things. This is the Word of God, as other passages explain is the Second Person of God, Jesus, doing the creating.
+In both accounts, **God said** something. In Genesis, **God said, “Let there be..."**. His word goes forth 10 times to create things. This is the Word of God, whch other passages explain is the Second Person of God, Jesus, doing the creating.
 
 So in this short passage we have God, the Word of God, and the Spirit of God, cooperating in creation.
 
