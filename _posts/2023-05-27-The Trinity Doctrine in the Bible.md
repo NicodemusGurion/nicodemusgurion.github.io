@@ -172,7 +172,7 @@ In any case this passage shows that God is not so simple that you can put him in
 
 > Then he took curds and milk and the calf that he had prepared, and set it before them. And he stood by them under the tree while they ate.
 
-The fact that **they ate** shows that the concept of God as transcendental[^transcendental] is not entirely true. God the Father may be invisible and transcendental, however God the Son has often appeared in a human figure throughout biblical history. This chapter details such a [theophany](#theophany).
+The fact that **they ate** shows that the concept of God as transcendental[^transcendental] is not entirely true. God the Father may be invisible and transcendental, however God the Son has often appeared in a human figure throughout biblical history. And in this case he was seen and even ate food. This chapter details such a [theophany](#theophany).
 
 [See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
