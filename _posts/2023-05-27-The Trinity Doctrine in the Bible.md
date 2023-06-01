@@ -198,7 +198,9 @@ Notice also that Jehovah says "carefully obey **his** voice and do all that **I*
 
 Also Jehovah says that **he** will be an enemy to their enemies when the **angel** goes ahead of them, meaning that Jehovah is the angel.
 
-[See The Angel of Jehovah](#the-angel-of-Jehovah).
+This angel is the second person of God, the secondary Jehovah, who later incarnated as Jesus Christ as Paul confirms in [1 Corintians 10:4](#1-corinthians-104)
+
+[See The Angel of Jehovah](#the-angel-of-Jehovah), [The Two Powers in Heaven](#the-two-powers-in-heaven).
 
 ## Deuteronomy 33:26 
 
