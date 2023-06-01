@@ -64,6 +64,18 @@ The second person of God took on human flesh and became a true human. in doing s
 
 Here is a list of scriptures that harmonize with or prove the trinity doctrine, along with explanations as to what part of the doctrine they touch on.
 
+## Genesis 1:1-3 
+
+> In the beginning, God created the heavens and the earth. 2 The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters. 3 And God said, “Let there be light,” and there was light.
+
+The cery first sentences in the Bible are ripe with trinity concepts. It says **God created the heavens and the earth**, that is, everything that exists. Later in [John 1:3](#john-13), [Colossians 1:15](#colossians-115) and [Hebrews 1:3](#hebrews-13) it shows that Jesus created everything that exists. 
+
+In this passage the **Spirit of God was hovering over the face of the waters** presenting it as a separate agent with a location. This is mirrored in the Gospel account of Jesus' baptism, where the Holy Spirit comes down from heaven in physical form as a dove, hovering over the waters, signalling the new creation. This is the Third Person of God going forth to prepare this shapeless wilderness for being shaped.
+
+In both accounts, **God said** something. In Genesis, **God said, “Let there be..."**. His word goes forth 10 times to create things. This is the Word of God, as other passages explain is the Second Person of God, Jesus, doing the creating.
+
+So in this shortnpassage we have God, the Word of God, and the Spirit of God, cooperating in creation.
+
 ## Genesis 3:8 
 
 > And they heard the voice of Jehovah God walking in the garden in the cool of the day: and the man and his wife hid themselves from the presence of Jehovah God amongst the trees of the garden.
@@ -681,6 +693,8 @@ In the greek Septuagint, the authoritative text Jesus quoted 80% of the time, th
 
 Angels in the Bible are not necessarily spirit beings of a certain type, but Angel is a job description which means messenger. Sometimes God sends spirits as angels. But sometimes he comes himself. Often when the Bible talks about "the Angel of Jehovah" context tells us that the angel is actually divine, yes, it is Jehovah himself. This is a title of the second person of God, the Word, also known as Jesus.
 
+[See The Two Powers in Heaven](#the-two-powers-in-heaven)
+
 ## The Cloud Rider
 
 In the Old Testament, one of the attributes of Jehovah God is that he comes with the clouds. This was an attribute of deity in rhe ancient near east. tThe pagan nations around Israel ascribed this to Baal, but the biblical writers polemically insisted that it is Jehovah who comes with the clouds. So this idea was deeply embedded in the jewish psyche. And when [Daniel 7:13](#daniel-713) says that there will be a "[Son of Man](#the-son-of-man)" coming on the clouds, they realized that somehow Jehovah would be coming in human form as a real human. 
@@ -787,8 +801,8 @@ Alan F. Segal, a scholar of religion, discussed the concept of the "Two Powers i
 According to Segal, the Two Powers in Heaven doctrine can be understood as follows:
 
 1. **The Heavenly Throne**: The first power in heaven refers to the unique and supreme authority of God, who sits on the divine throne. This power is associated with God's absolute sovereignty, omnipotence, and transcendence. It represents the monotheistic understanding of God's oneness and supremacy.
-2. **The Exalted Divine Agent**: The second power in heaven represents a celestial being who is distinct from God but possesses divine qualities and authority. This being is often described as a divine figure, sometimes associated with the titles "the Word of Jehovah", "the Angel of Jehovah", "Son of Man" or "Son of God." This power is considered subordinate to God but still occupies a high and exalted position within the divine hierarchy.
+2. **The Exalted Divine Agent**: The second power in heaven represents a celestial being who is distinct from God but possesses divine qualities and authority. This being is often described as a divine figure, sometimes associated with the titles "the Word of Jehovah", "[the Angel of Jehovah](#the-angel-of-jehovah)", "[Son of Man](#the-son-of-man)" or "[Son of God](#the-son-of-god)." This power is considered subordinate to God but still occupies a high and exalted position within the divine hierarchy.
 
-Segal argues that the Two Powers in Heaven doctrine emerged within certain Jewish circles. This belief system reflects a complex understanding of the divine realm, acknowledging both God's ultimate sovereignty and the existence of an intermediary figure who participates in divine authority.
+Segal argues that the Two Powers in Heaven doctrine emerged within certain Jewish circles. This belief system reflects a complex understanding of the divine realm, acknowledging both God's ultimate sovereignty and the existence of an intermediary figure who participates in divine authority. A primary Jehovah and a secondary Jehovah, both being Jehovah.
 
 
