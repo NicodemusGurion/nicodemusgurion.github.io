@@ -88,6 +88,9 @@ Also note what it says about humanity. "**In the image of God he created him; ma
 
 The name Adam means Humanity, and it is the name of all of humanity but also of the first male human. But Eve is also Adam in that she is part of humanity. The same way "God" refers to both the primary person of God, the Father, but also to divinity as a whole. Sonthe Son and the Holy Spirit are also God because they are part of Divinity.
 
+This proves and illustrates the plurality of God.
+
+
 ### "God was talking to the angels"
 
 The angels have no part in the creation process. The only one who has part in the creation, the only creator, is God himself. So saying "Let us create" to someone who has no ability to create anything would be pointless and taunting.
@@ -99,6 +102,8 @@ The angels have no part in the creation process. The only one who has part in th
 This passage exlains how two persons can be united in substance. Originally Woman **was taken out of Man** and is **flesh of [his] flesh**, and when united in matrimony, Man and Woman **become one flesh**. Even though as physical creatures they kust function as separate in location, in a spiritual sense they are **one flesh**.
 
 Just as the Woman is the same flesh as Man, and **she was taken out of Man** so the Word and Spirit of God is the same "flesh" or substance as God the Father. Matrimony also illustrates the relationship between God the Father, God the Son and God the Holy Spirit. As the Man is put in a position of authority over the Woman, the Father is in a position of authority over the Son and Holy Spirit. And just as the Woman is in a position of submission to the Man, Son and Holy Spirit are in a position of submission to the Father. Still, a Woman is equal to a Man in her Humanity and dignity, and the Son and Holy Spirit are equal to the Father in their Divinity and dignity. It's just a matter of family organization to that the unity will function harmoniously.
+
+This illustrates the plurality of both humanity and God.
 
 ## Genesis 3:8 
 
@@ -117,6 +122,8 @@ This is a [theophany](#theophany) of the pre-incarnate second person of God.
 > Then Jehovah God said, “Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever--”
 
 Again God converses among himself. Verse 5 makes clear that the one who knows (has the authority to make known) what is Good and Bad is God. When Humanity ate the fruit they took  on themselves this authority and became like God. Or as God said: "**the man has become like **one of us** in knowing good and evil."
+
+This indicates the plurality of God.
 
 ## Genesis 12:7
 
