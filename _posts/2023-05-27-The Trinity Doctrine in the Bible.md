@@ -70,11 +70,35 @@ Here is a list of scriptures that harmonize with or prove the trinity doctrine, 
 
 The cery first sentences in the Bible are ripe with trinity concepts. It says **God created the heavens and the earth**, that is, everything that exists. Later in [John 1:3](#john-13), [Colossians 1:15](#colossians-115) and [Hebrews 1:3](#hebrews-13) it shows that Jesus created everything that exists. 
 
-In this passage the **Spirit of God was hovering over the face of the waters** presenting it as a separate agent with a location. This is mirrored in the Gospel account of Jesus' baptism, where the Holy Spirit comes down from heaven in physical form as a dove, hovering over the waters, signalling the new creation. This is the Third Person of God going forth to prepare this shapeless wilderness for being shaped.
+In this passage the **Spirit of God was hovering over the face of the waters** presenting it as a separate agent with a location, meaning it must somehow be corporeal[^corporeal]. This is mirrored in the Gospel account of Jesus' baptism, where the Holy Spirit comes down from heaven in physical form as a dove, hovering over the waters, signalling the new creation. ([Matthew 3:16](#matthew-316); [Mark 1:10](#mark-110); [Luke 3:2](#luke-32); [John 1:32](#john-132))This is the Third Person of God going forth to prepare this shapeless wilderness for being shaped.
+
+[^corporeal]: **Corporeal**: Having a body.
 
 In both accounts, **God said** something. In Genesis, **God said, “Let there be..."**. His word goes forth 10 times to create things. This is the Word of God, as other passages explain is the Second Person of God, Jesus, doing the creating.
 
-So in this shortnpassage we have God, the Word of God, and the Spirit of God, cooperating in creation.
+So in this short passage we have God, the Word of God, and the Spirit of God, cooperating in creation.
+
+## Genesis 1:26,27
+
+> Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”27 So God created man in his own image, in the image of God he created him; male and female he created them.
+
+God speaks to himself in the second person saying **“Let us make man in our image, after our likeness"**, and then he **created man in his own image**. God has an internal discussion, the Father to the Son and Holy Spirit, and then the result is that of a unified singular action, man being created in **his** image.
+
+Also note what it says about humanity. "**In the image of God he created him; male and female he created them.**" So humanity as a whole is referred to as "him" and himanity also consists of male and female, them. Humanity was created in the image of God, meaning that this plurality if two seces in the unity of "man" or humanity, mirrors the nature of God. 
+
+The name Adam means Humanity, and it is the name of all of humanity but also of the first male human. But Eve is also Adam in that she is part of humanity. The same way "God" refers to both the primary person of God, the Father, but also to divinity as a whole. Sonthe Son and the Holy Spirit are also God because they are part of Divinity.
+
+### "God was talking to the angels"
+
+The angels have no part in the creation process. The only one who has part in the creation, the only creator, is God himself. So saying "Let us create" to someone who has no ability to create anything would be pointless and taunting.
+
+## Genesis 2:23-24 
+
+> Then the man said, “This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man.” 24 Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.
+
+This passage exlains how two persons can be united in substance. Originally Woman **was taken out of Man** and is **flesh of [his] flesh**, and when united in matrimony, Man and Woman **become one flesh**. Even though as physical creatures they kust function as separate in location, in a spiritual sense they are **one flesh**.
+
+Just as the Woman is the same flesh as Man, and **she was taken out of Man** so the Word and Spirit of God is the same "flesh" or substance as God the Father. Matrimony also illustrates the relationship between God the Father, God the Son and God the Holy Spirit. As the Man is put in a position of authority over the Woman, the Father is in a position of authority over the Son and Holy Spirit. And just as the Woman is in a position of submission to the Man, Son and Holy Spirit are in a position of submission to the Father. Still, a Woman is equal to a Man in her Humanity and dignity, and the Son and Holy Spirit are equal to the Father in their Divinity and dignity. It's just a matter of family organization to that the unity will function harmoniously.
 
 ## Genesis 3:8 
 
