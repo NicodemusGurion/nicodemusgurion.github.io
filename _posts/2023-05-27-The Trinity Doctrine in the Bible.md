@@ -112,6 +112,12 @@ This is a [theophany](#theophany) of the pre-incarnate second person of God.
 
 [See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
+## Genesis 3:22 
+
+> Then Jehovah God said, “Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever--”
+
+Again God converses among himself. Verse 5 makes clear that the one who knows (has the authority to make known) what is Good and Bad is God. When Humanity ate the fruit they took  on themselves this authority and became like God. Or as God said: "**the man has become like **one of us** in knowing good and evil."
+
 ## Genesis 12:7
 
 > Then Jehovah appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to Jehovah, who had appeared to him.
