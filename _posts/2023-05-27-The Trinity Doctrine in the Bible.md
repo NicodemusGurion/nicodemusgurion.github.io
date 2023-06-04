@@ -219,7 +219,7 @@ This angel is the second person of God, the secondary Jehovah, who later incarna
 
 > Hear, O Israel: Jehovah our God is one Jehovah:
 
-This scripture proves that God is one, not three gods. The word translated "one" is the hebrew eḥāḏ (אֶחָד) which is used in [Genesis 2:24](#genesis-224) where it says "they shall become **one** flesh." So it can be used for the compound unity of two or more persons. This is all in harmony with the trinity doctrine.
+This scripture proves that God is one, not three gods. The word translated "one" is the hebrew eḥāḏ (אֶחָד) which is used in [Genesis 2:24](#genesis-22324) where it says "they shall become **one** flesh." So it can be used for the compound unity of two or more persons. This is all in harmony with the trinity doctrine.
 
 ## Deuteronomy 33:26 
 
