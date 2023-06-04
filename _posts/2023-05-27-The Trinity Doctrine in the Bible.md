@@ -693,6 +693,12 @@ God the Father calls Jesus "God".
 
 Paul quotes [Psalm 102](#psalm-10225-27) which talks about Jehovah, and he applies it to Jesus. Jesus is the one who laid the foundation of the earth, because Jesus is Jehovah.
 
+## James 1:12 
+
+> Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him.
+
+In this verse whoever **has stood the test will receive the crown of life** by **God**, however the only other time the crown of life is mentioned is in [Revelation 2:10](#revelation-210) the crown of life is given by Jesus Christ, because Jesus Christ is God.
+
 ## 2 Peter 1:1 
 
 > Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ:
@@ -732,6 +738,12 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 > "And to the angel of the church in Smyrna write: ‘The words of the first and the last, who died and came to life.'"
 
 The one speaking is clearly Jesus since he is the one **who died and came to life**. He is identifying himself as **[the first and the last](#the-first-and-the-last)**, a divine title that implies [eternality](#eternality) and is a unique title of God. This proves Jesus is eternal and God.
+
+## Revelation 2:10 
+
+> Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful unto death, and I will give you the crown of life.
+
+In this verse whoever **faithful unto death** will receive **the crown of life** by Jesus Christ. However the only other time the crown of life is mentioned is in [James 1:12](#james-112) where the crown of life is given by God, because Jesus Christ is God.
 
 ## Revelation 2:23 
 
