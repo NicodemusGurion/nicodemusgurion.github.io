@@ -215,6 +215,12 @@ This angel is the second person of God, the secondary Jehovah, who later incarna
 
 [See The Angel of Jehovah](#the-angel-of-Jehovah), [The Two Powers in Heaven](#the-two-powers-in-heaven).
 
+## Deuteronomy 6:4 
+
+> Hear, O Israel: Jehovah our God is one Jehovah:
+
+This scripture proves that God is one, not three gods. The word translated "one" is the hebrew eḥāḏ (אֶחָד) which is used in [Genesis 2:24](#genesis-224) where it says "they shall become **one** flesh." So it can be used for the compound unity of two or more persons. This is all in harmony with the trinity doctrine.
+
 ## Deuteronomy 33:26 
 
 > “There is none like God, O Jeshurun, **who rides through the heavens** to your help, through the skies in his majesty.
