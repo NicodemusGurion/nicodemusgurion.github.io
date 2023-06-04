@@ -234,6 +234,14 @@ Jehovah has the highest name. [Philippians 2:9](#philippians-29) reveal that Jes
 
 The ability to walk on water is a unique attribute of God. In [Matthew 14:25](#matthew-1425), [Mark 6:48](#mark-648) and [John 6:19](#john-619) Jesus is the one who walks on water, so the disciples immediately realize that Jesus is Jehovah.
 
+
+## Job 19:25-27 
+
+> For I know that my Redeemer lives, and at the last he will stand upon the earth. 26 And after my skin has been thus destroyed, yet in my flesh I shall see God, 27 whom I shall see for myself, and my eyes shall behold, and not another. My heart faints within me!
+
+This whole pasaage is about how Job was looking forwards to "**see God..for myself ... (and not another)**". He here also calls God "**my Redeemer**" who "**will stand upon the earth**". When was God ever seen, or stabd upon the earrh as a redeemer? Only in the person of Jesus. This proves that even Job, one of the oldest booka of the Bible had the idea that God himself would come to warth physically to save humans. This proves the deity of Christ.
+
+
 ## Psalms 68:32-33 
 
 > O kingdoms of the earth, sing to God; sing praises to the Lord, 33 to **him who rides in the heavens**, the ancient heavens; behold, he sends out his voice, his mighty voice.
