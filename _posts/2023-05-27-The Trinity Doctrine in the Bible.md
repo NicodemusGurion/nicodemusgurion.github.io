@@ -538,6 +538,12 @@ It is important to consider the context of the passage. The claim that Jesus use
 
 Jesus is one with God the Father in substance. The Jews are upset, they think Jesus is blaspheming because he is calling himself God.
 
+## John 12:45 
+
+> And whoever sees me sees him who sent me.
+
+Here Jesus claims equaity with God. If you see Jesus you see God, because Jesus is the person of God who came into the world.
+
 ## John 14:14 
 
 > (ESV/NASB20/CSB) “If you ask me anything in my name, I will do it.
