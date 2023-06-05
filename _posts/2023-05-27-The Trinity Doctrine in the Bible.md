@@ -544,6 +544,16 @@ It is important to consider the context of the passage. The claim that Jesus use
 
 Jesus is one with God the Father in substance. The Jews are upset, they think Jesus is blaspheming because he is calling himself God.
 
+## John 12:41 
+
+> Isaiah said these things because he saw his glory and spoke of him.
+
+John says that Isaiah saw the glory of Jesus Christ and spoke of him. When did Isaiah see his glory? There is only one time when Isaiah beheld the glory of someone and that is in [Isaiah 6:1](#isaiah-61):
+
+> Isaiah 6:1,3,5In the year that King Uzziah died I saw Jehovah sitting upon a throne, high and lifted up; and the train of his robe filled the temple. ... 3 And one called to another and said: “Holy, holy, holy is Jehovah of hosts; the whole earth is full of his glory!”...5 And I said: “Woe is me! For I am lost; for I am a man of unclean lips, and I dwell in the midst of a people of unclean lips; for my eyes have seen the King, Jehovah of hosts!”
+
+So John is saying that when Isaiah saw Jehovah, Isaiah saw Jesus Christ. This proves Jesus is Jehovah.
+
 ## John 12:45 
 
 > And whoever sees me sees him who sent me.
