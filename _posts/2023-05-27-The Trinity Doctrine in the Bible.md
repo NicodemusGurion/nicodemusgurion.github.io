@@ -194,6 +194,18 @@ That **Jehovah went his way** shows that he was in one physical location with Ab
 
 Here we have two Jehovahs, one on earth ([see 18:33](#genesis-1833)) and one in heaven, yet there is only one Jehovah. Jehovah on earth calls down fire, and the fire comes from Jehovah in heaven. This shows that Jehovah is acting in two distinct agents, one immanent[^immanent] and one transcendental[^transcendental]. This is a key scripture in the ancient Jewish doctrine of [the Two Powers in Heaven](#the-two-powers-in-heaven). It proves that God has a plurality of persons, and that he can be physically manifested on earth.
 
+## Exodus 17:6 
+
+> Behold, I will stand before you there on the rock at Horeb, and you shall strike the rock, and water shall come out of it, and the people will drink.” And Moses did so, in the sight of the elders of Israel.
+
+Notice that Jehovah said he **will stand before you there on the rock at Horeb**. That means that he has a physical lovation (on top of the rock) and that he has a physical body (is standing). This is a theophany of the second person of God. 
+
+This is also the first time the word "rock" is used in the Bible, which is significant since Jehovah is standing on the rock from which the Israelites got water. Paul made clear that this Rock was Jesus Christ, so the connection is unmistakable. (1 Corinthians 10:4](1-corinthians-104)
+
+This proves that God can come in the form of a man, and that this form of God is the second person of God, the Word, later incarnated as Jesus Christ.
+
+[See The Two Powers in Heaven](#the-two-powers-in-heaven), [theophany](#theophany).
+
 ## Exodus 19:9 
 
 > And Jehovah said to Moses, “Behold, **I am coming to you in a thick cloud**, that the people may hear when I speak with you, and may also believe you forever.” When Moses told the words of the people to Jehovah,
@@ -655,13 +667,11 @@ This proves that Jesus accepts prayer and that he is [omniscient](#omniscience),
 
 Jesus has the form of God, being fully of the same substance as God the Father. He did not have the same status position as the Father and didn't grasp for that, but he emptied himself of the status that he did have to take on the lowliest status, that of a slave. He did this by taking on the substance of a human along with his divine substance, and to live a life of service.
 
-
 ## Philippians 2:9 
 
 > Therefore God has highly exalted him and bestowed on him the name that is above every name,
 
 In the Old Testament, Jehovah God has the highest name, the name above wvery name. But in the New Testament it is Jesus. So either Jehovah is not tye highest name anymore, or Jesus is the same as Jehovah. This indicates the deity of Christ.
-
 
 ## Philippians 2:10-11 
 
