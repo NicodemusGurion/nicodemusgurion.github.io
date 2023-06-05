@@ -291,6 +291,10 @@ God's name and word is exalted above all things. [Philippians 2:9](#philippians-
 
 Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-29) shows that Jesus is the one with the uniquely highest name. This means Jesus is divine. 
 
+## Isaiah 6:1-5 1 In the year that King Uzziah died I saw Jehovah sitting upon a throne, high and lifted up; and the train of his robe filled the temple. ... 3 And one called to another and said: “Holy, holy, holy is Jehovah of hosts; the whole earth is full of his glory!” ... my eyes have seen the King, Jehovah of hosts!”
+
+Isaiah saw the glory of Jehovah. in [John 12:41](#john-1241) John explains that Isaiah actually saw Jesus Christ. This proves that Jesus is Jehovah.
+
 ## Isaiah 19:1 
 
 > An oracle concerning Egypt. Behold, **Jehovah is riding on a swift cloud** and comes to Egypt; and the idols of Egypt will tremble at his presence, and the heart of the Egyptians will melt within them.
