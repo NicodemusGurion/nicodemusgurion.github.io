@@ -40,7 +40,7 @@ The plain reading of the Bible matches well with the Trinity doctrine. So likely
 
 > Baʹlaam then said to Baʹlak: “Stay here by your burnt offering, and I will go. Perhaps Jehovah will **get in touch with** me. Whatever he reveals to me, I will tell you.” So he went to a barren hill. 4 Then God **got in touch with** Baʹlaam, who said to Him: “I set the seven altars in rows, and I offered up a bull and a ram on each altar.” [...] 15 So Baʹlaam said to Baʹlak: “Stay here by your burnt offering while I **get in touch with** Him over there.” 16 And Jehovah **got in touch with** Baʹlaam and put this word in his mouth: “Return to Baʹlak, and this is what you are to say.”
 
-## Change/Misleading translation 
+**Change/Misleading translation**
 
 The text actually says that Jehovak **met** Balaam on the hill. Throughout the Old Testament Jehovah continually meets people physically, and is visibly seen and sometimes even touched by people. This goes against the Watchtower idea that Jehovah is kind of like Allah, impossible to meet. And the idea of Jehovah coming to meet people on earth sounds too much like something Jesus would do. Therefore they try to obfuscate passages like these, using a term like "get in touch with" which can mean both to meet and to just generally contact someone. 
 
@@ -48,7 +48,7 @@ The text actually says that Jehovak **met** Balaam on the hill. Throughout the O
 
 > The foolish one says in his heart: “There is no **Jehovah**.” Their actions are corrupt, and their dealings are detestable; No one is doing good.
 
-## Change
+**Change**
 
 The New World Translation inserts “Jehovah” instead of “God”. [I can not find a single Hebrew or Greek text nor any other translation that has the Divine Name in this verse.](https://biblehub.com/psalms/14-1.htm) Having the divine name here makes no sense. That someone would deny the exiatence of God is plausible. That someone would be so specific as to use the name Jehovah is implausible. Why would someone not knowing the Divine Name use it when they say there is no God?
 
@@ -56,7 +56,7 @@ The New World Translation inserts “Jehovah” instead of “God”. [I can not
 
 > For dogs surround me; They close in on me like a pack of evildoers, **Like a lion they are at my hands and feet.**
 
-## Change/Weird translation
+**Change/Weird translation**
 
 This one is a bit of a head scratcher. Because Psalm 22 is a clear messianic prophecy, which Jesus himself quoted when he said “My God, any God, why have you forsaken me?” on the cross. And the actual wording of the bold part could be rendered “They have pierced my hands and my feet”, which would make more sense than "lions". Also this is exactly what would happen with Jesus hands and feet. The translation about lions is weird and does not fit the context. And I can not figure out why the Watchtower would want to muddle a clear messianic prophecy about what happened to Jesus. It’s not even as if they’re denying that he was nailed hand and feet or something.
 
@@ -64,7 +64,7 @@ This one is a bit of a head scratcher. Because Psalm 22 is a clear messianic pro
 
 > **Close friendship** with Jehovah belongs to those who fear him, And he makes his covenant known to them.
 
-## Biased translation
+**Biased translation**
 
 The word translated “close friendship“ is the Hebrew סוד (sod) which means “secret” or “intimacy”. The Watchtower probably chooses the word “friendship” to support their teaching that you can only “be friends with God”. The Bible rather teaches that when you put faith in Jesus, you become adopted as a child of God. Being a child of someone is more intimate than being their friend, but the Watchtower wants to hide from you your status as a **child of God** when you put faith in Jesus. They want to make you think you are in a lesser position by tricking you into thinking that “friendship” is the best you could hope for.
 
@@ -72,7 +72,7 @@ The word translated “close friendship“ is the Hebrew סוד (sod) which mean
 
 > Jehovah **produced** me as the beginning of his way, The earliest of his achievements of long ago.
 
-## Change/Biased Translation
+**Change/Biased Translation**
 
 Chapter 8 of proverbs speaks about wisdom in anthropological terms, describing is as a woman who cries out to people to pursue her. The Watchtower says that this passage talks about the preincarnate Jesus. And specifically about how they think that Jesus is a created creature. There are several problems with that interpretation. For example verse 12 says that “I, wisdom, dwell together with shrewdness…” which would mean that Jesus is not only a woman, but also that she has a roommate called Shrewdness. 
 
@@ -94,7 +94,7 @@ Verse 23 also says that wisdom existed for eternity past, so that’s also a pro
 
 > All of a man’s ways seem right to him, But Jehovah examines the **motives**
 
-## Change/Biased translation
+**Change/Biased translation**
 
 The part translated "Jehovah examines the motives" is actually "Jehovah examines the spirits." This may seem as a small change but it subtly hides the fact that humans do have a spiritual part which is connected to our mental faculties and decision making. The Watchtower wants a worldview that is as naturalistic and sterile as possible. Humans can't have spirits or souls that are in any way separate from their bodies. This worldview colors their word choice.
 
@@ -102,7 +102,7 @@ The part translated "Jehovah examines the motives" is actually "Jehovah examines
 
 > Zechariah 3:1,2 — And he showed me Joshua the high priest standing before the angel of Jehovah, and Satan was standing at his right hand to resist him. 2 Then **the angel of** Jehovah said to Satan: “May Jehovah rebuke you, O Satan, yes, may Jehovah, who has chosen Jerusalem, rebuke you! Is not this one a burning log snatched out of the fire?”
 
-## Addition
+**Addition**
 
 In this passage, the Angel of Jehovah stands by Satan and the High Priest, but the interesting thing is that in verse 2, it actually says that it is **Jehovah** who speaks **about Jehovah in the third person**.
 
@@ -125,7 +125,7 @@ Zechariah 3:2a in interlinear form.
 
 > God himself will glorify him __ __, and he will glorify him immediately.
 
-## Removal
+**Removal**
 
 ![](https://i.ibb.co/JBdPk0f/john1332.jpg)  
 *John 13:32 Kingdom Interlinear Translation.*
@@ -136,7 +136,7 @@ The Greek and other translations say: “God will glorify him [Jesus] **in himse
 
 > If you ask __ anything in my name, I will do it.
 
-## Removal
+**Removal**
 
 ![](https://i.ibb.co/yX2WnDL/john1414.jpg)  
 *John 14:14 Kingdom Interlinear Translation*
@@ -147,7 +147,7 @@ The Greek text, the Vulgate and many English translations (NLT, CSB, NIV, ESV, N
 
 > And when that one comes, **he will give the world convincing evidence concerning sin** and concerning righteousness and concerning judgment:
 
-## Change/Strange Word Choice
+**Change/Strange Word Choice**
 
 ![](https://i.ibb.co/qC6JFtL/john168.jpg)  
 *John 16:8 Kingdom Interlinear Translation*
@@ -160,7 +160,7 @@ But “he will give the world convincing evidence concerning sin” means that t
 
 > For the Father himself has affection for you, because you have had affection for me and have believed that I came **as God’s representative.** 28 I came **as the Father’s representative** and have come into the world. Now I am leaving the world and am going to the Father.”
 
-## Change/biased translation
+**Change/biased translation**
 
 <span class="floatright"> ![](https://i.ibb.co/drcfRWJ/john16728.jpg)  
 *John 16:27,28 Kingdom Interlinear Translation* </span>
@@ -171,7 +171,7 @@ The Greek word translated here as as “representative” is ἐξῆλθον (e
 
 > This means everlasting life, their coming to know you, the only true God, and the one whom you sent, Jesus Christ.
 
-## Fuzzy interpretation
+**Fuzzy interpretation**
 
 This is not strictly a problem with the translation, but rather with the interpretation that the Watchtower has of this scripture. Their interpretation is that this scripture means that in order to gain eternal life, you must take in knowledge about God. That studying is a means to an end, that is to attain to eternal life. What this scripture actually is is a definition about what it means to have eternal life. Jesus said in John 3:36 that "the one who exercises faith in the Son has everlasting life". If you have faith in Jesus, you already have everlasting life right now. In John 17:3 Jesus is just defining and expounding on what it _means_ to have everlasting life, what the whole _purose_ for having everlasting life is. And the reason or purpose why we have everlasting life is not to go to heaven, or to live on earth in nice houses and hugging lions. The reason we have everlasting life is **to know God.** The point of it all is to have a deep, intimate relationship with God. And this is something we can have right now, since if we have faith in Jesus we alreadyhave everlasting life. Why does the Watchtower present this scripture as if learning about God results in everlasting life, rather than everlasting life resulting in knowing God? Probably because they are a works-based religion, and it has some gnostic ideas floating around, more specifically that salvation comes through knowledge or that our knowledge somehow affects our salvation. This is a form of works righteousness, because studying is a form of works you can do. What if a person can't study or don't have the time or ability to study, are they worse off? At what level of knowledge is your salvation secure? Will you always worry that your level of knowledge is not enough? It causes a lot of subconscious stress. But the correct interpretation makes it a spiritual paradise: Not only do you already have everlasting life, you can get to know God personally at your own pace forever.
 
@@ -179,7 +179,7 @@ This is not strictly a problem with the translation, but rather with the interpr
 
 > And every day in the temple and **from house to house** they continued without letup teaching and declaring the good news about the Christ, Jesus.
 
-## Biased translation/Change
+**Biased translation/Change**
 
 The words translated "from house to house" here are the Greek words κατ’ οἶκον (kata oikon). Oikon means house. Kata means according to, in, against, by, or every. Other translations render this "in houses", because the Christians were assembling in house churches where they would teach everyone who came there. The exact same words, kata oikon, are used in Acts 2:46 where they translate it "they took their meals **in different homes**". Why doesn't it say "they took their meals from house to house"? Romans 16:5, 1 Corinthians 16:19 and Colossians 4:16 also has kata oikon, rendering it "the congregation that is **in their/her house**". So it is obvious that kata oikon refers to a house church, a congregation **in the house**. They don't translate it "the congregation that is **from house to house**". So why would they translate Acts 5:42 as teaching "from house to house"? The reason is probably that there is basically no evidence in scripture that the early Christians went from house to house, knocking doors and preaching to people like the Jehovah's witnesses do. So when you can't find scriptural evidence for your main activity, then what do you do? Then you change your Bible to fake it.
 
@@ -187,7 +187,7 @@ The words translated "from house to house" here are the Greek words κατ’ ο
 
 > Pay attention to yourselves and to all the flock, among which the holy spirit has appointed you overseers, to shepherd the congregation of God, which he purchased with the blood of his own **Son**.
 
-## Addition
+**Addition**
 
 <span class="floatright"> ![](https://i.ibb.co/JBSk6YB/acts2028.jpg)  
 *Acts 20:28 Kingdom Interlinear Translation* </span>
@@ -200,7 +200,7 @@ But what does that mean? Whose blood was spilled to buy us from the world? Of co
 
 > Therefore, those in union with Christ Jesus __ have no condemnation.
 
-## Removal
+**Removal**
 
 ![](https://i.ibb.co/f2ck7b1/Rom81.jpg)  
 *Romans 8:1 Kingdom Interlinear Translation*
@@ -211,7 +211,7 @@ The Greek and other translation has the word “now” in the text: “There is 
 
 > Not only that, but we ourselves also who have the firstfruits, namely, the spirit, yes, we ourselves groan within ourselves while we are earnestly waiting for adoption as sons, **the release from our bodies by ransom**.
 
-## Change
+**Change**
 
 ![](https://i.ibb.co/jgrd4wV/rom823.jpg)  
 *Romans 8:23 Kingdom Interlinear Translation*
@@ -222,7 +222,7 @@ If we have a look at the greek, what the bold section actually says is "awaiting
 
 > But the one who searches the hearts knows what the **meaning** of the spirit is, because it is pleading in harmony with God for the holy ones.
 
-## Change
+**Change**
 
 ![](https://i.ibb.co/jyWSn2H/rom827.jpg)  
 *Romans 8:27 Kingdom Interlinear Translation*
@@ -233,7 +233,7 @@ In this verse which talks about the Holy Spirit, the Greek says φρόνημα (
 
 > To them the forefathers belong, and from them the Christ descended according to the flesh. God, who is over all, be praised forever. Amen.
 
-## Change
+**Change**
 
 ![](https://i.ibb.co/kB8Nnn0/rom95.jpg)
 *Romans 9:5 Kingdom Interlinear Translation*
@@ -244,7 +244,7 @@ The Greek wording inthis verse goes "of-whom the fathers and out-of whom the Chr
 
 > and those making use of the world as those not using it to the full; for **the scene of this world is changing.**
 
-## Change/biased translation
+**Change/biased translation**
 
 Almost all other translation translates the last part as something along the lines of “the fashion of this works is passing away” or “the works as we know it is ending”. The difference is that it is not changing, but disappearing. We should not put our faith in the world because it will disappear, it is transient. The scripture doesn’t focus on that things change from one fashion to another, but rather that all of it is futile. Why does the Watchtower change this? Probably because their version gives the sense that things are constantly changing, and we must therefore adapt to these changes. This gives them an excuse for changing their “Truth” on a regular basis. If the world is changing, you should expect “The Truth” to change too, right?
 
@@ -252,7 +252,7 @@ Almost all other translation translates the last part as something along the lin
 
 > Therefore, we are ambassadors **substituting** for Christ, as though God were making an appeal through us. As **substitutes** for Christ, we beg: “Become reconciled to God.”
 
-## Addition
+**Addition**
 
 ![](https://i.ibb.co/JsRDwPs/E7752-C5-A-DB9-C-4-A47-983-B-2770800-D32-A7.jpg)
 *2 Corinthians 5:20 Kingdom Interlinear Translation*
@@ -263,7 +263,7 @@ The Watchtower adds the word “substituting” in this verse. If you are an amb
 
 > The undeserved kindness of our Lord Jesus Christ be with the spirit **you show**, brothers. Amen.
 
-## Change
+**Change**
 
 ![](https://i.ibb.co/h2tSG52/FBC313-E0-1931-49-F5-8-F7-C-C71-BA13-E1-AB4.jpg)
 *Galatians 6:18 Kingdom Interlinear Translation*
@@ -274,7 +274,8 @@ The Greek in this verse is translated as "the spirit of you". Most translations 
 
 > For it says: “When he ascended on high he carried away captives; he gave gifts **in** men.”
 
-## Change
+**Change**
+
 ![](https://i.ibb.co/ZfVKHpC/BB1-DD7-FA-D2-D7-4-E2-B-AEAB-183-B06777779.jpg)
 *Ephesians 4:8 Kingdom Interlinear Translation*
 
@@ -284,7 +285,7 @@ The original Greek and all other translations says that Jesus gave gifts **to** 
 
 > Now what does the expression “he ascended” mean but that he also descended into the lower regions, **that is,** the earth?
 
-## Change
+**Change**
 
 ![](https://i.ibb.co/GCpkFC7/1-D4-E4614-38-FD-475-F-A224-404602-F37-C4-F.jpg)
 *Ephesians 4:9 Kingdom Interlinear Translation*
@@ -299,7 +300,7 @@ The Jehovah’s Witnesses teach that humans cease to exist at death. It is a fal
 
 > He is the image of the invisible God, the firstborn of all creation; 16 because by means of him all **other** things were created in the heavens and on the earth, the things visible and the things invisible, whether they are thrones or lordships or governments or authorities. All **other** things have been created through him and for him. 17 Also, he is before all **other** things, and by means of him all **other** things were made to exist, […] 20 and through him to reconcile to himself all **other** things by making peace through the blood he shed on the torture stake, whether the things on the earth or the things in the heavens.
 
-## Addition
+**Addition**
 
 The NWT adds the word “other” five times in this passage. No Greek manuscript and no other translation uses the word “other” here. The word “other” radically changes the meaning here. Without “other” it says “all things were created by [Jesus]”, meaning that Jesus himself is not a creation but the eternal creator himself. By inserting the “other”, it suddenly means that Jesus could himself be included in the category of created things and thus not be the eternal creator. It is inserted to support the Jehovah’s Witness teaching that Jesus is a created being, which is based on the third century heresy called [Arianism](https://en.m.wikipedia.org/wiki/Arianism).
 
@@ -310,7 +311,7 @@ The NWT adds the word “other” five times in this passage. No Greek manuscrip
 
 > 21 Indeed, you who were once alienated and enemies because your minds were on the works that were wicked,22 he has now reconciled **by means of** that one’s fleshly body through his death, in order to present you holy and unblemished and open to no accusation before him —
 
-## Change
+**Change**
 
 Yet another example of the abuse of prepositions, especially the “in” preposition.The Greek uses “εν” meaning “in”. Replaced this preposition with other prepositions render the meaning totally different. In this passage the correct translation would be “now has he reconciled **in** the body of his flesh through death”, because just like Noah was in the ark for salvation, so we are in a spiritual sense positionally **in** Christ’s body. But the Watchtower on the one hand officially teaches that [Jesus’ body was disintegrated into atoms](https://wol.jw.org/en/wol/d/r1/lp-e/1953641#h=12), and in a spiritual sense only 144.000 Jehovah’s Witnesses are “in” the body of Jesus. So this scripture would indicate either that Jesus was bodily resurrected, which the Watchtower denies. Or it would indicate that all non-anointed Jehovah’s Witnesses are still alienated and enemies of God. The Watchtower changes **in** to **by means of** and thus make his body more akin to a tool or instrument.
 
@@ -321,7 +322,7 @@ Yet another example of the abuse of prepositions, especially the “in” prepos
 
 > because it is in him that all the fullness of the divine quality dwells bodily
 
-## Biased translation
+**Biased translation**
 
 The Greek word rendered “divine quality” is θεότητος (Theotetos) which actually means “divinity”, that is the divine nature or the thing that makes God "God". It could well be rendered divine quality, it is technically correct. But this gives a watered down sense of its gravity. Like it is like any other quality is that perhaps other beings than God could have. In actually it is the quality that defines if a being is God or not. But even with the Watchtower trying to water it down, it is still an undeniable proof for the Trinity doctrine. What it is saying in undeniable terms is that Jesus is fully, 100% unequivocally divine. All the fullness of the quality which means someone is God dwells in Jesus. Or in other words: Jesus is fully God.
 
@@ -332,7 +333,7 @@ The Greek word rendered “divine quality” is θεότητος (Theotetos) whi
 
 > Whatever you are doing, work at it whole-souled as for **Jehovah**, and not for men, for you know that it is from **Jehovah** you will receive the inheritance as a reward. Slave for the **Master**, Christ.
 
-## Biased translation
+**Biased translation**
 
 The whole chapter of Colossians 3 is all about Jesus Christ. Christ is explicitly named in verses 1,3,4,11,15,16,17,18,20,22,23,24 and, if you read the KJV, also in verse 13\. Jesus is referred to as "Jesus", "Christ" or "The Lord". Especially verse 17 makes it abundantly clear that "The Lord" refers to Christ. God the Father is only referred to as "God" or "God the Father". Very simple. But since the Watchtower spread the non-historical and unscholarly conspiracy theory that somehow some evil scribe managed to gather every manuscript in the known world and remove the name "Jehovah" from them, leaving no trace, (while at the same time they claim that the Bible has been unchanged), the Watchtower endeavours to pepper the name Jehovah in every place they possibly can. Colossians 3 is a chapter where this backfires because their insertion of the name Jehovah in verses 13, 16, 22, 23 and 24 makes their translation a confusing mess. It is nigh impossible to know who the text is talking about since it switches between two persons and when it only says "The Lord" you have no idea who it talks about. The identity of "The Lord" is passed between Jesus and Jehovah like a tennis ball at Wimbledon, but in verses 23 and 24 it hits the net... The problem there is that if you look in the greek, verse 23 talks about "Kyriou" which is the greek word for "the Lord". They translate this as "Jehovah". And in verse 24 it again talks about "Kyriou" which they again translate as "Jehovah". But at the end of verse 24 it says "Kyriou Christou" or "The Lord Christ". Remember that this is all the same long sentence. So in the beginning of the sentence they twice change "The Lord" to "Jehovah", but at the end of the sentence it reveals that "The Lord" it is talking about is actually Jesus Christ. What is a false prophet to do in such circumstances when the text not only reveals that your theology is wrong, but also that your conspiracy theory about replacing the name Jehovah is wrong? What thee Watchtower chose to do was to translate the last "Kyriou" as "Master" instead of "The Lord" and hope that their followers won't look into it. It sounds weird, but if your followers are not used to do research, they will probably just skim over it. Another benefit of this is that it makes the whole chapter very confusing. Who is it talking about? And if your readers are confused then they need you to explain the meaning of this mess that you have created. A win-win solution for a manipulative high control group.
 
@@ -340,7 +341,7 @@ The whole chapter of Colossians 3 is all about Jesus Christ. Christ is explicitl
 
 > This is fine and acceptable in the sight of our Savior, God, whose will is that all **sorts of** people should be saved and come to an accurate knowledge of truth.
 
-## Addition
+**Addition**
 
 ![](https://i.ibb.co/xsft6rL/7-A05550-F-73-BF-4283-8312-0515-C1408-E25.jpg)
 *1 Timothy 2:3,5 Kingdom Interlinear Translation*
@@ -360,7 +361,7 @@ The Watchtower adds the words “sorts of“ in this verse. The originals says t
 
 > However, **the inspired word** clearly says that in later times some will fall away from the faith, paying attention to misleading inspired statements and teachings of demons,
 
-## Change/Addition
+**Change/Addition**
 
 ![](https://i.ibb.co/0Y7fprj/738-DC25-B-CB43-4267-BED7-4-ADCA2-B9-F02-B.jpg)
 *1 Timothy 4:1 Kingdom Interlinear Translation*
@@ -371,7 +372,7 @@ The words "the inspired word" in this verse have been changed. In the Greek it s
 
 > But about the Son, he says: “**God is your throne** forever and ever, and the scepter of your Kingdom is the scepter of uprightness.
 
-## Change
+**Change**
 
 ![](https://i.ibb.co/crY1C6M/0-B5-FDF69-07-F5-4-F84-ABD5-67598-FB49704.jpg)
 *Hebrews 1:8 Kingdom Interlinear Translation*
@@ -382,7 +383,7 @@ In Greek the verse says "toward (but) the Son The throne of you the God" meaning
 
 > Hebrews 11:13,16 — In faith all of these died, although they did not receive the fulfillment of the promises; but they saw them from a distance and welcomed them and publicly declared that they were strangers and temporary residents **in the land.** [...] 16 But now they are reaching out for a better place, that is, **one belonging to heaven**. Therefore, God is not ashamed of them, to be called on as their God, for he has prepared a city for them.
 
-## Biased word choice
+**Biased word choice**
 
 The words in verse 13 that are translated "in the land" in Greek actually means "on the earth". (*Epi* means on top of the surface of something.) In the land denotes a local earthly kingdom, country or geographical area. Earth denotes the whole physical world. Big difference. And the words "one belonging to heaven" should actually be "a heavenly one". The difference is that "belonging to" means that it does not have the properties of what it belongs to, i.e. it's not heavenly. But "heavenly" means that it has the distinct properties of heaven. Big difference. The actual reading of the text denotes that these ancient faithful ones considered themselves temporary residents **on earth** and were looking forward to a **heavenly hope.** Why would the Watchtower obfuscate these verses? Naturally to preserve their idea that only a limited number of people go to heaven, and that these ancient faithful were not part of that group. As Hebrews indicate, this is not accurate.
 
@@ -390,7 +391,7 @@ The words in verse 13 that are translated "in the land" in Greek actually means 
 
 > and you made them to be a kingdom and priests to our God, and they are to rule as kings **over** the earth.”
 
-## Change / Biased translation
+**Change / Biased translation**
 
 ![](https://i.ibb.co/GkTP3s0/3-A0-CFB0-E-C41-D-4-D2-B-9606-A555253749-B3.jpg)
 *Revelation 5:10 Kingdom Interlinear Translation*
