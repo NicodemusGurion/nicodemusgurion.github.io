@@ -14,7 +14,7 @@ This article will look at a selection of scriptures in the New World Translation
 
 > Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep, and **God’s active force** was moving about over the surface of the waters.
 
-## Biased translation
+**Biased translation**
 
 Strangely enough this is the only place in the NWT where they use the word "active force". Since the Watchtower teaches that the Holy Spirit is not a person but a force like electricity or gravity, they have to insert this *somewhere*. But this is the only place. Perhaps they worried that if they did it consistently it would start sounding like Star Wars fan fiction.
 
@@ -24,7 +24,7 @@ The hebrew phrase "*Ruach Elohim*" should be translated "God's spirit". A *ruach
 
 > Then Jehovah made it rain sulfur and fire on Sodʹom and Go·morʹrah — it came from Jehovah, from the heavens.
 
-## Biased translation, Change
+**Biased translation, Change**
 
 The more accurate translation of this verse was available in the older translation of the New World Translation:
 
