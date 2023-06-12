@@ -8,6 +8,8 @@ The Watchtower corporation boasts that the New World Translation is the best and
 
 This article will look at a selection of scriptures in the New World Translation from as neutral exegetical perspective and describe what kind of change was made, and how this impacts the meaning of the translation. I will also make a guess as to why it was likely made based on decades of experience with Watchtower doctrine. And I may also compare it to a more mainstream Christian interpretation when appropriate. For the New Testament, all English quotations unless otherwise indicated are taken from the New World Translation 2013 edition, and the Greek quotations come from the [Kingdom Interlinear Translation](https://www.jw.org/en/library/bible/kingdom-interlinear-greek-translation/books/) released by the Watchtower and [downloadable from jw.org](https://download-a.akamaihd.net/files/media_publication/c0/int_E.jwpub) so that you can easily check that I’m not making this up. Please look up everything in your own Bible or the [JW app](https://www.jw.org/en/online-help/jw-library/).
 
+[TOC]
+
 # Genesis 1:2
 
 > Now the earth was formless and desolate, and there was darkness upon the surface of the watery deep, and **God’s active force** was moving about over the surface of the waters.
