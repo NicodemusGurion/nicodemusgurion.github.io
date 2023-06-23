@@ -729,6 +729,18 @@ God the Father calls Jesus "God".
 
 Paul quotes [Psalm 102](#psalm-10225-27) which talks about Jehovah, and he applies it to Jesus. Jesus is the one who laid the foundation of the earth, because Jesus is Jehovah.
 
+## Hebrews 2:5
+
+> For it was not to angels that God subjected the world to come, of which we are speaking.
+
+God did not subject the world to angels, but the world is subjected to Jesus, which proves that Jesus is not an angel, and disproves [Arianism](#arianism).
+
+## Hebrews 3:3-4
+
+> 3 For Jesus has been counted worthy of more glory than Moses — as much more glory as the builder of a house has more honor than the house itself. 4 (For every house is built by someone, but the builder of all things is God.)
+
+In this analogy Jesus is greater than Moses just like the builder of a house is greater than the house. Jesus is put in the creator role, and Moses in the creature role. This is in line with scriptures like [John 1:3](#john-13), [10](#john-110); [1 Corinthians 8:6](#1-corinthians-86); [Colossians 1:16](#colossians-116); [Hebrews 1:2](#hebrews-12), [10](#hebrews-110); [11:3](#hebrews-113); which all shows that Jesus is the creator of the universe. This verse builds on this analogy by saying that **the builder of all things** - the creator of the universe - **is God.** In other words, Jesus is God.
+
 ## James 1:12 
 
 > Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him.
@@ -748,6 +760,18 @@ Jesus is called **our Great God and Savior** by the apostle Peter. This is what 
 Jesus **received honor and glory from God the Father**. However scriptures like [Isaiah 42:8](#isaiah-428) and [48:11](#isaiah-4811) show that God does not allow anyone else to have equal glory to him. This means that Jesus is no one else but God. This proves the deity of Christ.
 
 **This is my beloved Son** shows that Jesus is the [unique son of God](#monogenes), of the same substance as the Father. This proves the deity of Christ.
+
+## 1 John 3:2
+
+> Beloved, we are God’s children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is.
+
+In this verse it says that Christians **are God's children**, and it says that God will **appear** and **we shall be like him**. But who is is who will appear? It is not God the Father, but Jesus the Son of God who is the one who will appear. It is also Jesus whom we will be like. ([1 Cor 15:49](#1-cor-1449)) Therefore **God** in this verse is Jesus Christ. 
+
+## 1 John 5:6
+
+> This is he who came by water and blood—Jesus Christ; not by the water only but by the water and the blood. And the Spirit is the one who testifies, because the Spirit is the truth.
+
+This verse says that **the Spirit is the truth**, identifying the Holy Spirit with The Truth. in [John 14:6](#john-146) Jesus says "I am... the Truth". So either these verses contradict, or Jesus and the Holy Spirit are both the ultimate Truth, because they are both God.
 
 ## Revelation 1:7 
 
