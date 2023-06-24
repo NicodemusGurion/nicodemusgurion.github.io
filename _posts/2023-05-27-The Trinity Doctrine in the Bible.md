@@ -817,6 +817,12 @@ In this verse whoever **faithful unto death** will receive **the crown of life**
 
 Here **every creature in heaven and on earth and under the earth and in the sea**, worship God and **the Lamb**, Jesus. This shows that Jesus is worshipped, and also that he is not part of the category of "created beings". He is uncreated and eternal.
 
+## Revelation 3:15
+
+> And the four living creatures said, “Amen!” and the elders fell down and worshiped.
+
+This follows the scene in 13 and it shows that the 24 elders fell down and worshipped both God the Father and the Lamb, showing that Jesus receives worship as God.
+
 ## Revelation 22:12,13 
 
 > 12 “Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done. 13 I am the Alpha and the Omega, the first and the last, the beginning and the end.”
