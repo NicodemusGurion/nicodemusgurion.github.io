@@ -811,6 +811,12 @@ In this verse whoever **faithful unto death** will receive **the crown of life**
 
 **He who searches minds and hearts** is a reference to the old testament in passages such as [Jeremiah 17:10](#jeremiah-1710)  where it says that Jehovah searches the mind, and try the heart and who give to every man according to his ways. This shows that Jesus claims to be the same as Jehovah in these passages, which proves the deity of Christ.
 
+## Revelation 5:13
+
+> And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!”
+
+Here **every creature in heaven and on earth and under the earth and in the sea**, worship God and **the Lamb**, Jesus. This shows that Jesus is worshipped, and also that he is not part of the category of "created beings". He is uncreated and eternal.
+
 ## Revelation 22:12,13 
 
 > 12 “Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done. 13 I am the Alpha and the Omega, the first and the last, the beginning and the end.”
@@ -818,6 +824,9 @@ In this verse whoever **faithful unto death** will receive **the crown of life**
 This passage is about Jesus, because Jesus is the one who is **coming soon**. **To repay each one for what he has done** is a reference to scriptures like [Isaiah 40:10](#isaiah-4010); [Lamentations 3:64](#lamentations-364); [Hosea 12:2](#hosea-122), which is what God will do. This is evidence that Jesus is God.
 
 **[The First and the Last](#the-first-and-the-last)** is a divine title that only apply to the eternal God. In [Revelation 1:17](#revelation-117);[2:8](#revelation-28) and here, Jesus applies it to himself. In this verse we also see that synonymous titles the Alpha and Omega, as well as the Beginning and the End. These are all divine titles of God applied to Jesus.
+
+
+
 
 # Titles of God
 
