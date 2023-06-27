@@ -7,15 +7,7 @@ The Trinity Doctrine is probably the most misunderstood and attacked Christian d
  
 (This list will be continually expanded.)
 
-## Quick links
-
-- [List of scriptures](#the-trinity-in-the-bible)
-
-End notes:
-
-- [Titles of God](#titles-of-god)
-- [Attributes of God](#attributes-of-god)
-- [Other phrases and idioms](#other-phrases-and-idioms)
+[TOC]
 
 [ ![](https://i.ibb.co/L1tQLBP/Trinity-Shield-With-Legend.png) ](https://i.ibb.co/HqzNWR2/Trinity-Shield-With-Legend.png)
 
@@ -422,6 +414,12 @@ Jesus wasn't literally named Immanuel. Matthew means that this name applies to J
 > But Jesus, knowing their thoughts, said, “Why do you think evil in your hearts?
 
 Jesus is **knowing their thoughts** because he is omniscient, having the ability to know anything and everything. This is an attribute of God. See [Omniscience](#omniscience)
+
+## Matthew 9:38
+
+> therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
+
+in Matthew 13, it makes clear that the Lord of the Harvest is Jesus. Here Jesus is telling us to pray to him. Jesus accepts prayer because he is God.
 
 ## Matthew 14:25 
 
