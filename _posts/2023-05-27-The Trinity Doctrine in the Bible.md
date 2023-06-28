@@ -7,6 +7,8 @@ The Trinity Doctrine is probably the most misunderstood and attacked Christian d
  
 (This list will be continually expanded.)
 
+[Jump straight to the scriptures...](#the-trinity-in-the-Bible)
+
 [TOC]
 
 [ ![](https://i.ibb.co/L1tQLBP/Trinity-Shield-With-Legend.png) ](https://i.ibb.co/HqzNWR2/Trinity-Shield-With-Legend.png)
@@ -726,6 +728,8 @@ God the Father calls Jesus "God".
 > But **of the Son** he says,... 10 And, “You, Lord, laid the foundation of the earth in the beginning, and the heavens are the work of your hands; 11 they will perish, but you remain; they will all wear out like a garment, 12 like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end.”
 
 Paul quotes [Psalm 102](#psalm-10225-27) which talks about Jehovah, and he applies it to Jesus. Jesus is the one who laid the foundation of the earth, because Jesus is Jehovah.
+
+This also proves Jesus is the creator, which means that he is eternal. and if he is eternal then he is God.
 
 ## Hebrews 2:5
 
