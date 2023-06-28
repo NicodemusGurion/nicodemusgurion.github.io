@@ -809,6 +809,20 @@ In this verse whoever **faithful unto death** will receive **the crown of life**
 
 **He who searches minds and hearts** is a reference to the old testament in passages such as [Jeremiah 17:10](#jeremiah-1710)  where it says that Jehovah searches the mind, and try the heart and who give to every man according to his ways. This shows that Jesus claims to be the same as Jehovah in these passages, which proves the deity of Christ.
 
+## Revelation 4:8 
+
+> And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say, “Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!”
+
+Who **is to come**? Is it God the Father? No, the one who will come is the Son, Jesus. So this entire chapter talks about Jesus and calls him **the Lord God Almighty**.
+
+## Revelation 4:11
+
+> “Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.”
+
+As described in scriptures like John 1:3; 1 Corinthians 8;6; Colossians 1:16; Hebrews 1:2, 10 etc. the o e who **created all things** is the Son, Jesus. So this verse, and the rest of the chapter talks about Jesus as God.
+
+Furthermore, if this was about God the Father, from whom would he **receive power**? He is not dependent upon anyone. However God the Son is eternally begotten of the Father and thus receives his power from God the Father. So this verse and the whole chapter is about God the Son.
+
 ## Revelation 5:13
 
 > And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!”
