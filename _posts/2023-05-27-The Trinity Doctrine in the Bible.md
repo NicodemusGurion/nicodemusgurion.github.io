@@ -83,7 +83,7 @@ The name Adam means Humanity, and it is the name of all of humanity but also of 
 This proves and illustrates the plurality of God.
 
 
-### "God was talking to the angels"
+**"God was talking to the angels"**
 
 The angels have no part in the creation process. The only one who has part in the creation, the only creator, is God himself. So saying "Let us create" to someone who has no ability to create anything would be pointless and taunting.
 
@@ -526,7 +526,7 @@ Here it emphasizes that God is both invisible and visible. God the Father is inv
 
 What Jesus said was no mistake but deliberately meant to make people believe he is equal in substance with God, in other words that he is God.
 
-# John 5:23 
+## John 5:23 
 
 > that all may honor the Son, just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him.
 
@@ -548,7 +548,7 @@ The phrase "I am" is a direct reference to the name of God revealed to Moses in 
 
 The reaction of the Jews to Jesus' statement in John 8:59 confirms their understanding of its significance. By using the same phrase that God used to reveal His name to Moses, Jesus was unmistakably identifying himself as God. They **picked up stones to throw at him**, which was a punishment for blasphemy under Jewish law. They understood Jesus to be claiming equality with God, an assertion that they considered blasphemous and deserving of death.
 
-### "Jesus just used weird grammar" / "Jesus only meant he had existed for a long time"
+**"Jesus just used weird grammar" / "Jesus only meant he had existed for a long time"**
 
 It is important to consider the context of the passage. The claim that Jesus used unusual grammar, or that he merely meant he had existed for a long time, does not adequately explain the reaction of the Jews or the significance of his statement. Their reaction was one of extreme offense. They immediately sought to stone him for what they perceived as blasphemy. Neither the use of unusual grammar nor claiming to be thousands of years old were crimes that warranted stoning according to the Mosaic law. However claiming to be divine would warrant stoning. This strong reaction suggests that they understood Jesus' words as a claim to deity, rather than simply a matter of grammar.
 
