@@ -536,7 +536,7 @@ The Word, Jesus, is the creator of the universe. **All things were made through 
 
 > The true light, which gives light to everyone, was coming into the world.
 
-Jesus is the true light. This is a title of God. See 1 John 1:5;
+Jesus is the true light. This is a title of God. See Matthew 4:16; John 1:4,5; 3:19; 8:12; 9:5; 12:35,46; 1 John 1:5; 2:8; 
 
 
 ## John 1:18 
