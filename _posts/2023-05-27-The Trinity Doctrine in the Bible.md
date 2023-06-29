@@ -532,6 +532,13 @@ The original greek grammar is hard to convey here. Greek sometimes use nouns as 
 
 The Word, Jesus, is the creator of the universe. **All things were made through him**. As the second person of God he has been tasked with God's interaction with the physical world since the beginning, even creating the universe itself. is there anything that has been created that Jesus did not create? No, for it continues to emphasize **without him was not any thing made that was made.** This logically means that the Word, the second person of God, is not himself a created being, but an eternal, uncreated being without a beginning in time.
 
+## John 1:9
+
+> The true light, which gives light to everyone, was coming into the world.
+
+Jesus is the true light. This is a title of God. See 1 John 1:5;
+
+
 ## John 1:18 
 
 > No one has ever seen God; the only God, who is at the Father’s side, he has made him known.
@@ -543,6 +550,12 @@ Here it emphasizes that God is both invisible and visible. God the Father is inv
 > This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, **making himself equal with God.**
 
 What Jesus said was no mistake but deliberately meant to make people believe he is equal in substance with God, in other words that he is God.
+
+## John 5:21
+
+> For as the Father raises the dead and gives them life, so also the Son gives life to whom he will.
+
+Only God has power over life and death. In the exact same way that God the Father has power over life and death, so God the Son has power over life and death. Jesus is making himself equal to the Father.
 
 ## John 5:23 
 
