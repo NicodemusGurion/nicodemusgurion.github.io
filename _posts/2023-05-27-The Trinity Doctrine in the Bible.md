@@ -532,11 +532,6 @@ The original greek grammar is hard to convey here. Greek sometimes use nouns as 
 
 The Word, Jesus, is the creator of the universe. **All things were made through him**. As the second person of God he has been tasked with God's interaction with the physical world since the beginning, even creating the universe itself. is there anything that has been created that Jesus did not create? No, for it continues to emphasize **without him was not any thing made that was made.** This logically means that the Word, the second person of God, is not himself a created being, but an eternal, uncreated being without a beginning in time.
 
-## John 1:9
-
-> The true light, which gives light to everyone, was coming into the world.
-
-Jesus is the true light. This is a title of God. See Matthew 4:16; John 1:4,5; 3:19; 8:12; 9:5; 12:35,46; 1 John 1:5; 2:8; 
 
 
 ## John 1:18 
