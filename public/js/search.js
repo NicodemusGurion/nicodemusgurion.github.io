@@ -1,4 +1,4 @@
-  var SearchDatabase;
+var SearchDatabase;
 	function loadDatabase() //load database if not loaded
 	{
 		if (SearchDatabase === undefined)
@@ -20,6 +20,7 @@
 		document.querySelector('#searchQuery').focus(); //put focus on the input field
 		searchInDatabase(newQuery); //execute the query
 	}
+  
   function searchInDatabase(query) //search for a query text
   {
     if (SearchDatabase === undefined) //make sure db is loaded
@@ -28,6 +29,7 @@
   	  return;
     }
 	var queryWords = query.toLowerCase().trim().replace(/[\'\’\ʹ\·]/gi, "").split(" "); //prep query words by splitting
+
     if (query.trim().length == "" || queryWords.length == 0) //on empty query, show no result box
     {
       document.querySelector("#searchResults").style.display ="none";
@@ -64,20 +66,21 @@
     if (Object.keys(foundMatches).length === 0)
     {
     	for (queryWord of suggestedWords) //loop thru suggested word list
-	  	{
-			  if (queryWord in SearchDatabase.searchdata) //check if the word exists in the db
-			  {    	
-				  for(pageIndex of SearchDatabase.searchdata[queryWord])
-				  {
-					  foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
-					  if (SearchDatabase.postlist[pageIndex].title.toLowerCase().includes(queryWord)) //if the word is even found in the title...
-					  {
-					  	foundMatches[pageIndex] = 2 + (foundMatches[pageIndex] || 0); //increase the score even more because that's good stuff
-				  	}
-			  	}
-		  	}
-	   	}
-		  output += "<small>(No exact matches. Result is based on suggested words.)</small>";
+		{
+			if (queryWord in SearchDatabase.searchdata) //check if the word exists in the db
+			{    	
+				for(pageIndex of SearchDatabase.searchdata[queryWord])
+				{
+					foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
+					if (SearchDatabase.postlist[pageIndex].title.toLowerCase().includes(queryWord)) //if the word is even found in the title...
+					{
+						foundMatches[pageIndex] = 2 + (foundMatches[pageIndex] || 0); //increase the score even more because that's good stuff
+					}
+				}
+			}
+		}
+		
+		output += "<sub>(No exact matches. Result is based on suggested words.)</sub>";
     }
     console.log(foundMatches);
 
@@ -87,16 +90,15 @@
     }
     else
     {
-		  const fm_arr = Object.entries(foundMatches); //sort the results according to how many points it scored.
-		  fm_arr.sort((a, b) => b[1] - a[1]);
-		  //generate a html list of the results
-		  output += "<ul>";
-		  for (const [key, value] of fm_arr) 
-      {
-	  		let thumb = (SearchDatabase.postlist[key].thumb != null ? "<img src=\"" + SearchDatabase.postlist[key].thumb + "\" class=\"featured-thumbnail-mini\" />": "")
-		  	output += "<li>" + thumb + "<a href=\"" + SearchDatabase.postlist[key].url + "\">" + SearchDatabase.postlist[key].title + "</a></li>";  	
-		  }
-		  output += "</ul>";
+		const fm_arr = Object.entries(foundMatches); //sort the results according to how many points it scored.
+		fm_arr.sort((a, b) => b[1] - a[1]);
+		//generate a html list of the results
+		output += "<ul>";
+		for (const [key, value] of fm_arr) {
+			let thumb = (SearchDatabase.postlist[key].thumb != null ? "<img src=\"" + SearchDatabase.postlist[key].thumb + "\" class=\"featured-thumbnail-mini\" />": "")
+			output += "<li>" + thumb + "<a href=\"" + SearchDatabase.postlist[key].url + "\">" + SearchDatabase.postlist[key].title + "</a></li>";  	
+		}
+		output += "</ul>";
     }
     if (suggestedWords.length > 0) //if there was an incomplete last word and there were similar words found, make a short list of them
     {
