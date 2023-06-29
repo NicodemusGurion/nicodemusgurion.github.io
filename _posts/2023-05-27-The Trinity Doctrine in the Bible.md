@@ -349,6 +349,14 @@ God is the one who blots out transgressions, and no one else. He is the only one
 
 **[The First and the Last](#the-first-and-the-last)** is a unique title of God which emphasizes his eternity. In [Revelation 1:17](#revelation-117);[2:8](#revelation-28) Jesus calls himself by this title, thus claiming that he is the eternal God.
 
+This scripture also emphasizes the monotheism of the Bible: "**besides me there is no god**". This rules out heresies like Arianism which teaches that the Son of God, Jesus, is a divine being, "a god", created by God. Isaiah rejects this idea.
+
+## Isaiah 44:8
+
+> Fear not, nor be afraid; have I not told you from of old and declared it? And you are my witnesses! Is there a God besides me? There is no Rock; I know not any.”
+
+The trinity doctrine is strictly monotheistic. There is no **God besides** Yahweh, he **knows not any**. This rules out heresies like Arianism which teaches that the Son of God, Jesus, is a divine being, "a god", created by God. Isaiah rejects this idea.
+
 ## Isaiah 45:23 
 
 > By myself I have sworn; from my mouth has gone out in righteousness a word that shall not return: ‘**To me every knee shall bow, every tongue shall swear allegiance**.’
