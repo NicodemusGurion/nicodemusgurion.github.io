@@ -329,6 +329,12 @@ This shows that God is **the first and the last**. This is who Jesus said that h
 
 Jehovah God gives his glory to no other. Yet in scriptures like [John 5:23](#john-523), [Matthew 16:27](#matthew-1627), and [2 Peter 1:17](#2-peter-117), The Son, Jesus, is glorified by the Father and humans with equal glory to the Father. Since Jehovah gives his glory to no other, it means that Jesus is no other than Jehovah. This proves the deity of Christ.
 
+## Isaiah 43:10
+
+> “You are my witnesses,” declares the LORD, “and my servant whom I have chosen, that you may know and believe me and understand that I am he. Before me no god was formed, nor shall there be any after me.
+
+The trinity doctrine us stricty monotheistic. There is only one God. **Before** him **no god was formed, nor shall there be any after** him. This rules out heresies like Arianism which teaches that the Son of God, Jesus, is a divine being, "a god", created by God. Isaiah rejects this idea.
+
 ## Isaiah 43:25 
 
 > “I, I am he who blots out your transgressions for my own sake, and I will not remember your sins.
