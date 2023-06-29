@@ -855,13 +855,13 @@ Here **every creature in heaven and on earth and under the earth and in the sea*
 
 This follows the scene in 13 and it shows that the 24 elders fell down and worshipped both God the Father and the Lamb, showing that Jesus receives worship as God.
 
-## Revelation 5:13 
+## Revelation 5:13,14
 
-> And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!”
+> And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!” 14 And the four living creatures said, “Amen!” and the elders fell down and worshiped.
 
 Here we have **every creature in heaven and on earth and under the earth and in the sea**, which is emphasizing every single living thing that has been created. And **all** of them are worshiping God **and the Lamb**. 
 
-This means that the Lamb, that is Jesus Christ, receives wirship as God. It also means that Jesus is not among any creatures, that he is not a created being. And as an uncreated being he is eternal, and therefore God.
+This means that the Lamb, that is Jesus Christ, is **worshiped**  as God. It also means that Jesus is not among any creatures, that he is not a created being. And as an uncreated being he is eternal, and therefore God.
 
 ## Revelation 22:12,13 
 
