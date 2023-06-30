@@ -632,6 +632,12 @@ What a perfect time for Jesus to correct Thomas if Thomas was wrong in calling h
 
 [See The Cloud Rider](#the-cloud-rider)
 
+## Acts 5:3-4 
+
+> 3 But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back for yourself part of the proceeds of the land? 4 While it remained unsold, did it not remain your own? And after it was sold, was it not at your disposal? Why is it that you have contrived this deed in your heart? You have not lied to man but to God.”
+
+This scripture proves that the Holy spirit is both a person and divine. Ananias tried to **lie to the Holy Spirit**. Lying is something you can only do to a person. It is meaningless to lie to a thing or a force, because they do not have a mind that could possibly be fooled. But the Holy Spirit has a mind that someone might think could be fooled. It also shows that the person of the Holy Spirit is divine, or God, because in the same utterance Peter says that Ananias has lied to God. Lying to the person of the Holy Spirit equals lying to God, because the Holy Spirit is God.
+
 ## Acts 9:14 
 
 > And here he has authority from the chief priests to bind all who call on your name.”
