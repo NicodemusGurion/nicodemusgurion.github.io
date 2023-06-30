@@ -682,6 +682,18 @@ See [Calling on the name of...](#calling-on-the-name-of)
 
 God is the one who [The one who repays deeds](#the-one-who-repays-deeds). However this description is also used about Jesus in [Matthew 16:27](#matthew-1627) and [Revelation 22:12,13](#revelation-221213), proving the deity of Christ.
 
+## Romans 8:9 
+
+> You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him.
+
+This verse equates the **the Spirit of God** with **the Spirit of Christ** pretty much in the same breath. This shows that Paul saw Jesus as equal to God, using "God" and "Christ" interchangeably. Since the Father and the Son have the same spirit, these three are united in essence.
+
+## Romans 8:16 
+
+> The Spirit himself bears witness with our spirit that we are children of God,
+
+The Holy Spirit **bears witness with our spirit** shows that he communicates with our spirit. Communicating is something only persons can do, and if our spirit man is our person, then the Holy Spirit is a person of God.
+
 ## Romans 14:11 
 
 > for it is written, “As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.”
@@ -726,6 +738,12 @@ This verse also says that **through [Jesus Christ] are all things**, which shows
 Paul had a "thorn in the flesh", some sort of physical ailment. So he prayed about it. Who is **the Lord** Paul prayed to? **The Lord** told him "**my power is made perfect in weakness**". The power of **the Lord** helped Paul cope. Paul says that this power was **the power of Christ**. Hence Jesus Christ is the Lord that Paul prayed to three times about his thorn.
 
 This proves that Jesus accepts prayer and that he is [omniscient](#omniscience), two attributes only God has.
+
+## Galatians 4:6 
+
+> And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!”
+
+The spirit that is in the heart of a believer is the Holy Spirit of God. (Rom 8:9; 2 Cor 1:22; 3:3) So the spirit of Jesus is identical to the spirit of God, which shows that Jesus is God. It also says that the Holy Spirit is **crying, “Abba! Father!”**, which shows that the Holy Spirit can communicate, and he has a personal relationship with God the Father.
 
 ## Philippians 2:5-7 
 
