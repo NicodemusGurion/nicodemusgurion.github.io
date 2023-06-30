@@ -694,6 +694,18 @@ This verse equates the **the Spirit of God** with **the Spirit of Christ** prett
 
 The Holy Spirit **bears witness with our spirit** shows that he communicates with our spirit. Communicating is something only persons can do, and if our spirit man is our person, then the Holy Spirit is a person of God.
 
+## Romans 8:26 
+
+> Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.
+
+This verse says **the Spirit himself intercedes for us**, which shows that the Holy Spirit makes a decision to intercede, that is to help us out in our prayers to God, praying for us. Praying is communication with God. This shows that the Holy Spirit is a person who can make a decision and can communicate.
+
+## Romans 8:27 
+
+> And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.
+
+**He who searches hearths** is a divine attribute of God.
+
 ## Romans 14:11 
 
 > for it is written, “As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.”
