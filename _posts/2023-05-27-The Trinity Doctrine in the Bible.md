@@ -771,6 +771,12 @@ In Jesus, **the whole fullness of deity dwells**. **The fullness of deity** mean
 
 Jesus is called **our Great God and Savior** by the apostle Paul. This is what the first Christians believed.
 
+## Hebrews 1:2 
+
+> but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
+
+If the Son is **the heir of all things**, meaning all created things, and he himself is created, does he inherit himself? Of course not, because Jesus is not created. He is the uncreated creator, the person of God **through whom...he created the world**. 
+
 ## Hebrews 1:3 
 
 > He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,
