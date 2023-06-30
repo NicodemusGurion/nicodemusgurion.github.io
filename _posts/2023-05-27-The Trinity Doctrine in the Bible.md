@@ -781,6 +781,12 @@ God did not subject the world to angels, but the world is subjected to Jesus, wh
 
 In this analogy Jesus is greater than Moses just like the builder of a house is greater than the house. Jesus is put in the creator role, and Moses in the creature role. This is in line with scriptures like [John 1:3](#john-13), [10](#john-110); [1 Corinthians 8:6](#1-corinthians-86); [Colossians 1:16](#colossians-116); [Hebrews 1:2](#hebrews-12), [10](#hebrews-110); [11:3](#hebrews-113); which all shows that Jesus is the creator of the universe. This verse builds on this analogy by saying that **the builder of all things** - the creator of the universe - **is God.** In other words, Jesus is God.
 
+## Hebrews 9:14 
+
+> how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God.
+
+This verse proves that the Holy Spirit is **eternal**, which is an attribute of God. It shows that the Holy Spirit is God.
+
 ## James 1:12 
 
 > Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him.
@@ -892,9 +898,6 @@ This means that the Lamb, that is Jesus Christ, is **worshiped**  as God. It als
 This passage is about Jesus, because Jesus is the one who is **coming soon**. **To repay each one for what he has done** is a reference to scriptures like [Isaiah 40:10](#isaiah-4010); [Lamentations 3:64](#lamentations-364); [Hosea 12:2](#hosea-122), which is what God will do. This is evidence that Jesus is God.
 
 **[The First and the Last](#the-first-and-the-last)** is a divine title that only apply to the eternal God. In [Revelation 1:17](#revelation-117);[2:8](#revelation-28) and here, Jesus applies it to himself. In this verse we also see that synonymous titles the Alpha and Omega, as well as the Beginning and the End. These are all divine titles of God applied to Jesus.
-
-
-
 
 # Titles of God
 
