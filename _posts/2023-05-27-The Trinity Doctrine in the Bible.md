@@ -604,7 +604,15 @@ Here Jesus claims equaity with God. If you see Jesus you see God, because Jesus 
 
 > (ESV/NASB20/CSB) “If you ask me anything in my name, I will do it.
 
-In John 14:14 the greek text contains a "me" that some translations leave out. The greek says "ἐάν τι αἰτήσητέ **με** ἐν τῷ ὀνόματί μου ἐγὼ ποιήσω". This means Jesus commands us tonpray to him in his name. Jesus receives prayer because he is [omniscient](#omniscience), and since he is [omnipotent](#omnipotence) he can also do whatever is asked. This is something only God can do, which proves that Jesus is the second person of God.
+In John 14:14 the greek text contains a "me" that some translations leave out. The greek says "ἐάν τι αἰτήσητέ **με** ἐν τῷ ὀνόματί μου ἐγὼ ποιήσω". This means Jesus commands us to pray to him in his name. Jesus receives prayer because he is [omniscient](#omniscience), and since he is [omnipotent](#omnipotence) he can also do whatever is asked. This is something only God can do, which proves that Jesus is the second person of God.
+
+## John 14:28 
+
+> You heard me say to you, ‘I am going away, and I will come to you.’ If you loved me, you would have rejoiced, because I am going to the Father, for the Father is greater than I.
+
+This verse is one that unitarians and Arians ofteb quote to try to show that Jesus is not God, but actually it shows us that he is God. This verse shows the hypostatic union and the internal cooperation between the persons of the trinity. The Son is here in his incarnated human form, a period in which he "emptied himself", so called "[kenosis](https://en.m.wikipedia.org/wiki/Kenosis)". Like a seeing person can voluntarily "empty himself" of the power of sight by putting on a blindfold, so God the Son "emptied himaelf" by putting on human flesh, and therefore took on the limitations of a human. The reason why the apostles should **have rejoiced** that Jesus **going to the Father** is because **the Father is greater than** Jesus is in his state of kenosis. Only when Jesus have left his human state and retaken his full divinity can he send the Holy Spirit. "**The Father is greater than I** is nothing but a temporary situation that will soon change, and this should be a source of joy for the apostles.
+
+This verse does not show that Jesus is jot God. Ut shows that henis God and it also proves the doctrine of kenosis, the hypostatic union, and gives us insight into the inner workings of the economic trinity.
 
 ## John 16:15 
 
