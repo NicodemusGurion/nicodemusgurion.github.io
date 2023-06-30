@@ -691,6 +691,18 @@ The earliest Christians were well known everywhere as **all those who in every p
 
 See [Calling on the name of...](#calling-on-the-name-of)
 
+## 1 Corinthians 2:10 
+
+> these things God has revealed to us through the Spirit. For the Spirit searches everything, even the depths of God.
+
+This verse says that **the [Holy] Spirit searches everything, even the depths of God**, which shows that he is [omniscient](#omniscience), which is an attribute of God.
+
+## 1 Corinthians 2:11 
+
+> For who knows a person’s thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God.
+
+That **no one comprehends the thoughts of God except the Spirit of God** shows that the Holy Spirit is [omniscient](#omniscience) and a part of God, since he comprehends what is going on in the mind of God.
+
 ## 2 Corinthians 12:8-9 
 
 >Three times I pleaded with the Lord about this, that it should leave me. 9 But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.
