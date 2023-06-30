@@ -654,6 +654,12 @@ The Christians were known far and wide as **those who called upon this name**, t
 
 See [Calling on the name of...](#calling-on-the-name-of)
 
+## Acts 13:2 
+
+> While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.”
+
+In this verse the Holy Spirit speaks, refers to himself, and makes commands according to his own decisions. It shows he has a sense of self, the ability to make decisions, a will, and the ability to communicate his will. These are all abilities only persons have. He is also speaking with the authority of God.
+
 ## Acts 20:28 
 
 > Pay careful attention to yourselves and to all the flock, in which the Holy Spirit has made you overseers, to care for the church of God, which he obtained with his own blood.
@@ -702,6 +708,16 @@ This verse says that **the [Holy] Spirit searches everything, even the depths of
 > For who knows a person’s thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God.
 
 That **no one comprehends the thoughts of God except the Spirit of God** shows that the Holy Spirit is [omniscient](#omniscience) and a part of God, since he comprehends what is going on in the mind of God.
+
+## 1 Corinthians 8:6 
+
+> yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist.
+
+The title Lord as applied to Jesus in the New Testament, especially by Paul, is a divine title of God. the first Christians started the convention of using "God" for the Father, and "Lord" (originally Yahweh) for the Son.
+
+Paul is playing off of the Shema from [Deuteronomy 6:4](#deuteronomy-64), which says "Yahweh our God, Yahweh is one". In the Septuagint, the name Yahweh was rendered Kyrios or Lord. Paul is explaining that "God" from the Shema refers to the Father, and "Lord" refers to the Son, Jesus. And they are one.
+
+This verse also says that **through [Jesus Christ] are all things**, which shows that Jesus is not part of "all things", i.e. he is not created, but he is the creator. And as uncreated, he is eternal and therefore God.
 
 ## 2 Corinthians 12:8-9 
 
