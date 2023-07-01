@@ -98,6 +98,16 @@ Verse 23 also says that wisdom existed for eternity past, so that’s also a pro
 
 The part translated "Jehovah examines the motives" is actually "Jehovah examines the spirits." This may seem as a small change but it subtly hides the fact that humans do have a spiritual part which is connected to our mental faculties and decision making. The Watchtower wants a worldview that is as naturalistic and sterile as possible. Humans can't have spirits or souls that are in any way separate from their bodies. This worldview colors their word choice.
 
+# Ecclesiastes 3:22
+
+> And I saw that there is nothing better than for a man to find enjoyment in his work, because that is his **reward**; for who can enable him to see what will happen after he is gone?
+
+**Change**
+
+The word translated "reward" actualy means "portion". The meaning is that humans are forced to work to survive so we might as well try to enjoy it. But work is a curse, it is the cyrse on Adam after the fall. Work is not a reward. It is a necessary evil we must endure with grace. 
+
+The Watchtower probably change this to help their indoctrination of people to willingly work for free for their company. If people can be made to think that "work is a reward", rather than some necessary evil we must endure, then maybe they won't feel as used and abused.
+
 # Zechariah 3:1,2
 
 > Zechariah 3:1,2 — And he showed me Joshua the high priest standing before the angel of Jehovah, and Satan was standing at his right hand to resist him. 2 Then **the angel of** Jehovah said to Satan: “May Jehovah rebuke you, O Satan, yes, may Jehovah, who has chosen Jerusalem, rebuke you! Is not this one a burning log snatched out of the fire?”
