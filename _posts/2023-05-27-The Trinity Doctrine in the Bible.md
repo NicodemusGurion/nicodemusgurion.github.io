@@ -25,7 +25,7 @@ The Christian doctrine of the Trinity is the central doctrine concerning the nat
 
 ## Being God
 
-The Bible talks about God as a singular character, but it also uses the word God to describe that a person is Divine, or having the attributes of God. When God is the subject or object if a sentence, such as "God said..." or "he sinned against God", it talks about God as a singular character. But when it for example in John 1:1 says that Jesus "is God", God is rather used as a qualitative noun, almost like an adjective. Like saying "the car **is red**, Jesus **is God**". It doesn't mean that Jesus is the same **person** as God the Father, but that Jesus is of the same substance as the Father. He "is Divine", meaning he has the divine substance, and everything that is unique about God applies to Jesus.
+The Bible talks about God as a singular character, but it also uses the word God to describe that a person is Divine, or having the attributes of God. When God is the subject or object if a sentence, such as "God said..." or "he sinned against God", it talks about God as a singular character. But when it for example in John 1:1 says that Jesus "is God", God is rather used as a qualitative noun, almost like an adjective. Like saying "the car **is red**, Jesus **is God**". The car participates in Redness, and Jesus participates in Divinity. It doesn't mean that Jesus is the same **person** as God the Father, but that Jesus is of the same substance as the Father. He "is Divine", meaning he has the divine substance, and everything that is unique about God applies to Jesus.
 
 ## Role v.s. substance
 
