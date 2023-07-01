@@ -266,6 +266,12 @@ This whole pasaage is about how Job was looking forwards to "**see God..for myse
 
 This scripture tellsnus that Jehovah God is the highest over all the earth. [Philippians 2:10-11](#philippians-210-11) shows that Jesus is the one who is the most high over all the earth.
 
+## Psalms 89:9 
+
+> You rule the raging of the sea; when its waves rise, you still them.
+
+Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-439-41) and [Matthew 8:26,27](#matthew-82627) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
+
 ## Psalm 102:25-27 
 
 > Of old you [Jehovah] laid the foundation of the earth, and the heavens are the work of your hands. 26 They will perish, but you will remain; they will all wear out like a garment. You will change them like a robe, and they will pass away, 27 but you are the same, and your years have no end.
@@ -277,6 +283,12 @@ Paul takes this scripture about Jehovah and applies it to Jesus in [Hebrews 1:10
 He lays the beams of his chambers on the waters; **he makes the clouds his chariot; he rides on the wings of the wind**;
 
 [See The Cloud Rider](#the-cloud-rider)
+
+## Psalms 107:29 
+
+> He made the storm be still, and the waves of the sea were hushed.
+
+Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-439-41) and [Matthew 8:26,27](#matthew-82627) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
 
 ## Psalm 130:4 
 
@@ -427,6 +439,12 @@ In this verse Jehovah God says **they will look at Me whom they pierced**. How c
 
 Jesus wasn't literally named Immanuel. Matthew means that this name applies to Jesus because Jesus is "God with us".
 
+## Matthew 8:26-27
+
+> 26 And he said to them, “Why are you afraid, O you of little faith?” Then he rose and rebuked the winds and the sea, and there was a great calm. 27 And the men marveled, saying, “What sort of man is this, that even winds and sea obey him?”
+
+The answer to their question is "Jehovah". The Bible makes clear in scriptures like [Psalm 89:9](#psalm-899) and [107:29](#psalm-10729) that Jehovah is the one who has the power over the weather to calm the storm.
+
 ## Matthew 9:4 
 
 > But Jesus, knowing their thoughts, said, “Why do you think evil in your hearts?
@@ -490,6 +508,11 @@ This shows that Jesus is omnipresent, having the ability to be anywhere. This is
 
 When the scribes get upset and accuse Jesus of blasphemy because Jesus forgives sins. This is something only God can do. See [Daniel 9:9](#daniel-99), [Psalm 130:4](#psalm-1304) and [Isaiah 43:25](#isaiah-4325) for example. This proves the deity of Jesus.
 
+## Mark 4:39-41 
+
+> 39 And he awoke and rebuked the wind and said to the sea, “Peace! Be still!” And the wind ceased, and there was a great calm. … 41 And they were filled with great fear and said to one another, “Who then is this, that even the wind and the sea obey him?”
+
+The answer to their question is "Jehovah". The Bible makes clear in scriptures like [Psalm 89:9](#psalm-899) and [107:29](#psalm-10729) that Jehovah is the one who has the power over the weather to calm the storm.
 
 ## Mark 6:48 
 
@@ -788,6 +811,12 @@ Jesus is the image of the invisible God. God the Father, the invisible God, stil
 Jesus, the second person of God, **created all things** without exception. He is not himself created but eternally uncreated. To emphasize this, Paul lists "in heaven and on earth" which isnidiomatic for "everything, **visible and invisible** not leaving out the spirit world. **Thrones, doninions, rulers, authorities** are ranks of spirit beings, so Jesus is the origin of their existence and authority too. God created everything **through him and for him**. The second person being the active agent of creation and also the main reason for the universe to exist. The universe was created **by** him, **through** him, and **for** him. He is the instigator, the means and the end.
 
 Jesus is therefore eternal and fully divine.
+
+## Colossians 1:19 
+
+> For in him all the fullness of God was pleased to dwell,
+
+*All the fulness of God...dwells** in Jesus, and this pleases God. So Jesus has the fulness of what it means to be God.
 
 ## Colossians 2:9  
 
