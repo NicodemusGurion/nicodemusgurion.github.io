@@ -7,8 +7,6 @@ The Trinity Doctrine is probably the most misunderstood and attacked Christian d
  
 (This list will be continually expanded.)
 
-[Jump straight to the scriptures...](#the-trinity-in-the-Bible)
-
 [TOC]
 
 [ ![](https://i.ibb.co/L1tQLBP/Trinity-Shield-With-Legend.png) ](https://i.ibb.co/HqzNWR2/Trinity-Shield-With-Legend.png)
@@ -22,8 +20,6 @@ The Christian doctrine of the Trinity is the central doctrine concerning the nat
 [^cosubstantial]: Consisting of the same substance or essence. Substance is whatever makes a being what it is. For example the human substance is what makes a person human.
 [^hypostasis]: Hypostasis means a person, the identity and conscious personhood of someone. It is what answers the question "Who is it?"
 [^ousia]: Ousia, often translated being, essence, substance or nature, is the essential being of something. It answers the question "What is it?" Humans have the human ousia. Dogs have the canine ousia. Cats have the feline ousia. God has the divine ousia.
-
-
 
 ## Common misunderstandings
 
@@ -1140,14 +1136,29 @@ These are the main points of the trinity doctrine and lists the scriptures that 
 
 The trinity doctrine is strictly monotheistic. Unlike forms of unitarianism oike Arianism which implies that there are several gods of different levels of gidhood, the trinity doctrine affirms that there is only one almighty, all knowing, ever-present, eternal creator God. Anyone else calling thenselves "god" are not true gods, but this is merely an etymological mistake because of overlapping terms. See ]The Divine Council](#the-divine-council) for example.
 
-
-## God consists of three persons
-## Each divine person is fully God
 ## The Father is God
-## The Son is God.
-## The Holy Spirit is God.
-## These are equal in their substance
-## These have different roles
+
+This point is rarely contested, but here are some scriptures showing this: 1 Corinthians 8:6; Galatians 1:1; Ephesians 6:23; Colossians 1:3;3:17 1 Thessalonians 1:1,2; 1 Timothy 1:2; 2 Timothy 1:2; Titus 1:4; 1 Peter 1:2; 2 Peter 1:17; 2 John 3; Jude 1.
+
+## The Son is God
+
+This is the biggest hurdle for unitarians to overcome. But the Bible shows that the Son has attributes only God has, such as eternality, omnipotence, omniscience, and omnipresence. He also bears titles that belong only to God.
+
+
+
+## The Holy Spirit is a person
+
+Some have trouble seeing the Holy Spirit as a person, thinking he is just some immpersonal force. But the Bible consistently desvribes him as a person, doing things only persons can do, such as think, feel, have a will, communicate, and so on.
+
+
+## The Holy Spirit is God
+
+This ought to be less contested, since God is spirit, so the spirit must be God.
+
+
+
+## They are equal in their substance
+## They have different roles
 ## The Son took on a human substance
 ## The Son emptied himself
 ## The Son is still a man
