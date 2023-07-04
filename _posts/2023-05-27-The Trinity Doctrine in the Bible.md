@@ -21,7 +21,8 @@ The Christian doctrine of the Trinity is the central doctrine concerning the nat
 [^coeternal]: All if the are eternal. None has a beginning nor an end. 
 [^cosubstantial]: Consisting of the same substance or essence. Substance is whatever makes a being what it is. For example the human substance is what makes a person human.
 [^hypostasis]: Hypostasis means a person, the identity and conscious personhood of someone. It is what answers the question "Who is it?"
-[^ousia]: Ousia, often translated being, essence, substance or nature, is the essential being of something. It answers the question "What is it?" Humans have the human ousia. Dogs have the canine ousia. Cats have the feline ousia. God has the divine ousia. 
+[^ousia]: Ousia, often translated being, essence, substance or nature, is the essential being of something. It answers the question "What is it?" Humans have the human ousia. Dogs have the canine ousia. Cats have the feline ousia. God has the divine ousia.
+
 
 ## Being God
 
@@ -1122,4 +1123,22 @@ According to Segal, the Two Powers in Heaven doctrine can be understood as follo
 
 Segal argues that the Two Powers in Heaven doctrine emerged within certain Jewish circles. This belief system reflects a complex understanding of the divine realm, acknowledging both God's ultimate sovereignty and the existence of an intermediary figure who participates in divine authority. A primary Jehovah and a secondary Jehovah, both being Jehovah.
 
+# Scriptures by topic
 
+These are the main points of the trinity doctrine and lists the scriptures that support them. Seenindividual scriptures for more information.
+
+## There is only one God
+
+The trinity doctrine is strictly monotheistic. Unlike forms of unitarianism oike Arianism which implies that there are several gods of different levels of gidhood, the trinity doctrine affirms that there is only one almighty, all knowing, ever-present, eternal creator God. Anyone else calling thenselves "god" are not true gods, but this is merely an etymological mistake because of overlapping terms. See ]The Divine Council](#the-divine-council) for example.
+
+
+## God consists of three persons
+## Each divine person is fully God
+## The Father is God
+## The Son is God.
+## The Holy Spirit is God.
+## These are equal in their substance
+## These have different roles
+## The Son took on a human substance
+## The Son emptied himself
+## The Son is still a man
