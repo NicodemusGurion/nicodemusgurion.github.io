@@ -15,7 +15,7 @@ The Trinity Doctrine is probably the most misunderstood and attacked Christian d
 
 # The Trinity: Definitions and common misunderstanding
 
-The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases[^hypostasis]) sharing one being/essence/substance/nature (ousia[^ousia]). In this context, one being/essence/substance/nature defines **what** God is, while the three persons define **who** God is. Since *what* someone is and *who* someone is are two distinct concepts there is no contradiction in the idea that God is one being with three persons.
+The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases[^hypostasis]) sharing one being/essence/substance/nature (ousia[^ousia]). 
 
 [^coequal]: Being equal in essence. No one is more of less "God", however in the cooperation between the persons of God, there is a certain hierarchy of authority and responsibility.
 [^coeternal]: All if the are eternal. None has a beginning nor an end. 
@@ -24,29 +24,6 @@ The Christian doctrine of the Trinity is the central doctrine concerning the nat
 [^ousia]: Ousia, often translated being, essence, substance or nature, is the essential being of something. It answers the question "What is it?" Humans have the human ousia. Dogs have the canine ousia. Cats have the feline ousia. God has the divine ousia.
 
 
-## Being God
-
-The Bible talks about God as a singular character, but it also uses the word God to describe that a person is Divine, or having the attributes of God. When God is the subject or object if a sentence, such as "God said..." or "he sinned against God", it talks about God as a singular character. But when it for example in John 1:1 says that Jesus "is God", God is rather used as a qualitative noun, almost like an adjective. Like saying "the car **is red**, Jesus **is God**". The car participates in Redness, and Jesus participates in Divinity. It doesn't mean that Jesus is the same **person** as God the Father, but that Jesus is of the same substance as the Father. He "is Divine", meaning he has the divine substance, and everything that is unique about God applies to Jesus.
-
-## Role v.s. substance
-
-While the Father, the Son and the Holy Spirit are equal in their substance, what it means to be God, they are not equal in other areas. As the name implies, the Father and Son are in an unequal relationship. The Father begets the Son and the Son is begotten of the Father. So the Son is dependent upon the Father for his existence, but the Father is not dependent upon the Son for his existence.
-
-Furthermore as in a household, each member of the trinity is in an unequal role to one another. The Father holds the higest authority. The Son and Holy Spirit obeys the Father. The Son is the mediator with mankind, and the savior, and therefore took on a [secondary human nature.](#the-hypostatic-union) The Holy Spirit does a lot of supportive heavy oifting. He creates, empowers, comforts, guides, helps, and draws people to Christ. The Father is the unbegotten cause. The Son is eternally begotten. The Holy Spirit eternally proceeds from the Father.
-
-The relationship is complex and deep, but through it God can be all things in all situations, and do anything in a harmonious loving way. This eternal loving relationship between three persons is how John could say "God is Love". ([1 John 4:8](#1-john-48))
-
-## Eternally begotten
-
-The Son is "eternally begotten". Begotten means that The Son has his origin in The Father, and his substance, what he consists of, comes from The Father. However "begotten" suggests a beginning in time. The Son is however the creator of all things, including time, so his begetting is beyond time, and is tgerefore eternal. In other words there has never been a time in which The Son has not existed. He is eternal like the Father.
-
-## Eternally proceeding
-
-Like the Son is eternally begotten, so the Holy Spirit is eternally proceeding. Like an eternal stream he proceeds from the Father to do his will. 
-
-## Hypostatic union
-
-The second person of God took on human flesh and became a true human. in doing so he added a secondary substance to his person. He is therefore a partaker of the sivine substance and the human substance. He is fully God and fully Man. (However the persons of the Father and the Holy Spirit do not partake of the human substance.) This is called the **Hypostatic Union**, the Union of two *Ousia* in one *Hypostasis* and is the reason only Jesus can be the mediator between Divinity and Humanity.
 
 ## Common misunderstandings
 
@@ -992,6 +969,38 @@ This means that the Lamb, that is Jesus Christ, is **worshiped**  as God. It als
 This passage is about Jesus, because Jesus is the one who is **coming soon**. **To repay each one for what he has done** is a reference to scriptures like [Isaiah 40:10](#isaiah-4010); [Lamentations 3:64](#lamentations-364); [Hosea 12:2](#hosea-122), which is what God will do. This is evidence that Jesus is God.
 
 **[The First and the Last](#the-first-and-the-last)** is a divine title that only apply to the eternal God. In [Revelation 1:17](#revelation-117);[2:8](#revelation-28) and here, Jesus applies it to himself. In this verse we also see that synonymous titles the Alpha and Omega, as well as the Beginning and the End. These are all divine titles of God applied to Jesus.
+
+# Trinity doctrine concepts explained
+
+## "Being God"
+
+what does it mean to "be God"? The Bible talks about God as a singular character, but it also uses the word God to describe that a person is Divine, or having the attributes of God. When God is the subject or object if a sentence, such as "God said..." or "he sinned against God", it talks about God as a singular character. But when it for example in John 1:1 says that Jesus "is God", God is rather used as a *qualitative noun*, almost like an adjective. Like saying "the car **is red**, Jesus **is God**". The car participates in Redness, having the quality of being red, and Jesus participates in Divinity, having the quality of being God. It doesn't mean that Jesus is the same **person** as God the Father, but that both Jesus and the Father both participate in Divinity, the quality of being God. Just like you and I are different persons but we both participate in Humanity, the quality of being Human. Jesus "is Divine", meaning he has the divine substance, and everything that is unique about God the Father applies to Jesus too. And the Holy Spirit.
+
+## "Economic trinity"
+
+This has nothing to do with money, but the word economy comes from the Greek word for household. So the relationship between the three persons of God can be viewed as a household.
+
+While the Father, the Son and the Holy Spirit are equal in their substance, what it means to be God, they are not equal in authority and role. Just as in a human family, members have dufferent roles, but all of them are equally human. The titles Father and Son brings to mind the relationship in a family, especially an ancient oriental family, where the Father has the ultimate authority, while the adult oldest son has the role of "firstborn" or prince, excercising his father's authority over the household and its property. The Holy Spirit usually has a supportive role like that of what a wife or servant had in an ancient oriental family. Although all members are God (divine) each member have his own authority, role and general area of operation (although there is some overlap), and cooperate as one unity.
+
+The Father holds the higest authority. The Son and Holy Spirit obeys the Father. The Son is the mediator with mankind, and the savior, and therefore took on a [secondary human nature.](#the-hypostatic-union) The Holy Spirit does a lot of supportive heavy lifting. He creates, empowers, comforts, guides, helps, and draws people to Christ. The Father is the unbegotten cause. The Son is eternally begotten. The Holy Spirit eternally proceeds from the Father.
+
+The relationship is complex and deep, but through it God can be all things in all situations, and do anything in a harmonious loving way. This eternal loving relationship between three persons is how John could say "God is Love". ([1 John 4:8](#1-john-48))
+
+## Eternally begotten
+
+The Son is "eternally begotten". Begotten means that The Son has his origin in The Father, and his substance, what he consists of, comes from The Father. However "begotten" suggests a beginning in time. The Son is however the creator of all things, including time, so his begetting is beyond time, and is tgerefore eternal. In other words there has never been a time in which The Son has not existed. He is eternal like the Father.
+
+## Eternally proceeding
+
+Like the Son is eternally begotten, so the Holy Spirit is eternally proceeding. Like an eternal stream he proceeds from the Father to do his will. 
+
+## Hypostatic union
+
+The second person of God took on human flesh and became a true human. in doing so he added a secondary substance to his person. He is therefore a partaker of the sivine substance and the human substance. He is fully God and fully Man. (However the persons of the Father and the Holy Spirit do not partake of the human substance.) This is called the **Hypostatic Union**, the Union of two *Ousia* in one *Hypostasis* and is the reason only Jesus can be the mediator between Divinity and Humanity.
+
+## Kenosis 
+
+In Christian theology, kenosis (Ancient Greek: κένωσις, romanized: kénōsis, lit. 'lit. 'the act of emptying'') is the "self-emptying" of Jesus. Jesus emptied his own desires and becoming entirely receptive to God's divine will. Philippians 2:7 says that "though [Jesus] was in the form of God, [he] did not regard equality with God as something to be exploited," suggesting that Jesus was not "abusing" his divine status to avoid the implications of a mortal life. Jesus, to truly live as a mortal, had to have voluntarily bound use of his divine powers in some way, emptying himself. This explains why Jesus as a human sometimes seem to not have access to divine powers. 
 
 # Titles of God
 
