@@ -1,7 +1,7 @@
 ---
 title: "Religious and spiritual factors in depression: review and integration of the research"
 tags: [Studies]
-excerpt: "60% of studies report less depression and faster remission from depression in those more religious/spiritual or a reduction in depression severity in response to an religious/spiritual intervention.
+excerpt: "60% of studies report less depression and faster remission from depression in those more religious/spiritual or a reduction in depression severity in response to an religious/spiritual intervention."
 ---
 
 [https://pubmed.ncbi.nlm.nih.gov/22928096/](https://pubmed.ncbi.nlm.nih.gov/22928096/)
