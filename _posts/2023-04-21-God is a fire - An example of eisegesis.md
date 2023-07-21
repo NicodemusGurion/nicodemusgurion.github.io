@@ -64,7 +64,20 @@ God consumed the sacrifice of Elijah by fire.
 > 1 Kings 18:24 Then you must call on the name of your god, and I will call on the name of Jehovah. **The God who answers by fire will show that he is the true God**.” To this all the people answered: “What you say is good.” 
 
 
-> 1 Kings 18: 38 At that the fire of Jehovah fell from above and consumed the burnt offering, the pieces of wood, the stones, and the dust, and it licked up the water from the trench. 
-> 2 Kings 2:12 But E·liʹjah answered them: “If I am a man of the true God, let fire come down from the heavens and consume you and your 50 men.” And fire of God came down from the heavens and consumed him and his 50 men. 
-> Revelation 14:10 he will also drink of the wine of the anger of God that is poured out undiluted into the cup of His wrath, and he will be tormented with fire and sulfur in the sight of the holy angels and in the sight of the Lamb. 
-> Revelation 18:8 That is why in one day her plagues will come, death and mourning and famine, and she will be completely burned with fire, because Jehovah God, who judged her, is strong.
+> 1 Kings 18: 38 At that **the fire of Jehovah** fell from above and consumed the burnt offering, the pieces of wood, the stones, and the dust, and it licked up the water from the trench. 
+
+> 2 Kings 2:12 But E·liʹjah answered them: “If I am a man of the true God, let fire come down from the heavens and consume you and your 50 men.” And **fire of God** came down from the heavens and consumed him and his 50 men. 
+
+> Revelation 14:10 he will also drink of the wine of the anger of God that is poured out undiluted into the cup of His wrath, and **he will be tormented with fire** and sulfur in the sight of the holy angels and in the sight of the Lamb. 
+
+> Revelation 18:8 That is why in one day her plagues will come, death and mourning and famine, and she will be completely **burned with fire, because Jehovah God, who judged her, is strong.**
+
+# Conclusion 
+
+God is a fire, and those who worship him should do so with fiery zeal. It is most fitting to worship him by lighting candles, fireplaces, having fire festivals with fire jumping and fure jugglers. Even driving a car is a form of worship because it ignites a fire thousands of times per minute. Verily, without a fure ignited how are your prayers, which are like incense, going to reach the fiery throne of God? (Rev 5:8)
+
+# Real conclusion
+
+As you see, taking things out of context, or having a preconceived idea of what the Bible is about, will make you start looking for things that confirm your ideas. This is for example why some people deny the trinity; In their minds they think if doesn't make sense, so they go hunting for anything that might seem to go against it, never admitting that perhaps God knows better than they do. 
+
+So just let the text speak and see where it takes you.
