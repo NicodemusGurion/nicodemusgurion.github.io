@@ -211,9 +211,7 @@ This scripture proves that God is one, not three gods. The word translated "one"
 
 > Then Zedekiah the son of Chenaanah came near and struck Micaiah on the cheek and said, “Which way did the Spirit of the LORD go from me to speak to you?”
 
-This scripture reveals that the Holy Spirit speaks. Being able to independently communicate with other persons is a aign of personhood. This proves the personhood of the Holy Spirit. [^spiritperson]
-
-[^spiritperson]: These scriptures show the personhood of the Holy Spirit.
+This scripture reveals that the Holy Spirit speaks. Being able to independently communicate with other persons is a aign of personhood. This proves the personhood of the Holy Spirit.
 
 ## Nehemiah 9:5 
 
@@ -375,6 +373,12 @@ This shows that God is **the first and the last**. This is who Jesus said that h
 > Draw near to me, hear this: from the beginning I [Jehovah] have not spoken in secret, from the time it came to be I have been there. And now Jehovah has sent me, and his Spirit.
 
 In the surrounding verses, Jehovah God is speaking. However in verse 16 Jehovah suddenly says **Jehovah has sent me, and his Spirit.** So Jehovah sent Jehovah and the Spirit of Jehovah. There are three characters here, one Jehovah who sends, one Jehovah who is sent and the Spirit of Jehovah who is also sent. These are the three persons of God, the Father who sends, the Son who is sent, and the Holy Spirit who also goes out from God.
+
+## Isaiah 63:10 
+
+> But they rebelled and grieved his Holy Spirit; therefore he turned to be their enemy, and himself fought against them.
+
+This scripture says that God's Holy Spirit can be **grieved**. Having complex emotions like grief is something only persons can have. This proves the personhood of the Holy Spirit.
 
 ## Jeremiah 17:10
 
@@ -755,6 +759,12 @@ Paul had a "thorn in the flesh", some sort of physical ailment. So he prayed abo
 
 This proves that Jesus accepts prayer and that he is [omniscient](#omniscience), two attributes only God has.
 
+## 2 Corinthians 13:14 
+
+> The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.
+
+This scripture highlights the trinity, and talks about three relationships, grace, love and fellowship. Grace means tresting someone with blessing even though they don't deserve it. Love is to give if yourself for someone else. Fellowship is to have intimate communion with someone. Relationships like these are only possible between persons, so having fellowship with the Holy Spirit shows that he is a person.
+
 ## Galatians 4:6 
 
 > And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!”
@@ -804,6 +814,7 @@ Jesus is therefore eternal and fully divine.
 > For in him the whole fullness of deity dwells bodily,
 
 In Jesus, **the whole fullness of deity dwells** bodily. **The fullness of deity** means "everything that makes God God". So in Jesus dwells everything that makes God God. Whoever has everything that makes God God, is by definition God. Jesus is fully God. And the fullness if deity dwell bodily because Jesus took on a human substance.
+
 
 ## Titus 2:13 
 
