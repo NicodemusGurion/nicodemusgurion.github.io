@@ -207,6 +207,13 @@ This scripture proves that God is one, not three gods. The word translated "one"
 
 [See The Cloud Rider](#the-cloud-rider)
 
+## 2 Chronicles 18: 23
+
+> Then Zedekiah the son of Chenaanah came near and struck Micaiah on the cheek and said, “Which way did the Spirit of the LORD go from me to speak to you?”
+
+This scripture reveals that the Holy Spirit speaks. Being able to independently communicate with other persons is a aign of personhood. This proves the personhood of the Holy Spirit. [^spiritperson]
+
+[^spiritperson]: These scriptures show the personhood of the Holy Spirit.
 
 ## Nehemiah 9:5 
 
@@ -790,13 +797,13 @@ Jesus is therefore eternal and fully divine.
 
 > For in him all the fullness of God was pleased to dwell,
 
-*All the fulness of God...dwells** in Jesus, and this pleases God. So Jesus has the fulness of what it means to be God.
+**All the fulness of God...dwells** in Jesus, and this pleases God. So Jesus has the fulness of everything that it means to be God.
 
 ## Colossians 2:9  
 
 > For in him the whole fullness of deity dwells bodily,
 
-In Jesus, **the whole fullness of deity dwells**. **The fullness of deity** means "everything that makes God God". So in Jesus dwells everything that makes God God. Whoever has everything that makes God God, is by definition God. Jesus is fully God. And the fullness if deity dwell bodily because Jesus took on a human substance.
+In Jesus, **the whole fullness of deity dwells** bodily. **The fullness of deity** means "everything that makes God God". So in Jesus dwells everything that makes God God. Whoever has everything that makes God God, is by definition God. Jesus is fully God. And the fullness if deity dwell bodily because Jesus took on a human substance.
 
 ## Titus 2:13 
 
@@ -808,7 +815,7 @@ Jesus is called **our Great God and Savior** by the apostle Paul. This is what t
 
 > but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
 
-If the Son is **the heir of all things**, meaning all created things, and he himself is created, does he inherit himself? Of course not, because Jesus is not created. He is the uncreated creator, the person of God **through whom...he created the world**. 
+If the Son is **the heir of all things**. **All things** refers to all created things. If Jesus himself would be a created thing, does that mean he inherits himself? Of course not, because Jesus is not created. He is the uncreated creator, the person of God **through whom...he created the world**. 
 
 ## Hebrews 1:3 
 
