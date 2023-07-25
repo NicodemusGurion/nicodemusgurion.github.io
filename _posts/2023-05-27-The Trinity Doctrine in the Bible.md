@@ -22,9 +22,9 @@ Here is a list of scriptures that harmonize with or prove the trinity doctrine, 
 
 The cery first sentences in the Bible are ripe with trinity concepts. It says **God created the heavens and the earth**, that is, everything that exists. Later in [John 1:3](#john-1-3), [Colossians 1:15](#colossians-1-15) and [Hebrews 1:3](#hebrews-1-3) it shows that Jesus created everything that exists. 
 
-In this passage the **Spirit of God was hovering over the face of the waters** presenting it as a separate agent with a location, meaning it must somehow be corporeal[^corporeal]. This is mirrored in the Gospel account of Jesus' baptism, where the Holy Spirit comes down from heaven in physical form as a dove, hovering over the waters, signalling the new creation. ([Matthew 3:16](#matthew-316); [Mark 1:10](#mark-110); [Luke 3:2](#luke-32); [John 1:32](#john-132))This is the Third Person of God going forth to prepare this shapeless wilderness for being shaped.
+In this passage the **Spirit of God was hovering over the face of the waters** presenting it as a separate agent with a location, meaning it must somehow be corporeal[^corporeal]. This is mirrored in the Gospel account of Jesus' baptism, where the Holy Spirit comes down from heaven in physical form as a dove, hovering over the waters, signalling the new creation. ([Matthew 3:16](#matthew-3-16); [Mark 1:10](#mark-1-10); [Luke 3:2](#luke-3-2); [John 1:32](#john-1-32))This is the Third Person of God going forth to prepare this shapeless wilderness for being shaped.
 
-[^corporeal]: **Corporeal**: Having a body.
+
 
 In both accounts, **God said** something. In Genesis, **God said, “Let there be..."**. His word goes forth 10 times to create things. This is the Word of God, whch other passages explain is the Second Person of God, Jesus, doing the creating.
 
@@ -41,7 +41,6 @@ Also note what it says about humanity. "**In the image of God he created him; ma
 The name Adam means Humanity, and it is the name of all of humanity but also of the first male human. But Eve is also Adam in that she is part of humanity. The same way "God" refers to both the primary person of God, the Father, but also to divinity as a whole. Sonthe Son and the Holy Spirit are also God because they are part of Divinity.
 
 This proves and illustrates the plurality of God.
-
 
 **"God was talking to the angels"**
 
@@ -107,14 +106,11 @@ That **God went up from Abram** shows that God was with Abram in a physical loca
 
 The Bible teaches that "no one can see God and live", however in this passage Abraham experiences how **Jehovah appeared to him**. The passage reveals that Jehovah here is visible, tangible[^tangible], has location, eats food, walks, and other things a regular person would. This tells us that there is not as simple as that God is invisible and transcendental. God can also be physically present as a human on earth.
 
-
-
 Abraham bows to Jehovah and adresses him in the singular "**in your sight**", and suddenly switches to the plural "**wash your feet, and rest yourselves ... refresh yourselves**", to which Jehovah answers in the plural, "**So they said, “Do as you have said.”**"
 
 Notice also that Jehovah appears as three men. Some argue these are the Father, the Son and the Holy Spirit. I find this improbable. Others argue that this is Jehovah and two angels. That is more probable giving the overal context of the Bible. God in the Old Testament is sometimes manifested in two or even three agents, one in heaven, invisible and transcendental[^transcendental], one visible and immanent[^immanent]. In this case it is the immanent Jehovah, the second person of God, who visits Abraham.
 
-[^transcendental]: **Transcendental:** Beyond the natural world or the grasp of the senses.
-[^immanent]: **Immanent:** Existing or operating within the world.
+
 
 In any case this passage shows that God is not so simple that you can put him in a neat box. The ancient near east concept of the supernatural is not as straightforward as our western thinking would like.
 
@@ -128,44 +124,44 @@ The fact that **they ate** shows that the concept of God as transcendental[^tran
 
 [See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
-## Genesis 18:17-19
+## Genesis 18: 17-19
 
 > 17 Jehovah said, “Shall I hide from Abraham what I am about to do, 18 seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him? 19 For I have chosen him, that he may command his children and his household after him to keep the way of Jehovah by doing righteousness and justice, so that Jehovah may bring to Abraham what he has promised him.”
 
 Here, Jehovah is speaking to himself, asking himself questions. Or perhaps he is speaking with the two angels. In any case Jehovah says **I have chosen him ... so that Jehovah may bring to Abraham what he has promised him.**
 
-## Genesis 18:33 
+## Genesis 18: 33 
 
 > And Jehovah went his way, when he had finished speaking to Abraham, and Abraham returned to his place.
 
-That **Jehovah went his way** shows that he was in one physical location with Abraham, and he loved to another physical location away from Abraham. But he didn't go "up" to heaven as in [Genesis 17:22](#genesis-1722). He remained on earth, which is vital to understanding the context of [Genesis 19:24](#genesis-1924).
+That **Jehovah went his way** shows that he was in one physical location with Abraham, and he loved to another physical location away from Abraham. But he didn't go "up" to heaven as in [Genesis 17:22](#genesis-17-22). He remained on earth, which is vital to understanding the context of [Genesis 19:24](#genesis-19-24).
 
-## Genesis 19:24 
+## Genesis 19: 24 
 
 > Then Jehovah rained on Sodom and Gomorrah sulfur and fire from Jehovah out of heaven.
 
-Here we have two Jehovahs, one on earth ([see 18:33](#genesis-1833)) and one in heaven, yet there is only one Jehovah. Jehovah on earth calls down fire, and the fire comes from Jehovah in heaven. This shows that Jehovah is acting in two distinct agents, one immanent[^immanent] and one transcendental[^transcendental]. This is a key scripture in the ancient Jewish doctrine of [the Two Powers in Heaven](#the-two-powers-in-heaven). It proves that God has a plurality of persons, and that he can be physically manifested on earth.
+Here we have two Jehovahs, one on earth ([see 18:33](#genesis-18-33)) and one in heaven, yet there is only one Jehovah. Jehovah on earth calls down fire, and the fire comes from Jehovah in heaven. This shows that Jehovah is acting in two distinct agents, one immanent[^immanent] and one transcendental[^transcendental]. This is a key scripture in the ancient Jewish doctrine of [the Two Powers in Heaven](#the-two-powers-in-heaven). It proves that God has a plurality of persons, and that he can be physically manifested on earth.
 
-## Exodus 17:6 
+## Exodus 17: 6 
 
 > Behold, I will stand before you there on the rock at Horeb, and you shall strike the rock, and water shall come out of it, and the people will drink.” And Moses did so, in the sight of the elders of Israel.
 
 Notice that Jehovah said he **will stand before you there on the rock at Horeb**. That means that he has a physical lovation (on top of the rock) and that he has a physical body (is standing). This is a theophany of the second person of God. 
 
-This is also the first time the word "rock" is used in the Bible, which is significant since Jehovah is standing on the rock from which the Israelites got water. Paul made clear that this Rock was Jesus Christ, so the connection is unmistakable. (1 Corinthians 10:4](1-corinthians-104)
+This is also the first time the word "rock" is used in the Bible, which is significant since Jehovah is standing on the rock from which the Israelites got water. Paul made clear that this Rock was Jesus Christ, so the connection is unmistakable. (1 Corinthians 10:4](1-corinthians-10-4)
 
 This proves that God can come in the form of a man, and that this form of God is the second person of God, the Word, later incarnated as Jesus Christ.
 
 [See The Two Powers in Heaven](#the-two-powers-in-heaven), [theophany](#theophany).
 
-## Exodus 19:9 
+## Exodus 19: 9 
 
 > And Jehovah said to Moses, “Behold, **I am coming to you in a thick cloud**, that the people may hear when I speak with you, and may also believe you forever.” When Moses told the words of the people to Jehovah,
 
 Jehocah is the one who comes on the clouds.
 [See The Cloud Rider](#the-cloud-rider)
 
-## Exodus 23:20-23
+## Exodus 23: 20-23
 
 > “Behold, I send an angel before you to guard you on the way and to bring you to the place that I have prepared. 21 Pay careful attention to him and obey his voice; do not rebel against him, for he will not pardon your transgression, for my name is in him. 22 “But if you carefully obey his voice and do all that I say, then I will be an enemy to your enemies and an adversary to your adversaries. 23 “When my angel goes before you and brings you to the Amorites and the Hittites and the Perizzites and the Canaanites, the Hivites and the Jebusites, and I blot them out,
 
@@ -175,17 +171,17 @@ Notice also that Jehovah says "carefully obey **his** voice and do all that **I*
 
 Also Jehovah says that **he** will be an enemy to their enemies when the **angel** goes ahead of them, meaning that Jehovah is the angel.
 
-This angel is the second person of God, the secondary Jehovah, who later incarnated as Jesus Christ as Paul confirms in [1 Corintians 10:4](#1-corinthians-104)
+This angel is the second person of God, the secondary Jehovah, who later incarnated as Jesus Christ as Paul confirms in [1 Corintians 10:4](#1-corinthians-10-4)
 
 [See The Angel of Jehovah](#the-angel-of-Jehovah), [The Two Powers in Heaven](#the-two-powers-in-heaven).
 
-## Deuteronomy 6:4 
+## Deuteronomy 6: 4 
 
 > Hear, O Israel: Jehovah our God is one Jehovah:
 
 This scripture proves that God is one, not three gods. The word translated "one" is the hebrew eḥāḏ (אֶחָד) which is used in [Genesis 2:24](#genesis-22324) where it says "they shall become **one** flesh." So it can be used for the compound unity of two or more persons. This is all in harmony with the trinity doctrine.
 
-## Deuteronomy 33:26 
+## Deuteronomy 33: 26 
 
 > “There is none like God, O Jeshurun, **who rides through the heavens** to your help, through the skies in his majesty.
 
@@ -197,174 +193,177 @@ This scripture proves that God is one, not three gods. The word translated "one"
 
 This scripture reveals that the Holy Spirit speaks. Being able to independently communicate with other persons is a aign of personhood. This proves the personhood of the Holy Spirit.
 
-## Nehemiah 9:5 
+## Nehemiah 9: 5 
 
 > Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless the LORD your God from everlasting to everlasting. **Blessed be your glorious name, which is exalted above all blessing and praise**.
 
-Jehovah has the highest name. [Philippians 2:9](#philippians-29) reveal that Jesus is the one with the highest name. So either Jesus is Jehovah or Jehovah is not the highest name.
+Jehovah has the highest name. [Philippians 2:9](#philippians-2-9) reveal that Jesus is the one with the highest name. So either Jesus is Jehovah or Jehovah is not the highest name.
 
-## Job 9:8 
+This equates Jesus with Jehovah.
+
+## Job 9: 8 
 
 > who **alone** stretched out the heavens and **trampled the waves of the sea;**
 
-The ability to walk on water is a unique attribute of God. In [Matthew 14:25](#matthew-1425), [Mark 6:48](#mark-648) and [John 6:19](#john-619) Jesus is the one who walks on water, so the disciples immediately realize that Jesus is Jehovah.
+The ability to walk on water is a unique attribute of God. In [Matthew 14:25](#matthew-14-25), [Mark 6:48](#mark-6-48) and [John 6:19](#john-6-19) Jesus is the one who walks on water, so the disciples immediately realize that Jesus is Jehovah.
 
 
-## Job 19:25-27 
+## Job 19: 25-27 
 
 > For I know that my Redeemer lives, and at the last he will stand upon the earth. 26 And after my skin has been thus destroyed, yet in my flesh I shall see God, 27 whom I shall see for myself, and my eyes shall behold, and not another. My heart faints within me!
 
-This whole pasaage is about how Job was looking forwards to "**see God..for myself ... (and not another)**". He here also calls God "**my Redeemer**" who "**will stand upon the earth**". When was God ever seen, or stabd upon the earrh as a redeemer? Only in the person of Jesus. This proves that even Job, one of the oldest booka of the Bible had the idea that God himself would come to warth physically to save humans. This proves the deity of Christ.
+This whole pasaage is about how Job was looking forwards to "**see God..for myself ... (and not another)**". He here also calls God "**my Redeemer**" who "**will stand upon the earth**". When was God ever seen, or stabd upon the earrh as a redeemer? Only in the person of Jesus. This proves that even Job, one of the oldest booka of the Bible had the idea that God himself would come to warth physically to save humans. 
 
+This proves the deity of Christ.
 
-## Psalms 68:32-33 
+## Psalms 68: 32-33 
 
 > O kingdoms of the earth, sing to God; sing praises to the Lord, 33 to **him who rides in the heavens**, the ancient heavens; behold, he sends out his voice, his mighty voice.
 
 [See The Cloud Rider](#the-cloud-rider)
 
-## Psalm 83:18 
+## Psalm 83: 18 
 
 > that they may know that you alone, whose name is Jehovah, are the Most High over all the earth. 
 
-This scripture tellsnus that Jehovah God is the highest over all the earth. [Philippians 2:10-11](#philippians-210-11) shows that Jesus is the one who is the most high over all the earth.
+This scripture tellsnus that Jehovah God is the highest over all the earth. [Philippians 2:10-11](#philippians-2-10-11) shows that Jesus is the one who is the most high over all the earth.
 
-## Psalms 89:9 
+## Psalms 89: 9 
 
 > You rule the raging of the sea; when its waves rise, you still them.
 
-Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-439-41) and [Matthew 8:26,27](#matthew-82627) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
+Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-4-39-41) and [Matthew 8:26,27](#matthew-8-2627) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
 
-## Psalm 102:25-27 
+## Psalm 102: 25-27 
 
 > Of old you [Jehovah] laid the foundation of the earth, and the heavens are the work of your hands. 26 They will perish, but you will remain; they will all wear out like a garment. You will change them like a robe, and they will pass away, 27 but you are the same, and your years have no end.
 
 Paul takes this scripture about Jehovah and applies it to Jesus in [Hebrews 1:10-12](#hebrews-110-12), because Paul believed that Jesus is the Jehovah of the Old Testament.
 
-## Psalms 104:3 
+## Psalms 104: 3 
 
 He lays the beams of his chambers on the waters; **he makes the clouds his chariot; he rides on the wings of the wind**;
 
 [See The Cloud Rider](#the-cloud-rider)
 
-## Psalms 107:29 
+## Psalms 107: 29 
 
 > He made the storm be still, and the waves of the sea were hushed.
 
-Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-439-41) and [Matthew 8:26,27](#matthew-82627) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
+Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-43-9-41) and [Matthew 8:26,27](#matthew-8-2627) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
 
-## Psalm 130:4 
+## Psalm 130: 4 
 
 > But with you there is forgiveness, that you may be feared.
 
-There is forgiveness only in God. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-25-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
+There is forgiveness only in God. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-2-5-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
 
 
-## Psalm 138:2
+## Psalm 138: 2
 
 > I bow down toward your holy temple and give thanks to your name for your steadfast love and your faithfulness, for **you have exalted above all things your name and your word**.
 
-God's name and word is exalted above all things. [Philippians 2:9](#philippians-29) shows that Jesus is then one with the uniquely highest name. Also Jesus is the Word of God. This means Jesus is divine. 
+God's name and word is exalted above all things. [Philippians 2:9](#philippians-2-9) shows that Jesus is then one with the uniquely highest name. Also Jesus is the Word of God. This means Jesus is divine. 
 
-## Psalm 148:13 
+## Psalm 148: 13 
 
 > Let them praise the name of Jehovah, for his name alone is exalted; his majesty is above earth and heaven.
 
-Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-29) shows that Jesus is the one with the uniquely highest name. This means Jesus is divine. 
+Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-2-9) shows that Jesus is the one with the uniquely highest name. This means Jesus is divine. 
 
-## Isaiah 6:1-5
+## Isaiah 6: 1-5
 
 > In the year that King Uzziah died I saw Jehovah sitting upon a throne, high and lifted up; and the train of his robe filled the temple. ... 3 And one called to another and said: “Holy, holy, holy is Jehovah of hosts; the whole earth is full of his glory!” ... my eyes have seen the King, Jehovah of hosts!”
 
-Isaiah saw the glory of Jehovah. in [John 12:41](#john-1241) John explains that Isaiah actually saw Jesus Christ. This proves that Jesus is Jehovah.
+Isaiah saw the glory of Jehovah. in [John 12:41](#john-12-41) John explains that Isaiah actually saw Jesus Christ. This proves that Jesus is Jehovah.
 
-## Isaiah 19:1 
+## Isaiah 19: 1 
 
 > An oracle concerning Egypt. Behold, **Jehovah is riding on a swift cloud** and comes to Egypt; and the idols of Egypt will tremble at his presence, and the heart of the Egyptians will melt within them.
 
 [See The Cloud Rider](#the-cloud-rider)
 
-## Isaiah 40:10 
+## Isaiah 40: 10 
 
 > Behold, the Lord GOD comes with might, and his arm rules for him; behold, his reward is with him, and his recompense before him.
 
-[The one who repays deeds](#the-one-who-repays-deeds) is a divine title which in [Revelation 22:12,13](#revelation-221213) is used about Jesus, proving his deity.
+[The one who repays deeds](#the-one-who-repays-deeds) is a divine title which in [Revelation 22:12,13](#revelation-22-1213) is used about Jesus, proving his deity.
 
-## Isaiah 41:4 
+## Isaiah 41: 4 
 
 > Who has performed and done this, calling the generations from the beginning? I, the LORD, the first, and with the last; I am he.
 
-This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-117) and [2:8](#revelation-28), thus proving that he is God.
+This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-1-17) and [2:8](#revelation-2-8), thus proving that he is God.
 
 [See The First and the Last](#the-first-and-the-last).
 
-## Isaiah 42:8 
+## Isaiah 42: 8 
 
 > I am Jehovah; that is my name; my glory I give to no other, nor my praise to carved idols.
 
-Jehovah God gives his glory to no other. Yet in scriptures like [John 5:23](#john-523), [Matthew 16:27](#matthew-1627), and [2 Peter 1:17](#2-peter-117), The Son, Jesus, is glorified by the Father and humans with equal glory to the Father. Since Jehovah gives his glory to no other, it means that Jesus is no other than Jehovah. This proves the deity of Christ.
+Jehovah God gives his glory to no other. Yet in scriptures like [John 5:23](#john-5-23), [Matthew 16:27](#matthew-16-27), and [2 Peter 1:17](#2-peter-1-17), The Son, Jesus, is glorified by the Father and humans with equal glory to the Father. Since Jehovah gives his glory to no other, it means that Jesus is no other than Jehovah. This proves the deity of Christ.
 
-## Isaiah 43:10
+## Isaiah 43: 10
 
 > “You are my witnesses,” declares the LORD, “and my servant whom I have chosen, that you may know and believe me and understand that I am he. Before me no god was formed, nor shall there be any after me.
 
 The trinity doctrine us stricty monotheistic. There is only one God. **Before** him **no god was formed, nor shall there be any after** him. This rules out heresies like Arianism which teaches that the Son of God, Jesus, is a divine being, "a god", created by God. Isaiah rejects this idea.
 
-## Isaiah 43:25 
+## Isaiah 43: 25 
 
 > “I, I am he who blots out your transgressions for my own sake, and I will not remember your sins.
 
-God is the one who blots out transgressions, and no one else. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-25-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
+God is the one who blots out transgressions, and no one else. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-2-5-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
 
-## Isaiah 44:6 
+## Isaiah 44: 6 
 
 > Thus says the LORD [Jehovah], the King of Israel and his Redeemer, the LORD of hosts: “I am the first and I am the last; besides me there is no god.
 
 **The king of Israel** and the **redeemer** is Jesus.
 
-**[The First and the Last](#the-first-and-the-last)** is a unique title of God which emphasizes his eternity. In [Revelation 1:17](#revelation-117);[2:8](#revelation-28) Jesus calls himself by this title, thus claiming that he is the eternal God.
+**[The First and the Last](#the-first-and-the-last)** is a unique title of God which emphasizes his eternity. In [Revelation 1:17](#revelation-1-17);[2:8](#revelation-2-8) Jesus calls himself by this title, thus claiming that he is the eternal God.
 
 This scripture also emphasizes the monotheism of the Bible: "**besides me there is no god**". This rules out heresies like Arianism which teaches that the Son of God, Jesus, is a divine being, "a god", created by God. Isaiah rejects this idea.
 
-## Isaiah 44:8
+## Isaiah 44: 8
 
 > Fear not, nor be afraid; have I not told you from of old and declared it? And you are my witnesses! Is there a God besides me? There is no Rock; I know not any.”
 
 The trinity doctrine is strictly monotheistic. There is no **God besides** Yahweh, he **knows not any**. This rules out heresies like Arianism which teaches that the Son of God, Jesus, is a divine being, "a god", created by God. Isaiah rejects this idea.
 
-## Isaiah 45:23 
+## Isaiah 45: 23 
 
 > By myself I have sworn; from my mouth has gone out in righteousness a word that shall not return: ‘**To me every knee shall bow, every tongue shall swear allegiance**.’
 
-Every knee shall bow before Jehovah, and every tongue swear allegiance. In [Philippians 2:10-11](#philippians-210-11) these phrases are used to describe Jesus. So Paul is asceibing equality between Jesus and Jehovah God. This indicates the Deity of Christ.
+Every knee shall bow before Jehovah, and every tongue swear allegiance. In [Philippians 2:10-11](#philippians-2-10-11) these phrases are used to describe Jesus. So Paul is asceibing equality between Jesus and Jehovah God. This indicates the Deity of Christ.
 
-## Isaiah 48:11 
+## Isaiah 48: 11 
 
 > For my own sake, for my own sake, I do it, for how should my name be profaned? My glory I will not give to another.
 
-Jehovah God gives his glory to no other. Yet in scriptures like [John 5:23](#john-523), [Matthew 16:27](#matthew-1627), and [2 Peter 1:17](#2-peter-117), The Son, Jesus, is glorified by the Father and humans with equal glory to the Father. Since Jehovah gives his glory to no other, it means that Jesus is no other than Jehovah. This proves the deity of Christ.
+Jehovah God gives his glory to no other. Yet in scriptures like [John 5:23](#john-5-23), [Matthew 16:27](#matthew-16-27), and [2 Peter 1:17](#2-peter-1-17), The Son, Jesus, is glorified by the Father and humans with equal glory to the Father. Since Jehovah gives his glory to no other, it means that Jesus is no other than Jehovah. This proves the deity of Christ.
 
-## Isaiah 48:12
+## Isaiah 48: 12
 
 > “Listen to me, O Jacob, and Israel, whom I called! I am he; I am the first, and I am the last.
 
-This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-117) and [2:8](#revelation-28), thus proving that he is God.
+This shows that God is **the first and the last**. This is who Jesus said that he is in [Revelation 1:17](#revelation-1-17) and [2:8](#revelation-2-8), thus proving that he is God.
 
 [See The First and the Last](#the-first-and-the-last).
 
-## Isaiah 48:16 
+## Isaiah 48: 16 
 
 > Draw near to me, hear this: from the beginning I [Jehovah] have not spoken in secret, from the time it came to be I have been there. And now Jehovah has sent me, and his Spirit.
 
 In the surrounding verses, Jehovah God is speaking. However in verse 16 Jehovah suddenly says **Jehovah has sent me, and his Spirit.** So Jehovah sent Jehovah and the Spirit of Jehovah. There are three characters here, one Jehovah who sends, one Jehovah who is sent and the Spirit of Jehovah who is also sent. These are the three persons of God, the Father who sends, the Son who is sent, and the Holy Spirit who also goes out from God.
 
-## Isaiah 63:10 
+## Isaiah 63: 10 
 
 > But they rebelled and grieved his Holy Spirit; therefore he turned to be their enemy, and himself fought against them.
 
 This scripture says that God's Holy Spirit can be **grieved**. Having complex emotions like grief is something only persons can have. This proves the personhood of the Holy Spirit.
 
-## Jeremiah 17:10
+## Jeremiah 17: 10
 
 > “I the LORD search the heart and test the mind, to give every man according to his ways, according to the fruit of his deeds.”
 
@@ -372,130 +371,130 @@ God is the one who **search the heart and test the mind**, and **give every man 
 
 See [The one who sees the heart](#the-one-who-sees-hearts)and The one who repays deeds](#the-one-who-repays-deeds).
 
-## Jeremiah 23:23-24  
+## Jeremiah 23: 23-24  
 
 > “Am I a God at hand, declares the LORD, and not a God far away? 24 Can a man hide himself in secret places so that I cannot see him? declares the LORD. Do I not fill heaven and earth? declares the LORD.”
 
 God is omnipresent, filling heaven and earth, is near and far, and in every secret place. Both God the Father, The Son and the Holy Spirit are said to be omnipresent. See [Omnipresence](#omnipresence)
 
-## Lamentations 3:64
+## Lamentations 3: 64
 
 > “You will repay them, O LORD, according to the work of their hands.
 
-God is [the one who repays deeds](#the-one-who-repays-deeds), which is a divine title used for Jesus Christ as well in [Revelation 22:12,13](#revelation-221213) proving the deity of Christ.
+God is [the one who repays deeds](#the-one-who-repays-deeds), which is a divine title used for Jesus Christ as well in [Revelation 22:12,13](#revelation-22-1213) proving the deity of Christ.
 
-## Daniel 7:13 
+## Daniel 7: 13 
 
 > “I saw in the night visions, and behold, **with the clouds of heaven there came one like a son of man**, and he came to the Ancient of Days and was presented before him.
 
 Daniel 7:13 links together the Cloud Rider of the Old Testament with the Cloud Rider of the new testament and shows that Jesus is Jehovah. [See The Cloud Rider](#the-cloud-rider)
 
-## Daniel 9:9 
+## Daniel 9: 9 
 
 > To the Lord our God belong mercy and forgiveness, for we have rebelled against him
 
 Forgiveness belongs to God alone. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-25-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
 
-## Zechariah 12:10
+## Zechariah 12: 10
 
 > “And I will pour out on the house of David and on the inhabitants of Jerusalem the Spirit of grace and of pleading, so that they will look at Me whom they pierced; and they will mourn for Him, like one mourning for an only son, and they will weep bitterly over Him like the bitter weeping over a firstborn.
 
 In this verse Jehovah God says **they will look at Me whom they pierced**. How can an immaterial God be puerced unless he takes on a human body? This is a prophecy pointing forward to the crucifixion of Jesus, because Jesus is the Jehovah that they pierced. This proves the deity of Christ.
 
-## Matthew 1:23 
+## Matthew 1: 23 
 
 > “Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel” (which means, **God with us**).
 
 Jesus wasn't literally named Immanuel. Matthew means that this name applies to Jesus because Jesus is "God with us".
 
-## Matthew 8:26-27
+## Matthew 8: 26-27
 
 > 26 And he said to them, “Why are you afraid, O you of little faith?” Then he rose and rebuked the winds and the sea, and there was a great calm. 27 And the men marveled, saying, “What sort of man is this, that even winds and sea obey him?”
 
-The answer to their question is "Jehovah". The Bible makes clear in scriptures like [Psalm 89:9](#psalm-899) and [107:29](#psalm-10729) that Jehovah is the one who has the power over the weather to calm the storm.
+The answer to their question is "Jehovah". The Bible makes clear in scriptures like [Psalm 89:9](#psalm-89-9) and [107:29](#psalm-107-29) that Jehovah is the one who has the power over the weather to calm the storm.
 
-## Matthew 9:4 
+## Matthew 9: 4 
 
 > But Jesus, knowing their thoughts, said, “Why do you think evil in your hearts?
 
 Jesus is **knowing their thoughts** because he is omniscient, having the ability to know anything and everything. This is an attribute of God. See [Omniscience](#omniscience)
 
-## Matthew 9:38
+## Matthew 9: 38
 
 > therefore pray earnestly to the Lord of the harvest to send out laborers into his harvest.”
 
 in Matthew 13, it makes clear that the Lord of the Harvest is Jesus. Here Jesus is telling us to pray to him. Jesus accepts prayer because he is God.
 
-## Matthew 14:25 
+## Matthew 14: 25 
 
 > And in the fourth watch of the night he came to them, **walking on the sea**.
 
-The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-98)) This shows that Jesus is God, and why they fell down and worshipped him. ([Matthew 14:33](#matthew-1433))
+The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-9-8)) This shows that Jesus is God, and why they fell down and worshipped him. ([Matthew 14:33](#matthew-14-33))
 
-## Matthew 14:33
+## Matthew 14: 33
 
 > And those in the boat worshiped him, saying, “Truly you are the Son of God.”
  
-They **worshipped him** because [in verse 25](#matthew-1425) they had just seen him do something that a Jew knew only Jehovah does, walking on water. See [Job 9:8](#job-98) for the scriptural basis for this.
+They **worshipped him** because [in verse 25](#matthew-14 25) they had just seen him do something that a Jew knew only Jehovah does, walking on water. See [Job 9:8](#job-9-8) for the scriptural basis for this.
 
 They recognized that Jesus is **the Son of God**. Not "a" son of God as someone from the [Divine Council](#the-divine-council) may be referred to, but "the", as in [the unique son of God](#monogenes). Unique in the sense that he partakes of the same substance as the Father. See [The Son of God](#monogenes).
 
-## Matthew 16:27 
+## Matthew 16: 27 
 
 > For the Son of Man is going to come with his angels in the glory of his Father, and then he will repay each person according to what he has done.
 
-Jesus is here called **the [Son of Man](#son-of-man)**, which is a divine title for the human manifestation of Jehovah mentioned in [Daniel 7:13](#daniel-713)
+Jesus is here called **the [Son of Man](#son-of-man)**, which is a divine title for the human manifestation of Jehovah mentioned in [Daniel 7:13](#daniel-7-13)
 
 See [Son of Man](#the-son-of-man).
 
-Jesus is coming **in the glory of his Father**. Scriptures like [Isaiah 42:8](#isaiah-428) and [48:11](#isaiah-4811) show that God does not allow anyone else to have equal glory to him. This means that Jesus is no one else but God. This proves the deity of Christ.
+Jesus is coming **in the glory of his Father**. Scriptures like [Isaiah 42:8](#isaiah-4-28) and [48:11](#isaiah-48-11)  show that God does not allow anyone else to have equal glory to him. This means that Jesus is no one else but God. This proves the deity of Christ.
 
-That Jesus will **repay each person according to what he has done**. [Isaiah 40:10](#isaiah-4010) shows that the one who does this is Jehovah, meaning Jesus is Jehovah. [Romans 2:6](#romans-26) shows that the one who does this is God, meaning Jesus is God. It also shows that the one mentioned in [Revelation 22:12](#revelation-2212) is Jesus, who is the Alpha and Omega, who is God Almighty. This is proof of the deity of Christ.
+That Jesus will **repay each person according to what he has done**. [Isaiah 40:10](#isaiah-40-10) shows that the one who does this is Jehovah, meaning Jesus is Jehovah. [Romans 2:6](#romans-2-6) shows that the one who does this is God, meaning Jesus is God. It also shows that the one mentioned in [Revelation 22:12](#revelation-22-12) is Jesus, who is the Alpha and Omega, who is God Almighty. This is proof of the deity of Christ.
 
 See [The one who repays deeds](#the-one-who-repays-deeds)
 
-## Matthew 18:20  
+## Matthew 18: 20  
 
 > For where two or three are gathered in my name, **there am I among them**.” 
 
 This shows that Jesus is omnipresent, having the ability to be anywhere. This is a unique attribute of God, evidence of the deity of Christ. See [Omnipresence](#omnipresence)
 
-## Matthew 24:30 
+## Matthew 24: 30 
 > Then will appear in heaven the sign of the Son of Man, and then all the tribes of the earth will mourn, and **they will see the Son of Man coming on the clouds of heaven** with power and great glory.
 
 Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
-## Matthew 28:20 
+## Matthew 28: 20 
 
 > teaching them to observe all that I have commanded you. And behold, **I am with you always**, to the end of the age.”
 
 This shows that Jesus is omnipresent, having the ability to be anywhere. This is a unique attribute of God, evidence of the deity of Christ. See [Omnipresence](#omnipresence)
 
-## Mark 2:5-12 
+## Mark 2: 5-12 
 
 > And when Jesus saw their faith, he said to the paralytic, “Son, your sins are forgiven.” 6 Now some of the scribes were sitting there, questioning in their hearts, 7 “Why does this man speak like that? **He is blaspheming! Who can forgive sins but God alone?**” 8 And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them, “Why do you question these things in your hearts? 9 Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, take up your bed and walk’? 10 But that you may know that the Son of Man has authority on earth to forgive sins”--he said to the paralytic-- 11 “I say to you, rise, pick up your bed, and go home.” 12 And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and glorified God, saying, “We never saw anything like this!”
 
-When the scribes get upset and accuse Jesus of blasphemy because Jesus forgives sins. This is something only God can do. See [Daniel 9:9](#daniel-99), [Psalm 130:4](#psalm-1304) and [Isaiah 43:25](#isaiah-4325) for example. This proves the deity of Jesus.
+When the scribes get upset and accuse Jesus of blasphemy because Jesus forgives sins. This is something only God can do. See [Daniel 9:9](#daniel-9-9), [Psalm 130:4](#psalm-130-4) and [Isaiah 43:25](#isaiah-43-25) for example. This proves the deity of Jesus.
 
-## Mark 4:39-41 
+## Mark 4: 39-41 
 
 > 39 And he awoke and rebuked the wind and said to the sea, “Peace! Be still!” And the wind ceased, and there was a great calm. … 41 And they were filled with great fear and said to one another, “Who then is this, that even the wind and the sea obey him?”
 
-The answer to their question is "Jehovah". The Bible makes clear in scriptures like [Psalm 89:9](#psalm-899) and [107:29](#psalm-10729) that Jehovah is the one who has the power over the weather to calm the storm.
+The answer to their question is "Jehovah". The Bible makes clear in scriptures like [Psalm 89:9](#psalm-89-9) and [107:29](#psalm-107-29) that Jehovah is the one who has the power over the weather to calm the storm.
 
-## Mark 6:48 
+## Mark 6: 48 
 
 > And he saw that they were making headway painfully, for the wind was against them. And about the fourth watch of the night he came to them, **walking on the sea**. He meant to pass by them,
 
-The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-98)) This shows that Jesus is God, and why they fell downand worshipped him. ([Matthew 14:33](#matthew-1433))
+The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-9-8)) This shows that Jesus is God, and why they fell down and worshipped him. ([Matthew 14:33](#matthew-14-33))
 
-## Mark 13:26 
+## Mark 13: 26 
 
 > And then they will see the Son of Man **coming in clouds** with great power and glory.
 
 Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
-## Mark 14:62-64 
+## Mark 14: 62-64 
 
 And Jesus said, “I am, and you will see **the Son of Man** seated at the right hand of Power, and **coming with the clouds of heaven**.” 63 And the high priest tore his garments and said, “What further witnesses do we need? 64 **You have heard his blasphemy**. What is your decision?” And **they all condemned him as deserving death.**
 
@@ -1179,9 +1178,12 @@ This ought to be less contested, since God is spirit, so the spirit must be God.
 ## The Son emptied himself
 ## The Son is still a man
 
-[^coequal]: Being equal in essence. No one is more of less "God", however in the cooperation between the persons of God, there is a certain hierarchy of authority and responsibility.
-[^coeternal]: All if the are eternal. None has a beginning nor an end. 
-[^cosubstantial]: **Cosibstantial** means consisting of the same substance or essence. Substance is whatever makes a being what it is. For example the human substance is what makes a person human.
-[^hypostasis]: **Hypostasis** means a person, the identity and conscious personhood of someone. It is what answers the question "Who is it?"
-[^ousia]: **Ousia**, often translated being, essence, substance or nature, is the essential being of something. It answers the question "What is it?" Humans have the human ousia. Dogs have the canine ousia. Cats have the feline ousia. God has the divine ousia.
+[^coequal]: **Coequal**: Being equal in essence. No one is more of less "God", however in the cooperation between the persons of God, there is a certain hierarchy of authority and responsibility.
+[^coeternal]: **Coeternal**: All of them are eternal. None has a beginning nor an end. 
+[^cosubstantial]: **Cosibstantial**: Consisting of the same substance or essence. Substance is whatever makes a being what it is. For example the human substance is what makes a person human.
+[^hypostasis]: **Hypostasis**: A person, the identity and conscious personhood of someone. It is what answers the question "Who is it?"
+[^ousia]: **Ousia**: Often translated being, essence, substance or nature, is the essential being of something. It answers the question "What is it?" Humans have the human ousia. Dogs have the canine ousia. Cats have the feline ousia. God has the divine ousia.
+[^corporeal]: **Corporeal**: Having a body.
 [^tangible]: **Tangible**: Being able to be touched.
+[^transcendental]: **Transcendental:** Beyond the natural world or the grasp of the senses.
+[^immanent]: **Immanent:** Existing or operating within the world.
