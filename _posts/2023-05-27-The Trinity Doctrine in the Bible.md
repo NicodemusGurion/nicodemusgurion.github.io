@@ -11,32 +11,16 @@ The Trinity Doctrine is probably the most misunderstood and attacked Christian d
 
 [ ![](https://i.ibb.co/L1tQLBP/Trinity-Shield-With-Legend.png) ](https://i.ibb.co/HqzNWR2/Trinity-Shield-With-Legend.png)
 
-# The Trinity: Definitions and common misunderstanding
-
-The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases[^hypostasis]) sharing one being/essence/substance/nature (ousia[^ousia]). 
-
-[^coequal]: Being equal in essence. No one is more of less "God", however in the cooperation between the persons of God, there is a certain hierarchy of authority and responsibility.
-[^coeternal]: All if the are eternal. None has a beginning nor an end. 
-[^cosubstantial]: Consisting of the same substance or essence. Substance is whatever makes a being what it is. For example the human substance is what makes a person human.
-[^hypostasis]: Hypostasis means a person, the identity and conscious personhood of someone. It is what answers the question "Who is it?"
-[^ousia]: Ousia, often translated being, essence, substance or nature, is the essential being of something. It answers the question "What is it?" Humans have the human ousia. Dogs have the canine ousia. Cats have the feline ousia. God has the divine ousia.
-
-## Common misunderstandings
-
-- The trinity doctrine doesn't teach three gods or a triad if gods. That is called tritheism.
-- The trinity doctrine doesn't teach that there are three persons in one person. That makes no sense.
-- The trinity doctrine doesn't teach that one person manifest in three different modes, facets or aspects. That's modalism.
-- The trinity doctrine doesn't teach that God consists of three parts that together form one God. That's partialism.
 
 # The Trinity in the Bible
 
 Here is a list of scriptures that harmonize with or prove the trinity doctrine, along with explanations as to what part of the doctrine they touch on.
 
-## Genesis 1:1-3 
+## Genesis 1: 1-3 
 
 > In the beginning, God created the heavens and the earth. 2 The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters. 3 And God said, “Let there be light,” and there was light.
 
-The cery first sentences in the Bible are ripe with trinity concepts. It says **God created the heavens and the earth**, that is, everything that exists. Later in [John 1:3](#john-13), [Colossians 1:15](#colossians-115) and [Hebrews 1:3](#hebrews-13) it shows that Jesus created everything that exists. 
+The cery first sentences in the Bible are ripe with trinity concepts. It says **God created the heavens and the earth**, that is, everything that exists. Later in [John 1:3](#john-1-3), [Colossians 1:15](#colossians-1-15) and [Hebrews 1:3](#hebrews-1-3) it shows that Jesus created everything that exists. 
 
 In this passage the **Spirit of God was hovering over the face of the waters** presenting it as a separate agent with a location, meaning it must somehow be corporeal[^corporeal]. This is mirrored in the Gospel account of Jesus' baptism, where the Holy Spirit comes down from heaven in physical form as a dove, hovering over the waters, signalling the new creation. ([Matthew 3:16](#matthew-316); [Mark 1:10](#mark-110); [Luke 3:2](#luke-32); [John 1:32](#john-132))This is the Third Person of God going forth to prepare this shapeless wilderness for being shaped.
 
@@ -46,7 +30,7 @@ In both accounts, **God said** something. In Genesis, **God said, “Let there b
 
 So in this short passage we have God, the Word of God, and the Spirit of God, cooperating in creation.
 
-## Genesis 1:26,27
+## Genesis 1: 26,27
 
 > Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”27 So God created man in his own image, in the image of God he created him; male and female he created them.
 
@@ -63,7 +47,7 @@ This proves and illustrates the plurality of God.
 
 The angels have no part in the creation process. The only one who has part in the creation, the only creator, is God himself. So saying "Let us create" to someone who has no ability to create anything would be pointless and taunting.
 
-## Genesis 2:23-24 
+## Genesis 2: 23-24 
 
 > Then the man said, “This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man.” 24 Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.
 
@@ -73,7 +57,7 @@ Just as the Woman is the same flesh as Man, and **she was taken out of Man** so 
 
 This illustrates the plurality of both humanity and God.
 
-## Genesis 3:8 
+## Genesis 3: 8 
 
 > And they heard the voice of Jehovah God walking in the garden in the cool of the day: and the man and his wife hid themselves from the presence of Jehovah God amongst the trees of the garden.
 
@@ -85,7 +69,7 @@ This is a [theophany](#theophany) of the pre-incarnate second person of God.
 
 [See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
-## Genesis 3:22 
+## Genesis 3: 22 
 
 > Then Jehovah God said, “Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever--”
 
@@ -93,7 +77,7 @@ Again God converses among himself. Verse 5 makes clear that the one who knows (h
 
 This indicates the plurality of God.
 
-## Genesis 12:7
+## Genesis 12: 7
 
 > Then Jehovah appeared to Abram and said, “To your offspring I will give this land.” So he built there an altar to Jehovah, who had appeared to him.
 
@@ -101,7 +85,7 @@ This indicates the plurality of God.
 
 [See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
-## Genesis 17:1 
+## Genesis 17: 1 
 
 > When Abram was ninety-nine years old Jehovah appeared to Abram and said to him, “I am God Almighty; walk before me, and be blameless,
 
@@ -109,7 +93,7 @@ In this [theophany](#theophany), Jehovah presents himself as **God Almighty**. V
 
 [See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
-## Genesis 17:22
+## Genesis 17: 22
 
 > When he had finished talking with him, God went up from Abraham.
 
@@ -117,13 +101,13 @@ That **God went up from Abram** shows that God was with Abram in a physical loca
 
 [See the Two Powers in Heaven](#the-two-powers-in-heaven)
 
-## Genesis 18:1-5 
+## Genesis 18: 1-5 
 
 > And Jehovah appeared to him by the oaks of Mamre, as he sat at the door of his tent in the heat of the day. 2 He lifted up his eyes and looked, and behold, three men were standing in front of him. When he saw them, he ran from the tent door to meet them and bowed himself to the earth 3 and said, “O Lord, if I have found favor in your sight, do not pass by your servant. 4 Let a little water be brought, and wash your feet, and rest yourselves under the tree, 5 while I bring a morsel of bread, that you may refresh yourselves, and after that you may pass on--since you have come to your servant.” So they said, “Do as you have said.”
 
 The Bible teaches that "no one can see God and live", however in this passage Abraham experiences how **Jehovah appeared to him**. The passage reveals that Jehovah here is visible, tangible[^tangible], has location, eats food, walks, and other things a regular person would. This tells us that there is not as simple as that God is invisible and transcendental. God can also be physically present as a human on earth.
 
-[^tangible]: **Tangible**: Being able to be touched.
+
 
 Abraham bows to Jehovah and adresses him in the singular "**in your sight**", and suddenly switches to the plural "**wash your feet, and rest yourselves ... refresh yourselves**", to which Jehovah answers in the plural, "**So they said, “Do as you have said.”**"
 
@@ -984,6 +968,20 @@ This passage is about Jesus, because Jesus is the one who is **coming soon**. **
 
 **[The First and the Last](#the-first-and-the-last)** is a divine title that only apply to the eternal God. In [Revelation 1:17](#revelation-117);[2:8](#revelation-28) and here, Jesus applies it to himself. In this verse we also see that synonymous titles the Alpha and Omega, as well as the Beginning and the End. These are all divine titles of God applied to Jesus.
 
+
+# The Trinity: Definitions and common misunderstanding
+
+The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases[^hypostasis]) sharing one being/essence/substance/nature (ousia[^ousia]). 
+
+
+
+## Common misunderstandings
+
+- The trinity doctrine doesn't teach three gods or a triad if gods. That is called tritheism.
+- The trinity doctrine doesn't teach that there are three persons in one person. That makes no sense.
+- The trinity doctrine doesn't teach that one person manifest in three different modes, facets or aspects. That's modalism.
+- The trinity doctrine doesn't teach that God consists of three parts that together form one God. That's partialism.
+
 # Trinity doctrine concepts explained
 
 ## "Being God"
@@ -1180,3 +1178,10 @@ This ought to be less contested, since God is spirit, so the spirit must be God.
 ## The Son took on a human substance
 ## The Son emptied himself
 ## The Son is still a man
+
+[^coequal]: Being equal in essence. No one is more of less "God", however in the cooperation between the persons of God, there is a certain hierarchy of authority and responsibility.
+[^coeternal]: All if the are eternal. None has a beginning nor an end. 
+[^cosubstantial]: **Cosibstantial** means consisting of the same substance or essence. Substance is whatever makes a being what it is. For example the human substance is what makes a person human.
+[^hypostasis]: **Hypostasis** means a person, the identity and conscious personhood of someone. It is what answers the question "Who is it?"
+[^ousia]: **Ousia**, often translated being, essence, substance or nature, is the essential being of something. It answers the question "What is it?" Humans have the human ousia. Dogs have the canine ousia. Cats have the feline ousia. God has the divine ousia.
+[^tangible]: **Tangible**: Being able to be touched.
