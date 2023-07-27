@@ -1,6 +1,7 @@
 ---
 layout:page
-title: Quiz (dev)
+title: Quiz
+permalink: /quiz/
 ---
 
 this is an introductory paragraph.
