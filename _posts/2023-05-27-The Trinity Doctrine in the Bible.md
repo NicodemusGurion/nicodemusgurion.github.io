@@ -419,6 +419,16 @@ Forgiveness belongs to God alone. He is the only one with the absolute right to 
 
 In this verse Jehovah God says **they will look at Me whom they pierced**. How can an immaterial God be puerced unless he takes on a human body? This is a prophecy pointing forward to the crucifixion of Jesus, because Jesus is the Jehovah that they pierced. This proves the deity of Christ.
 
+# Malachi 3:1 
+
+> “Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the LORD of hosts.
+
+This verse is a messianic prophecy about Jesus. Here Jehovah speaks, saying that the true Lord will **come to his temple**. But the temple isnJehovah's templ. So this true Lord Jehovah says will come must he Jehovah himself. 
+
+It also calls him the messenger of the covenant. The word measwnger in hebrew is Malach. In greek it's Angelos. This verse is talking about [The Angel of Jehovah](#the-angel-of-Jehovah) which is a manifestation of Jehovah himself, the pre-incarnate Jesus. 
+
+This shows that Jesus is Jehovah, the Angel if Jehovah, the True Lord, and that he is God coming to his own temple.
+
 ## Matthew 1: 23 
 
 > “Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel” (which means, **God with us**).
