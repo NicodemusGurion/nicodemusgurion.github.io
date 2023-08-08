@@ -36,7 +36,9 @@ So in this short passage we have God, the Word of God, and the Spirit of God, co
 
 God speaks to himself in the second person saying **“Let us make man in our image, after our likeness"**, and then he **created man in his own image**. God has an internal discussion, the Father to the Son and Holy Spirit, and then the result is that of a unified singular action, man being created in **his** image.
 
-Also note what it says about humanity. "**In the image of God he created him; male and female he created them.**" So humanity as a whole is referred to as "him" and himanity also consists of male and female, them. Humanity was created in the image of God, meaning that this plurality if two seces in the unity of "man" or humanity, mirrors the nature of God. 
+Notice that God is not talking to angels or other creatures, because angels are not created in God's image, nor are humans created in the image of angels, but humans are created in the image of God. so when God says ge will create humans **in our inage** he is talking among the persons of the Godhead.
+
+Also note what it says about humanity. "**In the image of God he created him; male and female he created them.**" So humanity as a whole is referred to as "him" and humanity also consists of male and female, them. Humanity was created in the image of God, meaning that this plurality if two seces in the unity of "man" or humanity, mirrors the nature of God. 
 
 The name Adam means Humanity, and it is the name of all of humanity but also of the first male human. But Eve is also Adam in that she is part of humanity. The same way "God" refers to both the primary person of God, the Father, but also to divinity as a whole. Sonthe Son and the Holy Spirit are also God because they are part of Divinity.
 
@@ -72,7 +74,7 @@ This is a [theophany](#theophany) of the pre-incarnate second person of God.
 
 > Then Jehovah God said, “Behold, the man has become like one of us in knowing good and evil. Now, lest he reach out his hand and take also of the tree of life and eat, and live forever--”
 
-Again God converses among himself. Verse 5 makes clear that the one who knows (has the authority to make known) what is Good and Bad is God. When Humanity ate the fruit they took  on themselves this authority and became like God. Or as God said: "**the man has become like **one of us** in knowing good and evil."
+God speaks among himself and refers to himself in the plural. Humanity has **become like one if us in knowing good and evil.**  Verse 5 makes clear that the one who knows (has the authority to make known) what is Good and Evil is God, not the angels or anyone else. When Humanity ate the fruit they took on themselves this authority and became like God. 
 
 This indicates the plurality of God.
 
@@ -216,6 +218,14 @@ This whole pasaage is about how Job was looking forwards to "**see God..for myse
 
 This proves the deity of Christ.
 
+# Psalms 45:6-7 
+
+> 6 Your throne, O God, is forever and ever. The scepter of your kingdom is a scepter of uprightness; 7 you have loved righteousness and hated wickedness. Therefore God, your God, has anointed you with the oil of gladness beyond your companions;
+
+Here two distinct persons are called God. The psalmist is talking about what from the context appears to be a human kingly character, and calls him "God". He then goes on to talk about God being the God of this God. 
+
+This shows the duality between God the Father and God the Son (the king). Both are called God.
+
 ## Psalms 68: 32-33 
 
 > O kingdoms of the earth, sing to God; sing praises to the Lord, 33 to **him who rides in the heavens**, the ancient heavens; behold, he sends out his voice, his mighty voice.
@@ -276,6 +286,14 @@ Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-2-9) show
 > In the year that King Uzziah died I saw Jehovah sitting upon a throne, high and lifted up; and the train of his robe filled the temple. ... 3 And one called to another and said: “Holy, holy, holy is Jehovah of hosts; the whole earth is full of his glory!” ... my eyes have seen the King, Jehovah of hosts!”
 
 Isaiah saw the glory of Jehovah. in [John 12:41](#john-12-41) John explains that Isaiah actually saw Jesus Christ. This proves that Jesus is Jehovah.
+
+# Isaiah 6: 8
+
+> And I heard the voice of the Lord saying, “Whom shall I send, and who will go for us?” Then I said, “Here I am! Send me.”
+
+God asks "**Whom shall I send**?" in the first person and immediately follows it up with the mirror phrase "**who will go for us**?" in the plural. God refers to himself as both sinful and plural.
+
+Thos proves the unity and plurality of God.
 
 ## Isaiah 19: 1 
 
