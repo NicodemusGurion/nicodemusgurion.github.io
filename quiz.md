@@ -8,6 +8,7 @@ this is an introductory paragraph.
 [Answer 1](#answer-1)
 
 [Answer 2](#answer-2)
+foo
 
 ---
   
