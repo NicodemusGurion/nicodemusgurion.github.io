@@ -12,7 +12,7 @@ this is an introductory paragraph.
 this is the text to answer 1
 
 - a
--list
+- list
 
 </div>
 
@@ -22,7 +22,7 @@ this is the text to answer 1
 this is the text to answer 2
 
 - another
--list
+- list
 
 </div>
 
