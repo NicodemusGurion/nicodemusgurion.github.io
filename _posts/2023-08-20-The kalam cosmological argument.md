@@ -1,6 +1,8 @@
 --- 
 title: The kalam cosmological argument
 tags: [Arguments for God]
+image: https://i.ibb.co/9Wr98NR/E3507-EF5-DA2-E-4-DC3-B65-B-08979-AE93-DB7.png
+thumb: https://i.ibb.co/VTqWjtX/E3507-EF5-DA2-E-4-DC3-B65-B-08979-AE93-DB7.png
 ---
 
 The cosmological argument is a philosophical and theological argument that provides evidence for the existence of God based on the existence of the universe and its origins. There are different formulations of this argument, but one common version is known as the "Kalam cosmological argument," which can be summarized in the following points:
