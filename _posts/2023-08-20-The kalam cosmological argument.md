@@ -28,7 +28,7 @@ These attributes align with the traditional attributes of a creator deity in the
 
 Critics of the cosmological argument raise various objections, such as the possibility of an infinite regress of causes, the application of causality outside the scope of the observable universe, and alternative explanations for the origin of the universe, such as quantum mechanics and multiverse theories.
 
-**An infinite regress of causes** is a practical impossibility. If there is a precious infinite number of causal events that must take place before we come to the present moment, then how could the present moment ever arrive? there would still be an infinite number of events that would need to happen.
+**An infinite regress of causes** is a practical impossibility. If there is a previous infinite number of causal events that must take place before we come to the present moment, then how could the present moment ever arrive? there would still be an infinite number of events that would need to happen.
 
 **Causality beyond or before spacetime** is a theoretical idea we can not really know anything about. And however it may function it does not get rid of the necessity for a first cause. See [the argument from contingency](/the-argument-from-contingency).
 
