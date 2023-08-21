@@ -36,4 +36,4 @@ Critics of the cosmological argument raise various objections, such as the possi
 
 **The multiverse theory** is a nice piece of science fiction used to explain away the need for a first cause, by saying that every possible variation of universes has happened. Unfortunately there is absolutely no evidence for this theory. And also even if it was true, it would only shift the problem one step back and magnify it infinitely: How does such a multiverse exist?
 
-The only reasonable conclusion is an eternally existent, spaceless, powerful, living, conscious, intelligent first cause.
+The only reasonable conclusion is an eternally existent, spaceless, powerful, living, conscious, intelligent uncaused first cause.
