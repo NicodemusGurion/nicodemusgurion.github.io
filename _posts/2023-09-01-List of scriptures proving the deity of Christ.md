@@ -311,4 +311,4 @@ However Jesus completely shares the glory of his Father:
 
 God gives his glory to no one, but Jesus has the glory of God because Jesus is God.
 
-<small>Image courtesy of [Jeff Jacobs 1990](https://pixabay.com/users/jeffjacobs1990-7438739/)</small>
+<small>Image courtesy of [Jeff Jacobs](https://pixabay.com/users/jeffjacobs1990-7438739/)</small>
