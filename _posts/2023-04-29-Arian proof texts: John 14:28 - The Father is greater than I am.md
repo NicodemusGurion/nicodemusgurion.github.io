@@ -25,7 +25,7 @@ The word "greater" is even used in verse 12:
 
 Jesus did amazing works, including expelling demons, curing sick people, multiplying food, even raising the dead. How would his diciples ever top that and do "greater works than these"?
 
-By the _quantity_, not the _quality._ They would do their works for a greater *time*, in a greater *area*, to a greater *number of people*, and a greater *number of times*. The same way, when Jesus is saying the Father is _greater_ than him, he is not saying this in the absolute term. In heaven, the Father is greater than the Son in position, authority and rank, but **not** in _divinity._ Many other scriptures affirm that the Son shares the same godhood as the Father.(([See examples of scriptures proving the divinity of the Son here.](https://thyreon.com/list-of-scriptures-proving-the-deity-of-christ/))) And while Jesus was on earth, active in the form of a human, the Father was temporarily also greater in divine power. But it does not mean that the Father is greater in the Son in his divinity, or godhood. The whole of John chapter 14 repeatedly affirms the divinity of Jesus, which leads us to the next point that Arians fail at.
+By the _quantity_, not the _quality._ They would do their works for a greater *time*, in a greater *area*, to a greater *number of people*, and a greater *number of times*. The same way, when Jesus is saying the Father is _greater_ than him, he is not saying this in the absolute term. In heaven, the Father is greater than the Son in position, authority and rank, but **not** in _divinity._ Many other scriptures affirm that the Son shares the same godhood as the Father. [^list]  And while Jesus was on earth, active in the form of a human, the Father was temporarily also greater in divine power. But it does not mean that the Father is greater in the Son in his divinity, or godhood. The whole of John chapter 14 repeatedly affirms the divinity of Jesus, which leads us to the next point that Arians fail at.
 
 ### The context of the mission of Jesus
 
@@ -51,3 +51,5 @@ Which leads us to the key scripture. John 14:28\. Even this scripture has contex
 ## Summary
 
 Jesus is saying "the Father is greater than I am" because Jesus is temporarily in a lowly position as a human. Jesus needs to go back to the Father in heaven in order to send out the Holy Spirit. The Father was greater in power than Jesus on earth was, so if Jesus didn't go back to the Father, thus regaining the associated power and authority, he would not be able to send out the Holy Spirit.
+
+[^list]: [See examples of scriptures proving the divinity of the Son here.](https://thyreon.com/list-of-scriptures-proving-the-deity-of-christ/)
