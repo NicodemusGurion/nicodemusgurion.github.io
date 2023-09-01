@@ -310,3 +310,5 @@ However Jesus completely shares the glory of his Father:
 > 2 Peter 1:17 For when **he received honor and glory from God the Father**, and the voice was borne to him by the Majestic Glory, “This is my beloved Son, with whom I am well pleased,”
 
 God gives his glory to no one, but Jesus has the glory of God because Jesus is God.
+
+<small>Image courtesy of [Jeff Jacobs 1990](https://pixabay.com/users/jeffjacobs1990-7438739/)</small>
