@@ -218,7 +218,7 @@ This whole pasaage is about how Job was looking forwards to "**see God..for myse
 
 This proves the deity of Christ.
 
-# Psalms 45:6-7 
+## Psalms 45:6-7 
 
 > 6 Your throne, O God, is forever and ever. The scepter of your kingdom is a scepter of uprightness; 7 you have loved righteousness and hated wickedness. Therefore God, your God, has anointed you with the oil of gladness beyond your companions;
 
@@ -287,7 +287,7 @@ Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-2-9) show
 
 Isaiah saw the glory of Jehovah. in [John 12:41](#john-12-41) John explains that Isaiah actually saw Jesus Christ. This proves that Jesus is Jehovah.
 
-# Isaiah 6: 8
+## Isaiah 6: 8
 
 > And I heard the voice of the Lord saying, “Whom shall I send, and who will go for us?” Then I said, “Here I am! Send me.”
 
@@ -419,7 +419,7 @@ Forgiveness belongs to God alone. He is the only one with the absolute right to 
 
 In this verse Jehovah God says **they will look at Me whom they pierced**. How can an immaterial God be puerced unless he takes on a human body? This is a prophecy pointing forward to the crucifixion of Jesus, because Jesus is the Jehovah that they pierced. This proves the deity of Christ.
 
-# Malachi 3:1 
+## Malachi 3:1 
 
 > “Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the LORD of hosts.
 
