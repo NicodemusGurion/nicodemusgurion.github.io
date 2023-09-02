@@ -11,7 +11,7 @@ One major hangup those who don't believe in the trinity doctrine have is the iss
 
 ## Where Jesus is directly called God
 
-_Note, anti-trinitarians have many excuses for these scriptures, even going so far as to [change the Bible to hide them or misdirect people.](https://thyreon.com/changes-in-the-new-world-translation/) But all of their tactics fail under scrutiny. The fact that these scriptures even exist and that anti-trinitarians need to work so hard and often be so dishonest shows that they are a big problem for the anti-trinitarian side._
+_Note, anti-trinitarians have many excuses for these scriptures, even going so far as to [change the Bible to hide them or misdirect people.](/Changes-in-the-New-World-Translation) But all of their tactics fail under scrutiny. The fact that these scriptures even exist and that anti-trinitarians need to work so hard and often be so dishonest shows that they are a big problem for the anti-trinitarian side._
 
 > John 1:1 In the beginning was the Word, and the Word was with God, and t**he Word was God.**
 
