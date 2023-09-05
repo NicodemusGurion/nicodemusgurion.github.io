@@ -25,9 +25,9 @@ What does the Watchtower teach about God?
 
 ## God’s omnipresence
 
-*   [God is not omnipresent](https://wol.jw.org/en/wol/d/r1/lp-e/1200001949#h=11).
-*   [God is not omnipresent, but has a body and a location](https://wol.jw.org/en/wol/d/r1/lp-e/1981122#h=7:0-9:545).
-*   [God's throne inside universe](https://wol.jw.org/en/wol/d/r1/lp-e/1969483?p=par#h=3)
+*   [God is not omnipresent.](https://wol.jw.org/en/wol/d/r1/lp-e/1200001949#h=11).
+*   [God is not omnipresent, but has a body and a location.](https://wol.jw.org/en/wol/d/r1/lp-e/1981122#h=7:0-9:545).
+*   [God's throne is inside the universe.](https://wol.jw.org/en/wol/d/r1/lp-e/1969483?p=par#h=3)
 
 # Jesus
 
@@ -36,36 +36,31 @@ What does the Watchtower teach about Jesus, his nature and his role?
 ## What is the nature of the salvation though Jesus?
 
 *   [By his sacrificial death Jesus Christ bought back or redeemed all the human family who are dying “in Adam.”](https://wol.jw.org/en/wol/d/r1/lp-e/1979448#h=5)
-*   [The ransom benefits will only be fully applied after the millenium reign. Until then Jehovah's witnesses has no assurance.](https://wol.jw.org/en/wol/d/r1/lp-e/1958081?p=par#h=31) (Christianity teaches that the benefits are applied instantly upon acceptance of the ransom.)
+*   [The ransom benefits will only be fully applied after the millenium reign. Until then Jehovah's witnesses has no assurance of salvation.](https://wol.jw.org/en/wol/d/r1/lp-e/1958081?p=par#h=31) (Christianity teaches that the benefits are applied instantly upon acceptance of the ransom.)
 
 ## Does Jesus tell lies?
 
-*   [Jesus deceived the doubtful Thomas by materializing a body with wound marks to convince him](https://wol.jw.org/en/wol/d/r1/lp-e/1953641#h=21).
+*   [Jesus deceived the doubtful Thomas by materializing a fake body with fake wound marks in order to "convince" him](https://wol.jw.org/en/wol/d/r1/lp-e/1953641#h=21).
 *   [Jesus faked a body with wound marks to deceive his apostles.](https://wol.jw.org/en/wol/d/r1/lp-e/1200000783?p=par#h=8)
-*   [Jesus lies to thief when telling him he will be in paradise with him.](https://wol.jw.org/en/wol/d/r1/lp-e/1102003056#h=11)
+*   [Jesus lies to the thief next to him when telling him he will be in paradise with him.](https://wol.jw.org/en/wol/d/r1/lp-e/1102003056#h=11)
 
 ## What happened to Jesus body?
 
-*   [God removed Jesus’ body](https://wol.jw.org/en/wol/d/r1/lp-e/1101989107?q=what+happened+to+Jesus+body&p=sen#h=13).
-*   [Jesus' body was disposed of by Jehovah God, dissolved into its constituent elements or atoms](https://wol.jw.org/en/wol/d/r1/lp-e/1953641?p=par#h=12).
-*   [God caused it to disappear.](https://wol.jw.org/en/wol/d/r1/lp-e/1101978160#h=8)
+*   [God removed Jesus’ body.](https://wol.jw.org/en/wol/d/r1/lp-e/1101989107#h=13).
+*   [Jesus' body was "disposed of" by Jehovah God, "dissolved into its constituent elements or atoms"](https://wol.jw.org/en/wol/d/r1/lp-e/1953641?p=par#h=12).
+*   [God caused Jesus body to disappear.](https://wol.jw.org/en/wol/d/r1/lp-e/1101978160#h=8)
 
 ## Should we worship Jesus?
 
-*   ["Make no mistake about this, the true “higher powers” or “superior authorities” to whom Christians are commanded to subject themselves **in worship** are Jehovah God **and Christ Jesus**!"](https://wol.jw.org/en/wol/d/r1/lp-e/1951324?p=sen#h=5)
-*   [The Watchtower Charter says that its purpose is "public Christian **worship** of the Most High God and **Christ Jesus**."](https://wol.jw.org/en/wol/d/r1/lp-e/101978682?p=sen#h=34)
-*   [Watchtower charter states: "The purposes of this Society are:...public Christian **worship of** Almighty God **and Christ** Jesus](https://wol.jw.org/en/wol/d/r1/lp-e/1971923#h=34) (The article writers deceptively changes "and" to "[through]" in the quote to hide the original wording, but the correct wording can be seen [in this article](https://wol.jw.org/en/wol/d/r1/lp-e/101978682?p=sen#h=34).)
+*   [1951: "Make no mistake about this, the true “higher powers” or “superior authorities” to whom Christians are commanded to subject themselves **in worship** are Jehovah God **and Christ Jesus**!"](https://wol.jw.org/en/wol/d/r1/lp-e/1951324?p=sen#h=5)
+*   [The Watchtower Charter says that its purpose is "public Christian **worship** of the Most High God **and Christ Jesus**."](https://wol.jw.org/en/wol/d/r1/lp-e/101978682?p=sen#h=34)
+*   [Watchtower charter states: "The purposes of this Society are:...public Christian **worship** of Almighty God **and Christ Jesus**](https://wol.jw.org/en/wol/d/r1/lp-e/1971923#h=34) (The article writers deceptively changes "and" to "[through]" in the quote to hide the original wording, but the original wording can be seen [in this article](https://wol.jw.org/en/wol/d/r1/lp-e/101978682?p=sen#h=34).)
 *   [If you are an angel, you **should** worship Jesus.](https://wol.jw.org/en/wol/d/r1/lp-e/1954369)
 
 ## Who is Jesus mediator for?
 
 *   [Jesus is the “mediator” only for anointed Christians.](https://wol.jw.org/en/wol/d/r1/lp-e/1979250#h=4)
 *   [The "other sheep" are not in new covenant so Jesus is not their mediator.](https://wol.jw.org/en/wol/d/r1/lp-e/1979250#h=5)
-
-## Jesus "presence"
-
-*   [Inner chambers](https://wol.jw.org/en/wol/d/r1/lp-e/1101973026?q=inner+chambers&p=par#h=71)
-*   [Inner Chambers secret undetected](https://wol.jw.org/en/wol/d/r1/lp-e/1993323?q=inner+chambers&p=sen#h=13)
 
 # Salvation
 
@@ -74,21 +69,32 @@ What does the Watchtower teach about Jesus, his nature and his role?
 Are we saved by faith alone or do we have to work to earn our salvation and righteousness?
 
 *   ["We must devote all our time, energy and means to the matter of making this gift of eternal life our own"](https://wol.jw.org/en/wol/d/r1/lp-e/1952601#h=5)
-*   [Works righteousness](https://wol.jw.org/en/wol/d/r1/lp-e/1989681#h=23)
+*   [Salvation requires constant work until the end.](https://wol.jw.org/en/wol/d/r1/lp-e/1989681#h=23)
 
 # The Bible
 
 ## Bible translation
 
-*   [No new testament manuscript contains Jehovah’s name](https://wol.jw.org/en/wol/d/r1/lp-e/1101984305#h=3)
-*   [The Bible has not been corrupted](https://wol.jw.org/en/wol/d/r1/lp-e/2017210#h=39)
-*   [“Bible never changed”, but “scribes removed Jehovah’s name from NT”](https://wol.jw.org/en/wol/d/r1/lp-e/1001060076#h=7)
-*   [NWT based on spiritist Grebers work](https://wol.jw.org/en/wol/d/r1/lp-e/1983249?q=Greber&p=par#h=3)
-*   [Johannes Greber is a spiritist](https://wol.jw.org/en/wol/d/r1/lp-e/1956126#h=12)
-*   [Divine name removed from manuscripts](https://wol.jw.org/en/wol/d/r1/lp-e/1001060076#h=7)
-*   [Johanner Greber used to translate john 1:1](https://wol.jw.org/en/wol/d/r1/lp-e/1962682#h=7)
-*   [Apostate Christians 'evidently' took Jehovah’s name out of the New Testament text](https://wol.jw.org/en/wol/d/r1/lp-e/2010484#h=8)
-*   [Removing of God's name](https://wol.jw.org/en/wol/d/r1/lp-e/1997723#h=16)
+### The evil scribe conspiracy theory
+
+The Watchtower claims emphatically that the Bible has not been corrupted or changed. They also admit that not a single new testament manuscript contains the name Jehovah. But since that's unacceptable to them, they claim that during the second and third century some conspiracy of evil scribes traveled throughout the ancient world, located every last one of the tens of thousands of available manuscripts, and somehow sneakily replaced the manuscripts with exact copies with the name Jehovah replaced by "Lord", all without anyone ever noticing. Yet they still claim no one has ever been able to change or corrupt the Bible. 
+
+*   [""No ancient Greek manuscript that we possess today of the books from Matthew to Revelation contains God’s name in full.""](https://wol.jw.org/en/wol/d/r1/lp-e/1101984305#h=3)
+*   ["So, has the Bible been corrupted? Emphatically, no!"](https://wol.jw.org/en/wol/d/r1/lp-e/2017210#h=39)
+*   [“Sometime during the second or third century C.E. the scribes removed the Tetragrammaton from both the Septuagint and the Christian Greek Scriptures and replaced it with Kyʹri·os, “Lord” or The·osʹ, “God.””](https://wol.jw.org/en/wol/d/r1/lp-e/1001060076#h=7)
+*   ["When apostate Christians made copies of the Christian Greek Scriptures, they **evidently** took Jehovah’s personal name out of the text and substituted Kyʹri·os, the Greek word for “Lord.”"](https://wol.jw.org/en/wol/d/r1/lp-e/2010484#h=8) [^evidently]
+*   ["Yielding to that influence [from Satan] translators and copyists—some eagerly, others reluctantly—began to remove God’s own personal name, Jehovah, from his inspired Word in the thousands of places where it appeared. ... It was also taken out of copies of the Christian Greek Scriptures."](https://wol.jw.org/en/wol/d/r1/lp-e/1997723#h=16)
+
+[^evidently]: Every time the Watchtower uses the word "evidently" it means that there is absolutely no evidence for it.
+
+### Johannes Greber 
+
+Johannes Greber was a catholic priest who turned into a spiritist. He translated the new testament with the use of demons who would speak through his wife who was a spiritistic medium. Also the demons would sometimes give Johannes Greber visions of what he should write. The Watchtower then used his demon inspired new testament as support for translation choices in the New World Translation.
+
+*   [Johannes Greber "I myself was a Catholic priest, and until I was forty-eight years old had never as much as believed in the possibility of communicating with the world of God’s spirits. The day came, however, when I involuntarily took my first step toward such communication, and experienced things that shook me to the depths of my soul."](https://wol.jw.org/en/wol/d/r1/lp-e/1956126#h=12)
+*   ["[Greber's] translation was used occasionally in support of renderings of Matthew 27:52, 53 and John 1:1, as given in the New World Translation and other authoritative Bible versions."](https://wol.jw.org/en/wol/d/r1/lp-e/1983249?q=Greber&p=par#h=3)
+*   ["Similar is the reading by a former Roman Catholic priest [Greber]: “In the beginning was the Word, and the Word was with God, and **the Word was a god**."](https://wol.jw.org/en/wol/d/r1/lp-e/1962682#h=7)
+
 
 # The Organization
 
