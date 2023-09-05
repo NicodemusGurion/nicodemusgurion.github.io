@@ -95,7 +95,6 @@ Johannes Greber was a catholic priest who turned into a spiritist. He translated
 *   ["[Greber's] translation was used occasionally in support of renderings of Matthew 27:52, 53 and John 1:1, as given in the New World Translation and other authoritative Bible versions."](https://wol.jw.org/en/wol/d/r1/lp-e/1983249?q=Greber&p=par#h=3)
 *   ["Similar is the reading by a former Roman Catholic priest [Greber]: “In the beginning was the Word, and the Word was with God, and **the Word was a god**."](https://wol.jw.org/en/wol/d/r1/lp-e/1962682#h=7)
 
-
 # The Organization
 
 The "Organization", usually indicate the Watchtower corporation along with all its subsidiaries, all congregations of Jehovahs witnesses, and often including the "heavenly part of the organization", the angels.
@@ -103,22 +102,22 @@ The "Organization", usually indicate the Watchtower corporation along with all i
 ## The Organization itself
 
 *   [Origin of the use of the term "Organization"](https://wol.jw.org/en/wol/d/r1/lp-e/201995092?q=member+governing+body&p=sen#h=7)
-*   [Russel points out the true congregation is no organization](https://wol.jw.org/en/wol/d/r1/lp-e/1101993018?q=only+organization&p=par#h=7)
-*   [Russel not set up earthly organization](https://wol.jw.org/en/wol/d/r1/lp-e/1101993018?q=only+organization&p=par#h=9)
+*   [Russel points out that the true congregation is no organization.](https://wol.jw.org/en/wol/d/r1/lp-e/1101993018#h=7)
+*   [Russel did not set up an earthly organization.](https://wol.jw.org/en/wol/d/r1/lp-e/1101993018?q=only+organization&p=par#h=9)
 *   ["God’s organization is more important to him than the salvation of an immoral or disobedient creature."](https://wol.jw.org/en/wol/d/r1/lp-e/1951281?p=par#h=28)
 
 ## Salvation through organization
 
 The Watchtower strongly claims that salvation is only possible through their organization. _Not a Bible teaching._
 
-*   [Apart from Jehovah’s organization, there is no place else to go for salvation and true joy.](https://wol.jw.org/en/wol/d/r1/lp-e/1993685#h=18)
-*   [Come to Jehovah’s organization for salvation](https://wol.jw.org/en/wol/d/r1/lp-e/1981845#h=23)
-*   [The other sheep should never forget that their salvation depends on their active support of Christ’s anointed “brothers” still on earth](https://wol.jw.org/en/wol/d/r1/lp-e/2012205#h=8)
-*   [A requirement for salvation is that we be associated with God’s channel, his organization](https://wol.jw.org/en/wol/d/r1/lp-e/1983124#h=9)
-*   [The provision of salvation is closely connected with Jehovah’s organization. We cannot remain outside the organization of God’s people, separated from it, if we want to have Jehovah’s protection.](https://wol.jw.org/en/wol/d/r1/lp-e/1967604#h=6)
-*   [Bible students must appreciate that identifying themselves with Jehovah’s organization is essential to their salvation](https://wol.jw.org/en/wol/d/r1/lp-e/201990404)
+*   ["Apart from Jehovah’s organization, there is no place else to go for salvation and true joy."](https://wol.jw.org/en/wol/d/r1/lp-e/1993685#h=18)
+*   ["The witness yet includes the invitation to come to Jehovah’s organization for salvation"](https://wol.jw.org/en/wol/d/r1/lp-e/1981845#h=23)
+*   ["The other sheep should never forget that their salvation depends on their active support of Christ’s anointed “brothers” still on earth."](https://wol.jw.org/en/wol/d/r1/lp-e/2012205#h=8)
+*   ["A requirement [for salvation] is that we be associated with God’s channel, his organization"](https://wol.jw.org/en/wol/d/r1/lp-e/1983124#h=9)
+*   ["The provision of salvation is closely connected with Jehovah’s organization... We cannot remain outside the organization of God’s people, separated from it, if we want to have Jehovah’s protection."](https://wol.jw.org/en/wol/d/r1/lp-e/1967604#h=6)
+*   ["Bible students...must appreciate that identifying themselves with Jehovah’s organization is essential to their salvation."](https://wol.jw.org/en/wol/d/r1/lp-e/201990404)
 *   [Only by getting baptized as a Jehovah's witness can you survive Jehovah's day](https://wol.jw.org/en/wol/d/r1/lp-e/2019602#h=36)
-*   [Salvation lies in obedience to the faithful slave](https://wol.jw.org/en/wol/d/r1/lp-e/1956848#h=5)
+*   [Salvation lies in obedience to the faithful slave.](https://wol.jw.org/en/wol/d/r1/lp-e/1956848#h=5)
 
 ## Being the only Channel of God
 
