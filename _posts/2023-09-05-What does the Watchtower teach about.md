@@ -157,7 +157,7 @@ The prophethood of the Watchtower organization is unclear. At times they claim p
 *   [2014: We are prophets. "Prophesying would apply to any Bible-based teaching that a Christian minister does."](https://wol.jw.org/en/wol/d/r1/lp-e/1102008084#h=4)
 *   [2017: "Anointed Christians share in the work of prophesying. "](https://www.jw.org/en/library/jw-meeting-workbook/october-2017-mwb/meeting-schedule-oct30-nov5/sons-daughters-will-prophesy/)
 
-*   [Uses hegelian dialectic to reach truth](https://wol.jw.org/en/wol/d/r1/lp-e/1981889#h=12)
+*   [The Watchtower is apparently using the hegelian dialectic to reach truth, flip-flopping back and forth like a blind person fumbling through darkness.](https://wol.jw.org/en/wol/d/r1/lp-e/1981889#h=12)
 
 # The Faithful Slave/Governing Body
 
@@ -165,22 +165,25 @@ The Watchtower teaches that only a small group of men speaks for God and should 
 
 ## Is the Governing Body inerrant or not?
 
-The Bible says that someone speaking for God must be inerrant, and if they're not inerrant, they don't speak for God and we shouldn't listen to them. ([Deuteronomy 18:20-22](https://wol.jw.org/en/wol/bl/r1/lp-e?q=deuteronomy%2018%3A20-22)) Their claims on the matter are contradictory:
+The Bible says that someone speaking for God, a prophet, must be inerrant[^inerrant], and if they're not inerrant, they don't speak for God and we shouldn't listen to them. ([Deuteronomy 18:20-22](https://wol.jw.org/en/wol/bl/r1/lp-e?q=deuteronomy%2018%3A20-22)) Their claims on the matter are contradictory:
 
-*   [**No doctrinal falsehood** is “found in their mouths”.](https://wol.jw.org/en/wol/d/r1/lp-e/2009123#h=4)
-*   ["The Governing Body is **neither inspired nor infallible.** Therefore, **it can err in doctrinal matters** or in organizational direction."](https://wol.jw.org/en/wol/d/r1/lp-e/2017283#h=23)
-*   ["This magazine [Watchtower] makes **no** claim of inspiration](https://wol.jw.org/en/wol/d/r1/lp-e/1955365#h=42)"
-*   ["To say that the Bible is incomplete and that we need **to rely also** **on the unstable thinking of imperfect, uninspired men is to deny the power of God"**.](https://wol.jw.org/en/wol/d/r1/lp-e/1989327#h=23)
-*   [Org never knowingly misinform](https://wol.jw.org/en/wol/d/r1/lp-e/1962924#h=26)
+*   [**They're inerrant:** No doctrinal falsehood is “found in their mouths”.](https://wol.jw.org/en/wol/d/r1/lp-e/2009123#h=4)
+*   [**They're not inerrant**: "The Governing Body is neither inspired nor infallible. Therefore, it can err in doctrinal matters or in organizational direction."](https://wol.jw.org/en/wol/d/r1/lp-e/2017283#h=23)
+*   [**They're inerrant:** Org never knowingly misinform](https://wol.jw.org/en/wol/d/r1/lp-e/1962924#h=26)
+*   [**They're not inerrant:** "This magazine [Watchtower] makes no claim of inspiration.](https://wol.jw.org/en/wol/d/r1/lp-e/1955365#h=42)"
+*   [**They're pointless:** "To say that the Bible is incomplete and that we need to rely also on the unstable thinking of imperfect, uninspired men is to deny the power of God".](https://wol.jw.org/en/wol/d/r1/lp-e/1989327#h=23)
+
+[^inerrant]: **Inerrant:** Never wrong.
 
 ## The Faithful Slave
 
 Who really is the Faithful and discreet slave?
 
-*   ["The composite body of dedicated, anointed footstep followers of Jesus Christ"](https://wol.jw.org/en/wol/d/r1/lp-e/1958602#h=13)
-*   [Russel was the faithful slave](https://wol.jw.org/en/wol/d/r1/lp-e/1101993039?h=38#h=38)
+*   [Charles T. Russel was the faithful slave](https://wol.jw.org/en/wol/d/r1/lp-e/1101993039?h=38#h=38)
 *   [The Faithful and discreet slave used to be Russel](https://wol.jw.org/en/wol/d/r1/lp-e/1101993039#h=39)
 *   [Russel was considered the faithful slave until 1927](https://wol.jw.org/en/wol/d/r1/lp-e/301975002?q=russell+was+the+faithful+slave&p=par#h=243)
+*   ["The composite body of dedicated, anointed footstep followers of Jesus Christ"](https://wol.jw.org/en/wol/d/r1/lp-e/1958602#h=13)
+*   [The faithful and discreet slave is the Governing Body.](https://wol.jw.org/en/wol/d/r1/lp-e/1102009057#h=20)
 
 # The Anointed
 
