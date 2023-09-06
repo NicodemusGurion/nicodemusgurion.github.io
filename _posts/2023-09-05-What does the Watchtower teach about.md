@@ -101,10 +101,10 @@ The "Organization", usually indicate the Watchtower corporation along with all i
 
 ## The Organization itself
 
-*   [Origin of the use of the term "Organization"](https://wol.jw.org/en/wol/d/r1/lp-e/201995092?q=member+governing+body&p=sen#h=7)
 *   [Russel points out that the true congregation is no organization.](https://wol.jw.org/en/wol/d/r1/lp-e/1101993018#h=7)
 *   [Russel did not set up an earthly organization.](https://wol.jw.org/en/wol/d/r1/lp-e/1101993018?q=only+organization&p=par#h=9)
 *   ["God’s organization is more important to him than the salvation of an immoral or disobedient creature."](https://wol.jw.org/en/wol/d/r1/lp-e/1951281?p=par#h=28)
+*   [Origin of the use of the term "Organization"](https://wol.jw.org/en/wol/d/r1/lp-e/201995092#h=7)
 
 ## Salvation through organization
 
@@ -123,8 +123,8 @@ The Watchtower strongly claims that salvation is only possible through their org
 
 The Watchtower claims to be the only "channel" of communication from God. "Channel" in spiritual terms is an spiritistic agent that communicates with the spirit world on behalf of a client. _Not a Bible teaching._
 
-*   ["To them only does Jehovah reveal and ‘show his word’ and its hidden meaning". They're "the one and only channel by which the spirit and understanding are given"](https://wol.jw.org/en/wol/d/r1/lp-e/1952606?q=%22to+them+only+does+Jehovah+reveal+and+show+his+word+and+its+hidden+meaning%22&p=par#h=7)
-*   ["At no time did God use more than one channel or mouthpiece"](https://wol.jw.org/en/wol/d/r1/lp-e/1958602#h=8)
+*   ["To them only does Jehovah reveal and ‘show his word’ and its hidden meaning". They're "the one and only channel by which the spirit and understanding are given"](https://wol.jw.org/en/wol/d/r1/lp-e/1952606#h=7)
+*   ["At no time did God use more than one channel or mouthpiece"](https://wol.jw.org/en/wol/d/r1/lp-e/1958602#h=8) [^mouthpiece]
 *   ["That Jehovah is using such a channel today and that it is associated with the New World society of Jehovah’s witnesses the facts unmistakably show." The organization is the **only** channel.](https://wol.jw.org/en/wol/d/r1/lp-e/1962885#h=12)
 *   [" Paul shows that ‘Christ is not divided’ and that there were to be no divisions among his followers, we must conclude that **God uses only one channel at any one time**."](https://wol.jw.org/en/wol/d/r1/lp-e/1962885#h=11)
 *   ["**Never has God had more than one channel of communication at one time**. Failure to recognize and associate with his anointed witnesses would certainly indicate that one is not in Jehovah God’s organization and under his spirit."](https://wol.jw.org/en/wol/d/r1/lp-e/1966043)
@@ -145,6 +145,8 @@ The Watchtower claims to be the only "channel" of communication from God. "Chann
 *   [The GB receives direction through necromancy](https://wol.jw.org/en/wol/d/r1/lp-e/2007006#h=15)
 
 *   [Satan also has a false channel of communication](https://wol.jw.org/en/wol/d/r1/lp-e/1955364#h=29).
+
+[^mouthpiece]: If you actually look at the history if God's people in the Bible it is cert rare that Godonly had one prophet on the scene. Most prophets are contemporaries of other prophets.
 
 ## The Watchtower being a Prophet
 
