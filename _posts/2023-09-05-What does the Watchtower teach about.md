@@ -143,7 +143,7 @@ The Watchtower claims to be the only "channel" of communication from God. "Chann
 
 This is also what Governing Body member Geoffrey Jackson says under oath when asked about this:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R4-gGWILxEw?si=r3G_wRZshdv2kR3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="aspect-ration:16/9;width:100%" src="https://www.youtube.com/embed/R4-gGWILxEw?si=r3G_wRZshdv2kR3a" title="Geoffrey Jackson admitting they're not the only spokespeople for God." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [^mouthpiece]: If you actually look at the history if God's people in the Bible it is cert rare that Godonly had one prophet on the scene. Most prophets are contemporaries of other prophets.
 
