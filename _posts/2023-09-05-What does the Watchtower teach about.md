@@ -169,7 +169,7 @@ The Bible says that someone speaking for God, a prophet, must be inerrant[^inerr
 
 *   [**They're inerrant:** No doctrinal falsehood is “found in their mouths”.](https://wol.jw.org/en/wol/d/r1/lp-e/2009123#h=4)
 *   [**They're not inerrant**: "The Governing Body is neither inspired nor infallible. Therefore, it can err in doctrinal matters or in organizational direction."](https://wol.jw.org/en/wol/d/r1/lp-e/2017283#h=23)
-*   [**They're inerrant:** Org never knowingly misinform](https://wol.jw.org/en/wol/d/r1/lp-e/1962924#h=26)
+*   [**They're not trustworthy:** "God permits them to make mistakes...Sometimes a truth is seen but then is obscured by a misunderstanding"](https://wol.jw.org/en/wol/d/r1/lp-e/1962924#h=27)
 *   [**They're not inerrant:** "This magazine [Watchtower] makes no claim of inspiration.](https://wol.jw.org/en/wol/d/r1/lp-e/1955365#h=42)"
 *   [**They're pointless:** "To say that the Bible is incomplete and that we need to rely also on the unstable thinking of imperfect, uninspired men is to deny the power of God".](https://wol.jw.org/en/wol/d/r1/lp-e/1989327#h=23)
 
@@ -187,7 +187,7 @@ Who really is the Faithful and discreet slave?
 
 # The Anointed
 
-The Watchtower teaches that "anointed" Christians are limited in number to a total of 144.000\. The Bible teaches that all Christians are anointed. The word Christian means anointed. _Not a Bible teaching._
+The Watchtower teaches that "anointed" Christians are limited in number to a total of 144.000\. _Not a Bible teaching._ The Bible teaches that all Christians are anointed. The word Christian itself means anointed.
 
 ## The call of anointed ended in 1935
 
@@ -200,12 +200,14 @@ Isn't it funny that none of the Governing Body was born on or before 1935? Gerri
 ## A steady decline in the number of anointed signals the end is near.
 
 *   [1955: 17000 anointed left](https://wol.jw.org/en/wol/d/r1/lp-e/1955365#h=41)
-*   [Dwindling remnant proves end is near](https://wol.jw.org/en/wol/d/r1/lp-e/2000042#h=24)
-*   [Decline in memorial partakers prove end is near](https://wol.jw.org/en/wol/d/r1/lp-e/301981001#h=122)
+*   [That "the number of genuine anointed disciples of Christ is dwindling" shows that the end is near.](https://wol.jw.org/en/wol/d/r1/lp-e/2000042#h=24)
+*   ["Only as to Memorial partakers has there been a gradual decline, which is in accord with Scriptural expectations". However recently the jumbers have climbed from about 8.000 to over 20.000.](https://wol.jw.org/en/wol/d/r1/lp-e/301981001#h=122)
 
 ## But lately the numbers have increased drastically...
 
-*   [New memorial partakers are not truly anointed but rather have mental or emotional problems](https://wol.jw.org/en/wol/d/r1/lp-e/2016046#h=24)
+When faced with the fact that memorial partakers have started to increase, will thy still say that dwindling numbers mean the end is near? No, they are just going to slander these people by saying they are mentally insane.
+
+*   [New memorial partakers "have mental or emotional problems that lead them to believe that they will rule with Christ in heaven."](https://wol.jw.org/en/wol/d/r1/lp-e/2016046#h=24)
 
 ## How many anointed Christians have there ever been?
 
