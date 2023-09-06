@@ -129,22 +129,21 @@ The Watchtower claims to be the only "channel" of communication from God. "Chann
 *   [" Paul shows that ‘Christ is not divided’ and that there were to be no divisions among his followers, we must conclude that **God uses only one channel at any one time**."](https://wol.jw.org/en/wol/d/r1/lp-e/1962885#h=11)
 *   ["**Never has God had more than one channel of communication at one time**. Failure to recognize and associate with his anointed witnesses would certainly indicate that one is not in Jehovah God’s organization and under his spirit."](https://wol.jw.org/en/wol/d/r1/lp-e/1966043)
 *   ["Unless we are in touch with this channel of communication that God is using, we will not progress along the road to life, no matter how much Bible reading we do."](https://wol.jw.org/en/wol/d/r1/lp-e/1981889#h=6)
-
 *   ["The Lord would use not many channels for the dissemination of the Truth, but **one channel**."](https://wol.jw.org/en/wol/d/r1/lp-e/1981926#h=23)
 *   ["God was using only one channel to dispense truth"](https://wol.jw.org/en/wol/d/r1/lp-e/1981926#h=52)
 *   ["The anointed Christian remnant among Jehovah’s witnesses today comprise the collective channel of communication"](https://wol.jw.org/en/wol/d/r1/lp-e/1955365#h=41)
-
 *   [Only channel](https://wol.jw.org/en/wol/d/r1/lp-e/1952606?q=only+channel&p=par#h=7)
-
 *   [God "using his **one** channel."](https://wol.jw.org/en/wol/d/r1/lp-e/1981926#h=26)
 *   ["They do not claim that this slave class is infallible, but they do view it as the one channel that the Lord is using during the last days of this system of things."](https://wol.jw.org/en/wol/d/r1/lp-e/1101993039#h=39)
 *   [" Jesus has appointed the ‘faithful slave’ to be the only channel for dispensing spiritual food".](https://wol.jw.org/en/wol/d/r1/lp-e/2016849#h=18)
-*   [Org is channel](https://wol.jw.org/en/wol/d/r1/lp-e/1957446)
-*   [Voice of God1](https://wol.jw.org/en/wol/d/r1/lp-e/1957446#h=10)
-*   [Voice of god2](https://wol.jw.org/en/wol/d/r1/lp-e/1957446#h=28)
+*   [The organization is equated to God. "It is vital that we appreciate this fact and respond to the directions of the “slave” as we would to the voice of God, because it is His provision."](https://wol.jw.org/en/wol/d/r1/lp-e/1957446#h=10)
+*   ["We should respond with the same readiness as we would to the voice of God. It is his means of dealing with us now."](https://wol.jw.org/en/wol/d/r1/lp-e/1957446#h=28)
 *   [The GB receives direction through necromancy](https://wol.jw.org/en/wol/d/r1/lp-e/2007006#h=15)
+*   [Satan also has a false channel of communication.](https://wol.jw.org/en/wol/d/r1/lp-e/1955364#h=29).
 
-*   [Satan also has a false channel of communication](https://wol.jw.org/en/wol/d/r1/lp-e/1955364#h=29).
+This is also what Governing Body member Geoffrey Jackson says under oath when asked about this:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R4-gGWILxEw?si=r3G_wRZshdv2kR3a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [^mouthpiece]: If you actually look at the history if God's people in the Bible it is cert rare that Godonly had one prophet on the scene. Most prophets are contemporaries of other prophets.
 
