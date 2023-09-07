@@ -210,6 +210,8 @@ Isn't it funny that none of the Governing Body was born on or before 1935? Gerri
 When faced with the fact that memorial partakers have started to increase, will thy still say that dwindling numbers mean the end is near? No, they are just going to slander these people by saying they are mentally insane.
 
 *   [New memorial partakers "have mental or emotional problems that lead them to believe that they will rule with Christ in heaven."](https://wol.jw.org/en/wol/d/r1/lp-e/2016046#h=24)
+*   [At the same time if someone claims to be anointed "he or she should not be judged. The matter is between this person and Jehovah."](https://wol.jw.org/en/wol/d/r1/lp-e/2009443#h=21)
+*   [After all there's no evidence except that the person feels like it.](https://wol.jw.org/en/wol/d/r1/lp-e/1975122?&p=sen#h=11)
 
 ## How many anointed Christians have there ever been?
 
@@ -229,7 +231,7 @@ The Watchtower articles reveal that there have been millions upon millions of an
 *   [If no anointed is present at the memorial, there is no need for emblems to be present either](https://wol.jw.org/en/wol/d/r1/lp-e/1985128#h=6)
 *   [Anointed and "Other sheep" have an equal amount of holy spirit.](https://wol.jw.org/en/wol/d/r1/lp-e/1996447)
 *   [If someone claims to be anointed "he or she should not be judged. The matter is between this person and Jehovah."](https://wol.jw.org/en/wol/d/r1/lp-e/2009443#h=21)
-*   [How do you know you are anointed? You just kind of feel like it.](https://wol.jw.org/en/wol/d/r1/lp-e/1975122?&p=sen#h=11)
+*   [How do you know you are anointed? You just kind of "feel like it".](https://wol.jw.org/en/wol/d/r1/lp-e/1975122?&p=sen#h=11)
 
 # Various Teachings
 
