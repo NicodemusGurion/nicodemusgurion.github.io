@@ -239,16 +239,16 @@ In alphabetical order.
 
 ## Animal diet
 
-*   [Questions From Readers — Watchtower ONLINE LIBRARY](https://wol.jw.org/en/wol/d/r1/lp-e/1994088?q=animals+ate&p=par#h=8)
-*   [Animals on ark not eat meat](https://wol.jw.org/en/wol/d/r1/lp-e/1961929?q=animals+ate+vegetation&p=par#h=8)
-*   [Gave vegetation](https://wol.jw.org/en/wol/d/r1/lp-e/1200004549?q=animals+ate+vegetation&p=par#h=3)
-*   [Animals ate only vegetation](https://wol.jw.org/en/wol/d/r1/lp-e/1981247?q=animals+ate+vegetation&p=par#h=31)
+*   [Animals before the flood didnt ear meat, but Cain somehow knew wgat being attacked by a meat eating animal was like.](https://wol.jw.org/en/wol/d/r1/lp-e/1994088)
+*   [Animals on ark not eat meat](https://wol.jw.org/en/wol/d/r1/lp-e/1961929#h=8)
+*   [God gave vegetation to eat](https://wol.jw.org/en/wol/d/r1/lp-e/1200004549#h=3)
+*   [Animals ate only vegetation before the flood](https://wol.jw.org/en/wol/d/r1/lp-e/1981247#h=31)
 
 ## Armageddon
 
-*   [Only a few years remain](https://wol.jw.org/en/wol/d/r1/lp-e/1969522?q=only+few+years+remain&p=sen#h=7)
-*   [99.9% will die](https://wol.jw.org/en/wol/d/r1/lp-e/1958762#h=18)
-*   [Only JWs will survive](https://wol.jw.org/en/wol/d/r1/lp-e/1989647#h=9)
+*   [1969: "World events in fulfillment of Bible prophecy give sure indication that only a few years remain for this wicked arrangement of things.l](https://wol.jw.org/en/wol/d/r1/lp-e/1969522#h=7)
+*   [99.9% of the world population will be killed at Armageddon.](https://wol.jw.org/en/wol/d/r1/lp-e/1958762#h=18)
+*   ["Only Jehovah’s Witnesses, ... have any Scriptural hope of surviving the impending end of this doomed system..."](https://wol.jw.org/en/wol/d/r1/lp-e/1989647#h=9)
 *   [Billions will die in GT](https://wol.jw.org/en/wol/d/r1/lp-e/1993723#h=18)
 *   [Must be in org to survive](https://wol.jw.org/en/wol/d/r1/lp-e/1983124#h=9)
 *   [1967 our generation the last](https://wol.jw.org/en/wol/d/r1/lp-e/1967241#h=9)
