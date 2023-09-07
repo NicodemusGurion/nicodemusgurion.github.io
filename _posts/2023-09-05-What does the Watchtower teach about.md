@@ -213,17 +213,19 @@ When faced with the fact that memorial partakers have started to increase, will 
 
 ## How many anointed Christians have there ever been?
 
-The Watchtower articles reveal that there have been millions upon millions of anointed Christians throughout history. In the ten persecutions between A.D. 49-313 alone, hundreds of thousands of anointed Christians were killed . The number killed were naturally just a fraction of the total number of aanointed Christians who have lived. To claim that the total number of anointed Christians has been less than 144.000 is beyond absurd.
+The Watchtower articles reveal that there have been millions upon millions of anointed Christians throughout history. In the ten persecutions between A.D. 49-313 alone, hundreds of thousands of anointed Christians were killed . The number killed were naturally just a fraction of the total number of anointed Christians who have ever lived. To claim that the total number of anointed Christians has been less than 144.000 is beyond absurd.
 
 *   [In A.D. 95  Domitian killed 40.000 Christians. (27% of 144.000)](https://wol.jw.org/en/wol/d/r1/lp-e/1951641#h=6)
 *   [In A.D. 235 "numberless Christian victims were slain".](https://wol.jw.org/en/wol/d/r1/lp-e/1951641#h=11)
 *   [In A.D. 303 **861.000** (17.000 + 144000 + 700.000)  Christians were killed](https://wol.jw.org/en/wol/d/r1/lp-e/1951641#h=16)
-*   [The Watchtower considers Paulicians to be anointed Jehovah's witnesses](https://wol.jw.org/en/wol/d/r1/lp-e/1965208#h=7) (Paulicians existed from 650 to the 16th century. In 843, 100.000 Paulicians were killed. In 970 200,000 Paulicians were exiled to Thrace. There were way more than 144.000.)
+*   [The Watchtower considers Paulicians to be anointed Jehovah's witnesses. 100.000 Paulicians were killed.](https://wol.jw.org/en/wol/d/r1/lp-e/1965208#h=7) [^paulicians]
 *   [The Watchtower consider Waldenses to be Anointed.](https://wol.jw.org/en/wol/d/r1/lp-e/1965208#h=8) ([Today they number 25.000)](https://www.oikoumene.org/member-churches/waldensian-church)
+
+[^paulicians]: Paulicians existed from 650 to the 16th century. In 843, 100.000 Paulicians were killed. In 970 200,000 Paulicians were exiled to Thrace. There were way more than 144.000.
 
 ## Other information about the anointed
 
-*   [Emblems and Manna both symbolizes Jesus body. Even non-israelites (representing "other sheep") ate the manna. Jesus also said we must eat his body to get everlasting life. Hence "other sheep" should also eat the emblems.](https://wol.jw.org/en/wol/d/r1/lp-e/1988090#h=5:0-7:813)
+*   [Emblems and Manna both symbolizes Jesus body. "Jesus addressed those words to more than his disciples"](https://wol.jw.org/en/wol/d/r1/lp-e/1988090#h=5:0-7:813)
 *   [If no anointed is present at the memorial, there is no need for emblems to be present either](https://wol.jw.org/en/wol/d/r1/lp-e/1985128#h=6)
 *   [Anointed and "Other sheep" have an equal amount of holy spirit.](https://wol.jw.org/en/wol/d/r1/lp-e/1996447)
 *   [If someone claims to be anointed "he or she should not be judged. The matter is between this person and Jehovah."](https://wol.jw.org/en/wol/d/r1/lp-e/2009443#h=21)
