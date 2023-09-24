@@ -108,7 +108,7 @@ The word translated "reward" actualy means "portion". The meaning is that humans
 
 The Watchtower probably change this to help their indoctrination of people to willingly work for free for their company. If people can be made to think that "work is a reward", rather than some necessary evil we must endure, then maybe they won't feel as used and abused.
 
-# Zechariah 3: 1,2
+# Zechariah 3: 1, 2
 
 > Zechariah 3:1,2 — And he showed me Joshua the high priest standing before the angel of Jehovah, and Satan was standing at his right hand to resist him. 2 Then **the angel of** Jehovah said to Satan: “May Jehovah rebuke you, O Satan, yes, may Jehovah, who has chosen Jerusalem, rebuke you! Is not this one a burning log snatched out of the fire?”
 
@@ -166,7 +166,7 @@ In this verse the Greek says "that (one) will reprove the world".   It is quite
 
 But “he will give the world convincing evidence concerning sin” means that the world is a passive recipient of evidence, like the world is not the one on trial but rather the judge or jury. And whose sin is it talking about? It’s all very unclear. The word ἐλέγξει (elengchei) can mean “to expose, convict, reprove”, and I guess the meaning “expose” can be forced to mean “give evidence”, but that’s a stretch. In that case it would rather be “give evidence **against** someone” rather than “give evidence **to** someone”. I do not know why they would change the clear meaning of the word to make such a complicated translation, but it’s not accurate.
 
-# John 16: 27,28
+# John 16: 27-28
 
 > For the Father himself has affection for you, because you have had affection for me and have believed that I came **as God’s representative.** 28 I came **as the Father’s representative** and have come into the world. Now I am leaving the world and am going to the Father.”
 
