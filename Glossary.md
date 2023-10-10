@@ -1,8 +1,7 @@
 ---
 title: Glossary
 permalink: /glossary/
-layout: page
-menu: yes
+layout: menu
 ---
 # Table of contents
 
