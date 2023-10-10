@@ -1,6 +1,7 @@
 ---
 title: The 10 most common objections made by atheists
 tags: [Atheism]
+layout:post
 ---
 
 # Lack of empirical evidence
