@@ -1,6 +1,7 @@
 ---
 permalink: /islam/
 title: Islam index
+menu: yes
 ---
 Adapted from [Answering-Islam.org](https://answering-islam.org/Index/index.html).
 
