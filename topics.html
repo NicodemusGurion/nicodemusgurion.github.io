@@ -4,9 +4,14 @@ permalink: /topics/
 title: Topics
 ---
 <div id="archives">
-{% for topic in site.tags | sort %}
+{% capture all_topics %}
+{% for topic in site.tags %}
+|{{ topic | first }}
+{% endfor %}
+{% endcapture %}
+{% assign sorted_topics = all_topics | split: '|' | sort %}
+{% for topic_name in sorted_topics %}
   <div class="archive-group">
-    {% capture topic_name %}{{ topic | first }}{% endcapture %}
     <div id="#{{ topic_name | slugize }}"></div>
     <p></p>
 
