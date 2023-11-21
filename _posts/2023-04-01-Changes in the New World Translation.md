@@ -325,6 +325,17 @@ The NWT adds the word “other” five times in this passage. No Greek manuscrip
 ![](https://i.ibb.co/Twh6nqD/79-E359-AC-3518-40-A4-B87-E-B29-A130-BD26-C.jpg)
 *Colossians 1:15–17, 20 Kingdom Interlinear Translation*
 
+# Colossians 1: 19
+
+> because God was pleased to have all fullness to dwell in him,
+
+**Removal**
+
+![](https://i.ibb.co/N12F600/205-DEA02-C4-AB-4285-8-A98-06-FCC57-EFABD.jpg)
+*Colossians 1:19 Kingdom Interlinear Translation*
+
+This is a subtle change. The NWT removes the definite article "the" before "fullness". If the "The" is there you have to ask yourself "what fullness?" And the answer is "the fullness of God." But when left out, it's just any indefinite general fullness, some sort of quality.
+
 # Colossians 1: 21,22
 
 > 21 Indeed, you who were once alienated and enemies because your minds were on the works that were wicked,22 he has now reconciled **by means of** that one’s fleshly body through his death, in order to present you holy and unblemished and open to no accusation before him —
