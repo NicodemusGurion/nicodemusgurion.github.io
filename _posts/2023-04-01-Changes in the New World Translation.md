@@ -108,6 +108,16 @@ The word translated "reward" actualy means "portion". The meaning is that humans
 
 The Watchtower probably change this to help their indoctrination of people to willingly work for free for their company. If people can be made to think that "work is a reward", rather than some necessary evil we must endure, then maybe they won't feel as used and abused.
 
+# Ezekiel 8: 3
+
+> Then he stretched out what appeared to be a hand and took me by a tuft of hair of my head, and **a spirit** carried me between the earth and the heavens and brought me to Jerusalem by means of the visions from God, to the entrance of the inner gate that faces north, where the idolatrous symbol of jealousy that incites jealousy stood.
+
+**Change**
+
+In this rich passage, Ezekiel has a fantastic encounter with God. God comes to him in the form of a man of fire, who lifts him by the hair and carries him to Jerusalem. But they change the definite article to an indefinite article, "the Spirit" to "a spirit". The spirit is the Holy Spirit, and in this passage the Holy Spirit (who is associated with fire) is present in the shape of a man of fire. The Holy Spirit carries him to Jerusalem and also speaks to him throughout the rest of the chapter, speaking of himself as God.
+
+But by changing this to the indefinite article, it creates confusion as to who this spirit is. Is it an angel? Does it just do the lifting? Who is speaking to Ezekiel. It all gets very fuzzy. And that's the reason for this change. Hiding the triune nature of God, and confusing people.
+
 # Zechariah 3: 1, 2
 
 > Zechariah 3:1,2 — And he showed me Joshua the high priest standing before the angel of Jehovah, and Satan was standing at his right hand to resist him. 2 Then **the angel of** Jehovah said to Satan: “May Jehovah rebuke you, O Satan, yes, may Jehovah, who has chosen Jerusalem, rebuke you! Is not this one a burning log snatched out of the fire?”
