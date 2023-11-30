@@ -141,6 +141,28 @@ The Watchtower adds the words "the angel of" in verse 2 to hide the fact that th
 ![](https://i.ibb.co/18kkT4w/ECB27-CD5-AA61-4-B15-B761-A2-ED3-F24-EDB6.jpg)  
 Zechariah 3:2a in interlinear form.
 
+# John 1: 1
+
+> In the beginning was the Word, and the Word was with God, and the Word was **a god.**
+
+**Addition/Change**
+
+This is probably one of the most famous change to the New World Translation. Since John 1:1 is so blatantly trinitarian, the Watchtower jumps through an amazing amount of hoops to try to get the text to say something else, changing "the Word was God" to "the Word was **a** god"".
+
+This is justified because the Greek text lacks the definite article before the word Theos (θεὸς). The Greek text says "αὶ θεὸς ἦν ὁ λόγος", literally "and god was the word". (We'll get back to the backwards word order.) Their argument is that if the Word is God, it should say "and the God was the Word". But it doesn't, so it should be "a God."
+
+But that's not how Greek grammar works. If you have two nouns that are equated with "is", one is the subject and one is the predicate nominative. Especially since you can write them in any order you wish. So which one is which? The rule is that you put the definite article on the subject and leave it out from the predicate nominative, although both are technically definite. That's the reason why there is not a definite article before "God". John followed the grammar rules for saying that A = B, and indicating which word has which function.
+
+Which brings us to the backwards word order. The reason why he writes "and God was the Word" is because he *emphasizes* that the word is God, so he puts "God" first. In Greek you can write it in any order, but you can use the word order to emphasize different things. And as noted, he only use the definite article before "Word" to signal that this is the subject of the sentence, the one being described as God. 
+
+# John 7: 29
+
+> I know him, because I am **a representative** from him, and that One sent me.”
+
+**Addition**
+
+In this verse Jesus is actually saying "But I know him for **I am from him**, and he hath sent me" which means that Jesus origin is from God himself, that Jesus is an extension of the one true God into this world. But this would be another clear scripture supporting the trinity doctrine, so the Watchtower, antichrists as they are, blatantly inserts "a representative" into the sentence, demoting Jesus from being part of the one true God to being an errand boy.
+
 # John 13: 32
 
 > God himself will glorify him __ __, and he will glorify him immediately.
