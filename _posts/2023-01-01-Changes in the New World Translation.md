@@ -4,7 +4,9 @@ tags: [Featured, Jehovah's witnesses, New World Translation, Watchtower shenanig
 image: https://i.ibb.co/JvTTgWS/7-Lf9-Geg1-o.jpg
 thumb: https://i.ibb.co/48LL3w0/7-Lf9-Geg1-o.jpg
 ---
-The Watchtower corporation boasts that the New World Translation is the best and most accurate Bible translation. They say they have translated it to convey the correct meaning. But when scrutinized it turns out that the New World Translation team has both added, removed and changed words and phrases to fit their own doctrines. This is condemned in scripture and is a serious sin. (Deuteronomy 4:2; Proverbs 30:5,6; Revelation 22:18,19) Other passages are simply clunky and inelegant.
+The Watchtower corporation boasts that the New World Translation is the best and most accurate Bible translation. They say they have translated it to convey the correct meaning. But when scrutinized it turns out that the New World Translation team has both added, removed and changed words and phrases to fit their own doctrines. This is condemned in scripture as a serious sin. (Deuteronomy 4:2; Proverbs 30:5,6; Revelation 22:18,19) 
+
+Apart from this the translation is also very clunky and inelegant, choosing such phrases as "dominant mental attitude" rather than just "mind".
 
 This article will look at a selection of scriptures in the New World Translation from as neutral an exegetical perspective as possible and describe what kind of change was made, and how this impacts the meaning of the translation. I will also make a guess as to why it was likely made based on decades of experience with Watchtower doctrine. And I may also compare it to a more mainstream Christian interpretation when appropriate. For the New Testament, all English quotations unless otherwise indicated are taken from the New World Translation 2013 edition, and the Greek quotations come from the [Kingdom Interlinear Translation](https://www.jw.org/en/library/bible/kingdom-interlinear-greek-translation/books/) released by the Watchtower and [downloadable from jw.org](https://download-a.akamaihd.net/files/media_publication/c0/int_E.jwpub) so that you can easily check that I’m not making this up. Please look up everything in your own Bible or the [JW app](https://www.jw.org/en/online-help/jw-library/).
 
@@ -67,6 +69,21 @@ This one is a bit of a head scratcher. Because Psalm 22 is a clear messianic pro
 **Biased translation**
 
 The word translated “close friendship“ is the Hebrew סוד (sod) which means “secret” or “intimacy”. The Watchtower probably chooses the word “friendship” to support their teaching that you can only “be friends with God”. The Bible rather teaches that when you put faith in Jesus, you become adopted as a child of God. Being a child of someone is more intimate than being their friend, but the Watchtower wants to hide from you your status as a **child of God** when you put faith in Jesus. They want to make you think you are in a lesser position by tricking you into thinking that “friendship” is the best you could hope for.
+
+# Psalm 45: 6
+
+> God is your throne forever and ever; The scepter of your kingdom is a scepter of uprightness.
+
+**Change**
+
+Does it feel strange to say that God is a chair? That's because that's not how this verse is supposed to be rendered. The correct rendering is "Your throne, o God, is forever and ever..." But since Paul is using this quote in [Hebrews 1:8](#hebrews-1-8) about Jesus, the Watchtower needs to change this verse both here and there to fit their own doctrines.
+
+The Hebrew text says "כִּסְאֲךָ אֱלֹהִים" (kissay-dah elohim) where "כִּסְאֲ" (kissay) means throne, and "ךָ" (dah) is the second person pronominal suffix meaning "yours". And "אֱלֹהִים" (Elohim) of course means God. So "the throne - that is yours - God..."
+
+If you want to say that "God **is** your throne..." you would typically have to use the Hebrew word "הוּא" (hu), which means "he" or "it." So, to say "God **is** your throne," you could write "אֱלֹהִים הוּא כִּסְאֶךָ" (Elohim hu kisekha).
+
+So there is no justification for translating this as "God is your throne" other than that the Watchtower needs to protect their doctrine that Jesus is not God. And since Paul uses this verse in [Hebrews 1:8](#hebrews-1-8) about Jesus, it would mean that Jesus is referred to as God. It is a strong evidence for the divinity of Jesus.
+
 
 # Proverbs 8: 22
 
@@ -438,7 +455,21 @@ The words "the inspired word" in this verse have been changed. In the Greek it s
 ![](https://i.ibb.co/crY1C6M/0-B5-FDF69-07-F5-4-F84-ABD5-67598-FB49704.jpg)
 *Hebrews 1:8 Kingdom Interlinear Translation*
 
-In Greek the verse says "toward (but) the Son The throne of you the God" meaning that God (the Father) tells the son: "The throne of you, o God...". God the Father here directly calls Jesus "God". This is a strong piece of evidence for the divinity of Jesus. So it is no surprise that the Watchtower boldly and blatantly change it into something that makes no sense whatsoever. "God is your throne"? Is God a chair now? How does that even make sense?
+This verse quotes [Psalm 45:6](#psalm-45-6) which in Greek begins with "Ὁ (Ho/The) θρόνος (thronos/throne) σου (soy/of you) ὁ (Ho/the) θεὸς (Theos/God)"
+
+The word σου "sou" is a possessive form of the second person pronoun συ "soo", meaning you. Hence σου "sou" means "yours" or "of you" indicating that the first noun, the throne, belongs to the second noun, God.
+
+In short the phrase means "The throne of you, God...", "your throne, o God" or "The throne which belongs to you, o God..." speaking to God. The sentence is addressing God and the rest of the sentence makes a comment on the Throne that belongs to God.
+
+If the author had wanted to convey the idea that God is a piece of furniture that belongs to the person being addressed, they would have used the copulative verb "είναι" (is) to identify God with the Throne itself. The phrase would then be:
+
+"Ὁ (Ho/The) θεὸς (Theos/God) **είναι" (is)** θρόνος (thronos/throne)  ὁ (Ho/the) σου (soy/of you)"
+
+So there is absolutely no justification for translating this as "God is your throne..." 
+
+According to Paul, this sentence is spoken to Jesus by God the Father, and God the Father adresses Jesus as "God". This is a strong piece of evidence for the deity of Jesus. So it is no surprise that the Watchtower boldly and blatantly change it into something that makes no sense whatsoever. "God is your throne"? God is not a piece of furniture.
+
+See also [Psalm 45:6](#psalm-45-6)
 
 # Hebrews 11: 13,16
 

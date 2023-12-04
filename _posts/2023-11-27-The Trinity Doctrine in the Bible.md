@@ -218,6 +218,12 @@ This whole pasaage is about how Job was looking forwards to "**see God..for myse
 
 This proves the deity of Christ.
 
+## Psalms 44: 21
+
+> Will not God discover this? He is aware of the secrets of the heart.
+
+This verse identifies God as the one who **is aware of the secrets of the heart**. This shows omniscience. [The one who sees the hearts](#the-one-who-sees-the-heart) is also one of the descriptions of Jesus Christ, proving Jesus is God, and omniscient.
+
 ## Psalms 45:6-7 
 
 > 6 Your throne, O God, is forever and ever. The scepter of your kingdom is a scepter of uprightness; 7 you have loved righteousness and hated wickedness. Therefore God, your God, has anointed you with the oil of gladness beyond your companions;
@@ -877,7 +883,13 @@ God did not subject the world to angels, but the world is subjected to Jesus, wh
 
 In this analogy Jesus is greater than Moses just like the builder of a house is greater than the house. Jesus is put in the creator role, and Moses in the creature role. This is in line with scriptures like [John 1:3](#john-13), [10](#john-110); [1 Corinthians 8:6](#1-corinthians-86); [Colossians 1:16](#colossians-116); [Hebrews 1:2](#hebrews-12), [10](#hebrews-110); [11:3](#hebrews-113); which all shows that Jesus is the creator of the universe. This verse builds on this analogy by saying that **the builder of all things** - the creator of the universe - **is God.** In other words, Jesus is God.
 
-## Hebrews 9:14 
+## Hebrews 5: 5
+
+> So, too, the Christ did not glorify himself by becoming a high priest, but **was glorified by the One who said to him: “You are my son; today I have become your father.”**
+
+This is a reference to Psalms 2:7, a messianic prophecy, where God says this to the messiah. And Paul says that in doing so, God glorified Jesus. However in Isaiah 42:8 (also a messianic prophecy) Jehovah says "I give my glory to no one else." Jehovah does not give his glory to anyone else, but he gives it to Jesus. This shows that Jesus is **no one else** than Jehovah.
+
+## Hebrews 9: 14 
 
 > how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God.
 
@@ -1171,40 +1183,7 @@ According to Segal, the Two Powers in Heaven doctrine can be understood as follo
 
 Segal argues that the Two Powers in Heaven doctrine emerged within certain Jewish circles. This belief system reflects a complex understanding of the divine realm, acknowledging both God's ultimate sovereignty and the existence of an intermediary figure who participates in divine authority. A primary Jehovah and a secondary Jehovah, both being Jehovah.
 
-# Scriptures by topic
 
-These are the main points of the trinity doctrine and lists the scriptures that support them. Seenindividual scriptures for more information.
-
-## There is only one God
-
-The trinity doctrine is strictly monotheistic. Unlike forms of unitarianism oike Arianism which implies that there are several gods of different levels of gidhood, the trinity doctrine affirms that there is only one almighty, all knowing, ever-present, eternal creator God. Anyone else calling thenselves "god" are not true gods, but this is merely an etymological mistake because of overlapping terms. See ]The Divine Council](#the-divine-council) for example.
-
-## The Father is God
-
-This point is rarely contested, but here are some scriptures showing this: 1 Corinthians 8:6; Galatians 1:1; Ephesians 6:23; Colossians 1:3;3:17 1 Thessalonians 1:1,2; 1 Timothy 1:2; 2 Timothy 1:2; Titus 1:4; 1 Peter 1:2; 2 Peter 1:17; 2 John 3; Jude 1.
-
-## The Son is God
-
-This is the biggest hurdle for unitarians to overcome. But the Bible shows that the Son has attributes only God has, such as eternality, omnipotence, omniscience, and omnipresence. He also bears titles that belong only to God.
-
-
-
-## The Holy Spirit is a person
-
-Some have trouble seeing the Holy Spirit as a person, thinking he is just some immpersonal force. But the Bible consistently desvribes him as a person, doing things only persons can do, such as think, feel, have a will, communicate, and so on.
-
-
-## The Holy Spirit is God
-
-This ought to be less contested, since God is spirit, so the spirit must be God.
-
-
-
-## They are equal in their substance
-## They have different roles
-## The Son took on a human substance
-## The Son emptied himself
-## The Son is still a man
 
 [^coequal]: **Coequal**: Being equal in essence. No one is more of less "God", however in the cooperation between the persons of God, there is a certain hierarchy of authority and responsibility.
 [^coeternal]: **Coeternal**: All of them are eternal. None has a beginning nor an end. 
