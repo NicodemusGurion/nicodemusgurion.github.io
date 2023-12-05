@@ -1,7 +1,7 @@
 ---
 title: "Arian proof texts: John 17:3 - the only true God"
 tags: [Arianism, Trinity, Jehovah's Witnesses]
-image: https://i.ibb.co/5MPBMnp/5892-D4-F2-9466-453-B-BFDC-586-FEF30-F91-D.jpg
+image: https://i.ibb.co/5nSs7wF/D92621-A6-5-E2-C-40-EF-8319-C03-EC4569-D4-A.jpg
 thumb: https://i.ibb.co/YRxpRyn/5892-D4-F2-9466-453-B-BFDC-586-FEF30-F91-D.jpg
 ---
 
