@@ -1,10 +1,30 @@
 ---
-title: Selected Hadiths
+title: List of verses from the Quran and Hadiths
 tags: [Islam, Muslims, Muhammad, Lists]
 thumb: https://i.ibb.co/chRcQPj/8414-B52-F-290-B-407-C-8-DB9-473-B12-F2587-E.jpg
 image: https://i.ibb.co/Jvb87Hr/F964-A421-1730-4-E89-B70-D-2310-BC079-BA6.jpg
 ---
-Some selected Hadiths about everyone's favorite prophet, Mohammed.
+Some selected Quran and Hadith verses about everyone's favorite prophet, Mohammed.
+
+# It's ok to marry and divorce girls who have not yet menstruated
+
+[Surah 65:4](https://quran.com/65/4)
+
+Context, verse 1:
+
+> O Prophet! ˹Instruct the believers:˺ **When you intend to˺ divorce women, then divorce them with concern for their waiting period**...
+
+There's a waiting period before a man can divorce a wife.
+
+> As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated as well**. As for those who are pregnant, their waiting period ends with delivery.1 And whoever is mindful of Allah, He will make their matters easy for them.
+
+So men are allowed to marry and divorce prepubescent girls, as long as they respect the waiting period for divorce.
+
+# It's ok for a man to beat his wife
+
+> Men stand caretakers of women since Allah has made some of them excel the others, and because they have spent of their wealth., So, the righteous women are obedient, guarding in absence with the protection given by Allah. As for women whose disobedience you fear, convince them, and leave them apart in beds, and **beat them**. Then, if they obey you, do not seek a way against them. Surely, Allah is the Highest, the Greatest.
+
+(This is if a man even only fears his wife would be disobedient.)
 
 # Mohammed had sex with Aisha when she was 9 years old, playing with dolls
 
