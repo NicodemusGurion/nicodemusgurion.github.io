@@ -1,6 +1,6 @@
 ---
 title: "What did Ignatius say about Jesus?"
-tags: [Church Fathers, Deity of Christ, Trinity]
+tags: [Church Fathers, Deity of Christ, Trinity, Early Christianity]
 image: https://i.ibb.co/pyzw5Gc/ignatius-header.jpg
 thumb: https://i.ibb.co/8BHPFZZ/ignatius.jpg
 excerpt: "There is a common claim that the doctrine of the divinity of Jesus/the Trinity was a late idea that developed with time, and that it wasn't until several hundred years later that Christians started to worship Jesus as God. What did the earliest Christian writers like Ignatius say about this? "
