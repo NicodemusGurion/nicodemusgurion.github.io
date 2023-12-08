@@ -1,6 +1,8 @@
 ---
 title: What did Pliny the younger say about Christ?
 tags: [Deity of Christ, Trinity, History, Early Christianity]
+thumb: https://i.ibb.co/xGGwjhf/6-F695-A31-7-E7-F-4-E1-B-8706-5-CAFAF6-C3-F01.png
+image: https://i.ibb.co/7VVBWvR/6-F695-A31-7-E7-F-4-E1-B-8706-5-CAFAF6-C3-F01.png
 ---
 
 Pliny the Younger, the Roman governor of Bithynia and Pontus (now in modern Turkey), [wrote a letter to Emperor Trajan around AD 112 and asked for counsel on dealing with the early Christian community. The letter (Epistulae X.96)](/correspondence-between-pliny-the-younger-and-trajan/) details an account of how Pliny conducted trials of suspected Christians who appeared before him as a result of anonymous accusations and asks for the Emperor's guidance on how they should be treated.
