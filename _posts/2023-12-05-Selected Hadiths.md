@@ -26,7 +26,7 @@ So men are allowed to marry and divorce prepubescent girls, as long as they resp
 
 (This is if a man even only fears his wife would be disobedient.)
 
-# Mohammed had sex with Aisha when she was 9 years old, playing with dolls
+# Mohammed had sex with Aisha when she was 9 years old, prepubescent, still playing with dolls
 
 [Sunna an Nasa'i 3378](https://sunnah.com/nasai:3378)
 
