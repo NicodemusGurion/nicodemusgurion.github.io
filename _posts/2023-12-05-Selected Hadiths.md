@@ -68,3 +68,56 @@ Also:
 - [Sunnah Mishkat al-Masabih 316](https://sunnah.com/mishkat:316)
 - [Sunnah Ibn Majah 477](https://sunnah.com/ibnmajah:477)
 
+
+# How did Muhammad die?
+
+## Allah promises to cut off his aorta if he tells a lie
+
+[Quran 69:44-47](https://quran.com/69?startingVerse=44)
+
+ >Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!
+
+[Musnad Ahmad 107](https://sunnah.com/ahmad:107)
+
+> And if he (Muhammad ﷺ) had forged a false saying concerning Us (Allah). We surely would have seized him by his right hand (or with power and might), And then **We certainly would have cut off his life artery (aorta)**, And none of you could have withheld Us from (punishing) him...”
+
+So Allah promises that Muhammed ever acts as a false prophet, Allah will cut off his aorta.
+
+## The lamb of Khaibar
+
+[Sunnah Abu Dawud 4512](https://sunnah.com/abudawud:4512)
+
+> Narrated Abu Hurairah: ...So a Jewess presented him at Khaybar with a roasted sheep which she had poisoned. The Messenger of Allah (ﷺ) ate of it and the people also ate. He then said: Take away your hands (from the food), for it has informed me that it is poisoned. Bishr ibn al-Bara' ibn Ma'rur al-Ansari died. So he (the Prophet) sent for the Jewess (and said to her): What motivated you to do the work you have done? She said: If you were a prophet, it would not harm you; but if you were a king, I should rid the people of you. The Messenger of Allah (ﷺ) then ordered regarding her and she was killed. He then said about the pain of which he died: I continued to feel pain from the morsel which I had eaten at Khaybar. This is the time when **it has cut off my aorta.** 
+
+See also:
+
+- [Sahih al Bukhari 2617](https://sunnah.com/bukhari:2617)
+- [Sahih al Bukhari 3169](https://sunnah.com/bukhari:3169)
+- [Sahih al Bukhari 4249](https://sunnah.com/bukhari:4249)
+- [Sahih al Bukhari 5777](https://sunnah.com/bukhari:5777)
+- [Sunnah Abu Dawud 4508](https://sunnah.com/abudawud:4508)
+- [Sunnah Abu Dawud 4510](https://sunnah.com/abudawud:4510)
+
+After Muhammad kills the whole male Jewish population of Khaibar, a Jewish woman offers him roasted lamb. Being arguably the dumbest person in history, Muhammad accepts it. And it turns out that it was poisoned. Some of his men died, but Muhammad was affected for a long time from the lingering poison. Notice that Muhammad is saying that the pain from the poison feels like it is cutting off his aorta.
+
+## The death of Muhammed
+
+[Sahih al Bukhari 4428](https://sunnah.com/bukhari:4428)
+  
+> Narrated 'Aisha: The Prophet (ﷺ) in his ailment in which he died, used to say, "O `Aisha! I still feel the pain caused by the food I ate at Khaibar, and at this time, **I feel as if my aorta is being cut** from that poison."
+
+[Sunnah Abu Dawud 4513](https://sunnah.com/abudawud:4513)
+
+> ...I do not think about the illness of my son except the poisoned sheep of which he had eaten with you at Khaybar. The Prophet (ﷺ) said: And I do not think about my illness except that. **This is the time when it cut off my aorta**...
+
+Muhammad eventually died from the poisoned lamb of a jewish woman, and he did so while complaining that he felt as if his aorta was being cut. This is exactly how Allah said he would die if he was a false prophet.
+
+Notice also the poetic biblical references in that a false anti-christ prophet was killed by Allah after eating of the Lamb that came from a Jewish woman.
+
+# What was the last words of Muhammad?
+
+[Sahih Muslim 531](https://sunnah.com/muslim:531)
+
+>  'A'isha and Abdullah reported: As the Messenger of Allah (ﷺ) was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
+
+While Jesus used his last moments to forgive his enemies, Muhammad used his last moments to curse one third of the world population.
