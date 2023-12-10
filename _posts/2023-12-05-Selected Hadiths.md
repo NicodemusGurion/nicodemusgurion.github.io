@@ -6,7 +6,16 @@ image: https://i.ibb.co/Jvb87Hr/F964-A421-1730-4-E89-B70-D-2310-BC079-BA6.jpg
 ---
 Some selected Quran and Hadith verses about everyone's favorite prophet, Mohammed.
 
-# It's ok to marry and divorce girls who have not yet menstruated
+# How to treat women
+
+
+## It's ok for a man to beat his wife
+
+> Men stand caretakers of women since Allah has made some of them excel the others, and because they have spent of their wealth., So, the righteous women are obedient, guarding in absence with the protection given by Allah. As for women whose disobedience you fear, convince them, and leave them apart in beds, and **beat them**. Then, if they obey you, do not seek a way against them. Surely, Allah is the Highest, the Greatest.
+
+This is if a man even only fears his wife would be disobedient.
+
+## It's ok to marry and divorce girls who have not yet menstruated
 
 [Surah 65:4](https://quran.com/65/4)
 
@@ -20,13 +29,9 @@ There's a waiting period before a man can divorce a wife.
 
 So men are allowed to marry and divorce prepubescent girls, as long as they respect the waiting period for divorce.
 
-# It's ok for a man to beat his wife
+## Mohammed married and had sex with a prepubescent child
 
-> Men stand caretakers of women since Allah has made some of them excel the others, and because they have spent of their wealth., So, the righteous women are obedient, guarding in absence with the protection given by Allah. As for women whose disobedience you fear, convince them, and leave them apart in beds, and **beat them**. Then, if they obey you, do not seek a way against them. Surely, Allah is the Highest, the Greatest.
-
-(This is if a man even only fears his wife would be disobedient.)
-
-# Mohammed had sex with Aisha when she was 9 years old, prepubescent, still playing with dolls
+Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
 
 [Sunna an Nasa'i 3378](https://sunnah.com/nasai:3378)
 
@@ -49,7 +54,39 @@ See also:
 - [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
 - [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
-# Muhammad was suicidal and wanted to jump of a mountain
+## Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating
+
+[Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
+
+> It was narrated that 'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
+
+# Hygiene
+
+## Muhammad told his followers to drink sewer water 
+
+[Sunan Abu Dawud 67](https://sunnah.com/abudawud:67)
+
+> Narrated AbuSa'id al-Khudri: I heard that the people asked the Prophet of Allah (ﷺ): Water is brought for you from the well of Buda'ah. It is a well in which dead dogs, menstrual clothes and excrement of people are thrown. The Messenger of Allah (ﷺ) replied: Verily water is pure and is not defiled by anything...
+
+To say that water is not defiled by anything, not even the rotting corpses of dogs, menstrual waste products and literal feces is insane and unscientific. This unhygienic idea has probably cost the lives of untold numbers of people throughout history.
+
+# Spiritual health 
+
+## Muhammad was susceptible to magic
+
+[Sahih Al Bukhari 3268](https://sunnah.com/bukhari:3268)
+
+> Magic was worked on the Prophet (ﷺ) so that he began to fancy that he was doing a thing which he was not actually doing. One day he invoked (Allah) for a long period and then said, "I feel that Allah has inspired me as how to cure myself. Two persons came to me (in my dream) and sat, one by my head and the other by my feet. One of them asked the other, "What is the ailment of this man?" The other replied, 'He has been bewitched"...
+
+[Sahih Al Bukhari 5765 provides more detail:](https://sunnah.com/bukhari:5765)
+
+> Magic was worked on Allah's Messenger (ﷺ) so that he used to think that he had sexual relations with his wives while he actually had not...
+
+See also:
+
+- [Sahih al Bukhari 6391](https://sunnah.com/bukhari:6391)
+
+## Muhammad was suicidal and wanted to jump of a mountain
 
 [Sahih al Bukhari 91](https://sunnah.com/bukhari/91)
 
@@ -121,3 +158,18 @@ Notice also the poetic biblical references in that a false anti-christ prophet w
 >  'A'isha and Abdullah reported: As the Messenger of Allah (ﷺ) was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
 
 While Jesus used his last moments to forgive his enemies, Muhammad used his last moments to curse one third of the world population.
+
+# Where are the parents of Muhammad?
+
+[Sahih Muslim 976b](https://sunnah.com/muslim/11/135)
+
+> Abu Huraira reported: The Apostle of Allah (ﷺ) visited the grave of his mother and he wept, and moved others around him to tears, and said: **I sought permission from my Lord to beg forgiveness for her but it was not granted to me**, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death.
+
+Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will not forgive her, meaning she is in hell.
+
+[Sunan Abu Dawud 4718](https://sunnah.com/abudawud:4718)
+
+
+> Anas said : A man asked : where is my father, Messenger of Allah? He replied! Your father is in Hell. When he turned his back, he said : **My father and your father are in Hell.**
+
+Muhammad's father is in hell.
