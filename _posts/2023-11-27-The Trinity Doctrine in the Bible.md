@@ -68,7 +68,7 @@ Jehovah had the habit of **walking in the garden** every afternoon with Adam and
 
 This is a [theophany](#theophany) of the pre-incarnate second person of God.
 
-[See the Two Powers in Heaven](#the-two-powers-in-heaven)
+[See: The Two Powers in Heaven](#the-two-powers-in-heaven)
 
 ## Genesis 3: 22 
 
@@ -112,13 +112,11 @@ Abraham bows to Jehovah and adresses him in the singular "**in your sight**", an
 
 Notice also that Jehovah appears as three men. Some argue these are the Father, the Son and the Holy Spirit. I find this improbable. Others argue that this is Jehovah and two angels. That is more probable giving the overal context of the Bible. God in the Old Testament is sometimes manifested in two or even three agents, one in heaven, invisible and transcendental[^transcendental], one visible and immanent[^immanent]. In this case it is the immanent Jehovah, the second person of God, who visits Abraham.
 
-
-
 In any case this passage shows that God is not so simple that you can put him in a neat box. The ancient near east concept of the supernatural is not as straightforward as our western thinking would like.
 
 [See The Two Powers in Heaven](#the-two-powers-in-heaven)
 
-## Genesis 18:8 
+## Genesis 18: 8 
 
 > Then he took curds and milk and the calf that he had prepared, and set it before them. And he stood by them under the tree while they ate.
 
@@ -224,7 +222,7 @@ This proves the deity of Christ.
 
 This verse identifies God as the one who **is aware of the secrets of the heart**. This shows omniscience. [The one who sees the hearts](#the-one-who-sees-the-heart) is also one of the descriptions of Jesus Christ, proving Jesus is God, and omniscient.
 
-## Psalms 45:6-7 
+## Psalms 45: 6-7 
 
 > 6 Your throne, O God, is forever and ever. The scepter of your kingdom is a scepter of uprightness; 7 you have loved righteousness and hated wickedness. Therefore God, your God, has anointed you with the oil of gladness beyond your companions;
 
@@ -248,13 +246,19 @@ This scripture tellsnus that Jehovah God is the highest over all the earth. [Phi
 
 > You rule the raging of the sea; when its waves rise, you still them.
 
-Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-4-39-41) and [Matthew 8:26,27](#matthew-8-2627) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
+Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-4-39-41) and [Matthew 8:26,27](#matthew-8-26-27) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
 
 ## Psalm 102: 25-27 
 
-> Of old you [Jehovah] laid the foundation of the earth, and the heavens are the work of your hands. 26 They will perish, but you will remain; they will all wear out like a garment. You will change them like a robe, and they will pass away, 27 but you are the same, and your years have no end.
+> Of old you laid the foundation of the earth, and the heavens are the work of your hands. 26 They will perish, but you will remain; they will all wear out like a garment. You will change them like a robe, and they will pass away, 27 but you are the same, and your years have no end.
 
-Paul takes this scripture about Jehovah and applies it to Jesus in [Hebrews 1:10-12](#hebrews-110-12), because Paul believed that Jesus is the Jehovah of the Old Testament.
+Psalm talks about God, and this section is used by Paul in [Hebrews 1:10-12](#hebrews-1-10-12) where he applies it to Jesus, because Paul believed that Jesus is the God of the Old Testament that this Psalm is speaking of.
+
+## Psalms 103: 2,3
+
+> Let me praise Jehovah; May I never forget all that he has done.3 He forgives all your errors And heals all your ailments;
+
+Jehovah God is the one who forgives and heals all your ailments. But in [Mark 2:5-12](#mark-2-5-12) and [Luke 5:20-25](#luke-5-20-25) Jesus forgives the sins of a man and heals his paralysis, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is Jehovah, the second person.
 
 ## Psalms 104: 3 
 
@@ -266,13 +270,13 @@ He lays the beams of his chambers on the waters; **he makes the clouds his chari
 
 > He made the storm be still, and the waves of the sea were hushed.
 
-Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-43-9-41) and [Matthew 8:26,27](#matthew-8-2627) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
+Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-43-9-41) and [Matthew 8:26,27](#matthew-8-26-27) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
 
 ## Psalm 130: 4 
 
 > But with you there is forgiveness, that you may be feared.
 
-There is forgiveness only in God. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-2-5-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
+There is forgiveness only in God. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-2-5-12) and [Luke 5:20-25](#luke-5-20-25) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
 
 
 ## Psalm 138: 2
@@ -291,7 +295,7 @@ Jehovah uniquely has the highest name.  [Philippians 2:9](#philippians-2-9) show
 
 > In the year that King Uzziah died I saw Jehovah sitting upon a throne, high and lifted up; and the train of his robe filled the temple. ... 3 And one called to another and said: “Holy, holy, holy is Jehovah of hosts; the whole earth is full of his glory!” ... my eyes have seen the King, Jehovah of hosts!”
 
-Isaiah saw the glory of Jehovah. in [John 12:41](#john-12-41) John explains that Isaiah actually saw Jesus Christ. This proves that Jesus is Jehovah.
+Isaiah saw the glory of Jehovah. in [John 12:41](#john-12-41) John explains that Isaiah actually saw Jesus Christ. This is the scripture John talked about when he said that Isaiah saw Jesus. This proves that Jesus is Jehovah.
 
 ## Isaiah 6: 8
 
@@ -311,7 +315,7 @@ Thos proves the unity and plurality of God.
 
 > Behold, the Lord GOD comes with might, and his arm rules for him; behold, his reward is with him, and his recompense before him.
 
-[The one who repays deeds](#the-one-who-repays-deeds) is a divine title which in [Revelation 22:12,13](#revelation-22-1213) is used about Jesus, proving his deity.
+[The one who repays deeds](#the-one-who-repays-deeds) is a divine title which in [Revelation 22:12,13](#revelation-22-12-13) is used about Jesus, proving his deity.
 
 ## Isaiah 41: 4 
 
@@ -337,7 +341,7 @@ The trinity doctrine us stricty monotheistic. There is only one God. **Before** 
 
 > “I, I am he who blots out your transgressions for my own sake, and I will not remember your sins.
 
-God is the one who blots out transgressions, and no one else. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-2-5-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
+God is the one who blots out transgressions, and no one else. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-2-5-12) and [Luke 5:20-25](#luke-5-20-25) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
 
 ## Isaiah 44: 6 
 
@@ -411,21 +415,25 @@ God is [the one who repays deeds](#the-one-who-repays-deeds), which is a divine 
 
 > “I saw in the night visions, and behold, **with the clouds of heaven there came one like a son of man**, and he came to the Ancient of Days and was presented before him.
 
-Daniel 7:13 links together the Cloud Rider of the Old Testament with the Cloud Rider of the new testament and shows that Jesus is Jehovah. [See The Cloud Rider](#the-cloud-rider)
+This is a crucial scripture that establish the meaning of the phrases [The Son of Man](#the-son-of-man) and [The Cloud Rider](#the-cloud-rider). Daniel sees a Son of Man coming on the clouds and in the next verse he is given power and worship equal to God. So the Jews knew that this Son of Man coming on the clouds was none other than Jehovah God himself in human form.
+
+The most common thing Jesus called himself was The Son of Man. He also tells his apostles that he will come on the clouds. (Matthew 26:64; Mark 13:26) But the most powerful verses in the gospels are probably when Jesus tells the Sanhedrin “I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.” The Sanhedrin reacts by accusing him of blasphemy and judging him to death. (Matthew 26:64-66; Mark 13:62-64)
+
+Why? Because they knew Daniel 7:13 and understood that Jesus directly, and very deliberately, with no room for any doubt, claimed to be Jehovah God.
 
 ## Daniel 9: 9 
 
 > To the Lord our God belong mercy and forgiveness, for we have rebelled against him
 
-Forgiveness belongs to God alone. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-25-12) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
+Forgiveness belongs to God alone. He is the only one with the absolute right to forgive, even sins not committed against him. But in [Mark 2:5-12](#mark-25-12) and [Luke 5:20-25](#luke-5-20-25) Jesus forgives the sins of a man, and the scribes understood that this is something only God can do, thinking that Jesus was blaspheming. Jesus wasn't blaspheming because Jesus is God, the second person.
 
 ## Zechariah 12: 10
 
 > “And I will pour out on the house of David and on the inhabitants of Jerusalem the Spirit of grace and of pleading, so that they will look at Me whom they pierced; and they will mourn for Him, like one mourning for an only son, and they will weep bitterly over Him like the bitter weeping over a firstborn.
 
-In this verse Jehovah God says **they will look at Me whom they pierced**. How can an immaterial God be puerced unless he takes on a human body? This is a prophecy pointing forward to the crucifixion of Jesus, because Jesus is the Jehovah that they pierced. This proves the deity of Christ.
+In this verse Jehovah God says **they will look at Me whom they pierced**. How can an immaterial God be pierced unless he takes on a human body? This is a prophecy pointing forward to the crucifixion of Jesus, because Jesus is the Jehovah that they pierced. This proves the deity of Christ.
 
-## Malachi 3:1 
+## Malachi 3: 1 
 
 > “Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the LORD of hosts.
 
@@ -508,7 +516,7 @@ This shows that Jesus is omnipresent, having the ability to be anywhere. This is
 
 > And when Jesus saw their faith, he said to the paralytic, “Son, your sins are forgiven.” 6 Now some of the scribes were sitting there, questioning in their hearts, 7 “Why does this man speak like that? **He is blaspheming! Who can forgive sins but God alone?**” 8 And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them, “Why do you question these things in your hearts? 9 Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, take up your bed and walk’? 10 But that you may know that the Son of Man has authority on earth to forgive sins”--he said to the paralytic-- 11 “I say to you, rise, pick up your bed, and go home.” 12 And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and glorified God, saying, “We never saw anything like this!”
 
-When the scribes get upset and accuse Jesus of blasphemy because Jesus forgives sins. This is something only God can do. See [Daniel 9:9](#daniel-9-9), [Psalm 130:4](#psalm-130-4) and [Isaiah 43:25](#isaiah-43-25) for example. This proves the deity of Jesus.
+When the scribes get upset and accuse Jesus of blasphemy because Jesus forgives sins. This is something only God can do. See [Daniel 9:9](#daniel-9-9), [Psalm 103:2,3](#psalm-103-2-3), [Psalm 130:3,4](#psalm-130-3-4) and [Isaiah 43:25](#isaiah-43-25) for example. This proves the deity of Jesus.
 
 ## Mark 4: 39-41 
 
@@ -532,16 +540,21 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 And Jesus said, “I am, and you will see **the Son of Man** seated at the right hand of Power, and **coming with the clouds of heaven**.” 63 And the high priest tore his garments and said, “What further witnesses do we need? 64 **You have heard his blasphemy**. What is your decision?” And **they all condemned him as deserving death.**
 
-When putnunder oath, Jesus reveals that he is [The Cloud Rider](#the-cloud-rider) and [the Son of Man](#the-son-of-man), two divine titles that are unique to Jehovah God. Thus claiming to be God he was judged as a blasphemer.
+When put under oath, Jesus reveals that he is [The Cloud Rider](#the-cloud-rider) and [the Son of Man](#the-son-of-man), two divine titles that are unique to Jehovah God. Thus claiming to be God he was judged as a blasphemer.
 
-## Luke 21:27 
+## Luke 5: 20-25
+
+> 20 And when he saw their faith, he said, “Man, your sins are forgiven you.” 21 And the scribes and the Pharisees began to question, saying, “Who is this who speaks blasphemies? Who can forgive sins but God alone?” 22 When Jesus perceived their thoughts, he answered them, “Why do you question in your hearts? 23 Which is easier, to say, ‘Your sins are forgiven you,’ or to say, ‘Rise and walk’? 24 But that you may know that the Son of Man has authority on earth to forgive sins”--he said to the man who was paralyzed--“I say to you, rise, pick up your bed and go home.” 25 And immediately he rose up before them and picked up what he had been lying on and went home, glorifying God.
+
+When the scribes get upset and accuse Jesus of blasphemy because Jesus forgives sins. This is something only God can do. See [Daniel 9:9](#daniel-9-9), [Psalm 103:2,3](#psalm-103-2-3), [Psalm 130:3,4](#psalm-130-3-4) and [Isaiah 43:25](#isaiah-43-25) for example. This proves the deity of Jesus.
+
+## Luke 21: 27 
 
 > And then they will see the Son of Man **coming in a cloud** with power and great glory.
 
 Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
-
-## John 1:1 
+## John 1: 1 
 
 > In the beginning was the Word, and the Word was with God, and the Word was God.
 
@@ -551,7 +564,7 @@ It also shows that he is a separate person from God, he was **with God**, but th
 
 The original greek grammar is hard to convey here. Greek sometimes use nouns as qualitative, describing a quality of something. So the Word being God means that the Word posesses all that qualities required for a person to be God. In short, he shares the divine substance.
 
-## John 1:3 
+## John 1: 3 
 
 > All things were made through him, and without him was not any thing made that was made.
 
@@ -559,37 +572,37 @@ The Word, Jesus, is the creator of the universe. **All things were made through 
 
 
 
-## John 1:18 
+## John 1: 18 
 
 > No one has ever seen God; the only God, who is at the Father’s side, he has made him known.
 
 Here it emphasizes that God is both invisible and visible. God the Father is invisible, but God the Son was made manifest visibly and made God known perfectly. 
 
-## John 5:18  
+## John 5: 18  
 
 > This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, **making himself equal with God.**
 
 What Jesus said was no mistake but deliberately meant to make people believe he is equal in substance with God, in other words that he is God.
 
-## John 5:21
+## John 5: 21
 
 > For as the Father raises the dead and gives them life, so also the Son gives life to whom he will.
 
 Only God has power over life and death. In the exact same way that God the Father has power over life and death, so God the Son has power over life and death. Jesus is making himself equal to the Father.
 
-## John 5:23 
+## John 5: 23 
 
 > that all may honor the Son, just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him.
 
 That **all may honor the Son, just as they honor the Father** means that Jesus is given equal honor or glory as the Father by men. In fact if someone does not give divine glory to the Son they do not give such to the Father. They are treated as being perfectly equal in glory.  Scriptures like [Isaiah 42:8](#isaiah-428) and [48:11](#isaiah-4811) show that God does not allow anyone else to have equal glory to him. This means that Jesus is no one else but God. This proves the deity of Christ.
 
-## John 6:19 
+## John 6: 19 
 
 > When they had rowed about three or four miles, **they saw Jesus walking on the sea** and coming near the boat, and they were frightened.
 
 The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-98)) This shows that Jesus is God, and why they fell downand worshipped him. ([Matthew 14:33](#matthew-1433))
 
-## John 8:58
+## John 8: 58
 
 > Jesus said to them, “Truly, truly, I say to you, before Abraham was, I am.” 
 
@@ -603,13 +616,13 @@ The reaction of the Jews to Jesus' statement in John 8:59 confirms their underst
 
 It is important to consider the context of the passage. The claim that Jesus used unusual grammar, or that he merely meant he had existed for a long time, does not adequately explain the reaction of the Jews or the significance of his statement. Their reaction was one of extreme offense. They immediately sought to stone him for what they perceived as blasphemy. Neither the use of unusual grammar nor claiming to be thousands of years old were crimes that warranted stoning according to the Mosaic law. However claiming to be divine would warrant stoning. This strong reaction suggests that they understood Jesus' words as a claim to deity, rather than simply a matter of grammar.
 
-## John 10:30-33 
+## John 10: 30-33 
 
 > **I and the Father are one.**” 31 The Jews picked up stones again to stone him. 32 Jesus answered them, “I have shown you many good works from the Father; for which of them are you going to stone me?” 33 The Jews answered him, “It is not for a good work that we are going to stone you but for blasphemy, because **you**, being a man, **make yourself God.**”
 
 Jesus is one with God the Father in substance. The Jews are upset, they think Jesus is blaspheming because he is calling himself God.
 
-## John 12:41 
+## John 12: 41 
 
 > Isaiah said these things because he saw his glory and spoke of him.
 
@@ -619,19 +632,19 @@ John says that Isaiah saw the glory of Jesus Christ and spoke of him. When did I
 
 So John is saying that when Isaiah saw Jehovah, Isaiah saw Jesus Christ. This proves Jesus is Jehovah.
 
-## John 12:45 
+## John 12: 45 
 
 > And whoever sees me sees him who sent me.
 
 Here Jesus claims equaity with God. If you see Jesus you see God, because Jesus is the person of God who came into the world.
 
-## John 14:14 
+## John 14: 14 
 
 > (ESV/NASB20/CSB) “If you ask me anything in my name, I will do it.
 
 In John 14:14 the greek text contains a "me" that some translations leave out. The greek says "ἐάν τι αἰτήσητέ **με** ἐν τῷ ὀνόματί μου ἐγὼ ποιήσω". This means Jesus commands us to pray to him in his name. Jesus receives prayer because he is [omniscient](#omniscience), and since he is [omnipotent](#omnipotence) he can also do whatever is asked. This is something only God can do, which proves that Jesus is the second person of God.
 
-## John 14:28 
+## John 14: 28 
 
 > You heard me say to you, ‘I am going away, and I will come to you.’ If you loved me, you would have rejoiced, because I am going to the Father, for the Father is greater than I.
 
@@ -639,31 +652,31 @@ This verse is one that unitarians and Arians ofteb quote to try to show that Jes
 
 This verse does not show that Jesus is jot God. Ut shows that henis God and it also proves the doctrine of kenosis, the hypostatic union, and gives us insight into the inner workings of the economic trinity.
 
-## John 16:15 
+## John 16: 15 
 
 > All that the Father has is mine; therefore I said that he will take what is mine and declare it to you.
 
 That **all that the Father has is** Jesus' indicates equality between the Father and the Son.
 
-## John 20:27-29 
+## John 20: 27-29 
 
 > Then he said to Thomas, “Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe.” 28 Thomas answered him, “**My Lord and my God!”** 29 Jesus said to him, “**Have you believed because you have seen me?** Blessed are those who have not seen and yet have believed.”
 
 What a perfect time for Jesus to correct Thomas if Thomas was wrong in calling him God. But Jesus didn't correct him. Instead he asked "have you believed because you have seen me?" He was relieved that Thomas finally believed that Jesus is God.
 
-## Acts 1:9 
+## Acts 1: 9 
 
 > And when he had said these things, as they were looking on, he was lifted up, and **a cloud took him out of their sight.**
 
 [See The Cloud Rider](#the-cloud-rider)
 
-## Acts 5:3-4 
+## Acts 5: 3-4 
 
 > 3 But Peter said, “Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back for yourself part of the proceeds of the land? 4 While it remained unsold, did it not remain your own? And after it was sold, was it not at your disposal? Why is it that you have contrived this deed in your heart? You have not lied to man but to God.”
 
 This scripture proves that the Holy spirit is both a person and divine. Ananias tried to **lie to the Holy Spirit**. Lying is something you can only do to a person. It is meaningless to lie to a thing or a force, because they do not have a mind that could possibly be fooled. But the Holy Spirit has a mind that someone might think could be fooled. It also shows that the person of the Holy Spirit is divine, or God, because in the same utterance Peter says that Ananias has lied to God. Lying to the person of the Holy Spirit equals lying to God, because the Holy Spirit is God.
 
-## Acts 9:14 
+## Acts 9: 14 
 
 > And here he has authority from the chief priests to bind all who call on your name.”
 
@@ -671,7 +684,7 @@ The phrase "calling on the name of" is an idiom that in the Bible is only used t
 
 See [Calling on the name of...](#calling-on-the-name-of)
 
-## Acts 9:21 
+## Acts 9: 21 
 
 > And all who heard him were amazed and said, “Is not this the man who made havoc in Jerusalem of those who called upon this name? And has he not come here for this purpose, to bring them bound before the chief priests?”
 
@@ -679,13 +692,13 @@ The Christians were known far and wide as **those who called upon this name**, t
 
 See [Calling on the name of...](#calling-on-the-name-of)
 
-## Acts 13:2 
+## Acts 13: 2 
 
 > While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.”
 
 In this verse the Holy Spirit speaks, refers to himself, and makes commands according to his own decisions. It shows he has a sense of self, the ability to make decisions, a will, and the ability to communicate his will. These are all abilities only persons have. He is also speaking with the authority of God.
 
-## Acts 20:28 
+## Acts 20: 28 
 
 > Pay careful attention to yourselves and to all the flock, in which the Holy Spirit has made you overseers, to care for the church of God, which he obtained with his own blood.
 
@@ -693,7 +706,7 @@ It is **the Holy Spirit** that **has made you overseers**. This shows that the H
 
 Jesus bought the flock **with his own blood**. Paul says it was the blood of God because he believed that Jesus is God. Thanks to Jesus taking on a human substance, it allowed God to bleed and to obtain us with his blood.
 
-## Acts 22:16 
+## Acts 22: 16 
 
 > And now why do you wait? Rise and be baptized and wash away your sins, calling on his name.’
 
@@ -701,44 +714,44 @@ Among the first things Ananias instructs Paul to do is to pray to and worship Je
 
 See [Calling on the name of...](#calling-on-the-name-of)
 
-## Romans 2:6
+## Romans 2: 6
 
 > He will render to each one according to his works:
 
 God is the one who [The one who repays deeds](#the-one-who-repays-deeds). However this description is also used about Jesus in [Matthew 16:27](#matthew-1627) and [Revelation 22:12,13](#revelation-221213), proving the deity of Christ.
 
-## Romans 8:9 
+## Romans 8: 9 
 
 > You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him.
 
 This verse equates the **the Spirit of God** with **the Spirit of Christ** pretty much in the same breath. This shows that Paul saw Jesus as equal to God, using "God" and "Christ" interchangeably. Since the Father and the Son have the same spirit, these three are united in essence.
 
-## Romans 8:16 
+## Romans 8: 16 
 
 > The Spirit himself bears witness with our spirit that we are children of God,
 
 The Holy Spirit **bears witness with our spirit** shows that he communicates with our spirit. Communicating is something only persons can do, and if our spirit man is our person, then the Holy Spirit is a person of God.
 
-## Romans 8:26 
+## Romans 8: 26 
 
 > Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words.
 
 This verse says **the Spirit himself intercedes for us**, which shows that the Holy Spirit makes a decision to intercede, that is to help us out in our prayers to God, praying for us. Praying is communication with God. This shows that the Holy Spirit is a person who can make a decision and can communicate.
 
-## Romans 8:27 
+## Romans 8: 27 
 
 > And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.
 
 **He who searches hearths** is a divine attribute of God.
 
-## Romans 14:11 
+## Romans 14: 11 
 
 > for it is written, “As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.”
 
 Paul is referring to [Isaiah 45:23](#isaiah-4523) which says that **every knee will bow to** God and **every tongue confess** him as Lord, and he is applying this to Jesus because Paul believed that Jesus is God. This indicates the deity of Christ
 
 
-## 1 Corinthians 1:2 
+## 1 Corinthians 1: 2 
 
 > To the church of God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place call upon the name of our Lord Jesus Christ, both their Lord and ours:
 
@@ -746,19 +759,19 @@ The earliest Christians were well known everywhere as **all those who in every p
 
 See [Calling on the name of...](#calling-on-the-name-of)
 
-## 1 Corinthians 2:10 
+## 1 Corinthians 2: 10 
 
 > these things God has revealed to us through the Spirit. For the Spirit searches everything, even the depths of God.
 
 This verse says that **the [Holy] Spirit searches everything, even the depths of God**, which shows that he is [omniscient](#omniscience), which is an attribute of God.
 
-## 1 Corinthians 2:11 
+## 1 Corinthians 2: 11 
 
 > For who knows a person’s thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God.
 
 That **no one comprehends the thoughts of God except the Spirit of God** shows that the Holy Spirit is [omniscient](#omniscience) and a part of God, since he comprehends what is going on in the mind of God.
 
-## 1 Corinthians 8:6 
+## 1 Corinthians 8: 6 
 
 > yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist.
 
@@ -768,7 +781,7 @@ Paul is playing off of the Shema from [Deuteronomy 6:4](#deuteronomy-64), which 
 
 This verse also says that **through [Jesus Christ] are all things**, which shows that Jesus is not part of "all things", i.e. he is not created, but he is the creator. And as uncreated, he is eternal and therefore God.
 
-## 2 Corinthians 12:8-9 
+## 2 Corinthians 12: 8-9 
 
 >Three times I pleaded with the Lord about this, that it should leave me. 9 But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.” Therefore I will boast all the more gladly of my weaknesses, so that the power of Christ may rest upon me.
 
@@ -776,43 +789,43 @@ Paul had a "thorn in the flesh", some sort of physical ailment. So he prayed abo
 
 This proves that Jesus accepts prayer and that he is [omniscient](#omniscience), two attributes only God has.
 
-## 2 Corinthians 13:14 
+## 2 Corinthians 13: 14 
 
 > The grace of the Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all.
 
 This scripture highlights the trinity, and talks about three relationships, grace, love and fellowship. Grace means tresting someone with blessing even though they don't deserve it. Love is to give if yourself for someone else. Fellowship is to have intimate communion with someone. Relationships like these are only possible between persons, so having fellowship with the Holy Spirit shows that he is a person.
 
-## Galatians 4:6 
+## Galatians 4: 6 
 
 > And because you are sons, God has sent the Spirit of his Son into our hearts, crying, “Abba! Father!”
 
 The spirit that is in the heart of a believer is the Holy Spirit of God. (Rom 8:9; 2 Cor 1:22; 3:3) So the spirit of Jesus is identical to the spirit of God, which shows that Jesus is God. It also says that the Holy Spirit is **crying, “Abba! Father!”**, which shows that the Holy Spirit can communicate, and he has a personal relationship with God the Father.
 
-## Philippians 2:5-7 
+## Philippians 2: 5-7 
 
 > Have this mind among yourselves, which is yours in Christ Jesus, 6 who, though he was in the form of God, did not count equality with God a thing to be grasped, 7 but emptied himself, by taking the form of a servant, being born in the likeness of men.
 
 Jesus has the form of God, being fully of the same substance as God the Father. He did not have the same status position as the Father and didn't grasp for that, but he emptied himself of the status that he did have to take on the lowliest status, that of a slave. He did this by taking on the substance of a human along with his divine substance, and to live a life of service.
 
-## Philippians 2:9 
+## Philippians 2: 9 
 
 > Therefore God has highly exalted him and bestowed on him the name that is above every name,
 
 In the Old Testament, Jehovah God has the highest name, the name above wvery name. But in the New Testament it is Jesus. So either Jehovah is not tye highest name anymore, or Jesus is the same as Jehovah. This indicates the deity of Christ.
 
-## Philippians 2:10-11 
+## Philippians 2: 10-11 
 
 > so that at the name of Jesus every knee should bow, in heaven and on earth and under the earth, 11 and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
 
 **Every knee should bow** shows that Jesus is receiving worship as God. Paul quotes Old Testament scriptures like [Isaiah 45:23](#isaiah-4523) which use these phrases for God. Paul is therefore ascribing equality between Jesus and Jehovah God. This proves the deity of Christ.
 
-## Colossians 1:15 
+## Colossians 1: 15 
 
 > He is the image of the invisible God, the firstborn of all creation.
 
 Jesus is the image of the invisible God. God the Father, the invisible God, still needs a way to interact with humans. So Jesus is the image, or physical, visible manifestation of the invisible God. Fully God, but in his humanity the visible representation that we humans can understand.
 
-## Colossians 1:16 
+## Colossians 1: 16 
 
 > For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities -- all things were created through him and for him.
 
@@ -820,32 +833,32 @@ Jesus, the second person of God, **created all things** without exception. He is
 
 Jesus is therefore eternal and fully divine.
 
-## Colossians 1:19 
+## Colossians 1: 19 
 
 > For in him all the fullness of God was pleased to dwell,
 
 **All the fulness of God...dwells** in Jesus, and this pleases God. So Jesus has the fulness of everything that it means to be God.
 
-## Colossians 2:9  
+## Colossians 2: 9  
 
 > For in him the whole fullness of deity dwells bodily,
 
 In Jesus, **the whole fullness of deity dwells** bodily. **The fullness of deity** means "everything that makes God God". So in Jesus dwells everything that makes God God. Whoever has everything that makes God God, is by definition God. Jesus is fully God. And the fullness if deity dwell bodily because Jesus took on a human substance.
 
 
-## Titus 2:13 
+## Titus 2: 13 
 
 > waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ
 
 Jesus is called **our Great God and Savior** by the apostle Paul. This is what the first Christians believed.
 
-## Hebrews 1:2 
+## Hebrews 1: 2 
 
 > but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
 
 If the Son is **the heir of all things**. **All things** refers to all created things. If Jesus himself would be a created thing, does that mean he inherits himself? Of course not, because Jesus is not created. He is the uncreated creator, the person of God **through whom...he created the world**. 
 
-## Hebrews 1:3 
+## Hebrews 1: 3 
 
 > He is the radiance of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,
 
@@ -857,13 +870,13 @@ Jesus **upholds the universe** by his power, showing he is almighty, omnipotent.
 
 That **he sat down at the right hand** of God the Father shows that the Son is still separate from the Father.
 
-## Hebrews 1:8  
+## Hebrews 1: 8  
 
 > But **of the Son he says, “Your throne, O God**, is forever and ever, the scepter of uprightness is the scepter of your kingdom.
 
 God the Father calls Jesus "God". 
 
-## Hebrews 1:10-12 
+## Hebrews 1: 10-12 
 
 > But **of the Son** he says,... 10 And, “You, Lord, laid the foundation of the earth in the beginning, and the heavens are the work of your hands; 11 they will perish, but you remain; they will all wear out like a garment, 12 like a robe you will roll them up, like a garment they will be changed. But you are the same, and your years will have no end.”
 
@@ -871,13 +884,13 @@ Paul quotes [Psalm 102](#psalm-10225-27) which talks about Jehovah, and he appli
 
 This also proves Jesus is the creator, which means that he is eternal. and if he is eternal then he is God.
 
-## Hebrews 2:5
+## Hebrews 2: 5
 
 > For it was not to angels that God subjected the world to come, of which we are speaking.
 
 God did not subject the world to angels, but the world is subjected to Jesus, which proves that Jesus is not an angel, and disproves [Arianism](#arianism).
 
-## Hebrews 3:3-4
+## Hebrews 3: 3-4
 
 > 3 For Jesus has been counted worthy of more glory than Moses — as much more glory as the builder of a house has more honor than the house itself. 4 (For every house is built by someone, but the builder of all things is God.)
 
@@ -895,19 +908,19 @@ This is a reference to Psalms 2:7, a messianic prophecy, where God says this to 
 
 This verse proves that the Holy Spirit is **eternal**, which is an attribute of God. It shows that the Holy Spirit is God.
 
-## James 1:12 
+## James 1: 12 
 
 > Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him.
 
 In this verse whoever **has stood the test will receive the crown of life** by **God**, however the only other time the crown of life is mentioned is in [Revelation 2:10](#revelation-210) the crown of life is given by Jesus Christ, because Jesus Christ is God.
 
-## 2 Peter 1:1 
+## 2 Peter 1: 1 
 
 > Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ:
 
 Jesus is called **our Great God and Savior** by the apostle Peter. This is what the firat Christians believed.
 
-## 2 Peter 1:17 
+## 2 Peter 1: 17 
 
 > For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, “This is my beloved Son, with whom I am well pleased,”
 
@@ -915,31 +928,31 @@ Jesus **received honor and glory from God the Father**. However scriptures like 
 
 **This is my beloved Son** shows that Jesus is the [unique son of God](#monogenes), of the same substance as the Father. This proves the deity of Christ.
 
-## 1 John 3:2
+## 1 John 3: 2
 
 > Beloved, we are God’s children now, and what we will be has not yet appeared; but we know that when he appears we shall be like him, because we shall see him as he is.
 
 In this verse it says that Christians **are God's children**, and it says that God will **appear** and **we shall be like him**. But who is is who will appear? It is not God the Father, but Jesus the Son of God who is the one who will appear. It is also Jesus whom we will be like. ([1 Cor 15:49](#1-cor-1449)) Therefore **God** in this verse is Jesus Christ. 
 
-## 1 John 5:6
+## 1 John 5: 6
 
 > This is he who came by water and blood—Jesus Christ; not by the water only but by the water and the blood. And the Spirit is the one who testifies, because the Spirit is the truth.
 
 This verse says that **the Spirit is the truth**, identifying the Holy Spirit with The Truth. in [John 14:6](#john-146) Jesus says "I am... the Truth". So either these verses contradict, or Jesus and the Holy Spirit are both the ultimate Truth, because they are both God.
 
-## Revelation 1:7 
+## Revelation 1: 7 
 
 > Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen.
 
 Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
-## Revelation 1:8 
+## Revelation 1: 8 
 
 > “I am the Alpha and the Omega,” says the Lord God, “who is and who was and who is to come, the Almighty.”
 
 **The Alpha and the Omega** is a divine title emphasizing the eternity of God. This verse makes it clear that it is about God Almighty. [Revelation 1:17](#revelation-117);[2:8](#revelation-28);[22:13](#revelation-2212-13) shows that this is also a title applied to Jesus. This proves the deity of Jesus.
 
-## Revelation 1:17 
+## Revelation 1: 17 
 
 > When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, “Fear not, I am the first and the last"
 
@@ -947,31 +960,31 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 **The first and the last** is a divine title of Jehovah used in [Isaiah 41:4](#isaiah-414); [44:6](#isaiah-446); [48:12](#isaiah-4812). It means that he is eternal, the one whom everything begins with and ends with. As [Isaiah 44:6](#isaiah-446) points out there is only one God worthy of this title, and the fact that Jesus applies this title to himself is evidence of his divinity. He is fully God, the second person of the trinity.
 
-## Revelation 2:8 
+## Revelation 2: 8 
 
 > "And to the angel of the church in Smyrna write: ‘The words of the first and the last, who died and came to life.'"
 
 The one speaking is clearly Jesus since he is the one **who died and came to life**. He is identifying himself as **[the first and the last](#the-first-and-the-last)**, a divine title that implies [eternality](#eternality) and is a unique title of God. This proves Jesus is eternal and God.
 
-## Revelation 2:10 
+## Revelation 2: 10 
 
 > Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful unto death, and I will give you the crown of life.
 
 In this verse whoever **faithful unto death** will receive **the crown of life** by Jesus Christ. However the only other time the crown of life is mentioned is in [James 1:12](#james-112) where the crown of life is given by God, because Jesus Christ is God.
 
-## Revelation 2:23 
+## Revelation 2: 23 
 
 > and I [Jesus] will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works.
 
 **He who searches minds and hearts** is a reference to the old testament in passages such as [Jeremiah 17:10](#jeremiah-1710)  where it says that Jehovah searches the mind, and try the heart and who give to every man according to his ways. This shows that Jesus claims to be the same as Jehovah in these passages, which proves the deity of Christ.
 
-## Revelation 4:8 
+## Revelation 4: 8 
 
 > And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say, “Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!”
 
 Who **is to come**? Is it God the Father? No, the one who will come is the Son, Jesus. So this entire chapter talks about Jesus and calls him **the Lord God Almighty**.
 
-## Revelation 4:11
+## Revelation 4: 11
 
 > “Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created.”
 
@@ -979,19 +992,19 @@ As described in scriptures like John 1:3; 1 Corinthians 8;6; Colossians 1:16; He
 
 Furthermore, if this was about God the Father, from whom would he **receive power**? He is not dependent upon anyone. However God the Son is eternally begotten of the Father and thus receives his power from God the Father. So this verse and the whole chapter is about God the Son.
 
-## Revelation 5:13
+## Revelation 5: 13
 
 > And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!”
 
 Here **every creature in heaven and on earth and under the earth and in the sea**, worship God and **the Lamb**, Jesus. This shows that Jesus is worshipped, and also that he is not part of the category of "created beings". He is uncreated and eternal.
 
-## Revelation 3:15
+## Revelation 3: 15
 
 > And the four living creatures said, “Amen!” and the elders fell down and worshiped.
 
 This follows the scene in 13 and it shows that the 24 elders fell down and worshipped both God the Father and the Lamb, showing that Jesus receives worship as God.
 
-## Revelation 5:13,14
+## Revelation 5: 13,14
 
 > And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, “To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!” 14 And the four living creatures said, “Amen!” and the elders fell down and worshiped.
 
@@ -999,7 +1012,7 @@ Here we have **every creature in heaven and on earth and under the earth and in 
 
 This means that the Lamb, that is Jesus Christ, is **worshiped**  as God. It also means that Jesus is not among any creatures, that he is not a created being. And as an uncreated being he is eternal, and therefore God.
 
-## Revelation 22:12,13 
+## Revelation 22: 12,13 
 
 > 12 “Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done. 13 I am the Alpha and the Omega, the first and the last, the beginning and the end.”
 
