@@ -1021,15 +1021,15 @@ This passage is about Jesus, because Jesus is the one who is **coming soon**. **
 **[The First and the Last](#the-first-and-the-last)** is a divine title that only apply to the eternal God. In [Revelation 1:17](#revelation-117);[2:8](#revelation-28) and here, Jesus applies it to himself. In this verse we also see that synonymous titles the Alpha and Omega, as well as the Beginning and the End. These are all divine titles of God applied to Jesus.
 
 
-# The Trinity: Definitions and common misunderstanding
+# Definition
 
-The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases[^hypostasis]) sharing one being/essence/substance/nature (ousia[^ousia]). 
+The Christian doctrine of the Trinity is the central doctrine concerning the nature of God, which defines one God existing in three coequal[^coequal], coeternal[^coeternal], consubstantial[^cosubstantial] divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons (hypostases[^hypostasis]) sharing one being/essence/substance/nature (ousia[^ousia]).
 
-
+Ousia describes **what** a being is, while hypostasis describes **who** a person is. So in short, God is one **what** with three **who**. One divine being with three divine persons. Three divine persons sharing equally in everything that it means to be God, [eternally bound by love.](#1-john-4-8)
 
 ## Common misunderstandings
 
-- The trinity doctrine doesn't teach three gods or a triad if gods. That is called tritheism.
+- The trinity doctrine doesn't teach three gods or a triad of gods. That is called tritheism.
 - The trinity doctrine doesn't teach that there are three persons in one person. That makes no sense.
 - The trinity doctrine doesn't teach that one person manifest in three different modes, facets or aspects. That's modalism.
 - The trinity doctrine doesn't teach that God consists of three parts that together form one God. That's partialism.
