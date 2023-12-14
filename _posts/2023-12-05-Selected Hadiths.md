@@ -6,6 +6,31 @@ image: https://i.ibb.co/Jvb87Hr/F964-A421-1730-4-E89-B70-D-2310-BC079-BA6.jpg
 ---
 Some selected Quran and Hadith verses about everyone's favorite prophet, Mohammed.
 
+# About Jews
+
+[Quran 5:32](https://quran.com/5/32)
+
+> That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity.1 ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
+
+This verse is often quoted by Muslims doing Taqqiya to say that Islam is peaceful. But as you can see, it is a command directed to the people of Israel, not Muslims. 
+
+It is a quotation from the Talmud. So the Quran is actually saying that the commentary by a rabbi in the Talmud is "revelation from Allah."
+
+Also notice that this command has the stipulation "unless as a punishment for murder or mischief in the land", meaning that Jews had the right of capital punishment for those spreading mischief in the land. But in other cases, killing one would be like killing all. 
+
+And what "land" is it talking about? Well, the land of the Jews, Israel, or Palestine as it was later renamed. 
+
+*So according to the Quran, the Jews has the right to execute capital punishment on those spreading mischief in the land of Israel (Palestine).*
+
+But wait, it gets better. The next verse is what applies to Muslims:
+
+[Quran 5:33](https://quran.com/5/33)
+
+> Indeed, the penalty **for those who wage war against Allah and His Messenger** and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land.** This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous **punishment in the Hereafter.**
+
+This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
+
+
 # How to treat women
 
 
@@ -60,7 +85,17 @@ See also:
 
 > It was narrated that 'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
 
-# Hygiene
+# Food
+
+## Muhammad didn't like garlic
+
+[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
+
+> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet (ﷺ) saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
+
+
+
+# Health and Hygiene
 
 ## Muhammad told his followers to drink sewer water 
 
@@ -85,6 +120,12 @@ To say that water is not defiled by anything, not even the rotting corpses of do
 See also:
 
 - [Sahih al Bukhari 6391](https://sunnah.com/bukhari:6391)
+
+## Muhammad told his followers to lick each other's hands
+
+[Sahih al Bukhari 5456](https://sunnah.com/bukhari:5456)
+
+> Narrated Ibn `Abbas: The Prophet (ﷺ) said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
 
 ## Muhammad was suicidal and wanted to jump of a mountain
 
