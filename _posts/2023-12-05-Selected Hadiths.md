@@ -221,3 +221,11 @@ Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will n
 > Anas said : A man asked : where is my father, Messenger of Allah? He replied! Your father is in Hell. When he turned his back, he said : **My father and your father are in Hell.**
 
 Muhammad's father is in hell.
+
+# Muhammad was the first Muslim
+
+[Quran 6:14](https://quran.com/6/14)
+
+> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”
+
+No, [Jesus was not the first Muslim.](/jesus-was-a-muslim)
