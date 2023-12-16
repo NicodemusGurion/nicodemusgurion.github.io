@@ -147,6 +147,13 @@ Also:
 - [Sunnah Ibn Majah 477](https://sunnah.com/ibnmajah:477)
 
 
+# Satan urinates in your ear
+
+[Sahih al Bukhari 1144](https://sunnah.com/bukhari:1144)
+
+> Narrated `Abdullah: A person was mentioned before the Prophet (p.b.u.h) and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet (ﷺ) said, "Satan urinated in his ears."
+
+
 # How did Muhammad die?
 
 ## Allah promises to cut off his aorta if he tells a lie
