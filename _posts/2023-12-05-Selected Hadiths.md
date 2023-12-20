@@ -6,6 +6,16 @@ image: https://i.ibb.co/Jvb87Hr/F964-A421-1730-4-E89-B70-D-2310-BC079-BA6.jpg
 ---
 Some selected Quran and Hadith verses about everyone's favorite prophet, Mohammed.
 
+# About Allah
+
+## Allah prays
+
+[Al Adan Al Mufrad 645](https://sunnah.com/adab:645)
+
+> Abu Hurayra reported that the Messenger of Allah, may Allah bless him and grant him peace, said, "If anyone prays once on me, Allah will pray ten times on him.'"
+
+Who is Allah praying to?
+
 # About Jews
 
 [Quran 5:32](https://quran.com/5/32)
@@ -93,6 +103,19 @@ See also:
 
 > Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet (ﷺ) saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
 
+## Non-Muslims eats in seven intestines, Muslims in one
+
+Apparently belief or disbelief in Islam changes the number of intestines you have.
+
+[Sahih Muslim 2060 a](https://sunnah.com/muslim:2060a)
+
+> Ibn 'Umar reported Allah's Messenger (ﷺ) as saying that a non-Muslim eats in seven intestines whereas a Muslim eats in one intestine.
+
+See also:
+
+[Sunan Ibn Majah 3256](https://sunnah.com/ibnmajah:3256)
+[Sunan Ibn Majah 3257](https://sunnah.com/ibnmajah:3257)
+[Sunan Ibn Majah 3258](https://sunnah.com/ibnmajah:3258)
 
 
 # Health and Hygiene
@@ -229,3 +252,13 @@ Muhammad's father is in hell.
 > Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”
 
 No, [Jesus was not the first Muslim.](/jesus-was-a-muslim)
+
+# Factual inaccuracies 
+
+## Jews think Ezra is the son of Allah
+
+[Quran 9:30](https://quran.com/9/31)
+
+> The Jews say, “Ezra is the son of Allah,” and the Christians say, “The Messiah is the son of Allah.” These are mere words that they utter, imitating the words of the disbelievers before them. May Allah ruin them; how can they be deluded?
+
+No Jews have ever claimed that Ezra is the son of God. How deluded is Muhammad to believe in such nonsense?
