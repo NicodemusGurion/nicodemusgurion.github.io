@@ -80,6 +80,36 @@ Jesus is the person of the only true God that was sent into the world.
 
 What John 17:3 says is that God the Father is partaking of the essence of the only true God. And by virtue of being sent forth from inside the bosom of the Father, Jesus Christ is **also** partaking of the essence of the only true God. This is the only way it can make sense that eternal life is associated with knowing God **and** Jesus.
 
+# The rest of the chapter
+
+Taking things out of context is the worst sin when it comes to reading the Bible. Saying that John 17:3 disproves the trinity doctrine is ridiculous when considering the other verses in the chapter that confirms it.
+
+> John 17:5  “And now, O Father, glorify Me together with Yourself, with the glory which I had with You before the world was.
+
+Jesus has the glory of God, something God said that he would give to no one else. Hence Jesus must be God to have the glory of God.
+
+> John 17:8  “For I have given to them the words which You have given Me; and they have received [them,] and have known surely that I came forth from You; and they have believed that You sent Me
+
+Jesus **came forth from** God, meaning he is an extension of God's very substance. One with God in substance.
+
+> John 17:10 “And all Mine are Yours, and Yours are Mine, and I am glorified in them.
+
+Jesus owns everything that God owns.
+
+> John 17:11  “Now I am no longer in the world, but these are in the world, and I come to You. Holy Father, keep through Your name those whom You have given Me, that they may be one as We [are.]
+
+Jesus asks that Christians should be one just as he and the father are one: One unity of a plurality of persons.
+
+> John 17:21 “that they all may be one, as You, Father, [are] in Me, and I in You; that they also may be one in Us, that the world may believe that You sent Me.
+
+> John 17:22 “And the glory which You gave Me I have given them, that they may be one just as We are one:
+
+The ultimate fate of Christians is the perfect Union with God, like Jesus is. This is the doctrine of theosis.
+
+> John 17:24 “Father, I desire that they also whom You gave Me may be with Me where I am, that they may behold My glory which You have given Me; for You loved Me before the foundation of the world.
+
+The Father and Son loved one another before the foundation of the world, that is before spacetime, in eternity. Jesus is eternal and has always existed. That means he is God.
+
 # Summary
 
 1) John 17:3 taken out of context leads to a false works righteousness view of salvation. The correct interpretation is that everlasting life is given by Jesus, and knowing God and Jesus is just a **result** of having eternal life.
@@ -89,3 +119,5 @@ What John 17:3 says is that God the Father is partaking of the essence of the on
 It would also mean that you are a polytheist who believe there are two separate eternal, coequal gods, but one is true and the other is false, and it's the false god who gives you eternal life so that you can get to know the true AND the false god forever. Or (if you have the wrong understanding of point 1) that you can somehow gain everlasting life by learning about a false god.
 
 That, of course, is pure nonsense.
+
+3) The rest of the chapter, and the book, and the Bible, supports the trinity doctrine. Thinking one verse undoes that is ridiculous.
