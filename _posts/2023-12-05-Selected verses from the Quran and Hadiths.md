@@ -6,7 +6,9 @@ image: https://i.ibb.co/Jvb87Hr/F964-A421-1730-4-E89-B70-D-2310-BC079-BA6.jpg
 ---
 Some selected Quran and Hadith verses about everyone's favorite prophet, Mohammed.
 
-# About Allah
+[TOC]
+
+# Allah
 
 ## Allah prays
 
@@ -15,85 +17,6 @@ Some selected Quran and Hadith verses about everyone's favorite prophet, Mohamme
 > Abu Hurayra reported that the Messenger of Allah, may Allah bless him and grant him peace, said, "If anyone prays once on me, Allah will pray ten times on him.'"
 
 Who is Allah praying to?
-
-# About Jews
-
-[Quran 5:32](https://quran.com/5/32)
-
-> That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity.1 ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
-
-This verse is often quoted by Muslims doing Taqqiya to say that Islam is peaceful. But as you can see, it is a command directed to the people of Israel, not Muslims. 
-
-It is a quotation from the Talmud. So the Quran is actually saying that the commentary by a rabbi in the Talmud is "revelation from Allah."
-
-Also notice that this command has the stipulation "unless as a punishment for murder or mischief in the land", meaning that Jews had the right of capital punishment for those spreading mischief in the land. But in other cases, killing one would be like killing all. 
-
-And what "land" is it talking about? Well, the land of the Jews, Israel, or Palestine as it was later renamed. 
-
-*So according to the Quran, the Jews has the right to execute capital punishment on those spreading mischief in the land of Israel (Palestine).*
-
-But wait, it gets better. The next verse is what applies to Muslims:
-
-[Quran 5:33](https://quran.com/5/33)
-
-> Indeed, the penalty **for those who wage war against Allah and His Messenger** and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land.** This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous **punishment in the Hereafter.**
-
-This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
-
-
-# How to treat women
-
-
-## It's ok for a man to beat his wife
-
-> Men stand caretakers of women since Allah has made some of them excel the others, and because they have spent of their wealth., So, the righteous women are obedient, guarding in absence with the protection given by Allah. As for women whose disobedience you fear, convince them, and leave them apart in beds, and **beat them**. Then, if they obey you, do not seek a way against them. Surely, Allah is the Highest, the Greatest.
-
-This is if a man even only fears his wife would be disobedient.
-
-## It's ok to marry and divorce girls who have not yet menstruated
-
-[Surah 65:4](https://quran.com/65/4)
-
-Context, verse 1:
-
-> O Prophet! ˹Instruct the believers:˺ **When you intend to˺ divorce women, then divorce them with concern for their waiting period**...
-
-There's a waiting period before a man can divorce a wife.
-
-> As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated as well**. As for those who are pregnant, their waiting period ends with delivery.1 And whoever is mindful of Allah, He will make their matters easy for them.
-
-So men are allowed to marry and divorce prepubescent girls, as long as they respect the waiting period for divorce.
-
-## Mohammed married and had sex with a prepubescent child
-
-Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
-
-[Sunna an Nasa'i 3378](https://sunnah.com/nasai:3378)
-
-> "The Messenger of Allah married me when I was six, and consummated the marriage with me when I was nine, and I used to play with dolls."
-
-[Sahih al Bukhari 6130](https://sunnah.com/bukhari:6130)
-
-> Narrated 'Aisha: I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger (ﷺ) used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was **a little girl, not yet reached the age of puberty.**) (Fath-ul-Bari page 143, Vol.13)
-
-See also:
-
-- [Sahih al Bukhari 3896](https://sunnah.com/bukhari:3896)
-- [Sahih al Bukhari 5133](https://sunnah.com/bukhari:5133)
-- [Sahih al Bukhari 5134](https://sunnah.com/bukhari:5134)
-- [Sahih al Bukhari 5158](https://sunnah.com/bukhari:5158)
-- [Sahih Muslim 1422c](https://sunnah.com/muslim:1422c)
-- [Sahih Muslim 1422b](https://sunnah.com/muslim:1422b)
-- [Sunnah ibn Majah 1876](https://sunnah.com/ibnmajah:1876)
-- [Sunnah ibn Majah 1982](https://sunnah.com/ibnmajah:1982)
-- [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
-- [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
-
-## Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating
-
-[Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
-
-> It was narrated that 'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
 
 # Food
 
@@ -127,6 +50,112 @@ See also:
 > Narrated AbuSa'id al-Khudri: I heard that the people asked the Prophet of Allah (ﷺ): Water is brought for you from the well of Buda'ah. It is a well in which dead dogs, menstrual clothes and excrement of people are thrown. The Messenger of Allah (ﷺ) replied: Verily water is pure and is not defiled by anything...
 
 To say that water is not defiled by anything, not even the rotting corpses of dogs, menstrual waste products and literal feces is insane and unscientific. This unhygienic idea has probably cost the lives of untold numbers of people throughout history.
+
+## A wife of Muhammad used a dish to catch menstrual discharge while praying
+
+[Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
+
+> Narrated 'Aisha: "One of the wives of Allah's Messenger (ﷺ) joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
+
+# Muhammad would not provide more than one garment to his wives
+
+When they had menstrual blood stain their garments they would have to clean them with spit.
+
+[Sahih al Bukhari 312](https://sunnah.com/bukhari:312)
+
+> Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
+
+# Jews
+
+[Quran 5:32](https://quran.com/5/32)
+
+> That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity.1 ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
+
+This verse is often quoted by Muslims doing Taqqiya to say that Islam is peaceful. But as you can see, it is a command directed to the people of Israel, not Muslims. 
+
+It is a quotation from the Talmud. So the Quran is actually saying that the commentary by a rabbi in the Talmud is "revelation from Allah."
+
+Also notice that this command has the stipulation "unless as a punishment for murder or mischief in the land", meaning that Jews had the right of capital punishment for those spreading mischief in the land. But in other cases, killing one would be like killing all. 
+
+And what "land" is it talking about? Well, the land of the Jews, Israel, or Palestine as it was later renamed. 
+
+*So according to the Quran, the Jews has the right to execute capital punishment on those spreading mischief in the land of Israel (Palestine).*
+
+But wait, it gets better. The next verse is what applies to Muslims:
+
+[Quran 5:33](https://quran.com/5/33)
+
+> Indeed, the penalty **for those who wage war against Allah and His Messenger** and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land.** This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous **punishment in the Hereafter.**
+
+This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
+
+# Mohammad
+
+## Mohammed married and had sex with a prepubescent child
+
+Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
+
+[Sunna an Nasa'i 3378](https://sunnah.com/nasai:3378)
+
+> "The Messenger of Allah married me when I was six, and consummated the marriage with me when I was nine, and I used to play with dolls."
+
+[Sahih al Bukhari 6130](https://sunnah.com/bukhari:6130)
+
+> Narrated 'Aisha: I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger (ﷺ) used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was **a little girl, not yet reached the age of puberty.**) (Fath-ul-Bari page 143, Vol.13)
+
+See also:
+
+- [Sahih al Bukhari 3896](https://sunnah.com/bukhari:3896)
+- [Sahih al Bukhari 5133](https://sunnah.com/bukhari:5133)
+- [Sahih al Bukhari 5134](https://sunnah.com/bukhari:5134)
+- [Sahih al Bukhari 5158](https://sunnah.com/bukhari:5158)
+- [Sahih Muslim 1422c](https://sunnah.com/muslim:1422c)
+- [Sahih Muslim 1422b](https://sunnah.com/muslim:1422b)
+- [Sunnah ibn Majah 1876](https://sunnah.com/ibnmajah:1876)
+- [Sunnah ibn Majah 1982](https://sunnah.com/ibnmajah:1982)
+- [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
+- [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
+
+## Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating
+
+[Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
+
+> It was narrated that 'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
+
+## Muhammad used to fondle Aisha when she was menstruating
+
+[Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
+
+> Narrated 'Aisha: The Prophet (ﷺ) and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses).
+
+# Women
+
+## It's ok for a man to beat his wife
+
+> Men stand caretakers of women since Allah has made some of them excel the others, and because they have spent of their wealth., So, the righteous women are obedient, guarding in absence with the protection given by Allah. As for women whose disobedience you fear, convince them, and leave them apart in beds, and **beat them**. Then, if they obey you, do not seek a way against them. Surely, Allah is the Highest, the Greatest.
+
+This is if a man even only fears his wife would be disobedient.
+
+## It's ok to marry and divorce girls who have not yet menstruated
+
+[Surah 65:4](https://quran.com/65/4)
+
+Context, verse 1:
+
+> O Prophet! ˹Instruct the believers:˺ **When you intend to˺ divorce women, then divorce them with concern for their waiting period**...
+
+There's a waiting period before a man can divorce a wife.
+
+> As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated as well**. As for those who are pregnant, their waiting period ends with delivery.1 And whoever is mindful of Allah, He will make their matters easy for them.
+
+So men are allowed to marry and divorce prepubescent girls, as long as they respect the waiting period for divorce.
+
+## The majority of people in hell are women
+
+[Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
+
+> Narrated Abu Sa'id Al-Khudri: Once Allah's Messenger (ﷺ) went out to the Musalla (to offer the prayer) of 'Id-al-Adha or Al-Fitr prayer. Then he passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." They asked, "Why is it so, O Allah's Messenger (ﷺ) ?" He replied, "You curse frequently and are ungrateful to your husbands. I have not seen anyone more deficient in intelligence and religion than you. A cautious sensible man could be led astray by some of you." The women asked, "O Allah's Messenger (ﷺ)! What is deficient in our intelligence and religion?" He said, "Is not the evidence of two women equal to the witness of one man?" They replied in the affirmative. He said, "This is the deficiency in her intelligence. Isn't it true that a woman can neither pray nor fast during her menses?" The women replied in the affirmative. He said, "This is the deficiency in her religion."
+
 
 # Spiritual health 
 
