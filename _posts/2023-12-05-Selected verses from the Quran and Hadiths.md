@@ -4,7 +4,7 @@ tags: [Islam, Muslims, Muhammad, Lists]
 thumb: https://i.ibb.co/chRcQPj/8414-B52-F-290-B-407-C-8-DB9-473-B12-F2587-E.jpg
 image: https://i.ibb.co/Jvb87Hr/F964-A421-1730-4-E89-B70-D-2310-BC079-BA6.jpg
 ---
-Some selected Quran and Hadith verses about everyone's favorite prophet, Mohammed.
+Some selected Quran and Hadith verses.
 
 [TOC]
 
@@ -17,6 +17,16 @@ Some selected Quran and Hadith verses about everyone's favorite prophet, Mohamme
 > Abu Hurayra reported that the Messenger of Allah, may Allah bless him and grant him peace, said, "If anyone prays once on me, Allah will pray ten times on him.'"
 
 Who is Allah praying to?
+
+# Factual errors 
+
+## Jews think Ezra is the son of Allah
+
+[Quran 9:30](https://quran.com/9/31)
+
+> The Jews say, “Ezra is the son of Allah,” and the Christians say, “The Messiah is the son of Allah.” These are mere words that they utter, imitating the words of the disbelievers before them. May Allah ruin them; how can they be deluded?
+
+No Jews have ever claimed that Ezra is the son of God. How deluded is Muhammad to believe in such nonsense?
 
 # Food
 
@@ -51,13 +61,19 @@ See also:
 
 To say that water is not defiled by anything, not even the rotting corpses of dogs, menstrual waste products and literal feces is insane and unscientific. This unhygienic idea has probably cost the lives of untold numbers of people throughout history.
 
+## Muhammad told his followers to lick each other's hands
+
+[Sahih al Bukhari 5456](https://sunnah.com/bukhari:5456)
+
+> Narrated Ibn 'Abbas: The Prophet (ﷺ) said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
+
 ## A wife of Muhammad used a dish to catch menstrual discharge while praying
 
 [Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
 
 > Narrated 'Aisha: "One of the wives of Allah's Messenger (ﷺ) joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
 
-# Muhammad would not provide more than one garment to his wives
+## Muhammad would not provide more than one garment to his wives
 
 When they had menstrual blood stain their garments they would have to clean them with spit.
 
@@ -128,6 +144,79 @@ See also:
 
 > Narrated 'Aisha: The Prophet (ﷺ) and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses).
 
+## How did Muhammad die?
+
+### Allah promises to cut off his aorta if he tells a lie
+
+[Quran 69:44-47](https://quran.com/69?startingVerse=44)
+
+ >Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!
+
+[Musnad Ahmad 107](https://sunnah.com/ahmad:107)
+
+> And if he (Muhammad ﷺ) had forged a false saying concerning Us (Allah). We surely would have seized him by his right hand (or with power and might), And then **We certainly would have cut off his life artery (aorta)**, And none of you could have withheld Us from (punishing) him...”
+
+So Allah promises that Muhammed ever acts as a false prophet, Allah will cut off his aorta.
+
+### Muhammad eats a poisoned lamb
+
+[Sunnah Abu Dawud 4512](https://sunnah.com/abudawud:4512)
+
+> Narrated Abu Hurairah: ...So a Jewess presented him at Khaybar with a roasted sheep which she had poisoned. The Messenger of Allah (ﷺ) ate of it and the people also ate. He then said: Take away your hands (from the food), for it has informed me that it is poisoned. Bishr ibn al-Bara' ibn Ma'rur al-Ansari died. So he (the Prophet) sent for the Jewess (and said to her): What motivated you to do the work you have done? She said: If you were a prophet, it would not harm you; but if you were a king, I should rid the people of you. The Messenger of Allah (ﷺ) then ordered regarding her and she was killed. He then said about the pain of which he died: I continued to feel pain from the morsel which I had eaten at Khaybar. This is the time when **it has cut off my aorta.** 
+
+See also:
+
+- [Sahih al Bukhari 2617](https://sunnah.com/bukhari:2617)
+- [Sahih al Bukhari 3169](https://sunnah.com/bukhari:3169)
+- [Sahih al Bukhari 4249](https://sunnah.com/bukhari:4249)
+- [Sahih al Bukhari 5777](https://sunnah.com/bukhari:5777)
+- [Sunnah Abu Dawud 4508](https://sunnah.com/abudawud:4508)
+- [Sunnah Abu Dawud 4510](https://sunnah.com/abudawud:4510)
+
+After Muhammad kills the whole male Jewish population of Khaibar, a Jewish woman offers him roasted lamb. Being arguably the dumbest person in history, Muhammad accepts it. And it turns out that it was poisoned. Some of his men died, but Muhammad was affected for a long time from the lingering poison. Notice that Muhammad is saying that the pain from the poison feels like it is cutting off his aorta.
+
+### Muhammad dies
+
+[Sahih al Bukhari 4428](https://sunnah.com/bukhari:4428)
+  
+> Narrated 'Aisha: The Prophet (ﷺ) in his ailment in which he died, used to say, "O `Aisha! I still feel the pain caused by the food I ate at Khaibar, and at this time, **I feel as if my aorta is being cut** from that poison."
+
+[Sunnah Abu Dawud 4513](https://sunnah.com/abudawud:4513)
+
+> ...I do not think about the illness of my son except the poisoned sheep of which he had eaten with you at Khaybar. The Prophet (ﷺ) said: And I do not think about my illness except that. **This is the time when it cut off my aorta**...
+
+Muhammad eventually died from the poisoned lamb of a jewish woman, and he did so while complaining that he felt as if his aorta was being cut. This is exactly how Allah said he would die if he was a false prophet.
+
+Notice also the poetic biblical references in that a false anti-christ prophet was killed by Allah after eating of the Lamb that came from a Jewish woman.
+
+## What was the last words of Muhammad?
+
+[Sahih Muslim 531](https://sunnah.com/muslim:531)
+
+>  'A'isha and Abdullah reported: As the Messenger of Allah (ﷺ) was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
+
+While Jesus used his last moments to forgive his enemies, Muhammad used his last moments to curse one third of the world population.
+
+## The parents of Muhammad are in hell
+
+[Sahih Muslim 976b](https://sunnah.com/muslim/11/135)
+
+> Abu Huraira reported: The Apostle of Allah (ﷺ) visited the grave of his mother and he wept, and moved others around him to tears, and said: **I sought permission from my Lord to beg forgiveness for her but it was not granted to me**, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death.
+
+Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will not forgive her, meaning she is in hell.
+
+[Sunan Abu Dawud 4718](https://sunnah.com/abudawud:4718)
+
+> Anas said : A man asked : where is my father, Messenger of Allah? He replied! Your father is in Hell. When he turned his back, he said : **My father and your father are in Hell.**
+
+Muhammad's father is in hell.
+
+## Muhammad was the first Muslim
+
+[Quran 6:14](https://quran.com/6/14)
+
+> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”
+
 # Women
 
 ## It's ok for a man to beat his wife
@@ -157,7 +246,24 @@ So men are allowed to marry and divorce prepubescent girls, as long as they resp
 > Narrated Abu Sa'id Al-Khudri: Once Allah's Messenger (ﷺ) went out to the Musalla (to offer the prayer) of 'Id-al-Adha or Al-Fitr prayer. Then he passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." They asked, "Why is it so, O Allah's Messenger (ﷺ) ?" He replied, "You curse frequently and are ungrateful to your husbands. I have not seen anyone more deficient in intelligence and religion than you. A cautious sensible man could be led astray by some of you." The women asked, "O Allah's Messenger (ﷺ)! What is deficient in our intelligence and religion?" He said, "Is not the evidence of two women equal to the witness of one man?" They replied in the affirmative. He said, "This is the deficiency in her intelligence. Isn't it true that a woman can neither pray nor fast during her menses?" The women replied in the affirmative. He said, "This is the deficiency in her religion."
 
 
-# Spiritual health 
+# Satan
+
+## Satan urinates in your ear
+
+[Sahih al Bukhari 1144](https://sunnah.com/bukhari:1144)
+
+> Narrated 'Abdullah: A person was mentioned before the Prophet (p.b.u.h) and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet (ﷺ) said, "Satan urinated in his ears."
+
+# Science
+
+## What determines if a child looks like its mother or father?
+
+[Sahih al Bukhari 3329](https://sunnah.com/bukhari:3329)
+
+> If a man has sexual intercourse with his wife and gets discharge first, the child will resemble the father, and if the woman gets discharge first, the child will resemble her.
+
+
+# Spiritual and mental health 
 
 ## Muhammad was susceptible to magic
 
@@ -173,20 +279,15 @@ See also:
 
 - [Sahih al Bukhari 6391](https://sunnah.com/bukhari:6391)
 
-## Muhammad told his followers to lick each other's hands
-
-[Sahih al Bukhari 5456](https://sunnah.com/bukhari:5456)
-
-> Narrated Ibn `Abbas: The Prophet (ﷺ) said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
-
 ## Muhammad was suicidal and wanted to jump of a mountain
 
 [Sahih al Bukhari 91](https://sunnah.com/bukhari/91)
 
 > …the Prophet (ﷺ) became so sad as we have heard that he intended several times to throw himself from the tops of high mountains and every time he went up the top of a mountain in order to throw himself down, Gabriel would appear before him and say, "O Muhammad! You are indeed Allah's Messenger (ﷺ) in truth" whereupon his heart would become quiet and he would calm down and would return home. And whenever the period of the coming of the inspiration used to become long, he would do as before, but when he used to reach the top of a mountain, Gabriel would appear before him and say to him what he had said before.
 
+# Weird or miscellaneous 
 
-# "The eyes are the leather strap of the anus"
+## "The eyes are the leather strap of the anus"
 
 [Sunnah Abu Dawud 203](https://sunnah.com/abudawud:203)
 
@@ -199,95 +300,3 @@ Also:
 - [Sunnah Ibn Majah 477](https://sunnah.com/ibnmajah:477)
 
 
-# Satan urinates in your ear
-
-[Sahih al Bukhari 1144](https://sunnah.com/bukhari:1144)
-
-> Narrated `Abdullah: A person was mentioned before the Prophet (p.b.u.h) and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet (ﷺ) said, "Satan urinated in his ears."
-
-
-# How did Muhammad die?
-
-## Allah promises to cut off his aorta if he tells a lie
-
-[Quran 69:44-47](https://quran.com/69?startingVerse=44)
-
- >Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!
-
-[Musnad Ahmad 107](https://sunnah.com/ahmad:107)
-
-> And if he (Muhammad ﷺ) had forged a false saying concerning Us (Allah). We surely would have seized him by his right hand (or with power and might), And then **We certainly would have cut off his life artery (aorta)**, And none of you could have withheld Us from (punishing) him...”
-
-So Allah promises that Muhammed ever acts as a false prophet, Allah will cut off his aorta.
-
-## The lamb of Khaibar
-
-[Sunnah Abu Dawud 4512](https://sunnah.com/abudawud:4512)
-
-> Narrated Abu Hurairah: ...So a Jewess presented him at Khaybar with a roasted sheep which she had poisoned. The Messenger of Allah (ﷺ) ate of it and the people also ate. He then said: Take away your hands (from the food), for it has informed me that it is poisoned. Bishr ibn al-Bara' ibn Ma'rur al-Ansari died. So he (the Prophet) sent for the Jewess (and said to her): What motivated you to do the work you have done? She said: If you were a prophet, it would not harm you; but if you were a king, I should rid the people of you. The Messenger of Allah (ﷺ) then ordered regarding her and she was killed. He then said about the pain of which he died: I continued to feel pain from the morsel which I had eaten at Khaybar. This is the time when **it has cut off my aorta.** 
-
-See also:
-
-- [Sahih al Bukhari 2617](https://sunnah.com/bukhari:2617)
-- [Sahih al Bukhari 3169](https://sunnah.com/bukhari:3169)
-- [Sahih al Bukhari 4249](https://sunnah.com/bukhari:4249)
-- [Sahih al Bukhari 5777](https://sunnah.com/bukhari:5777)
-- [Sunnah Abu Dawud 4508](https://sunnah.com/abudawud:4508)
-- [Sunnah Abu Dawud 4510](https://sunnah.com/abudawud:4510)
-
-After Muhammad kills the whole male Jewish population of Khaibar, a Jewish woman offers him roasted lamb. Being arguably the dumbest person in history, Muhammad accepts it. And it turns out that it was poisoned. Some of his men died, but Muhammad was affected for a long time from the lingering poison. Notice that Muhammad is saying that the pain from the poison feels like it is cutting off his aorta.
-
-## The death of Muhammed
-
-[Sahih al Bukhari 4428](https://sunnah.com/bukhari:4428)
-  
-> Narrated 'Aisha: The Prophet (ﷺ) in his ailment in which he died, used to say, "O `Aisha! I still feel the pain caused by the food I ate at Khaibar, and at this time, **I feel as if my aorta is being cut** from that poison."
-
-[Sunnah Abu Dawud 4513](https://sunnah.com/abudawud:4513)
-
-> ...I do not think about the illness of my son except the poisoned sheep of which he had eaten with you at Khaybar. The Prophet (ﷺ) said: And I do not think about my illness except that. **This is the time when it cut off my aorta**...
-
-Muhammad eventually died from the poisoned lamb of a jewish woman, and he did so while complaining that he felt as if his aorta was being cut. This is exactly how Allah said he would die if he was a false prophet.
-
-Notice also the poetic biblical references in that a false anti-christ prophet was killed by Allah after eating of the Lamb that came from a Jewish woman.
-
-# What was the last words of Muhammad?
-
-[Sahih Muslim 531](https://sunnah.com/muslim:531)
-
->  'A'isha and Abdullah reported: As the Messenger of Allah (ﷺ) was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
-
-While Jesus used his last moments to forgive his enemies, Muhammad used his last moments to curse one third of the world population.
-
-# Where are the parents of Muhammad?
-
-[Sahih Muslim 976b](https://sunnah.com/muslim/11/135)
-
-> Abu Huraira reported: The Apostle of Allah (ﷺ) visited the grave of his mother and he wept, and moved others around him to tears, and said: **I sought permission from my Lord to beg forgiveness for her but it was not granted to me**, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death.
-
-Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will not forgive her, meaning she is in hell.
-
-[Sunan Abu Dawud 4718](https://sunnah.com/abudawud:4718)
-
-
-> Anas said : A man asked : where is my father, Messenger of Allah? He replied! Your father is in Hell. When he turned his back, he said : **My father and your father are in Hell.**
-
-Muhammad's father is in hell.
-
-# Muhammad was the first Muslim
-
-[Quran 6:14](https://quran.com/6/14)
-
-> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”
-
-No, [Jesus was not the first Muslim.](/jesus-was-a-muslim)
-
-# Factual inaccuracies 
-
-## Jews think Ezra is the son of Allah
-
-[Quran 9:30](https://quran.com/9/31)
-
-> The Jews say, “Ezra is the son of Allah,” and the Christians say, “The Messiah is the son of Allah.” These are mere words that they utter, imitating the words of the disbelievers before them. May Allah ruin them; how can they be deluded?
-
-No Jews have ever claimed that Ezra is the son of God. How deluded is Muhammad to believe in such nonsense?
