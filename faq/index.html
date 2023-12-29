@@ -1,13 +1,11 @@
 ---
-title: Frequebtly asked questions and posed arguments
+title: Frequent questions and arguments
 permalink: /faq/
 layout: page
 ---
 
-<h2>Frequently Asked Questions</h2>
-
 <ul>
-  {% assign faq_pages = site.pages | where_exp: "page", "page.url contains '/faq/'" | sort: "title" %}
+  {% assign faq_pages = site.pages | where_exp: "page", "page.url contains '/faq/'" | where_exp: "page", "page.title != 'Frequent questions and arguments'" | sort: "title" %}
   {% for page in faq_pages %}
     <li><a href="{{ page.url }}">{{ page.title }}</a></li>
   {% endfor %}
