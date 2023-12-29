@@ -3,6 +3,7 @@ title: List of verses from the Quran and Hadiths
 tags: [Islam, Muslims, Muhammad, Lists]
 thumb: https://i.ibb.co/chRcQPj/8414-B52-F-290-B-407-C-8-DB9-473-B12-F2587-E.jpg
 image: https://i.ibb.co/Jvb87Hr/F964-A421-1730-4-E89-B70-D-2310-BC079-BA6.jpg
+permalink: /quran-and-hadiths 
 ---
 Some selected Quran and Hadith verses.
 
@@ -66,6 +67,18 @@ To say that water is not defiled by anything, not even the rotting corpses of do
 [Sahih al Bukhari 5456](https://sunnah.com/bukhari:5456)
 
 > Narrated Ibn 'Abbas: The Prophet (ﷺ) said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
+
+## Muhammad spit three times in a man's wound
+
+[Sahih al Bukhari 4206](https://sunnah.com/bukhari:4206)
+
+> I saw the trace of a wound in Salama's leg. I said to him, "O Abu Muslim! What is this wound?" He said, "This was inflicted on me on the day of Khaibar and the people said, 'Salama has been wounded.' Then I went to the Prophet (ﷺ) and he puffed his saliva in it (i.e. the wound) thrice., and since then I have not had any pain in it till this hour."
+
+## Muhammad spit in the mouth of a newborn child
+
+[Sahih al Bukhari 3909](https://sunnah.com/bukhari:3909)
+
+> That she conceived 'Abdullah bin Az-Zubair. She added, "I migrated to Medina while I was at full term of pregnancy and alighted at Quba where I gave birth to him. Then I brought him to the Prophet (ﷺ) and put him in his lap. The Prophet (ﷺ) asked for a date, chewed it, and put some of its juice in the child's mouth. So, the first thing that entered the child's stomach was the saliva of Allah's Messenger (ﷺ). Then the Prophet rubbed the child's palate with a date and invoked for Allah's Blessings on him, and he was the first child born amongst the Emigrants in the Islamic Land (i.e. Medina).
 
 ## A wife of Muhammad used a dish to catch menstrual discharge while praying
 
@@ -284,6 +297,30 @@ See also:
 [Sahih al Bukhari 91](https://sunnah.com/bukhari/91)
 
 > …the Prophet (ﷺ) became so sad as we have heard that he intended several times to throw himself from the tops of high mountains and every time he went up the top of a mountain in order to throw himself down, Gabriel would appear before him and say, "O Muhammad! You are indeed Allah's Messenger (ﷺ) in truth" whereupon his heart would become quiet and he would calm down and would return home. And whenever the period of the coming of the inspiration used to become long, he would do as before, but when he used to reach the top of a mountain, Gabriel would appear before him and say to him what he had said before.
+
+# Paradise
+
+## All fruit looks the same in paradise
+
+[Quran 2:25](https://quran.com/2/25)
+
+> And give glad tidings to those who believe and do righteous deeds that they will have gardens under which rivers flow. Every time they are provided with a provision of fruit therefrom, they will say, “This is what we were provided with before,” for they will be given fruit that resemble one another. They will have purified spouses, and they will abide therein forever.
+
+## There are 7 heavens
+
+[Quran 2:29](https://quran.com/2/29)
+
+> It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens, and He is All-Knowing of every thing.
+
+# The Quran
+
+## How to know if the Quran is inspired
+
+[Quran 2:23](https://quran.com/2/23)[, 24](https://quran.com/2/24)
+
+> 23 If you are in doubt concerning that which We have sent down upon Our slave, then produce a chapter like it and call upon your helpers other than Allah, if you are truthful.24 But if you did not do it, and you can never do it; then beware of the Fire whose fuel will be people and stones, which is prepared for the disbelievers.
+
+The only claim to inspiration the Quran makes is in its literary excellence, claiming no one can produce a chapter like it. But if you have read it the first thing that strikes you is how vacuous, uninspired, boring, confused, and contradictory it is. Even a mediocre poet would be able to write a chapter far more excellent than most chapters of the Quran.
 
 # Weird or miscellaneous 
 
