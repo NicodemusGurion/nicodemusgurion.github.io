@@ -21,6 +21,8 @@ Who is Allah praying to?
 
 # Factual errors 
 
+Historical and factual errors 
+
 ## Jews think Ezra is the son of Allah
 
 [Quran 9:30](https://quran.com/9/31)
@@ -54,6 +56,8 @@ See also:
 
 # Health and Hygiene
 
+How Muhammad viewed health and hygiene issues. (There's a lot of spit.)
+
 ## Muhammad told his followers to drink sewer water 
 
 [Sunan Abu Dawud 67](https://sunnah.com/abudawud:67)
@@ -72,21 +76,50 @@ To say that water is not defiled by anything, not even the rotting corpses of do
 
 [Sahih al Bukhari 4206](https://sunnah.com/bukhari:4206)
 
-> I saw the trace of a wound in Salama's leg. I said to him, "O Abu Muslim! What is this wound?" He said, "This was inflicted on me on the day of Khaibar and the people said, 'Salama has been wounded.' Then I went to the Prophet (ﷺ) and he puffed his saliva in it (i.e. the wound) thrice., and since then I have not had any pain in it till this hour."
+> I saw the trace of a wound in Salama's leg. I said to him, "O Abu Muslim! What is this wound?" He said, "This was inflicted on me on the day of Khaibar and the people said, 'Salama has been wounded.' Then I went to the Prophet (ﷺ) and he puffed his saliva in the wound thrice., and since then I have not had any pain in it till this hour."
+
+## Muhammad believed spit mixed with dirt could cure illnesses 
+
+[Sahih al Bukhari 5745](https://sunnah.com/bukhari:5745)
+
+> Narrated 'Aisha: The Prophet (ﷺ) used to say to the patient, "In the Name of Allah The earth of our land and the saliva of some of us cure our patient."
+
+- [Riyad as-Salihin 901](https://sunnah.com/riyadussalihin:901)
+- [Sunnan Ibn Majah 3521](https://sunnah.com/ibnmajah:3521)
+
+## Muhammad tried to heal himself by blowing raspberries 
+
+[Mishkat al-Masabih 1532](https://sunnah.com/mishkat:1532)
+
+> She said that when the Prophet had a complaint he would blow on himself, ejecting saliva, reciting the Mu'awwidhah, and wipe himself with his hand. She said, “When he suffered from the pain of which he died, I would blow on him ejecting saliva and recite the Mu'awwidhat as he did, and would take the Prophet’s hand to wipe him.”  
 
 ## Muhammad spit in the mouth of a newborn child
 
-[Sahih al Bukhari 3909](https://sunnah.com/bukhari:3909)
+[Sahih al Bukhari 5469](https://sunnah.com/bukhari:5469)
 
-> That she conceived 'Abdullah bin Az-Zubair. She added, "I migrated to Medina while I was at full term of pregnancy and alighted at Quba where I gave birth to him. Then I brought him to the Prophet (ﷺ) and put him in his lap. The Prophet (ﷺ) asked for a date, chewed it, and put some of its juice in the child's mouth. So, the first thing that entered the child's stomach was the saliva of Allah's Messenger (ﷺ). Then the Prophet rubbed the child's palate with a date and invoked for Allah's Blessings on him, and he was the first child born amongst the Emigrants in the Islamic Land (i.e. Medina).
+> I conceived 'Abdullah bin AzZubair at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger (ﷺ) and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger 
 
-## A wife of Muhammad used a dish to catch menstrual discharge while praying
+See also:
+
+- [Sahih al Bukhari 3909](https://sunnah.com/bukhari:3909)
+- [Sahih Muslim 2146a](https://sunnah.com/muslim:2146a)
+- [Sahih Muslim 2146b](https://sunnah.com/muslim:2146b)
+- [Sahih Muslim 2148](https://sunnah.com/muslim:2148)
+
+
+## Muhammad exhumed a dead man and spit in his mouth
+
+[Sahih Muslim 2773a](https://sunnah.com/muslim:2773a)
+
+> Jabir reported Allah's Apostle (ﷺ) came to the grave of 'Abdullah b. Ubayy, brought him out from that, placed him on his knee and put his saliva in his mouth and shrouded him in his own shirt and Allah knows best.
+
+## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying
 
 [Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
 
 > Narrated 'Aisha: "One of the wives of Allah's Messenger (ﷺ) joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
 
-## Muhammad would not provide more than one garment to his wives
+## Muhammad would not provide more than one garment each to his wives
 
 When they had menstrual blood stain their garments they would have to clean them with spit.
 
@@ -95,6 +128,8 @@ When they had menstrual blood stain their garments they would have to clean them
 > Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
 
 # Jews
+
+How Islam views Jews.
 
 [Quran 5:32](https://quran.com/5/32)
 
@@ -119,6 +154,8 @@ But wait, it gets better. The next verse is what applies to Muslims:
 This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
 
 # Mohammad
+
+Things that Mohammad did.
 
 ## Mohammed married and had sex with a prepubescent child
 
@@ -204,11 +241,41 @@ Notice also the poetic biblical references in that a false anti-christ prophet w
 
 ## What was the last words of Muhammad?
 
+While Jesus used his last moments to forgive his enemies, Muhammad used his last moments to curse one third of the world population.
+
 [Sahih Muslim 531](https://sunnah.com/muslim:531)
 
 >  'A'isha and Abdullah reported: As the Messenger of Allah (ﷺ) was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
 
-While Jesus used his last moments to forgive his enemies, Muhammad used his last moments to curse one third of the world population.
+## What was the last action of Muhammad?
+
+Sharing a toothbrush with two other people.
+
+[Sahih al Bukhari 4450](https://sunnah.com/bukhari:4450)
+
+> Aisha added, "The Prophet (ﷺ) expired on the day of my turn in my house and he was taken unto Allah while his head was against my chest and his saliva mixed with my saliva." 'Aisha added, "Abdur-Rahman bin Abu Bakr came in, carrying a Siwak he was cleaning his teeth with. Allah's Messenger (ﷺ) looked at it and I said to him, 'O 'AbdurRahman! Give me this Siwak.' So he gave it to me and I cut it, chewed it (it's end) and gave it to Allah's Messenger (ﷺ) who cleaned his teeth with it while he was resting against my chest."
+
+See also:
+
+- [Sahiha al Bukhari 3100](https://sunnah.com/bukhari:3100)
+- [Sahih al Bukhari 4451](https://sunnah.com/bukhari:4451)
+- [Sahih al Bukhari 5217](https://sunnah.com/bukhari:5217)
+
+## Muhammad didn't leave an inheritance for his wives and daughters 
+
+Instead they had to go to Abu Bakr to get what they needed to survive as a charity.
+
+[Sunnan Abu Dawud 2969](https://sunnah.com/abudawud:2969)
+
+> Narrated Aisha, Ummul Mu'minin: Fatimah was demanding (the property of) sadaqah of the Messenger of Allah (ﷺ) at Medina and Fadak, and what remained from the fifth of Khaybar. Aisha quoted AbuBakr as saying: The Messenger of Allah (ﷺ) said: We are not inherited; whatever we leave is sadaqah (charity). The family of Muhammad will eat from this property, that is, from the property of Allah. They will not take more then their sustenance.
+
+Muhammad's daughter Fatima was denied her inheritance.
+
+[Sunnan Abu Dawud 2976](https://sunnah.com/abudawud:2976)
+
+> Narrated 'Aishah: When the Messenger of Allah (ﷺ) died, the wives of the Prophet (ﷺ) intended to send 'Uthman b. 'Affan to Abu Bakr to ask him their cost of living from (the inheritance of) the Prophet (ﷺ). Thereupon 'Aishah said: Did not the Messenger of Allah (ﷺ) say: We are not inherited. Whatever we leave is sadaqah.
+
+The wives of Muhammad were also denied an inheritance.
 
 ## The parents of Muhammad are in hell
 
@@ -321,6 +388,20 @@ See also:
 > 23 If you are in doubt concerning that which We have sent down upon Our slave, then produce a chapter like it and call upon your helpers other than Allah, if you are truthful.24 But if you did not do it, and you can never do it; then beware of the Fire whose fuel will be people and stones, which is prepared for the disbelievers.
 
 The only claim to inspiration the Quran makes is in its literary excellence, claiming no one can produce a chapter like it. But if you have read it the first thing that strikes you is how vacuous, uninspired, boring, confused, and contradictory it is. Even a mediocre poet would be able to write a chapter far more excellent than most chapters of the Quran.
+
+## The Quran is not perfectly preserved
+
+### Allah foretold that the Quran wouldn’t be perfectly preserved 
+
+[Quran 2:106](https://quran.com/2/106)
+
+> If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
+
+### Two chapters of the Quran were eaten by a sheep
+
+[Sunan Ibn Majah 1944](https://sunnah.com/ibnmajah:1944)
+
+> It was narrated that 'Aishah said “The Verse of stoning and of breastfeeding an adult ten times was revealed, and the paper was with me under my pillow. When the Messenger of Allah died, we were preoccupied with his death, and a tame sheep came in and ate it.”
 
 # Weird or miscellaneous 
 
