@@ -52,6 +52,10 @@ What does the Watchtower teach about Jesus, his nature and his role?
 *   [Jesus' body was "disposed of" by Jehovah God, "dissolved into its constituent elements or atoms"](https://wol.jw.org/en/wol/d/r1/lp-e/1953641?p=par#h=12).
 *   [God caused Jesus body to disappear.](https://wol.jw.org/en/wol/d/r1/lp-e/1101978160#h=8)
 
+## Why could Jesus not have been bodily resurrected?
+
+["Jesus could not take a human body through the Van Allen radiation belts and outer space to heaven…"](https://wol.jw.org/en/wol/d/r1/lp-e/1963282#h=11)
+
 ## Should we worship Jesus?
 
 *   [1951: "Make no mistake about this, the true “higher powers” or “superior authorities” to whom Christians are commanded to subject themselves **in worship** are Jehovah God **and Christ Jesus**!"](https://wol.jw.org/en/wol/d/r1/lp-e/1951324?p=sen#h=5)
