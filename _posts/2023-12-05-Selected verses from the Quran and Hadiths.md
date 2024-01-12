@@ -19,6 +19,20 @@ Some selected Quran and Hadith verses.
 
 Who is Allah praying to?
 
+## Allah is a narcissist 
+
+[Sahih al-Bukhari 4634](https://sunnah.com/bukhari:4634)
+
+> And none loves to be praised more than Allah does, and for this reason He praises Himself.
+
+# Animals
+
+## Owning a dog gives you minus points
+
+[Sahih al Bukhari 5480](https://sunnah.com/bukhari:5480)
+
+> Narrated Ibn Umar: The Prophet said, "Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds."
+
 # Factual errors 
 
 Historical and factual errors 
@@ -37,7 +51,7 @@ No Jews have ever claimed that Ezra is the son of God. How deluded is Muhammad t
 
 [Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
 
-> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet (ﷺ) saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
+> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet [^pbuh] saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
 
 ## Non-Muslims eats in seven intestines, Muslims in one
 
@@ -45,7 +59,7 @@ Apparently belief or disbelief in Islam changes the number of intestines you hav
 
 [Sahih Muslim 2060 a](https://sunnah.com/muslim:2060a)
 
-> Ibn 'Umar reported Allah's Messenger (ﷺ) as saying that a non-Muslim eats in seven intestines whereas a Muslim eats in one intestine.
+> Ibn 'Umar reported Allah's Messenger [^pbuh] as saying that a non-Muslim eats in seven intestines whereas a Muslim eats in one intestine.
 
 See also:
 
@@ -62,7 +76,7 @@ How Muhammad viewed health and hygiene issues. (There's a lot of spit.)
 
 [Sunan Abu Dawud 67](https://sunnah.com/abudawud:67)
 
-> Narrated AbuSa'id al-Khudri: I heard that the people asked the Prophet of Allah (ﷺ): Water is brought for you from the well of Buda'ah. It is a well in which dead dogs, menstrual clothes and excrement of people are thrown. The Messenger of Allah (ﷺ) replied: Verily water is pure and is not defiled by anything...
+> Narrated AbuSa'id al-Khudri: I heard that the people asked the Prophet of Allah [^pbuh]: Water is brought for you from the well of Buda'ah. It is a well in which dead dogs, menstrual clothes and excrement of people are thrown. The Messenger of Allah [^pbuh] replied: Verily water is pure and is not defiled by anything...
 
 To say that water is not defiled by anything, not even the rotting corpses of dogs, menstrual waste products and literal feces is insane and unscientific. This unhygienic idea has probably cost the lives of untold numbers of people throughout history.
 
@@ -70,19 +84,19 @@ To say that water is not defiled by anything, not even the rotting corpses of do
 
 [Sahih al Bukhari 5456](https://sunnah.com/bukhari:5456)
 
-> Narrated Ibn 'Abbas: The Prophet (ﷺ) said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
+> Narrated Ibn 'Abbas: The Prophet [^pbuh] said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
 
 ## Muhammad spit three times in a man's wound
 
 [Sahih al Bukhari 4206](https://sunnah.com/bukhari:4206)
 
-> I saw the trace of a wound in Salama's leg. I said to him, "O Abu Muslim! What is this wound?" He said, "This was inflicted on me on the day of Khaibar and the people said, 'Salama has been wounded.' Then I went to the Prophet (ﷺ) and he puffed his saliva in the wound thrice., and since then I have not had any pain in it till this hour."
+> I saw the trace of a wound in Salama's leg. I said to him, "O Abu Muslim! What is this wound?" He said, "This was inflicted on me on the day of Khaibar and the people said, 'Salama has been wounded.' Then I went to the Prophet [^pbuh] and he puffed his saliva in the wound thrice., and since then I have not had any pain in it till this hour."
 
 ## Muhammad believed spit mixed with dirt could cure illnesses 
 
 [Sahih al Bukhari 5745](https://sunnah.com/bukhari:5745)
 
-> Narrated 'Aisha: The Prophet (ﷺ) used to say to the patient, "In the Name of Allah The earth of our land and the saliva of some of us cure our patient."
+> Narrated 'Aisha: The Prophet [^pbuh] used to say to the patient, "In the Name of Allah The earth of our land and the saliva of some of us cure our patient."
 
 - [Riyad as-Salihin 901](https://sunnah.com/riyadussalihin:901)
 - [Sunnan Ibn Majah 3521](https://sunnah.com/ibnmajah:3521)
@@ -97,7 +111,7 @@ To say that water is not defiled by anything, not even the rotting corpses of do
 
 [Sahih al Bukhari 5469](https://sunnah.com/bukhari:5469)
 
-> I conceived 'Abdullah bin AzZubair at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger (ﷺ) and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger 
+> I conceived 'Abdullah bin AzZubair at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger [^pbuh] and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger 
 
 See also:
 
@@ -111,13 +125,13 @@ See also:
 
 [Sahih Muslim 2773a](https://sunnah.com/muslim:2773a)
 
-> Jabir reported Allah's Apostle (ﷺ) came to the grave of 'Abdullah b. Ubayy, brought him out from that, placed him on his knee and put his saliva in his mouth and shrouded him in his own shirt and Allah knows best.
+> Jabir reported Allah's Apostle [^pbuh] came to the grave of 'Abdullah b. Ubayy, brought him out from that, placed him on his knee and put his saliva in his mouth and shrouded him in his own shirt and Allah knows best.
 
 ## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying
 
 [Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
 
-> Narrated 'Aisha: "One of the wives of Allah's Messenger (ﷺ) joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
+> Narrated 'Aisha: "One of the wives of Allah's Messenger [^pbuh] joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
 
 ## Muhammad would not provide more than one garment each to his wives
 
@@ -126,6 +140,12 @@ When they had menstrual blood stain their garments they would have to clean them
 [Sahih al Bukhari 312](https://sunnah.com/bukhari:312)
 
 > Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
+
+## Muhammad's clothes were covered in semen stains
+
+[Sahih al Bukhari 232](https://sunnah.com/bukhari:232)
+
+> Narrated 'Aishah: I used to wash the semen off the clothes of the Prophet and even then I used to notice one or more spots on them.
 
 # Jews
 
@@ -167,7 +187,7 @@ Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her,
 
 [Sahih al Bukhari 6130](https://sunnah.com/bukhari:6130)
 
-> Narrated 'Aisha: I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger (ﷺ) used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was **a little girl, not yet reached the age of puberty.**) (Fath-ul-Bari page 143, Vol.13)
+> Narrated 'Aisha: I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger [^pbuh] used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was **a little girl, not yet reached the age of puberty.**) (Fath-ul-Bari page 143, Vol.13)
 
 See also:
 
@@ -192,7 +212,7 @@ See also:
 
 [Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
 
-> Narrated 'Aisha: The Prophet (ﷺ) and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses).
+> Narrated 'Aisha: The Prophet [^pbuh] and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses).
 
 ## How did Muhammad die?
 
@@ -212,7 +232,7 @@ So Allah promises that Muhammed ever acts as a false prophet, Allah will cut off
 
 [Sunnah Abu Dawud 4512](https://sunnah.com/abudawud:4512)
 
-> Narrated Abu Hurairah: ...So a Jewess presented him at Khaybar with a roasted sheep which she had poisoned. The Messenger of Allah (ﷺ) ate of it and the people also ate. He then said: Take away your hands (from the food), for it has informed me that it is poisoned. Bishr ibn al-Bara' ibn Ma'rur al-Ansari died. So he (the Prophet) sent for the Jewess (and said to her): What motivated you to do the work you have done? She said: If you were a prophet, it would not harm you; but if you were a king, I should rid the people of you. The Messenger of Allah (ﷺ) then ordered regarding her and she was killed. He then said about the pain of which he died: I continued to feel pain from the morsel which I had eaten at Khaybar. This is the time when **it has cut off my aorta.** 
+> Narrated Abu Hurairah: ...So a Jewess presented him at Khaybar with a roasted sheep which she had poisoned. The Messenger of Allah [^pbuh] ate of it and the people also ate. He then said: Take away your hands (from the food), for it has informed me that it is poisoned. Bishr ibn al-Bara' ibn Ma'rur al-Ansari died. So he (the Prophet) sent for the Jewess (and said to her): What motivated you to do the work you have done? She said: If you were a prophet, it would not harm you; but if you were a king, I should rid the people of you. The Messenger of Allah [^pbuh] then ordered regarding her and she was killed. He then said about the pain of which he died: I continued to feel pain from the morsel which I had eaten at Khaybar. This is the time when **it has cut off my aorta.** 
 
 See also:
 
@@ -229,11 +249,11 @@ After Muhammad kills the whole male Jewish population of Khaibar, a Jewish woman
 
 [Sahih al Bukhari 4428](https://sunnah.com/bukhari:4428)
   
-> Narrated 'Aisha: The Prophet (ﷺ) in his ailment in which he died, used to say, "O `Aisha! I still feel the pain caused by the food I ate at Khaibar, and at this time, **I feel as if my aorta is being cut** from that poison."
+> Narrated 'Aisha: The Prophet [^pbuh] in his ailment in which he died, used to say, "O `Aisha! I still feel the pain caused by the food I ate at Khaibar, and at this time, **I feel as if my aorta is being cut** from that poison."
 
 [Sunnah Abu Dawud 4513](https://sunnah.com/abudawud:4513)
 
-> ...I do not think about the illness of my son except the poisoned sheep of which he had eaten with you at Khaybar. The Prophet (ﷺ) said: And I do not think about my illness except that. **This is the time when it cut off my aorta**...
+> ...I do not think about the illness of my son except the poisoned sheep of which he had eaten with you at Khaybar. The Prophet [^pbuh] said: And I do not think about my illness except that. **This is the time when it cut off my aorta**...
 
 Muhammad eventually died from the poisoned lamb of a jewish woman, and he did so while complaining that he felt as if his aorta was being cut. This is exactly how Allah said he would die if he was a false prophet.
 
@@ -245,7 +265,7 @@ While Jesus used his last moments to forgive his enemies, Muhammad used his last
 
 [Sahih Muslim 531](https://sunnah.com/muslim:531)
 
->  'A'isha and Abdullah reported: As the Messenger of Allah (ﷺ) was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
+>  'A'isha and Abdullah reported: As the Messenger of Allah [^pbuh] was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
 
 ## What was the last action of Muhammad?
 
@@ -253,7 +273,7 @@ Sharing a toothbrush with two other people.
 
 [Sahih al Bukhari 4450](https://sunnah.com/bukhari:4450)
 
-> Aisha added, "The Prophet (ﷺ) expired on the day of my turn in my house and he was taken unto Allah while his head was against my chest and his saliva mixed with my saliva." 'Aisha added, "Abdur-Rahman bin Abu Bakr came in, carrying a Siwak he was cleaning his teeth with. Allah's Messenger (ﷺ) looked at it and I said to him, 'O 'AbdurRahman! Give me this Siwak.' So he gave it to me and I cut it, chewed it (it's end) and gave it to Allah's Messenger (ﷺ) who cleaned his teeth with it while he was resting against my chest."
+> Aisha added, "The Prophet [^pbuh] expired on the day of my turn in my house and he was taken unto Allah while his head was against my chest and his saliva mixed with my saliva." 'Aisha added, "Abdur-Rahman bin Abu Bakr came in, carrying a Siwak he was cleaning his teeth with. Allah's Messenger [^pbuh] looked at it and I said to him, 'O 'AbdurRahman! Give me this Siwak.' So he gave it to me and I cut it, chewed it (it's end) and gave it to Allah's Messenger [^pbuh] who cleaned his teeth with it while he was resting against my chest."
 
 See also:
 
@@ -267,13 +287,13 @@ Instead they had to go to Abu Bakr to get what they needed to survive as a chari
 
 [Sunnan Abu Dawud 2969](https://sunnah.com/abudawud:2969)
 
-> Narrated Aisha, Ummul Mu'minin: Fatimah was demanding (the property of) sadaqah of the Messenger of Allah (ﷺ) at Medina and Fadak, and what remained from the fifth of Khaybar. Aisha quoted AbuBakr as saying: The Messenger of Allah (ﷺ) said: We are not inherited; whatever we leave is sadaqah (charity). The family of Muhammad will eat from this property, that is, from the property of Allah. They will not take more then their sustenance.
+> Narrated Aisha, Ummul Mu'minin: Fatimah was demanding (the property of) sadaqah of the Messenger of Allah [^pbuh] at Medina and Fadak, and what remained from the fifth of Khaybar. Aisha quoted AbuBakr as saying: The Messenger of Allah [^pbuh] said: We are not inherited; whatever we leave is sadaqah (charity). The family of Muhammad will eat from this property, that is, from the property of Allah. They will not take more then their sustenance.
 
 Muhammad's daughter Fatima was denied her inheritance.
 
 [Sunnan Abu Dawud 2976](https://sunnah.com/abudawud:2976)
 
-> Narrated 'Aishah: When the Messenger of Allah (ﷺ) died, the wives of the Prophet (ﷺ) intended to send 'Uthman b. 'Affan to Abu Bakr to ask him their cost of living from (the inheritance of) the Prophet (ﷺ). Thereupon 'Aishah said: Did not the Messenger of Allah (ﷺ) say: We are not inherited. Whatever we leave is sadaqah.
+> Narrated 'Aishah: When the Messenger of Allah [^pbuh] died, the wives of the Prophet [^pbuh] intended to send 'Uthman b. 'Affan to Abu Bakr to ask him their cost of living from (the inheritance of) the Prophet [^pbuh]. Thereupon 'Aishah said: Did not the Messenger of Allah [^pbuh] say: We are not inherited. Whatever we leave is sadaqah.
 
 The wives of Muhammad were also denied an inheritance.
 
@@ -281,7 +301,7 @@ The wives of Muhammad were also denied an inheritance.
 
 [Sahih Muslim 976b](https://sunnah.com/muslim/11/135)
 
-> Abu Huraira reported: The Apostle of Allah (ﷺ) visited the grave of his mother and he wept, and moved others around him to tears, and said: **I sought permission from my Lord to beg forgiveness for her but it was not granted to me**, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death.
+> Abu Huraira reported: The Apostle of Allah [^pbuh] visited the grave of his mother and he wept, and moved others around him to tears, and said: **I sought permission from my Lord to beg forgiveness for her but it was not granted to me**, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death.
 
 Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will not forgive her, meaning she is in hell.
 
@@ -323,7 +343,7 @@ So men are allowed to marry and divorce prepubescent girls, as long as they resp
 
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
-> Narrated Abu Sa'id Al-Khudri: Once Allah's Messenger (ﷺ) went out to the Musalla (to offer the prayer) of 'Id-al-Adha or Al-Fitr prayer. Then he passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." They asked, "Why is it so, O Allah's Messenger (ﷺ) ?" He replied, "You curse frequently and are ungrateful to your husbands. I have not seen anyone more deficient in intelligence and religion than you. A cautious sensible man could be led astray by some of you." The women asked, "O Allah's Messenger (ﷺ)! What is deficient in our intelligence and religion?" He said, "Is not the evidence of two women equal to the witness of one man?" They replied in the affirmative. He said, "This is the deficiency in her intelligence. Isn't it true that a woman can neither pray nor fast during her menses?" The women replied in the affirmative. He said, "This is the deficiency in her religion."
+> Narrated Abu Sa'id Al-Khudri: Once Allah's Messenger [^pbuh] went out to the Musalla (to offer the prayer) of 'Id-al-Adha or Al-Fitr prayer. Then he passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." They asked, "Why is it so, O Allah's Messenger [^pbuh] ?" He replied, "You curse frequently and are ungrateful to your husbands. I have not seen anyone more deficient in intelligence and religion than you. A cautious sensible man could be led astray by some of you." The women asked, "O Allah's Messenger [^pbuh]! What is deficient in our intelligence and religion?" He said, "Is not the evidence of two women equal to the witness of one man?" They replied in the affirmative. He said, "This is the deficiency in her intelligence. Isn't it true that a woman can neither pray nor fast during her menses?" The women replied in the affirmative. He said, "This is the deficiency in her religion."
 
 
 # Satan
@@ -332,7 +352,19 @@ So men are allowed to marry and divorce prepubescent girls, as long as they resp
 
 [Sahih al Bukhari 1144](https://sunnah.com/bukhari:1144)
 
-> Narrated 'Abdullah: A person was mentioned before the Prophet (p.b.u.h) and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet (ﷺ) said, "Satan urinated in his ears."
+> Narrated 'Abdullah: A person was mentioned before the Prophet (p.b.u.h) and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet said, "Satan urinated in his ears."
+
+## Yawning is from Satan
+
+[Sahih al Bukhari 3289](https://sunnah.com/bukhari:3289)
+
+> Narrated Abu Huraira: The Prophet said, "Yawning is from Satan and if anyone of you yawns, he should check his yawning as much as possible, for if anyone of you (during the act of yawning) should say: 'Ha', Satan will laugh at him."
+
+## Muhammad once defeated Satan in a wrestling match
+
+[Sahih al Bukhari 1210](https://sunnah.com/bukhari:1210)
+
+> Narrated Abu Huraira: The Prophet once offered the prayer and said, "Satan came in front of me and tried to interrupt my prayer, but Allah gave me an upper hand on him and I choked him. No doubt, I thought of tying him to one of the pillars of the mosque till you get up in the morning and see him. Then I remembered the statement of Prophet Solomon, 'My Lord ! Bestow on me a kingdom such as shall not belong to any other after me.' Then Allah made him (Satan) return with his head down (humiliated)."
 
 # Science
 
@@ -349,11 +381,11 @@ So men are allowed to marry and divorce prepubescent girls, as long as they resp
 
 [Sahih Al Bukhari 3268](https://sunnah.com/bukhari:3268)
 
-> Magic was worked on the Prophet (ﷺ) so that he began to fancy that he was doing a thing which he was not actually doing. One day he invoked (Allah) for a long period and then said, "I feel that Allah has inspired me as how to cure myself. Two persons came to me (in my dream) and sat, one by my head and the other by my feet. One of them asked the other, "What is the ailment of this man?" The other replied, 'He has been bewitched"...
+> Magic was worked on the Prophet [^pbuh] so that he began to fancy that he was doing a thing which he was not actually doing. One day he invoked (Allah) for a long period and then said, "I feel that Allah has inspired me as how to cure myself. Two persons came to me (in my dream) and sat, one by my head and the other by my feet. One of them asked the other, "What is the ailment of this man?" The other replied, 'He has been bewitched"...
 
 [Sahih Al Bukhari 5765 provides more detail:](https://sunnah.com/bukhari:5765)
 
-> Magic was worked on Allah's Messenger (ﷺ) so that he used to think that he had sexual relations with his wives while he actually had not...
+> Magic was worked on Allah's Messenger [^pbuh] so that he used to think that he had sexual relations with his wives while he actually had not...
 
 See also:
 
@@ -363,7 +395,7 @@ See also:
 
 [Sahih al Bukhari 91](https://sunnah.com/bukhari/91)
 
-> …the Prophet (ﷺ) became so sad as we have heard that he intended several times to throw himself from the tops of high mountains and every time he went up the top of a mountain in order to throw himself down, Gabriel would appear before him and say, "O Muhammad! You are indeed Allah's Messenger (ﷺ) in truth" whereupon his heart would become quiet and he would calm down and would return home. And whenever the period of the coming of the inspiration used to become long, he would do as before, but when he used to reach the top of a mountain, Gabriel would appear before him and say to him what he had said before.
+> …the Prophet [^pbuh] became so sad as we have heard that he intended several times to throw himself from the tops of high mountains and every time he went up the top of a mountain in order to throw himself down, Gabriel would appear before him and say, "O Muhammad! You are indeed Allah's Messenger [^pbuh] in truth" whereupon his heart would become quiet and he would calm down and would return home. And whenever the period of the coming of the inspiration used to become long, he would do as before, but when he used to reach the top of a mountain, Gabriel would appear before him and say to him what he had said before.
 
 # Paradise
 
@@ -403,13 +435,20 @@ The only claim to inspiration the Quran makes is in its literary excellence, cla
 
 > It was narrated that 'Aishah said “The Verse of stoning and of breastfeeding an adult ten times was revealed, and the paper was with me under my pillow. When the Messenger of Allah died, we were preoccupied with his death, and a tame sheep came in and ate it.”
 
+## Chapters of the Quran could be ordered on demand
+
+[Sahih al Bukhari 4483](https://sunnah.com/bukhari:4483)
+
+> I also said, 'O Allah's Messenger [^pbuh]! Good and bad persons visit you! Would that you ordered the Mothers of the believers to cover themselves with veils.' So the Divine Verses of Al-Hijab (i.e. veiling of the women) were revealed. 
+
+
 # Weird or miscellaneous 
 
 ## "The eyes are the leather strap of the anus"
 
 [Sunnah Abu Dawud 203](https://sunnah.com/abudawud:203)
 
-> The Messenger of Allah (ﷺ) said: The eyes are the leather strap of the anus, so one who sleeps should perform ablution.
+> The Messenger of Allah [^pbuh] said: The eyes are the leather strap of the anus, so one who sleeps should perform ablution.
 
 Also:
 
@@ -417,4 +456,10 @@ Also:
 - [Sunnah Mishkat al-Masabih 316](https://sunnah.com/mishkat:316)
 - [Sunnah Ibn Majah 477](https://sunnah.com/ibnmajah:477)
 
+## Moses had his clothes stolen by a stone
 
+[Sahih al Bukhari 278](https://sunnah.com/bukhari:278)
+
+> ...once Moses went out to take a bath and put his clothes over a stone and then that stone ran away with his clothes. Moses followed that stone saying, "My clothes, O stone! My clothes, O stone!...
+
+[^pbuh]: Piss be upon him.
