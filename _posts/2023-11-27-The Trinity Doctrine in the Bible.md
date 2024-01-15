@@ -385,6 +385,22 @@ This shows that God is **the first and the last**. This is who Jesus said that h
 
 In the surrounding verses, Jehovah God is speaking. However in verse 16 Jehovah suddenly says **Jehovah has sent me, and his Spirit.** So Jehovah sent Jehovah and the Spirit of Jehovah. There are three characters here, one Jehovah who sends, one Jehovah who is sent and the Spirit of Jehovah who is also sent. These are the three persons of God, the Father who sends, the Son who is sent, and the Holy Spirit who also goes out from God.
 
+## Isaiah 63: 1-6
+
+> Isaiah 63:1-6 ... Why is your apparel red, and your garments like his who treads in the winepress? 3 “I have trodden the winepress alone, and from the peoples no one was with me; I trod them in my anger and trampled them in my wrath; their lifeblood spattered on my garments, and stained all my apparel. ... I trampled down the peoples in my anger; I made them drunk in my wrath, and I poured out their lifeblood on the earth.”
+
+As revealed in verse 7, this is the Lord God whose garments are stained in the blood of the people he has crushed like grapes in a wine press.
+
+Revelation 19:13 describes Jesus saying "He is clothed in a robe dipped in blood" Verse 15 says "He will tread the winepress of the fury of the wrath of God the Almighty."
+
+John is referring back to Isaiah 63, saying that Jesus is the same as the Jehovah there.
+
+## Isaiah 63: 9-10
+
+>  In all their affliction he was afflicted, and the angel of his presence saved them; in his love and in his pity he redeemed them; he lifted them up and carried them all the days of old. 10 But they rebelled and grieved his Holy Spirit; therefore he turned to be their enemy, and himself fought against them.
+
+In this passage it mentions God, his angel of his presence, and the Holy Spirit. As [Exodus23: 20-23 shows, the Angel of God's presence is equal to Jehovah himself.](#exodus-23-20-23) This is the preincarnate Jesus, the Word of God, the Som of God, the second person of the Godhead. So this passage mentions all three persons of the Godhead in two verses.
+
 ## Isaiah 63: 10 
 
 > But they rebelled and grieved his Holy Spirit; therefore he turned to be their enemy, and himself fought against them.
