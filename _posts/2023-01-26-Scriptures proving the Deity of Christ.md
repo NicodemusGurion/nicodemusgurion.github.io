@@ -66,7 +66,7 @@ Jesus is the exact imprint of God's nature. Whatever God is, Jesus is. In the ve
 
 Jesus bought the flock with his own blood. Paul says it was the blood of God because Jesus is God. [(This is one of the many scriptures the Watchtower changes).](https://thyreon.com/changes-in-the-new-world-translation/)
 
-## Jesus is Jehovah of the Old Testamenti
+## Jesus is Jehovah of the Old Testament
 
 Jesus has a number of attributes that only belong to Jehovah in the Old Testament. This is because Jesus is Jehovah, the manifested Jehovah that interacted with Old Testament people. This is also why the name Jehovah is nowhere in the New Testament. The name Jesus contains the name Jehovah, meaning Jehovah Saves. Jesus is Jehovah in the role of savior of mankind. These are some attributes only Jehovah has, but that Jesus is said to have, proving they're one and the same:
 
@@ -186,11 +186,23 @@ No one can snatch anything out of the hand of Jehovah.
 
 No one can snatch out of the hand of the Son nor the Father. The Son and the Father are one. Jesus is Jehovah.
 
+### The fountain of living water
+
+> Jeremiah 2:13 ...they have forsaken me, the fountain of living waters,...
+
+> Jeremiah 17:13 ...for they have forsaken the LORD, the fountain of living water.
+
+Jehovah is the fountain of living water.
+
+John 4:10,13,14 Jesus answered her, “If you knew the gift of God, and who it is that is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.” ... Jesus said to her, “Everyone who drinks of this water will be thirsty again, but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.”
+
+Jesus is the fountain of living water.
+
 ## Jesus is called the almighty
 
-<span style="font-size: 16px; -webkit-text-size-adjust: 100%">In Revelation 1, Jesus appears to John.</span>
+In Revelation 1, Jesus appears to John.
 
-> <span style="font-size: 16px; -webkit-text-size-adjust: 100%">Revelation 1:17 When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, “Fear not, I am the first and the last"</span>
+> Revelation 1:17 When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, “Fear not, I am the first and the last"
 
 Jesus is called the first and the last. Using the definite article "the" shows there can be only one who is the first and the last. To a first century Jew like John, it was obvious what Jesus referred to. John immediately thought of Isaiah 44:6 where "the first and the last" is also the title of Jehovah, the only God. And now Jesus says that he is the first and the last.
 

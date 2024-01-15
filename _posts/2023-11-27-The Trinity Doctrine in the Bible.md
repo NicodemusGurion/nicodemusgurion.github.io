@@ -407,6 +407,12 @@ In this passage it mentions God, his angel of his presence, and the Holy Spirit.
 
 This scripture says that God's Holy Spirit can be **grieved**. Having complex emotions like grief is something only persons can have. This proves the personhood of the Holy Spirit.
 
+## Jeremiah 2:13
+
+> for my people have committed two evils: they have forsaken me, the fountain of living waters, and hewed out cisterns for themselves, broken cisterns that can hold no water.
+
+God is the fountain of living water. In [John 4:10,13,14](#john-4-10-13-14) and [John 7:38,39](#john-7-38-39) Jesus reveals that he is the fountain of living water, and that the living water is the Holy Spirit.
+
 ## Jeremiah 17: 10
 
 > “I the LORD search the heart and test the mind, to give every man according to his ways, according to the fruit of his deeds.”
@@ -414,6 +420,12 @@ This scripture says that God's Holy Spirit can be **grieved**. Having complex em
 God is the one who **search the heart and test the mind**, and **give every man according to his ways**. These are two divine titles. Both titles are used about Jesus, proving his deity.
 
 See [The one who sees the heart](#the-one-who-sees-hearts)and The one who repays deeds](#the-one-who-repays-deeds).
+
+## Jeremiah 17: 13
+
+> O LORD, the hope of Israel, all who forsake you shall be put to shame; those who turn away from you shall be written in the earth, for they have forsaken the LORD, the fountain of living water.
+
+God is the fountain of living water. In [John 4:10,13,14](#john-4-10-13-14) and [John 7:38,39](#john-7-38-39) Jesus reveals that he is the fountain of living water, and that the living water is the Holy Spirit.
 
 ## Jeremiah 23: 23-24  
 
@@ -594,6 +606,12 @@ The Word, Jesus, is the creator of the universe. **All things were made through 
 
 Here it emphasizes that God is both invisible and visible. God the Father is invisible, but God the Son was made manifest visibly and made God known perfectly. 
 
+## John 4: 10,13,14
+
+> Jesus answered her, “If you knew the gift of God, and who it is that is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.” ... 13 Jesus said to her, “Everyone who drinks of this water will be thirsty again, 14 but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.”
+
+In [Jeremiah 2:13](#jeremiah-2-13) and [17:13](#jeremiah-17-13) it says that the Lord Jehovah is the fountain of living water. Here Jesus reveals that he is the fountain of living water. 
+
 ## John 5: 18  
 
 > This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, **making himself equal with God.**
@@ -617,6 +635,12 @@ That **all may honor the Son, just as they honor the Father** means that Jesus i
 > When they had rowed about three or four miles, **they saw Jesus walking on the sea** and coming near the boat, and they were frightened.
 
 The disciples knew that only God has the power to walk on the water. ([Job 9:8](#job-98)) This shows that Jesus is God, and why they fell downand worshipped him. ([Matthew 14:33](#matthew-1433))
+
+## John 7: 38,39
+
+> 38 Whoever believes in me, as the Scripture has said, ‘Out of his heart will flow rivers of living water.’” 39 Now this he said about the Spirit, whom those who believed in him were to receive, for as yet the Spirit had not been given, because Jesus was not yet glorified.
+
+In [Jeremiah 2:13](#jeremiah-2-13) and [17:13](#jeremiah-17-13) it says that the Lord Jehovah is the fountain of living water. Here Jesus reveals that he is the fountain of living water. And it reveals that the living water is the Holy Spirit. This confirms they trinity doctrine that the Son is begotten of the Father and the Holy Spirit proceeds from the Father through the Son.
 
 ## John 8: 58
 
