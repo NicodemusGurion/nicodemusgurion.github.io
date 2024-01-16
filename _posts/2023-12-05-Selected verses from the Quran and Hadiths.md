@@ -33,6 +33,24 @@ Who is Allah praying to?
 
 > Narrated Ibn Umar: The Prophet said, "Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds."
 
+# Contradictions
+
+## How long did it take Allah to create the world?
+
+Was it 6 days or 8 days?
+
+[Quran 10:3](https://quran.com/10/3)
+
+> Surely your Lord is Allah Who created the heavens and the earth in six Days,...
+
+[Quran 41:9-12](https://quran.com/41?startingVerse=9)
+
+Allah created the heavens and the earth in 6 days.
+
+> Ask ˹them, O  Prophet˺, “How can you disbelieve in the One Who created the earth in two Days? And how can you set up equals with Him? That is the Lord of all worlds. He placed on the earth firm mountains, standing high, showered His blessings upon it, and ordained ˹all˺ its means of sustenance—totaling four Days exactly1—for all who ask. ... So He formed the heaven into seven heavens in two Days, assigning to each its mandate. ... 
+
+2 + 4 + 2 = 8. Allah created the heavens and the earth in 8 days.
+
 # Factual errors 
 
 Historical and factual errors 
