@@ -35,6 +35,12 @@ Who is Allah praying to?
 
 # Contradictions
 
+[Quran 4:82](https://quran.com/4/82)
+
+> Do they not then reflect on the Quran? Had it been from anyone other than Allah, they would have certainly found in it many inconsistencies.
+
+If the Quran is from Allah, there should be no contradictions.
+
 ## How long did it take Allah to create the world?
 
 Was it 6 days or 8 days?
