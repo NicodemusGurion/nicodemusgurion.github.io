@@ -173,7 +173,7 @@ When they had menstrual blood stain their garments they would have to clean them
 
 # Jews
 
-How Islam views Jews.
+## The verse they use to lie that Islam is peaceful 
 
 [Quran 5:32](https://quran.com/5/32)
 
@@ -358,6 +358,12 @@ Muhammad's father is in hell.
 [Sahih al Bukhari 1144](https://sunnah.com/bukhari:1144)
 
 > Narrated 'Abdullah: A person was mentioned before the Prophet (p.b.u.h) and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet said, "Satan urinated in his ears."
+
+## Satan farts to not hear the call to prayer 
+
+[Sahih Muslim 389a](https://sunnah.com/muslim:389a)
+
+> When Satan hears the call to prayer, he turns back and breaks the wind so as not to hear the call being made...
 
 ## Yawning is from Satan
 
