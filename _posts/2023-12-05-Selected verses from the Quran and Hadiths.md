@@ -317,7 +317,15 @@ Muhammad's father is in hell.
 
 > Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”
 
+## Allah considered Muhammad the perfect example
 
+[Quran 33:21](https://quran.com/33/21)
+
+> Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
+
+[Quran 68:4](https://quran.com/68/4)
+
+> And you are truly a man of outstanding character.
 
 # Satan
 
