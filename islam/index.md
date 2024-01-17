@@ -115,3 +115,52 @@ As soon as you detect disinterest, change the topic
 3. JesusinTheBiblenotbeingGodandnottheonlysonofGod 4. TheSixPillarsofImaan.(DescribeHeaven)
 5. TheProphetMuhammad’s(PBUH)life,inbrief.
 6. SomekeyreferencesfromtheQur’anandtheBible
+
+## If the Bible has any variation in it, it can't be from God
+
+Muslims claim that the Quran is verbatim the words of Allah. Every single word is the word of Allah, and not a single word or letter has ever been changed.
+
+This is a claim that Christians have **never** made about the Bible. Christians acknowledge that there are textual variants of the Bible. 
+
+Christians claim that **Jesus** is the word of God, while the Bible text is **inspired** by God, but written down and transmitted by humans. 
+
+There are textual manuscripts within the text that has no effect on Christian theology. There is not a single variant that contradict Christian theology. 
+
+We don't have a problem with textual variants. We don't make the claim that the Bible has been "perfectly preserved" in the sense that not a single letter has been changed. The word of God has been preserved in the sense that it's **meaning** has been preserved. In fact you could take out entire books of the Bible and it still would not affect the meaning or theology.
+
+So the Muslim idea of preservation does not apply to the Bible and is no problem for Christianity. However Muslims **do** have a problem with the claim that the Quran has been perfectly preserved word for word, because the Quran **has** textual variants. 
+
+
+## The Bible was written by kings
+
+The Bible was not written by kings alone. The people who wrote the Bible were shepherds, farmers, fishermen, and military men. There were kings, a prime minister, and a royal cupbearer. There was even a doctor, a tax collector, and a tentmaker among so many other people from different walks of life. 
+
+## Muhammad taught the same message as earlier prophets
+
+Not true. All the other prophets of the Bible, including Moses, David, and Jesus, taught that God had a temple, a priesthood, and a sacrificial system. Muhammad did not teach any of these things. The prophets of the Bible were pointing forward to Jesus as the Messiah, as God himself in human form, who would be killed as a sacrifice for the sins of the world. And Jesus also taught that he was the Messiah, God in human form, and would be killed as a sacrifice for the sins of the world. Muhammad denies all of these.
+
+So no, Muhammad did not teach the same thing as the earlier prophets. He is a stand-alone prophet out in Arabia, teaching an entirely different message.
+
+## X was a muslim
+
+If you claim that any person before Muhammad was a muslim, then you base that only on the etymological origin of the word, "someone who submits to God." But that makes the word completely meaningless because the vast majority of people who has ever lived have submitted to a god. It wouldn’t signify any particular religion.
+
+This is an etymological fallacy, word trickery. The colloquial meaning of the word Muslim is someone who follows the religion of Islam, as revealed by Muhammad. And as such there can be no Muslims before Muhammad. The Quran itself says [in 6:14](https://quran.com/6/14) that Muhammad was the first Muslim in the true sense of the word.
+
+## Jesus was a muslim
+
+See [X was a muslim](#x-was-a-muslim).
+
+Jesus was a Jew who worshipped at the temple in Jerusalem. That's not the religion of Muhammad.
+
+Jesus also taught that he is God incarnate, something Islam denies.
+
+Jesus taught to love your enemies and to pray for those persecuting you. Muhammad cursed his enemies and waged war on everyone who didn't follow him.
+
+Jesus loved children, protected them, and said that anyone who would hurt a child would be better off
+
+## David was a Muslim
+
+See [X was a muslim](#x-was-a-muslim).
+
+David worshipped Yahweh as God alone in a temple in Jerusalem, under a high priest who performed sacrifices. That is the religion practiced by David. That is not the religion practiced by Kuhammad. So if David was a muslim, Muhammad was not a Muslim.
