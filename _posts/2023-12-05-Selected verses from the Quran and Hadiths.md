@@ -25,6 +25,14 @@ Who is Allah praying to?
 
 > And none loves to be praised more than Allah does, and for this reason He praises Himself.
 
+## Allah wonders
+
+[Sahih al-Bukhari 3010](https://sunnah.com/bukhari:3010)
+
+> The Prophet said, "Allah wonders at those people who will enter Paradise in chains."
+
+Apparently there are things that surprise Allah. How could someone supposedly all-knowing wonder about anything?
+
 # Animals
 
 ## Owning a dog gives you minus points
@@ -370,6 +378,17 @@ Muhammad's father is in hell.
 [Sahih al Bukhari 3289](https://sunnah.com/bukhari:3289)
 
 > Narrated Abu Huraira: The Prophet said, "Yawning is from Satan and if anyone of you yawns, he should check his yawning as much as possible, for if anyone of you (during the act of yawning) should say: 'Ha', Satan will laugh at him."
+
+## Satan likes bells
+
+[Sahih Muslim 2114](https://sunnah.com/muslim:2114)
+
+> The bell is the musical instrument of the Satan.
+
+See also:
+
+- [Sunnan Abu Dawud 2556](https://sunnah.com/abudawud:2556)
+- [Riyad as-Salihin 1691](https://sunnah.com/riyadussalihin:1691)
 
 ## Muhammad once defeated Satan in a wrestling match
 
