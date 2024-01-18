@@ -404,6 +404,15 @@ See also:
 
 > If a man has sexual intercourse with his wife and gets discharge first, the child will resemble the father, and if the woman gets discharge first, the child will resemble her.
 
+# Slavery
+
+## Giving away slaves is better than freeing them
+
+[Sahih Muslim 999](https://sunnah.com/muslim:999)
+
+
+> Maimuna bint Harith reported that she set free a slave-girl during the lifetime of the Messenger of Allah and she made a mention of that to the Messenger of Allah and he said: Had you given her to your maternal uncles, you would have a greater reward.
+
 
 # Spiritual and mental health 
 
