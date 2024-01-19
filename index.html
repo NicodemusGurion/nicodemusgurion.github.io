@@ -2,7 +2,6 @@
 layout: default
 title: Home
 ---
-{{ assign placedAd = false }}
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -18,11 +17,6 @@ title: Home
     {{ post.excerpt }}
     <p><a href="{{ post.url | absolute_url }}">Continue reading...</a></p>
   </div>
-  {{ if placedAd == false }}
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3029389025020848"
-     crossorigin="anonymous"></script>
-  {{ assign placedAd = true }}
-  {{ endif }}
   {% endfor %}
 </div>
 
@@ -42,3 +36,5 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3029389025020848"
+     crossorigin="anonymous"></script>
