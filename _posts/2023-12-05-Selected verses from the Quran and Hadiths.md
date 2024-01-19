@@ -77,6 +77,45 @@ Historical and factual errors
 
 No Jews have ever claimed that Ezra is the son of God. How deluded is Muhammad to believe in such nonsense?
 
+## Mary the mother of Jesus is the brother of Aaron
+
+*Mary the mother of Jesus lived in first century Judaea/Galilee. Mariam the sister of Aaron lived about 1500 years before her in Egypt/Sinai. Allah does not know that these are two different people.*
+
+[Quran 19:27,28](https://quran.com/19?startingVerse=27)
+
+> Then she returned to her people, carrying him [Jesus]. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing! O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”
+
+## Pharao ordered Haman to build the Tower of Babel 
+
+*The Pharao was the king of Egypt. Haman was an Amalekite man, an enemy of Israel, who lived in the Persian empire in the 5th century BC. And the Tower of Babel was built on the plains of Mesopotamia in the 24th century BC. This is the worst imaginable mishmash of stories and characters.*
+
+[Quran 40:36](https://quran.com/40?startingVerse=36)
+
+> Pharaoh ordered, “O Hamân! Build me a high tower so I may reach the pathways leading up to the heavens and look for the God of Moses, although I am sure he is a liar.” And so Pharaoh’s evil deeds were made so appealing to him that he was hindered from the ˹Right˺ Way. But the plotting of Pharaoh was only in vain.
+
+## Pharao threatened people with crucifixion 
+
+*Crucifixion was never used by ancient Egypt, and did not become a common form of execution by the Romans in the 6th century BC.*
+
+[Quran 7:123,124](https://quran.com/7?startingVerse=123)
+
+> Pharaoh threatened, “How dare you believe in him before I give you permission? This must be a conspiracy you devised in the city to drive out its people, but soon you will see. I will certainly cut off your hands and feet on opposite sides, then crucify you all.”
+
+See also:
+
+- [Quran 20:71](https://quran.com/20/71)
+- [Quran 25:49](https://quran.com/26/49)
+
+
+## The Israelites were misled by a Samaritan 
+
+*The Samaritan people did not exist until at least a thousand years after the event when the Israelites were misled into worshipping the golden calf*.
+
+[Quran 20:85](https://quran.com/20/85)
+
+> Allah responded, “We have indeed tested your people in your absence, and the Samaritan has led them astray .
+
+
 # Food
 
 ## Muhammad didn't like garlic
@@ -397,6 +436,12 @@ See also:
 > Narrated Abu Huraira: The Prophet once offered the prayer and said, "Satan came in front of me and tried to interrupt my prayer, but Allah gave me an upper hand on him and I choked him. No doubt, I thought of tying him to one of the pillars of the mosque till you get up in the morning and see him. Then I remembered the statement of Prophet Solomon, 'My Lord ! Bestow on me a kingdom such as shall not belong to any other after me.' Then Allah made him (Satan) return with his head down (humiliated)."
 
 # Science
+
+## Sperm comes from between the backbone and the ribs
+
+[Quran 86:6,7](https://quran.com/86?startingVerse=6)
+
+> ˹They were˺ created from a spurting fluid, stemming from between the backbone and the ribcage.
 
 ## What determines if a child looks like its mother or father?
 
