@@ -326,6 +326,8 @@ Almost all other translation translates the last part as something along the lin
 
 The Watchtower adds the word “substituting” in this verse. If you are an ambassador, you’re an ambassador for someone. You might **represent** them. But you never **substitute** them. The word is not there in Greek or any other translations. The Watchtower has added this word here to bolster their claim that they are God’s representative on earth, even to the point that they blasphemously claim that they are **substitutes** for Jesus Christ, as if Jesus is not present, so they now have all his authority. They have in a sense thrown Jesus off his throne and sat themselves down there instead. This is narcissism, hubris and blasphemy.
 
+
+
 # Galatians 6: 18
 
 > The undeserved kindness of our Lord Jesus Christ be with the spirit **you show**, brothers. Amen.
