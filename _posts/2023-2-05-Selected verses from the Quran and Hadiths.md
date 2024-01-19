@@ -33,6 +33,20 @@ Who is Allah praying to?
 
 Apparently there are things that surprise Allah. How could someone supposedly all-knowing wonder about anything?
 
+## Allah is limited to one location
+
+https://quran.com/20/5
+
+> the Most Compassionate, Who is˺ established on the Throne.
+
+## Allah comes down every night
+
+[Sahih Muslim 758b](https://sunnah.com/muslim:758b)
+
+> Allah descends every night to the lowest heaven when one-third of the first part of the night is over (3 am) and says: I am the Lord; I am the Lord: who is there to supplicate Me so that I answer him? Who is there to beg of Me so that I grant him? Who is there to beg forgiveness from Me so that I forgive him? He continues like this till the day breaks.
+
+Allah doesn't know how time zones work. If he comes down every night at  3am, in what time zone is he? Other parts of the earth have morning, day, or evening. When is the "day break" when he ascends? Is he constantly descending and ascending? How does this make sense? And how is he constantly loving up and down and [also located on his throne?](#allah-is-limited-to-one-location)
+
 # Animals
 
 ## Owning a dog gives you minus points
@@ -76,6 +90,14 @@ Historical and factual errors
 > The Jews say, “Ezra is the son of Allah,” and the Christians say, “The Messiah is the son of Allah.” These are mere words that they utter, imitating the words of the disbelievers before them. May Allah ruin them; how can they be deluded?
 
 No Jews have ever claimed that Ezra is the son of God. How deluded is Muhammad to believe in such nonsense?
+
+## Christians worship Mary
+
+*Christians don't worship Mary. But Allah doesn't know this*.
+
+[Quran 5:116](https://quran.com/5/116)
+
+> And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?”...
 
 ## Mary the mother of Jesus is the brother of Aaron
 
@@ -448,6 +470,18 @@ See also:
 [Sahih al Bukhari 3329](https://sunnah.com/bukhari:3329)
 
 > If a man has sexual intercourse with his wife and gets discharge first, the child will resemble the father, and if the woman gets discharge first, the child will resemble her.
+
+## The sun sets in a muddy spring 
+
+[Quran 18:86](https://quran.com/18/86?translations=17)
+
+> Until, when he reached the setting of the sun, he found it setting in a muddy spring, and he found a people at it. We said, "O Thulqarnayn, either you will torment them or you will take to yourself towards them a fair way."
+
+## The earth is flat
+
+[Quran 18:86](https://quran.com/71/19?translations=207)
+
+> Allah has laid the earth out as a carpet for you,
 
 # Slavery
 
