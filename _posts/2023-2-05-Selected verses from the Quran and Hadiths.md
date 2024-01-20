@@ -430,6 +430,12 @@ Muhammad's father is in hell.
 
 > The Prophet said, "What is wrong with those people who look towards the sky during the prayer?" His talk grew stern while delivering this speech and he said, "They should stop (looking towards the sky during the prayer); otherwise their eyesight would be taken away."
 
+## Looking up while praying turns your head into a donkey head
+
+[Sahih al Bukhari 691](https://sunnah.com/bukhari:691)
+
+> The Prophet said, "Isn't he who raises his head before the Imam afraid that Allah may transform his head into that of a donkey or his figure into that of a donkey?"
+
 # Satan
 
 ## Satan urinates in your ear

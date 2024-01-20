@@ -164,9 +164,9 @@ Jesus loved children, protected them, and said that anyone who would hurt a chil
 
 ## Jesus prayed on his knees, which means he was a muslim
 
-Jesus also prayed last oking up to heaven (John 17:1), but Muslims don't do that.
+Jesus also prayed looking up to heaven (John 17:1), but Muslims don't do that, thinking it will make you go blind and your head turn into the head of a donkey. ([Sahih al Bukhari 750](https://sunnah.com/bukhari:750), [691](https://sunnah.com/bukhari:691))
 
-Praying in a kneeling position is not a Muslim invention. Jews and Christians prayed on their knees for hundreds and thousands of years before Islam was even conceived. And many other religions do this as well. It is Muslims who have taken it from earlier religions.
+Praying in a kneeling position is not a Muslim invention. Jews and Christians prayed on their knees for hundreds and thousands of years before Islam was even conceived. And many other religions do this as well.  The pre-Islamic pagan Arabs also prayed prostrating to their gods, which is the most likely reason Muslims also do that.
 
 See also: [Jesus was a muslim](#jesus-was-a-muslim)
 
