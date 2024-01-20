@@ -266,6 +266,8 @@ But wait, it gets better. The next verse is what applies to Muslims:
 
 This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
 
+{{ render 'Selected hadiths about Muhammad.md' }}
+
 # Mohammad
 
 Things that Mohammad did.
@@ -419,6 +421,14 @@ Muhammad's father is in hell.
 [Quran 68:4](https://quran.com/68/4)
 
 > And you are truly a man of outstanding character.
+
+# Prayer
+
+## Looking up while praying makes you go blind
+
+[Sahih al Bukhari 750](https://sunnah.com/bukhari:750)
+
+> The Prophet said, "What is wrong with those people who look towards the sky during the prayer?" His talk grew stern while delivering this speech and he said, "They should stop (looking towards the sky during the prayer); otherwise their eyesight would be taken away."
 
 # Satan
 

@@ -116,6 +116,9 @@ As soon as you detect disinterest, change the topic
 5. TheProphetMuhammad’s(PBUH)life,inbrief.
 6. SomekeyreferencesfromtheQur’anandtheBible
 
+
+
+
 ## If the Bible has any variation in it, it can't be from God
 
 Muslims claim that the Quran is verbatim the words of Allah. Every single word is the word of Allah, and not a single word or letter has ever been changed.
@@ -158,6 +161,14 @@ Jesus also taught that he is God incarnate, something Islam denies.
 Jesus taught to love your enemies and to pray for those persecuting you. Muhammad cursed his enemies and waged war on everyone who didn't follow him.
 
 Jesus loved children, protected them, and said that anyone who would hurt a child would be better off
+
+## Jesus prayed on his knees, which means he was a muslim
+
+Jesus also prayed last oking up to heaven (John 17:1), but Muslims don't do that.
+
+Praying in a kneeling position is not a Muslim invention. Jews and Christians prayed on their knees for hundreds and thousands of years before Islam was even conceived. And many other religions do this as well. It is Muslims who have taken it from earlier religions.
+
+See also: [Jesus was a muslim](#jesus-was-a-muslim)
 
 ## David was a Muslim
 
