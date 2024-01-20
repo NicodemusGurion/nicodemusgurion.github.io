@@ -266,8 +266,6 @@ But wait, it gets better. The next verse is what applies to Muslims:
 
 This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
 
-{{ render 'Selected hadiths about Muhammad.md' }}
-
 # Mohammad
 
 Things that Mohammad did.
