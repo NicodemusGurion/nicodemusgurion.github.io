@@ -108,6 +108,6 @@ So on atheism there is no justification for the belief that our reasoning is sou
 
 # Conclusion
 
-Science is based on the above four primary philosophical assumptions, without belief in these assumptions we could not do science. 
+Science is based on the above four primary philosophical assumptions. Without belief in these assumptions we could not do science. 
 
 Atheism is incompatible with each and everyone one of these 4 primary philosophical beliefs, therefore atheism is incompatible with science.
