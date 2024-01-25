@@ -16,3 +16,15 @@ Here is a list of areas in which Christianity and Islam are different.
 | Has an only begotten Son who is God in essence | Has no "partners" |
 | Has a Parent-Child relationship with believers | Has a master-slave relationship with believers |
 | Loves us before we know him | Only loves if we do things for him | 
+
+
+
+| Bible | Quran |
+| ----- | ----- |
+| God created the heavens and the earth. | Allah created the earth and then the heavens (2:29) |
+| There are 3 heavens | There are 7 heavens (2:29) |
+| Hellfire is eternal | Hellfire is fueled by people and stones (2:24) |
+| Hell was made for the Satan and demons | Hell was made specifically for humans |
+
+
+| Adam named the animals | Allah told Adam what the animals were named (2:31) |
