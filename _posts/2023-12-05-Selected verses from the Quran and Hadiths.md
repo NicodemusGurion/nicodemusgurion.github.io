@@ -1,6 +1,6 @@
 ---
 title: List of verses from the Quran and Hadiths
-tags: [Islam, Muslims, Muhammad, Lists, Featured]
+tags: [Islam, Muslims, Muhammad, Featured, Lists]
 thumb: https://i.ibb.co/chRcQPj/8414-B52-F-290-B-407-C-8-DB9-473-B12-F2587-E.jpg
 image: https://i.ibb.co/Jvb87Hr/F964-A421-1730-4-E89-B70-D-2310-BC079-BA6.jpg
 permalink: /quran-and-hadiths 
