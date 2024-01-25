@@ -5,7 +5,7 @@ image: https://i.ibb.co/L9hL0vg/IMG-1890.jpg
 thumb: https://i.ibb.co/1RJD0bX/IMG-1890.jpg
 ---
 
-[Adapted from this X-thread by Daniel (@darwintojesus).](https://twitter.com/darwintojesus/status/1748485972545683962)
+[Adapted with permission from this X-thread by Daniel (@darwintojesus).](https://twitter.com/darwintojesus/status/1748485972545683962)
 
 Occasionally I interact with atheists. In these interactions I’m nearly always astonished at how completely ignorant they tend to be about the philosophical assumptions that science is based on. The **vast** majority of atheists have **no** idea whatsoever that science is based on assumptions. They hold science to be the way, the truth, and the only hope of eternal life. Any suggestion that their “holy grail” may not be unassailable seems to be nothing short of total, unthinkable, heresy to them. 
 
