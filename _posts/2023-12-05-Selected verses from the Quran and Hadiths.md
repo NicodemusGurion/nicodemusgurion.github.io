@@ -140,11 +140,6 @@ See also:
 
 # Food
 
-## Muhammad didn't like garlic
-
-[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
-
-> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
 
 ## Non-Muslims eats in seven intestines, Muslims in one
 
@@ -160,85 +155,6 @@ See also:
 [Sunan Ibn Majah 3257](https://sunnah.com/ibnmajah:3257)
 [Sunan Ibn Majah 3258](https://sunnah.com/ibnmajah:3258)
 
-
-# Health and Hygiene
-
-How Muhammad viewed health and hygiene issues. (There's a lot of spit.)
-
-## Muhammad told his followers to drink sewer water 
-
-[Sunan Abu Dawud 67](https://sunnah.com/abudawud:67)
-
-> Narrated AbuSa'id al-Khudri: I heard that the people asked the Prophet of Allah : Water is brought for you from the well of Buda'ah. It is a well in which dead dogs, menstrual clothes and excrement of people are thrown. The Messenger of Allah  replied: Verily water is pure and is not defiled by anything...
-
-To say that water is not defiled by anything, not even the rotting corpses of dogs, menstrual waste products and literal feces is insane and unscientific. This unhygienic idea has probably cost the lives of untold numbers of people throughout history.
-
-## Muhammad told his followers to lick each other's hands
-
-[Sahih al Bukhari 5456](https://sunnah.com/bukhari:5456)
-
-> Narrated Ibn 'Abbas: The Prophet  said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
-
-## Muhammad spit three times in a man's wound
-
-[Sahih al Bukhari 4206](https://sunnah.com/bukhari:4206)
-
-> I saw the trace of a wound in Salama's leg. I said to him, "O Abu Muslim! What is this wound?" He said, "This was inflicted on me on the day of Khaibar and the people said, 'Salama has been wounded.' Then I went to the Prophet  and he puffed his saliva in the wound thrice., and since then I have not had any pain in it till this hour."
-
-## Muhammad believed spit mixed with dirt could cure illnesses 
-
-[Sahih al Bukhari 5745](https://sunnah.com/bukhari:5745)
-
-> Narrated 'Aisha: The Prophet  used to say to the patient, "In the Name of Allah The earth of our land and the saliva of some of us cure our patient."
-
-- [Riyad as-Salihin 901](https://sunnah.com/riyadussalihin:901)
-- [Sunnan Ibn Majah 3521](https://sunnah.com/ibnmajah:3521)
-
-## Muhammad tried to heal himself by blowing raspberries 
-
-[Mishkat al-Masabih 1532](https://sunnah.com/mishkat:1532)
-
-> She said that when the Prophet had a complaint he would blow on himself, ejecting saliva, reciting the Mu'awwidhah, and wipe himself with his hand. She said, “When he suffered from the pain of which he died, I would blow on him ejecting saliva and recite the Mu'awwidhat as he did, and would take the Prophet’s hand to wipe him.”  
-
-## Muhammad spit in the mouth of a newborn child
-
-[Sahih al Bukhari 5469](https://sunnah.com/bukhari:5469)
-
-> I conceived 'Abdullah bin AzZubair at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger  and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger 
-
-See also:
-
-- [Sahih al Bukhari 3909](https://sunnah.com/bukhari:3909)
-- [Sahih Muslim 2146a](https://sunnah.com/muslim:2146a)
-- [Sahih Muslim 2146b](https://sunnah.com/muslim:2146b)
-- [Sahih Muslim 2148](https://sunnah.com/muslim:2148)
-
-
-## Muhammad exhumed a dead man and spit in his mouth
-
-[Sahih Muslim 2773a](https://sunnah.com/muslim:2773a)
-
-> Jabir reported Allah's Apostle  came to the grave of 'Abdullah b. Ubayy, brought him out from that, placed him on his knee and put his saliva in his mouth and shrouded him in his own shirt and Allah knows best.
-
-## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying
-
-[Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
-
-> Narrated 'Aisha: "One of the wives of Allah's Messenger  joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
-
-## Muhammad would not provide more than one garment each to his wives
-
-When they had menstrual blood stain their garments they would have to clean them with spit.
-
-[Sahih al Bukhari 312](https://sunnah.com/bukhari:312)
-
-> Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
-
-## Muhammad's clothes were covered in semen stains
-
-[Sahih al Bukhari 232](https://sunnah.com/bukhari:232)
-
-> Narrated 'Aishah: I used to wash the semen off the clothes of the Prophet and even then I used to notice one or more spots on them.
 
 # Jews
 
@@ -306,6 +222,129 @@ See also:
 [Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
 
 > Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses).
+
+## Muhammad didn't like garlic
+
+[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
+
+> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
+
+
+## Muhammad told his followers to drink sewer water 
+
+[Sunnan Abu Dawud 67](https://sunnah.com/abudawud:67)
+
+> Narrated AbuSa'id al-Khudri: I heard that the people asked the Prophet of Allah : Water is brought for you from the well of Buda'ah. It is a well in which dead dogs, menstrual clothes and excrement of people are thrown. The Messenger of Allah  replied: Verily water is pure and is not defiled by anything...
+
+[Sunnan Ibn Majah 520](https://sunnah.com/ibnmajah:520)
+
+> "We came to a pond in which there was the carcass of a donkey, so we refrained from using the water until the Messenger of Allah came to us and said: 'Water is not made impure by anything.' Then we drank from it and gave it to our animals to drink, and we carried some with us."
+
+To say that water is not defiled by anything, not even the rotting corpses of dogs and donkeys, menstrual waste products and literal feces is insane and unscientific. This unhygienic idea has probably cost the lives of untold numbers of people throughout history.
+
+## Muhammad gargled with dick water
+
+[Sahih al Bukhari 274](https://sunnah.com/bukhari:274)
+
+> Water was placed for the ablution of Allah's Messenger after Janaba. He poured water with his right hand over his left twice or thrice and then washed his private parts and rubbed his hand on the earth or on a wall twice or thrice and then rinsed his mouth, washed his nose by putting water in it and then blowing it out...
+
+So after washing his private parts he uses the same water to rinse his mouth and nose?
+
+See also:
+
+- [Sahih al Bukhari 257](https://sunnah.com/bukhari:257)
+- [Sahih al Bukhari 276](https://sunnah.com/bukhari:276)
+
+## Muhammad had sex with 11 wives and only took one bath
+
+[Sunan Ibn Majah 589](https://sunnah.com/ibnmajah:589)
+
+> "I put out water for the Messenger of Allah for a bath, and he had a bath after going to all of his wives in one night."
+
+([Muhammad had 11 wives at the same time](https://sunnah.com/bukhari:268))
+
+See also:
+
+- [Sunnan Abu Dawud 218](https://sunnah.com/abudawud:218)
+
+## Muhammad told his followers to lick each other's hands
+
+[Sahih al Bukhari 5456](https://sunnah.com/bukhari:5456)
+
+> Narrated Ibn 'Abbas: The Prophet  said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
+
+## Muhammad spit three times in a man's wound
+
+[Sahih al Bukhari 4206](https://sunnah.com/bukhari:4206)
+
+> I saw the trace of a wound in Salama's leg. I said to him, "O Abu Muslim! What is this wound?" He said, "This was inflicted on me on the day of Khaibar and the people said, 'Salama has been wounded.' Then I went to the Prophet  and he puffed his saliva in the wound thrice., and since then I have not had any pain in it till this hour."
+
+## Muhammad believed spit mixed with dirt could cure illnesses 
+
+[Sahih al Bukhari 5745](https://sunnah.com/bukhari:5745)
+
+> Narrated 'Aisha: The Prophet  used to say to the patient, "In the Name of Allah The earth of our land and the saliva of some of us cure our patient."
+
+- [Riyad as-Salihin 901](https://sunnah.com/riyadussalihin:901)
+- [Sunnan Ibn Majah 3521](https://sunnah.com/ibnmajah:3521)
+
+## Muhammad tried to heal himself by blowing raspberries 
+
+[Mishkat al-Masabih 1532](https://sunnah.com/mishkat:1532)
+
+> She said that when the Prophet had a complaint he would blow on himself, ejecting saliva, reciting the Mu'awwidhah, and wipe himself with his hand. She said, “When he suffered from the pain of which he died, I would blow on him ejecting saliva and recite the Mu'awwidhat as he did, and would take the Prophet’s hand to wipe him.”  
+
+## Muhammad spit in the mouth of a newborn child
+
+[Sahih al Bukhari 5469](https://sunnah.com/bukhari:5469)
+
+> I conceived 'Abdullah bin AzZubair at Mecca and went out (of Mecca) while I was about to give birth. I came to Medina and encamped at Quba', and gave birth at Quba'. Then I brought the child to Allah's Messenger  and placed it (on his lap). He asked for a date, chewed it, and put his saliva in the mouth of the child. So the first thing to enter its stomach was the saliva of Allah's Messenger 
+
+See also:
+
+- [Sahih al Bukhari 3909](https://sunnah.com/bukhari:3909)
+- [Sahih Muslim 2146a](https://sunnah.com/muslim:2146a)
+- [Sahih Muslim 2146b](https://sunnah.com/muslim:2146b)
+- [Sahih Muslim 2148](https://sunnah.com/muslim:2148)
+
+
+## Muhammad exhumed a dead man and spit in his mouth
+
+[Sahih Muslim 2773a](https://sunnah.com/muslim:2773a)
+
+> Jabir reported Allah's Apostle  came to the grave of 'Abdullah b. Ubayy, brought him out from that, placed him on his knee and put his saliva in his mouth and shrouded him in his own shirt and Allah knows best.
+
+## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying
+
+[Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
+
+> Narrated 'Aisha: "One of the wives of Allah's Messenger  joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
+
+## Muhammad would not provide more than one garment each to his wives
+
+When they had menstrual blood stain their garments they would have to clean them with spit.
+
+[Sahih al Bukhari 312](https://sunnah.com/bukhari:312)
+
+> Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
+
+## Muhammadwalked around in clothes covered in semen stains
+
+[Sunnan Abu Dawud 372](https://sunnah.com/abudawud:372)
+
+> I used to rub off the semen from the clothes of the Messenger of Allah. He would would pray in it.
+
+I can imagine this poor girl walking after this old man, rubbing dried up semen stains out of his clothes with her finger nail while he's on his way to the mosque.
+
+See also:
+
+- [Sunnan Abu Dawud 371](https://sunnah.com/abudawud:371)
+- [Sunnan Abu Dawud 373](https://sunnah.com/abudawud:373)
+- [Sahih al Bukhari 230](https://sunnah.com/bukhari:230)
+- [Sahih al Bukhari 231](https://sunnah.com/bukhari:231)
+- [Sahih al Bukhari 232](https://sunnah.com/bukhari:232)
+- [Sahih al Bukhari 229](https://sunnah.com/bukhari:229)
+- [Sahih Muslim 290 (scraping it off with the nail)](https://sunnah.com/muslim:290)
 
 ## How did Muhammad die?
 
@@ -496,6 +535,12 @@ See also:
 [Quran 18:86](https://quran.com/71/19?translations=207)
 
 > Allah has laid the earth out as a carpet for you,
+
+## The urine of boys and girls are different
+
+[Sunnan Ibn Majah 525](https://sunnah.com/ibnmajah:525)
+
+> ...He said, "This is because the urine of the boy is of water and clay, but the urine of the girl is of flesh and blood."...
 
 # Slavery
 
