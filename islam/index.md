@@ -160,7 +160,7 @@ Jesus also taught that he is God incarnate, something Islam denies.
 
 Jesus taught to love your enemies and to pray for those persecuting you. Muhammad cursed his enemies and waged war on everyone who didn't follow him.
 
-Jesus loved children, protected them, and said that anyone who would hurt a child would be better off
+Jesus loved children, protected them, and said that anyone who would hurt a child would be better off being drowned 
 
 ## Jesus prayed on his knees, which means he was a muslim
 

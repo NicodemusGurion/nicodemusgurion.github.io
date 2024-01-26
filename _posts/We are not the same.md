@@ -28,3 +28,5 @@ Here is a list of areas in which Christianity and Islam are different.
 
 
 | Adam named the animals | Allah told Adam what the animals were named (2:31) |
+
+| God forgives sin on the basis that Jesus took the just punishment. God is just. | Allah forgives sins without a basis, making him an unjust judge | 
