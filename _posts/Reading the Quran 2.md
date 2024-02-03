@@ -1,29 +1,13 @@
 ---
-title: Notes on the Quran
-tags [Islam, Quran]
+title: Reading the Quran, Surah 1 Al-Fatihah
+tags [Islam, Quran, Reading the Quran]
 ---
 
-These are my notes reading through the Quran Surah by Surah and ayah by ayah. 
+I am reading through the Quran, giving my notes from the perspective of someone reading it without context for the first time *in italics* and my theological notes in regular script underneath. 
 
-(Ellipsis ("...") is used to shorten unnecessary text.)
+This is the second chapter of the Quran, a massive 286 verses! Even the most massive chapter of the Bible has "only" 176 verses. And this is after reading a chapter of 7 verses. And it seems that most chapters of the Quran contains hundreds of verses. This could easily have been up to 5-6 chapters, and would make it much easier to digest. This is probably going to be a long article, and I suspect most articles are going to become obscenely long due to this fact.
 
 [TOC]
-
-# Al-Fatihah
-
-The first book "The Opener" is short and mainly praises Allah.
-
-## 1: 4
-
-> Master of the Day of Recompense.
-
-Allah is the Lord of judgment day. This is a title describing Jesus.
-
-## 1: 6
-
-> Guide us to the straight path:
-
-Muslims pray this every time they recite the first chapter. Perhaps this is why so many Muslims are converting to Christianity, or at least apostatising from Islam. 
 
 # Al-Baqarah
 
@@ -31,11 +15,15 @@ Muslims pray this every time they recite the first chapter. Perhaps this is why 
 
 > Alif-Lãm-Mĩm.
 
-Cryptic letters that no one knows what they means. Because the Quran is so clear and easy to understand.
+*Yeah, that makes sense. Not. Is this a cryptic message from the intergalactic accountant?*
+
+Cryptic letters that no one knows what they means. Because the Quran is so "clear and easy to understand."
 
 ## 2: 2
 
 > This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺,
+
+*Insightful... Yes this is a book.*
 
 "This is the book! Because the book said so! And it's the book, so it must be the book!" Basically "Trust me bro." It spells out the purpose of the Quran, an instruction manual. Not like the Bible which contains history, wisdom, doctrine, and specific instructions to specific people, the Quran is just a general instruction manual for all times and places.
 

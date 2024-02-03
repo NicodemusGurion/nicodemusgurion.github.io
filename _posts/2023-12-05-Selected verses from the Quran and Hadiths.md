@@ -1,5 +1,5 @@
 ---
-title: List of verses from the Quran and Hadiths
+title: What does the Quran and Hadiths say about...?
 tags: [Islam, Muslims, Muhammad, Featured, Lists]
 thumb: https://i.ibb.co/chRcQPj/8414-B52-F-290-B-407-C-8-DB9-473-B12-F2587-E.jpg
 image: https://i.ibb.co/Jvb87Hr/F964-A421-1730-4-E89-B70-D-2310-BC079-BA6.jpg
@@ -8,6 +8,16 @@ permalink: /quran-and-hadiths
 Some selected Quran and Hadith verses.
 
 [TOC]
+
+# Adam
+
+## Adam was 60 cubits tall
+
+[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
+
+> ...their form would be alike as one single person after the form of their father (Adam) sixty cubits tall.
+
+1 Arabic cubit was traditionally 64 cm long, which means Adam would be 38.4 meters tall.
 
 # Allah
 
@@ -25,7 +35,7 @@ Who is Allah praying to?
 
 > And none loves to be praised more than Allah does, and for this reason He praises Himself.
 
-## Allah wonders
+## Allah wonders 
 
 [Sahih al-Bukhari 3010](https://sunnah.com/bukhari:3010)
 
@@ -35,7 +45,7 @@ Apparently there are things that surprise Allah. How could someone supposedly al
 
 ## Allah is limited to one location
 
-https://quran.com/20/5
+[Quran 20:5](https://quran.com/20/5)
 
 > the Most Compassionate, Who is˺ established on the Throne.
 
@@ -45,15 +55,27 @@ https://quran.com/20/5
 
 > Allah descends every night to the lowest heaven when one-third of the first part of the night is over (3 am) and says: I am the Lord; I am the Lord: who is there to supplicate Me so that I answer him? Who is there to beg of Me so that I grant him? Who is there to beg forgiveness from Me so that I forgive him? He continues like this till the day breaks.
 
-Allah doesn't know how time zones work. If he comes down every night at  3am, in what time zone is he? Other parts of the earth have morning, day, or evening. When is the "day break" when he ascends? Is he constantly descending and ascending? How does this make sense? And how is he constantly loving up and down and [also located on his throne?](#allah-is-limited-to-one-location)
+Allah doesn't know how time zones work. If he comes down every night at  3am, and leave at daybreak, in what time zone is he? It would mean that in one time zone he is descending while in another time zone he is ascending, at the same time. Therefore Allah is always somewhere in our atmosphere at all times, yet he is unable to enter our world, and he is [also located on his throne?](#allah-is-limited-to-one-location) How does it work?
 
 # Animals
 
-## Owning a dog gives you minus points
+## Owning a dog gives you minus points {#owning-a-dog}
 
 [Sahih al Bukhari 5480](https://sunnah.com/bukhari:5480)
 
 > Narrated Ibn Umar: The Prophet said, "Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds."
+
+# Apostasy 
+
+## Punishment for apostasy is being stoned to death {#apostasy-death-sentence}
+
+[Sunan Ibn Majah 2535](https://sunnah.com/ibnmajah:2535)
+
+> It was narrated from Ibn'Abbas that the Messenger of Allah said:
+> “Whoever changes his religion, execute him.”
+
+- [Sunan Ibn Majah 2533](https://sunnah.com/ibnmajah:2533)
+- [Sunan Ibn Majah 2534](https://sunnah.com/ibnmajah:2534)
 
 # Contradictions
 
@@ -83,7 +105,7 @@ Allah created the heavens and the earth in 6 days.
 
 Historical and factual errors 
 
-## Jews think Ezra is the son of Allah
+## Jews think Ezra is the son of Allah {#ezra-son-of-allah}
 
 [Quran 9:30](https://quran.com/9/31)
 
@@ -99,7 +121,7 @@ No Jews have ever claimed that Ezra is the son of God. How deluded is Muhammad t
 
 > And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?”...
 
-## Mary the mother of Jesus is the brother of Aaron
+## Mary the mother of Jesus is the brother of Aaron {#who-is-mary}
 
 *Mary the mother of Jesus lived in first century Judaea/Galilee. Mariam the sister of Aaron lived about 1500 years before her in Egypt/Sinai. Allah does not know that these are two different people.*
 
@@ -107,41 +129,38 @@ No Jews have ever claimed that Ezra is the son of God. How deluded is Muhammad t
 
 > Then she returned to her people, carrying him [Jesus]. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing! O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”
 
-## Pharao ordered Haman to build the Tower of Babel 
-
-*The Pharao was the king of Egypt. Haman was an Amalekite man, an enemy of Israel, who lived in the Persian empire in the 5th century BC. And the Tower of Babel was built on the plains of Mesopotamia in the 24th century BC. This is the worst imaginable mishmash of stories and characters.*
+## Pharao ordered Haman to build the Tower of Babel {#pharao-haman-tower}
 
 [Quran 40:36](https://quran.com/40?startingVerse=36)
 
 > Pharaoh ordered, “O Hamân! Build me a high tower so I may reach the pathways leading up to the heavens and look for the God of Moses, although I am sure he is a liar.” And so Pharaoh’s evil deeds were made so appealing to him that he was hindered from the ˹Right˺ Way. But the plotting of Pharaoh was only in vain.
 
-## Pharao threatened people with crucifixion 
+The Pharao was the king of Egypt. Haman was an Amalekite man, an enemy of Israel, who lived in the Persian empire in the 5th century BC. And the Tower of Babel was built on the plains of Mesopotamia in the 24th century BC. This is the worst imaginable mishmash of stories and characters.
 
-*Crucifixion was never used by ancient Egypt, and did not become a common form of execution by the Romans in the 6th century BC.*
+## Pharao threatened people with crucifixion {#egyptian-crucifixion}
 
-[Quran 7:123,124](https://quran.com/7?startingVerse=123)
+[Quran 7:123,124](https://quran.com/7/123-124)
 
 > Pharaoh threatened, “How dare you believe in him before I give you permission? This must be a conspiracy you devised in the city to drive out its people, but soon you will see. I will certainly cut off your hands and feet on opposite sides, then crucify you all.”
+
+Crucifixion was never used by ancient Egypt, and did not become a common form of execution by the Romans in the 6th century BC.
 
 See also:
 
 - [Quran 20:71](https://quran.com/20/71)
 - [Quran 25:49](https://quran.com/26/49)
 
-
-## The Israelites were misled by a Samaritan 
-
-*The Samaritan people did not exist until at least a thousand years after the event when the Israelites were misled into worshipping the golden calf*.
+## The Israelites were misled by a Samaritan {#misled-by-samaritan}
 
 [Quran 20:85](https://quran.com/20/85)
 
 > Allah responded, “We have indeed tested your people in your absence, and the Samaritan has led them astray .
 
+The Samaritan people did not exist until at least a thousand years after the event where the Israelites were misled into worshipping the golden calf.
 
 # Food
 
-
-## Non-Muslims eats in seven intestines, Muslims in one
+## Non-Muslims eats in seven intestines, Muslims in one {#seven-intestines}
 
 Apparently belief or disbelief in Islam changes the number of intestines you have.
 
@@ -154,6 +173,33 @@ See also:
 [Sunan Ibn Majah 3256](https://sunnah.com/ibnmajah:3256)
 [Sunan Ibn Majah 3257](https://sunnah.com/ibnmajah:3257)
 [Sunan Ibn Majah 3258](https://sunnah.com/ibnmajah:3258)
+
+# Health and hygiene
+
+## Muslims aren’t allowed to urinate standing {#no-urinating-standing}
+
+[Sunan Ibn Majah 308](https://sunnah.com/ibnmajah:308) 
+
+> It was narrated that 'Umar said: "The Messenger of Allah saw me urinating while standing, and he said: 'O 'Umar, do not urinate standing up.' So I never urinated whilst standing after that."
+
+## Muslims aren’t allowed to urinate in water {#no-urinating-in-water}
+
+[Sunan Ibn Majah 343](https://sunnah.com/ibnmajah:343) 
+
+> It was narrated from Jabir that: The Messenger of Allah forbade urinating into standing water.
+
+So it seems our Muslim brothers can not urinate into a water toilet, especially not standing up.
+
+Also: 
+
+- [Sahih Muslim 281](https://sunnah.com/muslim:281)
+
+## Dogs would urinate in the mosque and no one would clean it up
+
+[Sahih al-Bukhari 174](https://sunnah.com/bukhari:174)
+
+> And narrated Hamza bin 'Abdullah:
+> My father said. "During the lifetime of Allah's Apostle, the dogs used to urinate, and pass through the mosques (come and go), nevertheless they never used to sprinkle water on it (urine of the dog.)"
 
 
 # Jews
@@ -186,7 +232,7 @@ This is directed to Muslims, how to deal with those who "who wage war against Al
 
 Things that Mohammad did.
 
-## Mohammed married and had sex with a prepubescent child
+## Mohammed married and had sex with a prepubescent child {#child-sexual-abuse}
 
 Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
 
@@ -211,26 +257,26 @@ See also:
 - [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
 - [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
-## Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating
+## Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating {#crotch-talk}
 
 [Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
 
 > It was narrated that 'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
 
-## Muhammad used to fondle Aisha when she was menstruating
+## Muhammad used to fondle Aisha when she was menstruating {#fondling-aisha}
 
 [Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
 
 > Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses).
 
-## Muhammad didn't like garlic
+## Muhammad didn't like garlic {#garlic}
 
 [Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
 
 > Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
 
 
-## Muhammad told his followers to drink sewer water 
+## Muhammad told his followers to drink sewer water {#sewer-water}
 
 [Sunnan Abu Dawud 67](https://sunnah.com/abudawud:67)
 
@@ -242,20 +288,20 @@ See also:
 
 To say that water is not defiled by anything, not even the rotting corpses of dogs and donkeys, menstrual waste products and literal feces is insane and unscientific. This unhygienic idea has probably cost the lives of untold numbers of people throughout history.
 
-## Muhammad gargled with dick water
+## Muhammad gargled with dick water {#dick-water}
 
 [Sahih al Bukhari 274](https://sunnah.com/bukhari:274)
 
 > Water was placed for the ablution of Allah's Messenger after Janaba. He poured water with his right hand over his left twice or thrice and then washed his private parts and rubbed his hand on the earth or on a wall twice or thrice and then rinsed his mouth, washed his nose by putting water in it and then blowing it out...
 
-So after washing his private parts he uses the same water to rinse his mouth and nose?
+Notice that after washing his private parts he uses the same water to rinse his mouth and nose.
 
 See also:
 
 - [Sahih al Bukhari 257](https://sunnah.com/bukhari:257)
 - [Sahih al Bukhari 276](https://sunnah.com/bukhari:276)
 
-## Muhammad had sex with 11 wives and only took one bath
+## Muhammad had sex with 11 wives and only took one bath {#11-wives-1-bath}
 
 [Sunan Ibn Majah 589](https://sunnah.com/ibnmajah:589)
 
@@ -267,19 +313,21 @@ See also:
 
 - [Sunnan Abu Dawud 218](https://sunnah.com/abudawud:218)
 
-## Muhammad told his followers to lick each other's hands
+## Muhammad and saliva
+
+### Muhammad told his followers to lick each other's hands {#licking-hands}
 
 [Sahih al Bukhari 5456](https://sunnah.com/bukhari:5456)
 
 > Narrated Ibn 'Abbas: The Prophet  said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
 
-## Muhammad spit three times in a man's wound
+### Muhammad spit three times in a man's wound {#spitting-in-wounds}
 
 [Sahih al Bukhari 4206](https://sunnah.com/bukhari:4206)
 
 > I saw the trace of a wound in Salama's leg. I said to him, "O Abu Muslim! What is this wound?" He said, "This was inflicted on me on the day of Khaibar and the people said, 'Salama has been wounded.' Then I went to the Prophet  and he puffed his saliva in the wound thrice., and since then I have not had any pain in it till this hour."
 
-## Muhammad believed spit mixed with dirt could cure illnesses 
+### Muhammad believed spit mixed with dirt could cure illnesses {#spit-and-dirt}
 
 [Sahih al Bukhari 5745](https://sunnah.com/bukhari:5745)
 
@@ -288,13 +336,13 @@ See also:
 - [Riyad as-Salihin 901](https://sunnah.com/riyadussalihin:901)
 - [Sunnan Ibn Majah 3521](https://sunnah.com/ibnmajah:3521)
 
-## Muhammad tried to heal himself by blowing raspberries 
+### Muhammad tried to heal himself by blowing raspberries {#blowing-raspberries}
 
 [Mishkat al-Masabih 1532](https://sunnah.com/mishkat:1532)
 
 > She said that when the Prophet had a complaint he would blow on himself, ejecting saliva, reciting the Mu'awwidhah, and wipe himself with his hand. She said, “When he suffered from the pain of which he died, I would blow on him ejecting saliva and recite the Mu'awwidhat as he did, and would take the Prophet’s hand to wipe him.”  
 
-## Muhammad spit in the mouth of a newborn child
+### Muhammad spat in the mouth of a newborn child {#spitting-in-mouth-of-child}
 
 [Sahih al Bukhari 5469](https://sunnah.com/bukhari:5469)
 
@@ -308,17 +356,33 @@ See also:
 - [Sahih Muslim 2148](https://sunnah.com/muslim:2148)
 
 
-## Muhammad exhumed a dead man and spit in his mouth
+## Muhammad exhumed a dead man and spat in his mouth {#spitting-in-mouth-of-dead}
 
 [Sahih Muslim 2773a](https://sunnah.com/muslim:2773a)
 
 > Jabir reported Allah's Apostle  came to the grave of 'Abdullah b. Ubayy, brought him out from that, placed him on his knee and put his saliva in his mouth and shrouded him in his own shirt and Allah knows best.
 
-## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying
+## Muhammad and urine
 
-[Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
+### Muhammad urinated squatting
 
-> Narrated 'Aisha: "One of the wives of Allah's Messenger  joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
+[Sunan an-Nasa'i 29](https://sunnah.com/nasai:29)
+
+> Whoever tells you that the Messenger of Allah urinated standing up, do not believe him, for he would not urinate except while squatting."
+
+### Muhammad urinated standing
+
+[Sahih al Bukhari 2471](https://sunnah.com/bukhari:2471)
+
+> Narrated Hudhaifa: I saw Allah's Messenger coming to the dumps of some people and urinated there while standing.
+
+It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and that [Muhammad didn't practice what he taught](#no-urinating-standing)
+
+### Muhammad urinated in a weird way
+
+[Sunan Ibn Majah 341](https://sunnah.com/ibnmajah:341)
+
+> It was narrated that Ibn 'Abbas said: "The Messenger of Allah turned towards a mountain pass and urinated, until I took pity on him because of the way he parted his legs when he urinated."
 
 ## Muhammad would not provide more than one garment each to his wives
 
@@ -328,7 +392,7 @@ When they had menstrual blood stain their garments they would have to clean them
 
 > Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
 
-## Muhammadwalked around in clothes covered in semen stains
+## Muhammad wore semen encrusted clothes
 
 [Sunnan Abu Dawud 372](https://sunnah.com/abudawud:372)
 
@@ -346,13 +410,51 @@ See also:
 - [Sahih al Bukhari 229](https://sunnah.com/bukhari:229)
 - [Sahih Muslim 290 (scraping it off with the nail)](https://sunnah.com/muslim:290)
 
+## Muhammad personally stoned a woman
+
+[Sunan Ibn Majah 2555](https://sunnah.com/ibnmajah:2555)
+
+> a woman came to the Prophet and confessed to committing fornication. He issued orders, and her garments were tightened around her (so that her private parts would not become uncovered) then he stoned her, then he offered the funeral prayer for her.
+
+In contrast Jesus defended a woman against being stoned for adultery. (John 8:1-11)
+
+## Muhammad accused a young boy of being an evil supervillain {#dajjal}
+
+The Dajjal is an evil figure in Islamic eschatology who will pretend to be the promised Messiah and later claim to be God, appearing before the Day of Judgment according to the Islamic eschatological narrative. Muhammad harassed, stalked, and spread rumors about a young boy, saying he was this Dajjal, making him depressed and suicidal.
+
+[Sahih Muslim 2930 a, 2931, 169 d](https://sunnah.com/muslim:2930a)
+
+> [Muhammad went] to Ibn Sayyad … he found him playing with children … Allah's Messenger struck his back with his hands. Allah's Messenger said: Ibn Sayyad, don't you bear witness that I am the messenger of Allah? Ibn Sayyad looked toward him and he said: I bear witness to the fact that you [are] the messenger of the unlettered. … 'Umar b. Khattab said: Allah's Messenger, permit me that I should [behead him]. Thereupon Allah's Messenger said: If he is the same (Dajjal) who would appear near the Last Hour, you would not be able to overpower him, and if he is not that there is no good for you to kill him. 
+
+There was some back and forth banter. But since this boy didn't play along with Muhammad's delusions, Muhammad insinuated that he is the Dajjal.
+
+> after some time Allah's Messenger … went towards the palm trees where Ibn Sayyad was. When [he] went near the tree he hid himself behind a tree with the intention of hearing something from Ibn sayyad before Ibn Sayyad could see him, but Allah's Messenger saw him on a bed with a blanket around him … and Ibn Sayyad's mother saw Allah's Messenger behind the trunk of the palm tree. She said … here is Muhammad. Thereupon Ibn Sayyad jumped up …
+
+So Muhammed is actually stalking a sleeping young boy, trying to eavesdrop to confirm his suspicion that this boy is a supervillain.
+
+> then [Muhammad] made a mention of the Dajjal and said: …(the Dajjal) is one-eyed and Allah, the Exalted and Glorious, is not one-eyed.…
+
+It would appear that perhaps Ibn Saiyad was one-eyed, because suddenly Muhammad starts spreading a rumour that the Dajjal is one-eyes, and for the rest of his life, Ibn Saiyad had to live with this rumour. Because of this, the boy grew up to be depressed and suicidal.
+
+[Sahih Muslim 2927c](https://sunnah.com/muslim:2927c)
+
+> …lbn Saiyad was along with us. … I felt terribly frightend from him as it was said about him that he was the Dajjal. He brought his goods and placed them by my luggage and I said: It is intense heat. Would you not place that under that tree? And he did that. Then there appeared before us a flock of sheep. He went and brought a cup of milk and said: Abu Said, drink that. I said it is intense heat and the milk is also hot (whereas the fact was) that I did not like to drink from his hands or to take it from his hand and he said: Abu Said, I think that I should take a rope and suspend it by the tree and then commit suicide because of the talks of the people…
+
+Abu Said, like most people, were afraid of Ibn Saiyad because of the rumor started by Muhammad, so he tried to avoid him. Ibn Saiyad, having been ostracized like that his whole life said that it made him want to hang himself.
+
+Also: 
+
+- [Sahih al-Bukhari 3055](https://sunnah.com/bukhari:3055) 
+- [Al-Adab Al-Mufrad 958](https://sunnah.com/adab:958)
+- [Sahih Muslim 2924 a](https://sunnah.com/muslim:2924a)
+
 ## How did Muhammad die?
 
-### Allah promises to cut off his aorta if he tells a lie
+### Allah promises to cut off his aorta if he tells a lie {#cutting-aorta}
 
-[Quran 69:44-47](https://quran.com/69?startingVerse=44)
+[Quran 69:44-47](https://quran.com/69/44-47)
 
- >Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!
+> Had the Messenger made up something in Our Name, We would have certainly seized him by his right hand, then severed his aorta, and none of you could have shielded him ˹from Us˺!
 
 [Musnad Ahmad 107](https://sunnah.com/ahmad:107)
 
@@ -360,7 +462,7 @@ See also:
 
 So Allah promises that Muhammed ever acts as a false prophet, Allah will cut off his aorta.
 
-### Muhammad eats a poisoned lamb
+### Muhammad eats a poisoned lamb {#poisoned-lamb}
 
 [Sunnah Abu Dawud 4512](https://sunnah.com/abudawud:4512)
 
@@ -391,7 +493,13 @@ Muhammad eventually died from the poisoned lamb of a jewish woman, and he did so
 
 Notice also the poetic biblical references in that a false anti-christ prophet was killed by Allah after eating of the Lamb that came from a Jewish woman.
 
-## What was the last words of Muhammad?
+## What was the last orders of Muhammad to his followers? {#last-orders}
+
+> Ibn 'Abbas said... The Prophet on his death-bed, gave three orders saying, "Expel the pagans from the Arabian Peninsula, respect and give gifts to the foreign delegates as you have seen me dealing with them." I forgot the third (order)"...
+
+What's that, Ibn Abbas? The last order of Muhammad wasn't noteworthy enough to even commit to memory? But at least you remembered the genocide part.
+
+## What was the last words of Muhammad? {#last-words}
 
 While Jesus used his last moments to forgive his enemies, Muhammad used his last moments to curse one third of the world population.
 
@@ -399,7 +507,7 @@ While Jesus used his last moments to forgive his enemies, Muhammad used his last
 
 >  'A'isha and Abdullah reported: As the Messenger of Allah  was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
 
-## What was the last action of Muhammad?
+## What was the last action of Muhammad? {#last-actions}
 
 Sharing a toothbrush with two other people.
 
@@ -413,7 +521,7 @@ See also:
 - [Sahih al Bukhari 4451](https://sunnah.com/bukhari:4451)
 - [Sahih al Bukhari 5217](https://sunnah.com/bukhari:5217)
 
-## Muhammad didn't leave an inheritance for his wives and daughters 
+## Muhammad didn't leave an inheritance for his wives and daughters {#no-inheritance}
 
 Instead they had to go to Abu Bakr to get what they needed to survive as a charity.
 
@@ -429,7 +537,7 @@ Muhammad's daughter Fatima was denied her inheritance.
 
 The wives of Muhammad were also denied an inheritance.
 
-## The parents of Muhammad are in hell
+## The parents of Muhammad are in hell {#parents-in-hell}
 
 [Sahih Muslim 976b](https://sunnah.com/muslim/11/135)
 
@@ -479,7 +587,7 @@ Muhammad's father is in hell.
 
 [Sahih al Bukhari 1144](https://sunnah.com/bukhari:1144)
 
-> Narrated 'Abdullah: A person was mentioned before the Prophet (p.b.u.h) and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet said, "Satan urinated in his ears."
+> Narrated 'Abdullah: A person was mentioned before the Prophet and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet said, "Satan urinated in his ears."
 
 ## Satan farts to not hear the call to prayer 
 
@@ -544,10 +652,9 @@ See also:
 
 # Slavery
 
-## Giving away slaves is better than freeing them
+## Gifting slaves is better than freeing them
 
 [Sahih Muslim 999](https://sunnah.com/muslim:999)
-
 
 > Maimuna bint Harith reported that she set free a slave-girl during the lifetime of the Messenger of Allah and she made a mention of that to the Messenger of Allah and he said: Had you given her to your maternal uncles, you would have a greater reward.
 
@@ -576,17 +683,42 @@ See also:
 
 # Paradise
 
+The Islamic paradise is a very physical place where people will eat fruit that all tastes the same. Then they will not poop, but belch out the excrement as musk.
+
 ## All fruit looks the same in paradise
 
 [Quran 2:25](https://quran.com/2/25)
 
 > And give glad tidings to those who believe and do righteous deeds that they will have gardens under which rivers flow. Every time they are provided with a provision of fruit therefrom, they will say, “This is what we were provided with before,” for they will be given fruit that resemble one another. They will have purified spouses, and they will abide therein forever.
 
+## People in paradise don't poop but belch and sweat musk
+
+> I heard Allah's Apostle as saying that the inmates of Paradise would eat and drink but would neither spit, nor pass water, nor void excrement, nor suffer catarrah. It was said: Then, what would happen with food? Thereupon he said: They would belch and sweat (and it would be over with their food), and their sweat would be that of musk and they would glorify and praise Allah as easily as you breathe.
+
+Also:
+
+- [Riyad as-Salihin 1880](https://sunnah.com/riyadussalihin:1880)
+- [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
+
+## They will have large-eyed houris
+
+[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
+
+> ...their wives will be large-eyed maidens...
+
+## They will be 38.4 meters tall
+
+[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
+
+> ...their form would be alike as one single person after the form of their father (Adam) sixty cubits tall.
+
+60 Arabic cubits á 64cm each equals 38.4 meters.
+
 ## There are 7 heavens
 
 [Quran 2:29](https://quran.com/2/29)
 
-> It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens, and He is All-Knowing of every thing.
+> It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens...
 
 # The Quran
 
@@ -596,9 +728,11 @@ See also:
 
 > 23 If you are in doubt concerning that which We have sent down upon Our slave, then produce a chapter like it and call upon your helpers other than Allah, if you are truthful.24 But if you did not do it, and you can never do it; then beware of the Fire whose fuel will be people and stones, which is prepared for the disbelievers.
 
-The only claim to inspiration the Quran makes is in its literary excellence, claiming no one can produce a chapter like it. But if you have read it the first thing that strikes you is how vacuous, uninspired, boring, confused, and contradictory it is. Even a mediocre poet would be able to write a chapter far more excellent than most chapters of the Quran.
+The only claim to inspiration the Quran makes is in its literary excellence, claiming no one can produce a chapter like it. But if you have read it the first thing that strikes you is that literary speaking, it is garbage. Even a mediocre poet would be able to write a chapter far more excellent than most chapters of the Quran.
 
 ## The Quran is not perfectly preserved
+
+One miraculous claim made is that the Quran has been perfectly preserved. However the Quran and Hadiths contradict this.
 
 ### Allah foretold that the Quran wouldn’t be perfectly preserved 
 
@@ -612,12 +746,22 @@ The only claim to inspiration the Quran makes is in its literary excellence, cla
 
 > It was narrated that 'Aishah said “The Verse of stoning and of breastfeeding an adult ten times was revealed, and the paper was with me under my pillow. When the Messenger of Allah died, we were preoccupied with his death, and a tame sheep came in and ate it.”
 
+How can the Quran be perfectly preserved when two Surah's were literally eaten by a sheep?
+
 ## Chapters of the Quran could be ordered on demand
 
 [Sahih al Bukhari 4483](https://sunnah.com/bukhari:4483)
 
 > I also said, 'O Allah's Messenger ! Good and bad persons visit you! Would that you ordered the Mothers of the believers to cover themselves with veils.' So the Divine Verses of Al-Hijab (i.e. veiling of the women) were revealed. 
 
+Apparently, chapters could be requested on demand by the followers of Muhammad to suit their personal preferences. How convenient.
+
+## Denying a Quran verse is a capital offense 
+
+> It was narrated from Ibn'Abbas that the Messenger of Allah said:
+> “Whoever denies a Verse of the Qur'an, it is permissible to strike his neck (i.e., execute him) 
+
+See also [Apostasy](#apostasy)
 
 # Weird or miscellaneous 
 
@@ -633,16 +777,23 @@ Also:
 - [Sunnah Mishkat al-Masabih 316](https://sunnah.com/mishkat:316)
 - [Sunnah Ibn Majah 477](https://sunnah.com/ibnmajah:477)
 
+## Instructions on sandal straps
+
+[Al-Adab Al-Mufrad 956](https://sunnah.com/adab:956)
+
+> …"When one of you breaks his sandal-strap, he should not walk in his other sandal until it is mended."
+
 ## Moses had his clothes stolen by a stone
 
 [Sahih al Bukhari 278](https://sunnah.com/bukhari:278)
 
 > ...once Moses went out to take a bath and put his clothes over a stone and then that stone ran away with his clothes. Moses followed that stone saying, "My clothes, O stone! My clothes, O stone!...
 
-
 # Women
 
 ## It's ok for a man to beat his wife
+
+[Quran 4:34](https://quran.com/4/34)
 
 > Men stand caretakers of women since Allah has made some of them excel the others, and because they have spent of their wealth., So, the righteous women are obedient, guarding in absence with the protection given by Allah. As for women whose disobedience you fear, convince them, and leave them apart in beds, and **beat them**. Then, if they obey you, do not seek a way against them. Surely, Allah is the Highest, the Greatest.
 
@@ -652,21 +803,21 @@ This is if a man even only fears his wife would be disobedient.
 
 [Surah 65:4](https://quran.com/65/4)
 
-Context, verse 1:
+Context from [verse 1:](https://quran.com/65/1)
 
 > O Prophet! ˹Instruct the believers:˺ **When you intend to˺ divorce women, then divorce them with concern for their waiting period**...
 
-There's a waiting period before a man can divorce a wife.
+There's a waiting period a divorced woman has to wait before she can remarry.  
 
-> As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated as well**. As for those who are pregnant, their waiting period ends with delivery.1 And whoever is mindful of Allah, He will make their matters easy for them.
+> As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated as well**. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them.
 
-So men are allowed to marry and divorce prepubescent girls, as long as they respect the waiting period for divorce.
+This means men are allowed to marry and divorce prepubescent girls.
 
 ## The majority of people in hell are women
 
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
-> Once Allah's Messenger  went out to the Musalla (to offer the prayer) of 'Id-al-Adha or Al-Fitr prayer. Then he passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." They asked, "Why is it so, O Allah's Messenger  ?" He replied, "You curse frequently and are ungrateful to your husbands. I have not seen anyone more deficient in intelligence and religion than you. A cautious sensible man could be led astray by some of you." The women asked, "O Allah's Messenger ! What is deficient in our intelligence and religion?" He said, "Is not the evidence of two women equal to the witness of one man?" They replied in the affirmative. He said, "This is the deficiency in her intelligence. Isn't it true that a woman can neither pray nor fast during her menses?" The women replied in the affirmative. He said, "This is the deficiency in her religion."
+> Once Allah's Messenger  went out to the Musalla (to offer the prayer) of 'Id-al-Adha or Al-Fitr prayer. Then he passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." …
 
 ## Women are mentally deficient 
 
@@ -674,8 +825,18 @@ So men are allowed to marry and divorce prepubescent girls, as long as they resp
 
 > The Prophet said, "Isn't the witness of a woman equal to half of that of a man?" The women said, "Yes." He said, "This is because of the deficiency of a woman's mind."
 
+Also:
+
+- [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
+
 ## Women are equal to donkeys and dogs 
 
 [Sahih al Bukhari 514](https://sunnah.com/bukhari:514)
 
 > The things which annul prayer were mentioned before me (and those were): a dog, a donkey and a woman. I said, "You have compared us (women) to donkeys and dogs...
+
+## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying
+
+[Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
+
+> Narrated 'Aisha: "One of the wives of Allah's Messenger  joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
