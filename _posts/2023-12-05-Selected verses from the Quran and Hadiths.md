@@ -65,6 +65,14 @@ Allah doesn't know how time zones work. If he comes down every night at  3am, an
 
 Allah deceived Muhammad to go into battle against a large army, making him think it was a small army. He also deceived his enemies in the same way.
 
+[Quran4:157](https://quran.com/4/157?translations=149)
+
+> and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
+
+Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is deceptive.
+
+This is also a verse that proves Islam is historically false, for the crucifixion of Jesus is the most well documented event in ancient history.
+
 # Animals
 
 ## Owning a dog gives you minus points {#owning-a-dog}
@@ -165,6 +173,16 @@ See also:
 > Allah responded, “We have indeed tested your people in your absence, and the Samaritan has led them astray .
 
 The Samaritan people did not exist until at least a thousand years after the event where the Israelites were misled into worshipping the golden calf.
+
+## Jesus was not crucified 
+
+[Quran4:157](https://quran.com/4/157?translations=149)
+
+> and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
+
+That Jesus was crucified by order of the Roman Prefect Pontius Pilate is subject to "almost universal assent" among scholars. Lightfoot Professor of Divinity James Dunn stated that the fact of the baptism and crucifixion of Jesus "rank so high on the 'almost impossible to doubt or deny' scale of historical facts, they are obvious starting points for an attempt to clarify the what and why of Jesus' mission." Atheist scholar Bart Ehrman says "Nearly all critical scholars agree at least on those points about the historical Jesus."
+
+In other words, the Quran is historically false.
 
 # Food
 
