@@ -57,6 +57,14 @@ Apparently there are things that surprise Allah. How could someone supposedly al
 
 Allah doesn't know how time zones work. If he comes down every night at  3am, and leave at daybreak, in what time zone is he? It would mean that in one time zone he is descending while in another time zone he is ascending, at the same time. Therefore Allah is always somewhere in our atmosphere at all times, yet he is unable to enter our world, and he is [also located on his throne?](#allah-is-limited-to-one-location) How does it work?
 
+# Allah deceives
+
+[Quran 8:43,44](https://quran.com/8/43-44?translations=149)
+
+> Recall: Allah showing them to yousg in your sleep as few, for had He showed them to you as many, you would have faltered and disagreed with each other about the matter, but Allah saved (the situation). He is indeed All-Knowing of what lies within the chests. And recall: when you met, Him showing them to you as few in your eyes and making you appear fewer in their eyes, so that Allah might carry out a predetermined matter. And to Allah all matters are returned.
+
+Allah deceived Muhammad to go into battle against a large army, making him think it was a small army. He also deceived his enemies in the same way.
+
 # Animals
 
 ## Owning a dog gives you minus points {#owning-a-dog}
