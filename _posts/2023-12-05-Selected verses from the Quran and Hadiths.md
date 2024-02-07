@@ -57,7 +57,7 @@ Apparently there are things that surprise Allah. How could someone supposedly al
 
 Allah doesn't know how time zones work. If he comes down every night at  3am, and leave at daybreak, in what time zone is he? It would mean that in one time zone he is descending while in another time zone he is ascending, at the same time. Therefore Allah is always somewhere in our atmosphere at all times, yet he is unable to enter our world, and he is [also located on his throne?](#allah-is-limited-to-one-location) How does it work?
 
-# Allah deceives
+## Allah deceives
 
 [Quran 8:43,44](https://quran.com/8/43-44?translations=149)
 
@@ -253,6 +253,40 @@ But wait, it gets better. The next verse is what applies to Muslims:
 > Indeed, the penalty **for those who wage war against Allah and His Messenger** and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land.** This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous **punishment in the Hereafter.**
 
 This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
+
+## Islam's Final Solution to the Jewish Question {#final-solution}
+
+[Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
+
+> Allah's Messenger said, "The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
+
+# Jihad
+
+## Jizya
+
+[Sahih Muslim 1731a](https://sunnah.com/muslim:1731a)
+
+> …If they refuse to accept Islam, demand from them the Jizya. If they agree to pay, accept it from them and hold off your hands. If they refuse to pay the tax, seek Allah's help and fight them.…
+
+This is the future of your country if you invite Islam: They will sooner or later take over, and if you do not join their ideology, you will have to pay a tax to them. And if you refuse to pay them, they will kill you.
+
+## Even stones will help jihadists to kill Jews 
+
+[Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
+
+> Allah's Messenger said, "The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
+
+## Muslims can indiscriminately kill innocent civilians 
+
+[Sahih al-Bukhari 3012](https://sunnah.com/bukhari:3012)
+
+> The Prophet … was asked whether it was permissible to attack the pagan warriors at night with the probability of exposing their women and children to danger. The Prophet replied, "They (i.e. women and children) are from them (i.e. pagans)." I also heard the Prophet saying, "The institution of Hima (sanctuary) is invalid except for Allah and His Apostle."
+
+So his men, having a shred of humanity, asked about the possibility of killing non-combatant women and children. Muhammad said that it doesn't matter, they're all the same, so it's ok to kill innocent civilians. 
+
+### "Hima"
+
+In the context of warfare in Islamic teachings, the term "hima" is sometimes used to denote a protected zone or area during times of conflict. It signifies a space where civilians and their property are safeguarded from harm. The Prophet Muhammad emphasized the importance of protecting Muslim non-combatants, including women, children, and the elderly, and avoiding unnecessary destruction during warfare. As pointed out in [Sahih al-Bukhari 3012](https://sunnah.com/bukhari:3012), Hima is invalid for non-Muslims though. Muslims do not need to care about innocent bystanders but can just go on killing women and children indiscriminately.
 
 # Mohammad
 
@@ -474,6 +508,12 @@ These people had stolen some camels so Muhammad **had their hands and feet cut o
 > a woman came to the Prophet and confessed to committing fornication. He issued orders, and her garments were tightened around her (so that her private parts would not become uncovered) then he stoned her, then he offered the funeral prayer for her.
 
 In contrast Jesus defended a woman against being stoned for adultery. (John 8:1-11)
+
+## Muhammad was a terrorist
+
+[Sahih al-Bukhari 2977](https://sunnah.com/bukhari:2977)
+
+> ...I have been made victorious with terror (cast in the hearts of the enemy)...
 
 ## Muhammad accused a young boy of being an evil supervillain {#dajjal}
 
