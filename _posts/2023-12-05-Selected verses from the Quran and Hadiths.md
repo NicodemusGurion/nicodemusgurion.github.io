@@ -61,7 +61,7 @@ Allah doesn't know how time zones work. If he comes down every night at  3am, an
 
 [Quran 8:43,44](https://quran.com/8/43-44?translations=149)
 
-> Recall: Allah showing them to yousg in your sleep as few, for had He showed them to you as many, you would have faltered and disagreed with each other about the matter, but Allah saved (the situation). He is indeed All-Knowing of what lies within the chests. And recall: when you met, Him showing them to you as few in your eyes and making you appear fewer in their eyes, so that Allah might carry out a predetermined matter. And to Allah all matters are returned.
+> Recall: Allah showing them to you in your sleep as few, for had He showed them to you as many, you would have faltered and disagreed with each other about the matter, but Allah saved (the situation). He is indeed All-Knowing of what lies within the chests. And recall: when you met, Him showing them to you as few in your eyes and making you appear fewer in their eyes, so that Allah might carry out a predetermined matter. And to Allah all matters are returned.
 
 Allah deceived Muhammad to go into battle against a large army, making him think it was a small army. He also deceived his enemies in the same way.
 
@@ -184,22 +184,6 @@ That Jesus was crucified by order of the Roman Prefect Pontius Pilate is subject
 
 In other words, the Quran is historically false.
 
-# Food
-
-## Non-Muslims eats in seven intestines, Muslims in one {#seven-intestines}
-
-Apparently belief or disbelief in Islam changes the number of intestines you have.
-
-[Sahih Muslim 2060 a](https://sunnah.com/muslim:2060a)
-
-> Ibn 'Umar reported Allah's Messenger  as saying that a non-Muslim eats in seven intestines whereas a Muslim eats in one intestine.
-
-See also:
-
-[Sunan Ibn Majah 3256](https://sunnah.com/ibnmajah:3256)
-[Sunan Ibn Majah 3257](https://sunnah.com/ibnmajah:3257)
-[Sunan Ibn Majah 3258](https://sunnah.com/ibnmajah:3258)
-
 # Health and hygiene
 
 ## Muslims aren’t allowed to urinate standing {#no-urinating-standing}
@@ -292,7 +276,9 @@ In the context of warfare in Islamic teachings, the term "hima" is sometimes use
 
 Things that Mohammad did.
 
-## Mohammed married and had sex with a prepubescent child {#child-sexual-abuse}
+## Aisha
+
+### Mohammed married and had sex with a prepubescent girl {#child-sexual-abuse}
 
 Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
 
@@ -317,26 +303,65 @@ See also:
 - [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
 - [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
-## Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating {#crotch-talk}
+### Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating {#crotch-talk}
 
 [Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
 
 > It was narrated that 'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
 
-## Muhammad used to fondle Aisha when she was menstruating {#fondling-aisha}
+### Muhammad used to fondle Aisha when she was menstruating {#fondling-aisha}
 
 [Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
 
 > Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses).
 
-## Muhammad didn't like garlic {#garlic}
+## Muhammad and family
 
-[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
+### Muhammad would not provide more than one garment each to his wives {#miserly-husband}
 
-> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
+[Sahih al Bukhari 312](https://sunnah.com/bukhari:312)
 
+> Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
 
-## Muhammad told his followers to drink sewer water {#sewer-water}
+When they had menstrual blood stain their garments they would have to clean them with spit.
+
+## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying {#discharge-dish}
+
+[Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
+
+> Narrated 'Aisha: "One of the wives of Allah's Messenger  joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
+
+### Muhammad daughter Fatima was denied an inheritance {#daughter-no-inheritance}
+
+Instead they had to go to Abu Bakr to get what they needed to survive as a charity.
+
+[Sunnan Abu Dawud 2969](https://sunnah.com/abudawud:2969)
+
+> Narrated Aisha, Ummul Mu'minin: Fatimah was demanding (the property of) sadaqah of the Messenger of Allah  at Medina and Fadak, and what remained from the fifth of Khaybar. Aisha quoted AbuBakr as saying: The Messenger of Allah  said: We are not inherited; whatever we leave is sadaqah (charity). The family of Muhammad will eat from this property, that is, from the property of Allah. They will not take more then their sustenance.
+
+### The wives of Muhammad were also denied an inheritance. {#wives-no-inheritance}
+
+[Sunnan Abu Dawud 2976](https://sunnah.com/abudawud:2976)
+
+> Narrated 'Aishah: When the Messenger of Allah  died, the wives of the Prophet  intended to send 'Uthman b. 'Affan to Abu Bakr to ask him their cost of living from (the inheritance of) the Prophet . Thereupon 'Aishah said: Did not the Messenger of Allah  say: We are not inherited. Whatever we leave is sadaqah (charity).
+
+### The parents of Muhammad are in hell {#parents-in-hell}
+
+[Sahih Muslim 976b](https://sunnah.com/muslim/11/135)
+
+> Abu Huraira reported: The Apostle of Allah  visited the grave of his mother and he wept, and moved others around him to tears, and said: **I sought permission from my Lord to beg forgiveness for her but it was not granted to me**, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death.
+
+Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will not forgive her, meaning she is in hell.
+
+[Sunan Abu Dawud 4718](https://sunnah.com/abudawud:4718)
+
+> Anas said : A man asked : where is my father, Messenger of Allah? He replied! Your father is in Hell. When he turned his back, he said : **My father and your father are in Hell.**
+
+Muhammad's father is in hell.
+
+## Muhammad and water
+
+### Muhammad told his followers to drink sewer water {#sewer-water}
 
 [Sunnan Abu Dawud 67](https://sunnah.com/abudawud:67)
 
@@ -348,7 +373,7 @@ See also:
 
 To say that water is not defiled by anything, not even the rotting corpses of dogs and donkeys, menstrual waste products and literal feces is insane and unscientific. This unhygienic idea has probably cost the lives of untold numbers of people throughout history.
 
-## Muhammad gargled with dick water {#dick-water}
+### Muhammad gargled with dick water {#dick-water}
 
 [Sahih al Bukhari 274](https://sunnah.com/bukhari:274)
 
@@ -361,7 +386,7 @@ See also:
 - [Sahih al Bukhari 257](https://sunnah.com/bukhari:257)
 - [Sahih al Bukhari 276](https://sunnah.com/bukhari:276)
 
-## Muhammad had sex with 11 wives and only took one bath {#11-wives-1-bath}
+### Muhammad had sex with 11 wives and only took one bath {#unwashed-sex}
 
 [Sunan Ibn Majah 589](https://sunnah.com/ibnmajah:589)
 
@@ -416,7 +441,7 @@ See also:
 - [Sahih Muslim 2148](https://sunnah.com/muslim:2148)
 
 
-## Muhammad exhumed a dead man and spat in his mouth {#spitting-in-mouth-of-dead}
+### Muhammad exhumed a dead man and spat in his mouth {#spitting-in-mouth-of-dead}
 
 [Sahih Muslim 2773a](https://sunnah.com/muslim:2773a)
 
@@ -438,28 +463,28 @@ See also:
 
 It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and that [Muhammad didn't practice what he taught](#no-urinating-standing)
 
-### Muhammad urinated in a weird way
+### Muhammad urinated in some weird way
 
 [Sunan Ibn Majah 341](https://sunnah.com/ibnmajah:341)
 
 > It was narrated that Ibn 'Abbas said: "The Messenger of Allah turned towards a mountain pass and urinated, until I took pity on him because of the way he parted his legs when he urinated."
 
-### Muhammad prohibited urinating in holes
+### Muhammad prohibited urinating in holes {#urinating-in-holes}
 
 [Sunnan Abu Dawud 29](https://sunnah.com/abudawud:29)
 
 > The Prophet prohibited to urinate in a hole.
 > Qatadah (a narrator) was asked about the reason for the disapproval of urinating in a hole. He replied: It is said that these (holes) are the habitats of the jinn.
 
-### Muhammad prescribed the drinking of camel urine
+### Muhammad prescribed the drinking of camel urine {#drinking-camel-urine}
 
 [Mishkat al-Masabih 3539](https://sunnah.com/mishkat:3539)
 
-> Anas told that some people of ‘Ukl who had come to the Prophet and accepted Islam found Medina unhealthy, so he ordered them to go to the camels of the sadaqa and drink some of their urine and their milk...
+> Anas told that some people of ‘Ukl who had come to the Prophet and accepted Islam found Medina unhealthy, so he ordered them to go to the camels of the sadaqa and drink some of their urine...
 
 [He later tortured these people to death.](#tortured-to-death)
 
-## Muhammad prohibited urinating towards the qibla
+### Muhammad prohibited urinating towards the qibla {#urinating-toward-qibla}
 
 [Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
 
@@ -467,15 +492,9 @@ It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and tha
 
 Hypocrite.
 
-## Muhammad would not provide more than one garment each to his wives
+## Muhammad and other bodily fluids
 
-When they had menstrual blood stain their garments they would have to clean them with spit.
-
-[Sahih al Bukhari 312](https://sunnah.com/bukhari:312)
-
-> Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
-
-## Muhammad wore semen encrusted clothes
+### Muhammad wore semen encrusted clothes {#semen-clothes}
 
 [Sunnan Abu Dawud 372](https://sunnah.com/abudawud:372)
 
@@ -493,7 +512,10 @@ See also:
 - [Sahih al Bukhari 229](https://sunnah.com/bukhari:229)
 - [Sahih Muslim 290 (scraping it off with the nail)](https://sunnah.com/muslim:290)
 
-## Muhammad tortured people to death {#tortured-to-death}
+
+## Muhammad and violence
+
+### Muhammad tortured people to death {#tortured-to-death}
 
 [Mishkat al-Masabih 3539](https://sunnah.com/mishkat:3539)
 
@@ -501,7 +523,7 @@ See also:
 
 These people had stolen some camels so Muhammad **had their hands and feet cut off and their eyes put out** with white hot nails, and then left them to die from thirst and bleeding out.
 
-## Muhammad personally stoned a woman
+### Muhammad personally stoned a woman
 
 [Sunan Ibn Majah 2555](https://sunnah.com/ibnmajah:2555)
 
@@ -509,13 +531,35 @@ These people had stolen some camels so Muhammad **had their hands and feet cut o
 
 In contrast Jesus defended a woman against being stoned for adultery. (John 8:1-11)
 
-## Muhammad was a terrorist
+### Muhammad was a terrorist
 
 [Sahih al-Bukhari 2977](https://sunnah.com/bukhari:2977)
 
 > ...I have been made victorious with terror (cast in the hearts of the enemy)...
 
-## Muhammad accused a young boy of being an evil supervillain {#dajjal}
+## Muhammad's mental and spiritual health
+
+### Muhammad was bewitched
+
+[Sahih Al Bukhari 3268](https://sunnah.com/bukhari:3268)
+
+> Magic was worked on the Prophet so that he began to fancy that he was doing a thing which he was not actually doing. One day he invoked (Allah) for a long period and then said, "I feel that Allah has inspired me as how to cure myself. Two persons came to me (in my dream) and sat, one by my head and the other by my feet. One of them asked the other, "What is the ailment of this man?" The other replied, 'He has been bewitched"...
+
+[Sahih Al Bukhari 5765 provides more detail:](https://sunnah.com/bukhari:5765)
+
+> Magic was worked on Allah's Messenger  so that he used to think that he had sexual relations with his wives while he actually had not...
+
+See also:
+
+- [Sahih al Bukhari 6391](https://sunnah.com/bukhari:6391)
+
+### Muhammad was suicidal
+
+[Sahih al Bukhari 91](https://sunnah.com/bukhari/91)
+
+> …the Prophet  became so sad as we have heard that he intended several times to throw himself from the tops of high mountains and every time he went up the top of a mountain in order to throw himself down, Gabriel would appear before him and say, "O Muhammad! You are indeed Allah's Messenger  in truth" whereupon his heart would become quiet and he would calm down and would return home. And whenever the period of the coming of the inspiration used to become long, he would do as before, but when he used to reach the top of a mountain, Gabriel would appear before him and say to him what he had said before.
+
+### Muhammad was paranoid, accusing a child of being a supervillain {#dajjal}
 
 The Dajjal is an evil figure in Islamic eschatology who will pretend to be the promised Messiah and later claim to be God, appearing before the Day of Judgment according to the Islamic eschatological narrative. Muhammad harassed, stalked, and spread rumors about a young boy, saying he was this Dajjal, making him depressed and suicidal.
 
@@ -545,9 +589,11 @@ Also:
 - [Al-Adab Al-Mufrad 958](https://sunnah.com/adab:958)
 - [Sahih Muslim 2924 a](https://sunnah.com/muslim:2924a)
 
-## How did Muhammad die?
+## The death of Muhammad
 
-### Allah promises to cut off his aorta if he tells a lie {#cutting-aorta}
+### How did Muhammad die?
+
+#### Allah promises to cut off his aorta if he tells a lie {#cutting-aorta}
 
 [Quran 69:44-47](https://quran.com/69/44-47)
 
@@ -559,7 +605,7 @@ Also:
 
 So Allah promises that Muhammed ever acts as a false prophet, Allah will cut off his aorta.
 
-### Muhammad eats a poisoned lamb {#poisoned-lamb}
+#### Muhammad eats a poisoned lamb {#poisoned-lamb}
 
 [Sunnah Abu Dawud 4512](https://sunnah.com/abudawud:4512)
 
@@ -576,7 +622,7 @@ See also:
 
 After Muhammad kills the whole male Jewish population of Khaibar, a Jewish woman offers him roasted lamb. Being arguably the dumbest person in history, Muhammad accepts it. And it turns out that it was poisoned. Some of his men died, but Muhammad was affected for a long time from the lingering poison. Notice that Muhammad is saying that the pain from the poison feels like it is cutting off his aorta.
 
-### Muhammad dies
+#### Muhammad dies from having his aorta cut {#muhammad-dies}
 
 [Sahih al Bukhari 4428](https://sunnah.com/bukhari:4428)
   
@@ -590,13 +636,13 @@ Muhammad eventually died from the poisoned lamb of a jewish woman, and he did so
 
 Notice also the poetic biblical references in that a false anti-christ prophet was killed by Allah after eating of the Lamb that came from a Jewish woman.
 
-## What was the last orders of Muhammad to his followers? {#last-orders}
+### What was the last orders of Muhammad to his followers? {#last-orders}
 
 > Ibn 'Abbas said... The Prophet on his death-bed, gave three orders saying, "Expel the pagans from the Arabian Peninsula, respect and give gifts to the foreign delegates as you have seen me dealing with them." I forgot the third (order)"...
 
 What's that, Ibn Abbas? The last order of Muhammad wasn't noteworthy enough to even commit to memory? But at least you remembered the genocide part.
 
-## What was the last words of Muhammad? {#last-words}
+### What was the last words of Muhammad? {#last-words}
 
 While Jesus used his last moments to forgive his enemies, Muhammad used his last moments to curse one third of the world population.
 
@@ -604,7 +650,7 @@ While Jesus used his last moments to forgive his enemies, Muhammad used his last
 
 >  'A'isha and Abdullah reported: As the Messenger of Allah  was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
 
-## What was the last action of Muhammad? {#last-actions}
+### What was the last action of Muhammad? {#last-actions}
 
 Sharing a toothbrush with two other people.
 
@@ -618,35 +664,11 @@ See also:
 - [Sahih al Bukhari 4451](https://sunnah.com/bukhari:4451)
 - [Sahih al Bukhari 5217](https://sunnah.com/bukhari:5217)
 
-## Muhammad didn't leave an inheritance for his wives and daughters {#no-inheritance}
+## Muhammad didn't like garlic {#garlic}
 
-Instead they had to go to Abu Bakr to get what they needed to survive as a charity.
+[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
 
-[Sunnan Abu Dawud 2969](https://sunnah.com/abudawud:2969)
-
-> Narrated Aisha, Ummul Mu'minin: Fatimah was demanding (the property of) sadaqah of the Messenger of Allah  at Medina and Fadak, and what remained from the fifth of Khaybar. Aisha quoted AbuBakr as saying: The Messenger of Allah  said: We are not inherited; whatever we leave is sadaqah (charity). The family of Muhammad will eat from this property, that is, from the property of Allah. They will not take more then their sustenance.
-
-Muhammad's daughter Fatima was denied her inheritance.
-
-[Sunnan Abu Dawud 2976](https://sunnah.com/abudawud:2976)
-
-> Narrated 'Aishah: When the Messenger of Allah  died, the wives of the Prophet  intended to send 'Uthman b. 'Affan to Abu Bakr to ask him their cost of living from (the inheritance of) the Prophet . Thereupon 'Aishah said: Did not the Messenger of Allah  say: We are not inherited. Whatever we leave is sadaqah.
-
-The wives of Muhammad were also denied an inheritance.
-
-## The parents of Muhammad are in hell {#parents-in-hell}
-
-[Sahih Muslim 976b](https://sunnah.com/muslim/11/135)
-
-> Abu Huraira reported: The Apostle of Allah  visited the grave of his mother and he wept, and moved others around him to tears, and said: **I sought permission from my Lord to beg forgiveness for her but it was not granted to me**, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death.
-
-Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will not forgive her, meaning she is in hell.
-
-[Sunan Abu Dawud 4718](https://sunnah.com/abudawud:4718)
-
-> Anas said : A man asked : where is my father, Messenger of Allah? He replied! Your father is in Hell. When he turned his back, he said : **My father and your father are in Hell.**
-
-Muhammad's father is in hell.
+> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
 
 ## Muhammad was the first Muslim
 
@@ -747,6 +769,20 @@ See also:
 
 > ...He said, "This is because the urine of the boy is of water and clay, but the urine of the girl is of flesh and blood."...
 
+## Non-Muslims eats in seven intestines, Muslims in one {#seven-intestines}
+
+Apparently belief or disbelief in Islam changes the number of intestines you have.
+
+[Sahih Muslim 2060 a](https://sunnah.com/muslim:2060a)
+
+> Ibn 'Umar reported Allah's Messenger  as saying that a non-Muslim eats in seven intestines whereas a Muslim eats in one intestine.
+
+See also:
+
+[Sunan Ibn Majah 3256](https://sunnah.com/ibnmajah:3256)
+[Sunan Ibn Majah 3257](https://sunnah.com/ibnmajah:3257)
+[Sunan Ibn Majah 3258](https://sunnah.com/ibnmajah:3258) 
+
 # Slavery
 
 ## Gifting slaves is better than freeing them
@@ -758,37 +794,18 @@ See also:
 
 # Spiritual and mental health 
 
-## Muhammad was susceptible to magic
-
-[Sahih Al Bukhari 3268](https://sunnah.com/bukhari:3268)
-
-> Magic was worked on the Prophet  so that he began to fancy that he was doing a thing which he was not actually doing. One day he invoked (Allah) for a long period and then said, "I feel that Allah has inspired me as how to cure myself. Two persons came to me (in my dream) and sat, one by my head and the other by my feet. One of them asked the other, "What is the ailment of this man?" The other replied, 'He has been bewitched"...
-
-[Sahih Al Bukhari 5765 provides more detail:](https://sunnah.com/bukhari:5765)
-
-> Magic was worked on Allah's Messenger  so that he used to think that he had sexual relations with his wives while he actually had not...
-
-See also:
-
-- [Sahih al Bukhari 6391](https://sunnah.com/bukhari:6391)
-
-## Muhammad was suicidal and wanted to jump of a mountain
-
-[Sahih al Bukhari 91](https://sunnah.com/bukhari/91)
-
-> …the Prophet  became so sad as we have heard that he intended several times to throw himself from the tops of high mountains and every time he went up the top of a mountain in order to throw himself down, Gabriel would appear before him and say, "O Muhammad! You are indeed Allah's Messenger  in truth" whereupon his heart would become quiet and he would calm down and would return home. And whenever the period of the coming of the inspiration used to become long, he would do as before, but when he used to reach the top of a mountain, Gabriel would appear before him and say to him what he had said before.
 
 # Paradise
 
 The Islamic paradise is a very physical place where people will eat fruit that all tastes the same. Then they will not poop, but belch out the excrement as musk.
 
-## All fruit looks the same in paradise
+## All fruit looks the same in paradise {#boring-fruit}
 
 [Quran 2:25](https://quran.com/2/25)
 
 > And give glad tidings to those who believe and do righteous deeds that they will have gardens under which rivers flow. Every time they are provided with a provision of fruit therefrom, they will say, “This is what we were provided with before,” for they will be given fruit that resemble one another. They will have purified spouses, and they will abide therein forever.
 
-## People in paradise don't poop but belch and sweat musk
+## Paradise dwellers don't poop but belch and sweat musk {#belching-musk}
 
 > I heard Allah's Apostle as saying that the inmates of Paradise would eat and drink but would neither spit, nor pass water, nor void excrement, nor suffer catarrah. It was said: Then, what would happen with food? Thereupon he said: They would belch and sweat (and it would be over with their food), and their sweat would be that of musk and they would glorify and praise Allah as easily as you breathe.
 
@@ -797,13 +814,13 @@ Also:
 - [Riyad as-Salihin 1880](https://sunnah.com/riyadussalihin:1880)
 - [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
-## They will have large-eyed houris
+## Paradise dwellers will have large-eyed houris {#houris}
 
 [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
 > ...their wives will be large-eyed maidens...
 
-## They will be 38.4 meters tall
+## Paradise dwellers will be 38.4 meters tall {#60-cubit-people}
 
 [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
@@ -811,7 +828,7 @@ Also:
 
 60 Arabic cubits á 64cm each equals 38.4 meters.
 
-## There are 7 heavens
+## There are 7 heavens {#seven-heavens}
 
 [Quran 2:29](https://quran.com/2/29)
 
@@ -819,7 +836,7 @@ Also:
 
 # The Quran
 
-## How to know if the Quran is inspired
+## How to know if the Quran is inspired {#quran-inspired}
 
 [Quran 2:23](https://quran.com/2/23)[, 24](https://quran.com/2/24)
 
@@ -837,7 +854,7 @@ One miraculous claim made is that the Quran has been perfectly preserved. Howeve
 
 > If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
 
-### Two chapters of the Quran were eaten by a sheep
+### Two chapters of the Quran were eaten by a sheep {#sheep-ate-surahs}
 
 [Sunan Ibn Majah 1944](https://sunnah.com/ibnmajah:1944)
 
@@ -845,7 +862,7 @@ One miraculous claim made is that the Quran has been perfectly preserved. Howeve
 
 How can the Quran be perfectly preserved when two Surah's were literally eaten by a sheep?
 
-## Chapters of the Quran could be ordered on demand
+## Chapters of the Quran could be ordered on demand {#surah-on-demand}
 
 [Sahih al Bukhari 4483](https://sunnah.com/bukhari:4483)
 
@@ -863,7 +880,6 @@ See also [Apostasy](#apostasy)
 # Violence
 
 ## Fighting is obligatory 
-
 
 [Quran 2:216](https://quran.com/2/216)
 
@@ -1006,8 +1022,3 @@ Also:
 
 > The things which annul prayer were mentioned before me (and those were): a dog, a donkey and a woman. I said, "You have compared us (women) to donkeys and dogs...
 
-## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying
-
-[Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
-
-> Narrated 'Aisha: "One of the wives of Allah's Messenger  joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
