@@ -410,6 +410,29 @@ It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and tha
 
 > It was narrated that Ibn 'Abbas said: "The Messenger of Allah turned towards a mountain pass and urinated, until I took pity on him because of the way he parted his legs when he urinated."
 
+### Muhammad prohibited urinating in holes
+
+[Sunnan Abu Dawud 29](https://sunnah.com/abudawud:29)
+
+> The Prophet prohibited to urinate in a hole.
+> Qatadah (a narrator) was asked about the reason for the disapproval of urinating in a hole. He replied: It is said that these (holes) are the habitats of the jinn.
+
+### Muhammad prescribed the drinking of camel urine
+
+[Mishkat al-Masabih 3539](https://sunnah.com/mishkat:3539)
+
+> Anas told that some people of ‘Ukl who had come to the Prophet and accepted Islam found Medina unhealthy, so he ordered them to go to the camels of the sadaqa and drink some of their urine and their milk...
+
+[He later tortured these people to death.](#tortured-to-death)
+
+## Muhammad prohibited urinating towards the qibla
+
+[Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
+
+> "The Messenger of Allah forbade facing the Qiblah when urinating. But I saw him, one year before he died, facing the Qiblah (while urinating)."
+
+Hypocrite.
+
 ## Muhammad would not provide more than one garment each to his wives
 
 When they had menstrual blood stain their garments they would have to clean them with spit.
@@ -435,6 +458,14 @@ See also:
 - [Sahih al Bukhari 232](https://sunnah.com/bukhari:232)
 - [Sahih al Bukhari 229](https://sunnah.com/bukhari:229)
 - [Sahih Muslim 290 (scraping it off with the nail)](https://sunnah.com/muslim:290)
+
+## Muhammad tortured people to death {#tortured-to-death}
+
+[Mishkat al-Masabih 3539](https://sunnah.com/mishkat:3539)
+
+> … So he sent people in pursuit of them, and when they were brought he had their hands and feet cut off and their eyes put out and left them to die without cauterising them to stop the flow of blood. A version says nails were driven into their eyes. Another says he ordered nails to be heated and after having them blinded with them he had them thrown out on the harra, and although they begged for water they were left to die without being given any.
+
+These people had stolen some camels so Muhammad **had their hands and feet cut off and their eyes put out** with white hot nails, and then left them to die from thirst and bleeding out.
 
 ## Muhammad personally stoned a woman
 
@@ -789,6 +820,74 @@ Apparently, chapters could be requested on demand by the followers of Muhammad t
 
 See also [Apostasy](#apostasy)
 
+# Violence
+
+## Fighting is obligatory 
+
+
+[Quran 2:216](https://quran.com/2/216)
+
+> Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know.
+
+Apparently Allah thinks violence is good for humans. 
+
+## Killing unbelievers
+
+[Quran 3:151-152](https://quran.com/3/151-152)
+
+> We will throw terror into the hearts of those who have denied because they associated with Allah (partners) for which He bestowed from on high no authority. And their shelter is the Fire, and how miserable is the dwelling of the unjust! And very truly Allah fulfilled His promise to you as you killed them by His permission, until when you faltered and disagreed with each other about the matter and disobeyed after He had shown you what you love: …
+
+Allah will use **terror** against unbelievers. By what method? By Muslims **killing them by His permission**. And then Allah will burn them in **the Fire** forever. But is this a coincidence? No, if a Muslims had a shred of humanity and **faltered and disagreed with each other about the matter** whether terrorism is good, Allah sees that as them having **disobeyed** him.
+
+## Kill unbelievers wherever you find them
+
+[Quran 4:89](https://quran.com/4:89)
+
+> They wish you would disbelieve as they have disbelieved, so you may all be alike. So do not take them as allies unless they emigrate in the cause of Allah. But if they turn away, then seize them and kill them wherever you find them, and do not take any of them as allies or helpers,
+
+Do not befriend unbelievers but **seize them and kill them wherever you find them**.
+
+[Quran 4:91](https://quran.com/4:91)
+
+> You will find others who wish to be safe from you and their own people. Yet they cannot resist the temptation ˹of disbelief or hostility˺. If they do not keep away, offer you peace, or refrain from attacking you, then seize them and kill them wherever you find them. We have given you full permission over such people.
+
+If someone just wants to **be safe from** Islam and just want to live their life in peace and not be bothered, then **seize them and kill them** too.
+
+## Allah likes terrorists more than peaceful Muslims 
+
+[Quran 4:95](https://quran.com/4:95)
+
+>  Those believers who stay at home—except those with valid excuses1—are not equal to those who strive in the cause of Allah with their wealth and their lives.…
+
+## The penalty for resisting Islam
+
+[Quran 5:33](https://quran.com/5:33
+
+> Indeed, the penalty for those who wage war against Allah and His Messenger and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land**. This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous punishment in the Hereafter.
+
+In case you wage war against Islam, for example by exposing what a horrible ideology it is, your punishment is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land** and then to burn in hell for all eternity.
+
+
+## Beheading unbelievers
+
+[Quran 8:12](https://quran.com/8:12)
+
+> … I will cast horror into the hearts of the disbelievers. So strike their necks and strike their fingertips.”
+
+Ever wondered why Islamic terrorists behead their victims? It's by the book.
+
+## Not fighting for Islam is punished with hell
+
+> O believers! When you face the disbelievers in battle, never turn your backs to them. And whoever does so on such an occasion—unless it is a manoeuvre or to join their own troops—will earn the displeasure of Allah, and their home will be Hell. What an evil destination!
+
+A Muslim who chickens out and turns his back on a disbeliever will go to hell.
+
+## Behead enemies
+
+[Quran 47:4](https://quran.com/47?startingVerse=4&translations=149)
+
+> Thus, when you encounter those who have denied, strike at their necks. Then when you have subjugated them, bind them firmly…
+
 # Weird or miscellaneous 
 
 ## "The eyes are the leather strap of the anus"
@@ -814,6 +913,12 @@ Also:
 [Sahih al Bukhari 278](https://sunnah.com/bukhari:278)
 
 > ...once Moses went out to take a bath and put his clothes over a stone and then that stone ran away with his clothes. Moses followed that stone saying, "My clothes, O stone! My clothes, O stone!...
+
+## Unbelievers visiting a mosque will go to hell
+
+[Quran 9:17,18](https://quran.com/9/17-18)
+
+> Never was it befitting for the polytheists to attend Allah’s mosques while professing their denial. Those—their deeds were nullified, and in the Fire they abide.Surely, Allah’s mosques can only be attended by one who has attained faith in Allah…
 
 # Women
 

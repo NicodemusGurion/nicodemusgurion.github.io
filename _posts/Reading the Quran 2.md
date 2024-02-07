@@ -3,9 +3,7 @@ title: Reading the Quran, Surah 1 Al-Fatihah
 tags [Islam, Quran, Reading the Quran]
 ---
 
-I am reading through the Quran, giving my notes from the perspective of someone reading it without context for the first time *in italics* and my theological notes in regular script underneath. 
-
-This is the second chapter of the Quran, a massive 286 verses! Even the most massive chapter of the Bible has "only" 176 verses. And this is after reading a chapter of 7 verses. And it seems that most chapters of the Quran contains hundreds of verses. This could easily have been up to 5-6 chapters, and would make it much easier to digest. This is probably going to be a long article, and I suspect most articles are going to become obscenely long due to this fact.
+This is the second chapter of the Quran, a massive 286 verses! Even the most massive chapter of the Bible has "only" 176 verses. And this is after reading a chapter of 7 verses. And it seems that most chapters of the Quran contains hundreds of verses. This could easily have been divided up in 5-6 chapters, which would make it much easier to digest. This is probably going to be a long article, and I suspect most articles are going to become obscenely long due to this fact.
 
 [TOC]
 
@@ -15,45 +13,41 @@ This is the second chapter of the Quran, a massive 286 verses! Even the most mas
 
 > Alif-Lãm-Mĩm.
 
-*Yeah, that makes sense. Not. Is this a cryptic message from the intergalactic accountant?*
+We start off strong with some cryptic letters that no one knows what they means. So much for the the Quran being "clear and easy to understand."
 
-Cryptic letters that no one knows what they means. Because the Quran is so "clear and easy to understand."
+## 2: 2-4
 
-## 2: 2
+> This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺, 
+> who believe in the unseen, establish prayer, and donate from what We have provided for them,
+> and who believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you, and have sure faith in the Hereafter.
 
-> This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺,
+Who is the author trying to convince? Himself? Just saying "there's no doubt" doesn't make it so. This is a problem I see many Muslims have: They think that just saying something  means that it's true, without giving any evidence. 
 
-*Insightful... Yes this is a book.*
+It spells out the purpose of the Quran: An instruction manual. Not like the Bible which contains history, wisdom, doctrine, and specific instructions to specific people, the Quran is just a general instruction manual for all times and places.
 
-"This is the book! Because the book said so! And it's the book, so it must be the book!" Basically "Trust me bro." It spells out the purpose of the Quran, an instruction manual. Not like the Bible which contains history, wisdom, doctrine, and specific instructions to specific people, the Quran is just a general instruction manual for all times and places.
+Muslims **establish prayer** and **donate**, which are works. Islam is a works based religion where you try to earn brownie points with Allah. But exactly how many points are sufficient and what your score is is unknown. Therefore a Muslim can do good works all their lives and never be assured of salvation. In Christianity, we are assured of salvation, not because of what *we* do but because of what *Jesus* did. It relieves us of the uncertainty.
 
-## 2: 3
+Those who believe in Muhammad should also believe in **what was revealed before** him, that is the Bible and it's prophets. The Quran tells Muslims to believe the Bible, but the Muslims tells me that the Bible has been corrupted. Whom should I trust? Allah, or the Muslims who say Allah is wrong?
 
-> ...donate from what We have provided for them,
+## 2: 5
 
-Charity is important in Islam because it's a legalistic works righteousness religion, so you need ways to score brownie points. 
-
-## 2: 4
-
-> ...who believe in what has been revealed to you ˹O Prophet˺and what was revealed before you...
-
-Those who believe in Muhammad should also believe in what was revealed before him, that is the Bible and it's prophets. The Quran tells Muslims to believe the Bible, but the Muslims tells me that the Bible has been corrupted. Whom should I trust? Allah, or the Muslims who say Allah is wrong?
-
-## 2: 7
-
+> It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful.
+> Indeed, it is the same for those who have denied: whether you have warned them or have not warned them, they do not believe.
 > Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
 
-Discussing unbelievers, it says that Allah has caused them to not believe and that therefore he will punish them. Bruh!?
+The Quran often use terms like **successful** and **losers** like it was written by a 14 year old. But it emphasises the works righteousness aspect. You are counted as successful or not based on what you do.
 
-## 2: 8-20
+Discussing unbelievers, it says that **Allah has set a seal on their hearts and on their hearing, and over their sight is a veil**, in other words they are predestined to hell, and there is no one to blame but Allah. He dun it.
 
-This sections discuss people who say they believe but do not.
+This sounds like Calvinism, which I often say is the Islam of Christianity. It paints God as an evil, twisted trixter who plays games with people. 
 
-## 2: 10
+## 2: 8-10
 
-> In their hearts is sickness, so Allah increased their sickness, and for them is a painful punishment on account of how they used to lie 
+> And of mankind are those who say, “We have attained faith in Allah and in the Last Day,” but they are not believers.
+> They try to deceive Allah and those who have attained faith, yet they deceive none but themselves, but they are unaware.
+> In their hearts is sickness, so Allah increased their sickness, and for them is a painful punishment on account of how they used to lie .
 
-Discussing fake believers, Allah is not helping them, but making their condition worse, so he can punish them. Unloving.
+Discussing fake believers, Allah is not exactly helping them, but making their condition worse, so he can punish them. Very unloving.
 
 ## 2: 18
 
