@@ -325,7 +325,7 @@ See also:
 
 When they had menstrual blood stain their garments they would have to clean them with spit.
 
-## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying {#discharge-dish}
+### A wife of Muhammad used a dish to catch yellow menstrual discharge while praying {#discharge-dish}
 
 [Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
 
@@ -745,12 +745,6 @@ See also:
 
 > ˹They were˺ created from a spurting fluid, stemming from between the backbone and the ribcage.
 
-## What determines if a child looks like its mother or father?
-
-[Sahih al Bukhari 3329](https://sunnah.com/bukhari:3329)
-
-> If a man has sexual intercourse with his wife and gets discharge first, the child will resemble the father, and if the woman gets discharge first, the child will resemble her.
-
 ## The sun sets in a muddy spring 
 
 [Quran 18:86](https://quran.com/18/86?translations=17)
@@ -762,6 +756,13 @@ See also:
 [Quran 18:86](https://quran.com/71/19?translations=207)
 
 > Allah has laid the earth out as a carpet for you,
+
+## What determines if a child looks like its mother or father?
+
+[Sahih al Bukhari 3329](https://sunnah.com/bukhari:3329)
+
+> If a man has sexual intercourse with his wife and gets discharge first, the child will resemble the father, and if the woman gets discharge first, the child will resemble her.
+
 
 ## The urine of boys and girls are different
 
