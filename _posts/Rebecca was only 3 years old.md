@@ -19,9 +19,11 @@ Notice that in Genesis 22:19, they are living in Beer-Sheba. But in Genesis 23:2
 
 # News didn't travel instantly
 
-In Genesis 22:20-24, Abraham gets news about what has happened with his family. At this point he has not seen his family for at least around 45 to 62 years! (Genesis 12:4) Apparently some unnamed traveler came his way who knew both him and his family, and he summarized what had happened since last. In total, 14 people had been born in the last 45-62 years, among them Rebecca. So it's unreasonable to conclude that Rebecca was born the same day that traveler left home. She had been born for a while, long enough to be well known as a person.
+In Genesis 22:20-24, Abraham gets news about what has happened with his family. At this point he has not seen his family for at least around 40 to 62 years! (Genesis 12:4) Apparently some unnamed traveler came his way who knew both him and his family, and he summarized what had happened since last. In total, 14 people had been born in the last 40-62 years, among them Rebecca. So it's very unreasonable to conclude that Rebecca was born the same day that traveler left home. She was old enough to be known in the community.
 
 # Rebecca was a woman
+
+Genesis 24:16,28 calls Rebecca a "young woman". Some of our Muslim friends seem to have a problem understanding that a 3 year old is not a woman by any means, young or otherwise. 
 
 # Rebecca was strong
 
