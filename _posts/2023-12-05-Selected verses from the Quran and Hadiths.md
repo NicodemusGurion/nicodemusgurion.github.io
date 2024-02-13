@@ -272,13 +272,19 @@ So his men, having a shred of humanity, asked about the possibility of killing n
 
 In the context of warfare in Islamic teachings, the term "hima" is sometimes used to denote a protected zone or area during times of conflict. It signifies a space where civilians and their property are safeguarded from harm. The Prophet Muhammad emphasized the importance of protecting Muslim non-combatants, including women, children, and the elderly, and avoiding unnecessary destruction during warfare. As pointed out in [Sahih al-Bukhari 3012](https://sunnah.com/bukhari:3012), Hima is invalid for non-Muslims though. Muslims do not need to care about innocent bystanders but can just go on killing women and children indiscriminately.
 
+## Fight until unbelievers convert
+
+[Sahih al-Bukhari 6924, 6925](https://sunnah.com/bukhari:6924)
+
+> …Allah's Messenger said, 'I have been ordered to fight the people till they say: 'None has the right to be worshipped but Allah, ' and whoever said, 'None has the right to be worshipped but Allah', Allah will save his property and his life from me…
+
 # Mohammad
 
 Things that Mohammad did.
 
-## Aisha
+## Muhammad was a pedophile
 
-### Mohammed married and had sex with a prepubescent girl {#child-sexual-abuse}
+### Mohammed married 6 year old Aisha {#child-sexual-abuse}
 
 Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
 
@@ -314,6 +320,22 @@ See also:
 [Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
 
 > Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses).
+
+### Muhammad was baffled that other men were not pedophiles like him
+
+[Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
+
+> Narrated Jabir bin Abdullah:
+> When I got married, Allah's Messenger said to me, "What type of lady have you married?" I replied, "I have married a matron' He said, "Why, don't you have a liking for the virgins and for fondling them?" Jabir also said: Allah's Messenger said, "Why didn't you marry a young girl so that you might play with her and she with you?'
+
+### Muhammad believed silence meant consent
+
+[Sahih al-Bukhari 5137](https://sunnah.com/bukhari:5137)
+
+> Narrated Aisha:
+> I said, "O Allah's Messenger! A virgin feels shy." He said, "Her consent is (expressed by) her silence."
+
+A true rape culture.
 
 ## Muhammad and family
 
@@ -686,19 +708,138 @@ See also:
 
 > And you are truly a man of outstanding character.
 
+# Paradise
+
+The Islamic paradise is a very physical place where people will eat fruit that all tastes the same. Then they will not poop, but belch out the excrement as musk.
+
+## All fruit looks the same in paradise {#boring-fruit}
+
+[Quran 2:25](https://quran.com/2/25)
+
+> And give glad tidings to those who believe and do righteous deeds that they will have gardens under which rivers flow. Every time they are provided with a provision of fruit therefrom, they will say, “This is what we were provided with before,” for they will be given fruit that resemble one another. They will have purified spouses, and they will abide therein forever.
+
+## Paradise dwellers don't poop but belch and sweat musk {#belching-musk}
+
+> I heard Allah's Apostle as saying that the inmates of Paradise would eat and drink but would neither spit, nor pass water, nor void excrement, nor suffer catarrah. It was said: Then, what would happen with food? Thereupon he said: They would belch and sweat (and it would be over with their food), and their sweat would be that of musk and they would glorify and praise Allah as easily as you breathe.
+
+Also:
+
+- [Riyad as-Salihin 1880](https://sunnah.com/riyadussalihin:1880)
+- [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
+
+## Paradise dwellers will have large-eyed houris {#houris}
+
+[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
+
+> ...their wives will be large-eyed maidens...
+
+## Paradise dwellers will be 38.4 meters tall {#60-cubit-people}
+
+[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
+
+> ...their form would be alike as one single person after the form of their father (Adam) sixty cubits tall.
+
+60 Arabic cubits á 64cm each equals 38.4 meters.
+
+## There are 7 heavens {#seven-heavens}
+
+[Quran 2:29](https://quran.com/2/29)
+
+> It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens...
+
 # Prayer
 
-## Looking up while praying makes you go blind
+## Looking up while praying makes you go blind {#praying-looking-up-blind}
 
 [Sahih al Bukhari 750](https://sunnah.com/bukhari:750)
 
 > The Prophet said, "What is wrong with those people who look towards the sky during the prayer?" His talk grew stern while delivering this speech and he said, "They should stop (looking towards the sky during the prayer); otherwise their eyesight would be taken away."
 
-## Looking up while praying turns your head into a donkey head
+## Looking up while praying turns your head into a donkey head {#praying-looking-up-donkey}
 
 [Sahih al Bukhari 691](https://sunnah.com/bukhari:691)
 
 > The Prophet said, "Isn't he who raises his head before the Imam afraid that Allah may transform his head into that of a donkey or his figure into that of a donkey?"
+
+# The Quran
+
+## How to know if the Quran is inspired {#quran-inspired}
+
+[Quran 2:23](https://quran.com/2/23)[, 24](https://quran.com/2/24)
+
+> 23 If you are in doubt concerning that which We have sent down upon Our slave, then produce a chapter like it and call upon your helpers other than Allah, if you are truthful.24 But if you did not do it, and you can never do it; then beware of the Fire whose fuel will be people and stones, which is prepared for the disbelievers.
+
+The only claim to inspiration the Quran makes is in its literary excellence, claiming no one can produce a chapter like it. But if you have read it the first thing that strikes you is that literary speaking, it is garbage. Even a mediocre poet would be able to write a chapter far more excellent than most chapters of the Quran.
+
+## The Quran is not perfectly preserved
+
+One miraculous claim made is that the Quran has been perfectly preserved. However the Quran and Hadiths contradict this.
+
+### Allah foretold that the Quran wouldn’t be perfectly preserved 
+
+[Quran 2:106](https://quran.com/2/106)
+
+> If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
+
+### Two chapters of the Quran were eaten by a sheep {#sheep-ate-surahs}
+
+[Sunan Ibn Majah 1944](https://sunnah.com/ibnmajah:1944)
+
+> It was narrated that 'Aishah said “The Verse of stoning and of breastfeeding an adult ten times was revealed, and the paper was with me under my pillow. When the Messenger of Allah died, we were preoccupied with his death, and a tame sheep came in and ate it.”
+
+How can the Quran be perfectly preserved when two Surah's were literally eaten by a sheep?
+
+## Chapters of the Quran could be ordered on demand {#surah-on-demand}
+
+[Sahih al Bukhari 4483](https://sunnah.com/bukhari:4483)
+
+> I also said, 'O Allah's Messenger ! Good and bad persons visit you! Would that you ordered the Mothers of the believers to cover themselves with veils.' So the Divine Verses of Al-Hijab (i.e. veiling of the women) were revealed. 
+
+Apparently, chapters could be requested on demand by the followers of Muhammad to suit their personal preferences. How convenient.
+
+## Denying a Quran verse is a capital offense 
+
+> It was narrated from Ibn'Abbas that the Messenger of Allah said:
+> “Whoever denies a Verse of the Qur'an, it is permissible to strike his neck (i.e., execute him) 
+
+See also [Apostasy](#apostasy)
+
+# Rape
+
+## It is ok to rape captured women
+
+[Sunan Abi Dawud 2155](https://sunnah.com/abudawud:2155)
+
+> Abu Sa’id Al Khudri said “The Apostle of Allaah sent a military expedition to Awtas on the occasion of the battle of Hunain. They met their enemy and fought with them. They defeated them and took them captives. Some of the Companions of Apostle of Allah were reluctant to have relations with the female captives because of their pagan husbands. So, Allaah the exalted sent down the Qur’anic verse “And all married women are forbidden unto you save those captives whom your right hand posses.” This is to say that they are lawful for them when they complete their waiting period.
+
+**Those captives whom your right hand posses** means captives taken in war. The Muslims at this battle, horny perverts though they were, at least had the basic human decency of not raping women in front of their husbands. So this verse that Muhammad conveniently came up with makes it permissible for Muslim men to rape women that they take captive.
+
+[Quran 4:24](https://quran.com/4/24)
+
+> Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession...
+
+## Muslims don't have to worry about getting their rape victims pregnant
+
+[Sahih Muslim 1438a](https://sunnah.com/muslim:1438a)
+
+> We went out with Allah's Messenger on the expedition to the Bi'l-Mustaliq and took captive some excellent Arab women; and we desired them, for we were suffering from the absence of our wives, (but at the same time) we also desired ransom for them. So we decided to have sexual intercourse with them but by observing [interrupted coitus]. But we said: We are doing an act whereas Allah's Messenger is amongst us; why not ask him? So we asked Allah's Messenger, and he said: It does not matter if you do not do it, for every soul that is to be born up to the Day of Resurrection will be born.
+
+Not only are Muslims allowed to rape women, but can just discard them like trash and not bother about them becoming pregnant.
+
+# Salvation 
+
+How are Muslims saved?
+
+## Ransomed from hell by Jews and Christians
+
+[Sahih Muslim 2767 a](https://sunnah.com/muslim:2767a)
+
+> Abu Musa' reported that Allah's Messenger said:
+> When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire.
+
+Christianity teaches that Jesus is the perfect one who does not deserve hellfire but took this punishment in stead of those who have faith in him. Some Muslims think this is unjust saying that it's wrong that someone should take the punishment for someone else's sin. However here, Allah will let Jews and Christians take the punishment for the sins of Muslims. Is that just, though?
+
+Als this implies that Jews and Christians as not sinners deserving of hell, but that Muslims are sinners deserving of hell. Otherwise, if the Jews and Christians were already in hell, the exchange could not be made.
 
 # Satan
 
@@ -708,7 +849,7 @@ See also:
 
 > Narrated 'Abdullah: A person was mentioned before the Prophet and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet said, "Satan urinated in his ears."
 
-## Satan farts to not hear the call to prayer 
+## Satan farts to not hear the call to prayer {#satan-farts}
 
 [Sahih Muslim 389a](https://sunnah.com/muslim:389a)
 
@@ -791,92 +932,6 @@ See also:
 [Sahih Muslim 999](https://sunnah.com/muslim:999)
 
 > Maimuna bint Harith reported that she set free a slave-girl during the lifetime of the Messenger of Allah and she made a mention of that to the Messenger of Allah and he said: Had you given her to your maternal uncles, you would have a greater reward.
-
-
-# Spiritual and mental health 
-
-
-# Paradise
-
-The Islamic paradise is a very physical place where people will eat fruit that all tastes the same. Then they will not poop, but belch out the excrement as musk.
-
-## All fruit looks the same in paradise {#boring-fruit}
-
-[Quran 2:25](https://quran.com/2/25)
-
-> And give glad tidings to those who believe and do righteous deeds that they will have gardens under which rivers flow. Every time they are provided with a provision of fruit therefrom, they will say, “This is what we were provided with before,” for they will be given fruit that resemble one another. They will have purified spouses, and they will abide therein forever.
-
-## Paradise dwellers don't poop but belch and sweat musk {#belching-musk}
-
-> I heard Allah's Apostle as saying that the inmates of Paradise would eat and drink but would neither spit, nor pass water, nor void excrement, nor suffer catarrah. It was said: Then, what would happen with food? Thereupon he said: They would belch and sweat (and it would be over with their food), and their sweat would be that of musk and they would glorify and praise Allah as easily as you breathe.
-
-Also:
-
-- [Riyad as-Salihin 1880](https://sunnah.com/riyadussalihin:1880)
-- [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
-
-## Paradise dwellers will have large-eyed houris {#houris}
-
-[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
-
-> ...their wives will be large-eyed maidens...
-
-## Paradise dwellers will be 38.4 meters tall {#60-cubit-people}
-
-[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
-
-> ...their form would be alike as one single person after the form of their father (Adam) sixty cubits tall.
-
-60 Arabic cubits á 64cm each equals 38.4 meters.
-
-## There are 7 heavens {#seven-heavens}
-
-[Quran 2:29](https://quran.com/2/29)
-
-> It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens...
-
-# The Quran
-
-## How to know if the Quran is inspired {#quran-inspired}
-
-[Quran 2:23](https://quran.com/2/23)[, 24](https://quran.com/2/24)
-
-> 23 If you are in doubt concerning that which We have sent down upon Our slave, then produce a chapter like it and call upon your helpers other than Allah, if you are truthful.24 But if you did not do it, and you can never do it; then beware of the Fire whose fuel will be people and stones, which is prepared for the disbelievers.
-
-The only claim to inspiration the Quran makes is in its literary excellence, claiming no one can produce a chapter like it. But if you have read it the first thing that strikes you is that literary speaking, it is garbage. Even a mediocre poet would be able to write a chapter far more excellent than most chapters of the Quran.
-
-## The Quran is not perfectly preserved
-
-One miraculous claim made is that the Quran has been perfectly preserved. However the Quran and Hadiths contradict this.
-
-### Allah foretold that the Quran wouldn’t be perfectly preserved 
-
-[Quran 2:106](https://quran.com/2/106)
-
-> If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
-
-### Two chapters of the Quran were eaten by a sheep {#sheep-ate-surahs}
-
-[Sunan Ibn Majah 1944](https://sunnah.com/ibnmajah:1944)
-
-> It was narrated that 'Aishah said “The Verse of stoning and of breastfeeding an adult ten times was revealed, and the paper was with me under my pillow. When the Messenger of Allah died, we were preoccupied with his death, and a tame sheep came in and ate it.”
-
-How can the Quran be perfectly preserved when two Surah's were literally eaten by a sheep?
-
-## Chapters of the Quran could be ordered on demand {#surah-on-demand}
-
-[Sahih al Bukhari 4483](https://sunnah.com/bukhari:4483)
-
-> I also said, 'O Allah's Messenger ! Good and bad persons visit you! Would that you ordered the Mothers of the believers to cover themselves with veils.' So the Divine Verses of Al-Hijab (i.e. veiling of the women) were revealed. 
-
-Apparently, chapters could be requested on demand by the followers of Muhammad to suit their personal preferences. How convenient.
-
-## Denying a Quran verse is a capital offense 
-
-> It was narrated from Ibn'Abbas that the Messenger of Allah said:
-> “Whoever denies a Verse of the Qur'an, it is permissible to strike his neck (i.e., execute him) 
-
-See also [Apostasy](#apostasy)
 
 # Violence
 
@@ -976,6 +1031,12 @@ Also:
 [Quran 9:17,18](https://quran.com/9/17-18)
 
 > Never was it befitting for the polytheists to attend Allah’s mosques while professing their denial. Those—their deeds were nullified, and in the Fire they abide.Surely, Allah’s mosques can only be attended by one who has attained faith in Allah…
+
+## Muslims living abroad goes to hell
+
+> When the angels seize the souls of those who have wronged themselves — scolding them, “What was wrong with you?” they will reply, “We were oppressed in the land.” The angels will respond, “Was Allah’s earth not spacious enough for you to emigrate?” It is they who will have Hell as their home—what an evil destination!
+
+When muslims who live outside of Islamic countries (i.e. them being **opressed in the land**) die, the angel of death will scold them for not living in an Islamic country (i.e. **Allah’s earth**), and send them to hell.
 
 # Women
 

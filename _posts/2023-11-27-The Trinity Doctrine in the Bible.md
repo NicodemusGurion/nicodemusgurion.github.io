@@ -311,6 +311,12 @@ Thos proves the unity and plurality of God.
 
 [See The Cloud Rider](#the-cloud-rider)
 
+## Isaiah 40: 8
+
+> The grass withers, the flower fades, but the word of our God will stand forever.
+
+The word of God will never pass away. In Luke 21:33 Jesus says "Heaven and earth will pass away, but my words will not pass away." 
+
 ## Isaiah 40: 10 
 
 > Behold, the Lord GOD comes with might, and his arm rules for him; behold, his reward is with him, and his recompense before him.
@@ -576,11 +582,23 @@ When put under oath, Jesus reveals that he is [The Cloud Rider](#the-cloud-rider
 
 When the scribes get upset and accuse Jesus of blasphemy because Jesus forgives sins. This is something only God can do. See [Daniel 9:9](#daniel-9-9), [Psalm 103:2,3](#psalm-103-2-3), [Psalm 130:3,4](#psalm-130-3-4) and [Isaiah 43:25](#isaiah-43-25) for example. This proves the deity of Jesus.
 
+## Luke 8:39
+
+> “Return to your home, and declare **how much God has done for you**.” And he went away, proclaiming throughout the whole city **how much Jesus had done for him.**
+
+The man should declare how much God has done for him, and declares how much Jesus has done for him. This man, and this verse, puts equality between Jesus and God.
+
 ## Luke 21: 27 
 
 > And then they will see the Son of Man **coming in a cloud** with power and great glory.
 
 Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
+
+## Luke 21: 33
+
+> Heaven and earth will pass away, but my words will not pass away.
+
+Isaiah 40:8 shows that it is the word of God will never pass away. Jesus is here claiming equality with God.
 
 ## John 1: 1 
 
