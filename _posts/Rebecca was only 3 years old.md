@@ -3,11 +3,11 @@ title: \"Rebecca was only 3 years old when Isaac married her\"
 tags: [Islam, Apologetics, FAQ]
 ---
 
-This is a common claim by Islamic Dawah people, and it is of course completely false.
+It is a common claim by Islamic Dawah people that Rebecca was only 3 years old when marrying Isaac. The reason they make this utter nonsense claim is to justify that [the prophet Muhammad married a 6 year old girl](/quran-and-hadiths#child-sexual-abuse), as if that makes it alright.
 
 The argument goes that Isaac was born when his mother was 90, and his mother Sarah died at the age of 127, when Isaac was 37 years old. (Genesis 17:17;21:2-5;23:1) Before she died,  Genesis 22:20-24 mentions that Bethuel became father to Rebecca. And since Isaac was 40 when he married Rebecca, this would mean Rebecca was only 3 years old when Isaac married her. (Genesis 25:20)
 
-This is of course full of inaccuracies and false assumptions.
+This is of course full of inaccuracies and false assumptions, because without lies Islam dies.
 
 # We don't know the interval between Genesis 22 and 23
 
@@ -23,8 +23,14 @@ In Genesis 22:20-24, Abraham gets news about what has happened with his family. 
 
 # Rebecca was a woman
 
-Genesis 24:16,28 calls Rebecca a "young woman". Some of our Muslim friends seem to have a problem understanding that a 3 year old is not a woman by any means, young or otherwise. 
+Genesis 24:16,28 calls Rebecca a "bethula" or "young woman". The word "Bethula" signifies an unmarried woman, which means it is someone who is of marriagable age. Some of our Muslim friends seem to have a problem understanding this fact, but a 3 year old is not of marriageable age.
+
+In Genesis 24:56,57 they ask her if she wants to go with Abraham's servant to be married to Isaac. What parent or guardian would let a 3 year old decide such a thing?
+
+In fact if you read the accound in Genesis 24, there is not a single thing indicating that Rebecca is a child. Everything she says and does and the way people refer to her and speak to her shows that she is an adult woman.
 
 # Rebecca was strong
+
+When Abraham sent his servant to find a wife for Isaac, he prayed to God that whichever young woman would give him a drink and watered his camels would be the one chosen by God. Rebecca not only gave him a drink, but also watered his camels. Abrahams servand had ten camels. (Genesis 24:10) And [a camel can drink 200 L (53 US gal) of water in three minutes](https://en.wikipedia.org/wiki/Camel). That's 2000 liters or kilograms of water. And Rebecca went back and forth to the well, carrying 2000 kilograms of water in her jar. And our muslim friends would have us believe that a 3 year old would be able to do that. Such a 3 year old must be built like the offspring of Arnols Schwarsenegger and a tank. I don't even think a 3 year old could lift a single jar of water. So the idea that Rebecca was 3 years old is insane to say the least.
 
 # Christians don't follow Isaac as an example
