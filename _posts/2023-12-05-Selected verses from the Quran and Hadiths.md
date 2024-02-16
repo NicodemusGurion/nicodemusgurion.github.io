@@ -558,6 +558,10 @@ See also:
 > Abu Huraira … said:
 > "Allah’s Messenger … was white, as if he were fashioned from silver, with loosely curled hair."
 
+Also:
+
+- [Sahih Muslim 2343 a](https://sunnah.com/muslim:2343a)
+
 ### Muhammad was very average looking {#average-looks}
 
 [Jami` at-Tirmidhi 3623](https://sunnah.com/tirmidhi:3623)
@@ -653,53 +657,6 @@ Also:
 > It was narrated from 'Aisha that the Prophet heard some sounds and said: “What is this noise?” They said: “Palm trees that are being pollinated.” He said: “If they did not do that it would be better.” So they did not pollinate them that year, and the dates did not mature properly. they mentioned that to the Prophet and he said: “If it is one of the matters of your religion, then refer to me.”
 
 Muhammad's incompetence caused the harvest to almost fail, yet he had the gall to tell people to consult him.
-
-## Muhammad was racist 
-
-### Muhammad traded black slaves
-
-[Sahih Muslim 1602](https://sunnah.com/muslim:1602)
-
-> Jabir … reported: There came a slave and pledged allegiance to Allah's Apostle on migration; [who] did not know that he was a slave. Then there came his master and demanded him back, whereupon Allah's Apostle said: Sell him to me. And he bought him for two black slaves…
-
-It seems the exchange rate is two black slaves for one Muslim slave.
-
-This is from chapter 23 which heading  reads:
-
-> Chapter 23: The permissibility of **selling animals for animals of the same kind and of different quality**
-
-## Black people are created for hell
-
-> …“God created Adam when He created him and struck his right shoulder and brought forth his offspring white like small ants. And he struck his left shoulder and brought forth his offspring black as though they were charcoal. Then He said to the party on his right side, ‘To paradise, and I do not care’ and He said to the party in his left shoulder, ‘To hell, and I do not care’.”
-
-According to Muhammed, white people are destined for heaven and black people are destined for hell.
-
-## Description of Turks 
-
-[Sahih al-Bukhari 2928](https://sunnah.com/bukhari:2928)
-
-> …The Hour will not be established until you fight with the Turks; people with small eyes, red faces, and flat noses. Their faces will look like shields coated with leather…
-
-
-## Ethiopians have heads like raisins
-
-[Sahih al-Bukhari 693](https://sunnah.com/bukhari:693)
-
-> "Listen and obey (your chief) even if an Ethiopian whose head is like a raisin were made your chief."
-
-## Muhammad didn't like black dogs
-
-[Sunan Ibn Majah 3205](https://sunnah.com/ibnmajah:3205)
-
-> Were it not that dogs form one of the communities, I would have commanded that they be killed. But kill those that are all black...
-
-## Black people symbolize disease
-
-[Sahih al-Bukhari 7039](https://sunnah.com/bukhari:7039)
-
-> …I saw in a dream a black woman with unkempt hair going out of Medina and settling at Mahai'a. I interpreted that as a symbol of the epidemic of Medina being transferred to Mahai'a…
-
-When Muhammad sees a black woman in a dream he automatically assumes she represents an epidemic.
 
 ## The death of Muhammad
 
@@ -894,6 +851,59 @@ Apparently, chapters could be requested on demand by the followers of Muhammad t
 
 See also [Apostasy](#apostasy)
 
+# Racism
+
+## Muhammad traded black slaves
+
+[Sahih Muslim 1602](https://sunnah.com/muslim:1602)
+
+> Jabir … reported: There came a slave and pledged allegiance to Allah's Apostle on migration; [who] did not know that he was a slave. Then there came his master and demanded him back, whereupon Allah's Apostle said: Sell him to me. And he bought him for two black slaves…
+
+It seems the exchange rate is two black slaves for one Muslim slave.
+
+This is from chapter 23 which heading  reads:
+
+> Chapter 23: The permissibility of **selling animals for animals of the same kind and of different quality**
+
+## Black people are created for hell
+
+> …“God created Adam when He created him and struck his right shoulder and brought forth his offspring white like small ants. And he struck his left shoulder and brought forth his offspring black as though they were charcoal. Then He said to the party on his right side, ‘To paradise, and I do not care’ and He said to the party in his left shoulder, ‘To hell, and I do not care’.”
+
+According to Muhammed, white people are destined for heaven and black people are destined for hell.
+
+## Description of Turks 
+
+[Sahih al-Bukhari 2928](https://sunnah.com/bukhari:2928)
+
+> …The Hour will not be established until you fight with the Turks; people with small eyes, red faces, and flat noses. Their faces will look like shields coated with leather…
+
+
+## Ethiopians have heads like raisins
+
+[Sahih al-Bukhari 693](https://sunnah.com/bukhari:693)
+
+> "Listen and obey (your chief) even if an Ethiopian whose head is like a raisin were made your chief."
+
+## Muhammad didn't like black dogs
+
+[Sunan Ibn Majah 3205](https://sunnah.com/ibnmajah:3205)
+
+> Were it not that dogs form one of the communities, I would have commanded that they be killed. But kill those that are all black...
+
+## Black people symbolize disease
+
+[Sahih al-Bukhari 7039](https://sunnah.com/bukhari:7039)
+
+> …I saw in a dream a black woman with unkempt hair going out of Medina and settling at Mahai'a. I interpreted that as a symbol of the epidemic of Medina being transferred to Mahai'a…
+
+When Muhammad sees a black woman in a dream he automatically assumes she represents an epidemic.
+
+## On judgement day, people till turn white or black
+
+[Quran 3:106-107](https://quran.com/3/106-107)
+
+> on a day when some faces are whitened and some faces are blackened. So as for those whose faces were1blackened: “Did you deny after having attained faith?” Then taste the punishment on account of what you used to deny. And as for those whose faces were whitened—(they are) in Allah’s mercy; therein they abide.
+
 # Rape
 
 ## It is ok to rape captured women
@@ -956,6 +966,10 @@ Als this implies that Jews and Christians as not sinners deserving of hell, but 
 [Sahih Muslim 2114](https://sunnah.com/muslim:2114)
 
 > The bell is the musical instrument of the Satan.
+
+Funny since in [Sunan an-Nasa'i 933](https://sunnah.com/nasai:933) Muhammad says that his revelations were often accompanied by the ringing of a bell:
+
+> Al-Harith bin Hisham asked the Messenger of Allah: 'How does the Revelation come to you?' He said: 'Like the ringing of a bell, and when it departs I remember what he said, and this is the hardest on me…
 
 See also:
 
@@ -1093,6 +1107,19 @@ A Muslim who chickens out and turns his back on a disbeliever will go to hell.
 
 > Thus, when you encounter those who have denied, strike at their necks. Then when you have subjugated them, bind them firmly…
 
+## Plundering is ok if no one is watching
+
+[Sunan Ibn Majah 3936](https://sunnah.com/ibnmajah:3936)
+
+> …the plunderer, at the time he is plundering with the people looking on, is not a believer.
+
+[Sunan Ibn Majah 3935](https://sunnah.com/ibnmajah:3935)
+
+> “Whoever plunders openly is not one of us.”
+
+So plundering only makes a Muslim a nonbeliever under the condition that they do it openly when someone is watching. If it's done in secret it's no problem.
+
+
 # Weird or miscellaneous 
 
 ## "The eyes are the leather strap of the anus"
@@ -1176,7 +1203,13 @@ Muhammad said to kill specific snakes…
 - [Sahih Muslim 2236 b](https://sunnah.com/muslim:2236b)
 - [Mishkat al-Masabih 4137](https://sunnah.com/mishkat:4137)
 
+## Deathbed convert couldn't be buried
 
+[Sunan Ibn Majah 3930](https://sunnah.com/ibnmajah:3930)
+
+> …[In battle, a] man … attacked an idolator man with a spear, and when he was defeated he said: “I bear witness that none has the right to be worshipped but Allah, I am a Muslim.” But he stabbed him and killed him…We buried him, but the following morning he was on the surface of the earth. They said: “Perhaps an enemy of his disinterred him.” So we buried him (again) and told our slaves to stand guard. But the following morning he was on the surface of the earth again then we said: ‘Perhaps the slaves dozed off.’ So we buried him (again) and stood guard ourselves, but the following morning he was on the surface of the earth (again). So we threw him into one of these mountain passes.’”
+
+Apparently it was impossible to keep this deathbed convert in the ground, so they did the only sensible thing and **threw him into one of these mountain passes**. As you do.
 
 # Women
 
