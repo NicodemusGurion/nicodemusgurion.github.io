@@ -9,6 +9,8 @@ Some selected Quran and Hadith verses.
 
 [TOC]
 
+<small> Unless otherwise mentioned quotations are from Muhammad. Ellipsis (…) has been used to cut down on the volume of text; See original Hadith for full text. </small>
+
 # Adam
 
 ## Adam was 60 cubits tall
@@ -25,7 +27,7 @@ Some selected Quran and Hadith verses.
 
 [Al Adan Al Mufrad 645](https://sunnah.com/adab:645)
 
-> Abu Hurayra reported that the Messenger of Allah, may Allah bless him and grant him peace, said, "If anyone prays once on me, Allah will pray ten times on him.'"
+> [Muhammad] said, "If anyone prays once on me, Allah will pray ten times on him.'"
 
 Who is Allah praying to?
 
@@ -48,6 +50,8 @@ Apparently there are things that surprise Allah. How could someone supposedly al
 [Quran 20:5](https://quran.com/20/5)
 
 > the Most Compassionate, Who is˺ established on the Throne.
+
+Allah sits on a throne in heaven.
 
 ## Allah comes down every night
 
@@ -79,7 +83,7 @@ This is also a verse that proves Islam is historically false, for the crucifixio
 
 [Sahih al Bukhari 5480](https://sunnah.com/bukhari:5480)
 
-> Narrated Ibn Umar: The Prophet said, "Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds."
+> "Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds."
 
 # Apostasy 
 
@@ -87,7 +91,6 @@ This is also a verse that proves Islam is historically false, for the crucifixio
 
 [Sunan Ibn Majah 2535](https://sunnah.com/ibnmajah:2535)
 
-> It was narrated from Ibn'Abbas that the Messenger of Allah said:
 > “Whoever changes his religion, execute him.”
 
 - [Sunan Ibn Majah 2533](https://sunnah.com/ibnmajah:2533)
@@ -125,39 +128,39 @@ Historical and factual errors
 
 [Quran 9:30](https://quran.com/9/31)
 
-> The Jews say, “Ezra is the son of Allah,” and the Christians say, “The Messiah is the son of Allah.” These are mere words that they utter, imitating the words of the disbelievers before them. May Allah ruin them; how can they be deluded?
+> The Jews say, “Ezra is the son of Allah,” …
 
-No Jews have ever claimed that Ezra is the son of God. How deluded is Muhammad to believe in such nonsense?
+No Jews have ever claimed that Ezra is the son of God. Is it Allah or Muhammad who is ignorant of this fact?
 
 ## Christians worship Mary
-
-*Christians don't worship Mary. But Allah doesn't know this*.
 
 [Quran 5:116](https://quran.com/5/116)
 
 > And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?”...
 
-## Mary the mother of Jesus is the brother of Aaron {#who-is-mary}
+Christians don't worship Mary. But Allah doesn't know this.
 
-*Mary the mother of Jesus lived in first century Judaea/Galilee. Mariam the sister of Aaron lived about 1500 years before her in Egypt/Sinai. Allah does not know that these are two different people.*
+## Mary the mother of Jesus is the brother of Aaron {#who-is-mary}
 
 [Quran 19:27,28](https://quran.com/19?startingVerse=27)
 
 > Then she returned to her people, carrying him [Jesus]. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing! O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”
 
+Mary the mother of Jesus lived in first century Judaea/Galilee. Mariam the sister of Aaron lived about 1500 years before her in Egypt/Sinai. Allah does not know that these are two different people.
+
 ## Pharao ordered Haman to build the Tower of Babel {#pharao-haman-tower}
 
 [Quran 40:36](https://quran.com/40?startingVerse=36)
 
-> Pharaoh ordered, “O Hamân! Build me a high tower so I may reach the pathways leading up to the heavens and look for the God of Moses, although I am sure he is a liar.” And so Pharaoh’s evil deeds were made so appealing to him that he was hindered from the ˹Right˺ Way. But the plotting of Pharaoh was only in vain.
+> Pharaoh ordered, “O Hamân! Build me a high tower so I may reach the pathways leading up to the heavens and look for the God of Moses, although I am sure he is a liar.” …
 
-The Pharao was the king of Egypt. Haman was an Amalekite man, an enemy of Israel, who lived in the Persian empire in the 5th century BC. And the Tower of Babel was built on the plains of Mesopotamia in the 24th century BC. This is the worst imaginable mishmash of stories and characters.
+The Pharao was the king of Egypt. Haman was an Amalekite man, an enemy of Israel, who lived in the Persian empire in the 5th century BC, a thousand years later. And the Tower of Babel was built on the plains of Mesopotamia in the 24th century BC, almost a thousand years before. This is the worst imaginable mishmash of stories and characters picked from a time frame of two thousand years.
 
 ## Pharao threatened people with crucifixion {#egyptian-crucifixion}
 
 [Quran 7:123,124](https://quran.com/7/123-124)
 
-> Pharaoh threatened, “How dare you believe in him before I give you permission? This must be a conspiracy you devised in the city to drive out its people, but soon you will see. I will certainly cut off your hands and feet on opposite sides, then crucify you all.”
+> Pharaoh threatened, … "I will certainly cut off your hands and feet on opposite sides, then crucify you all.”
 
 Crucifixion was never used by ancient Egypt, and did not become a common form of execution by the Romans in the 6th century BC.
 
@@ -170,7 +173,7 @@ See also:
 
 [Quran 20:85](https://quran.com/20/85)
 
-> Allah responded, “We have indeed tested your people in your absence, and the Samaritan has led them astray .
+> Allah responded, “We have indeed tested your people in your absence, and the Samaritan has led them astray.
 
 The Samaritan people did not exist until at least a thousand years after the event where the Israelites were misled into worshipping the golden calf.
 
@@ -190,13 +193,13 @@ In other words, the Quran is historically false.
 
 [Sunan Ibn Majah 308](https://sunnah.com/ibnmajah:308) 
 
-> It was narrated that 'Umar said: "The Messenger of Allah saw me urinating while standing, and he said: 'O 'Umar, do not urinate standing up.' So I never urinated whilst standing after that."
+> … 'Umar said: "The Messenger of Allah saw me urinating while standing, and he said: 'O 'Umar, do not urinate standing up.' So I never urinated whilst standing after that."
 
 ## Muslims aren’t allowed to urinate in water {#no-urinating-in-water}
 
 [Sunan Ibn Majah 343](https://sunnah.com/ibnmajah:343) 
 
-> It was narrated from Jabir that: The Messenger of Allah forbade urinating into standing water.
+> …The Messenger of Allah forbade urinating into standing water.
 
 So it seems our Muslim brothers can not urinate into a water toilet, especially not standing up.
 
@@ -208,9 +211,7 @@ Also:
 
 [Sahih al-Bukhari 174](https://sunnah.com/bukhari:174)
 
-> And narrated Hamza bin 'Abdullah:
-> My father said. "During the lifetime of Allah's Apostle, the dogs used to urinate, and pass through the mosques (come and go), nevertheless they never used to sprinkle water on it (urine of the dog.)"
-
+> And narrated Hamza bin 'Abdullah: My father said. "During the lifetime of Allah's Apostle, the dogs used to urinate, and pass through the mosques (come and go), nevertheless they never used to sprinkle water on it (urine of the dog.)"
 
 # Jews
 
@@ -218,7 +219,7 @@ Also:
 
 [Quran 5:32](https://quran.com/5/32)
 
-> That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity.1 ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
+> That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
 
 This verse is often quoted by Muslims doing Taqqiya to say that Islam is peaceful. But as you can see, it is a command directed to the people of Israel, not Muslims. 
 
@@ -228,7 +229,7 @@ Also notice that this command has the stipulation "unless as a punishment for mu
 
 And what "land" is it talking about? Well, the land of the Jews, Israel, or Palestine as it was later renamed. 
 
-*So according to the Quran, the Jews has the right to execute capital punishment on those spreading mischief in the land of Israel (Palestine).*
+*So according to the Quran, the Jews has the right to execute capital punishment on those spreading mischief in the land of Israel.*
 
 But wait, it gets better. The next verse is what applies to Muslims:
 
@@ -242,7 +243,7 @@ This is directed to Muslims, how to deal with those who "who wage war against Al
 
 [Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
 
-> Allah's Messenger said, "The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
+> …"The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
 
 # Jihad
 
@@ -258,15 +259,15 @@ This is the future of your country if you invite Islam: They will sooner or late
 
 [Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
 
-> Allah's Messenger said, "The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
+> …"The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
 
 ## Muslims can indiscriminately kill innocent civilians 
 
 [Sahih al-Bukhari 3012](https://sunnah.com/bukhari:3012)
 
-> The Prophet … was asked whether it was permissible to attack the pagan warriors at night with the probability of exposing their women and children to danger. The Prophet replied, "They (i.e. women and children) are from them (i.e. pagans)." I also heard the Prophet saying, "The institution of Hima (sanctuary) is invalid except for Allah and His Apostle."
+> The Prophet … was asked whether it was permissible to attack the pagan warriors at night with the probability of exposing their women and children to danger. The Prophet replied, "They (i.e. women and children) are from them (i.e. pagans)." I also heard the Prophet saying, "[The institution of Hima (sanctuary)](#hima) is invalid except for Allah and His Apostle."
 
-So his men, having a shred of humanity, asked about the possibility of killing non-combatant women and children. Muhammad said that it doesn't matter, they're all the same, so it's ok to kill innocent civilians. 
+So his men, having a shred of humanity, asked about the possibility of killing non-combatant women and children. Muhammad said that it doesn't matter, they're all the same, so it's ok to kill innocent civilians. No mercy.
 
 ### "Hima"
 
@@ -276,8 +277,14 @@ In the context of warfare in Islamic teachings, the term "hima" is sometimes use
 
 [Sahih al-Bukhari 6924, 6925](https://sunnah.com/bukhari:6924)
 
-> …Allah's Messenger said, 'I have been ordered to fight the people till they say: 'None has the right to be worshipped but Allah, ' and whoever said, 'None has the right to be worshipped but Allah', Allah will save his property and his life from me…
+> …[Muhammad] said: 'I have been ordered to fight the people till they say: 'None has the right to be worshipped but Allah, ' and whoever said, 'None has the right to be worshipped but Allah', Allah will save his property and his life from me…
 
+Also: 
+
+- [Sunan Ibn Majah 3927](https://sunnah.com/ibnmajah:3927)
+- [Sunan Ibn Majah 3928](https://sunnah.com/ibnmajah:3928)
+- [Sunan Ibn Majah 3929](https://sunnah.com/ibnmajah:3929)
+- 
 # Mohammad
 
 Things that Mohammad did.
@@ -286,8 +293,6 @@ Things that Mohammad did.
 
 ### Mohammed married 6 year old Aisha {#child-sexual-abuse}
 
-Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
-
 [Sunna an Nasa'i 3378](https://sunnah.com/nasai:3378)
 
 > "The Messenger of Allah married me when I was six, and consummated the marriage with me when I was nine, and I used to play with dolls."
@@ -295,6 +300,8 @@ Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her,
 [Sahih al Bukhari 6130](https://sunnah.com/bukhari:6130)
 
 > Narrated 'Aisha: I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger  used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was **a little girl, not yet reached the age of puberty.**) (Fath-ul-Bari page 143, Vol.13)
+
+Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
 
 See also:
 
@@ -313,27 +320,25 @@ See also:
 
 [Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
 
-> It was narrated that 'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
+> …'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
 
 ### Muhammad used to fondle Aisha when she was menstruating {#fondling-aisha}
 
 [Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
 
-> Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses).
+> Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. …
 
 ### Muhammad was baffled that other men were not pedophiles like him
 
 [Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
 
-> Narrated Jabir bin Abdullah:
-> When I got married, Allah's Messenger said to me, "What type of lady have you married?" I replied, "I have married a matron' He said, "Why, don't you have a liking for the virgins and for fondling them?" Jabir also said: Allah's Messenger said, "Why didn't you marry a young girl so that you might play with her and she with you?'
+> Narrated Jabir bin Abdullah: When I got married, Allah's Messenger said to me, "What type of lady have you married?" I replied, "I have married a matron' He said, "Why, don't you have a liking for the virgins and for fondling them?" Jabir also said: Allah's Messenger said, "Why didn't you marry a young girl so that you might play with her and she with you?'
 
 ### Muhammad believed silence meant consent
 
 [Sahih al-Bukhari 5137](https://sunnah.com/bukhari:5137)
 
-> Narrated Aisha:
-> I said, "O Allah's Messenger! A virgin feels shy." He said, "Her consent is (expressed by) her silence."
+> Narrated Aisha: I said, "O Allah's Messenger! A virgin feels shy." He said, "Her consent is (expressed by) her silence."
 
 A true rape culture.
 
@@ -366,6 +371,12 @@ Instead they had to go to Abu Bakr to get what they needed to survive as a chari
 [Sunnan Abu Dawud 2976](https://sunnah.com/abudawud:2976)
 
 > Narrated 'Aishah: When the Messenger of Allah  died, the wives of the Prophet  intended to send 'Uthman b. 'Affan to Abu Bakr to ask him their cost of living from (the inheritance of) the Prophet . Thereupon 'Aishah said: Did not the Messenger of Allah  say: We are not inherited. Whatever we leave is sadaqah (charity).
+
+### Muhammad died a pauper
+
+[Sunan an-Nasa'i 3596](https://sunnah.com/nasai:3596)
+
+> "I heard 'Amr bin Al-Harith say: 'I saw the Messenger of Allah and he left nothing behind except his white mule, his weapon and some land which he left as a charity.'"
 
 ### The parents of Muhammad are in hell {#parents-in-hell}
 
@@ -534,6 +545,24 @@ See also:
 - [Sahih al Bukhari 229](https://sunnah.com/bukhari:229)
 - [Sahih Muslim 290 (scraping it off with the nail)](https://sunnah.com/muslim:290)
 
+## Muhammad's appearance
+
+### Muhammad was white 
+
+[Sunan Abu Dawud 4864](https://sunnah.com/abudawud:4864)
+
+> Sa’id al-Jariri quoted Abu al-Tufail as saying: I saw the Messenger of Allah. I asked: How did you see him? He said: He was white, good-looking, and when he walked, it looked as if he was descending to a low ground.
+
+[Ash-Shama'il Al-Muhammadiyah 12](https://sunnah.com/shamail:12)
+
+> Abu Huraira … said:
+> "Allah’s Messenger … was white, as if he were fashioned from silver, with loosely curled hair."
+
+### Muhammad was very average looking {#average-looks}
+
+[Jami` at-Tirmidhi 3623](https://sunnah.com/tirmidhi:3623)
+
+> The Messenger of Allah was not very tall nor was he [very] short, nor was he pale white, nor was he brown, nor was the wave of his hair completely curly nor straight…
 
 ## Muhammad and violence
 
@@ -557,7 +586,13 @@ In contrast Jesus defended a woman against being stoned for adultery. (John 8:1-
 
 [Sahih al-Bukhari 2977](https://sunnah.com/bukhari:2977)
 
-> ...I have been made victorious with terror (cast in the hearts of the enemy)...
+> ...I have been made victorious with terror cast in the hearts of the enemy...
+
+### Muhammad had children with pubic hairs killed
+
+[Sunan an-Nasa'i 4981](https://sunnah.com/nasai:4981)
+
+> It was narrated that 'Atiyyah said: 'I was among the prisoners of Quraizah; we were examined, and whoever had grown (pubic) hair was killed, and whoever had not grown hair, he was allowed to live and was not killed."
 
 ## Muhammad's mental and spiritual health
 
@@ -610,6 +645,61 @@ Also:
 - [Sahih al-Bukhari 3055](https://sunnah.com/bukhari:3055) 
 - [Al-Adab Al-Mufrad 958](https://sunnah.com/adab:958)
 - [Sahih Muslim 2924 a](https://sunnah.com/muslim:2924a)
+
+## Muhammad's incompetence
+
+### Muhammad almost caused a famine
+
+> It was narrated from 'Aisha that the Prophet heard some sounds and said: “What is this noise?” They said: “Palm trees that are being pollinated.” He said: “If they did not do that it would be better.” So they did not pollinate them that year, and the dates did not mature properly. they mentioned that to the Prophet and he said: “If it is one of the matters of your religion, then refer to me.”
+
+Muhammad's incompetence caused the harvest to almost fail, yet he had the gall to tell people to consult him.
+
+## Muhammad was racist 
+
+### Muhammad traded black slaves
+
+[Sahih Muslim 1602](https://sunnah.com/muslim:1602)
+
+> Jabir … reported: There came a slave and pledged allegiance to Allah's Apostle on migration; [who] did not know that he was a slave. Then there came his master and demanded him back, whereupon Allah's Apostle said: Sell him to me. And he bought him for two black slaves…
+
+It seems the exchange rate is two black slaves for one Muslim slave.
+
+This is from chapter 23 which heading  reads:
+
+> Chapter 23: The permissibility of **selling animals for animals of the same kind and of different quality**
+
+## Black people are created for hell
+
+> …“God created Adam when He created him and struck his right shoulder and brought forth his offspring white like small ants. And he struck his left shoulder and brought forth his offspring black as though they were charcoal. Then He said to the party on his right side, ‘To paradise, and I do not care’ and He said to the party in his left shoulder, ‘To hell, and I do not care’.”
+
+According to Muhammed, white people are destined for heaven and black people are destined for hell.
+
+## Description of Turks 
+
+[Sahih al-Bukhari 2928](https://sunnah.com/bukhari:2928)
+
+> …The Hour will not be established until you fight with the Turks; people with small eyes, red faces, and flat noses. Their faces will look like shields coated with leather…
+
+
+## Ethiopians have heads like raisins
+
+[Sahih al-Bukhari 693](https://sunnah.com/bukhari:693)
+
+> "Listen and obey (your chief) even if an Ethiopian whose head is like a raisin were made your chief."
+
+## Muhammad didn't like black dogs
+
+[Sunan Ibn Majah 3205](https://sunnah.com/ibnmajah:3205)
+
+> Were it not that dogs form one of the communities, I would have commanded that they be killed. But kill those that are all black...
+
+## Black people symbolize disease
+
+[Sahih al-Bukhari 7039](https://sunnah.com/bukhari:7039)
+
+> …I saw in a dream a black woman with unkempt hair going out of Medina and settling at Mahai'a. I interpreted that as a symbol of the epidemic of Medina being transferred to Mahai'a…
+
+When Muhammad sees a black woman in a dream he automatically assumes she represents an epidemic.
 
 ## The death of Muhammad
 
@@ -904,12 +994,15 @@ See also:
 
 > If a man has sexual intercourse with his wife and gets discharge first, the child will resemble the father, and if the woman gets discharge first, the child will resemble her.
 
+[Sunan an-Nasa'i 200](https://sunnah.com/nasai:200)
+
+> 'The man's water is thick and white, and the woman's water is thin and yellow. Whichever of them comes first, the child will resemble (that parent).'"
 
 ## The urine of boys and girls are different
 
 [Sunnan Ibn Majah 525](https://sunnah.com/ibnmajah:525)
 
-> ...He said, "This is because the urine of the boy is of water and clay, but the urine of the girl is of flesh and blood."...
+> …He said, "This is because the urine of the boy is of water and clay, but the urine of the girl is of flesh and blood."…
 
 ## Non-Muslims eats in seven intestines, Muslims in one {#seven-intestines}
 
@@ -917,7 +1010,7 @@ Apparently belief or disbelief in Islam changes the number of intestines you hav
 
 [Sahih Muslim 2060 a](https://sunnah.com/muslim:2060a)
 
-> Ibn 'Umar reported Allah's Messenger  as saying that a non-Muslim eats in seven intestines whereas a Muslim eats in one intestine.
+> …a non-Muslim eats in seven intestines whereas a Muslim eats in one intestine.
 
 See also:
 
@@ -1037,6 +1130,53 @@ Also:
 > When the angels seize the souls of those who have wronged themselves — scolding them, “What was wrong with you?” they will reply, “We were oppressed in the land.” The angels will respond, “Was Allah’s earth not spacious enough for you to emigrate?” It is they who will have Hell as their home—what an evil destination!
 
 When muslims who live outside of Islamic countries (i.e. them being **opressed in the land**) die, the angel of death will scold them for not living in an Islamic country (i.e. **Allah’s earth**), and send them to hell.
+
+## Snakes in houses may be demons who converted to islam {#snake-jinn}
+
+This teaching is spread out over many Hadiths, but pieced together the gist is: 
+
+Muhammad said that you should kill snakes outside, but if you find a snake inside your house you shouldn't kill it right away. The story goes that a young man found a snake in his house and pierced it with his spear, but it attacked and killed him. People asked Muhammad to pray that he be resurrected but he said that snakes found in houses are jinns (demons) and that some jinns have accepted Islam and become Muslims. So if you find a snake in your house it could be a fellow Muslim, and therefore you should command it to not hurt you but to leave for three days. If it doesn't obey by the fourth day, it's a devil and you should kill it.
+
+See:
+
+Full story of the young man and the snake.
+
+- [Sahih Muslim 2236 a](https://sunnah.com/muslim:2236a)
+- [Muwatta Malik 54:33](https://sunnah.com/malik/54/33)
+- [Mishkat al-Masabih 4118](https://sunnah.com/mishkat:4118)
+
+Muhammad said to kill specific snakes…
+
+- [Sahih Muslim 2233 a](https://sunnah.com/muslim:2233a)
+- [Sahih al-Bukhari 4016, 4017](https://sunnah.com/bukhari:4016)
+- [Sunan Abi Dawud 5252](https://sunnah.com/abudawud:5252)
+- [Sahih al-Bukhari 3297, 3298](https://sunnah.com/bukhari:3297)
+
+…but to not kill snakes in houses…
+
+- [Sahih al-Bukhari 3312, 3313](https://sunnah.com/bukhari:3312)
+- [Sahih Muslim 2233 d](https://sunnah.com/muslim:2233d)
+- [Sahih Muslim 2233 e](https://sunnah.com/muslim:2233e)"
+- [Sahih Muslim 2233 f](https://sunnah.com/muslim:2233f)
+- [Sahih Muslim 2233 g](https://sunnah.com/muslim:2233g)
+- [Muwatta Malik 54:31](https://sunnah.com/malik/54/31)
+
+…because snakes in houses are jinn…
+
+- [Mishkat al-Masabih 4117](https://sunnah.com/mishkat:4117)
+- [Sunan Abi Dawud 5256](https://sunnah.com/abudawud:5256)
+
+…and some snake jinn embraced Islam…
+
+- [Sunan Abi Dawud 5257](https://sunnah.com/abudawud:5257)
+
+…therefore they should just tell snakes to not harm them and leave.
+
+- [Sunan Abi Dawud 5260](https://sunnah.com/abudawud:5260)
+- [Sahih Muslim 2236 b](https://sunnah.com/muslim:2236b)
+- [Mishkat al-Masabih 4137](https://sunnah.com/mishkat:4137)
+
+
 
 # Women
 

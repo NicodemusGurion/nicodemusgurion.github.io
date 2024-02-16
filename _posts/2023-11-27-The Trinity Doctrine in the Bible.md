@@ -483,6 +483,16 @@ This shows that Jesus is Jehovah, the Angel if Jehovah, the True Lord, and that 
 
 Jesus wasn't literally named Immanuel. Matthew means that this name applies to Jesus because Jesus is "God with us".
 
+## Matthew 3: 3
+
+> For this is he who was spoken of by the prophet Isaiah when he said, “The voice of one crying in the wilderness: ‘Prepare the way of the **Lord**; make his paths straight.’”
+
+This verse identifies Jesus as the **Lord*+ whom Isaiah foretold in Isaiah 40:3
+
+> Isaiah 40:3 A voice cries: “In the wilderness prepare the way of the **LORD**; make straight in the desert a highway for our God.
+
+**LORD** in all capitals represents the name Jehovah, the name of God. So what Matthew is saying is that Jesus is the LORD or Jehovah that Isaiah said would come, and the God before whom the paths are to be made straight.
+
 ## Matthew 8: 26-27
 
 > 26 And he said to them, “Why are you afraid, O you of little faith?” Then he rose and rebuked the winds and the sea, and there was a great calm. 27 And the men marveled, saying, “What sort of man is this, that even winds and sea obey him?”
@@ -546,6 +556,16 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 
 This shows that Jesus is omnipresent, having the ability to be anywhere. This is a unique attribute of God, evidence of the deity of Christ. See [Omnipresence](#omnipresence)
 
+## Mark 1: 3
+
+> the voice of one crying in the wilderness: ‘Prepare the way of the **Lord**, make his paths straight,’”
+
+This verse identifies Jesus as the **Lord*+ whom Isaiah foretold in Isaiah 40:3
+
+> Isaiah 40:3 A voice cries: “In the wilderness prepare the way of the **LORD**; make straight in the desert a highway for our God.
+
+**LORD** in all capitals represents the name Jehovah, the name of God. So what Mark is saying is that Jesus is the LORD or Jehovah that Isaiah said would come, and the God before whom the paths are to be made straight.
+
 ## Mark 2: 5-12 
 
 > And when Jesus saw their faith, he said to the paralytic, “Son, your sins are forgiven.” 6 Now some of the scribes were sitting there, questioning in their hearts, 7 “Why does this man speak like that? **He is blaspheming! Who can forgive sins but God alone?**” 8 And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them, “Why do you question these things in your hearts? 9 Which is easier, to say to the paralytic, ‘Your sins are forgiven,’ or to say, ‘Rise, take up your bed and walk’? 10 But that you may know that the Son of Man has authority on earth to forgive sins”--he said to the paralytic-- 11 “I say to you, rise, pick up your bed, and go home.” 12 And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and glorified God, saying, “We never saw anything like this!”
@@ -575,6 +595,16 @@ Jesus is [The Cloud Rider](#the-cloud-rider), a unique attribute of God.
 And Jesus said, “I am, and you will see **the Son of Man** seated at the right hand of Power, and **coming with the clouds of heaven**.” 63 And the high priest tore his garments and said, “What further witnesses do we need? 64 **You have heard his blasphemy**. What is your decision?” And **they all condemned him as deserving death.**
 
 When put under oath, Jesus reveals that he is [The Cloud Rider](#the-cloud-rider) and [the Son of Man](#the-son-of-man), two divine titles that are unique to Jehovah God. Thus claiming to be God he was judged as a blasphemer.
+
+## Luke 3: 4 
+
+> As it is written in the book of the words of Isaiah the prophet, “The voice of one crying in the wilderness: ‘Prepare the way of the **Lord**, make his paths straight.
+
+This verse identifies Jesus as the **Lord*+ whom Isaiah foretold in Isaiah 40:3
+
+> Isaiah 40:3 A voice cries: “In the wilderness prepare the way of the **LORD**; make straight in the desert a highway for our God.
+
+**LORD** in all capitals represents the name Jehovah, the name of God. So what Luke is saying is that Jesus is the LORD or Jehovah that Isaiah said would come, and the God before whom the paths are to be made straight.
 
 ## Luke 5: 20-25
 
@@ -615,8 +645,6 @@ The original greek grammar is hard to convey here. Greek sometimes use nouns as 
 > All things were made through him, and without him was not any thing made that was made.
 
 The Word, Jesus, is the creator of the universe. **All things were made through him**. As the second person of God he has been tasked with God's interaction with the physical world since the beginning, even creating the universe itself. is there anything that has been created that Jesus did not create? No, for it continues to emphasize **without him was not any thing made that was made.** This logically means that the Word, the second person of God, is not himself a created being, but an eternal, uncreated being without a beginning in time.
-
-
 
 ## John 1: 18 
 

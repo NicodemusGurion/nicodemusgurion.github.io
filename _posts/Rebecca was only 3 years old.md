@@ -19,7 +19,7 @@ Notice that in Genesis 22:19, they are living in Beer-Sheba. But in Genesis 23:2
 
 # News didn't travel instantly
 
-In Genesis 22:20-24, Abraham gets news about what has happened with his family. At this point he has not seen his family for at least around 40 to 62 years! (Genesis 12:4) Apparently some unnamed traveler came his way who knew both him and his family, and he summarized what had happened since last. In total, 14 people had been born in the last 40-62 years, among them Rebecca. So it's very unreasonable to conclude that Rebecca was born the same day that traveler left home. She was old enough to be known in the community.
+In Genesis 22:20-24, Abraham gets news about what has happened with his family. At this point he has not seen his family for at least around 40 to 62 years! (Genesis 12:4) Apparently some unnamed traveler came his way who knew both him and his family, and he summarized what had happened since last. In total, 14 people had been born in the last 40-62 years, among them Rebecca. Haran also lies 900 km from Beer-Sheba. So it's very unreasonable to conclude that Rebecca was born the same day that traveler left home. She was old enough to be known in the community.
 
 # Rebecca was a woman
 
@@ -34,3 +34,15 @@ In fact if you read the accound in Genesis 24, there is not a single thing indic
 When Abraham sent his servant to find a wife for Isaac, he prayed to God that whichever young woman would give him a drink and watered his camels would be the one chosen by God. Rebecca not only gave him a drink, but also watered his camels. Abrahams servand had ten camels. (Genesis 24:10) And [a camel can drink 200 L (53 US gal) of water in three minutes](https://en.wikipedia.org/wiki/Camel). That's 2000 liters or kilograms of water. And Rebecca went back and forth to the well, carrying 2000 kilograms of water in her jar. And our muslim friends would have us believe that a 3 year old would be able to do that. Such a 3 year old must be built like the offspring of Arnols Schwarsenegger and a tank. I don't even think a 3 year old could lift a single jar of water. So the idea that Rebecca was 3 years old is insane to say the least.
 
 # Christians don't follow Isaac as an example
+
+Suppose muslims are right. Suppose that there was only 3 years between when the messenger came to Abraham and when Sarah died. Suppose that Rebecca was born exactly when the messenger was leaving, and he just had time enough to learn the name of the newborn before he left, and then rode at maximum speed for 900 km to deliver this news. Suppose they called a 3 year old a "woman" of marriageable age, and asked her opinion on major life decisions. Suppose said 3 year old was stronger than Superman at that age. Suppose all these nonsensical things were true. Suppose Rebecca actually **was** 3 years old when Isaac married her. 
+
+It still would mean **absolutely nothing.**
+
+Why?
+
+Because **Christians do not follow Isaac as a morally perfect example.**
+
+However Muslims **DO** follow Muhammad as a morally perfect example, and Muhammad **DID** marry a 6 year old, and **DID** have sexual intercourse with her when she was 9 years old. That is the perfect moral example that Muslims follow.
+
+The only reason Muslims make this argument is because they **KNOW** that what Muhammad did was evil, morally reprehensible, disgusting, and totally unacceptable at any time and place in history, but they want to justify it by pointing to what other irrelevant people supposedly did. As if the fact that there might have existed worse persons than Muhammad would somehow mean that he was a shining beacon of moral superiority.
