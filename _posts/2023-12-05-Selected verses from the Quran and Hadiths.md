@@ -828,6 +828,15 @@ One miraculous claim made is that the Quran has been perfectly preserved. Howeve
 
 > If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
 
+### Two chapters of the Quran were forgotten
+
+[Sahih Muslim 1050](https://sunnah.com/muslim:1050)
+
+> Abu Harb b. Abu al-Aswad… We used to recite a surah which resembled in length and severity to (Surah) Bara'at. **I have, however, forgotten it** with the exception of this which I remember out of it:" If there were two valleys full of riches, for the son of Adam, he would long for a third valley, and nothing would fill the stomach of the son of Adam but dust." And we used so recite a surah which resembled one of the surahs of Musabbihat, and **I have forgotten it**, but remember (this much) out of it:" Oh people who believe, why do you say that which you do not practise" and" that is recorded in your necks as a witness (against you) and you would be asked about it on the Day of Resurrection"
+
+This reciter admits that they **used to recite** two surahs meaning it was once part of the Quran, but that they just forgot them. He remembers some fragments, but these match nothin in the Quran, proving that these surahs are gone forever. This proves the Quran has not been perfectly preserved.
+
+
 ### Two chapters of the Quran were eaten by a sheep {#sheep-ate-surahs}
 
 [Sunan Ibn Majah 1944](https://sunnah.com/ibnmajah:1944)
