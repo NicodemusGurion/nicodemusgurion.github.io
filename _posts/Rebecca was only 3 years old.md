@@ -1,6 +1,8 @@
 ---
 title: \"Rebecca was only 3 years old when Isaac married her\"
 tags: [Islam, Apologetics, FAQ]
+image: https://i.ibb.co/hc13Cry/1-DD292-C0-6-F1-F-4164-895-A-EA0-DCB2-DE21-C.jpg
+thumb: https://i.ibb.co/bK62804/59-D29-C9-B-F239-48-F8-9-CB7-D5-DE5-E3-E5141.jpg
 ---
 
 It is a common claim by Islamic Dawah people that Rebecca was only 3 years old when marrying Isaac. The reason they make this utter nonsense claim is to justify that [the prophet Muhammad married a 6 year old girl](/quran-and-hadiths#child-sexual-abuse), as if that makes it alright.
