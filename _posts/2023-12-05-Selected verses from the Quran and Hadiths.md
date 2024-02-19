@@ -1231,6 +1231,8 @@ Apparently it was impossible to keep this deathbed convert in the ground, so the
 This is if a man even only fears his wife would be disobedient.
 
 ## No women has it worse than Muslim women
+
+[Sahih al-Bukhari 5825](https://sunnah.com/bukhari:5825)
  
 > Rifa'a divorced his wife whereupon AbdurRahman bin Az-Zubair Al-Qurazi married her. Aisha said that the lady came, wearing a green veil and complained to her (Aisha) of her husband and showed her a green spot on her skin caused by beating. It was the habit of ladies to support each other, so when Allah's Messenger came, Aisha said, "I have not seen any woman suffering as much as the believing women. Look! Her skin is greener than her clothes!"…
 
