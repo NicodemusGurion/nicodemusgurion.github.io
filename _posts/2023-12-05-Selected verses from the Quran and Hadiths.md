@@ -120,7 +120,11 @@ Allah created the heavens and the earth in 6 days.
 
 2 + 4 + 2 = 8. Allah created the heavens and the earth in 8 days.
 
-# Factual errors 
+## Muhammad did and did not do miracles 
+
+In the [Quran 6:37](https://quran.com/6/37); [6:109](https://quran.com/6/109); [13:7](https://quran.com/13/7); [17:59](https://quran.com/17/59) and [20:20](https://quran.com/10/20) it says that Muhammad never did any miracles. But in [Sahih al Bukhari 3637](https://sunnah.com/bukhari:3637) it says that he DID do a miracle.
+
+# Errors 
 
 Historical and factual errors 
 
@@ -660,7 +664,7 @@ Muhammad's incompetence caused the harvest to almost fail, yet he had the gall t
 
 ## Muhammad and miracles 
 
-### Muhammad could not perform miracles
+### Muhammad did NOT perform miracles {#no-miracles}
 
 [Quran 6:109](https://quran.com/6/109)
 
@@ -676,9 +680,16 @@ People didn't believe Muhammad was a prophet because true prophets of God were a
 Also:
 
 - [Quran 6:37](https://quran.com/6/37)
-
 - [Quran 13:7](https://quran.com/13/7)
 - [Quran 20:20](https://quran.com/10/20)
+
+### Muhammad DID perform miracles {#did-miracles}
+
+[Sahih al Bukhari 3637](https://sunnah.com/bukhari:3637)
+
+> …The Meccan people requested Allah's Messenger to show them a miracle, and so he showed them the splitting of the moon.
+
+So which is it? Muhammad never did any miracles, or Muhammad did miracles? This is a [conteadiction](#contradictions).
 
 ## The death of Muhammad
 
