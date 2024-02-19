@@ -658,6 +658,28 @@ Also:
 
 Muhammad's incompetence caused the harvest to almost fail, yet he had the gall to tell people to consult him.
 
+## Muhammad and miracles 
+
+### Muhammad could not perform miracles
+
+[Quran 6:109](https://quran.com/6/109)
+
+> And they swore by Allah their most solemn oaths that if a sign were to come to them, they would believe in it. Say, “Signs are only with Allah,” but how do you know that even if it did come, they would still not believe?
+
+[Quran 17:59](https://quran.com/17/59)
+
+> And nothing prevented Us from sending miraculous signs except that the ancients disbelieved in them. ….
+
+
+People didn't believe Muhammad was a prophet because true prophets of God were accompanied by signs and miracles. They asked for a sign, any signs, and swore that if they got it they would believe, but Allah/Muhammad gives the excuse that they would not believe anyway.
+
+Also:
+
+- [Quran 6:37](https://quran.com/6/37)
+
+- [Quran 13:7](https://quran.com/13/7)
+- [Quran 20:20](https://quran.com/10/20)
+
 ## The death of Muhammad
 
 ### How did Muhammad die?

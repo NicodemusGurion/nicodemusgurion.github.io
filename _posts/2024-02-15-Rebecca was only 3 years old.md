@@ -33,7 +33,7 @@ In fact if you read the account in Genesis 24, there is not a single thing indic
 
 # Rebecca was strong
 
-When Abraham sent his servant to find a wife for Isaac, he prayed to God that whichever young woman would give him a drink and water his camels would be the one chosen by God. Rebecca not only gave him a drink, but also watered his camels. Abrahams servant had ten camels. (Genesis 24:10) And [a camel can drink 200 L (53 US gal) of water in three minutes](https://en.wikipedia.org/wiki/Camel). That's 2000 liters or kilograms of water. So Rebecca went back and forth to the well, carrying up to 2000 kilograms of water in her jar. And our muslim friends would have us believe that a 3 year old would be able to do that? Such a 3 year old must be built like the offspring of Arnols Schwarzenegger and a tank. I don't even think a 3 year old could lift one single jar of water. 
+When Abraham sent his servant to find a wife for Isaac, he prayed to God that whichever young woman would give him a drink and water his camels would be the one chosen by God. Rebecca not only gave him a drink, but also watered his camels. Abrahams servant had ten camels. (Genesis 24:10) And [a camel can drink 200 L (53 US gal) of water in three minutes](https://en.wikipedia.org/wiki/Camel). That's 2000 liters or kilograms of water. So Rebecca went back and forth to the well, carrying up to 2000 kilograms of water in her jar. And our muslim friends would have us believe that a 3 year old would be able to do that? Such a 3 year old must be built like the offspring of Arnold Schwarzenegger and a tank. I don't even think a 3 year old could lift one single jar of water. 
 
 So the idea that Rebecca was 3 years old is insane to say the least.
 
