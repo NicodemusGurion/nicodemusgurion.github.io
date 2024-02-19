@@ -1,6 +1,6 @@
 ---
 title: Reading the Quran, Surah 1 Al-Fatihah
-tags [Islam, Quran, Reading the Quran]
+tags: [Islam, Quran, Reading the Quran]
 ---
 
 This is the second chapter of the Quran, a massive 286 verses! Even the most massive chapter of the Bible has "only" 176 verses. And this is after reading a chapter of 7 verses. And it seems that most chapters of the Quran contains hundreds of verses. This could easily have been divided up in 5-6 chapters, which would make it much easier to digest. This is probably going to be a long article, and I suspect most articles are going to become obscenely long due to this fact. To save space I will provide a link to the verses but only quote relevant parts.
