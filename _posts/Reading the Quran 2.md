@@ -39,15 +39,15 @@ Discussing unbelievers, it says that **Allah has set a seal on their hearts and 
 
 This sounds like Calvinism, which I often say is the Islam of Christianity. It paints God as an evil, twisted trixter who plays games with people. 
 
-## 2: 8-10
+## [2: 8-10](https://quran.com/2/8-10)
 
-> [And of mankind are those who say, “We have attained faith in Allah and in the Last Day,” but they are not believers… In their hearts is sickness, so Allah increased their sickness, and for them is a painful punishment on account of how they used to lie.](https://quran.com/2/8-10)
+> And of mankind are those who say, “We have attained faith in Allah and in the Last Day,” but they are not believers… In their hearts is sickness, so Allah increased their sickness, and for them is a painful punishment on account of how they used to lie.
 
 Discussing fake believers, Allah is not exactly helping them, but making their condition worse, so he can punish them. Very unloving.
 
-## 2: 11-20
+## [2: 11-20](https://quran.com/2/11-20)
 
-> […Allah took away their light and left them in darkness(es) , unable to see … Or like a cloudburst from the sky in which are darkness(es) and thunder and lightning. They put their fingers into their ears against the thunderbolts, in fear of death … The lightning almost snatches their sight(s) away; whenever it illuminates for them, they walk in it. But when it darkens over them, they stand(still).](https://quran.com/2/11-20)
+> …Allah took away their light and left them in darkness(es) , unable to see … Or like a cloudburst from the sky in which are darkness(es) and thunder and lightning. They put their fingers into their ears against the thunderbolts, in fear of death … The lightning almost snatches their sight(s) away; whenever it illuminates for them, they walk in it. But when it darkens over them, they stand(still).
 
 Discussing false Muslims is says that rather than helping them, Allah is deliberately taking away their light and leaving them in darkness, terrifying them, like a cat plays with it's prey. Not very helpful, Allah!
 
