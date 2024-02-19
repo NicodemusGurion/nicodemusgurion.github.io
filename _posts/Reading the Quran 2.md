@@ -122,23 +122,23 @@ Is this an admission that humans will indeed be with God in the end? I thought p
 
 We learn that Allah created the earth first and then the heavens, 7 of them. In the Bible God created the heavens and the earth, and there are 3 heavens. Funny how Islam seems to invert and pervert so many things.
 
-## 2: 30-31
+## 2: 30-34
 
-> [… your Lord said to the angels, “I am appointing a viceroy in the earth.” … He taught Adam the names, all of them...](https://quran.com/2/30-31)
+> [… your Lord said to the angels, “I am appointing a viceroy in the earth.” … We said to the angels, “Prostrate yourselves to Adam”, so they prostrated themselves—but not Iblis. He refused and acted arrogantly and became of the deniers.](https://quran.com/2/30-34)
 
-Muhammad riffs off of [apocryphal accounts](http://www.pseudepigrapha.com/pseudepigrapha/TheBookOfAdam.htm)
+Muhammad is regering to a fable taken from [the apocryphal book of the life of Adam and Eve 13.2](http://www2.iath.virginia.edu/anderson/vita/english/vita.lat.html), where Adam is assigned as the ruler of the angels and God makes the angels bow down to him, but Sayan refuses. It was written between around 100 BC-100 AD and it's an example of one of many false stories that Muhammad have just heard, thought was real, and included in the Quran. Either that or "Allah" can't tell fact from fan fiction.
 
-Assuming this means the names of the animals, this disagrees with the Bible. Adam was the one who got to give names to the animals.
+> …He taught Adam the names, all of them…
 
-## 2: 34 
+In verse 31 it says that Allah **taught Adam the names**. Assuming this means the names of the animals, this disagrees with the Bible. Adam was the one who got to give names to the animals. God in the Bible allows his creatures to exercise creativity, but Allah from the Quran is not as magnanimous.
 
-> And recall when We said to the angels, “Prostrate yourselves to Adam”, so they prostrated themselves—but not Iblis1. He refused and acted arrogantly and became of the deniers.
 
-This is an fable taken from [the apocryphal book Life of Adam and Eve 13.2](http://www2.iath.virginia.edu/anderson/vita/english/vita.lat.html).  It was written between around 100 BC-100 AD and it's an example of one of many false stories that Muhammad have just heard, thought was real, and included in the Quran. Either that or "Allah" can't tell fact from fan fiction.
 
-## 2: 36
+## 2: 35-39
 
-> Yet Satan made them slip therefrom, so he brought them out of what they were in. Then We said, “Descendpl , as enemies to one another, for in the earth youpl have a place of settlement and enjoyment for a while.”
+
+
+> Yet Satan made them slip therefrom, so he brought them out of what they were in. Then We said, “Descend , as enemies to one another, for in the earth you have a place of settlement and enjoyment for a while.”
 
 This verse is fuzzy but it appears that after the fall, Adam and Eve "descended" from Eden, as if it was not part of earth.
 
