@@ -29,9 +29,9 @@ Muslims **establish prayer** and **donate**, which are works. Islam is a works b
 
 Those who believe in Muhammad should also believe in **what was revealed before** him, that is the Bible and it's prophets. The Quran tells Muslims to believe the Bible, but the Muslims tells me that the Bible has been corrupted. Whom should I trust? Allah, or the Muslims who say Allah is wrong?
 
-## 2: 5-7
+## [2: 5-7](https://quran.com/2/5-7)
 
-> [It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful…](https://quran.com/2/5-7)
+> It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful…
 
 The Quran often use terms like **successful** and **losers** like it was written by a 14 year old. But it emphasises the works righteousness aspect. You are counted as successful or not based on what you do.
 
