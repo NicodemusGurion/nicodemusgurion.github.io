@@ -25,6 +25,14 @@ Some selected Quran and Hadith verses.
 
 ## Allah prays
 
+[Quran 2:157](https://quran.com/2/157?translations=17)
+
+> Upon those are the prayers *from* their Lord, and mercy; and those are they (who) are the right-guided.
+
+[Quran 33:43, 56 Palmer](https://sacred-texts.com/isl/sbe09/033.htm)
+
+> He it is who prays for you and His angels too, to bring you forth out of the darkness into the light, for He is merciful to the believers. …  Verily, God and His angels pray for the prophet. O ye who believe! pray for him and salute him with a salutation!
+
 [Al Adan Al Mufrad 645](https://sunnah.com/adab:645)
 
 > [Muhammad] said, "If anyone prays once on me, Allah will pray ten times on him.'"
@@ -581,6 +589,12 @@ Also:
 > … So he sent people in pursuit of them, and when they were brought he had their hands and feet cut off and their eyes put out and left them to die without cauterising them to stop the flow of blood. A version says nails were driven into their eyes. Another says he ordered nails to be heated and after having them blinded with them he had them thrown out on the harra, and although they begged for water they were left to die without being given any.
 
 These people had stolen some camels so Muhammad **had their hands and feet cut off and their eyes put out** with white hot nails, and then left them to die from thirst and bleeding out.
+
+### Muhammad cut of the hand of a woman 
+
+[Sahih al-Bukhari 6800](https://sunnah.com/bukhari:6800)
+
+> Narrated Aisha: The Prophet cut off the hand of a lady, and that lady used to come to me, and I used to convey her message to the Prophet and she repented, and her repentance was sincere.
 
 ### Muhammad personally stoned a woman
 

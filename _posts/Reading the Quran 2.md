@@ -15,17 +15,21 @@ This is the second chapter of the Quran, a massive 286 verses! Even the most mas
 
 We start off strong with some cryptic letters that no one knows what they means. So much for the the Quran being "clear and easy to understand."
 
-## 2: 2-4
+## [2: 2-4](https://quran.com/2/2-4)
 
-> This is the Book! There is no doubt about it—a guide for those mindful ˹of Allah˺, 
-> who believe in the unseen, establish prayer, and donate from what We have provided for them,
-> and who believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you, and have sure faith in the Hereafter.
+> This is the Book! There is no doubt about it—
 
-Who is the author trying to convince? Himself? Just saying "there's no doubt" doesn't make it so. This is a problem I see many Muslims have: They think that just saying something  means that it's true, without giving any evidence. 
+Who is the author trying to convince? Himself? Just saying "there's no doubt" doesn't make it so. This is a problem I see many Muslims have: They think that just saying something  means that it's true, without giving any evidence. The Quran is true because it's the word of Allah and it's the word of Allah because it says so, and we can trust what it says because it's true. 
+
+> a guide for those mindful ˹of Allah˺, 
 
 It spells out the purpose of the Quran: An instruction manual. Not like the Bible which contains history, wisdom, doctrine, and specific instructions to specific people, the Quran is just a general instruction manual for all times and places.
 
+> who believe in the unseen, establish prayer, and donate from what We have provided for them,
+
 Muslims **establish prayer** and **donate**, which are works. Islam is a works based religion where you try to earn brownie points with Allah. But exactly how many points are sufficient and what your score is is unknown. Therefore a Muslim can do good works all their lives and never be assured of salvation. In Christianity, we are assured of salvation, not because of what *we* do but because of what *Jesus* did. It relieves us of the uncertainty.
+
+> and who believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you, and have sure faith in the Hereafter.
 
 Those who believe in Muhammad should also believe in **what was revealed before** him, that is the Bible and it's prophets. The Quran tells Muslims to believe the Bible, but the Muslims tells me that the Bible has been corrupted. Whom should I trust? Allah, or the Muslims who say Allah is wrong?
 
@@ -34,6 +38,8 @@ Those who believe in Muhammad should also believe in **what was revealed before*
 > It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful…
 
 The Quran often use terms like **successful** and **losers** like it was written by a 14 year old. But it emphasises the works righteousness aspect. You are counted as successful or not based on what you do.
+
+> Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
 
 Discussing unbelievers, it says that **Allah has set a seal on their hearts and on their hearing, and over their sight is a veil**, in other words they are predestined to hell, and there is no one to blame but Allah. He dun it.
 
@@ -51,9 +57,9 @@ Discussing fake believers, Allah is not exactly helping them, but making their c
 
 Discussing false Muslims is says that rather than helping them, Allah is deliberately taking away their light and leaving them in darkness, terrifying them, like a cat plays with it's prey. Not very helpful, Allah!
 
-## 2: 21-22
+## [2: 21-22](https://quran.com/2/21-22)
 
-[It encourages people in general to worship Allah.](https://quran.com/2/21-22)
+This section is boring. It just encourages people in general to worship Allah.
 
 ## 2: 23
 
@@ -73,38 +79,38 @@ But let's provide a Surah better than what we've seen so far. It doesn't have to
 
 How did I do?
 
-## 2: 24
+## [2: 24](https://quran.com/2/24)
 
-> [But if you do not—and you will not—then be mindful of the Fire whose fuel is people and stones; it has been prepared for the deniers.](https://quran.com/2/24)
+> But if you do not—and you will not—then be mindful of the Fire whose fuel is people and stones; it has been prepared for the deniers.
 
 If I'm a denier and unable to provide something more lyrical than the Quran, it threatens with hell. Luckily while I am a denier, I was able to provide a Surah that was way more excellent than any Surah in the Quran, so I think I'm safe.
 
 Apparently hell is fueled by people? And stones? In the Bible hellfire does not need fuel. Also in the Bible hell is not prepared for humans but for the satan and the demons. Humans were not supposed to go to hell but it's just an unfortunate side effect of rejecting God. But in Islam hell is made specifically to torture humans, and as we learned, Allah is deliberately causing people to go to hell. 
 
-## 2: 25
+## [2: 25](https://quran.com/2/25)
 
-> [And give glad tidings to those who have attained faith and have done righteous deeds: that for them are Gardens beneath which rivers flow. Whenever they are provided with any produce therefrom as provision, they say, “This is what we were provided with before,” and they are brought(them) in(perfect) resemblance. And for them are cleansed spouses therein, and therein they abide.](https://quran.com/2/25)
+> And give glad tidings to those who have attained faith and have done righteous deeds: that for them are Gardens beneath which rivers flow. Whenever they are provided with any produce therefrom as provision, they say, “This is what we were provided with before,” and they are brought(them) in(perfect) resemblance. And for them are cleansed spouses therein, and therein they abide.
 
 The promise of paradise. The carrot to the stick of hell in the previous verse. The Quran gets no points for subtlety.
 
 Notice that the fruits you get in paradise all taste the same. To be fair, eating the same thing for eternity sounds like a hell in itself.
 
-And of course sex. Can't forget that sex is the central point in Islam. Even in the afterlife you need spouses. While the Bible it is said that there will be no marriage or sex in heaven, in Islam, sex in paradise is a requirement.
+And of course sex. Can't forget that sex is a central point in Islam. Even in the afterlife you need spouses. While the Bible it is said that there will be no marriage or sex in heaven, in Islam, sex in paradise is a requirement.
 
 Tell me your religion was invented by a sex crazed horn-dog without saying your religion was invented by a sex crazed horn-dog.
 
-## 2:26
+## [2:26](https://quran.com/2/26)
 
-> [Indeed, Allah does not shy away from setting forth any parable, ... He misguides many thereby and He guides many thereby, but He does not misguide thereby except the defiantly disobedient](https://quran.com/2/26)
+> Indeed, Allah does not shy away from setting forth any parable, ... He misguides many thereby…
 
 
 It's interesting that Allah is said to be using parables, and whether someone understands them or not depends on whether they are humble or not. This is one of the attributes of Jesus, who used parables because the humble understands them but the proud does not. (Matt. 13:10-17; Mark 4:11,12; Luke 8:9, 10) One of many ayah that inadvertently admit that Jesus is Allah.
 
 However it says that Allah misguides people, and [Allah being a liar and deceiver is going to be a recurring theme.](/quran-and-hadiths#allah-deceives)
 
-## 2: 27
+## [2: 27](https://quran.com/2/27
 
-> […those are the losers.](https://quran.com/2/27)
+> …those are the losers.)
 
 Allah has the vocabulary of a 14 year old boy.
 
@@ -112,19 +118,19 @@ Allah has the vocabulary of a 14 year old boy.
 
 > […you were lifeless and He gave you life, then He puts you to death, then He brings you to life, then to Him you are returned](https://quran.com/2/28)
 
-So Muslims existed lifeless, then alive, then dead, then alive again, then with Allah? Such busywork.
+So Muslims pre-existed lifeless, then became alive, then dead, then alive again, then go to Allah? What busywork.
 
 Is this an admission that humans will indeed be with God in the end? I thought people could never come near Allah? Sometimes you can hear faint echoes of biblical theology in the heresy.
 
-## 2: 29
+## [2: 29](https://quran.com/2/29)
 
-> [It is He Who created for you what is on earth, all together, then turned to the heaven and formed them into seven heavens...](https://quran.com/2/29)
+> It is He Who created for you what is on earth, all together, then turned to the heaven and formed them into seven heavens…
 
 We learn that Allah created the earth first and then the heavens, 7 of them. In the Bible God created the heavens and the earth, and there are 3 heavens. Funny how Islam seems to invert and pervert so many things.
 
-## 2: 30-34
+## [2: 30-34](https://quran.com/2/30-34)
 
-> [… your Lord said to the angels, “I am appointing a viceroy in the earth.” … We said to the angels, “Prostrate yourselves to Adam”, so they prostrated themselves—but not Iblis. He refused and acted arrogantly and became of the deniers.](https://quran.com/2/30-34)
+> … your Lord said to the angels, “I am appointing a viceroy in the earth.” … We said to the angels, “Prostrate yourselves to Adam”, so they prostrated themselves—but not Iblis. He refused and acted arrogantly and became of the deniers.
 
 Muhammad is regering to a fable taken from [the apocryphal book of the life of Adam and Eve 13.2](http://www2.iath.virginia.edu/anderson/vita/english/vita.lat.html), where Adam is assigned as the ruler of the angels and God makes the angels bow down to him, but Sayan refuses. It was written between around 100 BC-100 AD and it's an example of one of many false stories that Muhammad have just heard, thought was real, and included in the Quran. Either that or "Allah" can't tell fact from fan fiction.
 
@@ -134,11 +140,22 @@ In verse 31 it says that Allah **taught Adam the names**. Assuming this means th
 
 
 
-## 2: 35-39
-
-
+## [ 2: 35-39](https://quran.com/2/35-39)
 
 > Yet Satan made them slip therefrom, so he brought them out of what they were in. Then We said, “Descend , as enemies to one another, for in the earth you have a place of settlement and enjoyment for a while.”
 
 This verse is fuzzy but it appears that after the fall, Adam and Eve "descended" from Eden, as if it was not part of earth.
+
+## 2: 40-46
+
+> O Children of Israel
+
+This book is jumping all over the place. Now it adresses Jews.
+
+> And believe in what I have sent down, confirming what is with you
+
+Allah tells Jews to believe the Quran because it confirms **what is with you**, that is the Torah. This means that at the time the Quran was written the Jews had a Torah that Allah said to be in corrupted. Allah also says that his word confirms it. However we have extant Torahs that are 800 years older than this, and they are identical with today's texts, and all of these do not match up with the Quran.
+
+So either Allah wrote this and he was lying. Or Muhammad wrote this and he was ignorant and stupid.
+
 
