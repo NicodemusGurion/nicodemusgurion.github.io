@@ -132,6 +132,10 @@ Allah created the heavens and the earth in 6 days.
 
 In the [Quran 6:37](https://quran.com/6/37); [6:109](https://quran.com/6/109); [13:7](https://quran.com/13/7); [17:59](https://quran.com/17/59) and [20:20](https://quran.com/10/20) it says that Muhammad never did any miracles. But in [Sahih al Bukhari 3637](https://sunnah.com/bukhari:3637) it says that he DID do a miracle.
 
+## Are people ransomed from hell or not.
+
+[The Quran says there will be no ransoms whatsoever on judgment day.](#no-ransom) But one Hadith says [muslims will be ransomed from hell by Christians and Jews taking their places in hell.](#ransomed-from-hell).
+
 # Errors 
 
 Historical and factual errors 
@@ -339,6 +343,12 @@ See also:
 [Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
 
 > Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. …
+
+### Muhammad French-kissed a little boy
+
+[Al-Adab Al-Mufrad 1183](https://sunnah.com/adab:1183)
+
+> …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, opened his mouth and put his mouth in his mouth. Then he said, O Allah, I love him, so love him and the one who loves him!'"
 
 ### Muhammad was baffled that other men were not pedophiles like him
 
@@ -986,7 +996,16 @@ Not only are Muslims allowed to rape women, but can just discard them like trash
 
 How are Muslims saved?
 
-## Ransomed from hell by Jews and Christians
+## No ransom 
+
+[Quran 2: 48](https://quran.com/2/48)
+
+> Guard yourselves against a Day when no soul will stand in place of another, no intercession will be accepted for it, nor any ransom; nor will they be helped.
+
+So there will be no ransom for anyone. This contradicts [other sources saying that Muslims can be ransomed](#ransomed-from-hell). 
+
+
+## Ransomed from hell by Jews and Christians {#ransomed-from-hell}
 
 [Sahih Muslim 2767 a](https://sunnah.com/muslim:2767a)
 
@@ -1164,6 +1183,10 @@ A Muslim who chickens out and turns his back on a disbeliever will go to hell.
 > Thus, when you encounter those who have denied, strike at their necks. Then when you have subjugated them, bind them firmly…
 
 ## Plundering is ok if no one is watching
+
+[Sahih al Bukhari 6772](https://sunnah.com/bukhari:6772)
+
+> … when a robber robs and the people look at him, then he is not a believer at the time of doing it.…
 
 [Sunan Ibn Majah 3936](https://sunnah.com/ibnmajah:3936)
 

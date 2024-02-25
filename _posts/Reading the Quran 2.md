@@ -140,22 +140,109 @@ In verse 31 it says that Allah **taught Adam the names**. Assuming this means th
 
 
 
-## [ 2: 35-39](https://quran.com/2/35-39)
+## [2: 35-39](https://quran.com/2/35-39)
 
 > Yet Satan made them slip therefrom, so he brought them out of what they were in. Then We said, “Descend , as enemies to one another, for in the earth you have a place of settlement and enjoyment for a while.”
 
 This verse is fuzzy but it appears that after the fall, Adam and Eve "descended" from Eden, as if it was not part of earth.
 
-## 2: 40-46
+## [2: 40-46](https://quran.com/2/40-46)
 
 > O Children of Israel
 
 This book is jumping all over the place. Now it adresses Jews.
 
+Fun fact: The Quran mentions Israel a lot,  but never mentions any Palestinians...
+
 > And believe in what I have sent down, confirming what is with you
 
-Allah tells Jews to believe the Quran because it confirms **what is with you**, that is the Torah. This means that at the time the Quran was written the Jews had a Torah that Allah said to be in corrupted. Allah also says that his word confirms it. However we have extant Torahs that are 800 years older than this, and they are identical with today's texts, and all of these do not match up with the Quran.
+Allah tells Jews to believe the Quran because it confirms **what is with you**, that is, the Torah. This means that at the time the Quran was written, the Jews had a Torah that Allah said to be uncorrupted. 
+
+However we have extant Torahs that are 800 years older than this, and they are identical with today's texts, and all of these do not match up with the Quran.
 
 So either Allah wrote this and he was lying. Or Muhammad wrote this and he was ignorant and stupid.
 
+## [2: 47](https://quran.com/2/47)
+
+> Children of Israel, remember how I blessed you and favoured you over other people.
+
+Allah prefers the Jews, which is weird considering [how poorly Islam treats them.](/quran-and-Hadiths/#jews)
+
+## [2: 48](https://quran.com/2/48)
+
+> Guard yourselves against a Day when no soul will stand in place of another, no intercession will be accepted for it, nor any ransom; nor will they be helped.
+
+This contradicts other sources which say that on judgment day, [Muslims will be ransomed by Jews and Christians taking their place in hell.](/quran-and-Hadiths/#ransomed-from-hell).
+
+## [2: 49-50](https://quran.com/2/49-50)
+
+This section is about Israel in Egypt. It says that the genocide of male babies **was a great trial from your Lord**. This is false, it was from Satan. It was against God's will.
+
+## [2: 51-56](https://quran.com/2/51-56)
+
+This passage is about the worship of the golden calf.
+
+> Remember when you said, ‘Moses, we will not believe you until we see God face to face.’ At that, thunderbolts struck you as you looked on. Then We revived you after your death, so that you might be thankful.
+
+This is false. The Israelites were rather terrified and did **not** want to see God. God did **not** kill and revive them. This idea probably comes from later Jewish fables.
+
+## [2: 58-59](https://quran.com/2/58-59)
+
+> Remember when We said, ‘Enter this town and eat freely there as you will, but enter its gate humbly and say, “Relieve us!” Then We shall forgive you your sins and increase the rewards of those who do good.’ But the wrongdoers substituted a different word from the one they had been given. So, because they persistently disobeyed, We sent a plague down from the heavens upon the wrongdoers.
+
+I have no idea where this comes from.  It doesn't seem to match any story of the Bible. It seems to be made up.
+
+## [2: 60](https://quran.com/2/60)
+
+This verse says that when Moses struck the rock **Twelve springs gushed out, and each group knew its drinking place.** This is inaccurate.  There is no mention of 12 streams.
+
+## [2: 62](https://quran.com/2/62)
+
+> The [Muslim] believers, the Jews, the Christians, and the Sabians- all those who believe in God and the Last Day and do good- will have their rewards with their Lord.
+
+Once again it jumps to a wildly different topic.
+
+**The Sabians** were a Gnostic group following John the Baptist. This list of approved groups is very random and misleading. 
+
+## [2: 63,64](https://quran.com/2/63-64)
+
+This passage is very vague. I have no idea what story it refers to.
+
+## [2: 65,66](https://quran.com/2/65-66)
+
+> You know about those of you who broke the Sabbath, and so We said to them, ‘Be like apes! Be outcasts!’
+
+This also never happened. God has never said sabbath breakers are apes. Breaking the sabbath was punished by death, not ostracism.
+
+## [2: 67-73](https://quran.com/2/67-73)
+
+Some shenanigans about a cow. Also a story not mentioned in the Bible.
+
+> Moses said to his people, ‘God commands you to sacrifice a cow.’ They said, ‘Are you making fun of us?
+
+Why would they react like this to such a common idea as sacrificing a cow? They are baffled and don't know what is going on, asking **show us what sort of cow it should be** and Moses explains it should be **neither too old nor too young** and **bright yellow**, which is a weird color for a cow. They are still confused thinking **all cows are more or less alike to us**. So Moses needs to expand lain that it should be **perfect and unblemished cow, not trained to till the earth or water the fields**. And then finally they understand.
+
+The cow is then apparently used to resurrect dead people by striking their dead body with a piece of the cow.
+
+This whole story is non-existent in the Bible, very odd and pointless.
+
+## [2: 75-78](https://quran.com/2/75-78)
+
+> So can you believers hope that such people (Jews) will believe you, when some of them used to hear the words of God and then deliberately twist them, even when they understood them? … Some of them are uneducated, and know the Scripture only through wish-ful thinking. They rely on guesswork.
+
+It's ironic that after [having claimed that the Torah is unchanged](#2-40-46), the author just spews a bunch of incorrect or completely fabricated stories, and then accuse Jews of twisting the words of God. Olympic levels of mental gymnastics.
+
+## [2: 79](https://quran.com/2/79)
+
+> So woe to those who write something down with their own hands and then claim, ‘This is from God,’ in order to make some small gain. Woe to them for what their hands have written! Woe to them for all that they have earned!
+
+This must be the most ironic part of the Quran thus far, since Muhammad is the perfect example of **who write something down with their own hands and then claim, ‘This is from God,’ in order to make some small gain.**
+
+Woe to him.
+
+## [2: 80-82](https://quran.com/2/80-82)
+
+> those who believe and do good deeds will be the inhabitants of the Garden
+
+Islam is a works-righteousness religion. You have to do stuff to earn points to maybe go to paradise. But nowhere does it explain how many points you need or anything like that. And that means that there are a lot of really bad people in paradise, who are like 51% good and 49% evil.
 
