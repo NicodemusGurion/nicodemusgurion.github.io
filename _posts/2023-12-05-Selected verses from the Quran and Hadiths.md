@@ -713,7 +713,39 @@ Also:
 
 > …The Meccan people requested Allah's Messenger to show them a miracle, and so he showed them the splitting of the moon.
 
-So which is it? Muhammad never did any miracles, or Muhammad did miracles? This is a [conteadiction](#contradictions).
+So which is it? Muhammad never did any miracles, or Muhammad did miracles? This is a [contradiction](#contradictions).
+
+## Other things about Muhammad 
+
+### Muhammad cursed an orphan girl
+
+[Sahih Muslim 2603](https://sunnah.com/muslim:2603)
+
+> Anas b. Malik reported that there was an orphan girl with Umm Sulaim (who was the mother of Anas). Allah's Messenger saw that orphan girl and said: O, it is you; you have grown young. May you not advance in years! That slave-girl returned to Umm Sulaim weeping. Umm Sulaim said: O daughter, what is the matter with you? She said: Allah's Apostle has invoked curse upon me that I should not grow in age and thus I would never grow in age…
+
+The Bible says that being kind and help orphans in their need is pure and undefiled worship. (James 1:27) But Muhammad thinks it's ok to go around pronouncing curses upon orphan girls.
+
+## Muhammad didn't like garlic {#garlic}
+
+[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
+
+> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
+
+## Muhammad was the first Muslim
+
+[Quran 6:14](https://quran.com/6/14)
+
+> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”
+
+## Allah considered Muhammad the perfect example
+
+[Quran 33:21](https://quran.com/33/21)
+
+> Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
+
+[Quran 68:4](https://quran.com/68/4)
+
+> And you are truly a man of outstanding character.
 
 ## The death of Muhammad
 
@@ -790,28 +822,6 @@ See also:
 - [Sahih al Bukhari 4451](https://sunnah.com/bukhari:4451)
 - [Sahih al Bukhari 5217](https://sunnah.com/bukhari:5217)
 
-## Muhammad didn't like garlic {#garlic}
-
-[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
-
-> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
-
-## Muhammad was the first Muslim
-
-[Quran 6:14](https://quran.com/6/14)
-
-> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”
-
-## Allah considered Muhammad the perfect example
-
-[Quran 33:21](https://quran.com/33/21)
-
-> Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
-
-[Quran 68:4](https://quran.com/68/4)
-
-> And you are truly a man of outstanding character.
-
 # Paradise
 
 The Islamic paradise is a very physical place where people will eat fruit that all tastes the same. Then they will not poop, but belch out the excrement as musk.
@@ -866,6 +876,14 @@ Also:
 > The Prophet said, "Isn't he who raises his head before the Imam afraid that Allah may transform his head into that of a donkey or his figure into that of a donkey?"
 
 # The Quran
+
+## The Quran confirms the Bible 
+
+[Surah 2: 88-91](https://quran.com/2/88-91)
+
+> And when there comes to them a Book from Allah, **confirming what is with them**… When it is said to them, "Believe in what Allah Hath sent down, "they say, "We believe in what was sent down to us:" yet they reject all besides, even if it be Truth **confirming what is with them**…
+
+The Quran confirms the Bible that was available in the 7th century as being uncorrupted and coming from Allah. [We have extant copies that are even 300](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus)-[900 years older than the Quran](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls), and they are identical to our modern Bibles. This disproves the idea some Muslims put forth that the Bible has been corrupted.
 
 ## How to know if the Quran is inspired {#quran-inspired}
 

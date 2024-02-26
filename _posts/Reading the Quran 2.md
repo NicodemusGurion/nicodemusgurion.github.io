@@ -246,3 +246,71 @@ Woe to him.
 
 Islam is a works-righteousness religion. You have to do stuff to earn points to maybe go to paradise. But nowhere does it explain how many points you need or anything like that. And that means that there are a lot of really bad people in paradise, who are like 51% good and 49% evil.
 
+## [2: 83-86](https://quran.com/2/82-86)
+
+This passage is just general criticism against people being sinful.
+
+## [2: 87](https://quran.com/2/87)
+
+> We gave Moses the Scripture and We sent messengers after him in succession. We gave Jesus, son of Mary, clear signs and strengthened him with the Holy Spirit
+
+Moses is mentioned 136 times. Jesus 25 times. Mary is the only woman named in the Quran 34 times. But Muhammad is only mentioned 4 times.
+
+## [2: 88-91](https://quran.com/2/88-91)
+
+> And when there comes to them a Book from Allah, **confirming what is with them**… When it is said to them, "Believe in what Allah Hath sent down, "they say, "We believe in what was sent down to us:" yet they reject all besides, even if it be Truth **confirming what is with them**…
+
+This says that the Quran is **confirming what is with them**, meaning the Bible that the Jews and Christians had in the 7th century. [We have extant copies that are even 300](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus)-[900 years older than the Quran](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls), and these are identical to modern Bibles. These are the ones the Quran claims to "confirm", so according to the Quran, the Bible has not been corrupted.
+
+However while the Quran confirms that the Bible has not been corrupted, it also contradicts the Bible on many important points. 
+
+So what gives? If Allah is the author of both, and the Quran affirms both, then either Allah lied in the Bible or Allah lies in the Quran. 
+
+Or, the Quran is not written by Allah, but is written by an ignorant illiterate Arabic warlord pretending to be a inspired by God [for fun and profit.](/quran-and-Hadiths/#child-sexual-abuse)
+
+## [2: 92-96](https://quran.com/2/92-96)
+
+More complaints about people being disobedient.
+
+## [2: 97-98](https://quran.com/2/97-98)
+
+> Whoever is an enemy to Gabriel-for he brings down the (revelation) to thy heart by Allah's will, a confirmation of what went before
+
+Islam seems to accredit Gabriel for conveying all revelation. In the Bible Gabriel is mentioned twice bringing messages. Other times it is unnamed angels, or the Word of God, or the Spirit of God who comes directly. Islam seems to conflate all these diverse means of communication God uses into one angel who is really busy.
+
+This verse also affirms that the Bible is correct, saying the Quran is **a confirmation of what went before**, i.e. the Bible.
+
+## [2: 99](https://quran.com/2/99)
+
+> We have sent down to thee Manifest Signs (ayat)
+
+Just a note on translation itself: The Arabic says "ayat" meaning verse, but it is here translated as "Signs", which is also a synonym for miracles. I just want to bring your attention to the fact that Muslims consider the Quran itself a miracle (as if writing a really poor piece of literature is beyond human ability), so each piece of text is a "miracle" because they think Allah himself authored it. It's a really strange view, but it is good to keep in mind when Muslims talk about "miracles" that their definition could potentially be vastly different from what would normally be considered a miracle. A Christian would not consider a random Bible verse to be a miracle. Perhaps if the verse was a prophecy that was fulfilled, then the prophecy would be considered a miracle, but not the text of the verse itself. Just something I have noticed.
+
+
+## [2: 100-101](https://quran.com/2/100-101)
+
+> there came to them a messenger from Allah, confirming what was with them
+
+More complaints against faithful people and more confirmation that the Bible is not corrupted.
+
+## [2: 102-103](https://quran.com/2/102-103)
+
+
+> They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut.…
+
+The names Hārūt and Mārūt do not originate from Semitic beliefs, but appear to be etymologically related to Haurvatat and Ameretat, two Amesha Spenta (a class of seven divine entities emanating from Ahura Mazda) from Zoroastrianism.
+
+The idea that Solomon was doing magic may come from sources such as [the Testament of Solomon](https://en.m.wikipedia.org/wiki/Testament_of_Solomon), which was written sometime between the first and tenth century A.D. It is not biblical though.
+
+These show that Muhammad just copy-pasted random lore and fables floating around at the time.
+
+## [2: 102-103](https://quran.com/2/102-103)
+
+> Say not (to the Messenger) words of ambiguous import, but words of respect
+
+The word translated "words of ambiguous import" in Arabic is Raina (رَٰعِنَا) and the word translated "words of respect" is Unzurna (ٱنظُرْنَا). "Do not say Raina but say Unzurna." 
+
+After consulting [this Quranic dictionary](https://corpus.quran.com/wordbyword.jsp) it seems Raina means "Observe" and Unzurna means "Look". So, "don't say 'observe' but say 'look'…"
+
+It seems the translation is taking liberties because the Arabic makes no sense whatsoever. So much for a clear and understandable message from God…
+
