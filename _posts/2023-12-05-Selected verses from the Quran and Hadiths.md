@@ -85,6 +85,22 @@ Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is dec
 
 This is also a verse that proves Islam is historically false, for the crucifixion of Jesus is the most well documented event in ancient history.
 
+## Allah wants people to sin
+
+[Sahih Muslim 2749](https://sunnah.com/muslim:2749)
+
+> By Him in Whose Hand is my life, if you were not to commit sin, Allah would sweep you out of existence and He would replace (you by) those people who would commit sin and seek forgiveness from Allah, and He would have pardoned them.
+
+## Allah has predestined adultery
+
+[Sahih al-Bukhari 6612](https://sunnah.com/bukhari:6612)
+
+> Allah has written for the son of Adam his inevitable share of adultery whether he is aware of it or not
+
+[Sahih Muslim 2657 b](https://sunnah.com/muslim:2657b)
+
+> Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity must commit.
+
 # Animals
 
 ## Owning a dog gives you minus points {#owning-a-dog}
@@ -717,13 +733,15 @@ So which is it? Muhammad never did any miracles, or Muhammad did miracles? This 
 
 ## Other things about Muhammad 
 
-### Muhammad cursed an orphan girl
+### Muhammad cursed an orphan girl to die young 
 
 [Sahih Muslim 2603](https://sunnah.com/muslim:2603)
 
 > Anas b. Malik reported that there was an orphan girl with Umm Sulaim (who was the mother of Anas). Allah's Messenger saw that orphan girl and said: O, it is you; you have grown young. May you not advance in years! That slave-girl returned to Umm Sulaim weeping. Umm Sulaim said: O daughter, what is the matter with you? She said: Allah's Apostle has invoked curse upon me that I should not grow in age and thus I would never grow in age…
 
-The Bible says that being kind and help orphans in their need is pure and undefiled worship. (James 1:27) But Muhammad thinks it's ok to go around pronouncing curses upon orphan girls.
+The Bible says that being kind and help orphans in their need is pure and undefiled worship. (James 1:27) 
+
+Even [Surah 93:9](https://quran.com/93/9) says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
 
 ## Muhammad didn't like garlic {#garlic}
 
