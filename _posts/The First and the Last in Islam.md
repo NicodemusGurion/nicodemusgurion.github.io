@@ -1,6 +1,6 @@
 ---
 title: Who is the first and the last?
-tags: [Islam, Apologetics, Jesus, Deity if Christ]
+tags: [Islam, Apologetics, Jesus, Deity of Christ]
 ---
 
 In the Quran, chapter 57 verse 3 it says about Allah:
@@ -13,7 +13,7 @@ The Quran says that Allah is called "the First and the Last". The Bible agrees t
 
 > Isaiah 48:12 “Listen to me, O Jacob, and Israel, whom I called! I am he; **I am the first, and I am the last.**
 
-And the one who is **the** first and **the** last is without doubt eternal and the creator of everything else. So I think we can all agree that if anyone is called "the First and the Last", he must be God/Allah, right?
+And the one who is **the** first and **the** last is without doubt eternal and the creator of everything else. So I think we can all agree that if anyone is called "the First and the Last", he must be Allah, right?
 
 Good.
 
@@ -21,19 +21,19 @@ Let's look at the first chapter of Revelation where John met someone appearing i
 
 > Revelation 1:17-18 When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, “Fear not, **I am the first and the last**, 18 and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades.
 
-This person identifies himself as "the First and the Last", in other words this is God/Allah. He also calls himself "the First and the Last" in the next chapter:
+This person identifies himself as "the First and the Last", in other words this is Allah. He also calls himself "the First and the Last" in the next chapter:
 
 > Revelation 2:8 "And to the angel of the church in Smyrna write: ‘The words of **the first and the last**, who died and came to life.'"
 
-This is God/Allah. No doubt. No one else can claim that title.
+This is Allah. No doubt. No one else can claim that title.
 
 But did you notice? Revelation 1:18 says "I died, and behold I am alive forevermore" and 2:8 says "who died and came to life". 
 
-When did God/Allah ever die and come back to life?
+When did Allah ever die and come back to life?
 
 It happened when God came to earth, died, and was resurrected, as **Jesus**.
 
-Yes, this is talking about Jesus. Jesus is "the First and the Last". Jesus is called by a title that **only** belongs to God/Allah. Because Jesus **is** God/Allah.
+Yes, this is talking about Jesus. Jesus is "the First and the Last". Jesus is called by a title that **only** belongs to Allah. Because Jesus **is** Allah.
 
 In Revelation 22:13, "the First and the Last", Jesus, is also called "the Alpha and the Omega", a synonymous title. 
 
@@ -45,4 +45,4 @@ And in Revelation 1:8, "the Alpha and  the Omega" is also called The Lord God Al
 
 Which also is the same Jesus that met John.
 
-So the Quran shows that Jesus Christ is God/Allah almighty. The First and the Last.
+So the Quran shows that Jesus Christ is Allah almighty. The First and the Last.

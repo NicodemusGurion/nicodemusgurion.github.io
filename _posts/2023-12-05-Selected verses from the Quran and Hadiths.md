@@ -101,6 +101,14 @@ This is also a verse that proves Islam is historically false, for the crucifixio
 
 > Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity must commit.
 
+## Allah pampers Muhammad
+
+[Sahih al Bukhari 4788](https://sunnah.com/bukhari:4788)
+
+> I said (to the Prophet), "I feel that your Lord hastens in fulfilling your wishes and desires."
+
+Even Aisha noticed that the "revelations" that Muhammad got from Allah was suspiciously self-serving, affording him all sorts of luxuries and privileges. For example he was the only one who could take more than 4 wives, he could use his female slaves as sex slaves without his wives being able to complain, could steal his adoptive son's wife, and Allah even instructed people how to handle dinner parties at his place, because Muhammad was too shy to tell people himself. It seems like every time Muhammad had any desire, Allah came with a convenient revelation permitting him to go ahead.
+
 # Animals
 
 ## Owning a dog gives you minus points {#owning-a-dog}
