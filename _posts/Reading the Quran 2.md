@@ -314,3 +314,24 @@ After consulting [this Quranic dictionary](https://corpus.quran.com/wordbyword.j
 
 It seems the translation is taking liberties because the Arabic makes no sense whatsoever. So much for a clear and understandable message from God…
 
+## [2: 105](https://quran.com/2/105)
+
+> Neither those who disbelieve from the People of the Scripture [i.e., the Jews and Christians] nor the polytheists wish that any good should be sent down to you from your Lord.
+
+Allah is saying "they don't want you to have good stuff". This is manipulation, framing Jews and Christians as evil ones who try to withhold good from Muslims. See Genesis 3:1-6 for an example of this lie.
+
+## [2: 106](https://quran.com/2/106)
+
+> We do not abrogate a verse or cause it to be forgotten except that We bring forth [one] better than it or similar to it.
+
+Allah admits that he *does* change his word, and **cause it to be forgotten**. Whether he "**brings forth one better**" makes no difference because it totally destroys the idea that "the Quran is perfectly preserved". History also proves that it is not.
+
+## [2: 107](https://quran.com/2/107)
+
+> you have not besides Allāh any protector or any helper?
+
+This is the kind of thing you expect to hear from a domestic abuser trying to get his victim to stay. Negging and manipulation.
+
+## [2: 108](https://quran.com/2/108)
+
+> Or do you intend to ask1 your Messenger as Moses was asked before? And whoever exchanges faith for disbelief has certainly strayed from the soundness of the way.

@@ -287,6 +287,8 @@ This is directed to Muslims, how to deal with those who "who wage war against Al
 
 # Jihad
 
+See also [Violence](#violence) and [Muhammad and violence](#muhammad-and-violence).
+
 ## Jizya
 
 [Sahih Muslim 1731a](https://sunnah.com/muslim:1731a)
@@ -324,7 +326,8 @@ Also:
 - [Sunan Ibn Majah 3927](https://sunnah.com/ibnmajah:3927)
 - [Sunan Ibn Majah 3928](https://sunnah.com/ibnmajah:3928)
 - [Sunan Ibn Majah 3929](https://sunnah.com/ibnmajah:3929)
-- 
+
+
 # Mohammad
 
 Things that Mohammad did.
@@ -387,6 +390,8 @@ See also:
 > Narrated Aisha: I said, "O Allah's Messenger! A virgin feels shy." He said, "Her consent is (expressed by) her silence."
 
 A true rape culture.
+
+See also [Rape](#rape).
 
 ## Muhammad and family
 
@@ -579,6 +584,8 @@ Hypocrite.
 
 > I used to rub off the semen from the clothes of the Messenger of Allah. He would would pray in it.
 
+> Incase I (Aisha) found that (semen) on the garment of the Messenger of Allah dried up, I scraped it off with my nails.
+
 I can imagine this poor girl walking after this old man, rubbing dried up semen stains out of his clothes with her finger nail while he's on his way to the mosque.
 
 See also:
@@ -615,6 +622,8 @@ Also:
 > The Messenger of Allah was not very tall nor was he [very] short, nor was he pale white, nor was he brown, nor was the wave of his hair completely curly nor straight…
 
 ## Muhammad and violence
+
+See also [Jihad](#jihad), and [Violence](#violence)
 
 ### Muhammad tortured people to death {#tortured-to-death}
 
@@ -761,7 +770,7 @@ Even [Surah 93:9](https://quran.com/93/9) says "so as for the orphan, do not opp
 
 [Quran 6:14](https://quran.com/6/14)
 
-> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “I have been commanded to be the first to submit and not be one of the polytheists.”
+> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “**I have been commanded to be the first to submit** and not be one of the polytheists.”
 
 ## Allah considered Muhammad the perfect example
 
@@ -1038,7 +1047,7 @@ Not only are Muslims allowed to rape women, but can just discard them like trash
 
 # Salvation 
 
-How are Muslims saved?
+How Muslims are saved on judgment day is confusing and contradictory.
 
 ## No ransom 
 
@@ -1059,6 +1068,19 @@ So there will be no ransom for anyone. This contradicts [other sources saying th
 Christianity teaches that Jesus is the perfect one who does not deserve hellfire but took this punishment in stead of those who have faith in him. Some Muslims think this is unjust saying that it's wrong that someone should take the punishment for someone else's sin. However here, Allah will let Jews and Christians take the punishment for the sins of Muslims. Is that just, though?
 
 Als this implies that Jews and Christians as not sinners deserving of hell, but that Muslims are sinners deserving of hell. Otherwise, if the Jews and Christians were already in hell, the exchange could not be made.
+
+## The Quran will come and intercede
+
+[Sahih Muslim 804 a](https://sunnah.com/muslim:804a)
+
+> Recite the Qur'an, for on the Day of Resurrection it will come as an intercessor for those who recite It. Recite the two bright ones, al-Baqara and Surah Al 'Imran, for on the Day of Resurrection they will come as two clouds or two shades, or two flocks of birds in ranks, pleading for those who recite them.
+
+Islam teaches that the Quran is actually alive and will function as an intercessor on the day of judgment. It will come as clouds, shades, or flocks of birds, and it will speak, pleading for Muslims.
+
+See also:
+
+- [Mishkat al-Masabih 2120](https://sunnah.com/mishkat:2120)
+
 
 # Satan
 
@@ -1151,6 +1173,24 @@ See also:
 [Sunan Ibn Majah 3257](https://sunnah.com/ibnmajah:3257)
 [Sunan Ibn Majah 3258](https://sunnah.com/ibnmajah:3258) 
 
+## The coccyx does not decay
+
+[Sahih al-Bukhari 4935](https://sunnah.com/bukhari:4935)
+
+> There is nothing of the human body that does not decay except one bone; that is the little bone at the end of the coccyx of which the human body will be recreated on the Day of Resurrection.
+
+I'm pretty sure it does, eventually.
+
+# Sin
+
+## Allah predetermines adultery
+
+[Sahih Muslim 2657 b](https://sunnah.com/muslim:2657b)
+
+> Verily Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity must commit.
+
+A man who commits adultery is really only doing the will of Allah, and has no choice in it.
+
 # Slavery
 
 ## Gifting slaves is better than freeing them
@@ -1160,6 +1200,8 @@ See also:
 > Maimuna bint Harith reported that she set free a slave-girl during the lifetime of the Messenger of Allah and she made a mention of that to the Messenger of Allah and he said: Had you given her to your maternal uncles, you would have a greater reward.
 
 # Violence
+
+See also [Muhammad and violence](#muhammad-and-violence).
 
 ## Fighting is obligatory 
 
@@ -1173,7 +1215,7 @@ Apparently Allah thinks violence is good for humans.
 
 [Quran 3:151-152](https://quran.com/3/151-152)
 
-> We will throw terror into the hearts of those who have denied because they associated with Allah (partners) for which He bestowed from on high no authority. And their shelter is the Fire, and how miserable is the dwelling of the unjust! And very truly Allah fulfilled His promise to you as you killed them by His permission, until when you faltered and disagreed with each other about the matter and disobeyed after He had shown you what you love: …
+> We will **throw terror into the hearts** of those who have denied because they associated with Allah (partners) for which He bestowed from on high no authority. And their shelter is the Fire, and how miserable is the dwelling of the unjust! And very truly Allah fulfilled His promise to you **as you killed them** by His permission, until when you faltered and disagreed with each other about the matter and disobeyed after He had shown you what you love: …
 
 Allah will use **terror** against unbelievers. By what method? By Muslims **killing them by His permission**. And then Allah will burn them in **the Fire** forever. But is this a coincidence? No, if a Muslims had a shred of humanity and **faltered and disagreed with each other about the matter** whether terrorism is good, Allah sees that as them having **disobeyed** him.
 
@@ -1199,7 +1241,7 @@ If someone just wants to **be safe from** Islam and just want to live their life
 
 ## The penalty for resisting Islam
 
-[Quran 5:33](https://quran.com/5:33
+[Quran 5:33](https://quran.com/5:33)
 
 > Indeed, the penalty for those who wage war against Allah and His Messenger and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land**. This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous punishment in the Hereafter.
 
@@ -1215,6 +1257,8 @@ In case you wage war against Islam, for example by exposing what a horrible ideo
 Ever wondered why Islamic terrorists behead their victims? It's by the book.
 
 ## Not fighting for Islam is punished with hell
+
+[Quran 8:15-16](https://quran.com/8/15-16)
 
 > O believers! When you face the disbelievers in battle, never turn your backs to them. And whoever does so on such an occasion—unless it is a manoeuvre or to join their own troops—will earn the displeasure of Allah, and their home will be Hell. What an evil destination!
 
