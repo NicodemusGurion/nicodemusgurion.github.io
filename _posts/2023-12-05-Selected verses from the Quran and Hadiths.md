@@ -1108,13 +1108,14 @@ See also:
 
 > The bell is the musical instrument of the Satan.
 
-Funny since in [Sunan an-Nasa'i 933](https://sunnah.com/nasai:933) Muhammad says that his revelations were often accompanied by the ringing of a bell:
+Funny since in [Sahih al Bukhari 2](https://sunnah.com/bukhari:2)  Muhammad says that his revelations were often like the ringing of a bell, so you don't have to wonder about it's true source.
 
-> Al-Harith bin Hisham asked the Messenger of Allah: 'How does the Revelation come to you?' He said: 'Like the ringing of a bell, and when it departs I remember what he said, and this is the hardest on me…
+> Al-Harith bin Hisham asked Allah's Messenger "O Allah's Messenger! How is the Divine Inspiration revealed to you?" Allah's Messenger replied, "Sometimes it is (revealed) like the ringing of a bell, this form of Inspiration is the hardest of all and then this state passes off after I have grasped what is inspired.
 
 See also:
 
 - [Sunnan Abu Dawud 2556](https://sunnah.com/abudawud:2556)
+- [Sunan an-Nasa'i 933](https://sunnah.com/nasai:933)
 - [Riyad as-Salihin 1691](https://sunnah.com/riyadussalihin:1691)
 
 ## Muhammad once defeated Satan in a wrestling match
