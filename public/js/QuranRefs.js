@@ -20,7 +20,7 @@ function ChapterLink(input) {
 }
 
 function VersesLink(chapter, verses) {
-    const versesStripped = verses.replace(/[^\d-]/g, '');
+    const versesStripped = verses.split(':')[1].replace(/[^\d-]/g, '');
     return `<a href="https://quran.com/${chapter}/${versesStripped}">${verses}</a>`;
 }
 
