@@ -36,3 +36,38 @@ Here is a list of areas in which Christianity and Islam are different.
 | Adam named the animals | Allah told Adam what the animals were named (2:31) |
 
 | God forgives sin on the basis that Jesus took the just punishment. God is just. | Allah forgives sins without a basis, making him an unjust judge | 
+
+
+Jesus treated women as valuable equal humans.
+Muhammad said women are equal to dogs and donkeys, and that they are intellectually deficient.
+
+Jesus died forgiving his enemies.
+Muhammad died cursing all Jews and Christians.
+
+Jesus warned that if anyone hurts a child it would be better for him to have a millstone hung around his neck and drowned in the ocean.
+Muhammad raped a nine year old girl, harassed a boy by spreading slanderous rumours about him, and cursed an orphan girl to die young.
+
+Jesus expelled demons.
+Muhammad said demons became Muslims. (Surah 72)
+
+Jesus never married or did anything adulterous.
+Muhammad had 11 wives, committed adultery with slave girls, married a child, and stole his adopted son's wife. 
+
+The apostles went throughout the world to spread the word of Jesus, lived in poverty, were persecuted and killed for their faith.
+The Sahaba (followers of Muhammad) spread Islam by force and military conquest, gained wealth, power, and women, and even killed each other.
+
+Jesus healed the sick.
+Muhammad massacred people.
+
+Jesus taught us to love our enemies. 
+Muhammad taught us to kill our enemies.
+
+Jesus saved an adulterous woman from being stoned to death.
+Muhammad stoned an adulterous woman to death.
+
+
+
+
+ 
+Heaven in the Bible is to be in the presence of God, enjoying his glory, not having genitals, not marrying or having sex.
+Heaven in the Quran is to not be in the presence of Allah, but to have eternal erections and being married to and having sex with eternal virgins with big breasts.
