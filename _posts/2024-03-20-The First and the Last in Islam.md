@@ -1,6 +1,8 @@
 ---
 title: Who is the first and the last?
 tags: [Islam, Apologetics, Jesus, Deity of Christ]
+image: https://i.ibb.co/WBw1b9v/FD2-BDEAB-6505-4-BE2-9-CD5-72-DF37-FA378-E.jpg
+thumb: https://i.ibb.co/6Dx53h0/FD2-BDEAB-6505-4-BE2-9-CD5-72-DF37-FA378-E.jpg
 ---
 
 In the Quran, chapter 57 verse 3 it says about Allah:
