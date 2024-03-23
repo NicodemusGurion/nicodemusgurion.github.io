@@ -5,6 +5,8 @@ image: https://i.ibb.co/WBw1b9v/FD2-BDEAB-6505-4-BE2-9-CD5-72-DF37-FA378-E.jpg
 thumb: https://i.ibb.co/6Dx53h0/FD2-BDEAB-6505-4-BE2-9-CD5-72-DF37-FA378-E.jpg
 ---
 
+Both the Bible and the Quran talks about someone titled "The First and the Last". Who is it that bear this unique and significant title? 
+
 In the Quran, chapter 57 verse 3 it says about Allah:
 
 > He is the First and the Last, the Most High and Most Near, and He has perfect knowledge of all things.
