@@ -83,7 +83,7 @@ Surah 4:157
 
 Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is deceptive.
 
-This is also a verse that proves Islam is historically false, for the crucifixion of Jesus is the most well documented event in ancient history.
+This is also a verse that proves Islam is historically false, for [the crucifixion of Jesus is the most well documented event in ancient history.](#no-crucifixion)
 
 ## Allah wants people to sin
 
@@ -217,7 +217,7 @@ Surah 20:85
 
 The Samaritan people did not exist until at least a thousand years after the event where the Israelites were misled into worshipping the golden calf.
 
-## Jesus was not crucified 
+## Jesus was not crucified {#no-crucifixion}
 
 Surah 4:157
 
