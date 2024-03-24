@@ -140,17 +140,13 @@ If the Quran is from Allah, there should be no contradictions.
 
 Was it 6 days or 8 days?
 
-Surah 10:3
+Surah 10:3 says Allah created the heavens and the earth in 6 days.
 
 > Surely your Lord is Allah Who created the heavens and the earth in six Days,...
 
-Surah 41:9-12
+Surah 41:9-12 says Allah created the heavens and the earth in 8 days. 2 + 4 + 2 = 8. 
 
-Allah created the heavens and the earth in 6 days.
-
-> Ask ˹them, O  Prophet˺, “How can you disbelieve in the One Who created the earth in two Days? And how can you set up equals with Him? That is the Lord of all worlds. He placed on the earth firm mountains, standing high, showered His blessings upon it, and ordained ˹all˺ its means of sustenance—totaling four Days exactly1—for all who ask. ... So He formed the heaven into seven heavens in two Days, assigning to each its mandate. ... 
-
-2 + 4 + 2 = 8. Allah created the heavens and the earth in 8 days.
+> Ask ˹them, O  Prophet˺, “How can you disbelieve in the One Who created the earth in **two Days**? And how can you set up equals with Him? That is the Lord of all worlds. He placed on the earth firm mountains, standing high, showered His blessings upon it, and ordained ˹all˺ its means of sustenance—totaling **four Days** exactly —for all who ask. ... So He formed the heaven into seven heavens in **two Days**, assigning to each its mandate. ... 
 
 ## Muhammad did and did not do miracles 
 
@@ -170,7 +166,7 @@ Surah 9:30
 
 > The Jews say, “Ezra is the son of Allah,” …
 
-No Jews have ever claimed that Ezra is the son of God. Is it Allah or Muhammad who is ignorant of this fact?
+This is false. No Jews have ever claimed that Ezra is the son of God. Is it Allah or Muhammad who is ignorant of this fact?
 
 ## Christians worship Mary {#worshipping-mary}
 
