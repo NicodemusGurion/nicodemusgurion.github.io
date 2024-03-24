@@ -25,7 +25,7 @@ Some selected Quran and Hadith verses.
 
 ## Allah prays
 
-[Quran 2:157](https://quran.com/2/157?translations=17)
+Surah 2:157
 
 > Upon those are the prayers *from* their Lord, and mercy; and those are they (who) are the right-guided.
 
@@ -55,7 +55,7 @@ Apparently there are things that surprise Allah. How could someone supposedly al
 
 ## Allah is limited to one location
 
-[Quran 20:5](https://quran.com/20/5)
+Surah 20:5
 
 > the Most Compassionate, Who is˺ established on the Throne.
 
@@ -71,13 +71,13 @@ Allah doesn't know how time zones work. If he comes down every night at  3am, an
 
 ## Allah deceives
 
-[Quran 8:43,44](https://quran.com/8/43-44?translations=149)
+Surah 8:43-44
 
 > Recall: Allah showing them to you in your sleep as few, for had He showed them to you as many, you would have faltered and disagreed with each other about the matter, but Allah saved (the situation). He is indeed All-Knowing of what lies within the chests. And recall: when you met, Him showing them to you as few in your eyes and making you appear fewer in their eyes, so that Allah might carry out a predetermined matter. And to Allah all matters are returned.
 
 Allah deceived Muhammad to go into battle against a large army, making him think it was a small army. He also deceived his enemies in the same way.
 
-[Quran4:157](https://quran.com/4/157?translations=149)
+Surah 4:157
 
 > and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
 
@@ -130,7 +130,7 @@ Even Aisha noticed that the "revelations" that Muhammad got from Allah was suspi
 
 # Contradictions
 
-[Quran 4:82](https://quran.com/4/82)
+Surah 4:82
 
 > Do they not then reflect on the Quran? Had it been from anyone other than Allah, they would have certainly found in it many inconsistencies.
 
@@ -140,11 +140,11 @@ If the Quran is from Allah, there should be no contradictions.
 
 Was it 6 days or 8 days?
 
-[Quran 10:3](https://quran.com/10/3)
+Surah 10:3
 
 > Surely your Lord is Allah Who created the heavens and the earth in six Days,...
 
-[Quran 41:9-12](https://quran.com/41?startingVerse=9)
+Surah 41:9-12
 
 Allah created the heavens and the earth in 6 days.
 
@@ -154,7 +154,7 @@ Allah created the heavens and the earth in 6 days.
 
 ## Muhammad did and did not do miracles 
 
-In the [Quran 6:37](https://quran.com/6/37); [6:109](https://quran.com/6/109); [13:7](https://quran.com/13/7); [17:59](https://quran.com/17/59) and [20:20](https://quran.com/10/20) it says that Muhammad never did any miracles. But in [Sahih al Bukhari 3637](https://sunnah.com/bukhari:3637) it says that he DID do a miracle.
+In Surah 6:37; 6:109; 13:7; 17:59; 20:20 it says that Muhammad never did any miracles. But in [Sahih al Bukhari 3637](https://sunnah.com/bukhari:3637) it says that he DID do a miracle.
 
 ## Are people ransomed from hell or not.
 
@@ -166,15 +166,15 @@ Historical and factual errors
 
 ## Jews think Ezra is the son of Allah {#ezra-son-of-allah}
 
-[Quran 9:30](https://quran.com/9/31)
+Surah 9:30
 
 > The Jews say, “Ezra is the son of Allah,” …
 
 No Jews have ever claimed that Ezra is the son of God. Is it Allah or Muhammad who is ignorant of this fact?
 
-## Christians worship Mary
+## Christians worship Mary {#worshipping-mary}
 
-[Quran 5:116](https://quran.com/5/116)
+Surah 5:116
 
 > And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?”...
 
@@ -182,7 +182,7 @@ Christians don't worship Mary. But Allah doesn't know this.
 
 ## Mary the mother of Jesus is the brother of Aaron {#who-is-mary}
 
-[Quran 19:27,28](https://quran.com/19?startingVerse=27)
+Surah 19:27-28
 
 > Then she returned to her people, carrying him [Jesus]. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing! O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”
 
@@ -190,7 +190,7 @@ Mary the mother of Jesus lived in first century Judaea/Galilee. Mariam the siste
 
 ## Pharao ordered Haman to build the Tower of Babel {#pharao-haman-tower}
 
-[Quran 40:36](https://quran.com/40?startingVerse=36)
+Surah 40:36
 
 > Pharaoh ordered, “O Hamân! Build me a high tower so I may reach the pathways leading up to the heavens and look for the God of Moses, although I am sure he is a liar.” …
 
@@ -198,7 +198,7 @@ The Pharao was the king of Egypt. Haman was an Amalekite man, an enemy of Israel
 
 ## Pharao threatened people with crucifixion {#egyptian-crucifixion}
 
-[Quran 7:123,124](https://quran.com/7/123-124)
+Surah 7:123-124
 
 > Pharaoh threatened, … "I will certainly cut off your hands and feet on opposite sides, then crucify you all.”
 
@@ -206,12 +206,12 @@ Crucifixion was never used by ancient Egypt, and did not become a common form of
 
 See also:
 
-- [Quran 20:71](https://quran.com/20/71)
-- [Quran 25:49](https://quran.com/26/49)
+- Surah 20:71
+- Surah 25:49
 
 ## The Israelites were misled by a Samaritan {#misled-by-samaritan}
 
-[Quran 20:85](https://quran.com/20/85)
+Surah 20:85
 
 > Allah responded, “We have indeed tested your people in your absence, and the Samaritan has led them astray.
 
@@ -219,7 +219,7 @@ The Samaritan people did not exist until at least a thousand years after the eve
 
 ## Jesus was not crucified 
 
-[Quran4:157](https://quran.com/4/157?translations=149)
+Surah 4:157
 
 > and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
 
@@ -265,7 +265,7 @@ Also:
 
 ## The verse they use to lie that Islam is peaceful 
 
-[Quran 5:32](https://quran.com/5/32)
+Surah 5:32
 
 > That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
 
@@ -281,7 +281,7 @@ And what "land" is it talking about? Well, the land of the Jews, Israel, or Pale
 
 But wait, it gets better. The next verse is what applies to Muslims:
 
-[Quran 5:33](https://quran.com/5/33)
+Surah 5:33
 
 > Indeed, the penalty **for those who wage war against Allah and His Messenger** and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land.** This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous **punishment in the Hereafter.**
 
@@ -334,7 +334,6 @@ Also:
 - [Sunan Ibn Majah 3927](https://sunnah.com/ibnmajah:3927)
 - [Sunan Ibn Majah 3928](https://sunnah.com/ibnmajah:3928)
 - [Sunan Ibn Majah 3929](https://sunnah.com/ibnmajah:3929)
-
 
 # Mohammad
 
@@ -721,7 +720,7 @@ Also:
 
 ## Muhammad's incompetence
 
-### Muhammad almost caused a famine
+### Muhammad almost caused a famine {#caused-famine}
 
 > It was narrated from 'Aisha that the Prophet heard some sounds and said: “What is this noise?” They said: “Palm trees that are being pollinated.” He said: “If they did not do that it would be better.” So they did not pollinate them that year, and the dates did not mature properly. they mentioned that to the Prophet and he said: “If it is one of the matters of your religion, then refer to me.”
 
@@ -731,11 +730,11 @@ Muhammad's incompetence caused the harvest to almost fail, yet he had the gall t
 
 ### Muhammad did NOT perform miracles {#no-miracles}
 
-[Quran 6:109](https://quran.com/6/109)
+Surah 6:109
 
 > And they swore by Allah their most solemn oaths that if a sign were to come to them, they would believe in it. Say, “Signs are only with Allah,” but how do you know that even if it did come, they would still not believe?
 
-[Quran 17:59](https://quran.com/17/59)
+Surah 17:59
 
 > And nothing prevented Us from sending miraculous signs except that the ancients disbelieved in them. ….
 
@@ -744,9 +743,9 @@ People didn't believe Muhammad was a prophet because true prophets of God were a
 
 Also:
 
-- [Quran 6:37](https://quran.com/6/37)
-- [Quran 13:7](https://quran.com/13/7)
-- [Quran 20:20](https://quran.com/10/20)
+- Surah 6:37
+- Surah 13:7
+- Surah 20:20
 
 ### Muhammad DID perform miracles {#did-miracles}
 
@@ -758,7 +757,7 @@ So which is it? Muhammad never did any miracles, or Muhammad did miracles? This 
 
 ## Other things about Muhammad 
 
-### Muhammad cursed an orphan girl to die young 
+### Muhammad cursed an orphan girl to die young {#cursed-orphan}
 
 [Sahih Muslim 2603](https://sunnah.com/muslim:2603)
 
@@ -766,7 +765,7 @@ So which is it? Muhammad never did any miracles, or Muhammad did miracles? This 
 
 The Bible says that being kind and help orphans in their need is pure and undefiled worship. (James 1:27) 
 
-Even [Surah 93:9](https://quran.com/93/9) says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
+Even Surah 93:9 says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
 
 ## Muhammad didn't like garlic {#garlic}
 
@@ -774,15 +773,15 @@ Even [Surah 93:9](https://quran.com/93/9) says "so as for the orphan, do not opp
 
 > Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
 
-## Muhammad was the first Muslim
+## Muhammad was the first Muslim {#first-muslim}
 
-[Quran 6:14](https://quran.com/6/14)
+Surah 6:14
 
 > Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “**I have been commanded to be the first to submit** and not be one of the polytheists.”
 
-## Allah considered Muhammad the perfect example
+## Allah considered Muhammad the perfect example {#perfect-example}
 
-[Quran 33:21](https://quran.com/33/21)
+Surah 33:21
 
 > Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
 
@@ -890,7 +889,7 @@ Also:
 
 > ...their wives will be large-eyed maidens...
 
-## Paradise dwellers will be 38.4 meters tall {#60-cubit-people}
+## Paradise dwellers will be 38.4 meters tall {#tall-people}
 
 [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
@@ -900,7 +899,7 @@ Also:
 
 ## There are 7 heavens {#seven-heavens}
 
-[Quran 2:29](https://quran.com/2/29)
+Surah 2:29
 
 > It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens...
 
@@ -918,42 +917,41 @@ Also:
 
 > The Prophet said, "Isn't he who raises his head before the Imam afraid that Allah may transform his head into that of a donkey or his figure into that of a donkey?"
 
-# The Quran
+# The Quran {#quran}
 
-## The Quran confirms the Bible 
+## The Quran confirms the Bible {#confirms-bible}
 
-[Surah 2: 88-91](https://quran.com/2/88-91)
+Surah 2: 88-91
 
 > And when there comes to them a Book from Allah, **confirming what is with them**… When it is said to them, "Believe in what Allah Hath sent down, "they say, "We believe in what was sent down to us:" yet they reject all besides, even if it be Truth **confirming what is with them**…
 
 The Quran confirms the Bible that was available in the 7th century as being uncorrupted and coming from Allah. [We have extant copies that are even 300](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus)-[900 years older than the Quran](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls), and they are identical to our modern Bibles. This disproves the idea some Muslims put forth that the Bible has been corrupted.
 
-## How to know if the Quran is inspired {#quran-inspired}
+## How to know if the Quran is inspired {#proof-of-inspiration}
 
-[Quran 2:23](https://quran.com/2/23)[, 24](https://quran.com/2/24)
+Surah 2:23-24
 
 > 23 If you are in doubt concerning that which We have sent down upon Our slave, then produce a chapter like it and call upon your helpers other than Allah, if you are truthful.24 But if you did not do it, and you can never do it; then beware of the Fire whose fuel will be people and stones, which is prepared for the disbelievers.
 
 The only claim to inspiration the Quran makes is in its literary excellence, claiming no one can produce a chapter like it. But if you have read it the first thing that strikes you is that literary speaking, it is garbage. Even a mediocre poet would be able to write a chapter far more excellent than most chapters of the Quran.
 
-## The Quran is not perfectly preserved
+## The Quran is not perfectly preserved {#not-preserved}
 
 One miraculous claim made is that the Quran has been perfectly preserved. However the Quran and Hadiths contradict this.
 
-### Allah foretold that the Quran wouldn’t be perfectly preserved 
+### Allah foretold that the Quran wouldn’t be perfectly preserved {#no-preservation}
 
-[Quran 2:106](https://quran.com/2/106)
+Surah 2:106
 
 > If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
 
-### Two chapters of the Quran were forgotten
+### Two chapters of the Quran were forgotten {#surahs-forgotten}
 
 [Sahih Muslim 1050](https://sunnah.com/muslim:1050)
 
 > Abu Harb b. Abu al-Aswad… We used to recite a surah which resembled in length and severity to (Surah) Bara'at. **I have, however, forgotten it** with the exception of this which I remember out of it:" If there were two valleys full of riches, for the son of Adam, he would long for a third valley, and nothing would fill the stomach of the son of Adam but dust." And we used so recite a surah which resembled one of the surahs of Musabbihat, and **I have forgotten it**, but remember (this much) out of it:" Oh people who believe, why do you say that which you do not practise" and" that is recorded in your necks as a witness (against you) and you would be asked about it on the Day of Resurrection"
 
 This reciter admits that they **used to recite** two surahs meaning it was once part of the Quran, but that they just forgot them. He remembers some fragments, but these match nothin in the Quran, proving that these surahs are gone forever. This proves the Quran has not been perfectly preserved.
-
 
 ### Two chapters of the Quran were eaten by a sheep {#sheep-ate-surahs}
 
@@ -971,7 +969,7 @@ How can the Quran be perfectly preserved when two Surah's were literally eaten b
 
 Apparently, chapters could be requested on demand by the followers of Muhammad to suit their personal preferences. How convenient.
 
-## Denying a Quran verse is a capital offense 
+## Denying a Quran verse is a capital offense {#denying-quran}
 
 > It was narrated from Ibn'Abbas that the Messenger of Allah said:
 > “Whoever denies a Verse of the Qur'an, it is permissible to strike his neck (i.e., execute him) 
@@ -980,7 +978,7 @@ See also [Apostasy](#apostasy)
 
 # Racism
 
-## Muhammad traded black slaves
+## Muhammad traded black slaves {#black-slaves}
 
 [Sahih Muslim 1602](https://sunnah.com/muslim:1602)
 
@@ -992,32 +990,32 @@ This is from chapter 23 which heading  reads:
 
 > Chapter 23: The permissibility of **selling animals for animals of the same kind and of different quality**
 
-## Black people are created for hell
+## Black people are created for hell {#blacks-made-for-hell}
 
 > …“God created Adam when He created him and struck his right shoulder and brought forth his offspring white like small ants. And he struck his left shoulder and brought forth his offspring black as though they were charcoal. Then He said to the party on his right side, ‘To paradise, and I do not care’ and He said to the party in his left shoulder, ‘To hell, and I do not care’.”
 
 According to Muhammed, white people are destined for heaven and black people are destined for hell.
 
-## Description of Turks 
+## Description of Turks {#turks}
 
 [Sahih al-Bukhari 2928](https://sunnah.com/bukhari:2928)
 
 > …The Hour will not be established until you fight with the Turks; people with small eyes, red faces, and flat noses. Their faces will look like shields coated with leather…
 
 
-## Ethiopians have heads like raisins
+## Ethiopians have heads like raisins {#raisin-heads}
 
 [Sahih al-Bukhari 693](https://sunnah.com/bukhari:693)
 
 > "Listen and obey (your chief) even if an Ethiopian whose head is like a raisin were made your chief."
 
-## Muhammad didn't like black dogs
+## Muhammad didn't like black dogs {#black-dogs}
 
 [Sunan Ibn Majah 3205](https://sunnah.com/ibnmajah:3205)
 
 > Were it not that dogs form one of the communities, I would have commanded that they be killed. But kill those that are all black...
 
-## Black people symbolize disease
+## Black people symbolize disease {#black-disease}
 
 [Sahih al-Bukhari 7039](https://sunnah.com/bukhari:7039)
 
@@ -1025,11 +1023,11 @@ According to Muhammed, white people are destined for heaven and black people are
 
 When Muhammad sees a black woman in a dream he automatically assumes she represents an epidemic.
 
-## On judgement day, people till turn white or black
+## On judgement day, people will turn white or black {#blackface-hell}
 
-[Quran 3:106-107](https://quran.com/3/106-107)
+Surah 3:106-107
 
-> on a day when some faces are whitened and some faces are blackened. So as for those whose faces were1blackened: “Did you deny after having attained faith?” Then taste the punishment on account of what you used to deny. And as for those whose faces were whitened—(they are) in Allah’s mercy; therein they abide.
+> on a day when some faces are whitened and some faces are blackened. So as for those whose faces were blackened: “Did you deny after having attained faith?” Then taste the punishment on account of what you used to deny. And as for those whose faces were whitened—(they are) in Allah’s mercy; therein they abide.
 
 # Rape
 
@@ -1059,7 +1057,7 @@ How Muslims are saved on judgment day is confusing and contradictory.
 
 ## No ransom 
 
-[Quran 2: 48](https://quran.com/2/48)
+Surah 2:48
 
 > Guard yourselves against a Day when no soul will stand in place of another, no intercession will be accepted for it, nor any ransom; nor will they be helped.
 
@@ -1136,7 +1134,7 @@ See also:
 
 ## Sperm comes from between the backbone and the ribs
 
-[Quran 86:6,7](https://quran.com/86?startingVerse=6)
+Surah 86:6-7
 
 > ˹They were˺ created from a spurting fluid, stemming from between the backbone and the ribcage.
 
@@ -1210,11 +1208,11 @@ A man who commits adultery is really only doing the will of Allah, and has no ch
 
 # Violence
 
-See also [Muhammad and violence](#muhammad-and-violence).
+See also [Jihad](#jihad), [Muhammad and violence](#muhammad-and-violence).
 
 ## Fighting is obligatory 
 
-[Quran 2:216](https://quran.com/2/216)
+Surah 2:216
 
 > Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know.
 
@@ -1222,7 +1220,7 @@ Apparently Allah thinks violence is good for humans.
 
 ## Killing unbelievers
 
-[Quran 3:151-152](https://quran.com/3/151-152)
+Surah 3:151-152
 
 > We will **throw terror into the hearts** of those who have denied because they associated with Allah (partners) for which He bestowed from on high no authority. And their shelter is the Fire, and how miserable is the dwelling of the unjust! And very truly Allah fulfilled His promise to you **as you killed them** by His permission, until when you faltered and disagreed with each other about the matter and disobeyed after He had shown you what you love: …
 
@@ -1230,13 +1228,13 @@ Allah will use **terror** against unbelievers. By what method? By Muslims **kill
 
 ## Kill unbelievers wherever you find them
 
-[Quran 4:89](https://quran.com/4:89)
+Surah 4:89
 
 > They wish you would disbelieve as they have disbelieved, so you may all be alike. So do not take them as allies unless they emigrate in the cause of Allah. But if they turn away, then seize them and kill them wherever you find them, and do not take any of them as allies or helpers,
 
 Do not befriend unbelievers but **seize them and kill them wherever you find them**.
 
-[Quran 4:91](https://quran.com/4:91)
+Surah 4:91
 
 > You will find others who wish to be safe from you and their own people. Yet they cannot resist the temptation ˹of disbelief or hostility˺. If they do not keep away, offer you peace, or refrain from attacking you, then seize them and kill them wherever you find them. We have given you full permission over such people.
 
@@ -1244,13 +1242,13 @@ If someone just wants to **be safe from** Islam and just want to live their life
 
 ## Allah likes terrorists more than peaceful Muslims 
 
-[Quran 4:95](https://quran.com/4:95)
+Surah 4:95
 
 >  Those believers who stay at home—except those with valid excuses1—are not equal to those who strive in the cause of Allah with their wealth and their lives.…
 
 ## The penalty for resisting Islam
 
-[Quran 5:33](https://quran.com/5:33)
+Surah 5:33
 
 > Indeed, the penalty for those who wage war against Allah and His Messenger and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land**. This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous punishment in the Hereafter.
 
