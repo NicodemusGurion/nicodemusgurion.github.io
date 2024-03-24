@@ -9,7 +9,9 @@ Some selected Quran and Hadith verses.
 
 [TOC]
 
-<small> Unless otherwise mentioned quotations are from Muhammad. Ellipsis (…) has been used to cut down on the volume of text; See original Hadith for full text. </small>
+<small> Note that there are many translations of the Quran and few of them are honest. Most of them paraphrase, add, remove, and change words to make it seem more palpable to westerners. For example, surah 4:34 says that men can "strike" their wives, but the Clear Quran renders this "discipline them gently". Or surah 1:157 which says that "Allah prays" (salawatun, from salat, pray), they change it to "blesses". As the saying goes "without lies Islam dies". If you don't expect honesty from Islamic scholars you will usually be right. </small>
+
+<small>Unless otherwise mentioned hadith quotations are from Muhammad. Since the hadiths are often verbose, ellipsis (…) has been used to cut down on the volume of text; See original Hadiths for full text. </small>
 
 # Adam
 
