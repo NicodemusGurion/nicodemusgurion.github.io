@@ -24,7 +24,7 @@ function ChapterLink(input) {
 function VersesLink(chapter, verses) {
   console.log("verse",chapter, verses);
   const versesStripped = verses.replace(/^[^:]*:/g, '').replace(/[^\d-]/g, '');
-  return '<a href="https://quran.com/${chapter}/${versesStripped}">${verses}</a>';
+  return `<a href="https://quran.com/${chapter}/${versesStripped}">${verses}</a>`;
 }
 
 /*function parseAndReplace(text) {
