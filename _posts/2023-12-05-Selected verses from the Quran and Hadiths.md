@@ -227,6 +227,14 @@ That Jesus was crucified by order of the Roman Prefect Pontius Pilate is subject
 
 In other words, the Quran is historically false.
 
+## No one was named John before John the Baptist
+
+Surah 19:7 
+
+> “O Zachariah! Indeed, We give you the good news of a son, whose name will be John—a name We have not given to anyone before.”
+
+John is not a unique name. in fact it was one of the most popular names in the first century. There are at least 5 people in the New testament named John. The Hebrew equivalent of the name John is "Johanan" and "Jehohanan", which means "Yahweh is gracious." There are at least 17 persons in the old testament with this name, for a total of 22 people in the whole Bible. So Allah and the Quran are wrong that John was the first one with this name.
+
 # Health and hygiene
 
 ## Muslims aren’t allowed to urinate standing {#no-urinating-standing}
@@ -1251,7 +1259,7 @@ In case you wage war against Islam, for example by exposing what a horrible ideo
 
 ## Beheading unbelievers
 
-[Quran 8:12](https://quran.com/8:12)
+Surah 8:12
 
 > … I will cast horror into the hearts of the disbelievers. So strike their necks and strike their fingertips.”
 
@@ -1259,7 +1267,8 @@ Ever wondered why Islamic terrorists behead their victims? It's by the book.
 
 ## Not fighting for Islam is punished with hell
 
-[Quran 8:15-16](https://quran.com/8/15-16)
+Surah 8:15-16
+
 
 > O believers! When you face the disbelievers in battle, never turn your backs to them. And whoever does so on such an occasion—unless it is a manoeuvre or to join their own troops—will earn the displeasure of Allah, and their home will be Hell. What an evil destination!
 
@@ -1316,7 +1325,7 @@ Also:
 
 ## Unbelievers visiting a mosque will go to hell
 
-[Quran 9:17,18](https://quran.com/9/17-18)
+Surah 9:17-18
 
 > Never was it befitting for the polytheists to attend Allah’s mosques while professing their denial. Those—their deeds were nullified, and in the Fire they abide.Surely, Allah’s mosques can only be attended by one who has attained faith in Allah…
 
@@ -1383,7 +1392,7 @@ Apparently it was impossible to keep this deathbed convert in the ground, so the
 
 ## It's ok for a man to beat his wife
 
-[Quran 4:34](https://quran.com/4/34)
+Surah 4:34
 
 > Men stand caretakers of women since Allah has made some of them excel the others, and because they have spent of their wealth., So, the righteous women are obedient, guarding in absence with the protection given by Allah. As for women whose disobedience you fear, convince them, and leave them apart in beds, and **beat them**. Then, if they obey you, do not seek a way against them. Surely, Allah is the Highest, the Greatest.
 
@@ -1399,9 +1408,9 @@ Even Aisha, the "mother of the believers", admits that no women are treated as p
 
 ## It's ok to marry and divorce girls who have not yet menstruated
 
-[Surah 65:4](https://quran.com/65/4)
+Surah 65:4
 
-Context from [verse 1:](https://quran.com/65/1)
+Context from Surah 65:1:
 
 > O Prophet! ˹Instruct the believers:˺ **When you intend to˺ divorce women, then divorce them with concern for their waiting period**...
 
