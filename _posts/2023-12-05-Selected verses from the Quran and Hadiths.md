@@ -448,6 +448,34 @@ Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will n
 
 Muhammad's father is in hell.
 
+## Muhammad and Slavery
+
+### Muhammad owned slaves
+
+[Sahih al-Bukhari 5433](https://sunnah.com/bukhari:5433)
+
+> Allah's Messenger went to his slave tailor...
+
+[Muwatta Malik book 21 hadith 25](https://sunnah.com/urn/509860)
+
+> Rifaa ibn Zayd presented a black slave boy to the Messenger of Allah, may Allah bless him and grant him peace, whose name was Midam...Midam was unsaddling the camel of the Messenger of Allah, may Allah bless him and grant him peace, when a stray arrow struck and killed him. The people said, 'Good luck to him! The Garden!' The Messenger of Allah said, 'No! By He in whose hand my self is! The cloak which he took from the spoils on the Day of Khaybar before they were distributed will blaze with fire on him.'
+
+Muhammad had a black slave who was killed in battle, and Muhammad said he went to hell.
+
+See also:
+
+- [Sahih al-Bukhari 5435](https://sunnah.com/bukhari:5435)
+
+### Muhammad sold slaves
+
+[Sahih al-Bukhari 2534](https://sunnah.com/bukhari:2534)
+
+> Narrated Jabir bin Abdullah: A man amongst us declared that his slave would be freed after his death. The Prophet called for that slave and sold him. The slave died the same year.
+
+See also:
+
+- [Sahih al Bukhari 2142](https://sunnah.com/bukhari:2141)
+
 ## Muhammad and water
 
 ### Muhammad told his followers to drink sewer water {#sewer-water}

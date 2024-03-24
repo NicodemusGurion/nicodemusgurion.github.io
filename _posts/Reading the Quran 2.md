@@ -449,3 +449,70 @@ We christians recognize Muhammad easily, because Jesus warned us against false p
 
 This verse encourages jihad, killing and dying for islam.
 
+## Surah 2:155
+
+> We shall certainly test you with fear and hunger, and loss of property, lives, and crops.
+
+In the Bible Jesus says that his followers may be persecuted by people as a result of following him, but nowhere does God promise that he will literally torment his followers. What  Allah promises sounds more like it comes from the one whose goal is to "steal, kill and destroy." (John 10:10)
+
+## Surah 2:158
+
+> Safa and Marwa are among the rites of God, so for those who make major or minor pilgrimage to the House it is no offence to circulate between the two.
+
+For no apparent reason Allah suddenly  talks about a pilgrimage ritual. The amount of incoherent changes of topics and irrelevant interjections is amazing.
+
+## Surah 2:159-160
+
+> As for those who hide the proofs and guidance We send down...
+
+Allah seems upset about these hidden messages that never existed, but he also seems unable to specify what they were.
+
+## Surah 2:161-167
+
+Just rehashing some self glazing and poorly veiled threats to worship Allah, or else...
+
+## Surah 2:168-169
+
+> [Sayan] always commands you to do what is evil and indecent
+
+Funny, because the commands of Allah are more often than not both evil and indecent. Such as prescribing killing, raping, child sexual abuse, domestic abuse, torture, idolatry, etc.
+
+## Surah 2:170
+
+> But when it is said to them, ‘Follow the message that God has sent down,’ they answer, ‘We follow the ways of our fathers.’ What! Even though their fathers understood nothing and were not guided?
+
+The hardheadedness described here is ironic because this is how Muslims react when it is pointed out that their religion is the traditions of their fathers that goes against what God has sent down.
+
+## Surah 2:171
+
+> disbelievers ... are deaf, dumb, and blind, and they understand nothing.
+
+More trash talking of non-Muslims.
+
+## Surah 2:172-173
+
+> eat the good things We have provided... He has only forbidden you carrion, blood, pig’s meat, and animals over which any name other than God’s has been invoked. 
+
+Some dietary laws. Personally I don't reject bacon for religious reasons, I reject religioubs for bacon reasons.
+
+# Surah 2:174-176
+
+> As for those who conceal the Scripture that God sent down and sell it for a small price
+
+Again with the accusation that someone is concealing scripture. If Allah is so smart, perhaps he can show us what scripture are concealed? 
+
+Since Muhammad was teaching things contrary to the Bible, rather than admitting that he was ignorant and stupid, he instead insists that there must be something wrong with the Bible or that the Christians are hiding something. 
+
+# Surah 2:177
+
+> The truly good are those who...
+
+This verse is a long list of good works you need to do to be considered "good". It's encouraging works righteousness.
+
+> liberate those in bondage
+
+One good thing is to liberate those in bondage. Ironic since Muhammad owned slaves.
+
+> to orphans
+
+[Muhammad once cursed an orphan girl.](/quran-and-hadiths#cursed-orphan)
