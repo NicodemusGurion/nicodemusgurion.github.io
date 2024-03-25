@@ -1475,6 +1475,12 @@ Surah 4:34
 
 This is if a man even only fears his wife would be disobedient.
 
+## Women are to be plowed like a field
+
+Surah 2:223 
+
+> Your wives are your fields, so go into your fields whichever way you like
+
 ## No women has it worse than Muslim women
 
 [Sahih al-Bukhari 5825](https://sunnah.com/bukhari:5825)
