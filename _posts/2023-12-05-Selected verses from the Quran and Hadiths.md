@@ -1217,6 +1217,36 @@ See also:
 
 I'm pretty sure it does, eventually.
 
+# Sex slaves
+
+See also [Rape](#rape), [Women](#women)
+
+## Muslims men can have sex slaves
+
+Surah 4:3 
+
+> If you fear you might fail to give orphan women their ˹due˺ rights ˹if you were to marry them˺, then marry other women of your choice—two, three, or four. But if you are afraid you will fail to maintain justice, then ˹content yourselves with˺ one or those ˹bondwomen˺ in your possession.
+
+A muslim man can marry up to four women, but if he thinks he can not give them their legal rights, he can just "content himself" one wife, **or** those "bondswomen" in his posession. the footnote on quran.com says "A bondwoman is a female slave that a man owned either through purchase or taking her captive in war."
+
+Surah 33:50
+
+> O Prophet! We have made lawful for you your wives to whom you have paid their ˹full˺ dowries as well as those ˹bondwomen˺ in your possession, whom Allah has granted you... We have ordained for the believers in relation to their wives and those ˹bondwomen˺ in their possession.
+
+"Made lawful" means that he can have sex with them.
+
+Surah 23:5-6; 70:29-30
+
+> [Sucessful are the believers...] those who guard their chastity except with their wives or those [bondswomen] in their possession, for then they are free from blame
+
+This passage says that a muslim should be chaste except with their wives (plural) or "those their right hand posesses", which would be women they have taken captive in war or bought as slaves. It's allowed for muslim men to have slaves that they have sex with and these slave women can not refuse them.
+
+Surah 4:24
+
+> Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession.
+
+They're not allowed to have sex with married women **except** if these **married women** have been captured in battle. Then it is allowed to have sex with these **married women**.
+
 # Sin
 
 ## Allah predetermines adultery
@@ -1434,6 +1464,8 @@ Muhammad said to kill specific snakes…
 Apparently it was impossible to keep this deathbed convert in the ground, so they did the only sensible thing and **threw him into one of these mountain passes**. As you do.
 
 # Women
+
+See also [Sex slaves](#sex-slaves), [Rape](#rape)
 
 ## It's ok for a man to beat his wife
 
