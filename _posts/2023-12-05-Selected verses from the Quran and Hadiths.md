@@ -1060,7 +1060,7 @@ Surah 3:106-107
 
 # Rape
 
-## It is ok to rape captured women
+## It is ok to rape captured women {#raping-captives}
 
 [Sunan Abi Dawud 2155](https://sunnah.com/abudawud:2155)
 
