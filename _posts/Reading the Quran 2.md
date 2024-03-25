@@ -3,7 +3,9 @@ title: Reading the Quran, Surah 1 Al-Fatihah
 tags: [Islam, Quran, Reading the Quran]
 ---
 
-This is the second chapter of the Quran, a massive 286 verses! Even the most massive chapter of the Bible has "only" 176 verses. And this is after reading a chapter of 7 verses. And it seems that most chapters of the Quran contains hundreds of verses. This could easily have been divided up in 5-6 chapters, which would make it much easier to digest. This is probably going to be a long article, and I suspect most articles are going to become obscenely long due to this fact. To save space I will provide a link to the verses but only quote relevant parts.
+Al-Bararah, or "The Cow" is the second Surah of the Quran. It's the longest surah with 286 verses. It's hard to pinpoint exactly what it's about because the author jumps back and forth between topics like a rabid squirrel. A lot of of it seems to be self-glazing where Allah emphasizes just how freaking awesome he is and how much of a stupid meanie-head and loser everyone is who doesn't like him. All in all this surah reads like the ramblings of a schizophrenic patient in a mental institute.
+
+The second chapter of the Quran is a massive 286 verses! So this article will be long. I'll try to cut out as much text as possible to keep it shorter.
 
 [TOC]
 
@@ -495,7 +497,7 @@ More trash talking of non-Muslims.
 
 Some dietary laws. Personally I don't reject bacon for religious reasons, I reject religioubs for bacon reasons.
 
-# Surah 2:174-176
+## Surah 2:174-176
 
 > As for those who conceal the Scripture that God sent down and sell it for a small price
 
@@ -503,7 +505,7 @@ Again with the accusation that someone is concealing scripture. If Allah is so s
 
 Since Muhammad was teaching things contrary to the Bible, rather than admitting that he was ignorant and stupid, he instead insists that there must be something wrong with the Bible or that the Christians are hiding something. 
 
-# Surah 2:177
+## Surah 2:177
 
 > The truly good are those who...
 
@@ -511,8 +513,158 @@ This verse is a long list of good works you need to do to be considered "good". 
 
 > liberate those in bondage
 
-One good thing is to liberate those in bondage. Ironic since Muhammad owned slaves.
+One good thing is to liberate those in bondage. Ironic since [Muhammad owned slaves.](/quran-and-hadiths#muhammad-owned-slaves)
 
 > to orphans
 
 [Muhammad once cursed an orphan girl.](/quran-and-hadiths#cursed-orphan)
+
+## Surah 2:178-179
+
+A quick change of topic to legal matters. Particularely murder cases. This is interesting because the commentary on this verse says "No one else should be executed in place of the killer." This idea that no one can pay the price or take the punishment for your crimes or sins contradicts the teaching of the ransom in the Bible. This agrees with Surah 2:48 but contradicts And it also contradicts Sahih Muslim 2767 which says that ["When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire."](/quran-and-hadiths#ransomed-from-hell) So Islam is in contradiction on this topic.
+
+## Surah 2:180-182
+
+Laws about wills and inheritance.
+
+## Surah 2:183-185
+
+Laws about fasting. 
+
+> Fasting is prescribed for you—as it was for those before you
+
+This is false. Fasting is not obligatory to Christians. It's an optional thing to do, not a decree of God.
+
+> For those who can only fast with extreme difficulty, compensation can be made by feeding a needy person ˹for every day not fasted˺
+
+Those who can not fast during Ramadan can compensate by giving food to someone else. I thought the whole point of fasting was to not eat. But instead these people do eat, and they also compell others to eat. Seems contradictory.
+
+> Allah intends ease for you, not hardship
+
+By forcing people to do something that is not easy but hard.
+
+
+## Surah 2:186
+
+Changing topics again to a half-baked promise that if someone doubts Allah, they could try to obey him and "perhaps they will be guided". Sounds like unless it's your lucky day, Allah just can't be arsed to give a hoot.
+
+## Surah 2:187
+
+Back to the topic of Ramadan.
+
+> It has been made permissible for you to be intimate with your wives during the nights preceding the fast
+
+Answering the question everyone was wondering, "can we have sex during ramadan?" Micromanaging people's sex lives. Classy Allah.
+
+> ˹You may˺ eat and drink until you see the light of dawn breaking the darkness of night, then complete the fast until nightfall.
+
+Muslims are allowed to eat when it's dark, but not when it's light. Apparently Allah has no idea that in the northen hemisphere Since Ramadan moves over the year sometimes it can fall under summer or winter periods when the sun is either up for the whole month in the summer, or it's dark for the whole month in the winter. I guess Allah was unaware of things like the polar circle, that the earth is a globe, that it tilts, and that summers and winters are unevenly long. I guess that's just too much for an omniscient god to keep track of.
+
+Also it's funny that statistically, Muslims eat twice as much food during Ramadan. After fasting all day they gorge themselves at night. Rather than a month of fasting it turns into a month of gluttony.
+
+> Do not be intimate with your spouses while you are meditating in the mosques.
+
+The fact that this sentence had to be included in the Quran tells me that so many horny arabs actually had sex in the mosque that it became a problem worthy of including in the holy book for all times.
+
+## Surah 2:188
+
+Change of topic again. This time about not embezzling.
+
+## Surah 2:189
+
+Change of topic again. 
+
+> They ask you ˹O Prophet˺ about the phases of the moon. Say, “They are a means for people to determine time and pilgrimage.” Righteousness is not in entering your houses from the back doors. Rather, righteousness is to be mindful ˹of Allah˺. So enter your homes through their ˹proper˺ doors, and be mindful of Allah so you may be successful.
+
+So this covers two important topics: What exactly is the purpose of the moon? And what doors of our houses should we use?
+
+I'm not making this up.
+
+## Surah 2:190-194
+
+Change of topic again. 
+
+> Fight in the cause of Allah against those who wage war against you, but do not exceed the limits...
+> Kill them wherever you come upon them and drive them out of the places from which they have driven you out. For persecution is far worse than killing. And do not fight them at the Sacred Mosque unless they attack you there. If they do so, then fight them—that is the reward of the disbelievers...
+> Fight against them until there is no more persecution, and devotion will be to Allah. If they stop, let there be no hostility except against the aggressors.
+
+While this Surah seems to have no context at all but is just random incoherent ramblings, the context to this seems to be Ramadan, since it's talking about the sacred mosque. So while it sounds nasty, it could be argued that it's just fighting in self defense in case someone attacks Mecca.
+
+> ˹There will be retaliation in˺ a sacred month for ˹an offence in˺ a sacred month, and all violations will bring about retaliation. So, if anyone attacks you, retaliate in the same manner.
+
+This verse calls for retaliation. Christianity encourages forgiveness. Islam encourages revenge.
+
+## Surah 2:195-203
+
+These are just instructions for pilgrimage. Nothing interesting.
+
+## Surah 2:204-209
+
+Criticising hypocrites and commending the faithful.
+
+## Surah 2:210-211
+
+> Are they waiting for Allah ˹Himself˺ to come to them in the shade of clouds, along with the angels?
+
+Since this passage talks about the israelites it seems to allude to when God came in the clouds on mount Sinai with angels. This is interesting since Yahweh of judeochristianity is a God who sometimes comes down into our world in various manifestations. But Allah is said to be beyond that, someone who never shows up in our world. This verse seems to contradict that idea.
+
+## Surah 2:213
+
+> And no one disputed the Scriptures except the very people who received them after clear proofs had come to them—out of jealousy.
+
+There's a recurring theme that the Jews didn't accept their own scriptures, and that this somehow has to do with envy or jealousy. It's not clear toward what they are jealous. But for sure they did not despise their own scriptures, since they have kept them for thousands of years.
+
+## Surah 2:214
+
+Change of topic: Entering paradise
+
+> Do you think you will be admitted into Paradise without being tested like those before you?
+
+Paradise is something a muslim needs to earn.
+
+## Surah 2:215
+
+Change of topic: Donations and charity.
+
+## Surah 2:216
+
+Change of topic: Fighting
+
+> Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know.
+
+This is a damning verse because it says that fighting is obligatory to all muslims, even if they are peaceful and good people who dislike violence, Allah knows better and thingks that violence is just the best and he wants them to fight against their will.
+
+## Surah 2:217
+
+> For persecution is far worse than killing. 
+
+So if someone is being nasty towards you, you should not do as the christians and show love for them, but you should kill them. 
+
+> And they will not stop fighting you until they turn you away from your faith—if they can. And whoever among you renounces their own faith and dies a disbeliever, their deeds will become void in this life and in the Hereafter. It is they who will be the residents of the Fire. They will be there forever.”
+
+It threatens those who do not kill "persecuters" that these will not stop coming and if the muslim ever gives up, all their prayers, pilgrimages, and other works righteousness are meaningless. In islam you can lose your salvation, and everything you have ever done is null and void in an instant, and hell is all that's left for you. Cult manipulation.
+
+## Surah 2:219-220
+
+Change of topic: Drugs and gambling + Donation + Orphans
+
+> They ask you ˹O Prophet˺ about intoxicants and gambling. Say, “There is great evil in both, as well as some benefit for people—but the evil outweighs the benefit.”
+
+So it's not strictly forbidden.
+
+> And they ask you ˹O Prophet˺ concerning orphans. Say, “Improving their condition is best. And if you partner with them, they are bonded with you ˹in faith˺.
+
+Muslims use such weird vocabulary. "Partnering with orphans"? Did Muhammad "partner" with [the orphan girl he cursed to die young?](/quran-and-hadiths/#cursed-orphan)
+
+## Surah 2:221
+
+Change of topic: Marriage.
+
+> Do not marry polytheistic women until they believe; for a believing slave-woman is better than a free polytheist, even though she may look pleasant to you. And do not marry your women to polytheistic men until they believe, for a believing slave-man is better than a free polytheist, even though he may look pleasant to you. 
+
+Muslims are not allowed to marry non-muslims. However muslim men are allowed to have sex slaves and [rape captive women](/quran-and-hadits/#raping-captives)
+
+> Allah invites ˹you˺ to Paradise and forgiveness by His grace.
+
+In islam, [salvation](/quran-and-hadiths#salvation) is basically Allah just forgiving people for no reason. In Christianity, God is Just, so someone needs to take the punishment, and that someone is Jesus. In islam, Allah doesn't really have any foundation upon which to justly forgive. He just forgives with no basis, which means he does not consider sins to be serious, and he doesn't take justice seriously. If someone sins against a victim, and Allah just forgives the sinner, then it means he doesn't love the victim, because he didn't execute justice. He is a corrupt judge. In fact, [Allah **wants** people to sin](/quran-and-hadiths#allah-wants-people-to-sin). 
+
