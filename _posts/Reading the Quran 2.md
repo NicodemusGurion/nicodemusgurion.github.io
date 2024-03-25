@@ -662,9 +662,40 @@ Change of topic: Marriage.
 
 > Do not marry polytheistic women until they believe; for a believing slave-woman is better than a free polytheist, even though she may look pleasant to you. And do not marry your women to polytheistic men until they believe, for a believing slave-man is better than a free polytheist, even though he may look pleasant to you. 
 
-Muslims are not allowed to marry non-muslims. However muslim men are allowed to have sex slaves and [rape captive women](/quran-and-hadits/#raping-captives)
+Muslims are not allowed to marry non-muslims. However [muslim men are allowed to have sex slaves](/quran-and-hadits/#sex-slaves)
+ and [rape captive women](/quran-and-hadits/#raping-captives)
+
+ This also insults jews and christians because again the muslims falsely call them polytheists, ignorantly and arrogantly thinking that they are the only monotheists.
 
 > Allah invites ˹you˺ to Paradise and forgiveness by His grace.
 
 In islam, [salvation](/quran-and-hadiths#salvation) is basically Allah just forgiving people for no reason. In Christianity, God is Just, so someone needs to take the punishment, and that someone is Jesus. In islam, Allah doesn't really have any foundation upon which to justly forgive. He just forgives with no basis, which means he does not consider sins to be serious, and he doesn't take justice seriously. If someone sins against a victim, and Allah just forgives the sinner, then it means he doesn't love the victim, because he didn't execute justice. He is a corrupt judge. In fact, [Allah **wants** people to sin](/quran-and-hadiths#allah-wants-people-to-sin). 
+
+## Surah 2:222
+
+Change of topic: Menstruation
+
+> They ask you ˹O Prophet˺ about menstruation. Say, “Beware of its harm! So keep away, and do not have intercourse with your wives during their monthly cycles until they are purified.
+
+Apparently menstruation is dangerous?
+
+## Surah 2:223 
+
+Change of topic: Sex
+
+> Your wives are your fields, so go into your fields whichever way you like
+
+Are muslim women comfortable being referred to as a "field" that their husband can "go into" as they like?
+
+## Surah 2:224-225
+
+Change of topic: Allah's name
+
+> Do not use Allah’s Name in your oaths...
+
+It's ironic that there are verses talking about the name of Allah when muslims don't even know the name of Allah.
+
+## Surah 2:226
+
+> Those who swear not to have intercourse with their wives must wait for four months.1 If they change their mind, then Allah is certainly All-Forgiving, Most Merciful.
 
