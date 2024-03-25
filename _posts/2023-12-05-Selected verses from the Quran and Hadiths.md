@@ -448,7 +448,9 @@ Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will n
 
 Muhammad's father is in hell.
 
-## Muhammad and Slavery
+## Muhammad and slavery
+
+See also [Slavery](#slavery)
 
 ### Muhammad owned slaves
 
@@ -465,6 +467,7 @@ Muhammad had a black slave who was killed in battle, and Muhammad said he went t
 See also:
 
 - [Sahih al-Bukhari 5435](https://sunnah.com/bukhari:5435)
+- [Black slaves are worth half of Arab slaves](#black-slaves-worth-less)
 
 ### Muhammad sold slaves
 
@@ -1226,11 +1229,29 @@ A man who commits adultery is really only doing the will of Allah, and has no ch
 
 # Slavery
 
+See also [Muhammad and slavery](#muhammad-and-slavery)
+
+## Runaway slaves lack protection
+
+[Mishkat al-Masabih 3350](https://sunnah.com/mishkat:3350)
+
+> If any slave runs away protection does not apply to him.
+
+Compare to the Mosaic law in Deuteronomy 23:15-16:
+
+> “You shall not give up to his master a slave who has escaped from his master to you. He shall dwell with you, in your midst, in the place that he shall choose within one of your towns, wherever it suits him. You shall not wrong him.
+
 ## Gifting slaves is better than freeing them
 
 [Sahih Muslim 999](https://sunnah.com/muslim:999)
 
 > Maimuna bint Harith reported that she set free a slave-girl during the lifetime of the Messenger of Allah and she made a mention of that to the Messenger of Allah and he said: Had you given her to your maternal uncles, you would have a greater reward.
+
+## Black slaves are worth half of Arab slaves {#black-slaves-worth-less}
+
+[Sunan an-Nasa'i 4621](https://sunnah.com/nasai:4621Sunan an-Nasa'i 4621
+
+> "A slave came and gave his pledge to the Messenger of Allah to emigrate, and the Prophet did not realize that he was a slave. Then his master came looking for him. The Prophet said; 'Sell him to me.' So he bought him for two black slaves, then he did not accept until he had asked; 'Is he a slave?'''
 
 # Violence
 
