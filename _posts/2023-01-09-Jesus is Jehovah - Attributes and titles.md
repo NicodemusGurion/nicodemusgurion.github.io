@@ -12,7 +12,7 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 | Jehovah is the only one with the highest name. | Psalm 148:13 | Jesus is the one with the highest name. | Philippians 2:9-11 |
 | Jehovah is sovereign.| Isaiah 14:27; 43:13; Daniel 4:35; | Jesus is sovereign. | Matthew 28:18; Colossians 1:16-17; Ephesians 1:20-22; Philippians 2:9-11  |
 | Jehovah is the one exalted over all gods / spiritual authorities. | Psalm 97:9 | Jesus is the one exalted over all gods / spiritual authorities. | Ephesians 1:21 |
-| Jehovah is almighty / omnipotent | Genesis 17:1 etc. | Jesus is almighty / omnipotent | Hebrews 1:3; Revelation 1:17;22:13;1:8 [^nwt]|
+| Jehovah is almighty / omnipotent | Genesis 17:1 etc. | Jesus is almighty / omnipotent | Hebrews 1:3; Colossians 1:17; Revelation 1:17;22:13;1:8 [^nwt]|
 | Jehovah is all-knowing / omniscient. | Psalm 147:5; 1 Samuel 2:3; Job 28:24; Isaiah 46:10; Proverbs 15:3; Psalm 139:1-4 | Jesus is all-knowing / omniscient | Colossians 2:2-3 |
 | Jehovah is omnipresent. | Jeremiah 23:23,24 | Jesus is omnipresent. | Matthew 18:20; 28:20; Ephesians 1:22,23 |
 | Jehovah fills all things. | Jeremiah 23:23,24 | Jesus fills all things. | Ephesians 4:10 [^nwt] |
