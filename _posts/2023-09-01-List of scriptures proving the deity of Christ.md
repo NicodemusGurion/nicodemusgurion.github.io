@@ -189,6 +189,18 @@ No one can snatch anything out of the hand of Jehovah.
 
 No one can snatch out of the hand of the Son nor the Father. The Son and the Father are one. Jesus is Jehovah.
 
+### The fountain of living water
+
+> Jeremiah 2:13 ...they have forsaken me, the fountain of living waters,...
+
+> Jeremiah 17:13 ...for they have forsaken the LORD, the fountain of living water.
+
+Jehovah is the fountain of living water.
+
+John 4:10,13,14 Jesus answered her, “If you knew the gift of God, and who it is that is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.” ... Jesus said to her, “Everyone who drinks of this water will be thirsty again, but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.”
+
+Jesus is the fountain of living water.
+
 ## Jesus is called the almighty
 
 <span style="font-size: 16px; -webkit-text-size-adjust: 100%">In Revelation 1, Jesus appears to John.</span>
