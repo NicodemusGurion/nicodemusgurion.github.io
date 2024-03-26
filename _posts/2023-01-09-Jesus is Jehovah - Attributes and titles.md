@@ -34,7 +34,7 @@ This is a list of scriptures where Jesus of the New Testament possesses these at
 | Jehovah is the one who walks upon the waves of the sea. | Job 9:8 | Jesus is the one who walks upon the waves of the sea. | Matthew 14:25; Mark 6:48-50; John 6:19; |
 | Jehovah is the one for whom the Messenger (John the Baptist) should prepare the way. | Malachi 3:1 [^messenger1] | Jesus is the one for whom the Messenger (John the Baptist) did prepare the way. | Mark 1:2 [^messenger2] |
 | Jehovah is the one whose glory Isaiah saw. | Isaiah 6:1 | Jesus is the one whose glory Isaiah saw. | John 12:41 |
-| Jehova God gives his glory to no one else. | Isaiah 42:8 | Jesus receives the glory of God. | John 13:31,32; 1 Timothy 3:16; 2 Peter 1:17 |
+| Jehovah God gives his glory to no one else. | Isaiah 42:8 | Jesus receives the glory of God. | John 13:31,32; 1 Timothy 3:16; 2 Peter 1:17 |
 | Jehovah is the source of light | Psalm 36:9; Isaiah 2:5; 1 John 1:5 | Jesus is the true light | John 1:10; 1 John 1:5; |
 | Jehovah has a voice like the noise many waters | Ezekiel 43:2 | Jesus has a voice like the noise of many waters. | Revelation 1:13,15 | 
 | No one can snatch anything out of the hand of Jehovah. | Isaiah 43:13 | No one can snatch anything out of the hand of Jesus. | John 10:28 |
