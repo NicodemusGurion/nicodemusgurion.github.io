@@ -69,7 +69,7 @@ Jesus is the exact imprint of God's nature. Whatever God is, Jesus is. In the ve
 
 Jesus bought the flock with his own blood. Paul says it was the blood of God because Jesus is God. [(This is one of the many scriptures the Watchtower changes).](https://thyreon.com/changes-in-the-new-world-translation/)
 
-## Jesus is Jehovah of the Old Testamenti
+## Jesus is Jehovah of the Old Testament
 
 Jesus has a number of attributes that only belong to Jehovah in the Old Testament. This is because Jesus is Jehovah, the manifested Jehovah that interacted with Old Testament people. This is also why the name Jehovah is nowhere in the New Testament. The name Jesus contains the name Jehovah, meaning Jehovah Saves. Jesus is Jehovah in the role of savior of mankind. These are some attributes only Jehovah has, but that Jesus is said to have, proving they're one and the same:
 
