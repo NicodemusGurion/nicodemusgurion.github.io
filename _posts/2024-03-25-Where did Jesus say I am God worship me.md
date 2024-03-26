@@ -24,6 +24,10 @@ If so, where is the word "tawhid" in the Quran?
 
 You can't find it?  Tawhid is a central doctrine of islam, but the word does not exist in the Quran. 
 
+Could you point me to recitation of the Shahada in the Quran?
+
+No?
+
 Or can you show me in the quran where it says verbatim "The bible has been corrupted"? 
 
 No? So why does Jesus need to dance to your tune and express himself in the way you want?
