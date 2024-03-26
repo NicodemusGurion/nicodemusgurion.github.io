@@ -146,7 +146,7 @@ For further reading, please see:
 - [The Trinity Doctrine in the Bible](https://thyreon.com/The-Trinity-Doctrine-in-the-Bible)
 - [The First adn the Last in Islam](https://thyreon.com/The-First-and-the-Last-in-Islam)
 - [Jesus is the First and the Last](https://thyreon.com/Jesus-is-The-First-and-the-Last)
-- https://thyreon.com/Jesus-is-Jehovah-Attributes-and-titles
-- https://thyreon.com/Who-is-the-Cloud-Rider
-- https://thyreon.com/Arian-proof-texts-John-14-28-The-Father-is-greater-than-I-am
-- https://thyreon.com/What-is-love
+- [Jesus is Jehovah - Attributes and titles](https://thyreon.com/Jesus-is-Jehovah-Attributes-and-titles)
+- [Who is the Cloud Rider?](https://thyreon.com/Who-is-the-Cloud-Rider)
+- [The Father is Greater than I am](https://thyreon.com/Arian-proof-texts-John-14-28-The-Father-is-greater-than-I-am)
+- [What is love?](https://thyreon.com/What-is-love)
