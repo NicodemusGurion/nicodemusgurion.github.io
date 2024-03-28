@@ -1,9 +1,9 @@
 ---
-title: "Arian proof texts: John 14:28 - The Father is greater than I am"
-tags: [Arianism, Jehovah's witnesses, Deity of Christ, Exegesis]
+title: "John 14:28 - The Father is greater than I am"
+tags: [Arianism, Islam, Jehovah's witnesses, Deity of Christ, Exegesis]
 ---
 
-Does John 14:28 prove that Jesus is not God? Arians have claimed this for 1700 years. Let's look into it.
+Does John 14:28 prove that Jesus is not God? Arians and other Unitarians have claimed this for 1700 years. Let's look into it.
 
 ## The argument:
 
