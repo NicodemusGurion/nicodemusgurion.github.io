@@ -1025,11 +1025,21 @@ This is from chapter 23 which heading  reads:
 
 According to Muhammed, white people are destined for heaven and black people are destined for hell.
 
-## Description of Turks {#turks}
+## Turks look like their faces were hit with a hammer {#turks}
+
+[Sahih Muslim 2912 d](https://sunnah.com/muslim:2912d)
+
+> The Last Hour would not come until the Muslims fight with the Turks-a people whose faces would be like hammered shields wearing clothes of hair and walking (with shoes) of hair.
+
+Another description of Turks:
 
 [Sahih al-Bukhari 2928](https://sunnah.com/bukhari:2928)
 
 > …The Hour will not be established until you fight with the Turks; people with small eyes, red faces, and flat noses. Their faces will look like shields coated with leather…
+
+See also:
+
+- [Sunan an-Nasa'i 3177](https://sunnah.com/nasai:3177)
 
 
 ## Ethiopians have heads like raisins {#raisin-heads}
