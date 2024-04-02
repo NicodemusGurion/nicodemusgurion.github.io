@@ -376,6 +376,10 @@ See also:
 
 > Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. …
 
+### Muhammad used to suck and on Aishas tongue
+
+> Narrated Aisha, [Mother of the believers]: The Prophet used to kiss her and suck her tongue when he was fasting.
+
 ### Muhammad French-kissed a little boy
 
 [Al-Adab Al-Mufrad 1183](https://sunnah.com/adab:1183)
@@ -818,6 +822,12 @@ Surah 33:21
 
 > And you are truly a man of outstanding character.
 
+## Muhammad copied a lot from Christians {#copycat}
+
+[Sahih al-Bukhari 5917](https://sunnah.com/bukhari:5917)
+
+> The Prophet used to copy the people of the Scriptures in matters in which there was no order from Allah.
+
 ## The death of Muhammad
 
 ### How did Muhammad die?
@@ -1005,6 +1015,14 @@ Apparently, chapters could be requested on demand by the followers of Muhammad t
 
 See also [Apostasy](#apostasy)
 
+## A Christian wrote the Quran
+
+[Sahih al-Bukhari 3617](https://sunnah.com/bukhari:3617)
+
+> There was a Christian who embraced Islam and read Surat-al-Baqara and Al-Imran, and he used to write (the revelations) for the Prophet. Later on he returned to Christianity again and he used to say: "Muhammad knows nothing but what I have written for him."
+
+At least part of the Quran was written down by or edited by a Christian convert to Islam (and later re-convert to Christianity). He claimed to understand it better than Muhammad.
+
 # Racism
 
 ## Muhammad traded black slaves {#black-slaves}
@@ -1147,6 +1165,10 @@ See also:
 
 > Narrated Abu Huraira: The Prophet said, "Yawning is from Satan and if anyone of you yawns, he should check his yawning as much as possible, for if anyone of you (during the act of yawning) should say: 'Ha', Satan will laugh at him."
 
+[Jami` at-Tirmidhi 2746](https://sunnah.com/tirmidhi:2746)
+
+> Allah loves the sneeze and He dislikes the Yawn, so when a man says Ah, Ah when yawning, indeed Ash-Shaitan laughs from inside his opening.
+
 ## Satan likes bells
 
 [Sahih Muslim 2114](https://sunnah.com/muslim:2114)
@@ -1162,6 +1184,19 @@ See also:
 - [Sunnan Abu Dawud 2556](https://sunnah.com/abudawud:2556)
 - [Sunan an-Nasa'i 933](https://sunnah.com/nasai:933)
 - [Riyad as-Salihin 1691](https://sunnah.com/riyadussalihin:1691)
+
+## Donkeys are Satan detectors 
+
+[Jami` at-Tirmidhi 3459](https://sunnah.com/tirmidhi:3459)
+
+> When you hear the braying of a donkey, then seek refuge in Allah from Shaitan, for, verily, it has seen a Shaitan.
+
+## Muhammad had a Satan
+
+[Sunan an-Nasa'i 3960](https://sunnah.com/nasai:3960)
+
+> I said: "Don't you have a Shaitan?" He said: "Yes, but Allah helped me with him, so he submitted."
+
 
 ## Muhammad once defeated Satan in a wrestling match
 
@@ -1472,6 +1507,8 @@ Muhammad said to kill specific snakes…
 > …[In battle, a] man … attacked an idolator man with a spear, and when he was defeated he said: “I bear witness that none has the right to be worshipped but Allah, I am a Muslim.” But he stabbed him and killed him…We buried him, but the following morning he was on the surface of the earth. They said: “Perhaps an enemy of his disinterred him.” So we buried him (again) and told our slaves to stand guard. But the following morning he was on the surface of the earth again then we said: ‘Perhaps the slaves dozed off.’ So we buried him (again) and stood guard ourselves, but the following morning he was on the surface of the earth (again). So we threw him into one of these mountain passes.’”
 
 Apparently it was impossible to keep this deathbed convert in the ground, so they did the only sensible thing and **threw him into one of these mountain passes**. As you do.
+
+
 
 # Women
 
