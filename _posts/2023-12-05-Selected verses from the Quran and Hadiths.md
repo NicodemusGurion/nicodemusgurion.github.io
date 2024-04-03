@@ -71,6 +71,14 @@ Allah sits on a throne in heaven.
 
 Allah doesn't know how time zones work. If he comes down every night at  3am, and leave at daybreak, in what time zone is he? It would mean that in one time zone he is descending while in another time zone he is ascending, at the same time. Therefore Allah is always somewhere in our atmosphere at all times, yet he is unable to enter our world, and he is [also located on his throne?](#allah-is-limited-to-one-location) How does it work?
 
+## Allah shakes hands
+
+[Sunan Ibn Majah 104](https://sunnah.com/ibnmajah:104)
+
+> The Messenger of Allah said: 'The first person with whom Allah will shake hands will be 'Umar...
+
+This means Allah has physical hands the size of human hands with which he can shake hands with humans. How embarrassing for Muhammad himself that someone else gets to shake hands with Allah before him.
+
 ## Allah deceives
 
 Surah 8:43-44
@@ -828,6 +836,53 @@ Surah 33:21
 
 > The Prophet used to copy the people of the Scriptures in matters in which there was no order from Allah.
 
+## Muhammad was ridden by jinns
+
+[Musnad Ahmad ibn Hanbal 3778](https://www-islamweb-net.translate.goog/ar/library/content/6/3599/%D9%85%D8%B3%D9%86%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D8%B1%D8%B6%D9%8A-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D8%B9%D9%86%D9%87?_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp), [3688](https://hadithportal-com.translate.goog/index.php?show=hadith&h_id=3688&book=35&_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp) (Google translate), [Jami` at-Tirmidhi 2861](https://sunnah.com/urn/730940)
+
+These 3 hadiths mentions a weird story of a night excursion Muhammad took with a certain Abdullah ibn Masoud. They provide different complementary details, so I piece together the gist of the story with quotations from all 3.
+
+So Muhammad and Abdullah go to the valley of Makkah. Muhammad draws a circle in the sand and tells Abdullah to stay inside of it, otherwise he will perish. Apparently Muhammad is expecting visitors. Abdullah obliges, but Muhammad goes outside the circle.
+
+Along comes some men about whom Abdullah says:
+
+> some men came to me that appeared as if they were from Az-Zut (A dark people, either from North Africa or India.), both their hair and their bodies. 
+
+Musnad Ahmad ibn Hanbal 3778 provides this information:
+
+> they have no clothes on them
+> They were long
+
+So some long, naked, seemingly North African men comes along. Then what happened?
+
+> He said, “So they came and **started riding the Messenger of God**.” He said, “And the Prophet of God, recited to them.”
+
+So a bunch of naked North African men meet up with Muhammad and "started riding" him? Meanwhile Muhammad is reciting Quran verses to them?
+
+> When the pillar of dawn split, they started to go
+
+When dawn breaks they stop "riding" Muhammad and leaves. 
+
+> Then the Messenger of God, may God bless him and grant him peace, came **with heavy pain...from what they had ridden on.**
+
+Muhammad stumbles back to Abdullah with heavy pain from being ridden all night by long, naked North African men?
+
+> He said, “I find myself heavy,” … Then the Messenger of God, placed his head in my lap… 
+
+Poor Muhammed has been ridden so hard by the long, naked North African men that he was in pain and exhausted, falling asleep in the lap of Abdullah.
+
+> And the Messenger of Allah would snore when he slept. So while I was sitting there, and the Messenger of Allah was sleeping (with his head resting) on my thigh, there appeared some men wearing white garments, and Allah knows best just how handsome they were.
+
+Then some other men shows up. They wear white and are apparently very handsome.
+
+> Then they said to each other: 'We have not ever seen a slave (of Allah) who was given the likes of what this Prophet has been given.
+
+I say... Muhammad "was given" good that night...
+
+The white clad men starts pronouncing a parable over Muhammad while he is sleeping. Then they leave. Muhammad wakes up, declares that they were angels, and explains their parable.
+
+But who were the long, naked, North African men who rode Muhammad all night long so that he became sore and exhausted? 
+
 ## The death of Muhammad
 
 ### How did Muhammad die?
@@ -957,6 +1012,14 @@ Surah 2:29
 > The Prophet said, "Isn't he who raises his head before the Imam afraid that Allah may transform his head into that of a donkey or his figure into that of a donkey?"
 
 # The Quran {#quran}
+
+## The original Quranic manuscripts were burned 
+
+[Sahih al-Bukhari 4987](https://sunnah.com/bukhari:4987)
+
+> ... So Uthman sent a message to Hafsa saying, "Send us the manuscripts of the Qur'an so that we may compile the Qur'anic materials in perfect copies and return the manuscripts to you."...Uthman sent to every Muslim province one copy of what they had copied, and ordered that all the other Qur'anic materials, whether written in fragmentary manuscripts or whole copies, be burnt.
+
+We have no way of confirming that the current Quran is uncorrupted or even the same as the message Muhammad delivered.
 
 ## The Quran confirms the Bible {#confirms-bible}
 
@@ -1261,6 +1324,18 @@ See also:
 > There is nothing of the human body that does not decay except one bone; that is the little bone at the end of the coccyx of which the human body will be recreated on the Day of Resurrection.
 
 I'm pretty sure it does, eventually.
+
+# Self-serving
+
+These are verses and Hadiths that show that "Allah" is nothing but a puppet that Muhammad used to make people do his will.
+
+## Don't smack your tongue
+
+[Jami` at-Tirmidhi 2853](https://sunnah.com/tirmidhi:2853)
+
+> the Messenger of Allah said: "Indeed Allah detests the excessive among men, who slaps his tongue around like the cow slaps his tongue."
+
+Why would the creator of the universe be annoyed about how someone moves their tongue?
 
 # Sex slaves
 
