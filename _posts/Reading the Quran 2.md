@@ -3,9 +3,9 @@ title: Reading the Quran, Surah 1 Al-Fatihah
 tags: [Islam, Quran, Reading the Quran]
 ---
 
-Al-Bararah, or "The Cow" is the second Surah of the Quran. It's the longest surah with 286 verses. It's hard to pinpoint exactly what it's about because the author jumps back and forth between topics like a rabid squirrel. A lot of of it seems to be self-glazing where Allah emphasizes just how freaking awesome he is and how much of a stupid meanie-head and loser everyone is who doesn't like him. All in all this surah reads like the ramblings of a schizophrenic patient in a mental institute.
+Al-Bararah, or "The Cow" is the second Surah of the Quran. It's the longest surah with 286 verses. It's hard to pinpoint exactly what it's about because the author jumps back and forth between topics like a rabid squirrel. A lot of of it seems to be self-glazing where Allah emphasizes just how freaking awesome he is and how much of a stupid meanie-head and loser everyone is who doesn't like him. Between that is mixed in random out of context stories and laws on random topics. All in all this surah reads like the ramblings of a schizophrenic patient in a mental institute. So many things are out of context that it is pretty much impossible to understand what is going on unless you have this previous knowledge. I will try to keep up and count how many times he haphazardly changes topic and references off topic subjects.
 
-The second chapter of the Quran is a massive 286 verses! So this article will be long. I'll try to cut out as much text as possible to keep it shorter.
+This chapter is massive with 286 verses. So this article will be long. I'll try to cut out as much text as possible to keep it shorter.
 
 [TOC]
 
@@ -21,11 +21,11 @@ We start off strong with some cryptic letters that no one knows what they means.
 
 > This is the Book! There is no doubt about it—
 
-Who is the author trying to convince? Himself? Just saying "there's no doubt" doesn't make it so. This is a problem I see many Muslims have: They think that just saying something  means that it's true, without giving any evidence. The Quran is true because it's the word of Allah and it's the word of Allah because it says so, and we can trust what it says because it's true. 
+It seems the author has hear about the concept of "convincing" but didn't understand what it meant. It seems quite often in the muslim community that they think that "trust me bro" is an authoritative source reference.
 
 > a guide for those mindful ˹of Allah˺, 
 
-It spells out the purpose of the Quran: An instruction manual. Not like the Bible which contains history, wisdom, doctrine, and specific instructions to specific people, the Quran is just a general instruction manual for all times and places.
+It spells out the purpose of the Quran: An instruction manual. This is something many muslims misunderstand about the Bible, which is not some kind of instruction manual. 
 
 > who believe in the unseen, establish prayer, and donate from what We have provided for them,
 
@@ -33,7 +33,7 @@ Muslims **establish prayer** and **donate**, which are works. Islam is a works b
 
 > and who believe in what has been revealed to you ˹O Prophet˺ and what was revealed before you, and have sure faith in the Hereafter.
 
-Those who believe in Muhammad should also believe in **what was revealed before** him, that is the Bible and it's prophets. The Quran tells Muslims to believe the Bible, but the Muslims tells me that the Bible has been corrupted. Whom should I trust? Allah, or the Muslims who say Allah is wrong?
+Those who believe in Muhammad should also believe in **what was revealed before** him, that is the Bible and it's prophets. The Quran tells Muslims to believe the Bible, but the Muslims tells me that the Bible has been corrupted. Whom should I trust? Allah, or the Muslims who say Allah is wrong? [See "The Islamic dilemma".](/the-islamic-dilemma)
 
 # Surah 2: 5-7
 
@@ -43,35 +43,37 @@ The Quran often use terms like **successful** and **losers** like it was written
 
 > Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
 
-Discussing unbelievers, it says that **Allah has set a seal on their hearts and on their hearing, and over their sight is a veil**, in other words they are predestined to hell, and there is no one to blame but Allah. He dun it.
+Discussing unbelievers, it says that **Allah has set a seal on their hearts and on their hearing, and over their sight is a veil**, in other words they are predestined to hell, and there is no one to blame but Allah. 
 
 This sounds like Calvinism, which I often say is the Islam of Christianity. It paints God as an evil, twisted trixter who plays games with people. 
 
-# Surah 2: 8-10
+# Surah 2: 8-20
 
-> And of mankind are those who say, “We have attained faith in Allah and in the Last Day,” but they are not believers… In their hearts is sickness, so Allah increased their sickness, and for them is a painful punishment on account of how they used to lie.
+*New topic (1)*
 
-Discussing fake believers, Allah is not exactly helping them, but making their condition worse, so he can punish them. Very unloving.
+> And of mankind are those who say, “We have attained faith in Allah and in the Last Day,” but they are not believers… In their hearts is sickness, so **Allah increased their sickness**, and for them is a painful punishment on account of how they used to lie.
 
-# Surah 2: 11-20
+Discussing fake believers, Allah is not exactly helping them, but making their condition worse, so he can punish them. 
 
 > …Allah took away their light and left them in darkness(es) , unable to see … Or like a cloudburst from the sky in which are darkness(es) and thunder and lightning. They put their fingers into their ears against the thunderbolts, in fear of death … The lightning almost snatches their sight(s) away; whenever it illuminates for them, they walk in it. But when it darkens over them, they stand(still).
 
-Discussing false Muslims is says that rather than helping them, Allah is deliberately taking away their light and leaving them in darkness, terrifying them, like a cat plays with it's prey. Not very helpful, Allah!
+Rather than helping them, Allah is deliberately taking away their light and leaving them in darkness, terrifying them, like a cat plays with it's prey. 
 
 # Surah 2: 21-22
 
-This section is boring. It just encourages people in general to worship Allah.
+*New topic (2)*
+
+Encouraging worship of Allah.
 
 ## 2: 23
 
+*New topic (3)*
+
 > [And if you are in doubt about what We have bestowed upon Our servant from on high, then bring a single surah of its like, and call your witnesses apart from Allah if you are truthful.](https://quran.com/2/23)
 
-This famous challenge is that the Quran is the word of Allah because of it's literary quality. Well, so far it has not backed up it's claim. Everything thus far has been confusing, humdrum and uninspired, jumping between random topics, with little to no explanation or context.The bit about the lightning was probably the highlight so far, but it's far from impressive.
+This famous claim that the Quran is the word of Allah because of its supposed literary excellence is a really weird  condition for divine inspiration. I mean, in that case any half decent poet is more inspired than Allah and Muhammad.
 
-Literary excellence is a really weird  condition for divine inspiration. I mean, in that case any half decent poet is more inspired than Allah and Muhammad.
-
-But let's provide a Surah better than what we've seen so far. It doesn't have to rhyme, just sound pretty. And judging from [Surah 108](https://quran.com/108), 3 verses should be sufficient. So how about this:
+But let's provide a Surah better than what we've seen so far. It doesn't have to rhyme, just sound pretty. So how about this:
 
 > The Lord is my shepherd; I shall not want. He makes me lie down in green pastures. He leads me beside still waters. 
 > He restores my soul. He leads me in paths of righteousness for his name’s sake. 
@@ -79,13 +81,13 @@ But let's provide a Surah better than what we've seen so far. It doesn't have to
 > You prepare a table before me in the presence of my enemies; you anoint my head with oil; my cup overflows. 
 > Surely goodness and mercy shall follow me all the days of my life, and I shall dwell in the house of the Lord forever.
 
-How did I do?
+I put it to you that any chapter in the Bible or even any decent poetry book is better than any Surah of the Quran.
 
 # Surah 2: 24
 
-> But if you do not—and you will not—then be mindful of the Fire whose fuel is people and stones; it has been prepared for the deniers.
+*New topic (4)*
 
-If I'm a denier and unable to provide something more lyrical than the Quran, it threatens with hell. Luckily while I am a denier, I was able to provide a Surah that was way more excellent than any Surah in the Quran, so I think I'm safe.
+> be mindful of the Fire whose fuel is people and stones; it has been prepared for the deniers.
 
 Apparently hell is fueled by people? And stones? In the Bible hellfire does not need fuel. Also in the Bible hell is not prepared for humans but for the satan and the demons. Humans were not supposed to go to hell but it's just an unfortunate side effect of rejecting God. But in Islam hell is made specifically to torture humans, and as we learned, Allah is deliberately causing people to go to hell. 
 
@@ -93,22 +95,22 @@ Apparently hell is fueled by people? And stones? In the Bible hellfire does not 
 
 > And give glad tidings to those who have attained faith and have done righteous deeds: that for them are Gardens beneath which rivers flow. Whenever they are provided with any produce therefrom as provision, they say, “This is what we were provided with before,” and they are brought(them) in(perfect) resemblance. And for them are cleansed spouses therein, and therein they abide.
 
-The promise of paradise. The carrot to the stick of hell in the previous verse. The Quran gets no points for subtlety.
-
 Notice that the fruits you get in paradise all taste the same. To be fair, eating the same thing for eternity sounds like a hell in itself.
 
-And of course sex. Can't forget that sex is a central point in Islam. Even in the afterlife you need spouses. While the Bible it is said that there will be no marriage or sex in heaven, in Islam, sex in paradise is a requirement.
+And of course sex. Can't forget that sex is a central point in Islam. Even in the afterlife you need spouses. While in the Bible it is said that there will be no marriage or sex in heaven, in Islam, sex in paradise is a requirement.
 
-Tell me your religion was invented by a sex crazed horn-dog without saying your religion was invented by a sex crazed horn-dog.
+Tell me your religion was invented by a sex crazed horndog without saying your religion was invented by a sex crazed horndog.
 
 # Surah 2:26
+
+*New topic (5)*
 
 > Indeed, Allah does not shy away from setting forth any parable, ... He misguides many thereby…
 
 
 It's interesting that Allah is said to be using parables, and whether someone understands them or not depends on whether they are humble or not. This is one of the attributes of Jesus, who used parables because the humble understands them but the proud does not. (Matt. 13:10-17; Mark 4:11,12; Luke 8:9, 10) One of many ayah that inadvertently admit that Jesus is Allah.
 
-However it says that Allah misguides people, and [Allah being a liar and deceiver is going to be a recurring theme.](/quran-and-hadiths#allah-deceives)
+However it says that Allah misguides people, and [Allah being a liar and deceiver is a recurring theme.](/quran-and-hadiths#allah-deceives)
 
 ## [2: 27](https://quran.com/2/27
 
@@ -118,11 +120,11 @@ Allah has the vocabulary of a 14 year old boy.
 
 ## 2:28
 
+*New topic (6)*
+
 > […you were lifeless and He gave you life, then He puts you to death, then He brings you to life, then to Him you are returned](https://quran.com/2/28)
 
 So Muslims pre-existed lifeless, then became alive, then dead, then alive again, then go to Allah? What busywork.
-
-Is this an admission that humans will indeed be with God in the end? I thought people could never come near Allah? Sometimes you can hear faint echoes of biblical theology in the heresy.
 
 # Surah 2: 29
 
@@ -132,15 +134,17 @@ We learn that Allah created the earth first and then the heavens, 7 of them. In 
 
 # Surah 2: 30-34
 
+*New topic (7)*
+
+*No context (1)*
+
 > … your Lord said to the angels, “I am appointing a viceroy in the earth.” … We said to the angels, “Prostrate yourselves to Adam”, so they prostrated themselves—but not Iblis. He refused and acted arrogantly and became of the deniers.
 
-Muhammad is regering to a fable taken from [the apocryphal book of the life of Adam and Eve 13.2](http://www2.iath.virginia.edu/anderson/vita/english/vita.lat.html), where Adam is assigned as the ruler of the angels and God makes the angels bow down to him, but Sayan refuses. It was written between around 100 BC-100 AD and it's an example of one of many false stories that Muhammad have just heard, thought was real, and included in the Quran. Either that or "Allah" can't tell fact from fan fiction.
+Muhammad is referring to a fable taken from [the apocryphal book of the life of Adam and Eve 13.2](http://www2.iath.virginia.edu/anderson/vita/english/vita.lat.html), where Adam is assigned as the ruler of the angels and God makes the angels bow down to him, but Sayan refuses. It was written between around 100 BC-100 AD and it's an example of one of many false stories that Muhammad have just heard, thought was real, and included in the Quran. Either that or "Allah" can't tell fact from fan fiction.
 
 > …He taught Adam the names, all of them…
 
 In verse 31 it says that Allah **taught Adam the names**. Assuming this means the names of the animals, this disagrees with the Bible. Adam was the one who got to give names to the animals. God in the Bible allows his creatures to exercise creativity, but Allah from the Quran is not as magnanimous.
-
-
 
 # Surah 2: 35-39
 
@@ -149,6 +153,8 @@ In verse 31 it says that Allah **taught Adam the names**. Assuming this means th
 This verse is fuzzy but it appears that after the fall, Adam and Eve "descended" from Eden, as if it was not part of earth.
 
 # Surah 2: 40-46
+
+*New topic (8)*
 
 > O Children of Israel
 
@@ -164,6 +170,8 @@ However we have extant Torahs that are 800 years older than this, and they are i
 
 So either Allah wrote this and he was lying. Or Muhammad wrote this and he was ignorant and stupid.
 
+See also ["The Bible has been corrupted"](/the-bible-has-been-corruoted), [The Quran affirms the Bible](/the-quran-affirms-the-bible), and [The Islamic dilemmas.](/the-islamic-dilemma)
+
 # Surah 2: 47
 
 > Children of Israel, remember how I blessed you and favoured you over other people.
@@ -178,9 +186,13 @@ This contradicts other sources which say that on judgment day, [Muslims will be 
 
 # Surah 2: 49-50
 
+*No context (2)*
+
 This section is about Israel in Egypt. It says that the genocide of male babies **was a great trial from your Lord**. This is false, it was from Satan. It was against God's will.
 
 # Surah 2: 51-56
+
+*No context (3)*
 
 This passage is about the worship of the golden calf.
 
@@ -190,27 +202,41 @@ This is false. The Israelites were rather terrified and did **not** want to see 
 
 # Surah 2: 58-59
 
+*No context (4)*
+
 > Remember when We said, ‘Enter this town and eat freely there as you will, but enter its gate humbly and say, “Relieve us!” Then We shall forgive you your sins and increase the rewards of those who do good.’ But the wrongdoers substituted a different word from the one they had been given. So, because they persistently disobeyed, We sent a plague down from the heavens upon the wrongdoers.
 
 This does not seem to match any story of the Bible. It seems to be made up.
 
 # Surah 2: 60
 
+*No context (5)*
+
 This verse says that when Moses struck the rock **Twelve springs gushed out, and each group knew its drinking place.** This is inaccurate.  There is no mention of 12 streams in the Bible.
 
 # Surah 2: 62
 
-> The [Muslim] believers, the Jews, the Christians, and the Sabians- all those who believe in God and the Last Day and do good- will have their rewards with their Lord.
+*New topic (9)*
 
-Once again it jumps to a wildly different topic.
+> The [Muslim] believers, the Jews, the Christians, and the Sabians- all those who believe in God and the Last Day and do good- will have their rewards with their Lord.
 
 **The Sabians** were a Gnostic group following John the Baptist. This list of approved groups is very random and misleading. 
 
 # Surah 2: 63,64
 
+*New topic (10)*
+
+*No context (6)*
+
+> And ˹remember˺ when We took a covenant from you and raised the mountain above you
+
 This passage is very vague. I have no idea what story it refers to.
 
 # Surah 2: 65,66
+
+*New topic (11)*
+
+*No context (7)*
 
 > You know about those of you who broke the Sabbath, and so We said to them, ‘Be like apes! Be outcasts!’
 
@@ -218,11 +244,17 @@ This also never happened. God has never said sabbath breakers are apes. Breaking
 
 # Surah 2: 67-73
 
+*New topic (12)*
+
+*No context (8)*
+
 Some shenanigans about a cow. Also a story not mentioned in the Bible.
 
 > Moses said to his people, ‘God commands you to sacrifice a cow.’ They said, ‘Are you making fun of us?
 
-Why would they react like this to such a common idea as sacrificing a cow? They are baffled and don't know what is going on, asking **show us what sort of cow it should be** and Moses explains it should be **neither too old nor too young** and **bright yellow**, which is a weird color for a cow. They are still confused thinking **all cows are more or less alike to us**. So Moses needs to expand lain that it should be **perfect and unblemished cow, not trained to till the earth or water the fields**. And then finally they understand.
+Why would they react like this to such a common idea as sacrificing a cow? They are baffled and don't know what is going on, asking **show us what sort of cow it should be** and Moses explains it should be **neither too old nor too young** and **bright yellow**, which is a weird color for a cow. They are still confused thinking **all cows are more or less alike to us**. So Moses needs to explain that it should be **perfect and unblemished cow, not trained to till the earth or water the fields**. And then finally they understand.
+
+> We said, ‘Strike the [[dead] body] with a part of [the cow]’: thus God brings the dead to life and shows His signs so that you may understand.
 
 The cow is then apparently used to resurrect dead people by striking their dead body with a piece of the cow.
 
@@ -895,5 +927,17 @@ Allah forgives without a legal right to do so (i.e. a ransom). Sins must be puni
 
 > The Messenger ˹firmly˺ believes in what has been revealed to him from his Lord, and so do the believers. They ˹all˺ believe in Allah, His angels, His Books, and His messengers. 
 
-This verse claims that Muhammad and all Muslims believe in the Bible, which is "His books". However the Quran contradicts these books. 
-There is no evidence that the Bible has been corrupted. So if the Quran is correct that the Bible is the word of God, then the Quran and Muhammad's teachings are false. If the
+This verse claims that Muhammad and all Muslims believe in the Bible, which is "His books". However the Quran contradicts these books. And the Bible rejects the Bible. See [the Islamic dilemma](/the-islamic-dilemma) for more information.
+
+# Surah 2:286
+
+> Allah does not require of any soul more than what it can afford. 
+
+But he requires everything up to and including what they can afford.
+
+> Our Lord! Do not punish us if we forget or make a mistake. Our Lord! Do not place a burden on us like the one you placed on those before us. Our Lord! Do not burden us with what we cannot bear. Pardon us, forgive us, and have mercy on us.
+
+That Muslims have to beg their god to not punish them with tyrannical requirements says a lot. Being a Muslim is indeed a most pitiable situation.
+
+# End notes
+

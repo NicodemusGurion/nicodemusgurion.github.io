@@ -13,15 +13,8 @@ Some selected Quran and Hadith verses.
 
 <small>Unless otherwise mentioned hadith quotations are from Muhammad. Since the hadiths are often verbose, ellipsis (…) has been used to cut down on the volume of text; See original Hadiths for full text. </small>
 
-# Adam
-
-## Adam was 60 cubits tall
-
-[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
-
-> ...their form would be alike as one single person after the form of their father (Adam) sixty cubits tall.
-
-1 Arabic cubit was traditionally 64 cm long, which means Adam would be 38.4 meters tall.
+{% capture AdamJihad %}{% include Adam-Jihad.md %}{% endcapture %}
+{{ AdamJihad | markdownify }}
  
 # Allah
 
@@ -107,6 +100,14 @@ This is also a verse that proves Islam is historically false, for [the crucifixi
 
 Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.
 
+## Allah blinds people to the truth
+
+Surah 2:7
+
+> Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
+
+It is Allah's fault if someone does not believe.
+
 ## Allah needs your money
 
 Surah 2:254
@@ -133,6 +134,10 @@ Give him your money before it's too late!
 
 Even Aisha noticed that the "revelations" that Muhammad got from Allah was suspiciously self-serving, affording him all sorts of luxuries and privileges. For example he was the only one who could take more than 4 wives, he could use his female slaves as sex slaves without his wives being able to complain, could steal his adoptive son's wife, and Allah even instructed people how to handle dinner parties at his place, because Muhammad was too shy to tell people himself. It seems like every time Muhammad had any desire, Allah came with a convenient revelation permitting him to go ahead.
 
+
+
+
+
 # Animals
 
 ## Owning a dog gives you minus points {#owning-a-dog}
@@ -140,6 +145,11 @@ Even Aisha noticed that the "revelations" that Muhammad got from Allah was suspi
 [Sahih al Bukhari 5480](https://sunnah.com/bukhari:5480)
 
 > "Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds."
+
+
+
+
+
 
 # Apostasy 
 
@@ -152,7 +162,69 @@ Even Aisha noticed that the "revelations" that Muhammad got from Allah was suspi
 - [Sunan Ibn Majah 2533](https://sunnah.com/ibnmajah:2533)
 - [Sunan Ibn Majah 2534](https://sunnah.com/ibnmajah:2534)
 
+
+
+
+
+
+
+
+
+
+
 # Contradictions
+
+## Contradicting the Bible
+
+### Who named the animals?
+
+Surah 2:31
+
+> He taught Adam the names of all things, 
+
+In the Bible it is Adam who had the task of naming all animals.
+
+### The affliction in Egypt
+
+Surah 2:48
+
+> the people of Pharaoh, who afflicted you with dreadful torment, slaughtering your sons and keeping your women. That was a severe test from your Lord
+
+According to the Bible, slavery in Egypt was not a trial from God but an affliction from the Egyptians. 
+
+### Seeing God
+
+Surah 2:55
+
+> And ˹remember˺ when you said, “O Moses! We will never believe you until we see Allah with our own eyes,” so a thunderbolt struck you while you were looking on.
+
+There is no such story in the Bible. Rather the Israelites were terrified and did not want to see God.
+
+### How many springs?
+
+Surah 2:60
+
+> We said, “Strike the rock with your staff.” Then twelve springs gushed out
+
+In the Bible there was only one spring.
+
+### Breaking the sabbath
+
+Surah 2: 65,66
+
+> You know about those of you who broke the Sabbath, and so We said to them, ‘Be like apes! Be outcasts!’
+
+God has never said sabbath breakers are apes. Breaking the sabbath was punished by death, not ostracism.
+
+### Raising dead using cow parts
+
+Surah 2:73 
+
+> We said, ‘Strike the [body] with a part of [the cow]’: thus God brings the dead to life and shows His signs so that you may understand.
+
+Israelites are instructed to use parts of a cow carcass to resurrect the dead.
+
+## Contradicting the Quran
 
 Surah 4:82
 
@@ -160,7 +232,8 @@ Surah 4:82
 
 If the Quran is from Allah, there should be no contradictions.
 
-## How long did it take Allah to create the world?
+
+### How long did it take Allah to create the world?
 
 Was it 6 days or 8 days?
 
@@ -172,13 +245,22 @@ Surah 41:9-12 says Allah created the heavens and the earth in 8 days. 2 + 4 + 2 
 
 > Ask ˹them, O  Prophet˺, “How can you disbelieve in the One Who created the earth in **two Days**? And how can you set up equals with Him? That is the Lord of all worlds. He placed on the earth firm mountains, standing high, showered His blessings upon it, and ordained ˹all˺ its means of sustenance—totaling **four Days** exactly —for all who ask. ... So He formed the heaven into seven heavens in **two Days**, assigning to each its mandate. ... 
 
-## Muhammad did and did not do miracles 
+### Muhammad did and did not do miracles 
 
 In Surah 6:37; 6:109; 13:7; 17:59; 20:20 it says that Muhammad never did any miracles. But in [Sahih al Bukhari 3637](https://sunnah.com/bukhari:3637) it says that he DID do a miracle.
 
-## Are people ransomed from hell or not.
+### Are people ransomed from hell or not.
 
 [The Quran says there will be no ransoms whatsoever on judgment day.](#no-ransom) But one Hadith says [muslims will be ransomed from hell by Christians and Jews taking their places in hell.](#ransomed-from-hell).
+
+
+
+
+
+
+
+
+
 
 # Errors 
 
@@ -255,6 +337,17 @@ Surah 19:7
 
 John is not a unique name. in fact it was one of the most popular names in the first century. There are at least 5 people in the New testament named John. The Hebrew equivalent of the name John is "Johanan" and "Jehohanan", which means "Yahweh is gracious." There are at least 17 persons in the old testament with this name, for a total of 22 people in the whole Bible. So Allah and the Quran are wrong that John was the first one with this name.
 
+
+
+
+
+
+
+
+
+
+
+
 # Health and hygiene
 
 ## Muslims aren’t allowed to urinate standing {#no-urinating-standing}
@@ -280,6 +373,14 @@ Also:
 [Sahih al-Bukhari 174](https://sunnah.com/bukhari:174)
 
 > And narrated Hamza bin 'Abdullah: My father said. "During the lifetime of Allah's Apostle, the dogs used to urinate, and pass through the mosques (come and go), nevertheless they never used to sprinkle water on it (urine of the dog.)"
+
+
+
+
+
+
+
+
 
 # Islam
 
@@ -331,6 +432,14 @@ Apparently Allah is even concerned about Muhammad not having to suffer the awkwa
 
 Why would the creator of the universe be concerned with how someone moves their tongue? This is obviously Muhammad being annoyed and using Allah as an excuse to have people stop smacking their tongues while eating.
 
+
+
+
+
+
+
+
+
 # Jews
 
 ## The verse Muslims use to lie that Islam is peaceful {#peaceful}
@@ -362,6 +471,17 @@ This is directed to Muslims, how to deal with those who "who wage war against Al
 [Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
 
 > …"The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
+
+
+
+
+
+
+
+
+
+
+
 
 # Jihad
 
@@ -404,6 +524,20 @@ Also:
 - [Sunan Ibn Majah 3927](https://sunnah.com/ibnmajah:3927)
 - [Sunan Ibn Majah 3928](https://sunnah.com/ibnmajah:3928)
 - [Sunan Ibn Majah 3929](https://sunnah.com/ibnmajah:3929)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Mohammad
 
@@ -908,7 +1042,7 @@ Surah 33:21
 
 > The Prophet used to copy the people of the Scriptures in matters in which there was no order from Allah.
 
-## Muhammad was ridden by jinns
+## Muhammad was ridden by black men {#ridden}
 
 [Musnad Ahmad ibn Hanbal 3778](https://www-islamweb-net.translate.goog/ar/library/content/6/3599/%D9%85%D8%B3%D9%86%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D8%B1%D8%B6%D9%8A-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D8%B9%D9%86%D9%87?_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp), [3688](https://hadithportal-com.translate.goog/index.php?show=hadith&h_id=3688&book=35&_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp) (Google translate), [Jami` at-Tirmidhi 2861](https://sunnah.com/urn/730940)
 
@@ -1030,6 +1164,13 @@ See also:
 - [Sahih al Bukhari 4451](https://sunnah.com/bukhari:4451)
 - [Sahih al Bukhari 5217](https://sunnah.com/bukhari:5217)
 
+
+
+
+
+
+
+
 # Paradise
 
 The Islamic paradise is a very physical place where people will eat fruit that all tastes the same. Then they will not poop, but belch out the excrement as musk.
@@ -1069,6 +1210,13 @@ Surah 2:29
 
 > It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens...
 
+
+
+
+
+
+
+
 # Prayer
 
 ## Looking up while praying makes you go blind {#praying-looking-up-blind}
@@ -1082,6 +1230,12 @@ Surah 2:29
 [Sahih al Bukhari 691](https://sunnah.com/bukhari:691)
 
 > The Prophet said, "Isn't he who raises his head before the Imam afraid that Allah may transform his head into that of a donkey or his figure into that of a donkey?"
+
+
+
+
+
+
 
 # The Quran {#quran}
 
@@ -1158,6 +1312,15 @@ See also [Apostasy](#apostasy)
 
 At least part of the Quran was written down by or edited by a Christian convert to Islam (and later re-convert to Christianity). He claimed to understand it better than Muhammad.
 
+
+
+
+
+
+
+
+
+
 # Racism
 
 ## Muhammad traded black slaves {#black-slaves}
@@ -1221,6 +1384,11 @@ Surah 3:106-107
 
 > on a day when some faces are whitened and some faces are blackened. So as for those whose faces were blackened: “Did you deny after having attained faith?” Then taste the punishment on account of what you used to deny. And as for those whose faces were whitened—(they are) in Allah’s mercy; therein they abide.
 
+
+
+
+
+
 # Rape
 
 ## It is ok to rape captured women {#raping-captives}
@@ -1243,9 +1411,21 @@ Surah 3:106-107
 
 Not only are Muslims allowed to rape women, but can just discard them like trash and not bother about them becoming pregnant.
 
+
+
+
+
+
+
 # Salvation 
 
 How Muslims are saved on judgment day is confusing and contradictory.
+
+## Jews and Christians are also saved
+
+Surah 2:62
+
+> The [Muslim] believers, the Jews, the Christians, and the Sabians- all those who believe in God and the Last Day and do good- will have their rewards with their Lord. 
 
 ## No ransom 
 
@@ -1278,6 +1458,11 @@ Islam teaches that the Quran is actually alive and will function as an intercess
 See also:
 
 - [Mishkat al-Masabih 2120](https://sunnah.com/mishkat:2120)
+
+
+
+
+
 
 
 # Satan
@@ -1339,7 +1524,19 @@ See also:
 
 > Narrated Abu Huraira: The Prophet once offered the prayer and said, "Satan came in front of me and tried to interrupt my prayer, but Allah gave me an upper hand on him and I choked him. No doubt, I thought of tying him to one of the pillars of the mosque till you get up in the morning and see him. Then I remembered the statement of Prophet Solomon, 'My Lord ! Bestow on me a kingdom such as shall not belong to any other after me.' Then Allah made him (Satan) return with his head down (humiliated)."
 
+
+
+
+
+
+
 # Science
+
+## Earth existed before space
+
+Surah 2:29
+
+> He is the One Who created everything in the earth for you. Then He turned towards the heaven, forming it into seven heavens. 
 
 ## Sperm comes from between the backbone and the ribs
 
@@ -1396,6 +1593,12 @@ See also:
 > There is nothing of the human body that does not decay except one bone; that is the little bone at the end of the coccyx of which the human body will be recreated on the Day of Resurrection.
 
 I'm pretty sure it does, eventually.
+
+
+
+
+
+
 
 
 
@@ -1464,6 +1667,14 @@ Compare to the Mosaic law in Deuteronomy 23:15-16:
 [Sunan an-Nasa'i 4621](https://sunnah.com/nasai:4621Sunan an-Nasa'i 4621
 
 > "A slave came and gave his pledge to the Messenger of Allah to emigrate, and the Prophet did not realize that he was a slave. Then his master came looking for him. The Prophet said; 'Sell him to me.' So he bought him for two black slaves, then he did not accept until he had asked; 'Is he a slave?'''
+
+
+
+
+
+
+
+
 
 # Violence
 
@@ -1552,6 +1763,11 @@ A Muslim who chickens out and turns his back on a disbeliever will go to hell.
 > “Whoever plunders openly is not one of us.”
 
 So plundering only makes a Muslim a nonbeliever under the condition that they do it openly when someone is watching. If it's done in secret it's no problem.
+
+
+
+
+
 
 
 # Weird or miscellaneous 
@@ -1644,6 +1860,12 @@ Muhammad said to kill specific snakes…
 > …[In battle, a] man … attacked an idolator man with a spear, and when he was defeated he said: “I bear witness that none has the right to be worshipped but Allah, I am a Muslim.” But he stabbed him and killed him…We buried him, but the following morning he was on the surface of the earth. They said: “Perhaps an enemy of his disinterred him.” So we buried him (again) and told our slaves to stand guard. But the following morning he was on the surface of the earth again then we said: ‘Perhaps the slaves dozed off.’ So we buried him (again) and stood guard ourselves, but the following morning he was on the surface of the earth (again). So we threw him into one of these mountain passes.’”
 
 Apparently it was impossible to keep this deathbed convert in the ground, so they did the only sensible thing and **threw him into one of these mountain passes**. As you do.
+
+
+
+
+
+
 
 
 
