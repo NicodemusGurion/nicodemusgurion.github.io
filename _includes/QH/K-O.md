@@ -597,6 +597,8 @@ Notice also the poetic biblical references in that a false anti-christ prophet w
 
 ### What was the last orders of Muhammad to his followers? {#last-orders}
 
+[Sahih al Bukhari 3053](https://sunnah.com/bukhari:3053)
+
 > Ibn 'Abbas said... The Prophet on his death-bed, gave three orders saying, "Expel the pagans from the Arabian Peninsula, respect and give gifts to the foreign delegates as you have seen me dealing with them." I forgot the third (order)"...
 
 What's that, Ibn Abbas? The last order of Muhammad wasn't noteworthy enough to even commit to memory? But at least you remembered the genocide part.
