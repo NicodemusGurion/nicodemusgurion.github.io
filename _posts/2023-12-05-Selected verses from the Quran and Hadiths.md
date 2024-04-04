@@ -13,8 +13,8 @@ Some selected Quran and Hadith verses.
 
 <small>Unless otherwise mentioned hadith quotations are from Muhammad. Since the hadiths are often verbose, ellipsis (…) has been used to cut down on the volume of text; See original Hadiths for full text. </small>
 
-{% capture AdamJihad %}{% include_relative Adam-Jihad.md %}{% endcapture %}
-{{ AdamJihad | markdownify }}
+{% capture AJ %}{% include QH/A-J.md %}{% endcapture %}
+{{ AJ | markdownify }}
  
 # Allah
 
