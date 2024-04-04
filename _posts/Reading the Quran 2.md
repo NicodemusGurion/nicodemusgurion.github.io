@@ -834,3 +834,66 @@ Muslims ought to consider why Allah said he "raised" Jesus "in rank".
 > Yet if Allah had willed, they would not have fought one another. But Allah does what He wills.
 
 Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.
+
+# Surah 2:254
+
+> Donate from what We have provided for you before the arrival of a Day when there will be no bargaining,1 friendship,2 or intercession
+
+Allah is broke! Give him your moneys!
+
+# Surah 2:255
+
+> His throne extends over the heavens and the earth; it does not weary Him to preserve them both. 
+
+In the Bible, Hebrews 1:2-3;8:1 it is Jesus who is enthroned in heaven and who sustains the universe. The Quran admits that Jesus is God.
+
+# Surah 2:256
+
+> Let there be no compulsion in religion, for the truth stands out clearly from falsehood
+
+One of the verses used to defend Islam. It was written before Muhammad went to Medina, during the time he was outnumbered. But that tone changed once he had an army. Islam always plays meek and nice when outnumbered, but once they gain power the tyranny begins.
+
+# Surah 2:257
+
+Regular warnings and threats.
+
+# Surah 2:258-260
+
+Three apocryphal stories about Abraham arguing withNinrod, an Israelite man whom Allah killed and raised after a hundred years, and another story about Abraham cutting birds to pieces and Allah resurrecting them.
+
+The Quran is full of weird apocryphal fables and corrupted stories. But someone growing up with them would say that the canonical stories are false.
+
+# Surah 2:261-274
+
+Donations and charity. Allah blesses those who give him money and curses those who don't.
+
+Surah 2:266 is cryptic but commentaries say it means that if someone does good and then turn to doing bad, all his good deeds are cancelled.
+
+Surah 2:271 says "to give to the poor privately is better for you, and will absolve you of your sins", teaching the lie of works righteousness.
+
+# Surah 2:275-281
+
+Condemning interest and usury.
+
+# Surah 2:282-283
+
+Laws regarding loan contracts.
+
+Surah 2:282 contains this gem:
+
+> Call upon two of your men to witness. If two men cannot be found, then one man and two women of your choice will witness—so if one of the women forgets the other may remind her.
+
+In Islam, women are considered to be half as intelligent and trustworthy as a man, therefore if two men can not be found to witness the contract, one man and two women would suffice. Apparently women are so unreliable that they need to remind one another what to say.
+
+# Surah 2:284
+
+> He forgives whoever He wills, and punishes whoever He wills.
+
+Allah forgives without a legal right to do so (i.e. a ransom). Sins must be punished, or the judge is unjust. To forgive and have mercy, the judge must accept some sort of ransom. This is missing in Islam, which means Allah is an unjust judge who lets people get away with hurting others.
+
+# Surah 2:285
+
+> The Messenger ˹firmly˺ believes in what has been revealed to him from his Lord, and so do the believers. They ˹all˺ believe in Allah, His angels, His Books, and His messengers. 
+
+This verse claims that Muhammad and all Muslims believe in the Bible, which is "His books". However the Quran contradicts these books. 
+There is no evidence that the Bible has been corrupted. So if the Quran is correct that the Bible is the word of God, then the Quran and Muhammad's teachings are false. If the

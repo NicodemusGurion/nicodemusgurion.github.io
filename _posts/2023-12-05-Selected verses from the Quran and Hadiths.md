@@ -1703,6 +1703,14 @@ Also:
 
 - [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
+## The testimony of a woman is worth half that of a man
+
+Surah 2:282
+
+> Call upon two of your men to witness. If two men cannot be found, then one man and two women of your choice will witness—so if one of the women forgets the other may remind her.
+
+In Islam, women are considered to be half as intelligent and trustworthy as a man, therefore if two men can not be found to witness the contract, one man and two women would suffice. Apparently women are so unreliable that they need to remind one another what to say.
+
 ## Women are equal to donkeys and dogs 
 
 [Sahih al Bukhari 514](https://sunnah.com/bukhari:514)
