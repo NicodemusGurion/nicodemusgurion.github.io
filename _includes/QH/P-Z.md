@@ -631,6 +631,8 @@ Surah 9:17-18
 
 ## Muslims living abroad goes to hell
 
+Surah 4:97
+
 > When the angels seize the souls of those who have wronged themselves — scolding them, “What was wrong with you?” they will reply, “We were oppressed in the land.” The angels will respond, “Was Allah’s earth not spacious enough for you to emigrate?” It is they who will have Hell as their home—what an evil destination!
 
 When muslims who live outside of Islamic countries (i.e. them being **opressed in the land**) die, the angel of death will scold them for not living in an Islamic country (i.e. **Allah’s earth**), and send them to hell.
