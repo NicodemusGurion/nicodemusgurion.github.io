@@ -830,3 +830,7 @@ So far it has only been a hot mess of incoherent schizophrenic ramblings and err
 > God spoke to some; others He raised in rank; We gave Jesus, son of Mary, Our clear signs and strengthened him with the holy spirit.
 
 Muslims ought to consider why Allah said he "raised" Jesus "in rank". 
+
+> Yet if Allah had willed, they would not have fought one another. But Allah does what He wills.
+
+Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.

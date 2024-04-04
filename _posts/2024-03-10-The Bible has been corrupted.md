@@ -1,23 +1,17 @@
 ---
-title: Answers to Muslims
+title: "The Bible has been corrupted"
 tags: [Apologetics, Islam, Muslims, Christianity, Bible]
 ---
-
-These are explanations to some common questions and claims from Muslims about Christianity.
-
-[TOC]
-
-# "The Bible has been corrupted"
 
 **Short answer:** No, there has been no change or corruption of the Bible.
 
 We can verify the integrity of the Bible because of [historical evidence](#historical-evidence), and even from [what the Quran says](#quranic-affirmation). The reason for this claim is the [Islamic Dilemma.](#islamic-dilemma)
 
-## Historical evidence 
+# Historical evidence 
 
 The reason we can trust that the Bible text we have today has not been changed or corrupted is because we have originals of the text dating back almost 2300 years.
 
-### The Dead Sea scrolls
+## The Dead Sea scrolls
 
 [The Dead Sea Scrolls](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls) contain parts of all but one of the books of the Tanakh of the Hebrew Bible. The texts they contain are identical in meaning with modern Bibles. This shows that the transmission has been so faithful that nothing has been changed or lost for over 2300 years.
 
@@ -27,17 +21,17 @@ The reason we can trust that the Bible text we have today has not been changed o
 
 We also have [several complete Bibles](https://en.m.wikipedia.org/wiki/Great_uncial_codices) that are several centuries older than Islam. For example the [Codex Sinaiticus](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus) (4th century), [Codex Vaticanus](https://en.m.wikipedia.org/wiki/Codex_Vaticanus) (4th century), [Codex Alexandrinus](https://en.m.wikipedia.org/wiki/Codex_Alexandrinus) (5th century), and [Codex Ephraemi Rescriptus](https://en.m.wikipedia.org/wiki/Codex_Ephraemi_Rescriptus) (5th century). This means that they are 200-400 years older than Islam itself. These are complete or near complete Bibles from 1600 years ago and their contents is identical in meaning to the contents of modern Bibles. This proves that there has been **no changes** between then and now. The Bible that existed in the time of Muhammad is **exactly** the same as the Bible we have today.
 
-### Church Fathers
+## Church Fathers
 
 Apart from this we also have the writings of the early church fathers who wrote between ca 50 CE and 300 CE. They quoted the Bible so much that from their quotations alone we can reconstruct the entire New Testament. This proves that the New Testament we have today is **exactly** the same as the one they had in the second to fourth centuries.
 
-### Other sources
+## Other sources
 
 Apart from these, we have smaller books, or chapters of books, or even fragments going back even farther. The oldest ones date back to 250 years before common era, that is more than 2270 years. All in all we have over 10.000 Latin manuscripts, over 6000 Greek manuscripts, over 2000 Hebrew manuscripts, and thousands of manuscripts in other ancient languages. **The Bible is the most well preserved ancient text that exists.**
 
 Historically speaking there is absolutely **no evidence** of any corruption or missing information.
 
-## The Quran affirms the Bible {#quranic-affirmation}
+# The Quran affirms the Bible {#quranic-affirmation}
 
 [Surah 2: 88-91](https://quran.com/2/88-91)
 
