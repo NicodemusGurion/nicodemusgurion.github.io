@@ -94,13 +94,13 @@ The only claim to inspiration the Quran makes is in its literary excellence, cla
 
 One miraculous claim made is that the Quran has been perfectly preserved. However the Quran and Hadiths contradict this.
 
-### Allah foretold that the Quran wouldn’t be perfectly preserved {#no-preservation}
+## Allah foretold that the Quran wouldn’t be perfectly preserved {#no-preservation}
 
 Surah 2:106
 
 > If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
 
-### Two chapters of the Quran were forgotten {#surahs-forgotten}
+## Two chapters of the Quran were forgotten {#surahs-forgotten}
 
 [Sahih Muslim 1050](https://sunnah.com/muslim:1050)
 
@@ -108,7 +108,7 @@ Surah 2:106
 
 This reciter admits that they **used to recite** two surahs meaning it was once part of the Quran, but that they just forgot them. He remembers some fragments, but these match nothin in the Quran, proving that these surahs are gone forever. This proves the Quran has not been perfectly preserved.
 
-### Two chapters of the Quran were eaten by a sheep {#sheep-ate-surahs}
+## Two chapters of the Quran were eaten by a sheep {#sheep-ate-surahs}
 
 [Sunan Ibn Majah 1944](https://sunnah.com/ibnmajah:1944)
 

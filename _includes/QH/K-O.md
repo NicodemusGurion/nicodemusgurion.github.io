@@ -352,13 +352,13 @@ Also:
 - [Al-Adab Al-Mufrad 958](https://sunnah.com/adab:958)
 - [Sahih Muslim 2924 a](https://sunnah.com/muslim:2924a)
 
-## Muhammad was posessed by Satan {#posessed-by-satan}
+### Muhammad was posessed by Satan {#posessed-by-satan}
 
 [Sunan an-Nasa'i 3960](https://sunnah.com/nasai:3960)
 
 > I said: "Don't you have a Shaitan?" He said: "Yes, but Allah helped me with him, so he submitted."
 
-## Muhammad believed he had a wrestling match with Satan {#wrestling-satan}
+### Muhammad believed he had a wrestling match with Satan {#wrestling-satan}
 
 [Sahih al Bukhari 1210](https://sunnah.com/bukhari:1210)
 
@@ -567,7 +567,7 @@ See also:
 - [Sahih al Bukhari 2142](https://sunnah.com/bukhari:2141)
 
 
-## Muhammad traded black slaves {#black-slaves}
+### Muhammad traded black slaves {#black-slaves}
 
 [Sahih Muslim 1602](https://sunnah.com/muslim:1602)
 
@@ -658,16 +658,13 @@ Notice that Allah and Muhammad decide on things **together**, and the are equal 
 > "I heard 'Amr bin Al-Harith say: 'I saw the Messenger of Allah and he left nothing behind except his white mule, his weapon and some land which he left as a charity.'"
 
 
-
-
-
-## Muhammad was the first Muslim {#first-muslim}
+### Muhammad was the first Muslim {#first-muslim}
 
 Surah 6:14
 
 > Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “**I have been commanded to be the first to submit** and not be one of the polytheists.”
 
-## Allah considered Muhammad the perfect example {#perfect-example}
+### Allah considered Muhammad the perfect example {#perfect-example}
 
 Surah 33:21
 
