@@ -1,6 +1,12 @@
 # Violence
 
-See also [Jihad](#jihad), [Muhammad and violence](#muhammad-and-violence).
+See also [Jihad](#jihad), [Muhammad and violence](#muhammad-and-violence), [Rape](#rape).
+
+## Allah likes terrorists more than peaceful Muslims 
+
+Surah 4:95
+
+>  Those believers who stay at home—except those with valid excuses1—are not equal to those who strive in the cause of Allah with their wealth and their lives.…
 
 ## Fighting is obligatory 
 
@@ -10,7 +16,24 @@ Surah 2:216
 
 Apparently Allah thinks violence is good for humans. 
 
-## Killing unbelievers
+## Not fighting for Islam is punished with hell
+
+Surah 8:15-16
+
+> O believers! When you face the disbelievers in battle, never turn your backs to them. And whoever does so on such an occasion—unless it is a manoeuvre or to join their own troops—will earn the displeasure of Allah, and their home will be Hell. What an evil destination!
+
+A Muslim who chickens out and turns his back on a disbeliever will go to hell.
+
+## The penalty for resisting Islam
+
+Surah 5:33
+
+> Indeed, the penalty for those who wage war against Allah and His Messenger and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land**. This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous punishment in the Hereafter.
+
+In case you wage war against Islam, for example by exposing what a horrible ideology it is, your punishment is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land** and then to burn in hell for all eternity.
+
+
+## Terrorizing and killing unbelievers
 
 Surah 3:151-152
 
@@ -18,7 +41,7 @@ Surah 3:151-152
 
 Allah will use **terror** against unbelievers. By what method? By Muslims **killing them by His permission**. And then Allah will burn them in **the Fire** forever. But is this a coincidence? No, if a Muslims had a shred of humanity and **faltered and disagreed with each other about the matter** whether terrorism is good, Allah sees that as them having **disobeyed** him.
 
-## Kill unbelievers wherever you find them
+## "Kill unbelievers wherever you find them"
 
 Surah 4:89
 
@@ -32,22 +55,13 @@ Surah 4:91
 
 If someone just wants to **be safe from** Islam and just want to live their life in peace and not be bothered, then **seize them and kill them** too.
 
-## Allah likes terrorists more than peaceful Muslims 
+## Behead enemies
 
-Surah 4:95
+[Quran 47:4](https://quran.com/47/4?translations=149)
 
->  Those believers who stay at home—except those with valid excuses1—are not equal to those who strive in the cause of Allah with their wealth and their lives.…
+> Thus, when you encounter those who have denied, strike at their necks. Then when you have subjugated them, bind them firmly…
 
-## The penalty for resisting Islam
-
-Surah 5:33
-
-> Indeed, the penalty for those who wage war against Allah and His Messenger and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land**. This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous punishment in the Hereafter.
-
-In case you wage war against Islam, for example by exposing what a horrible ideology it is, your punishment is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land** and then to burn in hell for all eternity.
-
-
-## Beheading unbelievers
+## Behead unbelievers
 
 Surah 8:12
 
@@ -55,20 +69,6 @@ Surah 8:12
 
 Ever wondered why Islamic terrorists behead their victims? It's by the book.
 
-## Not fighting for Islam is punished with hell
-
-Surah 8:15-16
-
-
-> O believers! When you face the disbelievers in battle, never turn your backs to them. And whoever does so on such an occasion—unless it is a manoeuvre or to join their own troops—will earn the displeasure of Allah, and their home will be Hell. What an evil destination!
-
-A Muslim who chickens out and turns his back on a disbeliever will go to hell.
-
-## Behead enemies
-
-[Quran 47:4](https://quran.com/47?startingVerse=4&translations=149)
-
-> Thus, when you encounter those who have denied, strike at their necks. Then when you have subjugated them, bind them firmly…
 
 ## Plundering is ok if no one is watching
 
@@ -85,6 +85,8 @@ A Muslim who chickens out and turns his back on a disbeliever will go to hell.
 > “Whoever plunders openly is not one of us.”
 
 So plundering only makes a Muslim a nonbeliever under the condition that they do it openly when someone is watching. If it's done in secret it's no problem.
+
+
 
 
 
@@ -177,7 +179,7 @@ Muhammad said to kill specific snakes…
 - [Sahih Muslim 2236 b](https://sunnah.com/muslim:2236b)
 - [Mishkat al-Masabih 4137](https://sunnah.com/mishkat:4137)
 
-## Deathbed convert couldn't be buried
+## A deathbed convert couldn't be buried
 
 [Sunan Ibn Majah 3930](https://sunnah.com/ibnmajah:3930)
 
@@ -197,7 +199,7 @@ Apparently it was impossible to keep this deathbed convert in the ground, so the
 
 See also [Sex slaves](#sex-slaves), [Rape](#rape)
 
-## It's ok for a man to beat his wife
+## Wife beating allowed {#domestic-abuse}
 
 Surah 4:34
 
@@ -205,7 +207,7 @@ Surah 4:34
 
 This is if a man even only fears his wife would be disobedient.
 
-## Never ask a man why he beats how wife 
+## Never ask why a man beats his wife  {#dont-question-wife-beater}
 
 [Sunan Ibn Majah 1986](https://sunnah.com/ibnmajah:1986)
 
@@ -214,7 +216,7 @@ This is if a man even only fears his wife would be disobedient.
 Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 
 
-## No women has it worse than Muslim women
+## No women has it worse than Muslim women {#muslimas-treated-worst}
 
 [Sahih al-Bukhari 5825](https://sunnah.com/bukhari:5825)
  
@@ -222,13 +224,13 @@ Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 
 Even Aisha, the "mother of the believers", admits that no women are treated as poorly as Muslim women. This muslima was beaten so severely that her bruises were greener than her green veil.
 
-## Women are to be plowed like a field
+## Women are to be plowed like a field {#plowing-women}
 
 Surah 2:223 
 
-> Your wives are your fields, so go into your fields whichever way you like
+> Your wives are your fields, so plow into your fields whichever way you like
 
-## It's ok to marry and divorce girls who have not yet menstruated
+## Pedophilia encouraged {#pedophilia-ok}
 
 Surah 65:4
 
@@ -242,21 +244,22 @@ There's a waiting period a divorced woman has to wait before she can remarry.
 
 This means men are allowed to marry and divorce prepubescent girls.
 
-## The majority of people in hell are women
+## Most people in hell are women {#most-in-hell-women}
 
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
-> Once Allah's Messenger  went out to the Musalla (to offer the prayer) of 'Id-al-Adha or Al-Fitr prayer. Then he passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." …
+>  Allah's Messenger … passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." …
 
-## Women are mentally deficient 
+The reason for this is because Allah created women to have menstruation, meaning they can't pray and fast as much.
 
-[Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
+## Women are "deficient in intelligence"
 
-> The Prophet said, "Isn't the witness of a woman equal to half of that of a man?" The women said, "Yes." He said, "This is because of the deficiency of a woman's mind."
+[Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
-Also:
+> I have not seen anyone more deficient in intelligence … than you.… The women asked… "What is deficient in our intelligence…?" He said, "Is not the evidence of two women equal to the witness of one man?" They replied in the affirmative. He said, "This is the deficiency in her intelligence."
 
-- [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
+See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
+
 
 ## The testimony of a woman is worth half that of a man
 
@@ -264,7 +267,23 @@ Surah 2:282
 
 > Call upon two of your men to witness. If two men cannot be found, then one man and two women of your choice will witness—so if one of the women forgets the other may remind her.
 
+[Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
+
+> [Muhammad] said, "Is not the evidence of two women equal to the witness of one man?"
+
 In Islam, women are considered to be half as intelligent and trustworthy as a man, therefore if two men can not be found to witness the contract, one man and two women would suffice. Apparently women are so unreliable that they need to remind one another what to say.
+
+See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
+
+## Women are "deficient in religion"
+
+[Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
+
+> I have not seen anyone more deficient in … religion than you. … Isn't it true that a woman can neither pray nor fast during her menses? … This is the deficiency in her religion.
+
+See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
+
+So since women can't pray or fast during their period, they are seen as deficient. Therefore ["most people in hell are women"](#most-in-hell-women) But it is Allah who made women that way, so it is Allah's fault if this would be the case. What an absolute arsehole.
 
 ## Women are equal to donkeys and dogs 
 
@@ -272,3 +291,4 @@ In Islam, women are considered to be half as intelligent and trustworthy as a ma
 
 > The things which annul prayer were mentioned before me (and those were): a dog, a donkey and a woman. I said, "You have compared us (women) to donkeys and dogs...
 
+See also [Sahih al-Bukhari 519](https://sunnah.com/bukhari:519)

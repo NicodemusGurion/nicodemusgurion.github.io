@@ -2,72 +2,82 @@
 
 Things that Mohammad did.
 
-## Muhammad was a pedophile
+## Muhammad's appearance
 
-### Mohammed married 6 year old Aisha {#child-sexual-abuse}
+What did he look like?
 
-[Sunna an Nasa'i 3378](https://sunnah.com/nasai:3378)
+### Muhammad was very average looking {#average-looks}
 
-> "The Messenger of Allah married me when I was six, and consummated the marriage with me when I was nine, and I used to play with dolls."
+[Jami` at-Tirmidhi 3623](https://sunnah.com/tirmidhi:3623)
 
-[Sahih al Bukhari 6130](https://sunnah.com/bukhari:6130)
+> The Messenger of Allah was not very tall nor was he [very] short, nor was he pale white, nor was he brown, nor was the wave of his hair completely curly nor straight…
 
-> Narrated 'Aisha: I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger  used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was **a little girl, not yet reached the age of puberty.**) (Fath-ul-Bari page 143, Vol.13)
+### Muhammad was white 
 
-Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
+[Sunan Abu Dawud 4864](https://sunnah.com/abudawud:4864)
 
-See also:
+> Sa’id al-Jariri quoted Abu al-Tufail as saying: I saw the Messenger of Allah. I asked: How did you see him? He said: He was white, good-looking, and when he walked, it looked as if he was descending to a low ground.
 
-- [Sahih al Bukhari 3896](https://sunnah.com/bukhari:3896)
-- [Sahih al Bukhari 5133](https://sunnah.com/bukhari:5133)
-- [Sahih al Bukhari 5134](https://sunnah.com/bukhari:5134)
-- [Sahih al Bukhari 5158](https://sunnah.com/bukhari:5158)
-- [Sahih Muslim 1422c](https://sunnah.com/muslim:1422c)
-- [Sahih Muslim 1422b](https://sunnah.com/muslim:1422b)
-- [Sunnah ibn Majah 1876](https://sunnah.com/ibnmajah:1876)
-- [Sunnah ibn Majah 1982](https://sunnah.com/ibnmajah:1982)
-- [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
-- [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
+[Ash-Shama'il Al-Muhammadiyah 12](https://sunnah.com/shamail:12)
 
-### Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating {#crotch-talk}
+> Abu Huraira … said:
+> "Allah’s Messenger … was white, as if he were fashioned from silver, with loosely curled hair."
 
-[Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
+Also:
 
-> …'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
+- [Sahih Muslim 2343 a](https://sunnah.com/muslim:2343a)
 
-### Muhammad used to fondle Aisha when she was menstruating {#fondling-aisha}
 
-[Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
 
-> Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. …
 
-### Muhammad used to suck and on Aishas tongue
 
-> Narrated Aisha, [Mother of the believers]: The Prophet used to kiss her and suck her tongue when he was fasting.
 
-### Muhammad French-kissed a little boy
 
-[Al-Adab Al-Mufrad 1183](https://sunnah.com/adab:1183)
 
-> …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, opened his mouth and put his mouth in his mouth. Then he said, O Allah, I love him, so love him and the one who loves him!'"
 
-### Muhammad was baffled that other men were not pedophiles like him
 
-[Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
+## Muhammad's character
 
-> Narrated Jabir bin Abdullah: When I got married, Allah's Messenger said to me, "What type of lady have you married?" I replied, "I have married a matron' He said, "Why, don't you have a liking for the virgins and for fondling them?" Jabir also said: Allah's Messenger said, "Why didn't you marry a young girl so that you might play with her and she with you?'
 
-### Muhammad believed silence meant consent
+## Muhammad was a copycat {#copycat}
 
-[Sahih al-Bukhari 5137](https://sunnah.com/bukhari:5137)
+[Sahih al-Bukhari 5917](https://sunnah.com/bukhari:5917)
 
-> Narrated Aisha: I said, "O Allah's Messenger! A virgin feels shy." He said, "Her consent is (expressed by) her silence."
+> The Prophet used to copy the people of the Scriptures in matters in which there was no order from Allah.
 
-A true rape culture.
 
-See also [Rape](#rape).
+### Muhammad cursed an orphan girl to die young {#cursed-orphan}
 
-## Muhammad and family
+[Sahih Muslim 2603](https://sunnah.com/muslim:2603)
+
+> Anas b. Malik reported that there was an orphan girl with Umm Sulaim (who was the mother of Anas). Allah's Messenger saw that orphan girl and said: O, it is you; you have grown young. May you not advance in years! That slave-girl returned to Umm Sulaim weeping. Umm Sulaim said: O daughter, what is the matter with you? She said: Allah's Apostle has invoked curse upon me that I should not grow in age and thus I would never grow in age…
+
+The Bible says that being kind and help orphans in their need is pure and undefiled worship. (James 1:27) 
+
+Even Surah 93:9 says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
+
+
+### Muhammad was a hypocrite 
+
+[Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
+
+> "The Messenger of Allah forbade facing the Qiblah when urinating. But I saw him, one year before he died, facing the Qiblah (while urinating)."
+
+
+
+### Muhammad's incompetence almost caused a famine {#caused-famine}
+
+> It was narrated from 'Aisha that the Prophet heard some sounds and said: “What is this noise?” They said: “Palm trees that are being pollinated.” He said: “If they did not do that it would be better.” So they did not pollinate them that year, and the dates did not mature properly. they mentioned that to the Prophet and he said: “If it is one of the matters of your religion, then refer to me.”
+
+Muhammad's incompetence caused the harvest to almost fail, yet he had the gall to tell people to consult him.
+
+
+
+
+
+
+
+## Muhammad's family {#muhammads-family}
 
 ### Muhammad would not provide more than one garment each to his wives {#miserly-husband}
 
@@ -97,11 +107,13 @@ Instead they had to go to Abu Bakr to get what they needed to survive as a chari
 
 > Narrated 'Aishah: When the Messenger of Allah  died, the wives of the Prophet  intended to send 'Uthman b. 'Affan to Abu Bakr to ask him their cost of living from (the inheritance of) the Prophet . Thereupon 'Aishah said: Did not the Messenger of Allah  say: We are not inherited. Whatever we leave is sadaqah (charity).
 
-### Muhammad died a pauper
+### The wives of Muhammad were denied remarriage {#no-remarriage}
 
-[Sunan an-Nasa'i 3596](https://sunnah.com/nasai:3596)
+Surah 33:53
 
-> "I heard 'Amr bin Al-Harith say: 'I saw the Messenger of Allah and he left nothing behind except his white mule, his weapon and some land which he left as a charity.'"
+> And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.
+
+In the ancient world marriage meant protection for a woman. Being left a widow was very negative. Also being left childless like Aisha was, meant she didn't even have, nor could she ever get children to help her in her old age. Muhammad was really selfish and heartless to leave his wives to fend for themselves just because of his own insecurities.
 
 ### The parents of Muhammad are in hell {#parents-in-hell}
 
@@ -117,38 +129,23 @@ Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will n
 
 Muhammad's father is in hell.
 
-## Muhammad and slavery
 
-See also [Slavery](#slavery)
 
-### Muhammad owned slaves
 
-[Sahih al-Bukhari 5433](https://sunnah.com/bukhari:5433)
 
-> Allah's Messenger went to his slave tailor...
 
-[Muwatta Malik book 21 hadith 25](https://sunnah.com/urn/509860)
 
-> Rifaa ibn Zayd presented a black slave boy to the Messenger of Allah, may Allah bless him and grant him peace, whose name was Midam...Midam was unsaddling the camel of the Messenger of Allah, may Allah bless him and grant him peace, when a stray arrow struck and killed him. The people said, 'Good luck to him! The Garden!' The Messenger of Allah said, 'No! By He in whose hand my self is! The cloak which he took from the spoils on the Day of Khaybar before they were distributed will blaze with fire on him.'
 
-Muhammad had a black slave who was killed in battle, and Muhammad said he went to hell.
 
-See also:
 
-- [Sahih al-Bukhari 5435](https://sunnah.com/bukhari:5435)
-- [Black slaves are worth half of Arab slaves](#black-slaves-worth-less)
 
-### Muhammad sold slaves
 
-[Sahih al-Bukhari 2534](https://sunnah.com/bukhari:2534)
 
-> Narrated Jabir bin Abdullah: A man amongst us declared that his slave would be freed after his death. The Prophet called for that slave and sold him. The slave died the same year.
 
-See also:
 
-- [Sahih al Bukhari 2142](https://sunnah.com/bukhari:2141)
 
-## Muhammad and water
+
+## Muhammad and hygiene {#muhammad-hygiene}
 
 ### Muhammad told his followers to drink sewer water {#sewer-water}
 
@@ -175,7 +172,7 @@ See also:
 - [Sahih al Bukhari 257](https://sunnah.com/bukhari:257)
 - [Sahih al Bukhari 276](https://sunnah.com/bukhari:276)
 
-### Muhammad had sex with 11 wives and only took one bath {#unwashed-sex}
+### Muhammad had sex with 11 wives but only took one bath {#unwashed-sex}
 
 [Sunan Ibn Majah 589](https://sunnah.com/ibnmajah:589)
 
@@ -186,8 +183,6 @@ See also:
 See also:
 
 - [Sunnan Abu Dawud 218](https://sunnah.com/abudawud:218)
-
-## Muhammad and saliva
 
 ### Muhammad told his followers to lick each other's hands {#licking-hands}
 
@@ -236,8 +231,6 @@ See also:
 
 > Jabir reported Allah's Apostle  came to the grave of 'Abdullah b. Ubayy, brought him out from that, placed him on his knee and put his saliva in his mouth and shrouded him in his own shirt and Allah knows best.
 
-## Muhammad and urine
-
 ### Muhammad urinated squatting
 
 [Sunan an-Nasa'i 29](https://sunnah.com/nasai:29)
@@ -250,7 +243,7 @@ See also:
 
 > Narrated Hudhaifa: I saw Allah's Messenger coming to the dumps of some people and urinated there while standing.
 
-It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and that [Muhammad didn't practice what he taught](#no-urinating-standing)
+It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and that [Muhammad didn't practice what he taught](#no-urinating-standing) and [other Hadiths also contradict.](#muhammad-urinated-standing)
 
 ### Muhammad urinated in some weird way
 
@@ -258,30 +251,16 @@ It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and tha
 
 > It was narrated that Ibn 'Abbas said: "The Messenger of Allah turned towards a mountain pass and urinated, until I took pity on him because of the way he parted his legs when he urinated."
 
-### Muhammad prohibited urinating in holes {#urinating-in-holes}
+Why do Muslims consider such information important for their religion?
 
-[Sunnan Abu Dawud 29](https://sunnah.com/abudawud:29)
 
-> The Prophet prohibited to urinate in a hole.
-> Qatadah (a narrator) was asked about the reason for the disapproval of urinating in a hole. He replied: It is said that these (holes) are the habitats of the jinn.
-
-### Muhammad prescribed the drinking of camel urine {#drinking-camel-urine}
+### Muhammad told people to drink camel urine {#drinking-camel-urine}
 
 [Mishkat al-Masabih 3539](https://sunnah.com/mishkat:3539)
 
 > Anas told that some people of ‘Ukl who had come to the Prophet and accepted Islam found Medina unhealthy, so he ordered them to go to the camels of the sadaqa and drink some of their urine...
 
 [He later tortured these people to death.](#tortured-to-death)
-
-### Muhammad prohibited urinating towards the qibla {#urinating-toward-qibla}
-
-[Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
-
-> "The Messenger of Allah forbade facing the Qiblah when urinating. But I saw him, one year before he died, facing the Qiblah (while urinating)."
-
-Hypocrite.
-
-## Muhammad and other bodily fluids
 
 ### Muhammad wore semen encrusted clothes {#semen-clothes}
 
@@ -303,78 +282,27 @@ See also:
 - [Sahih al Bukhari 229](https://sunnah.com/bukhari:229)
 - [Sahih Muslim 290 (scraping it off with the nail)](https://sunnah.com/muslim:290)
 
-## Muhammad's appearance
 
-### Muhammad was white 
 
-[Sunan Abu Dawud 4864](https://sunnah.com/abudawud:4864)
 
-> Sa’id al-Jariri quoted Abu al-Tufail as saying: I saw the Messenger of Allah. I asked: How did you see him? He said: He was white, good-looking, and when he walked, it looked as if he was descending to a low ground.
 
-[Ash-Shama'il Al-Muhammadiyah 12](https://sunnah.com/shamail:12)
 
-> Abu Huraira … said:
-> "Allah’s Messenger … was white, as if he were fashioned from silver, with loosely curled hair."
 
-Also:
 
-- [Sahih Muslim 2343 a](https://sunnah.com/muslim:2343a)
 
-### Muhammad was very average looking {#average-looks}
 
-[Jami` at-Tirmidhi 3623](https://sunnah.com/tirmidhi:3623)
 
-> The Messenger of Allah was not very tall nor was he [very] short, nor was he pale white, nor was he brown, nor was the wave of his hair completely curly nor straight…
 
-## Muhammad is equal to Allah in authority
 
-Surah 33:36
 
-> When God and His Messenger have decided on a matter that concerns them, it is not fitting for any believing man or woman to claim freedom of choice in that matter: whoever disobeys God and His Messenger is far astray.
 
-Notice that Allah and Muhammad decide on things **together**, and the are equal in authority.
 
-## Muhammad and violence
 
-See also [Jihad](#jihad), and [Violence](#violence)
 
-### Muhammad tortured people to death {#tortured-to-death}
 
-[Mishkat al-Masabih 3539](https://sunnah.com/mishkat:3539)
+## Muhammad's mental health {#mental-health}
 
-> … So he sent people in pursuit of them, and when they were brought he had their hands and feet cut off and their eyes put out and left them to die without cauterising them to stop the flow of blood. A version says nails were driven into their eyes. Another says he ordered nails to be heated and after having them blinded with them he had them thrown out on the harra, and although they begged for water they were left to die without being given any.
-
-These people had stolen some camels so Muhammad **had their hands and feet cut off and their eyes put out** with white hot nails, and then left them to die from thirst and bleeding out.
-
-### Muhammad cut of the hand of a woman 
-
-[Sahih al-Bukhari 6800](https://sunnah.com/bukhari:6800)
-
-> Narrated Aisha: The Prophet cut off the hand of a lady, and that lady used to come to me, and I used to convey her message to the Prophet and she repented, and her repentance was sincere.
-
-### Muhammad personally stoned a woman
-
-[Sunan Ibn Majah 2555](https://sunnah.com/ibnmajah:2555)
-
-> a woman came to the Prophet and confessed to committing fornication. He issued orders, and her garments were tightened around her (so that her private parts would not become uncovered) then he stoned her, then he offered the funeral prayer for her.
-
-In contrast Jesus defended a woman against being stoned for adultery. (John 8:1-11)
-
-### Muhammad was a terrorist
-
-[Sahih al-Bukhari 2977](https://sunnah.com/bukhari:2977)
-
-> ...I have been made victorious with terror cast in the hearts of the enemy...
-
-### Muhammad had children with pubic hairs killed
-
-[Sunan an-Nasa'i 4981](https://sunnah.com/nasai:4981)
-
-> It was narrated that 'Atiyyah said: 'I was among the prisoners of Quraizah; we were examined, and whoever had grown (pubic) hair was killed, and whoever had not grown hair, he was allowed to live and was not killed."
-
-## Muhammad's mental and spiritual health
-
-### Muhammad was bewitched
+### Muhammad was delusional
 
 [Sahih Al Bukhari 3268](https://sunnah.com/bukhari:3268)
 
@@ -388,7 +316,7 @@ See also:
 
 - [Sahih al Bukhari 6391](https://sunnah.com/bukhari:6391)
 
-### Muhammad was suicidal
+### Muhammad was suicidal {#suicidal}
 
 [Sahih al Bukhari 91](https://sunnah.com/bukhari/91)
 
@@ -424,15 +352,26 @@ Also:
 - [Al-Adab Al-Mufrad 958](https://sunnah.com/adab:958)
 - [Sahih Muslim 2924 a](https://sunnah.com/muslim:2924a)
 
-## Muhammad's incompetence
+## Muhammad was posessed by Satan {#posessed-by-satan}
 
-### Muhammad almost caused a famine {#caused-famine}
+[Sunan an-Nasa'i 3960](https://sunnah.com/nasai:3960)
 
-> It was narrated from 'Aisha that the Prophet heard some sounds and said: “What is this noise?” They said: “Palm trees that are being pollinated.” He said: “If they did not do that it would be better.” So they did not pollinate them that year, and the dates did not mature properly. they mentioned that to the Prophet and he said: “If it is one of the matters of your religion, then refer to me.”
+> I said: "Don't you have a Shaitan?" He said: "Yes, but Allah helped me with him, so he submitted."
 
-Muhammad's incompetence caused the harvest to almost fail, yet he had the gall to tell people to consult him.
+## Muhammad believed he had a wrestling match with Satan {#wrestling-satan}
 
-## Muhammad and miracles 
+[Sahih al Bukhari 1210](https://sunnah.com/bukhari:1210)
+
+> Narrated Abu Huraira: The Prophet once offered the prayer and said, "Satan came in front of me and tried to interrupt my prayer, but Allah gave me an upper hand on him and I choked him. No doubt, I thought of tying him to one of the pillars of the mosque till you get up in the morning and see him. Then I remembered the statement of Prophet Solomon, 'My Lord ! Bestow on me a kingdom such as shall not belong to any other after me.' Then Allah made him (Satan) return with his head down (humiliated)."
+
+
+
+
+
+
+
+
+## Muhammad's miracles {#muhammads-miracles}
 
 ### Muhammad did NOT perform miracles {#no-miracles}
 
@@ -461,47 +400,82 @@ Also:
 
 So which is it? Muhammad never did any miracles, or Muhammad did miracles? This is a [contradiction](#contradictions).
 
-## Other things about Muhammad 
 
-### Muhammad cursed an orphan girl to die young {#cursed-orphan}
 
-[Sahih Muslim 2603](https://sunnah.com/muslim:2603)
 
-> Anas b. Malik reported that there was an orphan girl with Umm Sulaim (who was the mother of Anas). Allah's Messenger saw that orphan girl and said: O, it is you; you have grown young. May you not advance in years! That slave-girl returned to Umm Sulaim weeping. Umm Sulaim said: O daughter, what is the matter with you? She said: Allah's Apostle has invoked curse upon me that I should not grow in age and thus I would never grow in age…
 
-The Bible says that being kind and help orphans in their need is pure and undefiled worship. (James 1:27) 
 
-Even Surah 93:9 says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
 
-## Muhammad didn't like garlic {#garlic}
 
-[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
 
-> Narrated `Abdul `Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
+## Muhammad and sex
 
-## Muhammad was the first Muslim {#first-muslim}
+### Mohammed was a pedophile {#child-sexual-abuse}
 
-Surah 6:14
+[Sunna an Nasa'i 3378](https://sunnah.com/nasai:3378)
 
-> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “**I have been commanded to be the first to submit** and not be one of the polytheists.”
+> "The Messenger of Allah married me when I was six, and consummated the marriage with me when I was nine, and I used to play with dolls."
 
-## Allah considered Muhammad the perfect example {#perfect-example}
+[Sahih al Bukhari 6130](https://sunnah.com/bukhari:6130)
 
-Surah 33:21
+> Narrated 'Aisha: I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger  used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was **a little girl, not yet reached the age of puberty.**) (Fath-ul-Bari page 143, Vol.13)
 
-> Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
+Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
 
-[Quran 68:4](https://quran.com/68/4)
+See also:
 
-> And you are truly a man of outstanding character.
+- [Sahih al Bukhari 3896](https://sunnah.com/bukhari:3896)
+- [Sahih al Bukhari 5133](https://sunnah.com/bukhari:5133)
+- [Sahih al Bukhari 5134](https://sunnah.com/bukhari:5134)
+- [Sahih al Bukhari 5158](https://sunnah.com/bukhari:5158)
+- [Sahih Muslim 1422c](https://sunnah.com/muslim:1422c)
+- [Sahih Muslim 1422b](https://sunnah.com/muslim:1422b)
+- [Sunnah ibn Majah 1876](https://sunnah.com/ibnmajah:1876)
+- [Sunnah ibn Majah 1982](https://sunnah.com/ibnmajah:1982)
+- [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
+- [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
-## Muhammad copied a lot from Christians {#copycat}
+### Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating {#crotch-talk}
 
-[Sahih al-Bukhari 5917](https://sunnah.com/bukhari:5917)
+[Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
 
-> The Prophet used to copy the people of the Scriptures in matters in which there was no order from Allah.
+> …'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
 
-## Muhammad was ridden by black men {#ridden}
+### Muhammad used to fondle Aisha when she was menstruating {#fondling-aisha}
+
+[Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
+
+> Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. …
+
+### Muhammad used to suck on Aishas tongue
+
+> Narrated Aisha, [Mother of the believers]: The Prophet used to kiss her and suck her tongue when he was fasting.
+
+### Muhammad French-kissed a little boy
+
+[Al-Adab Al-Mufrad 1183](https://sunnah.com/adab:1183)
+
+> …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, opened his mouth and put his mouth in his mouth. Then he said, O Allah, I love him, so love him and the one who loves him!'"
+
+### Muhammad was baffled that other men were not pedophiles like him
+
+[Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
+
+> Narrated Jabir bin Abdullah: When I got married, Allah's Messenger said to me, "What type of lady have you married?" I replied, "I have married a matron' He said, "Why, don't you have a liking for the virgins and for fondling them?" Jabir also said: Allah's Messenger said, "Why didn't you marry a young girl so that you might play with her and she with you?'
+
+The fact that other men are not drawn to sexually abuse children makes Muhammad flabbergasted.
+
+### Muhammad believed a woman's silence means consent {#silence-is-consent}
+
+[Sahih al-Bukhari 5137](https://sunnah.com/bukhari:5137)
+
+> Narrated Aisha: I said, "O Allah's Messenger! A virgin feels shy." He said, "Her consent is (expressed by) her silence."
+
+A true rape culture.
+
+See also [Rape](#rape).
+
+### Muhammad was "ridden" by tall black men all night long {#ridden}
 
 [Musnad Ahmad ibn Hanbal 3778](https://www-islamweb-net.translate.goog/ar/library/content/6/3599/%D9%85%D8%B3%D9%86%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D8%B1%D8%B6%D9%8A-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D8%B9%D9%86%D9%87?_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp), [3688](https://hadithportal-com.translate.goog/index.php?show=hadith&h_id=3688&book=35&_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp) (Google translate), [Jami` at-Tirmidhi 2861](https://sunnah.com/urn/730940)
 
@@ -548,7 +522,168 @@ The white clad men starts pronouncing a parable over Muhammad while he is sleepi
 
 But who were the long, naked, North African men who rode Muhammad all night long so that he became sore and exhausted? 
 
-## The death of Muhammad
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Muhammad and slavery {#muhammad-slavery}
+
+See also [Slavery](#slavery)
+
+### Muhammad owned slaves {#slave-owner}
+
+[Sahih al-Bukhari 5433](https://sunnah.com/bukhari:5433)
+
+> Allah's Messenger went to his slave tailor...
+
+[Muwatta Malik book 21 hadith 25](https://sunnah.com/urn/509860)
+
+> Rifaa ibn Zayd presented a black slave boy to the Messenger of Allah, may Allah bless him and grant him peace, whose name was Midam...Midam was unsaddling the camel of the Messenger of Allah, may Allah bless him and grant him peace, when a stray arrow struck and killed him. The people said, 'Good luck to him! The Garden!' The Messenger of Allah said, 'No! By He in whose hand my self is! The cloak which he took from the spoils on the Day of Khaybar before they were distributed will blaze with fire on him.'
+
+Muhammad had a black slave who was killed in battle, and Muhammad said he went to hell.
+
+See also:
+
+- [Sahih al-Bukhari 5435](https://sunnah.com/bukhari:5435)
+- [Black slaves are worth half of Arab slaves](#black-slaves-worth-less)
+
+### Muhammad sold slaves {#slave-trader}
+
+[Sahih al-Bukhari 2534](https://sunnah.com/bukhari:2534)
+
+> Narrated Jabir bin Abdullah: A man amongst us declared that his slave would be freed after his death. The Prophet called for that slave and sold him. The slave died the same year.
+
+See also:
+
+- [Sahih al Bukhari 2142](https://sunnah.com/bukhari:2141)
+
+
+## Muhammad traded black slaves {#black-slaves}
+
+[Sahih Muslim 1602](https://sunnah.com/muslim:1602)
+
+> Jabir … reported: There came a slave and pledged allegiance to Allah's Apostle on migration; [who] did not know that he was a slave. Then there came his master and demanded him back, whereupon Allah's Apostle said: Sell him to me. And he bought him for two black slaves…
+
+It seems the exchange rate is two black slaves for one Muslim slave.
+
+This is from chapter 23 which heading  reads:
+
+> Chapter 23: The permissibility of **selling animals for animals of the same kind and of different quality**
+
+
+See also:
+
+- [Sunan an-Nasa'i 4621](https://sunnah.com/nasai:4621)
+
+
+## Muhammad and violence {#muhammad-violence}
+
+See also [Jihad](#jihad), and [Violence](#violence)
+
+### Muhammad mutilated a woman {#muhammad-mutilated-woman}
+
+[Sahih al-Bukhari 6800](https://sunnah.com/bukhari:6800)
+
+> Narrated Aisha: The Prophet cut off the hand of a lady, and that lady used to come to me, and I used to convey her message to the Prophet and she repented, and her repentance was sincere.
+
+### Muhammad stoned a woman {#muhammad-stoned-woman}
+
+[Sunan Ibn Majah 2555](https://sunnah.com/ibnmajah:2555)
+
+> a woman came to the Prophet and confessed to committing fornication. He issued orders, and her garments were tightened around her (so that her private parts would not become uncovered) then he stoned her, then he offered the funeral prayer for her.
+
+In contrast Jesus defended a woman against being stoned for adultery. (John 8:1-11)
+
+
+### Muhammad was a terrorist {#muhammad-terrorist}
+
+[Sahih al-Bukhari 2977](https://sunnah.com/bukhari:2977)
+
+> ...I have been made victorious with terror cast in the hearts of the enemy...
+
+
+### Muhammad tortured people to death {#muhammad-tortured}
+
+[Mishkat al-Masabih 3539](https://sunnah.com/mishkat:3539)
+
+> … So he sent people in pursuit of them, and when they were brought he had their hands and feet cut off and their eyes put out and left them to die without cauterising them to stop the flow of blood. A version says nails were driven into their eyes. Another says he ordered nails to be heated and after having them blinded with them he had them thrown out on the harra, and although they begged for water they were left to die without being given any.
+
+These people had stolen some camels so Muhammad **had their hands and feet cut off and their eyes put out** with white hot nails, and then left them to die from thirst and bleeding out.
+
+
+
+### Muhammad killed children who had pubic hairs {#muhammad-killed-children}
+
+[Sunan an-Nasa'i 4981](https://sunnah.com/nasai:4981)
+
+> It was narrated that 'Atiyyah said: 'I was among the prisoners of Quraizah; we were examined, and whoever had grown (pubic) hair was killed, and whoever had not grown hair, he was allowed to live and was not killed."
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Other things about Muhammad 
+
+
+
+### Muhammad is equal to Allah in authority
+
+Surah 33:36
+
+> When God and His Messenger have decided on a matter that concerns them, it is not fitting for any believing man or woman to claim freedom of choice in that matter: whoever disobeys God and His Messenger is far astray.
+
+Notice that Allah and Muhammad decide on things **together**, and the are equal in authority.
+
+### Muhammad died a pauper
+
+[Sunan an-Nasa'i 3596](https://sunnah.com/nasai:3596)
+
+> "I heard 'Amr bin Al-Harith say: 'I saw the Messenger of Allah and he left nothing behind except his white mule, his weapon and some land which he left as a charity.'"
+
+
+
+
+
+## Muhammad was the first Muslim {#first-muslim}
+
+Surah 6:14
+
+> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “**I have been commanded to be the first to submit** and not be one of the polytheists.”
+
+## Allah considered Muhammad the perfect example {#perfect-example}
+
+Surah 33:21
+
+> Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
+
+[Quran 68:4](https://quran.com/68/4)
+
+> And you are truly a man of outstanding character.
+
+
+
+
+
+
+
+## The death of Muhammad {#death-of-muhammad}
 
 ### How did Muhammad die?
 
@@ -601,7 +736,7 @@ Notice also the poetic biblical references in that a false anti-christ prophet w
 
 > Ibn 'Abbas said... The Prophet on his death-bed, gave three orders saying, "Expel the pagans from the Arabian Peninsula, respect and give gifts to the foreign delegates as you have seen me dealing with them." I forgot the third (order)"...
 
-What's that, Ibn Abbas? The last order of Muhammad wasn't noteworthy enough to even commit to memory? But hey, at least you remembered the part about genocide, huh?
+What was that, Ibn Abbas? The last order of Muhammad wasn't noteworthy enough to even commit to memory? But hey, at least you remembered the part about genocide, huh?
 
 ### What was the last words of Muhammad? {#last-words}
 

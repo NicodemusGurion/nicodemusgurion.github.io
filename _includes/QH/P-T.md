@@ -1,6 +1,6 @@
 # Paradise
 
-The Islamic paradise is a very physical place where people will eat fruit that all tastes the same. Then they will not poop, but belch out the excrement as musk.
+The Islamic paradise is a very physical place where people will have sex, and eat food. But the food all tastes the same, and they will not poop, but belch out the excrement as musk.
 
 ## All fruit looks the same in paradise {#boring-fruit}
 
@@ -23,7 +23,7 @@ Also:
 
 > ...their wives will be large-eyed maidens...
 
-## Paradise dwellers will be 38.4 meters tall {#tall-people}
+## Paradise dwellers will be 38 meters tall {#tall-people}
 
 [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
@@ -82,7 +82,7 @@ Surah 2: 88-91
 
 The Quran confirms the Bible that was available in the 7th century as being uncorrupted and coming from Allah. [We have extant copies that are even 300](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus)-[900 years older than the Quran](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls), and they are identical to our modern Bibles. This disproves the idea some Muslims put forth that the Bible has been corrupted.
 
-## How to know if the Quran is inspired {#proof-of-inspiration}
+## Proof of inspiration {#proof-of-inspiration}
 
 Surah 2:23-24
 
@@ -137,7 +137,20 @@ See also [Apostasy](#apostasy)
 
 > There was a Christian who embraced Islam and read Surat-al-Baqara and Al-Imran, and he used to write (the revelations) for the Prophet. Later on he returned to Christianity again and he used to say: "Muhammad knows nothing but what I have written for him."
 
-At least part of the Quran was written down by or edited by a Christian convert to Islam (and later re-convert to Christianity). He claimed to understand it better than Muhammad.
+At least part of the Quran was written down by, or edited by a Christian convert to Islam (and later re-convert to Christianity). He claimed to understand it better than Muhammad.
+
+
+## The Quran is alive and will intercede on judgment day {#quran-intercession}
+
+[Sahih Muslim 804 a](https://sunnah.com/muslim:804a)
+
+> Recite the Qur'an, for on the Day of Resurrection it will come as an intercessor for those who recite It. Recite the two bright ones, al-Baqara and Surah Al 'Imran, for on the Day of Resurrection they will come as two clouds or two shades, or two flocks of birds in ranks, pleading for those who recite them.
+
+Islam teaches that the Quran is actually alive and will function as an intercessor on the day of judgment. It will come as clouds, shades, or flocks of birds, and it will speak, pleading for Muslims.
+
+See also:
+
+- [Mishkat al-Masabih 2120](https://sunnah.com/mishkat:2120)
 
 
 
@@ -150,23 +163,33 @@ At least part of the Quran was written down by or edited by a Christian convert 
 
 # Racism
 
-## Muhammad traded black slaves {#black-slaves}
+## Blacks are worth half as much
 
-[Sahih Muslim 1602](https://sunnah.com/muslim:1602)
+Muhammad owned and traded black slaves. The going rate was two black slaves for one Arabic slave. 
 
-> Jabir … reported: There came a slave and pledged allegiance to Allah's Apostle on migration; [who] did not know that he was a slave. Then there came his master and demanded him back, whereupon Allah's Apostle said: Sell him to me. And he bought him for two black slaves…
+See [Muhammad traded black slaves](#black-slaves).
 
-It seems the exchange rate is two black slaves for one Muslim slave.
 
-This is from chapter 23 which heading  reads:
-
-> Chapter 23: The permissibility of **selling animals for animals of the same kind and of different quality**
-
-## Black people are created for hell {#blacks-made-for-hell}
+## Black people were created for hell {#blacks-made-for-hell}
 
 > …“God created Adam when He created him and struck his right shoulder and brought forth his offspring white like small ants. And he struck his left shoulder and brought forth his offspring black as though they were charcoal. Then He said to the party on his right side, ‘To paradise, and I do not care’ and He said to the party in his left shoulder, ‘To hell, and I do not care’.”
 
 According to Muhammed, white people are destined for heaven and black people are destined for hell.
+
+## Those condemned by Allah turns black {#blackface-hell}
+
+Surah 3:106-107
+
+> on a day when some faces are whitened and some faces are blackened. So as for those whose faces were blackened: “Did you deny after having attained faith?” Then taste the punishment on account of what you used to deny. And as for those whose faces were whitened—(they are) in Allah’s mercy; therein they abide.
+
+## Black people symbolize disease {#black-disease}
+
+[Sahih al-Bukhari 7039](https://sunnah.com/bukhari:7039)
+
+> …I saw in a dream a black woman with unkempt hair going out of Medina and settling at Mahai'a. I interpreted that as a symbol of the epidemic of Medina being transferred to Mahai'a…
+
+When Muhammad sees a black woman in a dream he automatically assumes she represents an epidemic.
+
 
 ## Turks look like their faces were hit with a hammer {#turks}
 
@@ -197,19 +220,8 @@ See also:
 
 > Were it not that dogs form one of the communities, I would have commanded that they be killed. But kill those that are all black...
 
-## Black people symbolize disease {#black-disease}
 
-[Sahih al-Bukhari 7039](https://sunnah.com/bukhari:7039)
 
-> …I saw in a dream a black woman with unkempt hair going out of Medina and settling at Mahai'a. I interpreted that as a symbol of the epidemic of Medina being transferred to Mahai'a…
-
-When Muhammad sees a black woman in a dream he automatically assumes she represents an epidemic.
-
-## On judgement day, people will turn white or black {#blackface-hell}
-
-Surah 3:106-107
-
-> on a day when some faces are whitened and some faces are blackened. So as for those whose faces were blackened: “Did you deny after having attained faith?” Then taste the punishment on account of what you used to deny. And as for those whose faces were whitened—(they are) in Allah’s mercy; therein they abide.
 
 
 
@@ -218,7 +230,7 @@ Surah 3:106-107
 
 # Rape
 
-## It is ok to rape captured women {#raping-captives}
+## Captured women may be raped freely {#raping-captives}
 
 [Sunan Abi Dawud 2155](https://sunnah.com/abudawud:2155)
 
@@ -230,7 +242,7 @@ Surah 3:106-107
 
 > Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession...
 
-## Muslims don't have to worry about getting their rape victims pregnant
+## Impregnating rape victims is of no concern
 
 [Sahih Muslim 1438a](https://sunnah.com/muslim:1438a)
 
@@ -274,17 +286,12 @@ Christianity teaches that Jesus is the perfect one who does not deserve hellfire
 
 Als this implies that Jews and Christians as not sinners deserving of hell, but that Muslims are sinners deserving of hell. Otherwise, if the Jews and Christians were already in hell, the exchange could not be made.
 
-## The Quran will come and intercede
+## The Quran will come and intercede 
 
-[Sahih Muslim 804 a](https://sunnah.com/muslim:804a)
 
-> Recite the Qur'an, for on the Day of Resurrection it will come as an intercessor for those who recite It. Recite the two bright ones, al-Baqara and Surah Al 'Imran, for on the Day of Resurrection they will come as two clouds or two shades, or two flocks of birds in ranks, pleading for those who recite them.
+See [The Quran is alive and will intercede on judgment day](#quran-intercession). It will come as a flock of birds and convince Allah to have mercy on those who read it.
 
-Islam teaches that the Quran is actually alive and will function as an intercessor on the day of judgment. It will come as clouds, shades, or flocks of birds, and it will speak, pleading for Muslims.
 
-See also:
-
-- [Mishkat al-Masabih 2120](https://sunnah.com/mishkat:2120)
 
 
 
@@ -294,29 +301,7 @@ See also:
 
 # Satan
 
-## Satan urinates in your ear
-
-[Sahih al Bukhari 1144](https://sunnah.com/bukhari:1144)
-
-> Narrated 'Abdullah: A person was mentioned before the Prophet and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet said, "Satan urinated in his ears."
-
-## Satan farts to not hear the call to prayer {#satan-farts}
-
-[Sahih Muslim 389a](https://sunnah.com/muslim:389a)
-
-> When Satan hears the call to prayer, he turns back and breaks the wind so as not to hear the call being made...
-
-## Yawning is from Satan
-
-[Sahih al Bukhari 3289](https://sunnah.com/bukhari:3289)
-
-> Narrated Abu Huraira: The Prophet said, "Yawning is from Satan and if anyone of you yawns, he should check his yawning as much as possible, for if anyone of you (during the act of yawning) should say: 'Ha', Satan will laugh at him."
-
-[Jami` at-Tirmidhi 2746](https://sunnah.com/tirmidhi:2746)
-
-> Allah loves the sneeze and He dislikes the Yawn, so when a man says Ah, Ah when yawning, indeed Ash-Shaitan laughs from inside his opening.
-
-## Satan likes bells
+## Bells are Satanic {#satanic-bells}
 
 [Sahih Muslim 2114](https://sunnah.com/muslim:2114)
 
@@ -332,24 +317,34 @@ See also:
 - [Sunan an-Nasa'i 933](https://sunnah.com/nasai:933)
 - [Riyad as-Salihin 1691](https://sunnah.com/riyadussalihin:1691)
 
-## Donkeys are Satan detectors 
+## Donkeys are Satan detectors {#donkeys-detect-satan}
 
 [Jami` at-Tirmidhi 3459](https://sunnah.com/tirmidhi:3459)
 
 > When you hear the braying of a donkey, then seek refuge in Allah from Shaitan, for, verily, it has seen a Shaitan.
 
-## Muhammad had a Satan
+## Satan farts to not hear the call to prayer {#satan-farts}
 
-[Sunan an-Nasa'i 3960](https://sunnah.com/nasai:3960)
+[Sahih Muslim 389a](https://sunnah.com/muslim:389a)
 
-> I said: "Don't you have a Shaitan?" He said: "Yes, but Allah helped me with him, so he submitted."
+> When Satan hears the call to prayer, he turns back and breaks the wind so as not to hear the call being made...
 
+## Satan pisses in your ear {#satan-pisses}
 
-## Muhammad once defeated Satan in a wrestling match
+[Sahih al Bukhari 1144](https://sunnah.com/bukhari:1144)
 
-[Sahih al Bukhari 1210](https://sunnah.com/bukhari:1210)
+> Narrated 'Abdullah: A person was mentioned before the Prophet and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet said, "Satan urinated in his ears."
 
-> Narrated Abu Huraira: The Prophet once offered the prayer and said, "Satan came in front of me and tried to interrupt my prayer, but Allah gave me an upper hand on him and I choked him. No doubt, I thought of tying him to one of the pillars of the mosque till you get up in the morning and see him. Then I remembered the statement of Prophet Solomon, 'My Lord ! Bestow on me a kingdom such as shall not belong to any other after me.' Then Allah made him (Satan) return with his head down (humiliated)."
+## Yawning is Satanic {#satanic-yawning}
+
+[Sahih al Bukhari 3289](https://sunnah.com/bukhari:3289)
+
+> Narrated Abu Huraira: The Prophet said, "Yawning is from Satan and if anyone of you yawns, he should check his yawning as much as possible, for if anyone of you (during the act of yawning) should say: 'Ha', Satan will laugh at him."
+
+[Jami` at-Tirmidhi 2746](https://sunnah.com/tirmidhi:2746)
+
+> Allah loves the sneeze and He dislikes the Yawn, so when a man says Ah, Ah when yawning, indeed Ash-Shaitan laughs from inside his opening.
+
 
 
 
@@ -359,31 +354,40 @@ See also:
 
 # Science
 
-## Earth existed before space
+## The coccyx does not decay {#coccyx}
+
+[Sahih al-Bukhari 4935](https://sunnah.com/bukhari:4935)
+
+> There is nothing of the human body that does not decay except one bone; that is the little bone at the end of the coccyx of which the human body will be recreated on the Day of Resurrection.
+
+I'm pretty sure it does, eventually.
+
+
+## The earth existed before space {#earth-before-space}
 
 Surah 2:29
 
 > He is the One Who created everything in the earth for you. Then He turned towards the heaven, forming it into seven heavens. 
 
-## Sperm comes from between the backbone and the ribs
-
-Surah 86:6-7
-
-> ˹They were˺ created from a spurting fluid, stemming from between the backbone and the ribcage.
-
-## The sun sets in a muddy spring 
-
-[Quran 18:86](https://quran.com/18/86?translations=17)
-
-> Until, when he reached the setting of the sun, he found it setting in a muddy spring, and he found a people at it. We said, "O Thulqarnayn, either you will torment them or you will take to yourself towards them a fair way."
-
-## The earth is flat
+## The earth is flat {#flat-earth}
 
 [Quran 18:86](https://quran.com/71/19?translations=207)
 
 > Allah has laid the earth out as a carpet for you,
 
-## What determines if a child looks like its mother or father?
+## Sperm comes from between the backbone and the ribs {#rib-sperm}
+
+Surah 86:6-7
+
+> ˹They were˺ created from a spurting fluid, stemming from between the backbone and the ribcage.
+
+## The sun sets in a muddy spring {#sun-sets-in-mud}
+
+[Quran 18:86](https://quran.com/18/86?translations=17)
+
+> Until, when he reached the setting of the sun, he found it setting in a muddy spring, and he found a people at it. We said, "O Thulqarnayn, either you will torment them or you will take to yourself towards them a fair way."
+
+## What determines if a child looks like its mother or father? {#whom-children-resemble}
 
 [Sahih al Bukhari 3329](https://sunnah.com/bukhari:3329)
 
@@ -393,7 +397,7 @@ Surah 86:6-7
 
 > 'The man's water is thick and white, and the woman's water is thin and yellow. Whichever of them comes first, the child will resemble (that parent).'"
 
-## The urine of boys and girls are different
+## The urine of boys and girls are different {#different-urine}
 
 [Sunnan Ibn Majah 525](https://sunnah.com/ibnmajah:525)
 
@@ -413,13 +417,6 @@ See also:
 [Sunan Ibn Majah 3257](https://sunnah.com/ibnmajah:3257)
 [Sunan Ibn Majah 3258](https://sunnah.com/ibnmajah:3258) 
 
-## The coccyx does not decay
-
-[Sahih al-Bukhari 4935](https://sunnah.com/bukhari:4935)
-
-> There is nothing of the human body that does not decay except one bone; that is the little bone at the end of the coccyx of which the human body will be recreated on the Day of Resurrection.
-
-I'm pretty sure it does, eventually.
 
 
 
@@ -431,7 +428,7 @@ I'm pretty sure it does, eventually.
 
 # Sex slaves
 
-See also [Rape](#rape), [Women](#women)
+See also [amuhammad and sex](#muhammad-sex), [Rape](#rape), [Women](#women).
 
 ## Muslims men can have sex slaves
 
@@ -439,13 +436,15 @@ Surah 4:3
 
 > If you fear you might fail to give orphan women their ˹due˺ rights ˹if you were to marry them˺, then marry other women of your choice—two, three, or four. But if you are afraid you will fail to maintain justice, then ˹content yourselves with˺ one or those ˹bondwomen˺ in your possession.
 
-A muslim man can marry up to four women, but if he thinks he can not give them their legal rights, he can just "content himself" one wife, **or** those "bondswomen" in his posession. the footnote on quran.com says "A bondwoman is a female slave that a man owned either through purchase or taking her captive in war."
+The footnote on quran.com says "A bondwoman is **a female slave** that a man owned either through purchase or taking her captive in war".
+
+A muslim man can freely use his female slaves for sex.
 
 Surah 33:50
 
-> O Prophet! We have made lawful for you your wives to whom you have paid their ˹full˺ dowries as well as those ˹bondwomen˺ in your possession, whom Allah has granted you... We have ordained for the believers in relation to their wives and those ˹bondwomen˺ in their possession.
+> O Prophet! We have **made lawful** for you your wives to whom you have paid their ˹full˺ dowries as well as those ˹bondwomen˺ in your possession, whom Allah has granted you... We have ordained for the believers in relation to their wives and those ˹bondwomen˺ in their possession.
 
-"Made lawful" means that he can have sex with them.
+"Made lawful" means that he can have sex with female slaves.
 
 Surah 23:5-6; 70:29-30
 
@@ -459,6 +458,12 @@ Surah 4:24
 
 They're not allowed to have sex with married women **except** if these **married women** have been captured in battle. Then it is allowed to have sex with these **married women**.
 
+
+
+
+
+
+
 # Sin
 
 ## Allah predetermines adultery
@@ -469,9 +474,15 @@ They're not allowed to have sex with married women **except** if these **married
 
 A man who commits adultery is really only doing the will of Allah, and has no choice in it.
 
+
+
+
+
+
+
 # Slavery
 
-See also [Muhammad and slavery](#muhammad-and-slavery)
+See also [Muhammad and slavery](#muhammad-and-slavery), [Sex slaves](#sex-slaves)
 
 ## Runaway slaves lack protection
 
@@ -491,6 +502,6 @@ Compare to the Mosaic law in Deuteronomy 23:15-16:
 
 ## Black slaves are worth half of Arab slaves {#black-slaves-worth-less}
 
-[Sunan an-Nasa'i 4621](https://sunnah.com/nasai:4621Sunan an-Nasa'i 4621
+See [Muhammad traded black slaves](#black-slaves), [Racism](#racism).
 
-> "A slave came and gave his pledge to the Messenger of Allah to emigrate, and the Prophet did not realize that he was a slave. Then his master came looking for him. The Prophet said; 'Sell him to me.' So he bought him for two black slaves, then he did not accept until he had asked; 'Is he a slave?'''
+

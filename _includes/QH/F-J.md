@@ -1,4 +1,8 @@
-# Health and hygiene
+# Hygiene and food
+
+There's a surprising amount of rules about urinating. If your religion micromanages how you piss, you're in a cult.
+
+See also [Muhammad and hygiene](#muhammad-hygiene).
 
 ## Muslims aren’t allowed to urinate standing {#no-urinating-standing}
 
@@ -18,69 +22,38 @@ Also:
 
 - [Sahih Muslim 281](https://sunnah.com/muslim:281)
 
-## Dogs would urinate in the mosque and no one would clean it up
+### Muslims aren’t allowed to urinate  in holes {#urinating-in-holes}
+
+[Sunnan Abu Dawud 29](https://sunnah.com/abudawud:29)
+
+> The Prophet prohibited to urinate in a hole. Qatadah (a narrator) was asked about the reason for the disapproval of urinating in a hole. He replied: It is said that these (holes) are the habitats of the jinn.
+
+You don't want to piss of the jinn.
+
+### Muslims aren’t allowed to urinate towards the qibla {#urinating-toward-qibla}
+
+[Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
+
+> "The Messenger of Allah forbade facing the Qiblah when urinating. "
+
+## Dogs would urinate in the mosque and no one would clean it up {#dogs-pissing-in-mosque}
 
 [Sahih al-Bukhari 174](https://sunnah.com/bukhari:174)
 
 > And narrated Hamza bin 'Abdullah: My father said. "During the lifetime of Allah's Apostle, the dogs used to urinate, and pass through the mosques (come and go), nevertheless they never used to sprinkle water on it (urine of the dog.)"
 
 
+## Don't come to mosque with garlic breath {#garlic}
+
+[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
+
+> Narrated Abdul Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
 
 
 
 
 
 
-
-# Islam
-
-## Self-serving
-
-These are verses and Hadiths that show that "Allah" is nothing but a puppet that Muhammad used to make people do his will.
-
-### Even Aisha 
-
-[Sahih al Bukhari 4788](https://sunnah.com/bukhari:4788)
-
-> Narrated Aisha:… I said (to the Prophet), "I feel that your Lord hastens in fulfilling your wishes and desires."
-
-Even Aisha noticed that the "revelations" that Muhammad got from Allah were suspiciously self-serving, affording him all sorts of luxuries and privileges.
-
-In this case she referred to Muhammad's special privilege have as many women as he wanted:
-
-### Women galore 
-
-Surah 33:50-51
-
-> Prophet, We have made lawful for you the wives whose bride gift you have paid, and any slaves God has assigned to you through war, and the daughters of your uncles and aunts on your father’s and mother’s sides, who migrated with you. Also any believing woman who has offered herself to the Prophet and whom the Prophet wishes to wed- this is only for you [Prophet] and not the rest of the believers…
-
-> You may make any of [your women] wait and receive any of them as you wish, but you will not be at fault if you invite one whose turn you have previously set aside…
-
-Regular muslim men were "only" allowed to marry 4 women, but Allah made a specific rule, that is included in their holy book for the ages, that Muhammad, and only Muhammad, could marry as many women as he wanted and have as many sex slaves as he wanted. And he didn't have to follow any rules regarding visiting them. This is obviously Muhammad making up rules to benefit himself and telling people that Allah said it.
-
-### Allowing free sex
-
-[Sunan an-Nasa'i 3959](https://sunnah.com/nasai:3959)
-
-> It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
-
-Horndog that he was, Muhammad [was not satisfied with 11 wives](#eleven-wives) but started having sex with a slave girl. His wives Aisha and Hansah were upset and demanded he promise never to do it again, to which he obliged. But later Allah conveniently gave him the revelation in Surah 66:1-6 that says that Muhammad can have sex with any woman he wishes and if his wives complain about it, Allah will replace them with better wives. And he threatens them with hell for having the audacity to ask their husband to not be unfaithful. How convenient.
-
-### Dinner instructions 
-
-Surah 33:53
-
-> O believers! Do not enter the homes of the Prophet without permission ˹and if invited˺ for a meal, do not ˹come too early and˺ linger until the meal is ready. But if you are invited, then enter ˹on time˺. Once you have eaten, then go on your way, and do not stay for casual talk. Such behaviour is truly annoying to the Prophet, yet he is too shy to ask you to leave. But Allah is never shy of the truth. And when you ˹believers˺ ask his wives for something, ask them from behind a barrier. This is purer for your hearts and theirs. And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.
-
-Apparently Allah is even concerned about Muhammad not having to suffer the awkwardness of dismissing his dinner guests. This is obviously made up by Muhammad because he felt it too awkward to do, so he uses Allah as his puppet to order people around.
-
-### Don't smack your tongue
-
-[Jami` at-Tirmidhi 2853](https://sunnah.com/tirmidhi:2853)
-
-> the Messenger of Allah said: "Indeed Allah detests the excessive among men, who slaps his tongue around like the cow slaps his tongue."
-
-Why would the creator of the universe be concerned with how someone moves their tongue? This is obviously Muhammad being annoyed and using Allah as an excuse to have people stop smacking their tongues while eating.
 
 
 

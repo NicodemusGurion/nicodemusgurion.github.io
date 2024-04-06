@@ -12,6 +12,60 @@
 
 # Allah
 
+## Allah is a narcissist 
+
+[Sahih al-Bukhari 4634](https://sunnah.com/bukhari:4634)
+
+> And none loves to be praised more than Allah does, and for this reason He praises Himself.
+
+## Allah deceives
+
+Surah 8:43-44
+
+> Recall: Allah showing them to you in your sleep as few, for had He showed them to you as many, you would have faltered and disagreed with each other about the matter, but Allah saved (the situation). He is indeed All-Knowing of what lies within the chests. And recall: when you met, Him showing them to you as few in your eyes and making you appear fewer in their eyes, so that Allah might carry out a predetermined matter. And to Allah all matters are returned.
+
+Allah deceived Muhammad to go into battle against a large army, making him think it was a small army. He also deceived his enemies in the same way.
+
+Surah 4:157
+
+> and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
+
+Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is deceptive.
+
+This is also a verse that proves Islam is historically false, for [the crucifixion of Jesus is the most well documented event in ancient history.](#no-crucifixion)
+
+## Allah blinds people to the truth
+
+Surah 2:7
+
+> Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
+
+It is Allah's fault if someone does not believe.
+
+## Allah wants people to sin
+
+[Sahih Muslim 2749](https://sunnah.com/muslim:2749)
+
+> By Him in Whose Hand is my life, if you were not to commit sin, Allah would sweep you out of existence and He would replace (you by) those people who would commit sin and seek forgiveness from Allah, and He would have pardoned them.
+
+If people didn't sin, Allah would wipe them out and replace them with people who would sin. Who wants people to sin? God, or Satan?
+
+## Allah has predestined adultery
+
+[Sahih al-Bukhari 6612](https://sunnah.com/bukhari:6612)
+
+> Allah has written for the son of Adam his inevitable share of adultery whether he is aware of it or not
+
+[Sahih Muslim 2657 b](https://sunnah.com/muslim:2657b)
+
+> Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity must commit.
+
+## Allah wants contention
+
+> Yet if Allah had willed, they would not have fought one another. But Allah does what He wills.
+
+Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.
+
 ## Allah prays
 
 Surah 2:157
@@ -26,13 +80,7 @@ Surah 2:157
 
 > [Muhammad] said, "If anyone prays once on me, Allah will pray ten times on him.'"
 
-Who is Allah praying to?
-
-## Allah is a narcissist 
-
-[Sahih al-Bukhari 4634](https://sunnah.com/bukhari:4634)
-
-> And none loves to be praised more than Allah does, and for this reason He praises Himself.
+Whom is Allah praying to?
 
 ## Allah wonders 
 
@@ -66,41 +114,6 @@ Allah doesn't know how time zones work. If he comes down every night at  3am, an
 
 This means Allah has physical hands the size of human hands with which he can shake hands with humans. How embarrassing for Muhammad himself that someone else gets to shake hands with Allah before him.
 
-## Allah deceives
-
-Surah 8:43-44
-
-> Recall: Allah showing them to you in your sleep as few, for had He showed them to you as many, you would have faltered and disagreed with each other about the matter, but Allah saved (the situation). He is indeed All-Knowing of what lies within the chests. And recall: when you met, Him showing them to you as few in your eyes and making you appear fewer in their eyes, so that Allah might carry out a predetermined matter. And to Allah all matters are returned.
-
-Allah deceived Muhammad to go into battle against a large army, making him think it was a small army. He also deceived his enemies in the same way.
-
-Surah 4:157
-
-> and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
-
-Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is deceptive.
-
-This is also a verse that proves Islam is historically false, for [the crucifixion of Jesus is the most well documented event in ancient history.](#no-crucifixion)
-
-## Allah wants people to sin
-
-[Sahih Muslim 2749](https://sunnah.com/muslim:2749)
-
-> By Him in Whose Hand is my life, if you were not to commit sin, Allah would sweep you out of existence and He would replace (you by) those people who would commit sin and seek forgiveness from Allah, and He would have pardoned them.
-
-## Allah wants contention
-
-> Yet if Allah had willed, they would not have fought one another. But Allah does what He wills.
-
-Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.
-
-## Allah blinds people to the truth
-
-Surah 2:7
-
-> Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
-
-It is Allah's fault if someone does not believe.
 
 ## Allah needs your money
 
@@ -110,24 +123,47 @@ Surah 2:254
 
 Give him your money before it's too late!
 
-## Allah has predestined adultery
-
-[Sahih al-Bukhari 6612](https://sunnah.com/bukhari:6612)
-
-> Allah has written for the son of Adam his inevitable share of adultery whether he is aware of it or not
-
-[Sahih Muslim 2657 b](https://sunnah.com/muslim:2657b)
-
-> Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity must commit.
-
-## Allah pampers Muhammad
+## Allah is Muhammad's puppet {#puppet}
 
 [Sahih al Bukhari 4788](https://sunnah.com/bukhari:4788)
 
-> I said (to the Prophet), "I feel that your Lord hastens in fulfilling your wishes and desires."
+> Narrated Aisha:… I said (to the Prophet), "I feel that your Lord hastens in fulfilling your wishes and desires."
 
-Even Aisha noticed that the "revelations" that Muhammad got from Allah was suspiciously self-serving, affording him all sorts of luxuries and privileges. For example he was the only one who could take more than 4 wives, he could use his female slaves as sex slaves without his wives being able to complain, could steal his adoptive son's wife, and Allah even instructed people how to handle dinner parties at his place, because Muhammad was too shy to tell people himself. It seems like every time Muhammad had any desire, Allah came with a convenient revelation permitting him to go ahead.
+Even Aisha noticed that the "revelations" that Muhammad got from Allah were suspiciously self-serving. Any time Muhammad had any wish, Allah came with a convenient revelation permitting him to go ahead. Why would the creator of the universe put in so much effort to make sure one man had every wish fulfilled? It's almost like Muhammad only used Allah as a puppet to convince people to fulfill his desires.
 
+### Women galore for Muhammad {#women-galore}
+
+Surah 33:50-51
+
+> Prophet, We have made lawful for you the wives whose bride gift you have paid, and any slaves God has assigned to you through war, and the daughters of your uncles and aunts on your father’s and mother’s sides, who migrated with you. Also any believing woman who has offered herself to the Prophet and whom the Prophet wishes to wed- this is only for you [Prophet] and not the rest of the believers…
+
+> You may make any of [your women] wait and receive any of them as you wish, but you will not be at fault if you invite one whose turn you have previously set aside…
+
+Regular muslim men were "only" allowed to marry 4 women, but Allah made a specific rule, included in their "holy book for people of all ages", that Muhammad, and only Muhammad, could marry as many women as he wanted, and have as many sex slaves as he wanted. And he didn't have to follow any rules regarding visiting them. This is obviously Muhammad making up rules to benefit himself and telling people that Allah said it.
+
+### Free sex for Muhammad {#free-sex}
+
+[Sunan an-Nasa'i 3959](https://sunnah.com/nasai:3959)
+
+> It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
+
+Horndog that he was, Muhammad [was not satisfied with 11 wives](#eleven-wives) but started having sex with a slave girl. His wives Aisha and Hansah were upset and demanded he promise never to do it again, to which he obliged. But later Allah conveniently gave him the revelation in Surah 66:1-6 that says that Muhammad can have sex with any woman he wishes and if his wives complain about it, Allah will replace them with better wives. And he threatens them with hell for having the audacity to ask their husband to not be unfaithful. How convenient.
+
+### Dinner instructions 
+
+Surah 33:53
+
+> O believers! Do not enter the homes of the Prophet without permission ˹and if invited˺ for a meal, do not ˹come too early and˺ linger until the meal is ready. But if you are invited, then enter ˹on time˺. Once you have eaten, then go on your way, and do not stay for casual talk. Such behaviour is truly annoying to the Prophet, yet he is too shy to ask you to leave. But Allah is never shy of the truth. And when you ˹believers˺ ask his wives for something, ask them from behind a barrier. This is purer for your hearts and theirs. And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.
+
+Apparently Allah is even concerned about Muhammad not having to suffer the awkwardness of dismissing his dinner guests. This is obviously made up by Muhammad because he felt it too awkward to do, so he uses Allah as his puppet to order people around.
+
+### Don't slap your tongue {#slap-tongue}
+
+[Jami` at-Tirmidhi 2853](https://sunnah.com/tirmidhi:2853)
+
+> the Messenger of Allah said: "Indeed Allah detests the excessive among men, who slaps his tongue around like the cow slaps his tongue."
+
+Why would the creator of the universe be concerned with how someone moves their tongue? This is obviously Muhammad being annoyed and using Allah as an excuse to have people stop smacking their tongues while eating.
 
 
 
