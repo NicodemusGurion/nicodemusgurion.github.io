@@ -46,17 +46,27 @@ Surah 2:29
 
 # Prayer
 
-## Looking up while praying makes you go blind {#praying-looking-up-blind}
+## Looking up while praying makes you go blind {#praying-blind}
 
 [Sahih al Bukhari 750](https://sunnah.com/bukhari:750)
 
 > The Prophet said, "What is wrong with those people who look towards the sky during the prayer?" His talk grew stern while delivering this speech and he said, "They should stop (looking towards the sky during the prayer); otherwise their eyesight would be taken away."
 
-## Looking up while praying turns your head into a donkey head {#praying-looking-up-donkey}
+## Looking up while praying turns your head into a donkey head {#praying-donkey}
 
 [Sahih al Bukhari 691](https://sunnah.com/bukhari:691)
 
 > The Prophet said, "Isn't he who raises his head before the Imam afraid that Allah may transform his head into that of a donkey or his figure into that of a donkey?"
+
+## Prayer is nullified by donkeys, black dogs and women {#nullified-prayer}
+
+[Sunan an-Nasa'i 750](https://sunnah.com/nasai:750)
+
+> If he does not have something as high as the back of a camel saddle in front of him, then his prayer is nullified by a woman, a donkey or a black dog."
+
+[Sahih al-Bukhari 511](https://sunnah.com/bukhari:511)
+
+> Narrated Aisha: The things which annul the prayers were mentioned before me. They said, "Prayer is annulled by a dog, a donkey and a woman (if they pass in front of the praying people)."
 
 
 
@@ -220,6 +230,11 @@ See also:
 
 > Were it not that dogs form one of the communities, I would have commanded that they be killed. But kill those that are all black...
 
+## Black dogs are satanic
+
+[Sunan an-Nasa'i 750](https://sunnah.com/nasai:750)
+
+> I (one of the narrators)said: "What is the difference between a black dog, a yellow one and a red one?" He said: I asked the Messenger of Allah just like you and he said:"The black dog is a shaitan."
 
 
 

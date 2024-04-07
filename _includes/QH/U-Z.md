@@ -230,6 +230,12 @@ Surah 2:223
 
 > Your wives are your fields, so plow into your fields whichever way you like
 
+## Wives must always be ready to please their husbands
+
+[Sunan Ibn Majah 1853](https://sunnah.com/ibnmajah:1853)
+
+> No woman can fulfill her duty towards Allah until she fulfills her duty towards her husband. If he asks her (for intimacy) even if she is on her camel saddle, she should not refuse.
+
 ## Pedophilia encouraged {#pedophilia-ok}
 
 Surah 65:4
@@ -287,8 +293,11 @@ So since women can't pray or fast during their period, they are seen as deficien
 
 ## Women are equal to donkeys and dogs 
 
-[Sahih al Bukhari 514](https://sunnah.com/bukhari:514)
+[Sahih al-Bukhari 511](https://sunnah.com/bukhari:511)
 
-> The things which annul prayer were mentioned before me (and those were): a dog, a donkey and a woman. I said, "You have compared us (women) to donkeys and dogs...
+> Narrated Aisha: The things which annul the prayers were mentioned before me. They said, "Prayer is annulled by a dog, a donkey and a woman (if they pass in front of the praying people)." I said, "You have made us (i.e. women) dogs. 
 
-See also [Sahih al-Bukhari 519](https://sunnah.com/bukhari:519)
+See also:
+
+- [Sahih al Bukhari 514](https://sunnah.com/bukhari:514)
+- [Sahih al-Bukhari 519](https://sunnah.com/bukhari:519)
