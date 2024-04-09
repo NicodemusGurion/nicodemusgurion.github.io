@@ -180,6 +180,18 @@ Why would the creator of the universe be concerned with how someone moves their 
 
 
 
+# Angels
+
+## Angels are repelled by dogs and pictures
+
+[Sahih al-Bukhari 4002](https://sunnah.com/bukhari:4002)
+
+> Allah's Messenger said. "Angels do not enter a house in which there is a dog or a picture"
+
+
+
+
+
 
 # Apostasy 
 

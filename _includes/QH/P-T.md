@@ -31,6 +31,12 @@ Also:
 
 60 Arabic cubits á 64cm each equals 38.4 meters.
 
+## Huge tree
+
+[Sahih al-Bukhari 3252](https://sunnah.com/bukhari:3252)
+
+> The Prophet said "There is a tree in Paradise (which is so big and huge that) a rider could travel in its shade for a hundred years.
+
 ## There are 7 heavens {#seven-heavens}
 
 Surah 2:29
@@ -344,6 +350,17 @@ See also:
 
 > When Satan hears the call to prayer, he turns back and breaks the wind so as not to hear the call being made...
 
+
+## Satan sleeps in your nostrils
+
+[Sahih al-Bukhari 3295](https://sunnah.com/bukhari:3295)
+
+> The Prophet said, "If anyone of you rouses from sleep and performs the ablution, he should wash his nose by putting water in it and then blowing it out thrice, because Satan has stayed in the upper part of his nose all the night.
+
+[Bulugh al-Maram 37](https://sunnah.com/bulugh:37)
+
+> Allah’s Messenger said: “When one of you wakes up from his sleep, he must blow of his nose three times, for the Satan spends the night inside one’s nostrils”
+
 ## Satan pisses in your ear {#satan-pisses}
 
 [Sahih al Bukhari 1144](https://sunnah.com/bukhari:1144)
@@ -359,6 +376,16 @@ See also:
 [Jami` at-Tirmidhi 2746](https://sunnah.com/tirmidhi:2746)
 
 > Allah loves the sneeze and He dislikes the Yawn, so when a man says Ah, Ah when yawning, indeed Ash-Shaitan laughs from inside his opening.
+
+## Night prayers ensures satanic possession
+
+[Sahih al-Bukhari 4950](https://sunnah.com/bukhari:4950)
+
+> Once Allah's Messenger became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that your Satan has forsaken you, for I have not seen him with you for two or three nights!"
+
+So by avoiding praying the night prayer for two or three nights, Satan left Muhammad for those two or three nights. That means that praying the night prayer means Satan will come to oppress you.
+
+
 
 
 
@@ -431,6 +458,17 @@ See also:
 [Sunan Ibn Majah 3256](https://sunnah.com/ibnmajah:3256)
 [Sunan Ibn Majah 3257](https://sunnah.com/ibnmajah:3257)
 [Sunan Ibn Majah 3258](https://sunnah.com/ibnmajah:3258) 
+
+
+## Gestation
+
+[Sahih al-Bukhari 6594](https://sunnah.com/bukhari:6594)
+
+> Allah's Messenger, the truthful and truly-inspired, said, "Each one of you collected in the womb of his mother for forty days, and then turns into a clot for an equal period (of forty days) and turns into a piece of flesh for a similar period (of forty days) and then … the soul is breathed into him.
+
+This description of gestation is entirely unscientific. A fetus does not go through three forty day periods of being 
+
+
 
 
 

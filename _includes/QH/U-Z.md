@@ -94,6 +94,17 @@ So plundering only makes a Muslim a nonbeliever under the condition that they do
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 # Weird or miscellaneous 
 
 ## "The eyes are the leather strap of the anus"
@@ -188,6 +199,29 @@ Muhammad said to kill specific snakes…
 Apparently it was impossible to keep this deathbed convert in the ground, so they did the only sensible thing and **threw him into one of these mountain passes**. As you do.
 
 
+## Don't sit between the sun and shade
+
+[Sunan Ibn Majah 3722](https://sunnah.com/ibnmajah:3722)
+
+> the Prophet forbade sitting between the shade and sun.
+
+## Relieve sexual awkwardness by suckling breasts {#adult-suckling}
+
+>  A'isha (Allah be pleased with her) reported that Salim, the freed slave of Abu Hadhaifa, lived with him and his family in their house. She (i. e. the daughter of Suhail came to Allah's Apostle and said: Salim has attained (puberty) as men attain, and he understands what they understand, and he enters our house freely, I, however, perceive that something (rankles) in the heart of Abu Hudhaifa, whereupon Allah's Apostle said to her: Suckle him and you would become unlawful for him, and (the rankling) which Abu Hudhaifa feels in his heart will disappear. She returned and said: So I suckled him, and what (was there) in the heart of Abu Hudhaifa disappeared.
+
+So her slave boy is becoming an adult, and her husband is bothered that a young man is spending time with his wife because of the sexual awkwardness. She asks Muhammad what to do. So what is the solution proposed by Muhammad? "Let the horny young boy suck on your breasts, and that will make the situation less sexually awkward."
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -199,7 +233,7 @@ Apparently it was impossible to keep this deathbed convert in the ground, so the
 
 See also [Sex slaves](#sex-slaves), [Rape](#rape)
 
-## Wife beating allowed {#domestic-abuse}
+## Wife beating allowed {#domestic-abuse}b
 
 Surah 4:34
 
@@ -301,3 +335,12 @@ See also:
 
 - [Sahih al Bukhari 514](https://sunnah.com/bukhari:514)
 - [Sahih al-Bukhari 519](https://sunnah.com/bukhari:519)
+
+
+## Women are cursed for plucking their eyebrows, getting tattoos, or orthodontics 
+
+[Riyad as-Salihin 1646](https://sunnah.com/riyadussalihin:1646)
+
+> Ibn Mas'ud (May Allah be pleased with him) said: Allah has cursed those women who practise tattooing and those women who have themselves tattooed, and those women who get their hair removed from their eyebrows and faces (except the beard and the mustache), and those who make artificial spaces between their teeth for beauty, whereby they change Allah's creation.
+
+In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#pedophilia-ok) are allowed, but if a woman plucks her eyebrows she is cursed?

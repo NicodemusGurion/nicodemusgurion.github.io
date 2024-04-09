@@ -1,4 +1,4 @@
-# Hygiene and food
+# Hygiene, health and food
 
 There's a surprising amount of rules about urinating. If your religion micromanages how you piss, you're in a cult.
 
@@ -49,9 +49,11 @@ You don't want to piss of the jinn.
 
 > Narrated Abdul Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
 
+## Don't sleep on your stomach
 
+[Sunan Ibn Majah 3723](https://sunnah.com/ibnmajah:3723)
 
-
+> "The Messenger of Allah found me sleeping in the masjid on my stomach. He nudged me with his foot and said: 'Why are you sleeping like this? This is a kind of sleep that Allah dislikes,' or 'that Allah hates.'"
 
 
 

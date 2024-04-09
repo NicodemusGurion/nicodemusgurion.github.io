@@ -65,11 +65,43 @@ Even Surah 93:9 says "so as for the orphan, do not oppress them". But Muhammad c
 
 
 
-### Muhammad's incompetence almost caused a famine {#caused-famine}
+### Muhammad almost caused a famine {#caused-famine}
 
 > It was narrated from 'Aisha that the Prophet heard some sounds and said: “What is this noise?” They said: “Palm trees that are being pollinated.” He said: “If they did not do that it would be better.” So they did not pollinate them that year, and the dates did not mature properly. they mentioned that to the Prophet and he said: “If it is one of the matters of your religion, then refer to me.”
 
 Muhammad's incompetence caused the harvest to almost fail, yet he had the gall to tell people to consult him.
+
+
+### Muhammad probably stole a red velvet cloth {#red-velvet}
+
+[Sunan Abi Dawud 3971](https://sunnah.com/abudawud:3971)
+
+> Narrated Abdullah ibn Abbas: The verse "And no Prophet could (ever) be false to his trust" was revealed about a red velvet. When it was found missing on the day of Badr, some people said; Perhaps the Messenger of Allah has taken it. So Allah, the Exalted, sent down "And no prophet could (ever) be false to his trust" to the end of the verse.
+
+After the battle of Badr, the Muslims were dividing up the spoil, and apparently a piece of red velvet cloth was missing. The immediate suspicion of the other Muslim was that Muhammad had stolen it.
+
+You have to wonder why rather than being beyond suspicion, Muhammad was the very first suspect when something was missing?
+
+So to defend himself, ~~Muhammad~~ Allah revealed the verse Surah 3:161:
+
+> It is inconceivable that a prophet would ever dishonestly take something from the battle gains. Anyone who does so will carry it with him on the Day of Resurrection, when each soul will be fully repaid for what it has done: no one will be wronged.
+
+So essentially ~~Muhammad~~ Allah says "No, Muhammad is innocent. Trust me bro." But the same all-knowing Allah was unable to point out who the real thief was? That not only did not solve the problem, but rather makes Muhammad look more suspicious. 
+
+Adding to the mystique is the fact that the verse says "Anyone who does so will carry it with him on the Day of Resurrection, when each soul will be fully repaid for what it has done". Why does the verse say that the thief would carry the red velvet clothing with him until judgment day?
+
+The same person, Abdullah ibn Abbas, who told is of how everyone suspected Muhammed of stealing the red velvet piece of clothing, also tells us this:
+
+[Jami` at-Tirmidhi 1048](https://sunnah.com/tirmidhi:1048)
+
+> Ibn Abbas narrated: "A red velvet cloth was placed in the grave of the Prophet."
+
+I guess Abdullah Ibn Abbas had his suspicions, since he told both stories of how everyone thought Muhammad stole a red velvet cloak, and gives the detail that Muhammad was buried on top of a red velvet cloak. Is it the same cloak? We'll just have to see if Muhammad "will carry it with him on the Day of Resurrection."
+
+
+
+
+
 
 
 
