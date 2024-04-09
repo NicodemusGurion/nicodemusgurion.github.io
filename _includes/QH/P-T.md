@@ -23,6 +23,16 @@ Also:
 
 > ...their wives will be large-eyed maidens...
 
+## Paradise dwellers will be about 30 years old 
+
+[Jami` at-Tirmidhi 2545](https://sunnah.com/tirmidhi:2545)
+
+> The people of Paradise shall enter Paradise without body hair, Murd, with Kuhl on their eyes, thirty years of age or thirty-three years.
+
+See also:
+
+- [Jami` at-Tirmidhi 2539](https://sunnah.com/tirmidhi:2539)
+
 ## Paradise dwellers will be 38 meters tall {#tall-people}
 
 [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
@@ -384,6 +394,12 @@ See also:
 > Once Allah's Messenger became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that your Satan has forsaken you, for I have not seen him with you for two or three nights!"
 
 So by avoiding praying the night prayer for two or three nights, Satan left Muhammad for those two or three nights. That means that praying the night prayer means Satan will come to oppress you.
+
+## Satan can't open lids
+
+[Riyad as-Salihin 1654](https://sunnah.com/riyadussalihin:1654)
+
+> Cover up the (kitchen) containers (i.e., pots, pans, etc.), tie up the mouth of the water-skin, lock up the doors and extinguish the lamps, because Satan can neither untie the water-skin nor open the door nor uncover the containers.
 
 
 

@@ -1,3 +1,11 @@
+# Funeral customs
+
+## Bewailing causes torture
+
+[Riyad as-Salihin 1657](https://sunnah.com/riyadussalihin:1657)
+
+> The Prophet said, "The deceased is tortured in his grave for bewailing over him."
+
 # Hygiene, health and food
 
 There's a surprising amount of rules about urinating. If your religion micromanages how you piss, you're in a cult.
@@ -54,6 +62,20 @@ You don't want to piss of the jinn.
 [Sunan Ibn Majah 3723](https://sunnah.com/ibnmajah:3723)
 
 > "The Messenger of Allah found me sleeping in the masjid on my stomach. He nudged me with his foot and said: 'Why are you sleeping like this? This is a kind of sleep that Allah dislikes,' or 'that Allah hates.'"
+
+## Wigs are forbidden {#no-wigs}
+
+[Riyad as-Salihin 1642](https://sunnah.com/riyadussalihin:1642)
+
+> A woman came to the Prophet and said: "O Messenger of Allah! I have a daughter who had an attack of small pox and her hair fell off. Now I want to celebrate her marriage. Can I get her a wig?" Thereupon the Prophet said, "Allah has cursed the maker and wearer of a wig."
+
+Letting that poor girl go to her wedding bald, just because he had a weird thing about wigs and an obsession with micromanaging the minutiae of everyone's lives.
+
+See also:
+
+- [Riyad as-Salihin 1645](https://sunnah.com/riyadussalihin:1645)
+
+
 
 
 

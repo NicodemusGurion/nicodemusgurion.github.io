@@ -1,3 +1,38 @@
+# Minutiae 
+
+Islam really obsesses about completely ridiculous everyday minutiae, as if God would care. Controlling your everyday behavior is a big red flag for a manipulative cult. Here are some of the most ridiculous examples.
+
+## How to breathe while drinking
+
+[Sunan Ibn Majah 3427](https://sunnah.com/ibnmajah:3427) 
+
+> “When anyone of you drinks, let him not breathe into the vessel. If he wants to continue drinking, let him move the vessel away (in order to breathe) then bring it back, if he wants.”
+
+See also: 
+
+- [Sahih al-Bukhari 154](https://sunnah.com/bukhari:154)
+- [Riyad as-Salihin 1648](https://sunnah.com/riyadussalihin:1648)
+
+## Don't hold your penis with the right hand
+
+[Sahih Muslim 267a](https://sunnah.com/muslim:267a)
+
+> None of you should hold your penis with his right hand while urinating
+
+## Don't wear only one shoe
+
+[Riyad as-Salihin 1649](https://sunnah.com/riyadussalihin:1649)
+
+> None of you should walk wearing one shoe; you should either wear them both or take them off both.
+
+## Don't tie your shoe while standing
+
+[Riyad as-Salihin 1651](https://sunnah.com/riyadussalihin:1651)
+
+> The Messenger of Allah forbade a person tying up his shoe while standing
+
+
+
 # Mohammad
 
 Things that Mohammad did.
@@ -5,6 +40,8 @@ Things that Mohammad did.
 ## Muhammad's appearance
 
 What did he look like?
+
+![Artist's rendition of Muhammad according to Hadiths](https://i.ibb.co/PMb3RRZ/IMG-1912.jpg)
 
 ### Muhammad was very average looking {#average-looks}
 
@@ -27,6 +64,22 @@ Also:
 
 - [Sahih Muslim 2343 a](https://sunnah.com/muslim:2343a)
 
+## Muhammad used mascara and eyeliner {#make-up-tips}
+
+[Ash-Shama'il Al-Muhammadiyah 50](https://sunnah.com/shamail:50)
+
+> Ibn 'Abbas reported that the Prophet said (Allah bless him and give him peace): "Color the edges of the eyelids with antimony [ithmid], for it clears the vision and makes the eyelashes grow!” He also maintained that the Prophet (Allah bless him and give him peace) had a kohl jar from which he used to apply kohl to his eyelashes every night, three times in this [eye],and three times in that.
+
+Muhammad ordained that his followers ought to follow his example and use heavy mascara and eyeliner. He retouched his make-up three times a day. Muhammad also gave make-up tips, saying the best brands were made of antimony, saying that [it made his eyes pop like firecrackers!](https://m.youtube.com/watch?v=eRbxsvz1Jnw)
+
+See also:
+
+- [Sunan Abi Dawud 3878](https://sunnah.com/abudawud:3878), [4061](https://sunnah.com/abudawud:4061)
+- [Sunan Ibn Majah 3495](https://sunnah.com/ibnmajah:3495), [3496](https://sunnah.com/ibnmajah:3496), [3497](https://sunnah.com/ibnmajah:3497)
+- [Sunan an-Nasa'i 5113](https://sunnah.com/nasai:5113)
+- [Mishkat al-Masabih 4472](https://sunnah.com/mishkat:4472), [4473](https://sunnah.com/mishkat:4473)
+- [Ash-Shama'il Al-Muhammadiyah 51](https://sunnah.com/shamail:51), [52](https://sunnah.com/shamail:52), [53](https://sunnah.com/shamail:53), [54](https://sunnah.com/shamail:54)
+- [Jami` at-Tirmidhi 2048](https://sunnah.com/tirmidhi:2048)
 
 
 
