@@ -1,10 +1,12 @@
-# Funeral customs
+# Hell
 
-## Bewailing causes torture
+## Murder victims go to hell
 
-[Riyad as-Salihin 1657](https://sunnah.com/riyadussalihin:1657)
+[Sahih al-Bukhari 31](https://sunnah.com/bukhari:31)
 
-> The Prophet said, "The deceased is tortured in his grave for bewailing over him."
+> When two Muslims fight (meet) each other with their swords, both the murderer as well as the murdered will go to the Hell-fire.
+
+
 
 # Hygiene, health and food
 
@@ -75,7 +77,29 @@ See also:
 
 - [Riyad as-Salihin 1645](https://sunnah.com/riyadussalihin:1645)
 
+## Fevers cleanses sins
 
+[Riyad as-Salihin 1726](https://sunnah.com/riyadussalihin:1726)
+
+> "Do not revile fever, for it cleanses out the sins of the sons of Adam in the same way that a furnace removes the dirt of iron."
+
+
+
+
+
+
+
+# Jesus Christ
+
+Muslims love to claim that they respect Jesus Christ, but their religion is distinctly antichristian.
+
+## King of kings
+
+Jesus Christ is called "The King of Kibgs".
+
+[Riyad as-Salihin 1724](https://sunnah.com/riyadussalihin:1724)
+
+> The Prophet said, "The most disgraceful man near Allah is a man who calls himself (or likes others to call him) Malikul-Amlak (i.e., king of kings)."
 
 
 
@@ -133,6 +157,28 @@ This is directed to Muslims, how to deal with those who "who wage war against Al
 # Jihad
 
 See also [Violence](#violence) and [Muhammad and violence](#muhammad-and-violence).
+
+## The goal of Islam
+
+[Sahih al-Bukhari 25](https://sunnah.com/bukhari:25)
+
+> Allah's Messenger said: "I have been ordered (by Allah) to *fight against the people* until they testify that none has the right to be worshipped but Allah and that Muhammad is Allah's Messenger (ﷺ), and offer the prayers perfectly and give the obligatory charity, so if they perform that, then *they save their lives and property from me* except for Islamic laws and then their reckoning (accounts) will be done by Allah."
+
+## The second best deed
+
+[Sahih al-Bukhari 26](https://sunnah.com/bukhari:26)
+
+> Allah's Messenger was asked, "What is the best deed?" He replied, "To believe in Allah and His Apostle (Muhammad). The questioner then asked, "What is the next in goodness? He replied, "To participate in Jihad (religious fighting) in Allah's Cause."
+
+
+## Jihadis are rewarded 
+
+[Sahih al-Bukhari 36](https://sunnah.com/bukhari:36)
+
+> The Prophet said, "The person who participates in (Holy battles) in Allah's cause and nothing compels him to do so except belief in Allah and His Apostles, will be recompensed by Allah either with a reward, or booty (if he survives) or will be admitted to Paradise (if he is killed in the battle as a martyr). 
+
+
+
 
 ## Jizya
 

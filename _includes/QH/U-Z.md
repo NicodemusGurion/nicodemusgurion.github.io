@@ -233,7 +233,7 @@ So her slave boy is becoming an adult, and her husband is bothered that a young 
 
 See also [Sex slaves](#sex-slaves), [Rape](#rape)
 
-## Wife beating allowed {#domestic-abuse}b
+## Wife beating allowed {#domestic-abuse}
 
 Surah 4:34
 
@@ -292,6 +292,10 @@ This means men are allowed to marry and divorce prepubescent girls.
 
 The reason for this is because Allah created women to have menstruation, meaning they can't pray and fast as much.
 
+See also:
+
+- [Sahih al-Bukhari 29](https://sunnah.com/bukhari:29)
+
 ## Women are "deficient in intelligence"
 
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
@@ -344,3 +348,9 @@ See also:
 > Ibn Mas'ud (May Allah be pleased with him) said: Allah has cursed those women who practise tattooing and those women who have themselves tattooed, and those women who get their hair removed from their eyebrows and faces (except the beard and the mustache), and those who make artificial spaces between their teeth for beauty, whereby they change Allah's creation.
 
 In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#pedophilia-ok) are allowed, but if a woman plucks her eyebrows she is cursed?
+
+## Women are a source of trouble
+
+[Riyad as-Salihin 1675](https://sunnah.com/riyadussalihin:1675)
+
+> The Messenger of Allah said, "There is no infection and no evil omen; but if there is anything (that may be a source of trouble) then it could be a house, a horse, and a woman."

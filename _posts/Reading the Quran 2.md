@@ -49,9 +49,9 @@ This sounds like Calvinism, which I often say is the Islam of Christianity. It p
 
 # Surah 2: 8-20
 
-*New topic (1)*
-
 > And of mankind are those who say, “We have attained faith in Allah and in the Last Day,” but they are not believers… In their hearts is sickness, so **Allah increased their sickness**, and for them is a painful punishment on account of how they used to lie.
+
+**New topic:** False believers.
 
 Discussing fake believers, Allah is not exactly helping them, but making their condition worse, so he can punish them. 
 
@@ -61,15 +61,13 @@ Rather than helping them, Allah is deliberately taking away their light and leav
 
 # Surah 2: 21-22
 
-*New topic (2)*
-
-Encouraging worship of Allah.
+**New topic:** Encouraging worship of Allah.
 
 ## 2: 23
 
-*New topic (3)*
-
 > [And if you are in doubt about what We have bestowed upon Our servant from on high, then bring a single surah of its like, and call your witnesses apart from Allah if you are truthful.](https://quran.com/2/23)
+
+**New topic:** Literary excellence as a test for authenticity.
 
 This famous claim that the Quran is the word of Allah because of its supposed literary excellence is a really weird  condition for divine inspiration. I mean, in that case any half decent poet is more inspired than Allah and Muhammad.
 
@@ -85,9 +83,9 @@ I put it to you that any chapter in the Bible or even any decent poetry book is 
 
 # Surah 2: 24
 
-*New topic (4)*
-
 > be mindful of the Fire whose fuel is people and stones; it has been prepared for the deniers.
+
+**New topic:**  Hell
 
 Apparently hell is fueled by people? And stones? In the Bible hellfire does not need fuel. Also in the Bible hell is not prepared for humans but for the satan and the demons. Humans were not supposed to go to hell but it's just an unfortunate side effect of rejecting God. But in Islam hell is made specifically to torture humans, and as we learned, Allah is deliberately causing people to go to hell. 
 
@@ -103,10 +101,10 @@ Tell me your religion was invented by a sex crazed horndog without saying your r
 
 # Surah 2:26
 
-*New topic (5)*
-
 > Indeed, Allah does not shy away from setting forth any parable, ... He misguides many thereby…
 
+
+**New topic: ** Paeables
 
 It's interesting that Allah is said to be using parables, and whether someone understands them or not depends on whether they are humble or not. This is one of the attributes of Jesus, who used parables because the humble understands them but the proud does not. (Matt. 13:10-17; Mark 4:11,12; Luke 8:9, 10) One of many ayah that inadvertently admit that Jesus is Allah.
 
@@ -120,9 +118,9 @@ Allah has the vocabulary of a 14 year old boy.
 
 ## 2:28
 
-*New topic (6)*
-
 > […you were lifeless and He gave you life, then He puts you to death, then He brings you to life, then to Him you are returned](https://quran.com/2/28)
+
+**New topic:** Life and death.
 
 So Muslims pre-existed lifeless, then became alive, then dead, then alive again, then go to Allah? What busywork.
 
@@ -134,11 +132,11 @@ We learn that Allah created the earth first and then the heavens, 7 of them. In 
 
 # Surah 2: 30-34
 
-*New topic (7)*
-
-*No context (1)*
-
 > … your Lord said to the angels, “I am appointing a viceroy in the earth.” … We said to the angels, “Prostrate yourselves to Adam”, so they prostrated themselves—but not Iblis. He refused and acted arrogantly and became of the deniers.
+
+**New topic:** Adam and Satan shenanigans
+
+**No context:** You need access to apocryphal stories to figure out what is going on.
 
 Muhammad is referring to a fable taken from [the apocryphal book of the life of Adam and Eve 13.2](http://www2.iath.virginia.edu/anderson/vita/english/vita.lat.html), where Adam is assigned as the ruler of the angels and God makes the angels bow down to him, but Sayan refuses. It was written between around 100 BC-100 AD and it's an example of one of many false stories that Muhammad have just heard, thought was real, and included in the Quran. Either that or "Allah" can't tell fact from fan fiction.
 
@@ -154,11 +152,9 @@ This verse is fuzzy but it appears that after the fall, Adam and Eve "descended"
 
 # Surah 2: 40-46
 
-*New topic (8)*
-
 > O Children of Israel
 
-This book is jumping all over the place. Now it adresses Jews.
+**New topic**: Israel
 
 Fun fact: The Quran mentions Israel a lot,  but never mentions any Palestinians...
 
@@ -186,13 +182,13 @@ This contradicts other sources which say that on judgment day, [Muslims will be 
 
 # Surah 2: 49-50
 
-*No context (2)*
+**No context** Without the Bible you'd have no idea what it's referring to.
 
 This section is about Israel in Egypt. It says that the genocide of male babies **was a great trial from your Lord**. This is false, it was from Satan. It was against God's will.
 
 # Surah 2: 51-56
 
-*No context (3)*
+**No context:** Without the Bible you have no idea what this is about.
 
 This passage is about the worship of the golden calf.
 
@@ -202,7 +198,7 @@ This is false. The Israelites were rather terrified and did **not** want to see 
 
 # Surah 2: 58-59
 
-*No context (4)*
+**No context:** Actually you won't understand what this is about even with the Bible because it's totally made up.
 
 > Remember when We said, ‘Enter this town and eat freely there as you will, but enter its gate humbly and say, “Relieve us!” Then We shall forgive you your sins and increase the rewards of those who do good.’ But the wrongdoers substituted a different word from the one they had been given. So, because they persistently disobeyed, We sent a plague down from the heavens upon the wrongdoers.
 
@@ -210,13 +206,13 @@ This does not seem to match any story of the Bible. It seems to be made up.
 
 # Surah 2: 60
 
-*No context (5)*
+**No context:** You need the Bible for this.
 
 This verse says that when Moses struck the rock **Twelve springs gushed out, and each group knew its drinking place.** This is inaccurate.  There is no mention of 12 streams in the Bible.
 
 # Surah 2: 62
 
-*New topic (9)*
+**New topic:** Salvation
 
 > The [Muslim] believers, the Jews, the Christians, and the Sabians- all those who believe in God and the Last Day and do good- will have their rewards with their Lord.
 
@@ -224,9 +220,9 @@ This verse says that when Moses struck the rock **Twelve springs gushed out, and
 
 # Surah 2: 63,64
 
-*New topic (10)*
+**New topic:** Something about a mountain.
 
-*No context (6)*
+**No context:** Even with the Bible it's unclear.
 
 > And ˹remember˺ when We took a covenant from you and raised the mountain above you
 
@@ -234,9 +230,9 @@ This passage is very vague. I have no idea what story it refers to.
 
 # Surah 2: 65,66
 
-*New topic (11)*
+**New topic**: Sabbaths.
 
-*No context (7)*
+**No context:** This is made up.
 
 > You know about those of you who broke the Sabbath, and so We said to them, ‘Be like apes! Be outcasts!’
 
@@ -244,11 +240,9 @@ This also never happened. God has never said sabbath breakers are apes. Breaking
 
 # Surah 2: 67-73
 
-*New topic (12)*
+**New topic:** Some shenanigans about a cow.
 
-*No context (8)*
-
-Some shenanigans about a cow. Also a story not mentioned in the Bible.
+**No context:** Also a story not mentioned in the Bible.
 
 > Moses said to his people, ‘God commands you to sacrifice a cow.’ They said, ‘Are you making fun of us?
 
@@ -264,7 +258,9 @@ This whole story is non-existent in the Bible, very odd and pointless.
 
 > So can you believers hope that such people (Jews) will believe you, when some of them used to hear the words of God and then deliberately twist them, even when they understood them? … Some of them are uneducated, and know the Scripture only through wish-ful thinking. They rely on guesswork.
 
-It's ironic that after [having claimed that the Torah is unchanged](#2-40-46), the author just spews a bunch of incorrect or completely fabricated stories, and then accuse Jews of twisting the words of God. Olympic levels of mental gymnastics.
+
+
+It's ironic that after [having claimed that the Torah is unchanged](#2-40-46), the author tells a bunch of incorrect or completely fabricated stories, and then accuse Jews of twisting the words of God. Olympic levels of mental gymnastics.
 
 # Surah 2: 79
 
@@ -282,7 +278,7 @@ Islam is a works-righteousness religion. You have to do stuff to earn points to 
 
 # Surah 2: 83-86
 
-This passage is just general criticism against people being sinful.
+**New topic:** This passage is just general criticism against people being sinful.
 
 # Surah 2: 87
 
@@ -290,9 +286,12 @@ This passage is just general criticism against people being sinful.
 
 Moses is mentioned 136 times. Jesus 25 times. Mary is the only woman named in the Quran 34 times. But Muhammad is only mentioned 4 times.
 
-# Surah 2: 88-91
+# Surah 2: 88-91, 97-98
 
 > And when there comes to them a Book from Allah, **confirming what is with them**… When it is said to them, "Believe in what Allah Hath sent down, "they say, "We believe in what was sent down to us:" yet they reject all besides, even if it be Truth **confirming what is with them**…
+> (98)…**confirming what came before it*…
+
+**New topic:** Confirming the bible
 
 This says that the Quran is **confirming what is with them**, meaning the Bible that the Jews and Christians had in the 7th century. [We have extant copies that are even 300](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus)-[900 years older than the Quran](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls), and these are identical to modern Bibles. These are the ones the Quran claims to "confirm", so according to the Quran, the Bible has not been corrupted.
 
@@ -304,28 +303,21 @@ Or, the Quran is not written by Allah, but is written by an ignorant illiterate 
 
 # Surah 2: 92-96
 
-More complaints about people being disobedient.
-
-# Surah 2: 97-98
-
-> Whoever is an enemy to Gabriel-for he brings down the (revelation) to thy heart by Allah's will, a confirmation of what went before
-
-Islam seems to accredit Gabriel for conveying all revelation. In the Bible Gabriel is mentioned twice bringing messages. Other times it is unnamed angels, or the Word of God, or the Spirit of God who comes directly. Islam seems to conflate all these diverse means of communication God uses into one angel who is really busy.
-
-This verse also affirms that the Bible is correct, saying the Quran is **a confirmation of what went before**, i.e. the Bible.
+**New topic**: More complaints about people being disobedient.
 
 # Surah 2: 99
 
 > We have sent down to thee Manifest Signs (ayat)
 
-Just a note on translation itself: The Arabic says "ayat" meaning verse, but it is here translated as "Signs", which is also a synonym for miracles. I just want to bring your attention to the fact that Muslims consider the Quran itself a miracle (as if writing a really poor piece of literature is beyond human ability), so each piece of text is a "miracle" because they think Allah himself authored it. It's a really strange view, but it is good to keep in mind when Muslims talk about "miracles" that their definition could potentially be vastly different from what would normally be considered a miracle. A Christian would not consider a random Bible verse to be a miracle. Perhaps if the verse was a prophecy that was fulfilled, then the prophecy would be considered a miracle, but not the text of the verse itself. Just something I have noticed.
+**New topic**: Miracles
 
+Just a note on translation itself: The Arabic says "ayat" meaning verse, but it is here translated as "Signs", which is also a synonym for miracles. Muslims consider the Quran itself a miracle, so each piece of text is a "miracle" because they think Allah himself authored it. It's good to keep in mind that when Muslims talk about "miracles" their definition is different. A verse of text is not a miracle. 
 
 # Surah 2: 100-101
 
 > there came to them a messenger from Allah, confirming what was with them
 
-More complaints against faithful people and more confirmation that the Bible is not corrupted.
+**New topic**: More complaints against faithful people and more confirmation that the Bible is not corrupted.
 
 # Surah 2: 102-103
 

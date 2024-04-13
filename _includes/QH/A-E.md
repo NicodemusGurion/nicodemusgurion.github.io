@@ -115,6 +115,15 @@ Allah doesn't know how time zones work. If he comes down every night at  3am, an
 This means Allah has physical hands the size of human hands with which he can shake hands with humans. How embarrassing for Muhammad himself that someone else gets to shake hands with Allah before him.
 
 
+## Allah was grabbed by the balls
+
+[Sahih al-Bukhari 4830](https://sunnah.com/bukhari:4830)
+
+> Allah created His creation, and when He had finished it, the womb, got up and caught hold of [the loin of] Allah …
+
+The translation hides the meaning of the Arabic, which says that the womb caught hold of the "حَقْوِ" (haqw) of Allah. Haqw means loin or groin area. 
+This not only means that Allah has a genital area but also that he was sexually assaulted by a cunt.
+
 ## Allah needs your money
 
 Surah 2:254
@@ -130,6 +139,19 @@ Give him your money before it's too late!
 > Narrated Aisha:… I said (to the Prophet), "I feel that your Lord hastens in fulfilling your wishes and desires."
 
 Even Aisha noticed that the "revelations" that Muhammad got from Allah were suspiciously self-serving. Any time Muhammad had any wish, Allah came with a convenient revelation permitting him to go ahead. Why would the creator of the universe put in so much effort to make sure one man had every wish fulfilled? It's almost like Muhammad only used Allah as a puppet to convince people to fulfill his desires.
+
+
+### Islam is all about loving Muhammad
+
+[Sahih al-Bukhari 14](https://sunnah.com/bukhari:14)
+
+> Allah's Messenger said, "By Him in Whose Hands my life is, none of you will have faith till he loves me more than his father and his children.
+
+See also:
+
+- [Sahih al-Bukhari 15](https://sunnah.com/bukhari:15)
+- [Sahih al-Bukhari 16](https://sunnah.com/bukhari:16)
+- [Sahih al-Bukhari 21](https://sunnah.com/bukhari:21)
 
 ### Women galore for Muhammad {#women-galore}
 
@@ -187,6 +209,7 @@ Why would the creator of the universe be concerned with how someone moves their 
 [Sahih al-Bukhari 4002](https://sunnah.com/bukhari:4002)
 
 > Allah's Messenger said. "Angels do not enter a house in which there is a dog or a picture"
+
 
 
 
@@ -295,6 +318,35 @@ In Surah 6:37; 6:109; 13:7; 17:59; 20:20 it says that Muhammad never did any mir
 
 [The Quran says there will be no ransoms whatsoever on judgment day.](#no-ransom) But one Hadith says [muslims will be ransomed from hell by Christians and Jews taking their places in hell.](#ransomed-from-hell).
 
+### Jews are favoured. Not.
+
+Surah 2:47
+
+> Children of Israel, remember how I blessed you and favoured you over other people.
+
+[Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
+
+> …"The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
+
+Jews are favoured by Allah, but Islam has as a main goal to kill all Jews.
+
+
+
+
+
+
+
+
+# Customs
+
+## Funeral wailing tortures the deceased
+
+[Riyad as-Salihin 1657](https://sunnah.com/riyadussalihin:1657)
+
+> The Prophet said, "The deceased is tortured in his grave for bewailing over him."
+
+
+
 
 
 
@@ -328,7 +380,22 @@ Surah 19:27-28
 
 > Then she returned to her people, carrying him [Jesus]. They said ˹in shock˺, “O Mary! You have certainly done a horrible thing! O  sister of Aaron! Your father was not an indecent man, nor was your mother unchaste.”
 
-Mary the mother of Jesus lived in first century Judaea/Galilee. Mariam the sister of Aaron lived about 1500 years before her in Egypt/Sinai. Allah does not know that these are two different people.
+Surah 66:12
+
+> Mary, daughter of Imran. 
+
+See also Surah 3:35-36.
+
+- Mary the mother of Jesus lived Judaea/Galilee. 
+- Mariam the sister of Aaron and daughter of Imran (Amram) lived in Egypt/Sinai.
+- Mary lived ca 1st century B.C./A.D.
+- Mariam lived ca 1400-1500 B.C. one and a half millenium earlier.
+- Mary was of the tribe of Judah.
+- Mariam was of the tribe of Levi.
+- Mary's father was probably named Joachim.
+- Mariam father was named Amram.
+
+These are two totally different people, and the author of the Quran is so ignorant that he mixes them up and thinks they're the same people. 
 
 ## Pharao ordered Haman to build the Tower of Babel {#pharao-haman-tower}
 

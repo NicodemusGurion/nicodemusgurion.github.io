@@ -1,3 +1,11 @@
+# Lying
+
+## You can break an oath if you have a better alternative 
+
+[Riyad as-Salihin 1716](Riyad as-Salihin 1716)
+
+> The Messenger of Allah said, "When you swear an oath and consider something else to be better than it, make expiation for your oath and do the thing that is better."
+
 # Minutiae 
 
 Islam really obsesses about completely ridiculous everyday minutiae, as if God would care. Controlling your everyday behavior is a big red flag for a manipulative cult. Here are some of the most ridiculous examples.
@@ -30,6 +38,24 @@ See also:
 [Riyad as-Salihin 1651](https://sunnah.com/riyadussalihin:1651)
 
 > The Messenger of Allah forbade a person tying up his shoe while standing
+
+## Don't make pictures
+
+[Riyad as-Salihin 1678](https://sunnah.com/riyadussalihin:1678)
+
+> The Messenger of Allah said, "Those who draw pictures will be punished on the Day of Resurrection
+
+[Riyad as-Salihin 1680](https://sunnah.com/riyadussalihin:1680)
+
+> I heard the Messenger of Allah saying, "Every painter will go to Hell, and for every portrait he has made, there will be appointed one who will chastise him in the Hell."
+
+
+
+
+
+
+
+
 
 
 
@@ -64,7 +90,7 @@ Also:
 
 - [Sahih Muslim 2343 a](https://sunnah.com/muslim:2343a)
 
-## Muhammad used mascara and eyeliner {#make-up-tips}
+### Muhammad used mascara and eyeliner {#make-up-tips}
 
 [Ash-Shama'il Al-Muhammadiyah 50](https://sunnah.com/shamail:50)
 
@@ -92,7 +118,7 @@ See also:
 ## Muhammad's character
 
 
-## Muhammad was a copycat {#copycat}
+### Muhammad was a copycat {#copycat}
 
 [Sahih al-Bukhari 5917](https://sunnah.com/bukhari:5917)
 
@@ -151,7 +177,19 @@ The same person, Abdullah ibn Abbas, who told is of how everyone suspected Muham
 
 I guess Abdullah Ibn Abbas had his suspicions, since he told both stories of how everyone thought Muhammad stole a red velvet cloak, and gives the detail that Muhammad was buried on top of a red velvet cloak. Is it the same cloak? We'll just have to see if Muhammad "will carry it with him on the Day of Resurrection."
 
+### Muhammad hated dogs
 
+[Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
+
+> the Messenger of Allah commanded that all dogs be killed, even small dogs.
+
+### Muhammad was a tough guy
+
+[Sahih al-Bukhari 36](https://sunnah.com/bukhari:36)
+
+> Had I not found it difficult for my followers, then I would not remain behind any sariya going for Jihad and I would have loved to be martyred in Allah's cause and then made alive, and then martyred and then made alive, and then again martyred in His cause."
+
+Sure, Moe, if it weren't for the people needing their cult leader, you would have jumped right in, over and over, rather than sending others to their death.
 
 
 
@@ -368,7 +406,11 @@ See also:
 - [Sahih Muslim 290 (scraping it off with the nail)](https://sunnah.com/muslim:290)
 
 
+### Muhammad scraped off encrusted snot
 
+[Riyad as-Salihin 1694](https://sunnah.com/riyadussalihin:1694)
+
+> The Messenger of Allah saw spittle or snot or sputum, sticking to the wall towards Qiblah and scratched it off.
 
 
 

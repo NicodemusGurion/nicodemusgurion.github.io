@@ -322,6 +322,13 @@ Als this implies that Jews and Christians as not sinners deserving of hell, but 
 
 See [The Quran is alive and will intercede on judgment day](#quran-intercession). It will come as a flock of birds and convince Allah to have mercy on those who read it.
 
+## Muhammad can guarantee salvation
+
+[Sahih al-Bukhari 6807](https://sunnah.com/bukhari:6807)
+
+> The Prophet said, "Whoever guarantees me what is between his legs and what is between his jaws, I guarantee him Paradise."
+
+
 
 
 
@@ -433,7 +440,7 @@ Surah 2:29
 
 > Allah has laid the earth out as a carpet for you,
 
-## Sperm comes from between the backbone and the ribs {#rib-sperm}
+## Sperm comes from between the backbone and the ribs {#backbone-sperm}
 
 Surah 86:6-7
 
