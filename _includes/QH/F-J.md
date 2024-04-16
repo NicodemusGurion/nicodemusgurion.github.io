@@ -32,7 +32,7 @@ Also:
 
 - [Sahih Muslim 281](https://sunnah.com/muslim:281)
 
-### Muslims aren’t allowed to urinate  in holes {#urinating-in-holes}
+## Muslims aren’t allowed to urinate  in holes {#urinating-in-holes}
 
 [Sunnan Abu Dawud 29](https://sunnah.com/abudawud:29)
 
@@ -40,7 +40,7 @@ Also:
 
 You don't want to piss of the jinn.
 
-### Muslims aren’t allowed to urinate towards the qibla {#urinating-toward-qibla}
+## Muslims aren’t allowed to urinate towards the qibla {#urinating-toward-qibla}
 
 [Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
 
