@@ -88,6 +88,22 @@ See also:
 
 
 
+# Islam
+
+## Islam is a strange serpent receding into its hole
+
+[Sahih Muslim 146](https://sunnah.com/muslim:146)
+
+> the Messenger of Allah observed: Verily Islam started as something strange and it would again revert (to its old position) of being strange just as it started, and it would recede between the two mosques just as the serpent crawls back into its hole.
+
+If he was a prophet then let's hope this prophecy comes true at least.
+
+
+
+
+
+
+
 
 # Jesus Christ
 
@@ -181,6 +197,12 @@ See also [Violence](#violence) and [Muhammad and violence](#muhammad-and-violenc
 
 
 ## Jizya
+
+Jizya is a tax that Islam demands from Jews and Christians in exchange for not killing them.
+
+Surah 9:29
+
+> Fight those of the People of the Book who do not [truly] believe in God and the Last Day, who do not forbid what God and His Messenger have forbidden, who do not obey the rule of justice,until they pay the [jizya] tax and agree to submit.
 
 [Sahih Muslim 1731a](https://sunnah.com/muslim:1731a)
 

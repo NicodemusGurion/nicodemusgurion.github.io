@@ -676,6 +676,18 @@ Only God has power over life and death. In the exact same way that God the Fathe
 
 That **all may honor the Son, just as they honor the Father** means that Jesus is given equal honor or glory as the Father by men. In fact if someone does not give divine glory to the Son they do not give such to the Father. They are treated as being perfectly equal in glory.  Scriptures like [Isaiah 42:8](#isaiah-428) and [48:11](#isaiah-4811) show that God does not allow anyone else to have equal glory to him. This means that Jesus is no one else but God. This proves the deity of Christ.
 
+## John 5:26
+
+> For as the Father has life in himself, so he has granted the Son also to have life in himself.
+
+This shows that the Son has ice in himself, so called "aseity", a property of God alone. It also shows that his life comes from the Father, so he is personally distinct from the Father but essentially equal.
+
+## John 5: 30
+
+> I can do nothing of my own
+
+This shows the essential equality of the Son with the Father, that whatever the Son does is what the Father does.
+
 ## John 6: 19 
 
 > When they had rowed about three or four miles, **they saw Jesus walking on the sea** and coming near the boat, and they were frightened.

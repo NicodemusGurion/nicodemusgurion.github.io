@@ -82,6 +82,17 @@ Surah 2:157
 
 Whom is Allah praying to?
 
+## Allah swears by the Lord of the East and West
+
+Surah 70:40
+
+> I swear by the Lord of the easts and the wests that We have the power
+
+Why would Allah swear by someone else? A Lord at that? That only means this Lord is higher than Allah. 
+
+Yahweh in the Bible swear by himself, because there is no one higher. But Allah swears by someone higher.
+
+
 ## Allah wonders 
 
 [Sahih al-Bukhari 3010](https://sunnah.com/bukhari:3010)
@@ -132,7 +143,11 @@ Surah 2:254
 
 Give him your money before it's too late!
 
-## Allah is Muhammad's puppet {#puppet}
+## Allah is the servant of Muhammad {#allah-serves-muhammad}
+
+Reading the Quran and Hadiths it quickly becomes painfully obvious that Allah only exists to serve Muhammad. Whatever Muhammad wants, Allah provides. 
+
+### Aisha notices
 
 [Sahih al Bukhari 4788](https://sunnah.com/bukhari:4788)
 
@@ -177,7 +192,7 @@ Surah 33:53
 
 > O believers! Do not enter the homes of the Prophet without permission ˹and if invited˺ for a meal, do not ˹come too early and˺ linger until the meal is ready. But if you are invited, then enter ˹on time˺. Once you have eaten, then go on your way, and do not stay for casual talk. Such behaviour is truly annoying to the Prophet, yet he is too shy to ask you to leave. But Allah is never shy of the truth. And when you ˹believers˺ ask his wives for something, ask them from behind a barrier. This is purer for your hearts and theirs. And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.
 
-Apparently Allah is even concerned about Muhammad not having to suffer the awkwardness of dismissing his dinner guests. This is obviously made up by Muhammad because he felt it too awkward to do, so he uses Allah as his puppet to order people around.
+Apparently Allah is even concerned about Muhammad not having to suffer the awkwardness of dismissing his dinner guests. This is obviously made up by Muhammad because he felt it too awkward to do, so he uses Allah as his puppet to order people around. 
 
 ### Don't slap your tongue {#slap-tongue}
 
@@ -186,6 +201,10 @@ Apparently Allah is even concerned about Muhammad not having to suffer the awkwa
 > the Messenger of Allah said: "Indeed Allah detests the excessive among men, who slaps his tongue around like the cow slaps his tongue."
 
 Why would the creator of the universe be concerned with how someone moves their tongue? This is obviously Muhammad being annoyed and using Allah as an excuse to have people stop smacking their tongues while eating.
+
+
+
+
 
 
 
@@ -297,6 +316,19 @@ Surah 4:82
 
 If the Quran is from Allah, there should be no contradictions.
 
+### Who forgives sins?
+
+Surah 3:135
+
+> They are those who, upon committing an evil deed or wronging themselves, remember Allah and seek forgiveness for their sins—and who forgives sins except Allah?
+
+Only Allah forgives sins.
+
+Surah 46:31
+
+> Our people, respond to the one who calls you to God. Believe in Him: He will forgive you your sins and protect you from a painful torment.’
+
+Muhammad also forgives sins.
 
 ### How long did it take Allah to create the world?
 

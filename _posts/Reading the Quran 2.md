@@ -1,9 +1,11 @@
 ---
 title: Reading the Quran, Surah 1 Al-Fatihah
 tags: [Islam, Quran, Reading the Quran]
+thumb: https://i.ibb.co/X5DhS7G/9223-F86-F-0-DFE-497-E-AD02-A0239-AF01-CAB.jpg
+image: https://i.ibb.co/nQKGYSk/BFBCFC6-A-B758-4-B54-BEED-E40-DBE2-B0-E12.jpg
 ---
 
-Al-Bararah, or "The Cow" is the second Surah of the Quran. It's the longest surah with 286 verses. It's hard to pinpoint exactly what it's about because the author jumps back and forth between topics like a rabid squirrel. A lot of of it seems to be self-glazing where Allah emphasizes just how freaking awesome he is and how much of a stupid meanie-head and loser everyone is who doesn't like him. Between that is mixed in random out of context stories and laws on random topics. All in all this surah reads like the ramblings of a schizophrenic patient in a mental institute. So many things are out of context that it is pretty much impossible to understand what is going on unless you have this previous knowledge. I will try to keep up and count how many times he haphazardly changes topic and references off topic subjects.
+Al-Bararah, or "The Cow" is the second Surah of the Quran. It's the longest surah with 286 verses. It's hard to pinpoint exactly what it's about because the author jumps back and forth between topics like a rabid squirrel. A lot of of it seems to be self-glazing where Allah emphasizes just how freaking awesome he is and how much of a stupid meanie-head and loser everyone is who doesn't like him. Between that are random out-of-context stories and laws on random topics mixed in. All in all this surah reads like the ramblings of a schizophrenic patient in a mental institute. So many things are out of context that it is pretty much impossible to understand what is going on unless you have this previous knowledge. I will try to keep up and count how many times he haphazardly changes topic and references off topic subjects.
 
 This chapter is massive with 286 verses. So this article will be long. I'll try to cut out as much text as possible to keep it shorter.
 
@@ -246,7 +248,7 @@ This also never happened. God has never said sabbath breakers are apes. Breaking
 
 > Moses said to his people, ‘God commands you to sacrifice a cow.’ They said, ‘Are you making fun of us?
 
-Why would they react like this to such a common idea as sacrificing a cow? They are baffled and don't know what is going on, asking **show us what sort of cow it should be** and Moses explains it should be **neither too old nor too young** and **bright yellow**, which is a weird color for a cow. They are still confused thinking **all cows are more or less alike to us**. So Moses needs to explain that it should be **perfect and unblemished cow, not trained to till the earth or water the fields**. And then finally they understand.
+The Israelites are baffled and don't know what is going on, even though animal sacrifices were common throughout history, they seem confused. They ask **show us what sort of cow it should be** and Moses explains it should be **neither too old nor too young** and **bright yellow**, which is a weird color for a cow. They are still confused thinking **all cows are more or less alike to us**. So Moses needs to explain that it should be **perfect and unblemished cow, not trained to till the earth or water the fields**. And then finally they understand.
 
 > We said, ‘Strike the [[dead] body] with a part of [the cow]’: thus God brings the dead to life and shows His signs so that you may understand.
 
@@ -256,9 +258,9 @@ This whole story is non-existent in the Bible, very odd and pointless.
 
 # Surah 2: 75-78
 
+**New topic**: Jew bashing.
+
 > So can you believers hope that such people (Jews) will believe you, when some of them used to hear the words of God and then deliberately twist them, even when they understood them? … Some of them are uneducated, and know the Scripture only through wish-ful thinking. They rely on guesswork.
-
-
 
 It's ironic that after [having claimed that the Torah is unchanged](#2-40-46), the author tells a bunch of incorrect or completely fabricated stories, and then accuse Jews of twisting the words of God. Olympic levels of mental gymnastics.
 
@@ -272,15 +274,19 @@ Woe to him.
 
 # Surah 2: 80-82
 
+**New topic**: Paradise.
+
 > those who believe and do good deeds will be the inhabitants of the Garden
 
 Islam is a works-righteousness religion. You have to do stuff to earn points to maybe go to paradise. But nowhere does it explain how many points you need or anything like that. And that means that there are a lot of really bad people in paradise, who are like 51% good and 49% evil.
 
 # Surah 2: 83-86
 
-**New topic:** This passage is just general criticism against people being sinful.
+**New topic:** General criticism against sinners.
 
 # Surah 2: 87
+
+**New topic**: Affirming biblical people.
 
 > We gave Moses the Scripture and We sent messengers after him in succession. We gave Jesus, son of Mary, clear signs and strengthened him with the Holy Spirit
 
@@ -288,10 +294,10 @@ Moses is mentioned 136 times. Jesus 25 times. Mary is the only woman named in th
 
 # Surah 2: 88-91, 97-98
 
+**New topic:** Confirming the bible
+
 > And when there comes to them a Book from Allah, **confirming what is with them**… When it is said to them, "Believe in what Allah Hath sent down, "they say, "We believe in what was sent down to us:" yet they reject all besides, even if it be Truth **confirming what is with them**…
 > (98)…**confirming what came before it*…
-
-**New topic:** Confirming the bible
 
 This says that the Quran is **confirming what is with them**, meaning the Bible that the Jews and Christians had in the 7th century. [We have extant copies that are even 300](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus)-[900 years older than the Quran](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls), and these are identical to modern Bibles. These are the ones the Quran claims to "confirm", so according to the Quran, the Bible has not been corrupted.
 

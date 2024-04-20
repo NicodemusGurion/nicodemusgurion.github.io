@@ -1,3 +1,17 @@
+# Unbelievers
+
+## Befriending non-muslims 
+
+Surah 3:28
+
+> Believers should not take disbelievers as allies instead of the believers—and whoever does so will have nothing to hope for from Allah—unless it is a precaution against their tyranny.
+
+Surah 5:51
+
+> You who believe, do not take the Jews and Christians as allies:they are allies only to each other. Anyone who takes them as an ally becomes one of them- God does not guide such wrongdoers
+
+Think you have a Muslim friend? Think again. Muslims are not allowed to be your friend, but will only pretend to be friendly to deceive.
+
 # Violence
 
 See also [Jihad](#jihad), [Muhammad and violence](#muhammad-and-violence), [Rape](#rape).

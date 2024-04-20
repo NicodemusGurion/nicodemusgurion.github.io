@@ -75,6 +75,13 @@ What did he look like?
 
 > The Messenger of Allah was not very tall nor was he [very] short, nor was he pale white, nor was he brown, nor was the wave of his hair completely curly nor straight…
 
+
+### Muhammad had a gap tooth
+
+[Ash-Shama'il Al-Muhammadiyah 15](https://sunnah.com/shamail:15)
+
+> Allah’s Messenger had a gap between the medial pair of teeth. When he spoke, it seemed as if light were emerging from between his middle teeth."
+
 ### Muhammad was white 
 
 [Sunan Abu Dawud 4864](https://sunnah.com/abudawud:4864)
@@ -85,6 +92,10 @@ What did he look like?
 
 > Abu Huraira … said:
 > "Allah’s Messenger … was white, as if he were fashioned from silver, with loosely curled hair."
+
+[Ash-Shama'il Al-Muhammadiyah 14](https://sunnah.com/shamail:14)
+
+> He was white, handsome, of medium size.”
 
 Also:
 
@@ -135,6 +146,10 @@ The Bible says that being kind and help orphans in their need is pure and undefi
 
 Even Surah 93:9 says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
 
+### Muhammad did not like poetry {#philistine}
+
+The Prophet said, "It is better for a man to fill the inside of his body with pus than to fill it with poetry."
+
 
 ### Muhammad was a hypocrite 
 
@@ -177,6 +192,8 @@ The same person, Abdullah ibn Abbas, who told is of how everyone suspected Muham
 
 I guess Abdullah Ibn Abbas had his suspicions, since he told both stories of how everyone thought Muhammad stole a red velvet cloak, and gives the detail that Muhammad was buried on top of a red velvet cloak. Is it the same cloak? We'll just have to see if Muhammad "will carry it with him on the Day of Resurrection."
 
+Also [Ash-Shama'il Al-Muhammadiyah 3](https://sunnah.com/shamail:3) says Muhammad liked to dress in red, so there's that.
+
 ### Muhammad hated dogs
 
 [Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
@@ -189,7 +206,8 @@ I guess Abdullah Ibn Abbas had his suspicions, since he told both stories of how
 
 > Had I not found it difficult for my followers, then I would not remain behind any sariya going for Jihad and I would have loved to be martyred in Allah's cause and then made alive, and then martyred and then made alive, and then again martyred in His cause."
 
-Sure, Moe, if it weren't for the people needing their cult leader, you would have jumped right in, over and over, rather than sending others to their death.
+Sure, Moe, if it weren't for the people needing their cult leader, you would have jumped right into the fray, over and over, rather than sending others to their death. You're so tough!
+
 
 
 

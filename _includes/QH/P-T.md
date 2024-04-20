@@ -550,8 +550,19 @@ They're not allowed to have sex with married women **except** if these **married
 
 A man who commits adultery is really only doing the will of Allah, and has no choice in it.
 
+## Who forgives sins?
 
+### Only Allah forgives sins
 
+Surah 3:135
+
+> They are those who, upon committing an evil deed or wronging themselves, remember Allah and seek forgiveness for their sins—and who forgives sins except Allah?
+
+### But Muhammad also forgives sins 
+
+Surah 46:31
+
+> Our people, respond to the one who calls you to God. Believe in Him: He will forgive you your sins and protect you from a painful torment.’
 
 
 
