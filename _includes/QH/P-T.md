@@ -329,8 +329,33 @@ See [The Quran is alive and will intercede on judgment day](#quran-intercession)
 > The Prophet said, "Whoever guarantees me what is between his legs and what is between his jaws, I guarantee him Paradise."
 
 
+## The black stone will intercede 
 
+[Jami` at-Tirmidhi 961](https://sunnah.com/tirmidhi:961)
 
+> The Messenger of Allah said about the Black Stone: "By Allah! Allah will raise it on the Day of Resurrection with two eyes by which it sees and a tongue that it speaks with, testifying to whoever touched it in truth."
+
+So Allah does not know who have and have not touched it? 
+
+The fact that "the black stone" is broken into 8 pieces held together by glue is also a big problem since there really is no black stone. Are the 8 pieces going to join together? Or are they going to each get a set of eyes and mouth?
+
+## Muhammad will intercede for those dying in Medina
+
+[Jami` at-Tirmidhi 3917](https://sunnah.com/tirmidhi:3917)
+
+> the Prophet said: "Whoever is able to die in Al-Madinah, then let him die there, for I will intercede for those who die 
+
+## Invading India or being Christian ensures salvation
+
+[Sunan an-Nasa'i 3175](https://sunnah.com/nasai:3175)
+
+> The Messenger of Allah said: 'There are two groups of my Ummah whom Allah will free from the Fire: The group that invades India, and the group that will be with 'Isa bin Maryam, peace be upon him.'"
+
+## Memorizing 99 names ensures salvation 
+
+[Sahih al-Bukhari 7392](https://sunnah.com/bukhari:7392)
+
+> Allah's Messenger said, "Allah has ninety-nine Names, one-hundred less one; and he who memorized them all by heart will enter Paradise." 
 
 
 
@@ -440,6 +465,13 @@ Surah 2:29
 
 > Allah has laid the earth out as a carpet for you,
 
+## The sky can fall down
+
+Surah 23:65
+
+> He keeps the heavens from falling down on the earth without His permission
+
+
 ## Sperm comes from between the backbone and the ribs {#backbone-sperm}
 
 Surah 86:6-7
@@ -451,6 +483,14 @@ Surah 86:6-7
 [Quran 18:86](https://quran.com/18/86?translations=17)
 
 > Until, when he reached the setting of the sun, he found it setting in a muddy spring, and he found a people at it. We said, "O Thulqarnayn, either you will torment them or you will take to yourself towards them a fair way."
+
+## The sun might rise from the west
+
+[Sahih al-Bukhari 7424](https://sunnah.com/bukhari:7424)
+
+> the Prophet said, "O Abu Dharr! Do you know where this (sun) goes?" I said, "Allah and His Apostle know best." He said, "It goes and asks permission to prostrate, and it is allowed, and (one day) it, as if being ordered to return whence it came, then it will rise from the west."
+
+
 
 ## What determines if a child looks like its mother or father? {#whom-children-resemble}
 

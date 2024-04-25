@@ -368,3 +368,9 @@ In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#
 [Riyad as-Salihin 1675](https://sunnah.com/riyadussalihin:1675)
 
 > The Messenger of Allah said, "There is no infection and no evil omen; but if there is anything (that may be a source of trouble) then it could be a house, a horse, and a woman."
+
+## Women are devils 
+
+[Mishkat al-Masabih 3105](https://sunnah.com/mishkat:3105)
+
+> God’s Messenger [said], “A woman advances in the form of a devil and retires in the form of a devil.

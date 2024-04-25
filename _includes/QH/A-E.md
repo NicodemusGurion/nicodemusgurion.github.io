@@ -12,6 +12,44 @@
 
 # Allah
 
+## Allah is not a father
+
+Surah 112:4; 18:4; 19:35, 88-93
+
+> He neither begets nor is born,
+
+> It warns those people who assert, ‘God has offspring.’
+
+> it would not befit God to have a child. He is far above that: when He decrees something, He says only, ‘Be,’ and it is.
+
+> The disbelievers say, ‘The Lord of Mercy has offspring.’ How terrible is this thing you assert: it almost causes the heavens to be torn apart, the earth to split asunder, the mountains to crumble to pieces,that they attribute offspring to the Lord of Mercy. It does not befit the Lord of Mercy [to have offspring]: there is no one in the heavens or earth who will not come to the Lord of Mercy as a servant-
+
+## Allah has no spouse
+
+Surah 6:101
+
+> the Creator of the heavens and earth! How could He have children when He has no spouse
+
+Muslims believe that the omnipotent one would need to have literal sex with a literal spouse in order to produce offspring. Laughable.
+
+At the same time Surah 39:4 says:
+
+> God could have chosen any of His creation He willed for offspring
+
+So on the one hand Allah could just "choose" a creation as his offspring, but on the other hand he would need a spouse to cproduce offspring. Neither of those are correct, [and they contradict.](#contradictions)
+
+## Allah is not the only creator
+
+Surah 23:14
+
+> So Blessed is Allah, the Best of Creators.
+
+Surah 37:125
+
+> Do you call upon ˹the idol of˺ Ba’l and abandon the Best of Creators—
+
+Allah is only one creator of many. Apparently Ba'l is a competing creator. The other creators are also good, but Allah thinks that he is the best of them.
+
 ## Allah is a narcissist 
 
 [Sahih al-Bukhari 4634](https://sunnah.com/bukhari:4634)
@@ -101,6 +139,14 @@ Yahweh in the Bible swear by himself, because there is no one higher. But Allah 
 
 Apparently there are things that surprise Allah. How could someone supposedly all-knowing wonder about anything?
 
+## Allah can not count
+
+Surah 6:143
+
+> ˹Allah has created˺ four pairs: a pair of sheep and a pair of goats
+
+One pair of sheep and one pair of goats equals four pairs?
+
 ## Allah is limited to one location
 
 Surah 20:5
@@ -125,6 +171,51 @@ Allah doesn't know how time zones work. If he comes down every night at  3am, an
 
 This means Allah has physical hands the size of human hands with which he can shake hands with humans. How embarrassing for Muhammad himself that someone else gets to shake hands with Allah before him.
 
+## How many hands does Allah have?
+
+Allah seems to have at least three hands, one left hand and two right hands.
+
+### Allah has a right and left hand
+
+[Sahih Muslim 2788 a](https://sunnah.com/muslim:2788a)
+
+> Allah, the Exalted and Glorious, would fold the Heavens on the Day of Judgment and then He would place them on *His right hand* and say: I am the Lord; where are the haughty and where are the proud (today)? He would fold the' earth (placing it) on *the left hand* and say: I am the Lord; where are the haughty and where are the proud (today)?
+
+### Allah also has two right hands
+
+[Sunan an-Nasa'i 5379](https://sunnah.com/nasai:5379)
+
+> The Prophet said: "Those who are just and fair will be with Allah, Most High, on thrones of light, at the right hand of the Most Merciful, those who are just in their rulings and in their dealings with their families and those of whom they are in charge." Muhammad said in his Hadith: "And both of His hands are right hands."
+
+## Allah has a face
+
+Surah 55:27
+
+> all that remains is the Face of your Lord
+
+## Allah has eyes
+
+Surah 20:39
+
+> ...you should be reared under My watchful eye
+
+[Sahih Muslim 2933 a](https://sunnah.com/muslim:2933a)
+
+> your Lord is not one-eyed
+
+
+## Allah has a shin
+
+[Sahih al-Bukhari 4919](https://sunnah.com/bukhari:4919)
+
+> Our Lord Allah will lay bare His Shin
+
+
+## Allah has a foot
+
+[Sahih al-Bukhari 4848](https://sunnah.com/bukhari:4848)
+
+> Allah puts His Foot over [hellfire]
 
 ## Allah was grabbed by the balls
 
@@ -142,6 +233,23 @@ Surah 2:254
 > Donate from what We have provided for you before the arrival of a Day when there will be no bargaining, friendship, or intercession. 
 
 Give him your money before it's too late!
+
+## Not everyone will bow before Allah
+
+In the Bible, Philippians 2:10-11 it says:
+
+> at the name of Jesus **every knee should bow**, in heaven and on earth and under the earth, and every tongue confess that Jesus Christ is Lord, to the glory of God the Father.
+
+However not everyone will be able to bow before Allah, showing that he is not the same god as the god of the Bible, and also is not worthy.
+
+Surah 68:42
+
+> On the Day when matters become dire, they will be invited to prostrate themselves but will be prevented from doing so
+
+[Sahih al-Bukhari 4919](https://sunnah.com/bukhari:4919)
+
+> Such people will try to prostrate (on the Day of Judgment) but their back swill be as stiff as if it is one bone
+
 
 ## Allah is the servant of Muhammad {#allah-serves-muhammad}
 
@@ -217,7 +325,17 @@ Why would the creator of the universe be concerned with how someone moves their 
 
 > "Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds."
 
+## Kill all dogs 
 
+[Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
+
+> the Messenger of Allah commanded that all dogs be killed, even small dogs.
+
+## Kill all lizards
+
+[Sunan Ibn Majah 3231](https://sunnah.com/ibnmajah:3231)
+
+> the Prophet of Allah told us that when Ibrahim was thrown into the fire, there was no beast on earth that did not try to put it out, apart from the house lizard that blew on it. So the Messenger of Allah commanded that they should be killed.”
 
 
 
@@ -316,6 +434,10 @@ Surah 4:82
 
 If the Quran is from Allah, there should be no contradictions.
 
+### Allah both could and could not have offspring
+
+Surah 6:101 says Allah could not have offspring unless he had a spouse while Surah 39:4 says Allah could just choose any creation as his offspring. 
+
 ### Who forgives sins?
 
 Surah 3:135
@@ -362,9 +484,19 @@ Surah 2:47
 
 Jews are favoured by Allah, but Islam has as a main goal to kill all Jews.
 
+## Wine is from Satan but served in paradise
 
+Surah 5:90
 
+> O you who believe! **Wine**, gambling, altars and divining arrows **are filth, made up by Satan**. Therefore, refrain from it, so that you may be successful.
 
+Surah 83:22-26
+
+> Surely the virtuous will be in bliss, ˹seated˺ on ˹canopied˺ couches, gazing around. You will recognize on their faces the glow of delight. **They will be given a drink of sealed, pure wine, whose last sip will smell like musk.** So let whoever aspires to this strive ˹diligently˺.
+
+Why does Allah in Paradise serve a drink that is "filth made up by Satan"?
+
+See also Surah 37:43-46; 47:15
 
 
 

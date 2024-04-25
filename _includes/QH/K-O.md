@@ -6,6 +6,13 @@
 
 > The Messenger of Allah said, "When you swear an oath and consider something else to be better than it, make expiation for your oath and do the thing that is better."
 
+Islam is based on lies and dishonesty.
+
+
+
+
+
+
 # Minutiae 
 
 Islam really obsesses about completely ridiculous everyday minutiae, as if God would care. Controlling your everyday behavior is a big red flag for a manipulative cult. Here are some of the most ridiculous examples.
@@ -49,6 +56,17 @@ See also:
 
 > I heard the Messenger of Allah saying, "Every painter will go to Hell, and for every portrait he has made, there will be appointed one who will chastise him in the Hell."
 
+## Don't throw pebbles
+
+[Sunan Ibn Majah 3226](https://sunnah.com/ibnmajah:3226)
+
+> The Prophet forbade throwing small pebbles 
+
+## How to do your toilet
+
+[Mishkat al-Masabih 336](https://sunnah.com/mishkat:336)
+
+> God’s messenger forbade us to face the qibla when easing ourselves or passing water, or to wipe ourselves with the right hand, or to wipe ourselves with less than three stones, or to wipe ourselves with dung or bone.
 
 
 
@@ -59,9 +77,10 @@ See also:
 
 
 
-# Mohammad
 
-Things that Mohammad did.
+# Muhammad
+
+Things that Muhammad did.
 
 ## Muhammad's appearance
 
@@ -118,6 +137,19 @@ See also:
 - [Ash-Shama'il Al-Muhammadiyah 51](https://sunnah.com/shamail:51), [52](https://sunnah.com/shamail:52), [53](https://sunnah.com/shamail:53), [54](https://sunnah.com/shamail:54)
 - [Jami` at-Tirmidhi 2048](https://sunnah.com/tirmidhi:2048)
 
+### Muhammad had a tooth knocked out
+
+> The face of the Prophet [was] wounded and one of his front teeth [wa]s broken
+
+### Muhammad was a transvestite
+
+[Sahih al-Bukhari 2581](https://sunnah.com/bukhari:2581) tells a story about how people only came with gifts and requesting revelations of Muhammad on the days he was staying in Alisha's house. They did this because they knew Aisha was his favorite wife and perhaps he was in a good mood while he was sexually assaulting his child bride. In any case his other wives complained that Aisha was favoured and wanted people to come with gifts when Muhammad was with them too. But Muhammad explains the reason why people only come to him in Aishas house:
+
+> the revelation does not come to me while I am in the garment of another woman except Aisha.
+
+Allah will not give Muhammad any revelations unless he is cross dressing in Aisha's clothes.
+
+Note that Sunnah.com often adds to and changes translations that are too embarrassing, so they have changed the English translation here to read "beds" rather than "woman's garment". But the Arabic is "لاَ تُؤْذِينِي فِي عَائِشَةَ، فَإِنَّ الْوَحْىَ لَمْ يَأْتِنِي، وَأَنَا فِي ثَوْبِ امْرَأَةٍ إِلاَّ عَائِشَةَ ‏" where the words " ثَوْبِ امْرَأَةٍ" means "women's dress", not "bed". But this kind of deception is to be expected because without lies Islam dies.
 
 
 
@@ -194,11 +226,12 @@ I guess Abdullah Ibn Abbas had his suspicions, since he told both stories of how
 
 Also [Ash-Shama'il Al-Muhammadiyah 3](https://sunnah.com/shamail:3) says Muhammad liked to dress in red, so there's that.
 
-### Muhammad hated dogs
+### Muhammad killed puppies
 
 [Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
 
 > the Messenger of Allah commanded that all dogs be killed, even small dogs.
+
 
 ### Muhammad was a tough guy
 
@@ -213,7 +246,13 @@ Sure, Moe, if it weren't for the people needing their cult leader, you would hav
 
 
 
+## Muhammad used to be a pagan
 
+### Muhammad sacrificed to pagan gods
+
+> Allah's Messenger said that he met Zaid bin Amr Nufail at a place near Baldah and this had happened before Allah's Messenger received the Divine Inspiration. Allah's Messenger presented a dish of meat to Zaid bin Amr, but Zaid refused to eat of it and then said, "I do not eat of what you slaughter on your stonealtars nor do I eat except that on which Allah's Name has been mentioned on slaughtering."
+
+[Zaid ibn Amr Nufayl (died 605) was a monotheist who lived in Mecca shortly before Islam.](https://en.m.wikipedia.org/wiki/Zayd_ibn_Amr)  Muhammad had just come back from sacrificing an animal to the pagan idols, and offered some of the meat to Zaid. Zaid refused, saying he would not eat anything sacrificed to false gods.
 
 
 
@@ -509,6 +548,11 @@ Also:
 
 > Narrated Abu Huraira: The Prophet once offered the prayer and said, "Satan came in front of me and tried to interrupt my prayer, but Allah gave me an upper hand on him and I choked him. No doubt, I thought of tying him to one of the pillars of the mosque till you get up in the morning and see him. Then I remembered the statement of Prophet Solomon, 'My Lord ! Bestow on me a kingdom such as shall not belong to any other after me.' Then Allah made him (Satan) return with his head down (humiliated)."
 
+### Muhammad was commanded by Satan
+
+> Allah's Messenger said: There is none amongst you with whom is not an attache from amongst the jinn (devil). They (the Companions) said: Allah's Messenger, with you too? Thereupon he said: Yes, but Allah helps me against him and so I am safe from his hand and **he does not command me but for good.**
+
+Even if Satan only commands Muhammad for good, it still means Muhammad is commanded by Satan.
 
 
 
@@ -733,6 +777,12 @@ See also:
 ## Muhammad and violence {#muhammad-violence}
 
 See also [Jihad](#jihad), and [Violence](#violence)
+
+### Muhammad had people assassinated 
+
+[Sahih al-Bukhari 3023](https://sunnah.com/bukhari:3023)
+
+> Allah's Messenger sent a group of the Ansar to Abu Rafi`. `Abdullah bin Atik entered his house at night and killed him while he was sleeping.
 
 ### Muhammad mutilated a woman {#muhammad-mutilated-woman}
 

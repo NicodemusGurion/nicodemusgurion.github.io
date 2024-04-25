@@ -98,7 +98,11 @@ See also:
 
 If he was a prophet then let's hope this prophecy comes true at least.
 
+## Kissing the stone is idolatry
 
+> Umar came near the Black Stone and kissed it and said "No doubt, I know that you are a stone and can neither benefit anyone nor harm anyone. Had I not seen Allah's Messenger kissing you I would not have kissed you."
+
+Even Umar recognized that kissing the black stone was a pointless act of idolatry, but he only did so because Muhammad did so.
 
 
 
@@ -117,9 +121,13 @@ Jesus Christ is called "The King of Kibgs".
 
 > The Prophet said, "The most disgraceful man near Allah is a man who calls himself (or likes others to call him) Malikul-Amlak (i.e., king of kings)."
 
+## Will judge mankind
 
+[Sahih al-Bukhari 3448](https://sunnah.com/bukhari:3448)
 
+> Allah's Messenger said, "By Him in Whose Hands my soul is, surely Jesus, the son of Mary will soon descend amongst you and will judge mankind justly as a Just Ruler.
 
+Last I checked, only God can judge humanity.
 
 
 
