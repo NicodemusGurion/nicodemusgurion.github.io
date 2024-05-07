@@ -790,6 +790,18 @@ The Christians were known far and wide as **those who called upon this name**, t
 
 See [Calling on the name of...](#calling-on-the-name-of)
 
+## Acts 10: 9-28
+
+> 13 And there came a voice to him: “Rise, Peter; kill and eat.” 14 But Peter said, “**By no means, Lord**; for I have never eaten anything that is common or unclean.”
+
+> 19-20 And while Peter was pondering the vision, **the Spirit said** to him, “Behold, three men are looking for you. 20 Rise and go down and accompany them without hesitation, for **I have sent them**.”
+
+> 28 And he said to them, “You yourselves know how unlawful it is for a Jew to associate with or to visit anyone of another nation, but **God has shown me** that I should not call any person common or unclean.
+
+WhenmPeter got the vision of the unclean animals, a voice speaks to him. Verse 13 shows Peter calls the one who speaks "Lord". Verse 19-20 says this Lord is the Holy Spirit, and the Holy Spirit says that "I have sent them", showing that he is a person who speaks and refers to himself in the first person. Verse 28 summarizes that the person who showed him these things and spoke to him is God. 
+
+Hence, the Holy Spirit is Lord and God, and is a person with a self-identity and will. The Holy Spirit is the third person of God.
+
 ## Acts 13: 2 
 
 > While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.”

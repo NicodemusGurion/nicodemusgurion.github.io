@@ -310,6 +310,13 @@ Apparently Allah is even concerned about Muhammad not having to suffer the awkwa
 
 Why would the creator of the universe be concerned with how someone moves their tongue? This is obviously Muhammad being annoyed and using Allah as an excuse to have people stop smacking their tongues while eating.
 
+## Don't talk nonsense with Muhammad 
+
+# Surah 2: 104
+
+> Say not (to the Messenger) words of ambiguous import, but words of respect
+
+Allah is oddly concerned with people not annoying Muhammad with unnecessary speech.
 
 
 

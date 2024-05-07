@@ -5,7 +5,7 @@ thumb: https://i.ibb.co/X5DhS7G/9223-F86-F-0-DFE-497-E-AD02-A0239-AF01-CAB.jpg
 image: https://i.ibb.co/nQKGYSk/BFBCFC6-A-B758-4-B54-BEED-E40-DBE2-B0-E12.jpg
 ---
 
-Al-Bararah, or "The Cow" is the second Surah of the Quran. It's the longest surah with 286 verses. It's hard to pinpoint exactly what it's about because the author jumps back and forth between topics like a rabid squirrel. A lot of of it seems to be self-glazing where Allah emphasizes just how freaking awesome he is and how much of a stupid meanie-head and loser everyone is who doesn't like him. Between that are random out-of-context stories and laws on random topics mixed in. All in all this surah reads like the ramblings of a schizophrenic patient in a mental institute. So many things are out of context that it is pretty much impossible to understand what is going on unless you have this previous knowledge. I will try to keep up and count how many times he haphazardly changes topic and references off topic subjects.
+Al-Bararah, or "The Cow" is the second Surah of the Quran. It's the longest surah with 286 verses. It's hard to pinpoint exactly what it's about because the author jumps back and forth between topics like a rabid squirrel. A lot of of it seems to be self-glazing where Allah emphasizes just how freaking awesome he is and how much of a stupid meanie-head and loser everyone is who doesn't like him. Between that are random out-of-context stories and laws on random topics mixed in. All in all this surah reads like the ramblings of a schizophrenic patient in a mental institute. So many things are out of context that it is pretty much impossible to understand what is going on unless you have this previous knowledge. All in all it haphazardly changes topic at least 68 times.
 
 This chapter is massive with 286 verses. So this article will be long. I'll try to cut out as much text as possible to keep it shorter.
 
@@ -327,6 +327,9 @@ Just a note on translation itself: The Arabic says "ayat" meaning verse, but it 
 
 # Surah 2: 102-103
 
+**New topic**: Fables about Solomon
+
+**No context** False apocryphal stories and mythology from pagan religions.
 
 > They followed what the evil ones gave out (falsely) against the power of Solomon: the blasphemers Were, not Solomon, but the evil ones, teaching men Magic, and such things as came down at babylon to the angels Harut and Marut.…
 
@@ -336,17 +339,23 @@ The idea that Solomon was doing magic may come from sources such as [the Testame
 
 These show that Muhammad just copy-pasted random lore and fables floating around at the time.
 
-# Surah 2: 102-103
+# Surah 2: 104
+
+**New topic**: Allah is the servant of Muhammad.
 
 > Say not (to the Messenger) words of ambiguous import, but words of respect
 
+This verse is apparently Allah giving rules specifically to benefit Muhammad, to not annoy him. [It's one of many verses that shows that "Allah" is just a puppet Muhammad used to make his own life more pleasant.](/quran-and-hadiths#allah-serves-muhammad)
+
 The word translated "words of ambiguous import" in Arabic is Raina (رَٰعِنَا) and the word translated "words of respect" is Unzurna (ٱنظُرْنَا). "Do not say Raina but say Unzurna." 
 
-After consulting [this Quranic dictionary](https://corpus.quran.com/wordbyword.jsp) it seems Raina means "Observe" and Unzurna means "Look". So, "don't say 'observe' but say 'look'…"
+After consulting [this Quranic dictionary](https://corpus.quran.com/wordbyword.jsp) it seems Raina means "Observe" and Unzurna means "Look". Other translations render them "herd us" and "tend to us".
 
-It seems the translation is taking liberties because the Arabic makes no sense whatsoever. So much for a clear and understandable message from God…
+It seems even scholars are unclear on what this means. So much for the Quran being clear and understandable.
 
 # Surah 2: 105
+
+**New topic**: Bashing Christians and Jews.
 
 > Neither those who disbelieve from the People of the Scripture [i.e., the Jews and Christians] nor the polytheists wish that any good should be sent down to you from your Lord.
 
@@ -354,57 +363,78 @@ Allah is saying "they don't want you to have good stuff". This is manipulation, 
 
 # Surah 2: 106
 
+**New topic**: The Quran is not perfectly preserved.
+
 > We do not abrogate a verse or cause it to be forgotten except that We bring forth [one] better than it or similar to it.
 
 Allah admits that he *does* change his word, and **cause it to be forgotten**. Whether he "**brings forth one better**" makes no difference because it totally destroys the idea that "the Quran is perfectly preserved". History also proves that it is not.
 
 # Surah 2: 107-109
 
-> you have not besides Allāh any protector or any helper?
+**New topic**: Manipulation.
+
 > the People of the Book wish they could turn you ˹believers˺ back to disbelief because of their envy
 
 Saying that you have no one else, and that everyone else on the outside are evil and only oppose you because of bad motives ("envy") are common manipulation tactics used by cults and narcissists.
 
 # Surah 2:111-112
 
+**New topic**: Salvation.
+
 > The Jews and Christians each claim that none will enter Paradise except those of their own faith...But no! Whoever submits themselves to Allah and does good will have their reward with their Lord. ...
 
-Christianity teaches that salvation is through faith alone in Christ. "Not through works lest anyone should boast" (Ephesians 2:8-10) If we could pay for our salvation with our good deeds, then it means that we could somehow put God in our debt. As if we could bribe the Judge of all the Earth. As if we could by our own works and deeds say "See, God, I am so good that you must accept me into heaven". That very idea is laughable, and a God who would accept our works as payment for salvation would be an unjust, unfair judge. Salvation by faith not works is a fundamental tenet of Christianity, and in these two verses the Quran directly contradicts the Bible saying that salvation is not by faith but by works. 
+Christianity teaches that salvation is through faith alone in Christ. "Not through works lest anyone should boast" (Ephesians 2:8-10) If we could pay for our salvation with our good deeds, then it means that we could somehow put God in our debt. As if we could bribe the Judge of all the Earth. As if we could by our own works and deeds say "See, God, I am so good that you must accept me into heaven". That very idea is laughable, and a God who would accept our works as payment for salvation would be an unjust, unfair judge. Salvation by faith, not works, is a fundamental tenet of Christianity, and in these two verses the Quran directly contradicts the Bible saying that salvation is not by faith but by works. It's written to lead people away from salvation.
 
 # Surah 2:114
 
 > Who does more wrong than those who prevent Allah’s Name from being mentioned in His places of worship
 
-Funny that the Quran says that the worst wrong is to not mention the name of Allah. However the Quran never tells us what the name of Allah is. Nor does Islam teach us what the name of Allah is. "Allah" is not a name, it just means "God". And none of the "99 names" they list is an actual name. They're all just titles and attributes.
+Funny that the Quran says that the worst wrong is to not mention the name of Allah. However the Quran never tells us what the name of Allah is.  "Allah" is not a name, it just means "God". And none of the "99 names" they list is an actual name. They're all just titles and attributes.
 
 
 # Surah 2:115
 
+**New topic**: Nature of Allah.
+
 > To Allah belong the east and the west, so wherever you turn you are facing ˹towards˺ Allah.
 
- Funny how muslims must turn towards the Kabaa, a man made physical object, in order to pray to Allah. If you could turn any way to face Allah, why turn towards an object? Seems very idolatrous.
+If you could turn any way to face Allah, why do muslims need to turn towards the Kabaa, a man made physical object, in order to pray to Allah. Seems very idolatrous.
 
 # Surah 2:116-117
 
 > They say, “Allah has offspring.” Glory be to Him! In fact, to Him belongs whatever is in the heavens and the earth—all are subject to His Will. ˹He is˺ the Originator of the heavens and the earth! When He decrees a matter, He simply tells it, “Be!” And it is!
 
-Why do muslims complain about the fact that Jesus is the Son of God? These verses says that Allah originates everything, so why would the idea of offspring be so repugnant?
+This and other verses reveal the lack of understanding Muslims have for the sonship of Jesus. The Son of God is not a created person. He is the Word of God. When God says "Be", it is the Word of God, Jesus, that makes it be.
 
-# Surah 2:118
+
+# Surah 2:118-120
+
+**New topic**: Comforting Muhammad 
 
 > Those who have no knowledge say, “If only Allah would speak to us or a sign would come to us!”
 
 Actually God always accompany new revelation with miraculous signs. That's why the Jews and Christians kept asking Muhammad for signs. But Muhammad was unable to produce anything.
 
+> We have surely sent you with the truth
+
+Islam is not based on anything real. There are no signs. No one has ever witnessed Muhammad meet Gabriel or ride his flying donkey. It's all based on circular reasoning. It's true because the Quran is true because Muhammad got it from Allah. And how do we know he got it from Allah? Because he says so in the book. And here he says that Allah told him he's right. And we should trust that because Muhammad said so, and Muhammad speaks for Allah, which we know because Muhammad said Allah said so.
+
+Trust me bro.
+
+
 # Surah 2:121 
 
-> Those We have given the Book follow it as it should be followed. It is they who ˹truly˺ believe in it. As for those who reject it, it is they who are the losers.
+> As for those who reject it, it is they who are the losers.
 
-Funny how this in verse Allah says that those whom he gave the book, that is the Bible, i.e. Jews and Christians, follow it as it should be followed and truly believe in it. Those who reject it, like muslims, are (to borrow the preteen vocabulary of Allah) "losers".
+Allah has the vocabulary of a preteen boy. 
 
 # Surah 2:124-128
 
-> And ˹remember˺ when We made the Sacred House a centre and a sanctuary for the people ˹saying˺, “˹You may˺ take the standing-place of Abraham2 as a site of prayer.” And We entrusted Abraham and Ishmael to purify My House for those who circle it, who meditate in it, and who bow and prostrate themselves ˹in prayer˺...
+**New topic**: Some pseudo-history.
+
+**No context**: The Quran doesn't explain who Abraham and Ishmael are. And this story has no historicity.
+
+> And ˹remember˺ when We made the Sacred House a centre and a sanctuary for the people ˹saying˺, “˹You may˺ take the standing-place of Abraham as a site of prayer.” And We entrusted Abraham and Ishmael to purify My House for those who circle it, who meditate in it, and who bow and prostrate themselves ˹in prayer˺...
 > And ˹remember˺ when Abraham said, “My Lord, make this city ˹of Mecca˺ secure and provide fruits to its people..
 > And ˹remember˺ when Abraham raised the foundation of the House with Ishmael..
 
@@ -418,11 +448,15 @@ This explains the reason for the nonsensical story about Abraham and Ishmael. Mu
 
 # Surah 2:133 
 
+**No context**: The Quran doesn't explain who Jacob is.
+
 > Or did you witness when death came to Jacob? He asked his children, “Who will you worship after my passing?” They replied, “We will ˹continue to˺ worship your God, the God of your forefathers—Abraham, Ishmael, and Isaac—the One God. And to Him we ˹all˺ submit.”
 
 This verse is interesting because it talks about Jacob, a.k.a. Israel and his children, the tribes and prople of Israel, and that they worship the same God as Abraham and Isaac (and I guess Ishmael). Yet the Quran also goes on tirades about his Israel are bad and worships wrong.
 
 # Surah 2:135-136
+
+**New topic**: Bashing Jews and Christians again.
 
 >  The Jews and Christians each say, “Follow our faith to be ˹rightly˺ guided.” Say, ˹O Prophet,˺ “No! We follow the faith of Abraham, the upright—who was not a polytheist.”
 > We believe in Allah and what has been revealed to us; and what was revealed to Abraham, Ishmael, Isaac, Jacob, and his descendants; and what was given to Moses, Jesus, and other prophets from their Lord. 
@@ -433,7 +467,7 @@ This insinuates that Jews and Christians are polytheist when the main distinguis
 
 > Do you claim that Abraham, Ishmael, Isaac, Jacob, and his descendants were all Jews or Christians?
 
-We claim that these all worshipped Yahweh, as we do, and muslims do not. Muslims don't even know the name of Allah.
+No, claiming that would be ahistorical nonsense like what Muhammad is doing. We claim that these all worshipped **Yahweh**, as we also do, but that muslims do not worship Yahweh. Muslims don't even know the name of their god.
 
 > Who does more wrong than those who hide the testimony they received from Allah?
 
@@ -441,7 +475,9 @@ Muhammad makes the claim that there is some hidden testimony. Muslims often say 
 
 # Surah 2:142-144, 149-150
 
-> The foolish among the people will ask, “Why did they turn away from the direction of prayer they used to face?”1 Say, ˹O Prophet,˺ “The east and west belong ˹only˺ to Allah. He guides whoever He wills to the Straight Path.”
+**New topic**: Direction of prayer
+
+> The foolish among the people will ask, “Why did they turn away from the direction of prayer they used to face?” Say, ˹O Prophet,˺ “The east and west belong ˹only˺ to Allah. He guides whoever He wills to the Straight Path.”
 
 The footnote explains "For about sixteen months after daily prayers became obligatory, Muslims used to face towards Jerusalem before the order came to face a new qiblah (direction of prayer)—the Sacred Mosque in Mecca."
 
@@ -471,11 +507,15 @@ Nope. Facing a certain direction only makes sense to idolaters.
 
 # Surah 2:146
 
-> Those We have given the Scripture recognize this ˹Prophet˺ as they recognize their own children.
+**New topic**: Conspiracy theory about Judeochristian theology.
 
-We christians recognize Muhammad easily, because Jesus warned us against false prophets, so we knew as soon as we saw him that he is a false prophet.
+> Those We have given the Scripture recognize this ˹Prophet˺ as they recognize their own children. Yet a group of them hides the truth knowingly.
+
+We christians recognize Muhammad easily, because Jesus warned us against false prophets, so we knew as soon as we saw him that he is a false prophet. But the Quran says that we reject him because we "hide the truth".
 
 # Surah 2:154
+
+**New topic**: How Allah abuses his followers.
 
 > Never say that those martyred in the cause of Allah are dead—in fact, they are alive!
 
@@ -489,11 +529,15 @@ In the Bible Jesus says that his followers may be persecuted by people as a resu
 
 # Surah 2:158
 
+**New topic**: Instructions about pilgrimage.
+
 > Safa and Marwa are among the rites of God, so for those who make major or minor pilgrimage to the House it is no offence to circulate between the two.
 
 For no apparent reason Allah suddenly  talks about a pilgrimage ritual. The amount of incoherent changes of topics and irrelevant interjections is amazing.
 
 # Surah 2:159-160
+
+**New topic**: More conspiracy theories about Jews and Christians.
 
 > As for those who hide the proofs and guidance We send down...
 
@@ -501,41 +545,43 @@ Allah seems upset about these hidden messages that never existed, but he also se
 
 # Surah 2:161-167
 
-Just rehashing some self glazing and poorly veiled threats to worship Allah, or else...
+**New topic**: Some self glazing and poorly veiled threats to worship Allah, or else...
 
 # Surah 2:168-169
 
-> [Sayan] always commands you to do what is evil and indecent
+**New topic**: The nature of Satan.
+
+> [Satan] always commands you to do what is evil and indecent
 
 Funny, because the commands of Allah are more often than not both evil and indecent. Such as prescribing killing, raping, child sexual abuse, domestic abuse, torture, idolatry, etc.
 
-# Surah 2:170
+# Surah 2:170-171
 
-> But when it is said to them, ‘Follow the message that God has sent down,’ they answer, ‘We follow the ways of our fathers.’ What! Even though their fathers understood nothing and were not guided?
-
-The hardheadedness described here is ironic because this is how Muslims react when it is pointed out that their religion is the traditions of their fathers that goes against what God has sent down.
-
-# Surah 2:171
-
-> disbelievers ... are deaf, dumb, and blind, and they understand nothing.
-
-More trash talking of non-Muslims.
+**New topic**: More trash talking of non-Muslims.
 
 # Surah 2:172-173
 
+**New topic**: Dietary restrictions.
+
 > eat the good things We have provided... He has only forbidden you carrion, blood, pig’s meat, and animals over which any name other than God’s has been invoked. 
 
-Some dietary laws. Personally I don't reject bacon for religious reasons, I reject religioubs for bacon reasons.
+Some dietary laws. Personally I don't reject bacon for religious reasons, I reject religiouns for bacon reasons.
 
 # Surah 2:174-176
 
+**New topic**: More conspiracy theories.
+
+**No context**: Who is it talking about?
+
 > As for those who conceal the Scripture that God sent down and sell it for a small price
 
-Again with the accusation that someone is concealing scripture. If Allah is so smart, perhaps he can show us what scripture are concealed? 
+Again "Allah" accuses people of concealing scripture. But he is unable to tell us what was concealed or changed. If Allah is so smart, can't he show us what these hidden or corrupted scriptures should actually read? 
 
 Since Muhammad was teaching things contrary to the Bible, rather than admitting that he was ignorant and stupid, he instead insists that there must be something wrong with the Bible or that the Christians are hiding something. 
 
 # Surah 2:177
+
+**New topic**: Dos and donts.
 
 > The truly good are those who...
 
@@ -551,15 +597,17 @@ One good thing is to liberate those in bondage. Ironic since [Muhammad owned sla
 
 # Surah 2:178-179
 
-A quick change of topic to legal matters. Particularely murder cases. This is interesting because the commentary on this verse says "No one else should be executed in place of the killer." This idea that no one can pay the price or take the punishment for your crimes or sins contradicts the teaching of the ransom in the Bible. This agrees with Surah 2:48 but contradicts And it also contradicts Sahih Muslim 2767 which says that ["When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire."](/quran-and-hadiths#ransomed-from-hell) So Islam is in contradiction on this topic.
+**New topic** Laws about murder
+
+The commentary on this verse says "No one else should be executed in place of the killer." This idea that no one can pay the price or take the punishment for your crimes or sins contradicts the teaching of the ransom in the Bible. This agrees with Surah 2:48 but contradicts And it also contradicts Sahih Muslim 2767 which says that ["When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire."](/quran-and-hadiths#ransomed-from-hell) So Islam is in contradiction on this topic.
 
 # Surah 2:180-182
 
-Laws about wills and inheritance.
+**New topic**: Laws about wills and inheritance.
 
 # Surah 2:183-185
 
-Laws about fasting. 
+**New topic**: Laws about fasting. 
 
 > Fasting is prescribed for you—as it was for those before you
 
@@ -576,15 +624,17 @@ By forcing people to do something that is not easy but hard.
 
 # Surah 2:186
 
-Changing topics again to a half-baked promise that if someone doubts Allah, they could try to obey him and "perhaps they will be guided". Sounds like unless it's your lucky day, Allah just can't be arsed to give a hoot.
+**New topic**: A half-baked promise that if someone doubts Allah, they could try to obey him and "perhaps they will be guided". 
+
+Sounds like unless it's your lucky day, Allah just can't be arsed to give a hoot.
 
 # Surah 2:187
 
-Back to the topic of Ramadan.
+**New topic**: Ramadan.
 
 > It has been made permissible for you to be intimate with your wives during the nights preceding the fast
 
-Answering the question everyone was wondering, "can we have sex during ramadan?" Micromanaging people's sex lives. Classy Allah.
+Answering the question everyone was wondering, "can we have sex during ramadan?" Micromanaging people's sex lives? Classic Allah.
 
 > ˹You may˺ eat and drink until you see the light of dawn breaking the darkness of night, then complete the fast until nightfall.
 
@@ -598,11 +648,11 @@ The fact that this sentence had to be included in the Quran tells me that so man
 
 # Surah 2:188
 
-Change of topic again. This time about not embezzling.
+**New topic** Embezzling.
 
 # Surah 2:189
 
-Change of topic again. 
+**New topic**: The science of the moon and how to use doors.
 
 > They ask you ˹O Prophet˺ about the phases of the moon. Say, “They are a means for people to determine time and pilgrimage.” Righteousness is not in entering your houses from the back doors. Rather, righteousness is to be mindful ˹of Allah˺. So enter your homes through their ˹proper˺ doors, and be mindful of Allah so you may be successful.
 
@@ -612,13 +662,13 @@ I'm not making this up.
 
 # Surah 2:190-194
 
-Change of topic again. 
+**New topic**: Kill the unbelievers. 
 
 > Fight in the cause of Allah against those who wage war against you, but do not exceed the limits...
 > Kill them wherever you come upon them and drive them out of the places from which they have driven you out. For persecution is far worse than killing. And do not fight them at the Sacred Mosque unless they attack you there. If they do so, then fight them—that is the reward of the disbelievers...
 > Fight against them until there is no more persecution, and devotion will be to Allah. If they stop, let there be no hostility except against the aggressors.
 
-While this Surah seems to have no context at all but is just random incoherent ramblings, the context to this seems to be Ramadan, since it's talking about the sacred mosque. So while it sounds nasty, it could be argued that it's just fighting in self defense in case someone attacks Mecca.
+Fight, kill, death. The essence of Islam.
 
 > ˹There will be retaliation in˺ a sacred month for ˹an offence in˺ a sacred month, and all violations will bring about retaliation. So, if anyone attacks you, retaliate in the same manner.
 
@@ -626,13 +676,15 @@ This verse calls for retaliation. Christianity encourages forgiveness. Islam enc
 
 # Surah 2:195-203
 
-These are just instructions for pilgrimage. Nothing interesting.
+**New topic** Instructions for pilgrimage. 
 
 # Surah 2:204-209
 
-Criticising hypocrites and commending the faithful.
+**New topic**: Criticising hypocrites and commending the faithful.
 
 # Surah 2:210-211
+
+**New topic**: The Jews again.
 
 > Are they waiting for Allah ˹Himself˺ to come to them in the shade of clouds, along with the angels?
 
@@ -646,7 +698,7 @@ There's a recurring theme that the Jews didn't accept their own scriptures, and 
 
 # Surah 2:214
 
-Change of topic: Entering paradise
+**New topic**: Entering paradise
 
 > Do you think you will be admitted into Paradise without being tested like those before you?
 
@@ -654,11 +706,11 @@ Paradise is something a muslim needs to earn.
 
 # Surah 2:215
 
-Change of topic: Donations and charity.
+**New topic**: Donations and charity.
 
 # Surah 2:216
 
-Change of topic: Fighting
+**New topic**: Fighting for Islam 
 
 > Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know.
 
@@ -676,7 +728,7 @@ It threatens those who do not kill "persecuters" that these will not stop coming
 
 # Surah 2:219-220
 
-Change of topic: Drugs and gambling + Donation + Orphans
+**New topic**: Drugs and gambling + Donation + Orphans
 
 > They ask you ˹O Prophet˺ about intoxicants and gambling. Say, “There is great evil in both, as well as some benefit for people—but the evil outweighs the benefit.”
 
@@ -688,7 +740,7 @@ Muslims use such weird vocabulary. "Partnering with orphans"? Did Muhammad "part
 
 # Surah 2:221
 
-Change of topic: Marriage.
+**New topic**: Marriage.
 
 > Do not marry polytheistic women until they believe; for a believing slave-woman is better than a free polytheist, even though she may look pleasant to you. And do not marry your women to polytheistic men until they believe, for a believing slave-man is better than a free polytheist, even though he may look pleasant to you. 
 
@@ -703,7 +755,7 @@ In islam, [salvation](/quran-and-hadiths#salvation) is basically Allah just forg
 
 # Surah 2:222
 
-Change of topic: Menstruation
+**New topic**: Menstruation
 
 > They ask you ˹O Prophet˺ about menstruation. Say, “Beware of its harm! So keep away, and do not have intercourse with your wives during their monthly cycles until they are purified.
 
@@ -711,7 +763,7 @@ Apparently menstruation is dangerous?
 
 # Surah 2:223 
 
-Change of topic: Sex
+**New topic**: Sex
 
 > Your wives are your fields, so go into your fields whichever way you like
 
@@ -719,7 +771,7 @@ Are muslim women comfortable being referred to as a "field" that their husband c
 
 # Surah 2:224-225
 
-Change of topic: Allah's name
+**New topic**: Allah's name
 
 > Do not use Allah’s Name in your oaths...
 
@@ -727,13 +779,15 @@ It's ironic that there are verses talking about the name of Allah when muslims d
 
 # Surah 2:226
 
+**New topic**: Oaths.
+
 > Those who swear not to have intercourse with their wives must wait for four months. If they change their mind, then Allah is certainly All-Forgiving, Most Merciful.
 
 Allah takes oaths as serious as he does sins, not at all. Make and oath and if you break it, it's no big problem. Allah doesn't care. Because Allah is not trustworthy either.
 
 # Surah 2:227-232
 
-Change of topic: Laws on Divorce.
+**New topic**: Laws on Divorce.
 
 The Christian view of divorce is serious. A Christian can only divorce in cases of adultery. The Old Testament also points out that God hates divirce, but a Jew under the mosaic law could divorce for unspecified "indecency" but could not divorce and remarry. (Deu 24:1-22)
 
@@ -757,7 +811,7 @@ Allah has already made a mockery of marriage. It's all a sham to pretend that th
 
 # Surah 2:233
 
-Change of topic: Laws on weaning children
+**New topic**: Laws on weaning children
 
 > Mothers suckle their children for two whole years, if they wish to complete the term, and clothing and maintenance must be borne by the father in a fair manner. 
 
@@ -765,7 +819,7 @@ Since Muslims do not take marriage seriously there is bound to be a lot of singl
 
 # Surah 2:234-235
 
-Change of topic: Laws on widowhood
+**New topic**: Laws on widowhood
 
 > the widows should wait for four months and ten nights before remarrying
 
@@ -773,19 +827,21 @@ Oddly specific.
 
 # Surah 2:236-237
 
-Change of topic: Laws on divorce, again.
+**New topic**: Laws on divorce, again.
 
 # Surah 2:238-239
 
-Change of topic: Prayer when in danger
+**New topic**: Prayer when in danger
 
 # Surah 2:240-242
 
-Change of topic: Laws on widowhood and divorce, again.
+**New topic**: Laws on widowhood and divorce, again.
 
 # Surah 2:243
 
-Change of topic: Violence, again
+**New topic**: Violence, again
+
+**No context**
 
 > consider those people who abandoned their homeland in fear of death, even though there were thousands of them. God said to them, ‘Die!’ and then brought them back to life again
 
@@ -799,13 +855,15 @@ More incitement to violence.
 
 # Surah 2:245
 
-Change of topic: Donations.
+**New topic**: Donations.
 
 > Who will give God a good loan, which He will increase for him many times over?
 
 Sounds like the prosperity gospel. I guess a Muhammad was short on cash.
 
 # Surah 2:246
+
+**New topic**: Even more pseudo-history.
 
 > consider the leaders of the Children of Israel who came after Moses, when they said to one of their prophets, ‘Set up a king for us and we shall fight in God’s cause.’ He said, ‘But could it be that you would not fight, if it were ordained for you?’ They said, ‘How could we not fight in God’s cause when we and our children have been driven out of our homeland?’
 
@@ -851,6 +909,8 @@ Now the story is not about this mysterious "Talut" anymore, but about David and 
 
 # Surah 2:252
 
+**New topic**: Affirming the prophethood of Muhammad.
+
 > These are the revelations of God which We recite to you [Muhammad] with the truth, and you truly are one of the messengers.
 
 So far it has only been a hot mess of incoherent schizophrenic ramblings and errors. 
@@ -867,11 +927,15 @@ Disagreements and fights between religious factions is Allah's will. He wants pe
 
 # Surah 2:254
 
+**New topic**: Donations again.
+
 > Donate from what We have provided for you before the arrival of a Day when there will be no bargaining,1 friendship,2 or intercession
 
 Allah is broke! Give him your moneys!
 
 # Surah 2:255
+
+**New topic**: The nature of Allah
 
 > His throne extends over the heavens and the earth; it does not weary Him to preserve them both. 
 
@@ -879,23 +943,29 @@ In the Bible, Hebrews 1:2-3;8:1 it is Jesus who is enthroned in heaven and who s
 
 # Surah 2:256
 
+**New topic**: Freedom of religion
+
 > Let there be no compulsion in religion, for the truth stands out clearly from falsehood
 
 One of the verses used to defend Islam. It was written before Muhammad went to Medina, during the time he was outnumbered. But that tone changed once he had an army. Islam always plays meek and nice when outnumbered, but once they gain power the tyranny begins.
 
 # Surah 2:257
 
-Regular warnings and threats.
+**New topic**: Regular warnings and threats.
 
 # Surah 2:258-260
 
-Three apocryphal stories about Abraham arguing withNinrod, an Israelite man whom Allah killed and raised after a hundred years, and another story about Abraham cutting birds to pieces and Allah resurrecting them.
+**New topic**: More pseudo-history
+
+Three apocryphal stories about Abraham arguing with Nimrod, an Israelite man whom Allah killed and raised after a hundred years, and another story about Abraham cutting birds to pieces and Allah resurrecting them.
 
 The Quran is full of weird apocryphal fables and corrupted stories. But someone growing up with them would say that the canonical stories are false.
 
 # Surah 2:261-274
 
-Donations and charity. Allah blesses those who give him money and curses those who don't.
+**New topic**: Donations and charity. 
+
+Allah blesses those who give him money and curses those who don't.
 
 Surah 2:266 is cryptic but commentaries say it means that if someone does good and then turn to doing bad, all his good deeds are cancelled.
 
@@ -903,11 +973,11 @@ Surah 2:271 says "to give to the poor privately is better for you, and will abso
 
 # Surah 2:275-281
 
-Condemning interest and usury.
+**New topic**: Condemning interest and usury.
 
 # Surah 2:282-283
 
-Laws regarding loan contracts.
+**New topic**: Laws regarding loan contracts.
 
 Surah 2:282 contains this gem:
 
@@ -917,11 +987,14 @@ In Islam, women are considered to be half as intelligent and trustworthy as a ma
 
 # Surah 2:284
 
+**New topic**: Forgiveness.
+
 > He forgives whoever He wills, and punishes whoever He wills.
 
 Allah forgives without a legal right to do so (i.e. a ransom). Sins must be punished, or the judge is unjust. To forgive and have mercy, the judge must accept some sort of ransom. This is missing in Islam, which means Allah is an unjust judge who lets people get away with hurting others.
 
 # Surah 2:285
+
 
 > The Messenger ˹firmly˺ believes in what has been revealed to him from his Lord, and so do the believers. They ˹all˺ believe in Allah, His angels, His Books, and His messengers. 
 
