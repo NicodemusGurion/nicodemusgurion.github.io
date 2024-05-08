@@ -115,11 +115,11 @@ Muslims love to claim that they respect Jesus Christ, but their religion is dist
 
 ## King of kings
 
-Jesus Christ is called "The King of Kibgs".
-
 [Riyad as-Salihin 1724](https://sunnah.com/riyadussalihin:1724)
 
 > The Prophet said, "The most disgraceful man near Allah is a man who calls himself (or likes others to call him) Malikul-Amlak (i.e., king of kings)."
+
+Jesus Christ is called "The King of Kings", a title that only belongs to God. So if Muslims respect Jesus they must respect his divine title.
 
 ## Will judge mankind
 
