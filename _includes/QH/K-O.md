@@ -242,17 +242,7 @@ Also [Ash-Shama'il Al-Muhammadiyah 3](https://sunnah.com/shamail:3) says Muhamma
 Sure, Moe, if it weren't for the people needing their cult leader, you would have jumped right into the fray, over and over, rather than sending others to their death. You're so tough!
 
 
-### Muhammad was kissing and cuddling with a man
 
-[Sunan Abu Dawud 3476](https://sunnah.com/abudawud:3476)
-
-Sunnah.com tries to fudge the wording but the Arabic says:
-
-> قَالَتِ اسْتَأْذَنَ أَبِي النَّبِيَّ صلى الله عليه وسلم فَدَخَلَ بَيْنَهُ وَبَيْنَ قَمِيصِهِ فَجَعَلَ يُقَبِّلُ وَيَلْتَزِمُ
-
-Which translates as:
-
-> She said: My father asked permission from the Prophet, … and he came between him and his shirt and began to kiss and cuddle.
 
 
 
@@ -725,7 +715,17 @@ The white clad men starts pronouncing a parable over Muhammad while he is sleepi
 
 But who were the long, naked, North African men who rode Muhammad all night long so that he became sore and exhausted? 
 
+### Muhammad was kissing and cuddling with a man
 
+[Sunan Abu Dawud 3476](https://sunnah.com/abudawud:3476)
+
+Sunnah.com tries to fudge the wording but the Arabic says:
+
+> قَالَتِ اسْتَأْذَنَ أَبِي النَّبِيَّ صلى الله عليه وسلم فَدَخَلَ بَيْنَهُ وَبَيْنَ قَمِيصِهِ فَجَعَلَ يُقَبِّلُ وَيَلْتَزِمُ
+
+Which translates as:
+
+> She said: My father asked permission from the Prophet, … and he came between him and his shirt and began to kiss and cuddle.
 
 
 

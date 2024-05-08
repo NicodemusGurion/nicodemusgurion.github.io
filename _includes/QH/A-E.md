@@ -491,7 +491,7 @@ Surah 2:47
 
 Jews are favoured by Allah, but Islam has as a main goal to kill all Jews.
 
-## Wine is from Satan but served in paradise
+### Wine is from Satan but is served in paradise {#satanic-wine-in-paradise}
 
 Surah 5:90
 
