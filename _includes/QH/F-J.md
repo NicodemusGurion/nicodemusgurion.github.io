@@ -104,6 +104,11 @@ If he was a prophet then let's hope this prophecy comes true at least.
 
 Even Umar recognized that kissing the black stone was a pointless act of idolatry, but he only did so because Muhammad did so.
 
+## Islam means following Muhammad 
+
+Surah 4:65
+
+> But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.
 
 
 
@@ -129,7 +134,15 @@ Jesus Christ is called "The King of Kings", a title that only belongs to God. So
 
 Last I checked, only God can judge humanity.
 
+## Is alive in heaven with Allah
 
+Surah 3:55
+
+> Allah said, “O Jesus! I will take you1 and raise you up to Myself. I will deliver you from those who disbelieve, and elevate your followers above the disbelievers until the Day of Judgment. 
+
+Surah 4:157-158
+
+> Rather, Allah raised him (Jesus) up to Himself. And Allah is Almighty, All-Wise.
 
 
 

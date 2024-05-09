@@ -84,6 +84,20 @@ Surah 2:29
 
 > Narrated Aisha: The things which annul the prayers were mentioned before me. They said, "Prayer is annulled by a dog, a donkey and a woman (if they pass in front of the praying people)."
 
+## Muslims pray to Muhammad 
+
+This is not part of the Quran or Hadiths but it is worth mentioning since this is part of the Tashahhud, a section of the prayer that all faithful Muslims recite five times every day. In that prayer is a section that goes:
+
+> ٱلسَّلَامُ عَلَيْكَ أَيُّهَا ٱلنَّبِيُّ وَرَحْمَةُ ٱللَّٰهِ وَبَرَكَاتُهُ.
+
+> as-salāmu ʿalayka ʿayyuhā n-nabīyu wa-raḥmatu -llāhi wa-barakātuhu, 
+
+> "Peace be upon you, O Prophet, as well as God's mercy and His blessings. 
+
+Notice that this is not talking *about* Muhammad, but *to* Muhammad. Muhammad is dead and gone, yet billions of times a day, people are addressing him as if he was alive and able to hear them. In other words this is a prayer directed toward Muhammad. Muslims are praying to Muhammad.
+
+
+
 
 
 
@@ -197,6 +211,8 @@ See [Muhammad traded black slaves](#black-slaves).
 
 
 ## Black people were created for hell {#blacks-made-for-hell}
+
+[Mishkat al-Masabih 119](https://sunnah.com/mishkat:119)
 
 > …“God created Adam when He created him and struck his right shoulder and brought forth his offspring white like small ants. And he struck his left shoulder and brought forth his offspring black as though they were charcoal. Then He said to the party on his right side, ‘To paradise, and I do not care’ and He said to the party in his left shoulder, ‘To hell, and I do not care’.”
 
