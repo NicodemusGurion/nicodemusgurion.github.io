@@ -83,6 +83,13 @@ See also:
 
 > "Do not revile fever, for it cleanses out the sins of the sons of Adam in the same way that a furnace removes the dirt of iron."
 
+## Muslims should dip flies in their drinks {#dip-flies}
+
+[Sahih al-Bukhari 3320](https://sunnah.com/bukhari:3320)
+
+> The Prophet said "If a house fly falls in the drink of anyone of you, he should dip it (in the drink) and take it out, for one of its wings has a disease and the other has the cure for the disease."
+
+🤮
 
 
 

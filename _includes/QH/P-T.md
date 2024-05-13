@@ -256,6 +256,8 @@ See also:
 
 > "Listen and obey (your chief) even if an Ethiopian whose head is like a raisin were made your chief."
 
+See also [Sahih al-Bukhari 7142](https://sunnah.com/bukhari:7142)
+
 ## Muhammad didn't like black dogs {#black-dogs}
 
 [Sunan Ibn Majah 3205](https://sunnah.com/ibnmajah:3205)
@@ -548,7 +550,11 @@ See also:
 This description of gestation is entirely unscientific. A fetus does not go through three forty day periods of being 
 
 
+## Mosquito wings carry both diseases and cures
 
+[Sahih al-Bukhari 3320](https://sunnah.com/bukhari:3320)
+
+> The Prophet said "If a house fly falls in the drink of anyone of you, he should dip it (in the drink) and take it out, for one of its wings has a disease and the other has the cure for the disease."
 
 
 
