@@ -372,6 +372,7 @@ Allah is oddly concerned with people not annoying Muhammad with unnecessary spee
 
 - [Sunan Ibn Majah 2533](https://sunnah.com/ibnmajah:2533)
 - [Sunan Ibn Majah 2534](https://sunnah.com/ibnmajah:2534)
+- [Sunan an-Nasa'i 4059](https://sunnah.com/nasai:4059) 
 
 
 

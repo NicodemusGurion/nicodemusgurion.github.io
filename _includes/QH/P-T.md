@@ -140,6 +140,14 @@ Surah 2:106
 
 > If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
 
+## The Quran was corrupted even during Muhammad's lifetime {#early-corruption}
+
+
+[Sahih al-Bukhari 2410](https://sunnah.com/bukhari:2410)
+
+> I heard a man reciting a verse (of the Holy Qur'an) but I had heard the Prophet reciting it differently. So, I caught hold of the man by the hand and took him to Allah's Messenger who said, "Both of you are right."
+
+
 ## Two chapters of the Quran were forgotten {#surahs-forgotten}
 
 [Sahih Muslim 1050](https://sunnah.com/muslim:1050)
@@ -340,11 +348,17 @@ Als this implies that Jews and Christians as not sinners deserving of hell, but 
 
 See [The Quran is alive and will intercede on judgment day](#quran-intercession). It will come as a flock of birds and convince Allah to have mercy on those who read it.
 
-## Muhammad can guarantee salvation
+## Muhammad can save {#muhammad-saves}
 
 [Sahih al-Bukhari 6807](https://sunnah.com/bukhari:6807)
 
 > The Prophet said, "Whoever guarantees me what is between his legs and what is between his jaws, I guarantee him Paradise."
+
+## Muhammad can NOT save {#muhammad-saves-not}
+
+[Sahih al-Bukhari 2753](https://sunnah.com/bukhari:2753)
+
+> Allah's Messenger got up and said, "O people of Quraish! Save yourselves from the Hellfire as I cannot save you from Allah's Punishment; O Bani Abd Manaf! I cannot save you from Allah's Punishment, O Safiya, the Aunt of Allah's Messenger! I cannot save you from Allah's Punishment; O Fatima bint Muhammad! Ask me anything from my wealth, but I cannot save you from Allah's Punishment."
 
 
 ## The black stone will intercede 

@@ -6,6 +6,14 @@
 
 > When two Muslims fight (meet) each other with their swords, both the murderer as well as the murdered will go to the Hell-fire.
 
+## All people go to hell
+
+Surah 19:71
+
+> There is not one of you but shall pass by Hell. This is a decree which your Lord will fulfil.
+
+So apparently all people, including all Muslims, will go to hell. It's up to the iffy and contradictory means of [salvation](#salvation) that anyone would get out of there.
+
 
 
 # Hygiene, health and food
