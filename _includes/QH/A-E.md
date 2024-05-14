@@ -100,6 +100,8 @@ If people didn't sin, Allah would wipe them out and replace them with people who
 
 ## Allah wants contention
 
+Surah 2:253
+
 > Yet if Allah had willed, they would not have fought one another. But Allah does what He wills.
 
 Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.
