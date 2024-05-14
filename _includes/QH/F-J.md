@@ -123,7 +123,15 @@ Surah 4:65
 
 # Jesus Christ
 
-Muslims love to claim that they respect Jesus Christ, but their religion is distinctly antichristian.
+What Islam teaches about Jesus varies. Some things are more or less accurate, but many things are false, antichristian and blasphemous.
+
+## Jesus was not crucified 
+
+Surah 4:157
+
+> and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
+
+This is probably the most damning verse in the Quran, because it not only goes against the Bible and the testimony of documented history, proving that Islam is factually false and a lie, but it also leads billions of people away from salvation. 
 
 ## King of kings
 
@@ -131,7 +139,7 @@ Muslims love to claim that they respect Jesus Christ, but their religion is dist
 
 > The Prophet said, "The most disgraceful man near Allah is a man who calls himself (or likes others to call him) Malikul-Amlak (i.e., king of kings)."
 
-Jesus Christ is called "The King of Kings", a title that only belongs to God. So if Muslims respect Jesus they must respect his divine title.
+Allah seemingly dislikes the King of Kinfs. But Jesus Christ is called "The King of Kings", a title that only belongs to God. So if Muslims respect Jesus they must respect his divine title.
 
 ## Will judge mankind
 
@@ -139,7 +147,7 @@ Jesus Christ is called "The King of Kings", a title that only belongs to God. So
 
 > Allah's Messenger said, "By Him in Whose Hands my soul is, surely Jesus, the son of Mary will soon descend amongst you and will judge mankind justly as a Just Ruler.
 
-Last I checked, only God can judge humanity.
+Last I checked, only God can judge humanity. Why don't Muslims follow the future king and judge of mankind?
 
 ## Is alive in heaven with Allah
 
