@@ -12,15 +12,17 @@ This chapter is massive with 286 verses. So this article will be long. I'll try 
 
 [TOC]
 
-# Al-Baqarah
+# 1
 
-# Surah 2: 1
+Surah 2: 1
 
 > Alif-Lãm-Mĩm.
 
 We start off strong with some cryptic letters that no one knows what they means. So much for the the Quran being "clear and easy to understand."
 
-# Surah 2: 2-4
+# 2-4
+
+Surah 2:2-4
 
 > This is the Book! There is no doubt about it—
 
@@ -38,7 +40,9 @@ Muslims **establish prayer** and **donate**, which are works. Islam is a works b
 
 Those who believe in Muhammad should also believe in **what was revealed before** him, that is the Bible and it's prophets. The Quran tells Muslims to believe the Bible, but the Muslims tells me that the Bible has been corrupted. Whom should I trust? Allah, or the Muslims who say Allah is wrong? [See "The Islamic dilemma".](/the-islamic-dilemma)
 
-# Surah 2: 5-7
+# 5-7
+
+Surah 2: 5-7
 
 > It is they who are ˹truly˺ guided by their Lord, and it is they who will be successful…
 
@@ -50,7 +54,9 @@ Discussing unbelievers, it says that **Allah has set a seal on their hearts and 
 
 This sounds like Calvinism, which I often say is the Islam of Christianity. It paints God as an evil, twisted trixter who plays games with people. 
 
-# Surah 2: 8-20
+# 8-20 
+
+Surah 2:8-20
 
 > And of mankind are those who say, “We have attained faith in Allah and in the Last Day,” but they are not believers… In their hearts is sickness, so **Allah increased their sickness**, and for them is a painful punishment on account of how they used to lie.
 
@@ -62,7 +68,9 @@ Discussing fake believers, Allah is not exactly helping them, but making their c
 
 Rather than helping them, Allah is deliberately taking away their light and leaving them in darkness, terrifying them, like a cat plays with it's prey. 
 
-# Surah 2: 21-22
+# 21-22 
+
+Surah 2:21-22
 
 **New topic:** Encouraging worship of Allah.
 
@@ -84,7 +92,9 @@ But let's provide a Surah better than what we've seen so far. It doesn't have to
 
 I put it to you that any chapter in the Bible or even any decent poetry book is better than any Surah of the Quran.
 
-# Surah 2: 24
+# 24 
+
+Surah 2:24
 
 > be mindful of the Fire whose fuel is people and stones; it has been prepared for the deniers.
 
@@ -92,7 +102,9 @@ I put it to you that any chapter in the Bible or even any decent poetry book is 
 
 Apparently hell is fueled by people? And stones? In the Bible hellfire does not need fuel. Also in the Bible hell is not prepared for humans but for the satan and the demons. Humans were not supposed to go to hell but it's just an unfortunate side effect of rejecting God. But in Islam hell is made specifically to torture humans, and as we learned, Allah is deliberately causing people to go to hell. 
 
-# Surah 2: 25
+# 25 
+
+Surah 2:25
 
 > And give glad tidings to those who have attained faith and have done righteous deeds: that for them are Gardens beneath which rivers flow. Whenever they are provided with any produce therefrom as provision, they say, “This is what we were provided with before,” and they are brought(them) in(perfect) resemblance. And for them are cleansed spouses therein, and therein they abide.
 
@@ -102,7 +114,9 @@ And of course sex. Can't forget that sex is a central point in Islam. Even in th
 
 Tell me your religion was invented by a sex crazed horndog without saying your religion was invented by a sex crazed horndog.
 
-# Surah 2:26
+# 26 
+
+Surah 2:26
 
 > Indeed, Allah does not shy away from setting forth any parable, ... He misguides many thereby…
 
@@ -127,13 +141,17 @@ Allah has the vocabulary of a 14 year old boy.
 
 So Muslims pre-existed lifeless, then became alive, then dead, then alive again, then go to Allah? What busywork.
 
-# Surah 2: 29
+# 29 
+
+Surah 2:29
 
 > It is He Who created for you what is on earth, all together, then turned to the heaven and formed them into seven heavens…
 
 We learn that Allah created the earth first and then the heavens, 7 of them. In the Bible God created the heavens and the earth, and there are 3 heavens. Funny how Islam seems to invert and pervert so many things.
 
-# Surah 2: 30-34
+# 30-34 
+
+Surah 2:30-34
 
 > … your Lord said to the angels, “I am appointing a viceroy in the earth.” … We said to the angels, “Prostrate yourselves to Adam”, so they prostrated themselves—but not Iblis. He refused and acted arrogantly and became of the deniers.
 
@@ -147,13 +165,17 @@ Muhammad is referring to a fable taken from [the apocryphal book of the life of 
 
 In verse 31 it says that Allah **taught Adam the names**. Assuming this means the names of the animals, this disagrees with the Bible. Adam was the one who got to give names to the animals. God in the Bible allows his creatures to exercise creativity, but Allah from the Quran is not as magnanimous.
 
-# Surah 2: 35-39
+# 35-39 
+
+Surah 2:35-39
 
 > Yet Satan made them slip therefrom, so he brought them out of what they were in. Then We said, “Descend , as enemies to one another, for in the earth you have a place of settlement and enjoyment for a while.”
 
 This verse is fuzzy but it appears that after the fall, Adam and Eve "descended" from Eden, as if it was not part of earth.
 
-# Surah 2: 40-46
+# 40-46 
+
+Surah 2:40-46
 
 > O Children of Israel
 
@@ -171,25 +193,33 @@ So either Allah wrote this and he was lying. Or Muhammad wrote this and he was i
 
 See also ["The Bible has been corrupted"](/the-bible-has-been-corruoted), [The Quran affirms the Bible](/the-quran-affirms-the-bible), and [The Islamic dilemmas.](/the-islamic-dilemma)
 
-# Surah 2: 47
+# 47 
+
+Surah 2:47
 
 > Children of Israel, remember how I blessed you and favoured you over other people.
 
 Allah prefers the Jews, which is weird considering [how poorly Islam treats them.](/quran-and-Hadiths/#jews)
 
-# Surah 2: 48
+# 48 
+
+Surah 2:48
 
 > Guard yourselves against a Day when no soul will stand in place of another, no intercession will be accepted for it, nor any ransom; nor will they be helped.
 
 This contradicts other sources which say that on judgment day, [Muslims will be ransomed by Jews and Christians taking their place in hell.](/quran-and-Hadiths/#ransomed-from-hell).
 
-# Surah 2: 49-50
+# 49-50 
+
+Surah 2:49-50
 
 **No context** Without the Bible you'd have no idea what it's referring to.
 
 This section is about Israel in Egypt. It says that the genocide of male babies **was a great trial from your Lord**. This is false, it was from Satan. It was against God's will.
 
-# Surah 2: 51-56
+# 51-56 
+
+Surah 2:51-56
 
 **No context:** Without the Bible you have no idea what this is about.
 
@@ -199,7 +229,9 @@ This passage is about the worship of the golden calf.
 
 This is false. The Israelites were rather terrified and did **not** want to see God. God did **not** kill and revive them. This idea probably comes from later Jewish fables.
 
-# Surah 2: 58-59
+# 58-59 
+
+Surah 2:58-59
 
 **No context:** Actually you won't understand what this is about even with the Bible because it's totally made up.
 
@@ -207,13 +239,17 @@ This is false. The Israelites were rather terrified and did **not** want to see 
 
 This does not seem to match any story of the Bible. It seems to be made up.
 
-# Surah 2: 60
+# 60 
+
+Surah 2:60
 
 **No context:** You need the Bible for this.
 
 This verse says that when Moses struck the rock **Twelve springs gushed out, and each group knew its drinking place.** This is inaccurate.  There is no mention of 12 streams in the Bible.
 
-# Surah 2: 62
+# 62 
+
+Surah 2:62
 
 **New topic:** Salvation
 
@@ -221,7 +257,9 @@ This verse says that when Moses struck the rock **Twelve springs gushed out, and
 
 **The Sabians** were a Gnostic group following John the Baptist. This list of approved groups is very random and misleading. 
 
-# Surah 2: 63,64
+# 63 
+
+Surah 2:63,64
 
 **New topic:** Something about a mountain.
 
@@ -231,7 +269,9 @@ This verse says that when Moses struck the rock **Twelve springs gushed out, and
 
 This passage is very vague. I have no idea what story it refers to.
 
-# Surah 2: 65,66
+# 65 
+
+Surah 2:65,66
 
 **New topic**: Sabbaths.
 
@@ -241,7 +281,9 @@ This passage is very vague. I have no idea what story it refers to.
 
 This also never happened. God has never said sabbath breakers are apes. Breaking the sabbath was punished by death, not ostracism.
 
-# Surah 2: 67-73
+# 67-73 
+
+Surah 2:67-73
 
 **New topic:** Some shenanigans about a cow.
 
@@ -257,7 +299,9 @@ The cow is then apparently used to resurrect dead people by striking their dead 
 
 This whole story is non-existent in the Bible, very odd and pointless.
 
-# Surah 2: 75-78
+# 75-78 
+
+Surah 2:75-78
 
 **New topic**: Jew bashing.
 
@@ -265,7 +309,9 @@ This whole story is non-existent in the Bible, very odd and pointless.
 
 It's ironic that after [having claimed that the Torah is unchanged](#2-40-46), the author tells a bunch of incorrect or completely fabricated stories, and then accuse Jews of twisting the words of God. Olympic levels of mental gymnastics.
 
-# Surah 2: 79
+# 79 
+
+Surah 2:79
 
 > So woe to those who write something down with their own hands and then claim, ‘This is from God,’ in order to make some small gain. Woe to them for what their hands have written! Woe to them for all that they have earned!
 
@@ -273,7 +319,9 @@ This must be the most ironic part of the Quran thus far, since Muhammad is the p
 
 Woe to him.
 
-# Surah 2: 80-82
+# 80-82 
+
+Surah 2:80-82
 
 **New topic**: Paradise.
 
@@ -281,11 +329,15 @@ Woe to him.
 
 Islam is a works-righteousness religion. You have to do stuff to earn points to maybe go to paradise. But nowhere does it explain how many points you need or anything like that. And that means that there are a lot of really bad people in paradise, who are like 51% good and 49% evil.
 
-# Surah 2: 83-86
+# 83-86 
+
+Surah 2:83-86
 
 **New topic:** General criticism against sinners.
 
-# Surah 2: 87
+# 87 
+
+Surah 2:87
 
 **New topic**: Affirming biblical people.
 
@@ -293,7 +345,9 @@ Islam is a works-righteousness religion. You have to do stuff to earn points to 
 
 Moses is mentioned 136 times. Jesus 25 times. Mary is the only woman named in the Quran 34 times. But Muhammad is only mentioned 4 times.
 
-# Surah 2: 88-91, 97-98
+# 88-91 
+
+Surah 2:88-91, 97-98
 
 **New topic:** Confirming the bible
 
@@ -308,11 +362,15 @@ So what gives? If Allah is the author of both, and the Quran affirms both, then 
 
 Or, the Quran is not written by Allah, but is written by an ignorant illiterate Arabic warlord pretending to be a inspired by God [for fun and profit.](/quran-and-Hadiths/#child-sexual-abuse)
 
-# Surah 2: 92-96
+# 92-96 
+
+Surah 2:92-96
 
 **New topic**: More complaints about people being disobedient.
 
-# Surah 2: 99
+# 99 
+
+Surah 2:99
 
 > We have sent down to thee Manifest Signs (ayat)
 
@@ -320,13 +378,17 @@ Or, the Quran is not written by Allah, but is written by an ignorant illiterate 
 
 Just a note on translation itself: The Arabic says "ayat" meaning verse, but it is here translated as "Signs", which is also a synonym for miracles. Muslims consider the Quran itself a miracle, so each piece of text is a "miracle" because they think Allah himself authored it. It's good to keep in mind that when Muslims talk about "miracles" their definition is different. A verse of text is not a miracle. 
 
-# Surah 2: 100-101
+# 100-101 
+
+Surah 2:100-101
 
 > there came to them a messenger from Allah, confirming what was with them
 
 **New topic**: More complaints against faithful people and more confirmation that the Bible is not corrupted.
 
-# Surah 2: 102-103
+# 102-103 
+
+Surah 2:102-103
 
 **New topic**: Fables about Solomon
 
@@ -340,7 +402,9 @@ The idea that Solomon was doing magic may come from sources such as [the Testame
 
 These show that Muhammad just copy-pasted random lore and fables floating around at the time.
 
-# Surah 2: 104
+# 104 
+
+Surah 2:104
 
 **New topic**: Allah is the servant of Muhammad.
 
@@ -354,7 +418,9 @@ After consulting [this Quranic dictionary](https://corpus.quran.com/wordbyword.j
 
 It seems even scholars are unclear on what this means. So much for the Quran being clear and understandable.
 
-# Surah 2: 105
+# 105 
+
+Surah 2:105
 
 **New topic**: Bashing Christians and Jews.
 
@@ -362,7 +428,9 @@ It seems even scholars are unclear on what this means. So much for the Quran bei
 
 Allah is saying "they don't want you to have good stuff". This is manipulation, framing Jews and Christians as evil ones who try to withhold good from Muslims. See Genesis 3:1-6 for an example of this lie.
 
-# Surah 2: 106
+# 106 
+
+Surah 2:106
 
 **New topic**: The Quran is not perfectly preserved.
 
@@ -370,7 +438,9 @@ Allah is saying "they don't want you to have good stuff". This is manipulation, 
 
 Allah admits that he *does* change his word, and **cause it to be forgotten**. Whether he "**brings forth one better**" makes no difference because it totally destroys the idea that "the Quran is perfectly preserved". History also proves that it is not.
 
-# Surah 2: 107-109
+# 107-109 
+
+Surah 2:107-109
 
 **New topic**: Manipulation.
 
@@ -378,7 +448,9 @@ Allah admits that he *does* change his word, and **cause it to be forgotten**. W
 
 Saying that you have no one else, and that everyone else on the outside are evil and only oppose you because of bad motives ("envy") are common manipulation tactics used by cults and narcissists.
 
-# Surah 2:111-112
+# 111-112 
+
+Surah 2:111-112
 
 **New topic**: Salvation.
 
@@ -386,14 +458,18 @@ Saying that you have no one else, and that everyone else on the outside are evil
 
 Christianity teaches that salvation is through faith alone in Christ. "Not through works lest anyone should boast" (Ephesians 2:8-10) If we could pay for our salvation with our good deeds, then it means that we could somehow put God in our debt. As if we could bribe the Judge of all the Earth. As if we could by our own works and deeds say "See, God, I am so good that you must accept me into heaven". That very idea is laughable, and a God who would accept our works as payment for salvation would be an unjust, unfair judge. Salvation by faith, not works, is a fundamental tenet of Christianity, and in these two verses the Quran directly contradicts the Bible saying that salvation is not by faith but by works. It's written to lead people away from salvation.
 
-# Surah 2:114
+# 114 
+
+Surah 2:114
 
 > Who does more wrong than those who prevent Allah’s Name from being mentioned in His places of worship
 
 Funny that the Quran says that the worst wrong is to not mention the name of Allah. However the Quran never tells us what the name of Allah is.  "Allah" is not a name, it just means "God". And none of the "99 names" they list is an actual name. They're all just titles and attributes.
 
 
-# Surah 2:115
+# 115 
+
+Surah 2:115
 
 **New topic**: Nature of Allah.
 
@@ -401,14 +477,18 @@ Funny that the Quran says that the worst wrong is to not mention the name of All
 
 If you could turn any way to face Allah, why do muslims need to turn towards the Kabaa, a man made physical object, in order to pray to Allah. Seems very idolatrous.
 
-# Surah 2:116-117
+# 116-117 
+
+Surah 2:116-117
 
 > They say, “Allah has offspring.” Glory be to Him! In fact, to Him belongs whatever is in the heavens and the earth—all are subject to His Will. ˹He is˺ the Originator of the heavens and the earth! When He decrees a matter, He simply tells it, “Be!” And it is!
 
 This and other verses reveal the lack of understanding Muslims have for the sonship of Jesus. The Son of God is not a created person. He is the Word of God. When God says "Be", it is the Word of God, Jesus, that makes it be.
 
 
-# Surah 2:118-120
+# 118-120 
+
+Surah 2:118-120
 
 **New topic**: Comforting Muhammad 
 
@@ -423,13 +503,17 @@ Islam is not based on anything real. There are no signs. No one has ever witness
 Trust me bro.
 
 
-# Surah 2:121 
+# 121 
+
+Surah 2:121 
 
 > As for those who reject it, it is they who are the losers.
 
 Allah has the vocabulary of a preteen boy. 
 
-# Surah 2:124-128
+# 124-128 
+
+Surah 2:124-128
 
 **New topic**: Some pseudo-history.
 
@@ -441,13 +525,17 @@ Allah has the vocabulary of a preteen boy.
 
 This passage recounts a non-existent nonsensical story about how Abraham and Ishmael built the Kaba in Mecca. There is no historical nor scriptural evidence that this was the case. Nor does it make any sense for Abraham to travel hundreds of miles into an unknown desert to build a house that would not be used to worship God for about 2500 years. This is an example of Muhammad just making stuff up and tricking muslims into believing nonsense.
 
-# Surah 2:130 
+# 130 
+
+Surah 2:130 
 
 > And who would reject the faith of Abraham except a fool!...
 
 This explains the reason for the nonsensical story about Abraham and Ishmael. Muhammad wanted to have some kind of authenticity for his new religion and for using the pagan temple in Mecca as a center for it, by connecting it to Abraham. 
 
-# Surah 2:133 
+# 133 
+
+Surah 2:133 
 
 **No context**: The Quran doesn't explain who Jacob is.
 
@@ -455,7 +543,9 @@ This explains the reason for the nonsensical story about Abraham and Ishmael. Mu
 
 This verse is interesting because it talks about Jacob, a.k.a. Israel and his children, the tribes and prople of Israel, and that they worship the same God as Abraham and Isaac (and I guess Ishmael). Yet the Quran also goes on tirades about his Israel are bad and worships wrong.
 
-# Surah 2:135-136
+# 135-136 
+
+Surah 2:135-136
 
 **New topic**: Bashing Jews and Christians again.
 
@@ -464,7 +554,9 @@ This verse is interesting because it talks about Jacob, a.k.a. Israel and his ch
 
 This insinuates that Jews and Christians are polytheist when the main distinguishing feature of judeochristian religion is monotheism. And it insultingly says that they do not believe as the most important people in their religions did. Either Muhammad was ignorant, stupid, or lying. In any case he is disrespectful and arrogant.
 
-# Surah 2:140 
+# 140 
+
+Surah 2:140 
 
 > Do you claim that Abraham, Ishmael, Isaac, Jacob, and his descendants were all Jews or Christians?
 
@@ -474,7 +566,9 @@ No, claiming that would be ahistorical nonsense like what Muhammad is doing. We 
 
 Muhammad makes the claim that there is some hidden testimony. Muslims often say things like that but they can never prove that these made up hidden words ever existed or what they supposedly were.
 
-# Surah 2:142-144, 149-150
+# 142-144 
+
+Surah 2:142-144, 149-150
 
 **New topic**: Direction of prayer
 
@@ -496,7 +590,9 @@ So Muhammad used to pray facing heaven (like Jesus did), but then Allah didn't w
 
 We have an argument against it, because it smacks of idolatry.
 
-# Surah 2:145, 148
+# 145 
+
+Surah 2:145, 148
 
 > Even if you were to bring every proof to the People of the Book, they would not accept your direction ˹of prayer˺
 
@@ -506,7 +602,9 @@ Of course we wouldn't, because God is not in a little house in Arabia, God is ev
 
 Nope. Facing a certain direction only makes sense to idolaters.
 
-# Surah 2:146
+# 146 
+
+Surah 2:146
 
 **New topic**: Conspiracy theory about Judeochristian theology.
 
@@ -514,7 +612,9 @@ Nope. Facing a certain direction only makes sense to idolaters.
 
 We christians recognize Muhammad easily, because Jesus warned us against false prophets, so we knew as soon as we saw him that he is a false prophet. But the Quran says that we reject him because we "hide the truth".
 
-# Surah 2:154
+# 154 
+
+Surah 2:154
 
 **New topic**: How Allah abuses his followers.
 
@@ -522,13 +622,17 @@ We christians recognize Muhammad easily, because Jesus warned us against false p
 
 This verse encourages jihad, killing and dying for islam.
 
-# Surah 2:155
+# 155 
+
+Surah 2:155
 
 > We shall certainly test you with fear and hunger, and loss of property, lives, and crops.
 
 In the Bible Jesus says that his followers may be persecuted by people as a result of following him, but nowhere does God promise that he will literally torment his followers. What  Allah promises sounds more like it comes from the one whose goal is to "steal, kill and destroy." (John 10:10)
 
-# Surah 2:158
+# 158 
+
+Surah 2:158
 
 **New topic**: Instructions about pilgrimage.
 
@@ -536,7 +640,9 @@ In the Bible Jesus says that his followers may be persecuted by people as a resu
 
 For no apparent reason Allah suddenly  talks about a pilgrimage ritual. The amount of incoherent changes of topics and irrelevant interjections is amazing.
 
-# Surah 2:159-160
+# 159-160 
+
+Surah 2:159-160
 
 **New topic**: More conspiracy theories about Jews and Christians.
 
@@ -544,11 +650,15 @@ For no apparent reason Allah suddenly  talks about a pilgrimage ritual. The amou
 
 Allah seems upset about these hidden messages that never existed, but he also seems unable to specify what they were.
 
-# Surah 2:161-167
+# 161-167 
+
+Surah 2:161-167
 
 **New topic**: Some self glazing and poorly veiled threats to worship Allah, or else...
 
-# Surah 2:168-169
+# 168-169 
+
+Surah 2:168-169
 
 **New topic**: The nature of Satan.
 
@@ -556,11 +666,15 @@ Allah seems upset about these hidden messages that never existed, but he also se
 
 Funny, because the commands of Allah are more often than not both evil and indecent. Such as prescribing killing, raping, child sexual abuse, domestic abuse, torture, idolatry, etc.
 
-# Surah 2:170-171
+# 170-171 
+
+Surah 2:170-171
 
 **New topic**: More trash talking of non-Muslims.
 
-# Surah 2:172-173
+# 172-173 
+
+Surah 2:172-173
 
 **New topic**: Dietary restrictions.
 
@@ -568,7 +682,9 @@ Funny, because the commands of Allah are more often than not both evil and indec
 
 Some dietary laws. Personally I don't reject bacon for religious reasons, I reject religiouns for bacon reasons.
 
-# Surah 2:174-176
+# 174-176 
+
+Surah 2:174-176
 
 **New topic**: More conspiracy theories.
 
@@ -580,7 +696,9 @@ Again "Allah" accuses people of concealing scripture. But he is unable to tell u
 
 Since Muhammad was teaching things contrary to the Bible, rather than admitting that he was ignorant and stupid, he instead insists that there must be something wrong with the Bible or that the Christians are hiding something. 
 
-# Surah 2:177
+# 177 
+
+Surah 2:177
 
 **New topic**: Dos and donts.
 
@@ -596,17 +714,23 @@ One good thing is to liberate those in bondage. Ironic since [Muhammad owned sla
 
 [Muhammad once cursed an orphan girl.](/quran-and-hadiths#cursed-orphan)
 
-# Surah 2:178-179
+# 178-179 
+
+Surah 2:178-179
 
 **New topic** Laws about murder
 
 The commentary on this verse says "No one else should be executed in place of the killer." This idea that no one can pay the price or take the punishment for your crimes or sins contradicts the teaching of the ransom in the Bible. This agrees with Surah 2:48 but contradicts And it also contradicts Sahih Muslim 2767 which says that ["When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire."](/quran-and-hadiths#ransomed-from-hell) So Islam is in contradiction on this topic.
 
-# Surah 2:180-182
+# 180-182 
+
+Surah 2:180-182
 
 **New topic**: Laws about wills and inheritance.
 
-# Surah 2:183-185
+# 183-185 
+
+Surah 2:183-185
 
 **New topic**: Laws about fasting. 
 
@@ -623,13 +747,17 @@ Those who can not fast during Ramadan can compensate by giving food to someone e
 By forcing people to do something that is not easy but hard.
 
 
-# Surah 2:186
+# 186 
+
+Surah 2:186
 
 **New topic**: A half-baked promise that if someone doubts Allah, they could try to obey him and "perhaps they will be guided". 
 
 Sounds like unless it's your lucky day, Allah just can't be arsed to give a hoot.
 
-# Surah 2:187
+# 187 
+
+Surah 2:187
 
 **New topic**: Ramadan.
 
@@ -647,11 +775,15 @@ Also it's funny that statistically, Muslims eat twice as much food during Ramada
 
 The fact that this sentence had to be included in the Quran tells me that so many horny arabs actually had sex in the mosque that it became a problem worthy of including in the holy book for all times.
 
-# Surah 2:188
+# 188 
+
+Surah 2:188
 
 **New topic** Embezzling.
 
-# Surah 2:189
+# 189 
+
+Surah 2:189
 
 **New topic**: The science of the moon and how to use doors.
 
@@ -661,7 +793,9 @@ So this covers two important topics: What exactly is the purpose of the moon? An
 
 I'm not making this up.
 
-# Surah 2:190-194
+# 190-194 
+
+Surah 2:190-194
 
 **New topic**: Kill the unbelievers. 
 
@@ -675,15 +809,21 @@ Fight, kill, death. The essence of Islam.
 
 This verse calls for retaliation. Christianity encourages forgiveness. Islam encourages revenge.
 
-# Surah 2:195-203
+# 195-203 
+
+Surah 2:195-203
 
 **New topic** Instructions for pilgrimage. 
 
-# Surah 2:204-209
+# 204-209 
+
+Surah 2:204-209
 
 **New topic**: Criticising hypocrites and commending the faithful.
 
-# Surah 2:210-211
+# 210-211 
+
+Surah 2:210-211
 
 **New topic**: The Jews again.
 
@@ -691,13 +831,17 @@ This verse calls for retaliation. Christianity encourages forgiveness. Islam enc
 
 Since this passage talks about the israelites it seems to allude to when God came in the clouds on mount Sinai with angels. This is interesting since Yahweh of judeochristianity is a God who sometimes comes down into our world in various manifestations. But Allah is said to be beyond that, someone who never shows up in our world. This verse seems to contradict that idea.
 
-# Surah 2:213
+# 213 
+
+Surah 2:213
 
 > And no one disputed the Scriptures except the very people who received them after clear proofs had come to them—out of jealousy.
 
 There's a recurring theme that the Jews didn't accept their own scriptures, and that this somehow has to do with envy or jealousy. It's not clear toward what they are jealous. But for sure they did not despise their own scriptures, since they have kept them for thousands of years.
 
-# Surah 2:214
+# 214 
+
+Surah 2:214
 
 **New topic**: Entering paradise
 
@@ -705,11 +849,15 @@ There's a recurring theme that the Jews didn't accept their own scriptures, and 
 
 Paradise is something a muslim needs to earn.
 
-# Surah 2:215
+# 215 
+
+Surah 2:215
 
 **New topic**: Donations and charity.
 
-# Surah 2:216
+# 216 
+
+Surah 2:216
 
 **New topic**: Fighting for Islam 
 
@@ -717,7 +865,9 @@ Paradise is something a muslim needs to earn.
 
 This is a damning verse because it says that fighting is obligatory to all muslims, even if they are peaceful and good people who dislike violence, Allah knows better and thingks that violence is just the best and he wants them to fight against their will.
 
-# Surah 2:217
+# 217 
+
+Surah 2:217
 
 > For persecution is far worse than killing. 
 
@@ -727,7 +877,9 @@ So if someone is being nasty towards you, you should not do as the christians an
 
 It threatens those who do not kill "persecuters" that these will not stop coming and if the muslim ever gives up, all their prayers, pilgrimages, and other works righteousness are meaningless. In islam you can lose your salvation, and everything you have ever done is null and void in an instant, and hell is all that's left for you. Cult manipulation.
 
-# Surah 2:219-220
+# 219-220 
+
+Surah 2:219-220
 
 **New topic**: Drugs and gambling + Donation + Orphans
 
@@ -739,7 +891,9 @@ So it's not strictly forbidden.
 
 Muslims use such weird vocabulary. "Partnering with orphans"? Did Muhammad "partner" with [the orphan girl he cursed to die young?](/quran-and-hadiths/#cursed-orphan)
 
-# Surah 2:221
+# 221 
+
+Surah 2:221
 
 **New topic**: Marriage.
 
@@ -754,7 +908,9 @@ Muslims are not allowed to marry non-muslims. However [muslim men are allowed to
 
 In islam, [salvation](/quran-and-hadiths#salvation) is basically Allah just forgiving people for no reason. In Christianity, God is Just, so someone needs to take the punishment, and that someone is Jesus. In islam, Allah doesn't really have any foundation upon which to justly forgive. He just forgives with no basis, which means he does not consider sins to be serious, and he doesn't take justice seriously. If someone sins against a victim, and Allah just forgives the sinner, then it means he doesn't love the victim, because he didn't execute justice. He is a corrupt judge. In fact, [Allah **wants** people to sin](/quran-and-hadiths#allah-wants-people-to-sin). 
 
-# Surah 2:222
+# 222 
+
+Surah 2:222
 
 **New topic**: Menstruation
 
@@ -762,7 +918,9 @@ In islam, [salvation](/quran-and-hadiths#salvation) is basically Allah just forg
 
 Apparently menstruation is dangerous?
 
-# Surah 2:223 
+# 223 
+
+Surah 2:223 
 
 **New topic**: Sex
 
@@ -770,7 +928,9 @@ Apparently menstruation is dangerous?
 
 Are muslim women comfortable being referred to as a "field" that their husband can "go into" as they like?
 
-# Surah 2:224-225
+# 224-225 
+
+Surah 2:224-225
 
 **New topic**: Allah's name
 
@@ -778,7 +938,9 @@ Are muslim women comfortable being referred to as a "field" that their husband c
 
 It's ironic that there are verses talking about the name of Allah when muslims don't even know the name of Allah.
 
-# Surah 2:226
+# 226 
+
+Surah 2:226
 
 **New topic**: Oaths.
 
@@ -786,7 +948,9 @@ It's ironic that there are verses talking about the name of Allah when muslims d
 
 Allah takes oaths as serious as he does sins, not at all. Make and oath and if you break it, it's no big problem. Allah doesn't care. Because Allah is not trustworthy either.
 
-# Surah 2:227-232
+# 227-232 
+
+Surah 2:227-232
 
 **New topic**: Laws on Divorce.
 
@@ -810,7 +974,9 @@ This contradicts everything the Bible teaches about marriage and divorce making 
 
 Allah has already made a mockery of marriage. It's all a sham to pretend that this isn't wife swapping, treating women like objects that can be freely traded.
 
-# Surah 2:233
+# 233 
+
+Surah 2:233
 
 **New topic**: Laws on weaning children
 
@@ -818,7 +984,9 @@ Allah has already made a mockery of marriage. It's all a sham to pretend that th
 
 Since Muslims do not take marriage seriously there is bound to be a lot of single baby mommas and baby daddies, so you need to have these laws for men to take the responsibility that they should have had to take if they could have stayed in a marriage.
 
-# Surah 2:234-235
+# 234-235 
+
+Surah 2:234-235
 
 **New topic**: Laws on widowhood
 
@@ -826,19 +994,27 @@ Since Muslims do not take marriage seriously there is bound to be a lot of singl
 
 Oddly specific. 
 
-# Surah 2:236-237
+# 236-237 
+
+Surah 2:236-237
 
 **New topic**: Laws on divorce, again.
 
-# Surah 2:238-239
+# 238-239 
+
+Surah 2:238-239
 
 **New topic**: Prayer when in danger
 
-# Surah 2:240-242
+# 240-242 
+
+Surah 2:240-242
 
 **New topic**: Laws on widowhood and divorce, again.
 
-# Surah 2:243
+# 243 
+
+Surah 2:243
 
 **New topic**: Violence, again
 
@@ -848,13 +1024,17 @@ Oddly specific.
 
 I have no idea what this is about, and the Quran gives no context so this is just one of those random, irellevant, incoherent things Allah throws into the mix for fun.
 
-# Surah 2:244
+# 244 
+
+Surah 2:244
 
 > Fight in God’s cause and remember that He is all hearing and all knowing.
 
 More incitement to violence.
 
-# Surah 2:245
+# 245 
+
+Surah 2:245
 
 **New topic**: Donations.
 
@@ -862,7 +1042,9 @@ More incitement to violence.
 
 Sounds like the prosperity gospel. I guess a Muhammad was short on cash.
 
-# Surah 2:246
+# 246 
+
+Surah 2:246
 
 **New topic**: Even more pseudo-history.
 
@@ -878,7 +1060,9 @@ Rather the prophet Samuel warns them that if they get a King he would force thei
 
 Having to go to war was something bad the Israelites would rather avoid, but the Quran claims that they were bloodthirsty savages who only wanted a king so they could go to war.
 
-# Surah 2:247
+# 247 
+
+Surah 2:247
 
 > Their prophet said to them, ‘God has now appointed Talut to be your king,’ but they said, ‘How can he be king over us when we have a greater right to rule than he? He does not even have great wealth.’
 
@@ -886,13 +1070,17 @@ Talut? Who is Talut? There'd no king Talut in the Bible. Do they mean Saul?
 
 It says they didn't accept him because he wasn't rich. Saul did have some trust issues in the beginning, so maybe Talut is Saul?
 
-# Surah 2:248
+# 248 
+
+Surah 2:248
 
 > Their prophet said to them, ‘The sign of his authority will be that the Ark [of the Covenant] will come to you. In it there will be [the gift of] tranquillity from your Lord and relics of the followers of Moses and Aaron, carried by the angels. There is a sign in this for you if you believe.’
 
 The story of how the Ark was returned is found in 1 Samuel chapter 4, decades before Saul became king, when Samuel was still a young boy. "Allah" must be confused as to what happened.
 
-# Surah 2:249
+# 249 
+
+Surah 2:249
 
 > When Talut set out with his forces, he said to them, ‘God will test you with a river. Anyone who drinks from it will not belong with me, but anyone who refrains from tasting it will belong with me; if he scoops up just one handful [he will be excused].’ But they all drank [deep] from it, except for a few.
 
@@ -902,13 +1090,17 @@ The story if drinking from the river is about Gideon in Judges 7, probably centu
 
 The story of Goliat is about David, not Saul, and it happened later!
 
-# Surah 2:250-251
+# 250-251 
+
+Surah 2:250-251
 
 > And when they met Goliath and his warriors, they said, ‘Our Lord, pour patience on us, make us stand firm, and help us against the disbelievers,’and so with God’s permission they defeated them. David killed Goliath, and God gave him sovereignty and wisdom and taught him what He pleased. If God did not drive some back by means of others the earth would be completely corrupt, but God is bountiful to all.
 
 Now the story is not about this mysterious "Talut" anymore, but about David and Goliath? This is getting worse and worse, mixing up at least 4 different stories and getting the names and details wrong. Is "Allah" demented?
 
-# Surah 2:252
+# 252 
+
+Surah 2:252
 
 **New topic**: Affirming the prophethood of Muhammad.
 
@@ -916,7 +1108,9 @@ Now the story is not about this mysterious "Talut" anymore, but about David and 
 
 So far it has only been a hot mess of incoherent schizophrenic ramblings and errors. 
 
-# Surah 2:253
+# 253 
+
+Surah 2:253
 
 > God spoke to some; others He raised in rank; We gave Jesus, son of Mary, Our clear signs and strengthened him with the holy spirit.
 
@@ -926,7 +1120,9 @@ Muslims ought to consider why Allah said he "raised" Jesus "in rank".
 
 Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.
 
-# Surah 2:254
+# 254 
+
+Surah 2:254
 
 **New topic**: Donations again.
 
@@ -934,7 +1130,9 @@ Disagreements and fights between religious factions is Allah's will. He wants pe
 
 Allah is broke! Give him your moneys!
 
-# Surah 2:255
+# 255 
+
+Surah 2:255
 
 **New topic**: The nature of Allah
 
@@ -942,7 +1140,9 @@ Allah is broke! Give him your moneys!
 
 In the Bible, Hebrews 1:2-3;8:1 it is Jesus who is enthroned in heaven and who sustains the universe. The Quran admits that Jesus is God.
 
-# Surah 2:256
+# 256 
+
+Surah 2:256
 
 **New topic**: Freedom of religion
 
@@ -950,11 +1150,15 @@ In the Bible, Hebrews 1:2-3;8:1 it is Jesus who is enthroned in heaven and who s
 
 One of the verses used to defend Islam. It was written before Muhammad went to Medina, during the time he was outnumbered. But that tone changed once he had an army. Islam always plays meek and nice when outnumbered, but once they gain power the tyranny begins.
 
-# Surah 2:257
+# 257 
+
+Surah 2:257
 
 **New topic**: Regular warnings and threats.
 
-# Surah 2:258-260
+# 258-260 
+
+Surah 2:258-260
 
 **New topic**: More pseudo-history
 
@@ -962,7 +1166,9 @@ Three apocryphal stories about Abraham arguing with Nimrod, an Israelite man who
 
 The Quran is full of weird apocryphal fables and corrupted stories. But someone growing up with them would say that the canonical stories are false.
 
-# Surah 2:261-274
+# 261-274 
+
+Surah 2:261-274
 
 **New topic**: Donations and charity. 
 
@@ -972,11 +1178,15 @@ Surah 2:266 is cryptic but commentaries say it means that if someone does good a
 
 Surah 2:271 says "to give to the poor privately is better for you, and will absolve you of your sins", teaching the lie of works righteousness.
 
-# Surah 2:275-281
+# 275-281 
+
+Surah 2:275-281
 
 **New topic**: Condemning interest and usury.
 
-# Surah 2:282-283
+# 282-283 
+
+Surah 2:282-283
 
 **New topic**: Laws regarding loan contracts.
 
@@ -986,7 +1196,9 @@ Surah 2:282 contains this gem:
 
 In Islam, women are considered to be half as intelligent and trustworthy as a man, therefore if two men can not be found to witness the contract, one man and two women would suffice. Apparently women are so unreliable that they need to remind one another what to say.
 
-# Surah 2:284
+# 284 
+
+Surah 2:284
 
 **New topic**: Forgiveness.
 
@@ -994,14 +1206,18 @@ In Islam, women are considered to be half as intelligent and trustworthy as a ma
 
 Allah forgives without a legal right to do so (i.e. a ransom). Sins must be punished, or the judge is unjust. To forgive and have mercy, the judge must accept some sort of ransom. This is missing in Islam, which means Allah is an unjust judge who lets people get away with hurting others.
 
-# Surah 2:285
+# 285 
+
+Surah 2:285
 
 
 > The Messenger ˹firmly˺ believes in what has been revealed to him from his Lord, and so do the believers. They ˹all˺ believe in Allah, His angels, His Books, and His messengers. 
 
 This verse claims that Muhammad and all Muslims believe in the Bible, which is "His books". However the Quran contradicts these books. And the Bible rejects the Bible. See [the Islamic dilemma](/the-islamic-dilemma) for more information.
 
-# Surah 2:286
+# 286 
+
+Surah 2:286
 
 > Allah does not require of any soul more than what it can afford. 
 
