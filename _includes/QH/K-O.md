@@ -667,6 +667,12 @@ See also:
 
 The fact that other men are not drawn to sexually abuse children makes Muhammad flabbergasted.
 
+## Muhammad had a sex slave
+
+[Sunan an-Nasa'i 3959](https://sunnah.com/nasai:3959)
+
+> It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse
+
 ### Muhammad believed a woman's silence means consent {#silence-is-consent}
 
 [Sahih al-Bukhari 5137](https://sunnah.com/bukhari:5137)

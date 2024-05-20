@@ -580,7 +580,7 @@ This description of gestation is entirely unscientific. A fetus does not go thro
 
 # Sex slaves
 
-See also [amuhammad and sex](#muhammad-sex), [Rape](#rape), [Women](#women).
+See also [Muhammad had a sex slave](#muhammad-had-a-sex-slave), [Rape](#rape), [Women](#women).
 
 ## Muslims men can have sex slaves
 
