@@ -86,6 +86,8 @@ Things that Muhammad did.
 
 What did he look like?
 
+An average looking fellow, neither tall nor short, with wavy hair, silver white skin, yellow beard, eyeliner and mascara, gap tooth and one tooth knocked out.
+
 ![Artist's rendition of Muhammad according to Hadiths](https://i.ibb.co/PMb3RRZ/IMG-1912.jpg)
 
 ### Muhammad was very average looking {#average-looks}
@@ -94,6 +96,13 @@ What did he look like?
 
 > The Messenger of Allah was not very tall nor was he [very] short, nor was he pale white, nor was he brown, nor was the wave of his hair completely curly nor straight…
 
+
+### Muhammad had a yellow beard
+
+
+[Sunan Ibn Majah 3626](https://sunnah.com/ibnmajah:3626)
+
+> I saw the Messenger of Allah dyeing his beard yellow
 
 ### Muhammad had a gap tooth
 

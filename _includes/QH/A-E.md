@@ -72,6 +72,10 @@ Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is dec
 
 This is also a verse that proves Islam is historically false, for [the crucifixion of Jesus is the most well documented event in ancient history.](#no-crucifixion)
 
+Surah 3:54
+
+
+
 ## Allah blinds people to the truth
 
 Surah 2:7
@@ -165,6 +169,20 @@ Allah sits on a throne in heaven.
 
 Allah doesn't know how time zones work. If he comes down every night at  3am, and leave at daybreak, in what time zone is he? It would mean that in one time zone he is descending while in another time zone he is ascending, at the same time. Therefore Allah is always somewhere in our atmosphere at all times, yet he is unable to enter our world, and he is [also located on his throne?](#allah-is-limited-to-one-location) How does it work?
 
+## Allah is visible 
+
+[Mishkat al-Masabih 725](https://sunnah.com/mishkat:725) (Sahih)
+
+> I saw my Lord in the most beautiful form…
+
+## Allah has hands
+
+[Mishkat al-Masabih 725](https://sunnah.com/mishkat:725) (Sahih)
+
+> He placed the palm of His hand between my shoulder-blades and I felt the coolness of it between my nipples!
+
+> I saw my Lord in the most beautiful form…
+
 ## Allah shakes hands
 
 [Sunan Ibn Majah 104](https://sunnah.com/ibnmajah:104)
@@ -252,6 +270,21 @@ Surah 68:42
 
 > Such people will try to prostrate (on the Day of Judgment) but their back swill be as stiff as if it is one bone
 
+## Allah's fatherhood
+
+### Jews and Christians have a familial relationship with God
+
+Surah 5:18
+
+> The Jews and the Christians each say, “We are the children of Allah and His most beloved!”
+
+The Quran admits Jews and Christians consider God to be their father. 
+
+### The best Muslims can hope for us to be slaves
+
+Surah 19:88-93
+
+> They say, “The All-Merciful (Allah) has got a son.”… they have ascribed a son to the All-Merciful (Allah), while it does not behove the All-Merciful to have a son. There is none in the heavens and the earth, but bound to come to the All-Merciful as a salve.
 
 ## Allah is the servant of Muhammad {#allah-serves-muhammad}
 

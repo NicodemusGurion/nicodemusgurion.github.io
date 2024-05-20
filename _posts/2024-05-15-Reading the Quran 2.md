@@ -1,11 +1,12 @@
 ---
-title: Reading the Quran, Surah 1 Al-Fatihah
+title: Reading the Quran, Surah 2 Al-Baqara 
 tags: [Islam, Quran, Reading the Quran]
 thumb: https://i.ibb.co/X5DhS7G/9223-F86-F-0-DFE-497-E-AD02-A0239-AF01-CAB.jpg
 image: https://i.ibb.co/nQKGYSk/BFBCFC6-A-B758-4-B54-BEED-E40-DBE2-B0-E12.jpg
+permalink: /quran-2/
 ---
 
-Al-Bararah, or "The Cow" is the second Surah of the Quran. It's the longest surah with 286 verses. It's hard to pinpoint exactly what it's about because the author jumps back and forth between topics like a rabid squirrel. A lot of of it seems to be self-glazing where Allah emphasizes just how freaking awesome he is and how much of a stupid meanie-head and loser everyone is who doesn't like him. Between that are random out-of-context stories and laws on random topics mixed in. All in all this surah reads like the ramblings of a schizophrenic patient in a mental institute. So many things are out of context that it is pretty much impossible to understand what is going on unless you have this previous knowledge. All in all it haphazardly changes topic at least 68 times.
+Al-Baqara, or "The Cow" is the second Surah of the Quran. It's the longest surah with 286 verses. It's hard to pinpoint exactly what it's about because the author jumps back and forth between topics like a rabid squirrel. A lot of of it seems to be self-glazing where Allah emphasizes just how freaking awesome he is and how much of a stupid meanie-head and loser everyone is who doesn't like him. Between that are random out-of-context stories and laws on random topics mixed in. All in all this surah reads like the ramblings of a schizophrenic patient in a mental institute. So many things are out of context that it is pretty much impossible to understand what is going on unless you have this previous knowledge. All in all it haphazardly changes topic at least 68 times.
 
 This chapter is massive with 286 verses. So this article will be long. I'll try to cut out as much text as possible to keep it shorter.
 
@@ -1012,3 +1013,6 @@ That Muslims have to beg their god to not punish them with tyrannical requiremen
 
 # End notes
 
+I can not understand how anyone could read this and perceive any literary value at all. I have read phone books more engaging. That [verse 2:23](#2-23) challenges us to come up with a better Surah is laughable. The only way that this would be the best, most excellent piece of literature, is if literally every other piece of literature was eliminated. 
+
+It is totally incoherent. It jumps wildly from topic to topic without any rhyme or reason. I counted at least 68 abrupt changes of topic. Even something like ["A pickle for  the knowing ones"](https://en.m.wikipedia.org/wiki/A_Pickle_for_the_Knowing_Ones) is a more coherent read. Whoever wrote this was surely schizophrenic. So if Muslims claim that Allah wrote it, fine, you worship a schizophrenic god. But if Muhammad wrote it, fine, you follow a schizophrenic man.
