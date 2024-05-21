@@ -202,6 +202,8 @@ The Prophet said, "It is better for a man to fill the inside of his body with pu
 
 ### Muhammad almost caused a famine {#caused-famine}
 
+[Sunan Ibn Majah 2471](https://sunnah.com/ibnmajah:2471)
+
 > It was narrated from 'Aisha that the Prophet heard some sounds and said: “What is this noise?” They said: “Palm trees that are being pollinated.” He said: “If they did not do that it would be better.” So they did not pollinate them that year, and the dates did not mature properly. they mentioned that to the Prophet and he said: “If it is one of the matters of your religion, then refer to me.”
 
 Muhammad's incompetence caused the harvest to almost fail, yet he had the gall to tell people to consult him.
