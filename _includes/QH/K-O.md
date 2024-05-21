@@ -563,7 +563,9 @@ Also:
 
 > Narrated Abu Huraira: The Prophet once offered the prayer and said, "Satan came in front of me and tried to interrupt my prayer, but Allah gave me an upper hand on him and I choked him. No doubt, I thought of tying him to one of the pillars of the mosque till you get up in the morning and see him. Then I remembered the statement of Prophet Solomon, 'My Lord ! Bestow on me a kingdom such as shall not belong to any other after me.' Then Allah made him (Satan) return with his head down (humiliated)."
 
-### Muhammad was commanded by Satan
+### Muhammad was commanded by jinns
+
+[Sahih Muslim 2814 a](https://sunnah.com/muslim:2814a)
 
 > Allah's Messenger said: There is none amongst you with whom is not an attache from amongst the jinn (devil). They (the Companions) said: Allah's Messenger, with you too? Thereupon he said: Yes, but Allah helps me against him and so I am safe from his hand and **he does not command me but for good.**
 
@@ -669,11 +671,6 @@ See also:
 
 The fact that other men are not drawn to sexually abuse children makes Muhammad flabbergasted.
 
-## Muhammad had a sex slave
-
-[Sunan an-Nasa'i 3959](https://sunnah.com/nasai:3959)
-
-> It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse
 
 ### Muhammad believed a woman's silence means consent {#silence-is-consent}
 
@@ -775,6 +772,14 @@ See also:
 
 - [Sahih al-Bukhari 5435](https://sunnah.com/bukhari:5435)
 - [Black slaves are worth half of Arab slaves](#black-slaves-worth-less)
+
+### Muhammad had a sex slave
+
+[Sunan an-Nasa'i 3959](https://sunnah.com/nasai:3959)
+
+> It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse
+
+See [Muhammad and sex](#muhammad-and-sex), [Rape](#rape), [Sex slaves](#sex-slaves).
 
 ### Muhammad sold slaves {#slave-trader}
 
