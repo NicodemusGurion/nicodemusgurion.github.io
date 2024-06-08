@@ -309,7 +309,25 @@ Not only are Muslims allowed to rape women, but can just discard them like trash
 
 
 
+# Resurrection 
 
+## The hour of resurrection 
+
+Surah 22:6-7
+
+> That is because Allâh: He is the Truth, and it is He Who gives life to the dead, and it is He Who is Able to do all things. And surely, the Hour is coming, there is no doubt about it; and certainly, Allâh will resurrect those who are in the graves.
+
+The one who is called the truth, and who will raise people to life at the hour of resurrection is God. Let's see what the Bible says.
+
+John 5:25,28,29 
+
+> “Truly, truly, I say to you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live....28 Do not marvel at this, for an hour is coming when all who are in the tombs will hear his voice 29 and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment.
+
+John 14:6 
+
+> Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.
+
+The one who is called the truth, and who will raise people to life at the hour of resurrection is Jesus. So the Quran admits that Jesus is God.
 
 
 

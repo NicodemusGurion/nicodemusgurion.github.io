@@ -74,7 +74,9 @@ Surah 2:21-22
 
 **New topic:** Encouraging worship of Allah.
 
-## 2: 23
+# 23
+
+Surah 2:23
 
 > [And if you are in doubt about what We have bestowed upon Our servant from on high, then bring a single surah of its like, and call your witnesses apart from Allah if you are truthful.](https://quran.com/2/23)
 
@@ -121,19 +123,23 @@ Surah 2:26
 > Indeed, Allah does not shy away from setting forth any parable, ... He misguides many thereby…
 
 
-**New topic: ** Paeables
+**New topic:** Parables
 
 It's interesting that Allah is said to be using parables, and whether someone understands them or not depends on whether they are humble or not. This is one of the attributes of Jesus, who used parables because the humble understands them but the proud does not. (Matt. 13:10-17; Mark 4:11,12; Luke 8:9, 10) One of many ayah that inadvertently admit that Jesus is Allah.
 
 However it says that Allah misguides people, and [Allah being a liar and deceiver is a recurring theme.](/quran-and-hadiths#allah-deceives)
 
-## [2: 27](https://quran.com/2/27
+# 27
+
+Surah 2:27
 
 > …those are the losers.)
 
 Allah has the vocabulary of a 14 year old boy.
 
-## 2:28
+# 28
+
+Surah 2:28
 
 > […you were lifeless and He gave you life, then He puts you to death, then He brings you to life, then to Him you are returned](https://quran.com/2/28)
 
@@ -566,7 +572,7 @@ No, claiming that would be ahistorical nonsense like what Muhammad is doing. We 
 
 Muhammad makes the claim that there is some hidden testimony. Muslims often say things like that but they can never prove that these made up hidden words ever existed or what they supposedly were.
 
-# 142-144 
+# 142-144, 149-150
 
 Surah 2:142-144, 149-150
 
@@ -590,7 +596,7 @@ So Muhammad used to pray facing heaven (like Jesus did), but then Allah didn't w
 
 We have an argument against it, because it smacks of idolatry.
 
-# 145 
+# 145, 148
 
 Surah 2:145, 148
 

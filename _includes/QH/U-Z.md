@@ -300,6 +300,10 @@ This means men are allowed to marry and divorce prepubescent girls.
 
 ## Most people in hell are women {#most-in-hell-women}
 
+[Sunan an-Nasa'i 1493](https://sunnah.com/nasai:1493)
+
+> I saw Hell and I have never seen anything like it, and I saw that most of its inhabitants are women.
+
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
 >  Allah's Messenger … passed by the women and said, "O women! Give alms, as I have seen that the majority of the dwellers of Hell-fire were you (women)." …
@@ -374,3 +378,9 @@ In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#
 [Mishkat al-Masabih 3105](https://sunnah.com/mishkat:3105)
 
 > God’s Messenger [said], “A woman advances in the form of a devil and retires in the form of a devil.
+
+## Men are not allowed to wash themselves with the same water a woman has used
+
+[Sunan an-Nasa'i 343](https://sunnah.com/nasai:343)
+
+> The Messenger of Allah forbade a man from performing Wudu' (washing) with the leftovers of a woman's (water for) Wudu' (washing).

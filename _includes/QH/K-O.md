@@ -97,7 +97,7 @@ An average looking fellow, neither tall nor short, with wavy hair, silver white 
 > The Messenger of Allah was not very tall nor was he [very] short, nor was he pale white, nor was he brown, nor was the wave of his hair completely curly nor straight…
 
 
-### Muhammad had a yellow beard
+### Muhammad dyed his beard yellow {#yellow-beard}
 
 
 [Sunan Ibn Majah 3626](https://sunnah.com/ibnmajah:3626)
@@ -128,6 +128,7 @@ An average looking fellow, neither tall nor short, with wavy hair, silver white 
 Also:
 
 - [Sahih Muslim 2343 a](https://sunnah.com/muslim:2343a)
+- [Sunan Abi Dawud 486](https://sunnah.com/abudawud:486)
 
 ### Muhammad used mascara and eyeliner {#make-up-tips}
 
@@ -150,7 +151,7 @@ See also:
 
 > The face of the Prophet [was] wounded and one of his front teeth [wa]s broken
 
-### Muhammad was a transvestite
+### Muhammad dressed in drag
 
 [Sahih al-Bukhari 2581](https://sunnah.com/bukhari:2581) tells a story about how people only came with gifts and requesting revelations of Muhammad on the days he was staying in Alisha's house. They did this because they knew Aisha was his favorite wife and perhaps he was in a good mood while he was sexually assaulting his child bride. In any case his other wives complained that Aisha was favoured and wanted people to come with gifts when Muhammad was with them too. But Muhammad explains the reason why people only come to him in Aishas house:
 
@@ -161,7 +162,7 @@ Allah will not give Muhammad any revelations unless he is cross dressing in Aish
 Note that Sunnah.com often adds to and changes translations that are too embarrassing, so they have changed the English translation here to read "beds" rather than "woman's garment". But the Arabic is "لاَ تُؤْذِينِي فِي عَائِشَةَ، فَإِنَّ الْوَحْىَ لَمْ يَأْتِنِي، وَأَنَا فِي ثَوْبِ امْرَأَةٍ إِلاَّ عَائِشَةَ ‏" where the words " ثَوْبِ امْرَأَةٍ" means "women's dress", not "bed". But this kind of deception is to be expected because without lies Islam dies.
 
 
-
+Deuteronomy 22:5 says “A woman shall not wear a man’s garment, nor shall a man put on a woman’s cloak, for whoever does these things is an abomination to the LORD your God."
 
 
 
@@ -187,12 +188,27 @@ The Bible says that being kind and help orphans in their need is pure and undefi
 
 Even Surah 93:9 says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
 
+
+Exodus 22:22 says "You shall not mistreat any widow or fatherless child."
+
+
+### Muhammad disdained a blind man
+
+Surah 80:1,2
+
+> The Prophet frowned and turned away when the blind man came to him.
+
+Mark 10:46-42, Luke 18:35-43 and John 9 tells of how Jesus treated blind people. While others may opress them, Jesus calls them to himself and heals them. Muhammad can't heal anyone, but even looks down on the blind with contempt.
+
+Leviticus 19:14 says "You shall not curse the deaf or put a stumbling block before the blind, but you shall fear your God: I am the LORD."
+
+
 ### Muhammad did not like poetry {#philistine}
 
 The Prophet said, "It is better for a man to fill the inside of his body with pus than to fill it with poetry."
 
 
-### Muhammad was a hypocrite 
+### Muhammad didn't practice what he preached {#hypocrite}
 
 [Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
 
@@ -252,6 +268,25 @@ Also [Ash-Shama'il Al-Muhammadiyah 3](https://sunnah.com/shamail:3) says Muhamma
 
 Sure, Moe, if it weren't for the people needing their cult leader, you would have jumped right into the fray, over and over, rather than sending others to their death. You're so tough!
 
+See also:
+
+- [Sunan an-Nasa'i 3098](https://sunnah.com/nasai:3098)
+
+## Those who die for Allah are the best of people
+
+[Sunan an-Nasa'i 3106](https://sunnah.com/nasai:3106)
+
+> Among the best of the people is a man who strives in the cause of Allah on the back of his horse, or on the back of his camel, or on his own two feet, until death comes to him.
+
+## Killing disbelievers guarantees immunity from hell
+
+[Sunan an-Nasa'i 3109](https://sunnah.com/nasai:3109)
+
+> Two will never be gathered together in the Fire: A Muslim who killed a disbeliever then tried his best and did not deviate.
+
+[Sunan an-Nasa'i 3116](https://sunnah.com/nasai:3116)
+
+> Anyone whose feet become dusty in the cause of Allah, he will be forbidden to the Fire
 
 
 
@@ -354,6 +389,17 @@ Muhammad's father is in hell.
 
 To say that water is not defiled by anything, not even the rotting corpses of dogs and donkeys, menstrual waste products and literal feces is insane and unscientific. This unhygienic idea has probably cost the lives of untold numbers of people throughout history.
 
+See also:
+
+- [Sunan an-Nasa'i 326](https://sunnah.com/nasai:326)
+- [Sunan an-Nasa'i 327](https://sunnah.com/nasai:327)
+
+### Muhammad didn't understand how pollution works
+
+[Sunan an-Nasa'i 328](https://sunnah.com/nasai:328)
+
+> The Messenger of Allah was asked about water and how some animals and carnivorous beasts might drink from it. He said: 'If the water is more than two Qullahs (ca 200 liters), it will not become filthy.'
+
 ### Muhammad gargled with dick water {#dick-water}
 
 [Sahih al Bukhari 274](https://sunnah.com/bukhari:274)
@@ -420,11 +466,17 @@ See also:
 - [Sahih Muslim 2148](https://sunnah.com/muslim:2148)
 
 
-### Muhammad exhumed a dead man and spat in his mouth {#spitting-in-mouth-of-dead}
+### Muhammad exhumed a dead man to spit in his mouth {#spitting-in-mouth-of-dead}
 
 [Sahih Muslim 2773a](https://sunnah.com/muslim:2773a)
 
 > Jabir reported Allah's Apostle  came to the grave of 'Abdullah b. Ubayy, brought him out from that, placed him on his knee and put his saliva in his mouth and shrouded him in his own shirt and Allah knows best.
+
+### Muhammad spat on his prayer mat
+
+[Sunan Abi Dawud 484](https://sunnah.com/abudawud:484)
+
+> AbuSa'id said: I saw Wathilah ibn al-Asqa' in the mosque of Damascus. He spat at the mat and then rubbed it with his foot. He was asked: Why did you do so? He said: Because I saw the Messenger of Allah doing so.
 
 ### Muhammad urinated squatting
 
@@ -618,7 +670,7 @@ So which is it? Muhammad never did any miracles, or Muhammad did miracles? This 
 
 ### Mohammed was a pedophile {#child-sexual-abuse}
 
-[Sunna an Nasa'i 3378](https://sunnah.com/nasai:3378)
+[Sunan an Nasa'i 3378](https://sunnah.com/nasai:3378)
 
 > "The Messenger of Allah married me when I was six, and consummated the marriage with me when I was nine, and I used to play with dolls."
 

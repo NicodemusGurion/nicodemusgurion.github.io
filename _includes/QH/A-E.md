@@ -169,6 +169,12 @@ Allah sits on a throne in heaven.
 
 Allah doesn't know how time zones work. If he comes down every night at  3am, and leave at daybreak, in what time zone is he? It would mean that in one time zone he is descending while in another time zone he is ascending, at the same time. Therefore Allah is always somewhere in our atmosphere at all times, yet he is unable to enter our world, and he is [also located on his throne?](#allah-is-limited-to-one-location) How does it work?
 
+## Allah manifests himself to creation
+
+[Sunan an-Nasa'i 1485](https://sunnah.com/nasai:1485)
+
+> When Allah, the Mighty and Sublime, manifests Himself to anything of His creation, it humbles itself before Him
+
 ## Allah is visible 
 
 [Mishkat al-Masabih 725](https://sunnah.com/mishkat:725) (Sahih)
@@ -269,6 +275,8 @@ Surah 68:42
 [Sahih al-Bukhari 4919](https://sunnah.com/bukhari:4919)
 
 > Such people will try to prostrate (on the Day of Judgment) but their back swill be as stiff as if it is one bone
+
+
 
 ## Allah's fatherhood
 
@@ -372,6 +380,11 @@ Allah is oddly concerned with people not annoying Muhammad with unnecessary spee
 [Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
 
 > the Messenger of Allah commanded that all dogs be killed, even small dogs.
+
+See also:
+
+- [Sunan an-Nasa'i 336](https://sunnah.com/nasai:336)
+- [Sunan an-Nasa'i 337](https://sunnah.com/nasai:337)
 
 ## Kill all lizards
 

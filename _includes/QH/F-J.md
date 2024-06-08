@@ -61,6 +61,18 @@ You don't want to piss of the jinn.
 > And narrated Hamza bin 'Abdullah: My father said. "During the lifetime of Allah's Apostle, the dogs used to urinate, and pass through the mosques (come and go), nevertheless they never used to sprinkle water on it (urine of the dog.)"
 
 
+## People used to ultimate in the mosque
+
+[Sunan an-Nasa'i 329](https://sunnah.com/nasai:329)
+
+> It was narrated from Anas that a Bedouin urinated in the Masjid, and some of the people went after him, but the Messenger of Allah said: "Do not restrain him." When he had finished he called from a bucket (of water) and poured over it.
+
+See also:
+
+- [Sunan an-Nasa'i 330](https://sunnah.com/nasai:330)
+
+
+
 ## Don't come to mosque with garlic breath {#garlic}
 
 [Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
@@ -236,6 +248,13 @@ See also [Violence](#violence) and [Muhammad and violence](#muhammad-and-violenc
 [Sahih al-Bukhari 36](https://sunnah.com/bukhari:36)
 
 > The Prophet said, "The person who participates in (Holy battles) in Allah's cause and nothing compels him to do so except belief in Allah and His Apostles, will be recompensed by Allah either with a reward, or booty (if he survives) or will be admitted to Paradise (if he is killed in the battle as a martyr). 
+
+
+## Whoever does not fight is a hypocrite
+
+[Sunan an-Nasa'i 3097](https://sunnah.com/nasai:3097)
+
+> "Whoever dies without having fought or thought of fighting, he dies on one of the branches of hypocrisy."
 
 
 

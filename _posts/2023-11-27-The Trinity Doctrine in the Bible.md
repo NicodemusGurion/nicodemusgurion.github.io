@@ -664,6 +664,12 @@ In [Jeremiah 2:13](#jeremiah-2-13) and [17:13](#jeremiah-17-13) it says that the
 
 What Jesus said was no mistake but deliberately meant to make people believe he is equal in substance with God, in other words that he is God.
 
+## John 5: 19
+
+> For whatever the Father does, that the Son does likewise.
+
+The Son not only has the authority but also the power to do everything that God the Father does. Can it be said about any creature that they can do **everything** that God can do? Logically no. Only God, the uncreated, can do everything that God does.
+
 ## John 5: 21
 
 > For as the Father raises the dead and gives them life, so also the Son gives life to whom he will.
@@ -699,6 +705,18 @@ The disciples knew that only God has the power to walk on the water. ([Job 9:8](
 > 38 Whoever believes in me, as the Scripture has said, ‘Out of his heart will flow rivers of living water.’” 39 Now this he said about the Spirit, whom those who believed in him were to receive, for as yet the Spirit had not been given, because Jesus was not yet glorified.
 
 In [Jeremiah 2:13](#jeremiah-2-13) and [17:13](#jeremiah-17-13) it says that the Lord Jehovah is the fountain of living water. Here Jesus reveals that he is the fountain of living water. And it reveals that the living water is the Holy Spirit. This confirms they trinity doctrine that the Son is begotten of the Father and the Holy Spirit proceeds from the Father through the Son.
+
+## John 8: 24
+
+> (NASB20) “Therefore I said to you that you will die in your sins; for unless you believe that **I am**, you will die in your sins.”
+
+The NASB20 is the only translation I have that translates the Greek accurately. Other translations add words like "I am he" or "I am the one", but in the Greek, Jesus says "πιστεύσητε (you must believe) ὅτι (that) ἐγώ εἰμι (I AM)"
+
+What did they have to believe? That Jesus exist? That he is? Is what?
+
+Yes, that he exists, in the ultimate fundamental sense, of being existence itself, the self-existent one, the one who introduced himself as the "I am" in [Exodus 3:14.](#exodus-3-14)
+
+Often [John 8:58](#john-8-58) is used  to show the deity of Jesus by linking his statement to Exodus 3:14, but I think that this verse is even more clear in a way, and it supports the argument for verse 58.
 
 ## John 8: 58
 
