@@ -84,6 +84,11 @@ If you want to say that "God **is** your throne..." you would typically have to 
 
 So there is no justification for translating this as "God is your throne" other than that the Watchtower needs to protect their doctrine that Jesus is not God. And since Paul uses this verse in [Hebrews 1:8](#hebrews-1-8) about Jesus, it would mean that Jesus is referred to as God. It is a strong evidence for the divinity of Jesus.
 
+# Proverbs 8:1-3
+
+> 1 Is not wisdom calling out? Is not discernment raising **its** voice? 2 On the heights along the road, **It** takes its position at the crossroads. 3 Next to the gates leading into the city, At the entrances of the doorways, **It** keeps crying out loudly
+
+In these verses the Hebrew uses the feminine pronouns for wisdom, her and she. The NWT uses gender neutral pronouns, likely because of their strong emphasis of wisdom being the preincarnate Jesus.
 
 # Proverbs 8: 22
 
