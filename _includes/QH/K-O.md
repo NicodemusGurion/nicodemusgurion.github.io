@@ -794,8 +794,11 @@ Which translates as:
 > She said: My father asked permission from the Prophet, … and he came between him and his shirt and began to kiss and cuddle.
 
 
+## Muhammad ordered his followers to bite their father's penis
 
+[Al-Adab Al-Mufrad 963 (Sahih)](https://sunnah.com/adab:963)
 
+>  I heard the Prophet, may Allah bless him and grant him peace, say, "Whomever attributes himself (in lineage) with an attribution of Jahiliyyah, then tell him to bite his father's male organ and do not speak figuratively (i.e. be explicit)." ' "
 
 
 
@@ -878,7 +881,7 @@ See also [Jihad](#jihad), and [Violence](#violence)
 
 > Narrated Aisha: The Prophet cut off the hand of a lady, and that lady used to come to me, and I used to convey her message to the Prophet and she repented, and her repentance was sincere.
 
-### Muhammad stoned a woman {#muhammad-stoned-woman}
+### Muhammad personally stoned a woman {#muhammad-stoned-woman}
 
 [Sunan Ibn Majah 2555](https://sunnah.com/ibnmajah:2555)
 

@@ -408,6 +408,30 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 > Allah's Messenger said, "Allah has ninety-nine Names, one-hundred less one; and he who memorized them all by heart will enter Paradise." 
 
 
+## Allah is a fickle and arbitrary judge
+
+> "Indeed two men among those who entered the Fire will be screaming violently.  So the Lord, Blessed and Exalted, will say: 'Take them out.'  Then when they are taken out He will say: 'What caused you to scream so violently?'
+
+Is Allah stupid or just cruel?
+
+> They will say: 'We did that so You would have mercy on us.' He will say: 'My mercy for you is that you both go and throw yourselves where you were in the Fire.' 
+
+How is it mercy to tell someone to throw themselves into hellfire? Seems like something Saw would do.
+
+> So they will go. One of them will throw himself in, and He will make it cool and peaceful for him. 
+
+How is it justice to randomly make hell comfortable for a sinner? Allah is not consistent at all.
+
+> And the other will stand there and not throw himself in, so the Lord, Mighty and Majestic, will say to him: 'What prevented you from throwing yourself in as your companion did?' He will say: 'O Lord! I hope that you will not return me to it after You have taken me out.' 
+
+Understandable. This guy doesn't play Allah's manipulative games.
+
+> So the Lord, Blessed and Exalted, will say to him: 'For you is what you hoped for,' and so they will both enter Paradise together by the mercy of Allah."
+
+So he is pardoned for not accepting Allahs "mercy" of throwing himself into hell? And the other guy was also taken with him to paradise? Allah has proven to be neither merciful, nor just, nor consistent, but fickle and arbitrary and completely illogical.
+
+
+
 
 
 
@@ -680,6 +704,12 @@ Compare to the Mosaic law in Deuteronomy 23:15-16:
 [Sahih Muslim 999](https://sunnah.com/muslim:999)
 
 > Maimuna bint Harith reported that she set free a slave-girl during the lifetime of the Messenger of Allah and she made a mention of that to the Messenger of Allah and he said: Had you given her to your maternal uncles, you would have a greater reward.
+
+## Value of slaves
+
+[Muwatta Malik Book 20, Hadith 243](https://sunnah.com/urn/409590)
+
+> The value of the newly-born slave is fifty dinars, and that is one-tenth of what the blood-money for the mother would be.
 
 ## Black slaves are worth half of Arab slaves {#black-slaves-worth-less}
 

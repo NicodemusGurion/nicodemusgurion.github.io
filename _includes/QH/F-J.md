@@ -61,7 +61,7 @@ You don't want to piss of the jinn.
 > And narrated Hamza bin 'Abdullah: My father said. "During the lifetime of Allah's Apostle, the dogs used to urinate, and pass through the mosques (come and go), nevertheless they never used to sprinkle water on it (urine of the dog.)"
 
 
-## People used to ultimate in the mosque
+## People used to urinate in the mosque
 
 [Sunan an-Nasa'i 329](https://sunnah.com/nasai:329)
 
@@ -110,6 +110,8 @@ See also:
 > The Prophet said "If a house fly falls in the drink of anyone of you, he should dip it (in the drink) and take it out, for one of its wings has a disease and the other has the cure for the disease."
 
 🤮
+
+
 
 
 

@@ -263,6 +263,14 @@ This is if a man even only fears his wife would be disobedient.
 
 Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 
+## Abu Bakr hit Aisha
+
+[Sahih al-Bukhari 6845](https://sunnah.com/bukhari:6845)
+
+> Narrated Aisha: Abu Bakr came to towards me and struck me violently with his fist and said, "You have detained the people because of your necklace." But I remained motionless as if I was dead lest I should awake Allah's Messenger although that hit was very painful.
+
+So it's ok to just go punch some other man's wife too?
+
 
 ## No women has it worse than Muslim women {#muslimas-treated-worst}
 
@@ -271,6 +279,16 @@ Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 > Rifa'a divorced his wife whereupon AbdurRahman bin Az-Zubair Al-Qurazi married her. Aisha said that the lady came, wearing a green veil and complained to her (Aisha) of her husband and showed her a green spot on her skin caused by beating. It was the habit of ladies to support each other, so when Allah's Messenger came, Aisha said, "I have not seen any woman suffering as much as the believing women. Look! Her skin is greener than her clothes!"…
 
 Even Aisha, the "mother of the believers", admits that no women are treated as poorly as Muslim women. This muslima was beaten so severely that her bruises were greener than her green veil.
+
+## Women should be circumcised 
+
+[Al-Adab Al-Mufrad 53:2](https://sunnah.com/adab/53/2)
+
+> "I was captured with some **girls** from Byzantium. 'Uthman offered us Islam, but only myself and one other girl accepted Islam. 'Uthman said, '**Go and circumcise them** and purify them.'"
+
+[Al-Adab Al-Mufrad 53:4](https://sunnah.com/adab/53/4)
+
+> the daughters of 'A'isha's brother were circumcised
 
 ## Women are to be plowed like a field {#plowing-women}
 
