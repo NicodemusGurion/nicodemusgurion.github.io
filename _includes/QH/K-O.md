@@ -431,6 +431,12 @@ See also:
 
 > Narrated Ibn 'Abbas: The Prophet  said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
 
+### Muhammad told his followers to drink his spit
+
+[Sahih al-Bukhari 188](https://sunnah.com/bukhari:188)
+
+> The Prophet asked for a tumbler containing water and washed both his hands and face in it and then threw a mouthful of water in the tumbler and said to both of us (Abu Musa and Bilal), "Drink from the tumbler and pour some of its water on your faces and chests."
+
 ### Muhammad spit three times in a man's wound {#spitting-in-wounds}
 
 [Sahih al Bukhari 4206](https://sunnah.com/bukhari:4206)
