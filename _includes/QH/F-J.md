@@ -139,8 +139,13 @@ Surah 4:65
 
 > But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.
 
+## View of non-Muslims
 
+Surah 98:6
 
+> Indeed, those who disbelieve from the People of the Book and the polytheists will be in the Fire of Hell, to stay there forever. They are the worst of ˹all˺ beings
+
+Islam views non-Muslims as the worst of all beings.
 
 
 # Jesus Christ
@@ -257,6 +262,20 @@ See also [Violence](#violence) and [Muhammad and violence](#muhammad-and-violenc
 [Sunan an-Nasa'i 3097](https://sunnah.com/nasai:3097)
 
 > "Whoever dies without having fought or thought of fighting, he dies on one of the branches of hypocrisy."
+
+
+## The event that triggered Jihad (#allah-allows-jihad)
+
+[Sunan an-Nasa'i 3085](https://sunnah.com/nasai:3085)
+
+> “When the Prophet was expelled from Makkah, … it was revealed: ‘Permission to fight (against disbelievers) is given to those (believers) who are fought against, because they have been wronged; and surely, Allah is able to give them (believers) victory.’ Then I knew that there would be fighting.” Ibn Abbas said: “This is the first Verse that was revealed concerning fighting.”
+
+When Muhammad and his tiny band of followers were kicked out of Mecca for being a nuisance, Muhammad had a convenient revelation (Surah 23:39) where Allah gave him permission to convert his cult into the death machine that has plagued mankind since.
+
+
+
+
+
 
 
 

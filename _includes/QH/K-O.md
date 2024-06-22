@@ -800,7 +800,7 @@ Which translates as:
 > She said: My father asked permission from the Prophet, … and he came between him and his shirt and began to kiss and cuddle.
 
 
-## Muhammad ordered his followers to bite their father's penis
+### Muhammad ordered his followers to bite their father's penis
 
 [Al-Adab Al-Mufrad 963 (Sahih)](https://sunnah.com/adab:963)
 
@@ -834,11 +834,13 @@ See also:
 - [Sahih al-Bukhari 5435](https://sunnah.com/bukhari:5435)
 - [Black slaves are worth half of Arab slaves](#black-slaves-worth-less)
 
-### Muhammad had a sex slave
+### Muhammad had a sex slave (#muhammads-sex-slave)
 
 [Sunan an-Nasa'i 3959](https://sunnah.com/nasai:3959)
 
-> It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse
+> It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
+
+Muhammad was having sex with a sex slave and his wives complained. But then Allah [conveniently revealed](#convenient-revelation) Surah 66:1, that Muhammad can do that if he wishes.
 
 See [Muhammad and sex](#muhammad-and-sex), [Rape](#rape), [Sex slaves](#sex-slaves).
 

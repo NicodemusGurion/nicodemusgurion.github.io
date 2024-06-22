@@ -277,6 +277,15 @@ Surah 68:42
 > Such people will try to prostrate (on the Day of Judgment) but their back swill be as stiff as if it is one bone
 
 
+## Allah has office hours
+
+[Sahih al-Bukhari 582, 583](https://sunnah.com/bukhari:582)
+
+> Allah's Messenger said, 'Do not pray at the time of sunrise and at the time of sunset.' " Ibn Umar said, "Allah's Messenger said, 'If the edge of the sun appears (above the horizon) delay the prayer till it becomes high, and if the edge of the sun disappears, delay the prayer till it sets (disappears completely).'
+
+It seems Allah is unable to receive prayers when the earth and sun are at a specific angle with one another. Perhaps the position of the sun affects the reception? Or is his Office closed during those hours? And how does that work, since the sun is rising or setting somewhere in the world all the time?
+
+
 
 ## Allah's fatherhood
 
@@ -553,6 +562,25 @@ Surah 83:22-26
 Why does Allah in Paradise serve a drink that is "filth made up by Satan"?
 
 See also Surah 37:43-46; 47:15
+
+
+
+# Convenient revelations
+
+One feature that keeps showing up in Islamic sources is the fact that whenever Muhammad has any kind of setback or minor inconvenience, suddenly Allah comes with a convenient revelation to solve it for him. It's quite obvious that he perpetrated a self-serving scam.
+
+See also [Allah serves Muhammad.](#allah-serves-muhammad)
+
+- [When Muhammad is kicked out of Mecca, suddenly Allah grants him permission to use violence.](#allah-allows-jihad) (Surah 22:39)
+- [When Muhammad is accused of stealing red velvet underwear, Allah comes to his defense, but does not reveal the real thief.](#red-velvet)
+- [When the wives of Muhammad complained that he was having sex with a slave girl, Allah steps in and says that he is allowed to.](#muhammads-sex-slave)
+
+
+
+
+
+
+
 
 
 

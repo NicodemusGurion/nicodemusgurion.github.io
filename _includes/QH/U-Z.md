@@ -263,6 +263,15 @@ This is if a man even only fears his wife would be disobedient.
 
 Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 
+## Pushover Muhammad insults victims of domestic abuse
+
+[Sunan Abi Dawud 2146 (Sahih)](https://sunnah.com/abudawud:2146)
+
+> Iyas ibn Abdullah ibn Abu Dhubab reported the Messenger of Allah as saying: Do not beat Allah's handmaidens, but when Umar came to the Messenger of Allah and said: Women have become emboldened towards their husbands, he (the Prophet) gave permission to beat them. Then many women came round the family of the Messenger of Allah complaining against their husbands. So the Messenger of Allah said: Many women have gone round Muhammad's family complaining against their husbands. They are not the best among you.
+
+At first it seems Muhammad was against wife beating, but being a pushover milquetoast with no backbone, one sentence by Umar made him change his mind. Instead he started promoting wife beating and said that women who complained about being beaten were "not the best among you."
+
+
 ## Abu Bakr hit Aisha
 
 [Sahih al-Bukhari 6845](https://sunnah.com/bukhari:6845)
