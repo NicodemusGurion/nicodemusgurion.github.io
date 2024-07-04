@@ -148,6 +148,30 @@ Surah 98:6
 Islam views non-Muslims as the worst of all beings.
 
 
+## Backgammon is forbidden
+
+[Sunan Ibn Majah 3763](https://sunnah.com/ibnmajah:3763)
+
+> Whoever plays backgammon, it is as if he dipped his hand in the flesh and blood of a pig.
+
+See also:
+
+- [Al-Adab Al-Mufrad 1271](https://sunnah.com/adab:1271)
+- [Al-Adab Al-Mufrad 1277](https://sunnah.com/adab:1277)
+
+## Stoning is monkey business 
+
+[Sahih al-Bukhari 3849](https://sunnah.com/bukhari:3849)
+
+> During the pre-lslamic period of ignorance I saw a she-monkey surrounded by a number of monkeys. They were all stoning it, because it had committed illegal sexual intercourse. I too, stoned it along with them.
+
+Seems like monkeys and Muslims are allies in woman hating.
+
+
+
+
+
+
 # Jesus Christ
 
 What Islam teaches about Jesus varies. Some things are more or less accurate, but many things are false, antichristian and blasphemous.
@@ -198,17 +222,24 @@ Surah 4:157-158
 
 > The Prophet said, "A group of Israelites were lost. Nobody knows what they did. But I do not see them except that they were cursed and changed into rats, for if you put the milk of a she-camel in front of a rat, it will not drink it, but if the milk of a sheep is put in front of it, it will drink it."
 
+
+## Jews are equal to asses and pigs
+
+[Mishkat al-Masabih 789](https://sunnah.com/mishkat:789)
+
+> When one of you prays without a sutra, an ass, a pig, a Jew, a Magian, and a woman cut off his prayer.
+
 ## The verse Muslims use to lie that Islam is peaceful {#peaceful}
 
 Surah 5:32
 
 > That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
 
-This verse is often quoted by Muslims doing Taqqiya to say that Islam is peaceful. But as you can see, it is a command directed to the people of Israel, not Muslims. 
+This verse is often quoted by Muslims doing taqiyya to say that Islam is peaceful. But as you can see, it is a command directed to the people of Israel, not Muslims. 
 
 It is a quotation from the Talmud. So the Quran is actually saying that the commentary by a rabbi in the Talmud is "revelation from Allah."
 
-Also notice that this command has the stipulation "unless as a punishment for murder or mischief in the land", meaning that Jews had the right of capital punishment for those spreading mischief in the land. But in other cases, killing one would be like killing all. 
+Also notice that this command has the stipulation "unless as a punishment for murder or mischief in the land", meaning that Jews had the right of capital punishment for those spreading mischief in the land. But in other cases, killing one person would be like killing all of humanity.
 
 And what "land" is it talking about? Well, the land of the Jews, Israel, or Palestine as it was later renamed. 
 

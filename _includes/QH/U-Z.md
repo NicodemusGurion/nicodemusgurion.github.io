@@ -133,11 +133,14 @@ Also:
 - [Sunnah Mishkat al-Masabih 316](https://sunnah.com/mishkat:316)
 - [Sunnah Ibn Majah 477](https://sunnah.com/ibnmajah:477)
 
-## Instructions on sandal straps
 
-[Al-Adab Al-Mufrad 956](https://sunnah.com/adab:956)
 
-> …"When one of you breaks his sandal-strap, he should not walk in his other sandal until it is mended."
+## Muhammad comforted a crying date palm
+
+[Sahih al-Bukhari 2095](https://sunnah.com/bukhari:2095)
+
+> The date-palm stem near which the Prophet used to deliver his sermons cried so much so that it was about to burst. The Prophet came down from the pulpit to the stem and embraced it and it started groaning like a child being persuaded to stop crying and then it stopped crying.
+
 
 ## Moses had his clothes stolen by a stone
 
@@ -374,11 +377,15 @@ See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
 
 So since women can't pray or fast during their period, they are seen as deficient. Therefore ["most people in hell are women"](#most-in-hell-women) But it is Allah who made women that way, so it is Allah's fault if this would be the case. What an absolute arsehole.
 
-## Women are equal to donkeys and dogs 
+## Women are equal to donkeys, dogs and pigs
 
 [Sahih al-Bukhari 511](https://sunnah.com/bukhari:511)
 
 > Narrated Aisha: The things which annul the prayers were mentioned before me. They said, "Prayer is annulled by a dog, a donkey and a woman (if they pass in front of the praying people)." I said, "You have made us (i.e. women) dogs. 
+
+[Mishkat al-Masabih 789](https://sunnah.com/mishkat:789)
+
+> When one of you prays without a sutra, an ass, a pig, a Jew, a Magian, and a woman cut off his prayer.
 
 See also:
 

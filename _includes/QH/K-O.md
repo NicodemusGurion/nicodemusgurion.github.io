@@ -57,11 +57,16 @@ See also:
 
 > None of you should walk wearing one shoe; you should either wear them both or take them off both.
 
+[Al-Adab Al-Mufrad 956](https://sunnah.com/adab:956)
+
+> …"When one of you breaks his sandal-strap, he should not walk in his other sandal until it is mended."
+
 ## Don't tie your shoe while standing
 
 [Riyad as-Salihin 1651](https://sunnah.com/riyadussalihin:1651)
 
 > The Messenger of Allah forbade a person tying up his shoe while standing
+
 
 ## Don't make pictures
 

@@ -110,6 +110,12 @@ Surah 2:253
 
 Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.
 
+## Allah tortures the dead if their relatives grieve
+
+[Sahih al-Bukhari 1286, 1287, 1288](https://sunnah.com/bukhari:1286)
+
+> Allah increases the punishment of a non-believer because of the weeping of his relatives.
+
 ## Allah prays
 
 Surah 2:157
@@ -585,17 +591,19 @@ See also [Allah serves Muhammad.](#allah-serves-muhammad)
 
 
 
-# Customs
+# Death
 
-## Funeral wailing tortures the deceased
+## Grieving tortures the deceased 
+
+
+[Sahih al-Bukhari 1286, 1287, 1288](https://sunnah.com/bukhari:1286)
+
+> Allah's Messenger has said, 'The dead person is tortured by the crying of his relatives?"
+
 
 [Riyad as-Salihin 1657](https://sunnah.com/riyadussalihin:1657)
 
 > The Prophet said, "The deceased is tortured in his grave for bewailing over him."
-
-
-
-
 
 
 
