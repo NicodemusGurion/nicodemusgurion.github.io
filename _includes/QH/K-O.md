@@ -1,8 +1,25 @@
 # Lying
 
+## Three situations in which you can lie
+
+[Sunan Abi Dawud 4921 (Sahih)](https://sunnah.com/abudawud:4921)
+
+
+> I did not hear the Messenger of Allah making a concession for anything people say falsely except in three matters. The Messenger of Allah would say: I do not count as a liar a man who puts things right between people, saying a word by which he intends only putting things right, and a man who says something in war, and a man who says something to his wife, or a wife who says something to her husband.
+
+In Islam you can lie:
+
+1. To promote peace
+2. In war
+3. In marriage
+
+These pretty much cover all of the human conditions: peaceful, non-peaceful and close relationships. Since Islam is at constant war with the non-Islamic world, a Muslim is always allowed to lie to a non-Muslim. Even Muslims are allowed to lie to one another to preserve peace, which is probably part of why Dawahists lie to Muslims about everything to keep them being Muslims. You can't even trust your spouse, your closest companion. Besides polygamy, child marriage, easy and prolific divorce, and mutah, this is yet another way Islam perverts and destroys the concept of marriage.
+
+In other words, lying is basically permitted at any and all times for any and all reasons to any and all people, which means that you can never trust a Muslim. A religion that sanctions lying can logically not be the truth. It can only come from the Father of Lies, Satan. (John 8:44)
+
 ## You can break an oath if you have a better alternative 
 
-[Riyad as-Salihin 1716](Riyad as-Salihin 1716)
+[Riyad as-Salihin 1716](https://sunnah.com/riyadussalihin:1716)
 
 > The Messenger of Allah said, "When you swear an oath and consider something else to be better than it, make expiation for your oath and do the thing that is better."
 

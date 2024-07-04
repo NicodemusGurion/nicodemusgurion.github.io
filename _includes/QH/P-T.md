@@ -410,6 +410,8 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 
 ## Allah is a fickle and arbitrary judge
 
+[Jami` at-Tirmidhi 2599](https://sunnah.com/tirmidhi:2599)
+
 > "Indeed two men among those who entered the Fire will be screaming violently.  So the Lord, Blessed and Exalted, will say: 'Take them out.'  Then when they are taken out He will say: 'What caused you to scream so violently?'
 
 Is Allah stupid or just cruel?
@@ -716,3 +718,8 @@ Compare to the Mosaic law in Deuteronomy 23:15-16:
 See [Muhammad traded black slaves](#black-slaves), [Racism](#racism).
 
 
+# Taqiyya
+
+Lying in order to further the interests of Islam.
+
+See [Lying](#lying) 

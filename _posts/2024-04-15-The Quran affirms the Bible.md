@@ -9,7 +9,7 @@ Our Muslim friends often question the integrity of the Bible, but in doing so th
 
 # What history reveals
 
-See the article ["The Bible has been corrupted"](/the-Bible-has-been-corrupted).
+See the article ["The Bible has been corrupted"](/The-Bible-has-been-corrupted).
 
 In short, we have today extant complete Bibles from the 2nd-4th century A.D., and extant complete Tanakhs (Jewish Old Testament Bibles) from the 2nd-3rd century B.C. We can compare these to modern Bibles and see that for 2300 years there has been no changes what so ever.
 

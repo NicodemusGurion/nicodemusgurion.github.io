@@ -192,6 +192,12 @@ Surah 4:157-158
 
 # Jews
 
+## A tribe of Israelites were turned into rats {#rats}
+
+[Sahih al-Bukhari 3305](https://sunnah.com/bukhari:3305)
+
+> The Prophet said, "A group of Israelites were lost. Nobody knows what they did. But I do not see them except that they were cursed and changed into rats, for if you put the milk of a she-camel in front of a rat, it will not drink it, but if the milk of a sheep is put in front of it, it will drink it."
+
 ## The verse Muslims use to lie that Islam is peaceful {#peaceful}
 
 Surah 5:32
