@@ -510,10 +510,16 @@ So by avoiding praying the night prayer for two or three nights, Satan left Muha
 
 > Cover up the (kitchen) containers (i.e., pots, pans, etc.), tie up the mouth of the water-skin, lock up the doors and extinguish the lamps, because Satan can neither untie the water-skin nor open the door nor uncover the containers.
 
+![Satan is unable to open jam jars.](https://i.ibb.co/nMWt8Jv/80-FAA299-CCC1-4-E3-B-B11-F-DFA8-FF308639.jpg)
 
 
+## Satan's throne is upon the water {#satan-water-throne}
 
+[Sahih Muslim 2925](https://sunnah.com/muslim:2925)
 
+> He said: I see the throne over water. Whereupon Allah's Messenger said: You see the throne of Iblis (Satan) upon the water
+
+See also: [Allah's throne is upon the water](#allah-water-throne)
 
 
 

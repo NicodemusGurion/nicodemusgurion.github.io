@@ -167,6 +167,18 @@ Surah 20:5
 
 Allah sits on a throne in heaven.
 
+## Allah's throne is upon water {#allah-water-throne}
+
+
+Sahih al-Bukhari 7419
+https://sunnah.com/bukhari:7419
+> His Throne is over the water 
+
+See also: 
+
+- [Jami` at-Tirmidhi 3045](https://sunnah.com/tirmidhi:3045)
+- [The throne of Satan is upon the water](#satan-water-throne)
+
 ## Allah comes down every night
 
 [Sahih Muslim 758b](https://sunnah.com/muslim:758b)
