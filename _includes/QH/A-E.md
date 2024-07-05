@@ -2,7 +2,7 @@
 
 ## Adam was 60 cubits tall
 
-[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
+[Sahih Muslim 2834 c](https://web.archive.org/web/20240310050216/https://sunnah.com/muslim:2834c)
 
 > ...their form would be alike as one single person after the form of their father (Adam) sixty cubits tall.
 
@@ -98,7 +98,7 @@ If people didn't sin, Allah would wipe them out and replace them with people who
 
 > Allah has written for the son of Adam his inevitable share of adultery whether he is aware of it or not
 
-[Sahih Muslim 2657 b](https://sunnah.com/muslim:2657b)
+[Sahih Muslim 2657 b](https://web.archive.org/web/20240325212822/https://sunnah.com/muslim:2657b)
 
 > Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity must commit.
 
@@ -112,7 +112,7 @@ Disagreements and fights between religious factions is Allah's will. He wants pe
 
 ## Allah tortures the dead if their relatives grieve
 
-[Sahih al-Bukhari 1286, 1287, 1288](https://sunnah.com/bukhari:1286)
+[Sahih al-Bukhari 1286, 1287, 1288](https://web.archive.org/web/20230928004431/https://sunnah.com/bukhari:1286)
 
 > Allah increases the punishment of a non-believer because of the weeping of his relatives.
 
@@ -122,11 +122,11 @@ Surah 2:157
 
 > Upon those are the prayers *from* their Lord, and mercy; and those are they (who) are the right-guided.
 
-[Quran 33:43, 56 Palmer](https://sacred-texts.com/isl/sbe09/033.htm)
+[Quran 33:43, 56 Palmer](https://web.archive.org/web/20240509045448/https://sacred-texts.com/isl/sbe09/033.htm)
 
 > He it is who prays for you and His angels too, to bring you forth out of the darkness into the light, for He is merciful to the believers. …  Verily, God and His angels pray for the prophet. O ye who believe! pray for him and salute him with a salutation!
 
-[Al Adan Al Mufrad 645](https://sunnah.com/adab:645)
+[Al Adan Al Mufrad 645](https://web.archive.org/web/20240318170959/https://sunnah.com/bukhari:3010)
 
 > [Muhammad] said, "If anyone prays once on me, Allah will pray ten times on him.'"
 
@@ -145,7 +145,7 @@ Yahweh in the Bible swear by himself, because there is no one higher. But Allah 
 
 ## Allah wonders 
 
-[Sahih al-Bukhari 3010](https://sunnah.com/bukhari:3010)
+[Sahih al-Bukhari 3010](https://web.archive.org/web/20240318170959/https://sunnah.com/bukhari:3010)
 
 > The Prophet said, "Allah wonders at those people who will enter Paradise in chains."
 
@@ -170,14 +170,25 @@ Allah sits on a throne in heaven.
 ## Allah's throne is upon water {#allah-water-throne}
 
 
-Sahih al-Bukhari 7419
-https://sunnah.com/bukhari:7419
+[Sahih al-Bukhari 7419](https://web.archive.org/web/20221119045204/https://sunnah.com/bukhari:7419)
+
 > His Throne is over the water 
 
 See also: 
 
 - [Jami` at-Tirmidhi 3045](https://sunnah.com/tirmidhi:3045)
 - [The throne of Satan is upon the water](#satan-water-throne)
+
+## Allah's throne can be shaken by human affairs {#shaking-throne}
+
+[Sahih al-Bukhari 3803](https://web.archive.org/web/20230916231756/https://sunnah.com/bukhari:3803)
+
+> I heard the Prophet saying, "The Throne of Allah shook at the death of Sa`d bin Mu`adh." 
+
+See also: 
+
+- [Sunan Ibn Majah 158](http://web.archive.org/web/20231206105330/https://sunnah.com/ibnmajah:158)
+- [Sahih Muslim 2466 b](https://web.archive.org/web/20231210111632/https://sunnah.com/muslim:2466b)
 
 ## Allah comes down every night
 
@@ -195,13 +206,13 @@ Allah doesn't know how time zones work. If he comes down every night at  3am, an
 
 ## Allah is visible 
 
-[Mishkat al-Masabih 725](https://sunnah.com/mishkat:725) (Sahih)
+[Mishkat al-Masabih 725 (Sahih)](https://web.archive.org/web/20231206115420/https://sunnah.com/mishkat:725) 
 
 > I saw my Lord in the most beautiful form…
 
 ## Allah has hands
 
-[Mishkat al-Masabih 725](https://sunnah.com/mishkat:725) (Sahih)
+[Mishkat al-Masabih 725 (Sahih)](https://web.archive.org/web/20231206115420/https://sunnah.com/mishkat:725) 
 
 > He placed the palm of His hand between my shoulder-blades and I felt the coolness of it between my nipples!
 
@@ -209,7 +220,7 @@ Allah doesn't know how time zones work. If he comes down every night at  3am, an
 
 ## Allah shakes hands
 
-[Sunan Ibn Majah 104](https://sunnah.com/ibnmajah:104)
+[Sunan Ibn Majah 104](https://web.archive.org/web/20230419124702/https://sunnah.com/ibnmajah:104)
 
 > The Messenger of Allah said: 'The first person with whom Allah will shake hands will be 'Umar...
 
@@ -221,13 +232,13 @@ Allah seems to have at least three hands, one left hand and two right hands.
 
 ### Allah has a right and left hand
 
-[Sahih Muslim 2788 a](https://sunnah.com/muslim:2788a)
+[Sahih Muslim 2788 a](https://web.archive.org/web/20230607232830/https://sunnah.com/muslim:2788a)
 
 > Allah, the Exalted and Glorious, would fold the Heavens on the Day of Judgment and then He would place them on *His right hand* and say: I am the Lord; where are the haughty and where are the proud (today)? He would fold the' earth (placing it) on *the left hand* and say: I am the Lord; where are the haughty and where are the proud (today)?
 
 ### Allah also has two right hands
 
-[Sunan an-Nasa'i 5379](https://sunnah.com/nasai:5379)
+[Sunan an-Nasa'i 5379](https://web.archive.org/web/20221217224642/https://sunnah.com/nasai:5379)
 
 > The Prophet said: "Those who are just and fair will be with Allah, Most High, on thrones of light, at the right hand of the Most Merciful, those who are just in their rulings and in their dealings with their families and those of whom they are in charge." Muhammad said in his Hadith: "And both of His hands are right hands."
 
@@ -243,14 +254,18 @@ Surah 20:39
 
 > ...you should be reared under My watchful eye
 
-[Sahih Muslim 2933 a](https://sunnah.com/muslim:2933a)
+[Sahih Muslim 2933 a](https://web.archive.org/web/20240222220738/https://sunnah.com/muslim:2933a)
 
 > your Lord is not one-eyed
 
 
 ## Allah has a shin
 
-[Sahih al-Bukhari 4919](https://sunnah.com/bukhari:4919)
+Surah 68:42
+
+> Beware of the Day the Shin ˹of Allah˺ will be bared, and the wicked will be asked to prostrate, but they will not be able to do so,
+
+[Sahih al-Bukhari 4919](https://web.archive.org/web/20230125022013/https://sunnah.com/bukhari:4919)
 
 > Our Lord Allah will lay bare His Shin
 
