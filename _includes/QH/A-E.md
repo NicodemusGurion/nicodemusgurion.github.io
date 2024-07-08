@@ -24,6 +24,8 @@ Surah 112:4; 18:4; 19:35, 88-93
 
 > The disbelievers say, ‘The Lord of Mercy has offspring.’ How terrible is this thing you assert: it almost causes the heavens to be torn apart, the earth to split asunder, the mountains to crumble to pieces,that they attribute offspring to the Lord of Mercy. It does not befit the Lord of Mercy [to have offspring]: there is no one in the heavens or earth who will not come to the Lord of Mercy as a servant-
 
+You can never have a close relationship with the god of Islam as a child to a father, you can only be a slave to a master. If this is true, then the universe is bleak indeed. 
+
 ## Allah has no spouse
 
 Surah 6:101
@@ -52,7 +54,7 @@ Allah is only one creator of many. Apparently Ba'l is a competing creator. The o
 
 ## Allah is a narcissist 
 
-[Sahih al-Bukhari 4634](https://sunnah.com/bukhari:4634)
+[Sahih al-Bukhari 4634](http://web.archive.org/web/20221005220613/https://sunnah.com/bukhari:4634)
 
 > And none loves to be praised more than Allah does, and for this reason He praises Himself.
 
@@ -86,15 +88,17 @@ It is Allah's fault if someone does not believe.
 
 ## Allah wants people to sin
 
-[Sahih Muslim 2749](https://sunnah.com/muslim:2749)
+[Sahih Muslim 2749](http://web.archive.org/web/20240115142947/https://sunnah.com/muslim:2749)
 
 > By Him in Whose Hand is my life, if you were not to commit sin, Allah would sweep you out of existence and He would replace (you by) those people who would commit sin and seek forgiveness from Allah, and He would have pardoned them.
 
-If people didn't sin, Allah would wipe them out and replace them with people who would sin. Who wants people to sin? God, or Satan?
+If people didn't sin, Allah would wipe them out and replace them with people who would sin. 
+
+Who is it that wants people to sin? God, or Satan?
 
 ## Allah has predestined adultery
 
-[Sahih al-Bukhari 6612](https://sunnah.com/bukhari:6612)
+[Sahih al-Bukhari 6612](http://web.archive.org/web/20240208033843/https://sunnah.com/bukhari:6612)
 
 > Allah has written for the son of Adam his inevitable share of adultery whether he is aware of it or not
 

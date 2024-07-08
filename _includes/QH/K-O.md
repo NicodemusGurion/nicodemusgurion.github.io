@@ -735,7 +735,11 @@ See also:
 
 ### Muhammad used to suck on Aishas tongue
 
+[Sunan Abi Dawud 2386](https://sunnah.com/abudawud:2386)
+
 > Narrated Aisha, [Mother of the believers]: The Prophet used to kiss her and suck her tongue when he was fasting.
+
+Consenting adults sucking each others tongues is none of my business, but why the obsession about telling such embarrasing details to the world? And since Aisha was technically a child during their entire marriage, this is disgusting.  
 
 ### Muhammad French-kissed a little boy
 
@@ -862,7 +866,13 @@ See also:
 
 > It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
 
-Muhammad was having sex with a sex slave and his wives complained. But then Allah [conveniently revealed](#convenient-revelation) Surah 66:1, that Muhammad can do that if he wishes.
+The verse revealed was Surah 66:1-6. [Tafsir al-Jalalayn](http://web.archive.org/web/20220221075859/https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=74&tSoraNo=66&tAyahNo=1&tDisplay=yes&UserProfile=0&LanguageId=2) says about Surah 66:1-6:
+
+> O Prophet! Why do you prohibit what God has made lawful for you in terms of your Coptic handmaiden Māriya — when he lay with her in the house of Hafsa who had been away but who upon returning and finding out became upset by the fact that this had taken place in her own house and on her own bed — by saying ‘She is unlawful for me!’ seeking by making her unlawful for you to please your wives? And God is Forgiving Merciful having forgiven you this prohibition.
+
+Muhammad was having sex with his sex slave Maria the Copt in the house of his wife Hansa, and quite understandably his wives complained. But then Allah [conveniently revealed](#convenient-revelation) Surah 66:1-6, that Muhammad can do that if he wishes, and if his wives complain, he should divorce them and they can literally go to hell. What a guy!
+
+
 
 See [Muhammad and sex](#muhammad-and-sex), [Rape](#rape), [Sex slaves](#sex-slaves).
 
@@ -972,6 +982,16 @@ Notice that Allah and Muhammad decide on things **together**, and the are equal 
 [Sunan an-Nasa'i 3596](https://sunnah.com/nasai:3596)
 
 > "I heard 'Amr bin Al-Harith say: 'I saw the Messenger of Allah and he left nothing behind except his white mule, his weapon and some land which he left as a charity.'"
+
+### Muhammad was worshipped by his contemporaries {#mohammad-worship}
+
+[Sunan Ibn Majah 1627](https://sunnah.com/ibnmajah:1627)
+
+At the funeral of Muhammad:
+
+> Then Abu Bakr stood up, ascended the pulpit and said: ‘Whoever used to worship Allah, Allah is alive and will never die. Whoever **used to worship Muhammad**, Muhammad is dead.
+
+Abu Bakr was telling the Muslims who **used to worship Muhammad** to not do so anymore.
 
 
 ### Muhammad was the first Muslim {#first-muslim}
