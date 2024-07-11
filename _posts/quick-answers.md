@@ -13,6 +13,11 @@ Today we have 4 complete Bibles from the 4th century. They are two hundred years
 
 [https://en.m.wikipedia.org/wiki/Great_uncial_codices](https://en.m.wikipedia.org/wiki/Great_uncial_codices)
 
+https://codexsinaiticus.org/
+https://digi.vatlib.it/view/MSS_Vat.gr.1209
+https://manuscripts.csntm.org/manuscript/View/GA_02
+https://manuscripts.csntm.org/manuscript/View/GA_04
+
 Apart from 4 complete Bibles, we also have tens of thousands of manuscripts that date back 2300 years, and they match up perfectly with modern Bibles, proving there has been no corruption.
 
 - [https://en.m.wikipedia.org/wiki/List_of_Hebrew_Bible_manuscripts](https://en.m.wikipedia.org/wiki/List_of_Hebrew_Bible_manuscripts)

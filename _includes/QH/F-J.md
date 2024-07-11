@@ -216,6 +216,12 @@ Surah 4:157-158
 
 # Jews
 
+## Allah favors Jews
+
+Surah 45:16
+
+> Indeed, We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good, lawful provisions; and favoured them above the others.
+
 ## A tribe of Israelites were turned into rats {#rats}
 
 [Sahih al-Bukhari 3305](https://sunnah.com/bukhari:3305)

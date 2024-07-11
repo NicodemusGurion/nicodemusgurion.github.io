@@ -574,7 +574,11 @@ In Surah 6:37; 6:109; 13:7; 17:59; 20:20 it says that Muhammad never did any mir
 
 [The Quran says there will be no ransoms whatsoever on judgment day.](#no-ransom) But one Hadith says [muslims will be ransomed from hell by Christians and Jews taking their places in hell.](#ransomed-from-hell).
 
-### Jews are favoured. Not.
+### Jews are both favoured and not
+
+Surah 45:16
+
+> Indeed, We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good, lawful provisions; and favoured them above the others.
 
 Surah 2:47
 
