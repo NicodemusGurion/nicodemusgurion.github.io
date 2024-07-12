@@ -1,6 +1,7 @@
 ---
-title: Quick answers to Muslims questions
-tags: [Islam, Apologetics]
+title: Quick answers to Muslim questions
+tags: [Islam, Apologetics, Lists]
+permalink: /quick-answers/
 ---
 
 Since Muslim debaters never put any thought into their incoherent contradictory ridiculous Dawah claims, why should Christians waste time and energy refuting them? (Matthew 7:6) Here is a list of canned responses to the most common nonsense, in neat paragraphs less than 200 characters, perfect for limited messaging platforms such as TikTok or X.
@@ -55,11 +56,15 @@ If that was true, then by using the Bible as an authority to defend Muhammad, yo
 
 That Rebecca was 3 years old when marrying Isaac is a lie. There is no way to prove that. According to the text she was an independent adult woman. (Genesis 24:5,8,14,16,28,39,43-44,55,57-58)
 
-An average camel can drink 200 liters of water. No 3 year old has the strength or stamina to carry 2000 liters of water to ten camels. (Genesis 24:10)
+In Jewish culture, a girl is not considered a woman until at least her early teens. This would put Rebecca's lowest possible age at 13.
+
+In Genesis 22, Isaac was called a boy. In the Bible those called boys are usually 13-17 years old. No 37 year old is called a boy. So there is likely a 20 year difference between Genesis 22 and 23.
+
+This shows there could be a 23-28 year gap between the sacrifice event and the marriage of Isaac at age 40. This matches with the fact that Rebecca was a "young woman". Likely between 13-28 years old.
+
+An average camel can drink 200 liters of water. No 3 year old toddler has the strength or stamina to carry 2000 liters of water to ten camels. (Genesis 24:10) The idea is ridiculous.
 
 In Genesis 22:20-24 Abraham gets the news that no less than 14 relatives in 2 generations have been born. If this means Rebecca is 3 years old then all 14 of them would also be 3 years old.
 
 The news mentioning Rebecca covered what had happened to Abraham's relatives the last 60 years. Rebecca's birth could be anywhere within that timespan, so it can't be used to pinpoint her age.
 
-
-When Isaac was almost sacrificed, he was called a boy, It's very rare for the Bible to call someone older than 17 a "boy"
