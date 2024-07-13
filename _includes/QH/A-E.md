@@ -657,6 +657,14 @@ Surah 9:30
 
 This is false. No Jews have ever claimed that Ezra is the son of God. Is it Allah or Muhammad who is ignorant of this fact?
 
+## The Quran gets the trinity wrong {#trinity}
+
+Surah 5:73
+
+> They have certainly disbelieved who say, "Allāh is the third of three." And there is no god except one God.
+
+This is an obvious reference to the trinity doctrine. However the trinity doctrine doesn't say that God or Allah is one of three. That would be tritheism. It says that God is one in essence and three in persons. The Quran is wrong. 
+
 ## Christians worship Mary {#worshipping-mary}
 
 Surah 5:116
