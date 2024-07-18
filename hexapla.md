@@ -1,6 +1,7 @@
 ---
 layout: none
 ---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,7 +38,8 @@ layout: none
             border: 1px solid #ddd;
             padding: 8px;
             text-align: left;
-            width: calc(100% / 3); /* Divide equally into three columns */
+            width: 100vw; /* Full viewport width */
+            max-width: 80ch; /* Maximum width of 80 characters */
             box-sizing: border-box;
         }
         thead th {
@@ -57,19 +59,19 @@ layout: none
             </thead>
             <tbody>
                 <tr>
-                    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus et tortor accumsan varius. Vivamus ultricies varius justo id tristique. Nulla egestas scelerisque diam nec rhoncus. Maecenas imperdiet nisi vel elit aliquet, sed iaculis nulla faucibus. Praesent auctor metus quis urna iaculis, sit amet dapibus ex luctus. Etiam vehicula eget lacus vitae hendrerit. Ut sed tortor quis dolor ultrices rutrum at eget metus. Etiam sit amet rhoncus ligula. Cras sit amet nibh orci. Integer finibus egestaCell 1</td>
-                    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus et tortor accumsan varius. Vivamus ultricies varius justo id tristique. Nulla egestas scelerisque diam nec rhoncus. Maecenas imperdiet nisi vel elit aliquet, sed iaculis nulla faucibus. Praesent auctor metus quis urna iaculis, sit amet dapibus ex luctus. Etiam vehicula eget lacus vitae hendrerit. Ut sed tortor quis dolor ultrices rutrum at eget metus. Etiam sit amet rhoncus ligula. Cras sit amet nibh orci. Integer finibus egestaCell 2</td>
-                    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus et tortor accumsan varius. Vivamus ultricies varius justo id tristique. Nulla egestas scelerisque diam nec rhoncus. Maecenas imperdiet nisi vel elit aliquet, sed iaculis nulla faucibus. Praesent auctor metus quis urna iaculis, sit amet dapibus ex luctus. Etiam vehicula eget lacus vitae hendrerit. Ut sed tortor quis dolor ultrices rutrum at eget metus. Etiam sit amet rhoncus ligula. Cras sit amet nibh orci. Integer finibus egestaCell 3</td>
+                    <td>Cell 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+                    <td>Cell 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+                    <td>Cell 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                 </tr>
                 <tr>
-                    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus et tortor accumsan varius. Vivamus ultricies varius justo id tristique. Nulla egestas scelerisque diam nec rhoncus. Maecenas imperdiet nisi vel elit aliquet, sed iaculis nulla faucibus. Praesent auctor metus quis urna iaculis, sit amet dapibus ex luctus. Etiam vehicula eget lacus vitae hendrerit. Ut sed tortor quis dolor ultrices rutrum at eget metus. Etiam sit amet rhoncus ligula. Cras sit amet nibh orci. Integer finibus egestaCell 4</td>
-                    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus et tortor accumsan varius. Vivamus ultricies varius justo id tristique. Nulla egestas scelerisque diam nec rhoncus. Maecenas imperdiet nisi vel elit aliquet, sed iaculis nulla faucibus. Praesent auctor metus quis urna iaculis, sit amet dapibus ex luctus. Etiam vehicula eget lacus vitae hendrerit. Ut sed tortor quis dolor ultrices rutrum at eget metus. Etiam sit amet rhoncus ligula. Cras sit amet nibh orci. Integer finibus egestaCell 5</td>
-                    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus et tortor accumsan varius. Vivamus ultricies varius justo id tristique. Nulla egestas scelerisque diam nec rhoncus. Maecenas imperdiet nisi vel elit aliquet, sed iaculis nulla faucibus. Praesent auctor metus quis urna iaculis, sit amet dapibus ex luctus. Etiam vehicula eget lacus vitae hendrerit. Ut sed tortor quis dolor ultrices rutrum at eget metus. Etiam sit amet rhoncus ligula. Cras sit amet nibh orci. Integer finibus egestaCell 6</td>
+                    <td>Cell 4: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</td>
+                    <td>Cell 5: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</td>
+                    <td>Cell 6: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</td>
                 </tr>
                 <tr>
-                    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus et tortor accumsan varius. Vivamus ultricies varius justo id tristique. Nulla egestas scelerisque diam nec rhoncus. Maecenas imperdiet nisi vel elit aliquet, sed iaculis nulla faucibus. Praesent auctor metus quis urna iaculis, sit amet dapibus ex luctus. Etiam vehicula eget lacus vitae hendrerit. Ut sed tortor quis dolor ultrices rutrum at eget metus. Etiam sit amet rhoncus ligula. Cras sit amet nibh orci. Integer finibus egestaCell 7</td>
-                    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus et tortor accumsan varius. Vivamus ultricies varius justo id tristique. Nulla egestas scelerisque diam nec rhoncus. Maecenas imperdiet nisi vel elit aliquet, sed iaculis nulla faucibus. Praesent auctor metus quis urna iaculis, sit amet dapibus ex luctus. Etiam vehicula eget lacus vitae hendrerit. Ut sed tortor quis dolor ultrices rutrum at eget metus. Etiam sit amet rhoncus ligula. Cras sit amet nibh orci. Integer finibus egestaCell 8</td>
-                    <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin imperdiet purus et tortor accumsan varius. Vivamus ultricies varius justo id tristique. Nulla egestas scelerisque diam nec rhoncus. Maecenas imperdiet nisi vel elit aliquet, sed iaculis nulla faucibus. Praesent auctor metus quis urna iaculis, sit amet dapibus ex luctus. Etiam vehicula eget lacus vitae hendrerit. Ut sed tortor quis dolor ultrices rutrum at eget metus. Etiam sit amet rhoncus ligula. Cras sit amet nibh orci. Integer finibus egestaCell 9</td>
+                    <td>Cell 7: Cras mattis consectetur purus sit amet fermentum.</td>
+                    <td>Cell 8: Cras mattis consectetur purus sit amet fermentum.</td>
+                    <td>Cell 9: Cras mattis consectetur purus sit amet fermentum.</td>
                 </tr>
                 <!-- More rows can be added here -->
             </tbody>
