@@ -38,8 +38,7 @@ layout: none
             border: 1px solid #ddd;
             padding: 8px;
             text-align: left;
-            width: 100vw; /* Full viewport width */
-            max-width: 80ch; /* Maximum width of 80 characters */
+            width: calc(100% / 3); /* Divide equally into three columns */
             box-sizing: border-box;
         }
         thead th {
