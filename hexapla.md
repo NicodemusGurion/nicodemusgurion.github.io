@@ -20,59 +20,60 @@ layout: none
             position: relative;
         }
         .scrollable {
-            display: flex;
-            flex-direction: column;
-            overflow-x: auto;
-            white-space: nowrap;
-            position: relative;
+            overflow: auto;
+            width: 100%;
         }
-        .header {
-            display: flex;
-            background: #f8f8f8;
+        .table-container {
+            display: inline-block;
+            min-width: 100%;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ccc;
             padding: 10px;
+            text-align: left;
+            white-space: pre-wrap; /* Allows text to wrap inside the cell */
+            max-width: 80ch; /* Max width of 80 characters */
+            box-sizing: border-box;
+        }
+        th {
             position: sticky;
             top: 0;
+            background: #f8f8f8;
             z-index: 10;
-            border-bottom: 1px solid #ccc;
-        }
-        .column {
-            display: inline-block;
-            vertical-align: top;
-            width: 80ch; /* Max width of 80 characters */
-            padding: 10px;
-            box-sizing: border-box;
-            border-right: 1px solid #ddd;
-        }
-        .row {
-            display: flex;
-            border-bottom: 1px solid #ccc;
-        }
-        .cell {
-            flex: 1;
-            padding: 10px;
-            box-sizing: border-box;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="header">
-            <div class="column">Source 1</div>
-            <div class="column">Source 2</div>
-            <div class="column">Source 3</div>
-        </div>
         <div class="scrollable">
-            <div class="row">
-                <div class="cell">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Source 1.</div>
-                <div class="cell">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Source 2.</div>
-                <div class="cell">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Source 3.</div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Source 1</th>
+                            <th>Source 2</th>
+                            <th>Source 3</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Source 1.</td>
+                            <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Source 2.</td>
+                            <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Source 3.</td>
+                        </tr>
+                        <tr>
+                            <td>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Source 1.</td>
+                            <td>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Source 2.</td>
+                            <td>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Source 3.</td>
+                        </tr>
+                        <!-- More rows can be added here -->
+                    </tbody>
+                </table>
             </div>
-            <div class="row">
-                <div class="cell">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Source 1.</div>
-                <div class="cell">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Source 2.</div>
-                <div class="cell">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Source 3.</div>
-            </div>
-            <!-- More rows can be added here -->
         </div>
     </div>
 </body>
