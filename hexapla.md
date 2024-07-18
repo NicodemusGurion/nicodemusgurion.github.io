@@ -39,8 +39,8 @@ layout: none
             border: 1px solid #ddd;
             padding: 8px;
             text-align: left;
-          min-width:100vw;
-            max-width: 50ch; /* Maximum width of 80 characters */
+          width:90vw;
+            max-width: 50ch; 
             
         }
         thead th {
@@ -65,7 +65,7 @@ layout: none
             </thead>
             <tbody>
                 <tr>
-                    <td>y 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+                    <td>z 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                     <td>Cell 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                     <td>Cell 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                 </tr>
