@@ -176,6 +176,14 @@ Seems like monkeys and Muslims are allies in woman hating.
 
 What Islam teaches about Jesus varies. Some things are more or less accurate, but many things are false, antichristian and blasphemous.
 
+## Is free of sin
+
+Surah 19:19 
+
+The angel said to Mary about Jesus:
+
+> He said: I am only a messenger of thy Lord, that I may bestow on thee a faultless son.
+
 ## Jesus was not crucified 
 
 Surah 4:157

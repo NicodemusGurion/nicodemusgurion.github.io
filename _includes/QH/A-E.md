@@ -665,6 +665,16 @@ Surah 5:73
 
 This is an obvious reference to the trinity doctrine. However the trinity doctrine doesn't say that God or Allah is one of three. That would be tritheism. It says that God is one in essence and three in persons. The Quran is wrong. 
 
+## The Quran confuses the Holy Spirit with the Angel Gabriel 
+
+Surah 19:17
+
+When Mary is visited by Gabriel:
+
+> And had chosen seclusion from them. Then We sent unto her **Our Spirit** and it assumed for her the likeness of a perfect man.
+
+The spirit of Allah, i.e. the Holy Spirit comes in the shape of a man (see Ezekiel 8) to Mary. But it was the Angel Gabriel who came to Mary.
+
 ## Christians worship Mary {#worshipping-mary}
 
 Surah 5:116
