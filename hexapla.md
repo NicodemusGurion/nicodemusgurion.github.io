@@ -2,8 +2,9 @@
 layout: none
 ---
 
+<!DOCTYPE html>
 <html lang="en">
-<head>
+<head>  
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scrollable Table</title>
@@ -11,39 +12,46 @@ layout: none
         body {
             font-family: Arial, sans-serif;
             margin: 0;
-            padding: 20px;
-            height: 100vh; /* Full viewport height */
-            overflow: hidden; /* Prevent body scrolling */
+            padding: 0px;
+            
         }
         .table-container {
-            width: 100%;
-            height: 100%;
-            display: flex;
-            flex-direction: column;
+            width:100vw;
+          
+      
+           height: 100vh; /* Full viewport height */
+            overflow-x: auto; /* Prevent body scrolling */
+        border:thick black solid;
         }
         table {
-            width: 100%;
-            border-collapse: collapse;
+          height:100vh;
+        
             display: block;
         }
+      thead {
+        height:40px;
+      }
         thead, tbody {
             display: block;
         }
-        tbody {
-            overflow-y: auto;
-            max-height: calc(100vh - 40px); /* Adjust for padding */
-        }
+        
         th, td {
             border: 1px solid #ddd;
             padding: 8px;
             text-align: left;
-            width: calc(100% / 3); /* Divide equally into three columns */
-            box-sizing: border-box;
+          min-width:100vw;
+            max-width: 50ch; /* Maximum width of 80 characters */
+            
         }
         thead th {
             background-color: #f4f4f4;
         }
     </style>
+  <!-- tbody {
+            
+          
+            max-height: calc(100vh - 40px); /* Adjust for padding */
+        }-->
 </head>
 <body>
     <div class="table-container">
@@ -57,19 +65,19 @@ layout: none
             </thead>
             <tbody>
                 <tr>
-                    <td>Cell 1</td>
-                    <td>Cell 2</td>
-                    <td>Cell 3</td>
+                    <td>y 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+                    <td>Cell 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+                    <td>Cell 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                 </tr>
                 <tr>
-                    <td>Cell 4</td>
-                    <td>Cell 5</td>
-                    <td>Cell 6</td>
+                    <td>Cell 4: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</td>
+                    <td>Cell 5: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</td>
+                    <td>Cell 6: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</td>
                 </tr>
                 <tr>
-                    <td>Cell 7</td>
-                    <td>Cell 8</td>
-                    <td>Cell 9</td>
+                    <td>Cell 7: Cras mattis consectetur purus sit amet fermentum.</td>
+                    <td>Cell 8: Cras mattis consectetur purus sit amet fermentum.</td>
+                    <td>Cell 9: Cras mattis consectetur purus sit amet fermentum.</td>
                 </tr>
                 <!-- More rows can be added here -->
             </tbody>
@@ -77,3 +85,4 @@ layout: none
     </div>
 </body>
 </html>
+å
