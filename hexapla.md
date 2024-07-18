@@ -2,7 +2,6 @@
 layout: none
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -58,19 +57,19 @@ layout: none
             </thead>
             <tbody>
                 <tr>
-                    <td>Cell 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-                    <td>Cell 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
-                    <td>Cell 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+                    <td>Cell 1</td>
+                    <td>Cell 2</td>
+                    <td>Cell 3</td>
                 </tr>
                 <tr>
-                    <td>Cell 4: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</td>
-                    <td>Cell 5: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</td>
-                    <td>Cell 6: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae.</td>
+                    <td>Cell 4</td>
+                    <td>Cell 5</td>
+                    <td>Cell 6</td>
                 </tr>
                 <tr>
-                    <td>Cell 7: Cras mattis consectetur purus sit amet fermentum.</td>
-                    <td>Cell 8: Cras mattis consectetur purus sit amet fermentum.</td>
-                    <td>Cell 9: Cras mattis consectetur purus sit amet fermentum.</td>
+                    <td>Cell 7</td>
+                    <td>Cell 8</td>
+                    <td>Cell 9</td>
                 </tr>
                 <!-- More rows can be added here -->
             </tbody>
