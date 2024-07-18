@@ -8,15 +8,16 @@
         body {
             font-family: Arial, sans-serif;
             margin: 0;
-            padding: 20px;
+            padding: 0px;
             
         }
         .table-container {
             width:100vw;
           
       
-          height: 100vh; /* Full viewport height */
+           height: 100vh; /* Full viewport height */
             overflow-x: auto; /* Prevent body scrolling */
+        border:thin red solid;
         }
         table {
           height:100vh;
@@ -30,7 +31,7 @@
             display: block;
         }
         tbody {
-            overflow-y: auto;
+            
           
             max-height: calc(100vh - 40px); /* Adjust for padding */
         }
@@ -40,7 +41,7 @@
             text-align: left;
           min-width:100vw;
             width: 80ch; /* Maximum width of 80 characters */
-            box-sizing: border-box;
+            
         }
         thead th {
             background-color: #f4f4f4;
