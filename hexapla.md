@@ -2,7 +2,6 @@
 layout: none
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>  
     <meta charset="UTF-8">
@@ -65,7 +64,7 @@ layout: none
             </thead>
             <tbody>
                 <tr>
-                    <td>z 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+                    <td>foo: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                     <td>Cell 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                     <td>Cell 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                 </tr>
