@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head>  
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Scrollable Table</title>
@@ -17,7 +17,7 @@
       
            height: 100vh; /* Full viewport height */
             overflow-x: auto; /* Prevent body scrolling */
-        border:thin red solid;
+        border:thick black solid;
         }
         table {
           height:100vh;
@@ -30,23 +30,24 @@
         thead, tbody {
             display: block;
         }
-        tbody {
-            
-          
-            max-height: calc(100vh - 40px); /* Adjust for padding */
-        }
+        
         th, td {
             border: 1px solid #ddd;
             padding: 8px;
             text-align: left;
           min-width:100vw;
-            width: 80ch; /* Maximum width of 80 characters */
+            width: 50ch; /* Maximum width of 80 characters */
             
         }
         thead th {
             background-color: #f4f4f4;
         }
     </style>
+  <!-- tbody {
+            
+          
+            max-height: calc(100vh - 40px); /* Adjust for padding */
+        }-->
 </head>
 <body>
     <div class="table-container">
@@ -60,7 +61,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <td>Cell 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+                    <td>xCell 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                     <td>Cell 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                     <td>Cell 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
                 </tr>
