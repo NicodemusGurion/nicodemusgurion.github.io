@@ -472,8 +472,33 @@ See also:
 
 
 
+# The Bible
 
+**Note:** Muhammad was an ignoramus and did not know anything about the Bible, so when he refers to the Torah he means the Old Testament, and when he refers to the Gospel he means the New Testament.
 
+## The Torah is the word of Allah
+
+Surah 5:43,44
+
+> But why do they come to you for judgment when they ˹already˺ have the Torah containing Allah’s judgment, then they turn away after all? They are not ˹true˺ believers. Indeed, We revealed the Torah, containing guidance and light, by which the prophets, who submitted themselves to Allah, made judgments for Jews. So too did the rabbis and scholars judge according to Allah’s Book, with which they were entrusted and of which they were made keepers. 
+
+Also: Surah 32:23
+
+See: [No one can change the word of Allah](#unchanging-word)
+
+## The Quran says the Gospel confirms the Torah 
+
+Surah 5:46
+
+> Then in the footsteps of the prophets, We sent Jesus, son of Mary, confirming the Torah revealed before him. And We gave him the Gospel containing guidance and light and confirming what was revealed in the Torah—a guide and a lesson to the God-fearing.
+
+## The Quran confirms the Bible {#confirms-bible}
+
+Surah 2: 88-91
+
+> And when there comes to them a Book from Allah, **confirming what is with them**… When it is said to them, "Believe in what Allah Hath sent down, "they say, "We believe in what was sent down to us:" yet they reject all besides, even if it be Truth **confirming what is with them**…
+
+The Quran says that it confirms "what is with them", referring to the scriptures that the Jews and Christians had in the 7th century. So according to the Quran the 7th century Bible is confirmed as authentic, uncorrupted and coming from Allah. [The problem for the liars claiming that the Bible is corrupted is that we have extant copies that are even 300](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus)-[900 years older than the Quran](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls), and they are identical to our modern Bibles. As are all extant books and manuscripts from the 5th, 6th, 7th century and so on, showing that there has been absolutely no corruption of the meaning. This disproves the idea some Muslims put forth that the Bible has been corrupted.
 
 
 # Contradictions
@@ -535,6 +560,10 @@ Surah 4:82
 > Do they not then reflect on the Quran? Had it been from anyone other than Allah, they would have certainly found in it many inconsistencies.
 
 If the Quran is from Allah, there should be no contradictions.
+
+## The word of Allah both can't and can be changed
+
+Surah 6:115; 10:64; 18:27; 50:29 says no one can change the word of Allah, but Surah 2:75 says some people did change the word of Allah.
 
 ### Allah both could and could not have offspring
 
@@ -661,9 +690,9 @@ This is false. No Jews have ever claimed that Ezra is the son of God. Is it Alla
 
 Surah 5:73
 
-> They have certainly disbelieved who say, "Allāh is the third of three." And there is no god except one God.
+> They do blaspheme who say: Allah is one of three in a Trinity: for there is no god except One Allah.
 
-This is an obvious reference to the trinity doctrine. However the trinity doctrine doesn't say that God or Allah is one of three. That would be tritheism. It says that God is one in essence and three in persons. The Quran is wrong. 
+This is an obvious reference to the trinity doctrine. However the trinity doctrine doesn't say that God or Allah is "one of three". That would be tritheism. It says that God is one in essence and three in persons. The Quran is wrong. 
 
 ## The Quran confuses the Holy Spirit with the Angel Gabriel 
 

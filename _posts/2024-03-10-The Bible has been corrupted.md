@@ -44,7 +44,7 @@ The Quran confirms the Bible that "was with them", or that they had in the 7th c
 The reason for saying the Bible is corrupted is because of what is called the Islamic dilemma.
 
 1. The Quran says that the Bible is the authentic, preserved word of Allah. (Surah 2:41,89,91,97,101;3:2,3,81;4:47,136;5:44,46-49,68;6:92;10:37,94;12:111;21:7;29:46;35:31;37:37;46:12,30)
-2. The Quran says no one can change the word of Allah. (Surah 6:34,115;10:64;18:27)
+2. The Quran says no one can change the word of Allah. (Surah 6:34,115;10:64;18:27;50:29)
 3. Therefore the Quran says that the Bible has not been changed.
 4. Yet the Quran also contradicts the Bible on central issues such as the crucifixion, who Jesus is, the trinity, the Fatherhood of God, salvation, justice, forgiveness, and many other topics. (Surah 4:147;19:35;4:157;112:3;
 5. Furthermore the Bible explicitly says that if any man or angel brings a message that is different, that man or angel is accursed by God and their message is false. (Gal 1:8)

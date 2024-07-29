@@ -176,7 +176,7 @@ Seems like monkeys and Muslims are allies in woman hating.
 
 What Islam teaches about Jesus varies. Some things are more or less accurate, but many things are false, antichristian and blasphemous.
 
-## Is free of sin
+## Jesus is free of sin
 
 Surah 19:19 
 
@@ -191,6 +191,16 @@ Surah 4:157
 > and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
 
 This is probably the most damning verse in the Quran, because it not only goes against the Bible and the testimony of documented history, proving that Islam is factually false and a lie, but it also leads billions of people away from salvation. 
+
+## Jesus is Lord along with Allah
+
+Surah 9:31
+
+> They have taken their scholars and monks as lords besides Allāh and the Messiah, the son of Mary.
+
+This is one of the many passages where the English translations lie to hide the meaning. The Arabic says "ٱتَّخَذُوٓا۟ أَحْبَارَهُمْ وَرُهْبَـٰنَهُمْ أَرْبَابًۭا مِّن دُونِ ٱللَّهِ وَٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَمَآ" which translates as "They have taken their rabbis and their monks as lords besides Allah and the Messiah, son of Mary."
+
+So the error of these people is to take the rabbis and monks as lords, when they already have sufficient lords in Allah AND the Messiah. So it  admits that Jesus is Lord beside Allah. 
 
 ## King of kings
 

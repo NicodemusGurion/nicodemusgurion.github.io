@@ -114,13 +114,14 @@ Notice that this is not talking *about* Muhammad, but *to* Muhammad. Muhammad is
 
 We have no way of confirming that the current Quran is uncorrupted or even the same as the message Muhammad delivered.
 
-## The Quran confirms the Bible {#confirms-bible}
 
-Surah 2: 88-91
+## The Quran was foretold in the Bible
 
-> And when there comes to them a Book from Allah, **confirming what is with them**… When it is said to them, "Believe in what Allah Hath sent down, "they say, "We believe in what was sent down to us:" yet they reject all besides, even if it be Truth **confirming what is with them**…
+Surah 26:192-196
 
-The Quran confirms the Bible that was available in the 7th century as being uncorrupted and coming from Allah. [We have extant copies that are even 300](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus)-[900 years older than the Quran](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls), and they are identical to our modern Bibles. This disproves the idea some Muslims put forth that the Bible has been corrupted.
+> Truly, this Quran has been sent down by the Lord of the Worlds:...This was foretold in the scriptures of earlier religions.
+
+If the Bible was allegedly corrupted, why would Allah not know that it would be? And why would he use a corrupted book to foretell the Quran?
 
 ## Proof of inspiration {#proof-of-inspiration}
 
@@ -129,6 +130,33 @@ Surah 2:23-24
 > 23 If you are in doubt concerning that which We have sent down upon Our slave, then produce a chapter like it and call upon your helpers other than Allah, if you are truthful.24 But if you did not do it, and you can never do it; then beware of the Fire whose fuel will be people and stones, which is prepared for the disbelievers.
 
 The only claim to inspiration the Quran makes is in its literary excellence, claiming no one can produce a chapter like it. But if you have read it the first thing that strikes you is that literary speaking, it is garbage. Even a mediocre poet would be able to write a chapter far more excellent than most chapters of the Quran.
+
+## No one can change the word of Allah {#unchanging-word}
+
+
+Surah 6:34,115
+
+> The word of your Lord is complete in its truth and justice. No one can change His words: He is the All Hearing, the All Knowing.
+
+Surah 10:64
+
+> Theirs are good tidings in the life of the world and in the Hereafter - There is no changing the Words of Allah - that is the Supreme Triumph.
+
+Surah 18:27
+
+> And recite that which hath been revealed unto thee of the Scripture of thy Lord. There is none who can change His words, and thou wilt find no refuge beside Him.
+
+Surah 50:29
+
+> My Word cannot be changed, nor am I unjust to ˹My˺ creation.”
+
+
+
+## The word of Allah CAN be changed
+
+Surah 2:75
+
+> a party of them used to listen to the word of Allah, then used to change it
 
 ## The Quran is not perfectly preserved {#not-preserved}
 
@@ -179,6 +207,12 @@ Apparently, chapters could be requested on demand by the followers of Muhammad t
 > “Whoever denies a Verse of the Qur'an, it is permissible to strike his neck (i.e., execute him) 
 
 See also [Apostasy](#apostasy)
+
+## Muslims shouldn't bring the Quran to enemy lands
+
+[Sahih Muslim 1869 a](https://sunnah.com/muslim:1869)
+
+> The Messenger of Allah forbade that one should travel to the land of the enemy taking the Qur'an with him.
 
 ## A Christian wrote the Quran
 
