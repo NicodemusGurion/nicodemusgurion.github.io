@@ -732,6 +732,12 @@ The reaction of the Jews to Jesus' statement in John 8:59 confirms their underst
 
 It is important to consider the context of the passage. The claim that Jesus used unusual grammar, or that he merely meant he had existed for a long time, does not adequately explain the reaction of the Jews or the significance of his statement. Their reaction was one of extreme offense. They immediately sought to stone him for what they perceived as blasphemy. Neither the use of unusual grammar nor claiming to be thousands of years old were crimes that warranted stoning according to the Mosaic law. However claiming to be divine would warrant stoning. This strong reaction suggests that they understood Jesus' words as a claim to deity, rather than simply a matter of grammar.
 
+## John 10: 14
+
+> I am the good shepherd, and know my sheep, and my sheep know me.
+
+This refers to scriptures like Ezekiel 34:11-19 where Yahweh describes himself as a good shepherd. Jesus is saying that he is Yahweh. And the Jews understood it because in [John 10:33](#John-10-30-33) the Jews reacted by wanting to stone him for blasphemy.
+
 ## John 10: 30-33 
 
 > **I and the Father are one.**” 31 The Jews picked up stones again to stone him. 32 Jesus answered them, “I have shown you many good works from the Father; for which of them are you going to stone me?” 33 The Jews answered him, “It is not for a good work that we are going to stone you but for blasphemy, because **you**, being a man, **make yourself God.**”
