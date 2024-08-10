@@ -68,7 +68,13 @@ Surah 2:29
 
 > The Prophet said, "What is wrong with those people who look towards the sky during the prayer?" His talk grew stern while delivering this speech and he said, "They should stop (looking towards the sky during the prayer); otherwise their eyesight would be taken away."
 
-## Looking up while praying turns your head into a donkey head {#praying-donkey}
+However Muhammed looked up to heaven while praying.
+
+[Sunan Ibn Majah 1010](https://sunnah.com/ibnmajah:1010)
+
+> When the Messenger of Allah prayed towards Baitul-Maqdis, he would often lift his face towards the heavens.
+
+## Raising your head before the Imam while praying turns it into a donkey head {#donkey-head}
 
 [Sahih al Bukhari 691](https://sunnah.com/bukhari:691)
 
@@ -95,6 +101,18 @@ This is not part of the Quran or Hadiths but it is worth mentioning since this i
 > "Peace be upon you, O Prophet, as well as God's mercy and His blessings. 
 
 Notice that this is not talking *about* Muhammad, but *to* Muhammad. Muhammad is dead and gone, yet billions of times a day, people are addressing him as if he was alive and able to hear them. In other words this is a prayer directed toward Muhammad. Muslims are praying to Muhammad.
+
+
+
+
+
+
+
+
+# The Qiblah 
+
+[See: The Kaaba > The Qiblah](#qiblah) 
+
 
 
 

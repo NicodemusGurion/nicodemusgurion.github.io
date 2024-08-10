@@ -1,3 +1,60 @@
+# The Kaaba {#kaaba}
+
+## The Qiblah {#qiblah}
+
+### The Muslims used to pray toward Jerusalem {#jerusalem-qiblah}
+
+[Sunan an-Nasa'i 488](https://sunnah.com/nasai:488)
+
+> "We prayed toward Bait Al-Maqdis (Jerusalem) with the Messenger of Allah for sixteen or seventeen months - Safwan was not sure - then it was changed to the Qiblah."
+
+[Sahih al-Bukhari 4486](https://sunnah.com/bukhari:4486)
+
+> The Prophet prayed facing Bait-ulMaqdis (i.e. Jerusalem) for sixteen or seventeen months but **he wished** that his Qibla would be the Kaaba (at Mecca). So Allah Revealed (2.144) and he offered Asr prayers(in his Mosque facing Kaaba at Mecca) and some people prayed with him.
+
+The direction changed only because **he wished that his Qibla would be the Kaaba** and Allah, being [the servant of Muhammad](#allah-serves-muhammad), obliged and changed it.
+
+At first Muhammad told them to pray toward Jerusalem because he wanted to have credibility as an Abrahamic religion alongside Christianity and Judaism. But after being rejected by these in Mecca, he instead changed it toward the pagan temple in Mecca to compromise with the pagan worshipers of Arabia.
+
+See also: 
+
+- [Sahih al-Bukhari 4492](https://sunnah.com/bukhari:4492)
+- [Sunan Ibn Majah 1010](https://sunnah.com/ibnmajah:1010)
+
+### Peeing towards the Qiblah 
+
+[Muhammad peed facing the Qiblah]{#peeing-qiblah}
+
+### Pooping toward the Qiblah
+
+[Muhammad pooped facing the Qiblah]{#pooping-qiblah}
+
+
+## The Black stone {#black-stone}
+
+### The black stone absorbs sins
+
+[Mishkat al-Masabih 2577](https://sunnah.com/mishkat:2577)
+
+> “The black stone descended from paradise whiter than milk, but the sins of the descendants of Adam made it black." 
+
+See also: [Jami` at-Tirmidhi 877](https://sunnah.com/tirmidhi:877)
+
+### Muhammad touched the black stone
+
+[Sunan Ibn Majah 2946](https://sunnah.com/ibnmajah:2946)
+
+> “The Messenger of Allah did not touch the corners of the Ka’bah apart from the Black Corner (i.e., the corner where the Black Stone is) and the one that is next to it facing the houses of Banu Jumah (i.e., the Yemenite Corner).”
+
+### Kissing the stone is idolatry
+
+[Sahih al-Bukhari 1597](https://sunnah.com/bukhari:1597)
+
+> Umar came near the Black Stone and kissed it and said "No doubt, I know that you are a stone and can neither benefit anyone nor harm anyone. Had I not seen Allah's Messenger kissing you I would not have kissed you."
+
+Even Umar recognized that kissing the black stone was a pointless act of idolatry, but he only did so because Muhammad did so.
+
+
 # Lying
 
 ## Three situations in which you can lie
@@ -232,9 +289,7 @@ The Prophet said, "It is better for a man to fill the inside of his body with pu
 
 ### Muhammad didn't practice what he preached {#hypocrite}
 
-[Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
-
-> "The Messenger of Allah forbade facing the Qiblah when urinating. But I saw him, one year before he died, facing the Qiblah (while urinating)."
+[Muhammad said to not pee towards the Qiblah but did so himself](#peeing-qiblah}
 
 
 
@@ -321,6 +376,8 @@ See also:
 ## Muhammad used to be a pagan
 
 ### Muhammad sacrificed to pagan gods
+
+[Sahih al-Bukhari 5499](https://sunnah.com/bukhari:5499)
 
 > Allah's Messenger said that he met Zaid bin Amr Nufail at a place near Baldah and this had happened before Allah's Messenger received the Divine Inspiration. Allah's Messenger presented a dish of meat to Zaid bin Amr, but Zaid refused to eat of it and then said, "I do not eat of what you slaughter on your stonealtars nor do I eat except that on which Allah's Name has been mentioned on slaughtering."
 
@@ -527,6 +584,26 @@ It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and tha
 > It was narrated that Ibn 'Abbas said: "The Messenger of Allah turned towards a mountain pass and urinated, until I took pity on him because of the way he parted his legs when he urinated."
 
 Why do Muslims consider such information important for their religion?
+
+### Muhammad peed toward the Qiblah {peeing-qiblah}
+
+Note: [The Qiblah]{#qiblah} is the prayer direction towards the [Kaaba.](#kaaba)
+
+[Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
+
+> "The Messenger of Allah forbade facing the Qiblah when urinating. But I saw him, one year before he died, facing the Qiblah (while urinating)."
+
+### Muhammad pooped facing the Qiblah {#poop-qiblah}
+
+Note: [The Qiblah]{#qiblah} is the prayer direction towards the [Kaaba.](#kaaba)
+
+[Sunan Ibn Majah 323](https://sunnah.com/ibnmajah:323)
+
+> It was narrated that Ibn 'Umar said: "I saw the Messenger of Allah in his toilet, facing towards the Qiblah."
+
+[Sunan Ibn Majah 324](https://sunnah.com/ibnmajah:324)
+
+> He (Muhammad) said: '... Turn my seat in the toilet to face the Qiblah.'"
 
 
 ### Muhammad told people to drink camel urine {#drinking-camel-urine}

@@ -383,6 +383,16 @@ Regular muslim men were "only" allowed to marry 4 women, but Allah made a specif
 
 Horndog that he was, Muhammad [was not satisfied with 11 wives](#eleven-wives) but started having sex with a slave girl. His wives Aisha and Hansah were upset and demanded he promise never to do it again, to which he obliged. But later Allah conveniently gave him the revelation in Surah 66:1-6 that says that Muhammad can have sex with any woman he wishes and if his wives complain about it, Allah will replace them with better wives. And he threatens them with hell for having the audacity to ask their husband to not be unfaithful. How convenient.
 
+### Allah changed the Qiblah for Muhammad 
+
+[Allah changed the direction all Muslims must pray just because Muhammad wanted it.](#jerusalem-qiblah)
+
+[Sunan Ibn Majah 1010](https://sunnah.com/ibnmajah:1010)
+
+> When the Messenger of Allah prayed towards Baitul-Maqdis (Jerusalem), he would often lift his face towards the heavens, and Allah knew what was in the heart of His Prophet and how **he longed to face the Ka’bah (during prayer).** Jibril appeared (in the sky), and the Messenger of Allah started watching him as he was descending between the heavens and the earth, waiting to see what he would bring. Then Allah revealed the words: ‘Verily, We have seen the turning of your face towards the heaven. Surely, We shall turn you to a Qiblah **that shall please you**, so turn your face in the direction of Al-Masjid Al-Haram (at Makkah). And wherever you people are, turn your faces (during prayer) in that direction.’ 
+
+Allah surely did everything to please Muhammad's most frivolous whims, even changing one of the most fundamental rituals of Islam.
+
 ### Dinner instructions 
 
 Surah 33:53

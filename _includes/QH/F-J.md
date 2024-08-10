@@ -119,6 +119,7 @@ See also:
 
 # Islam
 
+
 ## Islam is a strange serpent receding into its hole
 
 [Sahih Muslim 146](https://sunnah.com/muslim:146)
@@ -126,12 +127,6 @@ See also:
 > the Messenger of Allah observed: Verily Islam started as something strange and it would again revert (to its old position) of being strange just as it started, and it would recede between the two mosques just as the serpent crawls back into its hole.
 
 If he was a prophet then let's hope this prophecy comes true at least.
-
-## Kissing the stone is idolatry
-
-> Umar came near the Black Stone and kissed it and said "No doubt, I know that you are a stone and can neither benefit anyone nor harm anyone. Had I not seen Allah's Messenger kissing you I would not have kissed you."
-
-Even Umar recognized that kissing the black stone was a pointless act of idolatry, but he only did so because Muhammad did so.
 
 ## Islam means following Muhammad 
 
@@ -227,6 +222,17 @@ Surah 3:55
 Surah 4:157-158
 
 > Rather, Allah raised him (Jesus) up to Himself. And Allah is Almighty, All-Wise.
+
+
+## Jesus is the Word of Allah and a spirit from him
+
+Surah 4:171
+
+> The Messiah, Jesus son of Mary, was a messenger of Allah, and His word which He cast down to Mary, and a spirit from Him.
+
+[Riyad as-Salihin 412](https://sunnah.com/riyadussalihin:412)
+
+> Jesus is His Word which He communicated to Mary and His spirit which He sent to her
 
 
 

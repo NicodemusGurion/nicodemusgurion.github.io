@@ -36,6 +36,57 @@ The Quran confirms that the Bible that Muhammad had access to in the 7th century
 
 Since both archaeology and the Quran confirms that the Bible has not been changed in the last 1800 years, claiming that it has been corrupted is kufr (كفر) and means you're not a Muslim anymore.
 
+# "X is Pagan"
+
+Accusations of paganism looks very hypocritical coming from someone whose religious practices involves worshipfully touching and kissing a black stone in a formerly pagan temple.
+
+The Kaaba was originally a pagan temple with 360 idols, and the pagans used to smear the blood of their sacrifices on the black stone. (https://sunnah.com/bukhari:2478)
+
+The pilgrimages to the Kaaba are of pagan origins. The ritual processions around the Kaaba were part of pagan beliefs and custom, the white robes worn by the pilgrims are from pagan origins.
+
+Pagans called out the names of their pagan gods as they circled the Kaaba. Today Muslims call out Allah's name. Pagans ran between the nearby hills. Today Muslims follow their example.
+
+Muslims believe that praying under the rain gutter of the Kaaba purifies them of all sins. They thus say that a building can do something only God can do, making the Kaaba equal to God.
+
+Islam teaches that touching or kissing the black stone erases your sins; Something only God can do. The veneration of the Kaaba and black stone are derived from pagan rituals and beliefs.
+
+Sahih al-Bukhari 1597 shows even Umar recognized that kissing the black stone was a pointless act of idolatry, but he only did so because Muhammad did so. (https://sunnah.com/bukhari:1597)
+
+Islam also teaches that the black stone is omniscient and will intercede on judgement day for those who touched it. Apparently Allah doesn't know who did or not. (https://sunnah.com/tirmidhi:961)
+
+Sahih al-Bukhari reveals that Muhammad himself used to be a pagan, sacrificing to false gods. No prophet of the God of Abraham has ever sacrificed to false gods. (https://sunnah.com/bukhari:5499)
+
+Every Muslim that makes the Hajj, runs between the hills, or kisses the black stone, is performing pagan rituals founded on pagan superstitions sanctioned by Muhammad himself.
+
+## "The crucifixion is pagan human sacrifice"
+
+Pagan sacrifices were offered as sustenance to their deities. It was believed that the deity was in need of sustenance and somehow fed of the flesh, blood, or life force of the victim.
+
+Yahweh is the source of life and does not need humans to sustain him in any way. (Acts 17:24,25) Biblical sacrifices are not for sustaining God but for reconciliation and atonement.
+
+From Adam to Abraham, to Israel, to Jesus, God has required sacrifices for atonement, not sustenance. The victim takes the place of the sinner and its lifeblood is poured out in exchange for theirs.
+
+The principle of substitutionary atonement, that the death of one innocent victim can atone for the sins of a person, is fundamental to how the God of Abraham deals with sin.
+
+That the Quran denies substitutionary atonement in Surah 35:18 only shows that Allah is not the god of Abraham, for Abraham believed in substitutionary atonement. (Genesis 22)
+
+In fact, Allah just forgives sins without any punishment or corresponding ransom.
+A judge who leaves sinners unpunished is an unrighteous judge who condones and promotes sins.
+
+Since humans die for human sins, animal sacrifices are not enough for permanent atonement. The only sacrifice that cancels out human sins permanently is the death of a sinless human, Jesus.
+
+God incarnated as the sinless man Jesus and his most important work on earth was to be the "Lamb of God who takes away the sin of the world." (Mark 10:45; John 1:29; John 3:16; 1 John 3:5,8)
+
+There is nothing "pagan" about substitutionary sacrifices. It's the way the God of Abraham has always dealt with sin. By calling it "pagan", you only prove you're not worshiping the God of Abraham.
+
+Secondly, Jesus sacrifice was an example of selfless self-sacrifice, not human sacrifice. Like how someone would be willing to take a bullet for someone they love. 
+
+Victims of human sacrifice are not volunteers. Jesus self-sacrifice was fully voluntary and he could stop it at any time. It was the reason he came to earth. (John 10:18; Mat 20:28;26:53) 
+
+Neither Jews nor Christians have ever considered the crucifixion a human sacrifice. Human sacrifice are abhorrent to Jews and an abomination to Yahweh. (Jeremiah 32:35)
+
+If the crucifixion was a human sacrifice, it would mean the Jews purposefully broke their own laws and killed Jesus to bring sustenance to Yahweh. The idea is abhorrent and the deed pointless.
+
 # "Rebecca was 3 years old when Isaac married her"
 
 See ["Rebecca was only 3 years old when Isaac married her"](/Rebecca-was-only-3-years-old)
