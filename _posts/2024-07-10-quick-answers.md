@@ -96,9 +96,17 @@ In Surah 2:4,41,89,91,97,101,111;3:3-4,23,81,93,184;4:47;5:44,48,66,68;6:91-92;1
 
 The Quran confirms that the Bible that Muhammad had access to in the 7th century is the word of Allah. (2:89;5:68) It also says that no one can change the word of Allah. (6:115; 18:27)
 
-We have access to Bibles that are even older than the 7th century, so we can see that there has been no changes between what the Quran confirmed as being the unchanging word of Allah.
+We have access to Bibles that are even older than the 7th century, so we can see that there has been no changes between what the Quran confirmed as being the unchanging word of Allah. (Surah 6:115)
 
-However, the Quran still contradict the Bible in places like 
+The Quran at the same time contradicts the Bible in many places, such as Surah 4:157,171; 2:31,55,60,65,66,73
+
+Meanwhile, the Bible says that the Quran is false and Muhammad is a false prophet. (Matthew 7:15-19; Mark 13:21,22; Galatians 1:8;1 John 2:22,23)
+
+So the dilemma is:
+If the Bible is true, then the Quran is false (because the true Bible condemns the Quran, and the Quran contradicts the Bible.)
+
+If the Bible is false, then the Quran is false (for affirming the Bible as the unchangeable word of Allah.)
+In either case the Quran is false.
 
 
 # "Rebecca was 3 years old when Isaac married her"
