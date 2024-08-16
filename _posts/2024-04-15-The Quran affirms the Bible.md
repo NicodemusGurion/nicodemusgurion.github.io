@@ -15,7 +15,7 @@ In short, we have today extant complete Bibles from the 2nd-4th century A.D., an
 
 # What the Quran says
 
-In Surah 2:4,40-41,89,91,97,101,111,113,121;3:3-4,23,58,78-79,81,93,184;4:47;5:44,48,66,68,84;6:91-92;10:37,94;12:111;16:43;20:133;21:7,48,105;26:196;28:48-49;29:27;35:25,31;37:37;40:53;46:12,30;87:18-19 the Quran repeatedly confirms the authenticity, integrity, and divine origin of the Christian and Jewish scriptures that were available in Arabia in the 7th century B.C. 
+In Surah 2:4,41,89,91,97,101,111;3:3-4,23,81,93,184;4:47;5:44,48,66,68;6:91-92;10:37,94;12:111;16:43;20:133;21:7,48,105;26:196;28:48-49;35:25,31;37:37;40:53;46:12,30;87:18-19 the Quran repeatedly confirms the authenticity, integrity, and divine origin of the Christian and Jewish scriptures that were available in Arabia in the 7th century B.C. 
 
 - It says that the Bible is the word of Allah, and calls Jews and Christians "the people of the Book". 
 - It is "confirming that which is with you", and "verifying that which you have", showing that the Bibles in the 7th century were approved by Allah. 

@@ -8,6 +8,8 @@ Since Muslim debaters never put any thought into their incoherent contradictory 
 
 [TOC]
 
+
+
 # "The Bible has been corrupted"
 
 Today we have 4 complete Bibles from the 4th century. They are two hundred years older than Islam and they are identical in content with modern Bibles. This alone proves there has been no changes.
@@ -86,6 +88,18 @@ Victims of human sacrifice are not volunteers. Jesus self-sacrifice was fully vo
 Neither Jews nor Christians have ever considered the crucifixion a human sacrifice. Human sacrifice are abhorrent to Jews and an abomination to Yahweh. (Jeremiah 32:35)
 
 If the crucifixion was a human sacrifice, it would mean the Jews purposefully broke their own laws and killed Jesus to bring sustenance to Yahweh. The idea is abhorrent and the deed pointless.
+
+
+# The Quranic dilemma
+
+In Surah 2:4,41,89,91,97,101,111;3:3-4,23,81,93,184;4:47;5:44,48,66,68;6:91-92;10:37,94;12:111;16:43;20:133;21:7,48,105;26:196;28:48-49;35:25,31;37:37;40:53;46:12,30;87:18-19 the Quran affirms the Bible.
+
+The Quran confirms that the Bible that Muhammad had access to in the 7th century is the word of Allah. (2:89;5:68) It also says that no one can change the word of Allah. (6:115; 18:27)
+
+We have access to Bibles that are even older than the 7th century, so we can see that there has been no changes between what the Quran confirmed as being the unchanging word of Allah.
+
+However, the Quran still contradict the Bible in places like 
+
 
 # "Rebecca was 3 years old when Isaac married her"
 

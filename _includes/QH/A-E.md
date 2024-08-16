@@ -511,9 +511,60 @@ Surah 2: 88-91
 The Quran says that it confirms "what is with them", referring to the scriptures that the Jews and Christians had in the 7th century. So according to the Quran the 7th century Bible is confirmed as authentic, uncorrupted and coming from Allah. [The problem for the liars claiming that the Bible is corrupted is that we have extant copies that are even 300](https://en.m.wikipedia.org/wiki/Codex_Sinaiticus)-[900 years older than the Quran](https://en.m.wikipedia.org/wiki/Dead_Sea_Scrolls), and they are identical to our modern Bibles. As are all extant books and manuscripts from the 5th, 6th, 7th century and so on, showing that there has been absolutely no corruption of the meaning. This disproves the idea some Muslims put forth that the Bible has been corrupted.
 
 
+See also:
+
+- Surah 5:46,47
+
+
+
+
+
+
+# Christians
+
+## Muslims should listen to and learn from Christians and Jews {#listen-to-christians}
+
+Surah 29:46
+
+> Do not argue with the People of the Book unless gracefully, except with those of them who act wrongfully. 
+
+Surah 16:43;21:7
+
+> [Prophet], all the messengers We sent before you were simply men to whom We had given the Revelation: you [people] can ask those who have knowledge if you do not know.
+
+Surah 10:94
+
+> If you are in doubt about what We have revealed to you, then ask those who read the Scripture before you. The truth has certainly come to you from your Lord, so do not be one of those who doubt,
+
+Muslims should not argue with Christians but listen and learn from them what Allah has really taught.
+
+
+## Christians must judge by the Gospel
+
+Surah 5:47
+
+> So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
+
+
+
+
+
+
+
+
+
+
 # Contradictions
 
 ## Contradicting the Bible
+
+### Jesus was not crucified
+
+Surah 4:157
+
+> And because of their saying: We slew the Messiah, Jesus son of Mary, Allah's messenger - they slew him not nor crucified him, but it appeared so unto them; and lo! those who disagree concerning it are in doubt thereof; they have no knowledge thereof save pursuit of a conjecture; they slew him not for certain.
+
+The Quran denies the crucifixion of Jesus, the most verified fact of ancient history, and the pinnacle of the Bible and cornerstone of Christianity.
 
 ### Who named the animals?
 
