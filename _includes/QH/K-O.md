@@ -175,6 +175,12 @@ An average looking fellow, neither tall nor short, with wavy hair, silver white 
 
 > The Messenger of Allah was not very tall nor was he [very] short, nor was he pale white, nor was he brown, nor was the wave of his hair completely curly nor straight…
 
+### Muhammad had big hands {#big-hands}
+
+[Sahih al-Bukhari 5906](https://sunnah.com/bukhari:5906)
+
+> The Prophet had big hands
+
 
 ### Muhammad dyed his beard yellow {#yellow-beard}
 
