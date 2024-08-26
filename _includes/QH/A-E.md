@@ -464,13 +464,30 @@ See also:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 # Angels
 
-## Angels are repelled by dogs and pictures
+## Angels are afraid of dogs and pictures
 
 [Sahih al-Bukhari 4002](https://sunnah.com/bukhari:4002)
 
 > Allah's Messenger said. "Angels do not enter a house in which there is a dog or a picture"
+
+
+
+
+
 
 
 
@@ -489,6 +506,13 @@ See also:
 - [Sunan Ibn Majah 2533](https://sunnah.com/ibnmajah:2533)
 - [Sunan Ibn Majah 2534](https://sunnah.com/ibnmajah:2534)
 - [Sunan an-Nasa'i 4059](https://sunnah.com/nasai:4059) 
+
+
+
+
+
+
+
 
 
 
@@ -534,6 +558,14 @@ See also:
 
 
 
+
+
+
+
+
+
+
+
 # Christians
 
 ## Muslims should listen to and learn from Christians and Jews {#listen-to-christians}
@@ -558,6 +590,13 @@ Muslims should not argue with Christians but listen and learn from them what All
 Surah 5:47
 
 > So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
+
+
+
+
+
+
+
 
 
 
@@ -628,6 +667,12 @@ Surah 2:73
 
 Israelites are instructed to use parts of a cow carcass to resurrect the dead.
 
+
+
+
+
+
+
 ## Contradicting the Quran
 
 Surah 4:82
@@ -636,6 +681,18 @@ Surah 4:82
 
 If the Quran is from Allah, there should be no contradictions.
 
+
+### Did Allah create the heavens or the earth first?
+
+#### Allah created the heavens before the earth
+
+Surah 6:1,73,79,101;14:19;15:85;16:3;17:99;21:16,56;25:59;29:44,61;31:27;36:81;38:27;43:9;44:38;45:22;50:38;52:36;57:4;64:3 etc
+
+#### Allah created the earth before the heavens
+
+Surah 2:29;20:4;41:9-12
+
+> He it is Who created for you all that is in the earth. Then turned He to the heaven, and fashioned it as seven heavens.
 
 ### The word of Allah both can't and can be changed
 
