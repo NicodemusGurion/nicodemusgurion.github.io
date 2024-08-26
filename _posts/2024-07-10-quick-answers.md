@@ -92,13 +92,13 @@ If the crucifixion was a human sacrifice, it would mean the Jews purposefully br
 
 # The Quranic dilemma
 
-In Surah 2:4,41,89,91,97,101,111;3:3-4,23,81,93,184;4:47;5:44,48,66,68;6:91-92;10:37,94;12:111;16:43;20:133;21:7,48,105;26:196;28:48-49;35:25,31;37:37;40:53;46:12,30;87:18-19 the Quran affirms the Bible.
+Surah 2:4,41,89,91,97,101,111;3:3-4,23,81,93,184;4:47;5:44,48,66,68;6:91-92;10:37,94;12:111;16:43;20:133;21:7,48,105;26:196;28:48-49;35:25,31;37:37;40:53;46:12,30;87:18-19 affirms the Bible.
 
 The Quran confirms that the Bible that Muhammad had access to in the 7th century is the word of Allah. (2:89;5:68) It also says that no one can change the word of Allah. (6:115; 18:27)
 
 We have access to Bibles that are even older than the 7th century, so we can see that there has been no changes between what the Quran confirmed as being the unchanging word of Allah. (Surah 6:115)
 
-The Quran at the same time contradicts the Bible in many places, such as Surah 4:157,171; 2:31,55,60,65,66,73
+The Quran at the same time contradicts the Bible in many places, such as Surah 4:157,171; 2:31,55,60,65,66,73 etc.
 
 Meanwhile, the Bible says that the Quran is false and Muhammad is a false prophet. (Matthew 7:15-19; Mark 13:21,22; Galatians 1:8;1 John 2:22,23)
 

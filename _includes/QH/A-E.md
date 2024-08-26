@@ -147,6 +147,20 @@ Why would Allah swear by someone else? A Lord at that? That only means this Lord
 Yahweh in the Bible swear by himself, because there is no one higher. But Allah swears by someone higher.
 
 
+## Allah is a muslim
+
+Muslims need to take the Shahada, meaning they testify that there is no God but Allah, and that Muhammad is his prophet.
+
+Surah 3:18
+
+> Allah bears witness that there is no god but He.
+
+Surah 48:29
+
+> Muhammad is the messenger of Allah. 
+
+Why does Allah need to take the Shahada to become a Muslim?
+
 ## Allah wonders 
 
 [Sahih al-Bukhari 3010](https://web.archive.org/web/20240318170959/https://sunnah.com/bukhari:3010)
@@ -622,7 +636,8 @@ Surah 4:82
 
 If the Quran is from Allah, there should be no contradictions.
 
-## The word of Allah both can't and can be changed
+
+### The word of Allah both can't and can be changed
 
 Surah 6:115; 10:64; 18:27; 50:29 says no one can change the word of Allah, but Surah 2:75 says some people did change the word of Allah.
 

@@ -255,6 +255,11 @@ Deuteronomy 22:5 says “A woman shall not wear a man’s garment, nor shall a m
 
 ## Muhammad's character
 
+### Muhammad randomly beat people for no reason
+
+[Sunan Abi Dawud 4536](https://sunnah.com/abudawud:4536)
+
+> When the Messenger of Allah was distributing something, a man came towards him and bent down on him. The Messenger of Allah struck him with a bough and his face was wounded. The Messenger of Allah said to him: Come and take retaliation. He said: no, I have forgiven, Messenger of Allah!.
 
 ### Muhammad was a copycat {#copycat}
 
