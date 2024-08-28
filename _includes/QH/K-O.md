@@ -255,6 +255,24 @@ Deuteronomy 22:5 says “A woman shall not wear a man’s garment, nor shall a m
 
 ## Muhammad's character
 
+### Muhammad was a sinner
+
+Surah 40:55; 47:19
+
+> Then have patience (O Muhammad). Lo! the promise of Allah is true. And ask forgiveness of thy sin
+
+[Sahih al-Bukhari 744](https://sunnah.com/bukhari:744)
+
+> Allah's Messenger used to keep silent between the Takbir and the recitation of Qur'an and that interval of silence used to be a short one. I said to the Prophet "May my parents be sacrificed for you! What do you say in the pause between Takbir and recitation?" The Prophet said, "I say, 'O Allah! Set me apart from my sins as the East and West are set apart from each other and clean me from sins as a white garment is cleaned of dirt. O Allah! Wash off my sins with water, snow and hail.'"
+
+[Sahih al Bukhari 6307](https://sunnah.com/bukhari:6307)
+
+> I heard Allah's Messenger saying." By Allah! I ask for forgiveness from Allah and turn to Him in repentance more than seventy times a day."
+
+[Sahih al Bukhari 6368](https://sunnah.com/bukhari:6368)
+
+> The Prophet used to say, "O Allah! I seek refuge with You … from all kinds of sins … O Allah! Wash away my sins with the water of snow and hail, and cleanse my heart from all the sins as a white garment is cleansed from the filth, and let there be a long distance between me and my sins, as You made East and West far from each other."
+
 ### Muhammad randomly beat people for no reason
 
 [Sunan Abi Dawud 4536](https://sunnah.com/abudawud:4536)

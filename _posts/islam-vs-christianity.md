@@ -69,6 +69,14 @@ Yahweh does not want people to sin. (Satan wants people to sin)
 Allah forgives sins by overlooking them.
 Yahweh can not overlook sins, but must judge righteously.
 
+Allah allows adultery
+
+Yahweh prohibits adultery
+
+Allah demands that a divorced woman must marry another man and divorce again before she can remarry her original husband.
+
+Yahweh forbids a man who divorced his wife to remarry her if she became another man's wife.
+
 
 # Sonship of Jesus Christ
 
@@ -125,7 +133,7 @@ The Bibly has a lot of verified prophecy.
 
 
 
-# Leaders
+# Muhammad v.s. Jesus 
 
 Muhammad never did any miracles.
 Jesus did many miracles.
@@ -133,7 +141,7 @@ Jesus did many miracles.
 Muhammad married 11 women.
 Jesus was celibate.
 
-Muhammad was a boy toy to a sugar mama.
+Muhammad was a boy toy to a rich successful sugar mama.
 Jesus was a hard working carpenter.
 
 Muhammad was a warlord.
@@ -157,12 +165,62 @@ Jesus loved and honored women, treating them as equals, giving them the privileg
 Muhammad stoned an adulteress to death.
 Jesus saved an adulteress from being stoned to death.
 
+Muhammad had unfair advantages over his followers, like being allowed to take more wives.
+Jesus came to serve his followers.
+
 When Muhammad was dying he said: "Cursed be the Jews and Christians, for they build their Holy places on the graves of the prophets." (Muslims later built a Holy place on Muhammad's grace.)
 When Jesus was dying he said "Father, forgive them, for the do not know what they are doing."
 
 Muhammad is dead and in his tomb.
 Jesus was resurrected and left his tomb.
 
+
+Muhammad had no idea what would happen to him after death. Surah 46:9
+Jesus knew he would resurrect himself after death.
+
+Muhammad had no real authority. Surah 72:21
+Jesus have all authority in heaven and on earth. Matthew 28:18
+
+Muhammad can not direct you the correct way. Surah 72:21
+Jesus is the way, the truth, and the life. John 14:6
+
+Muhammad can not save anyone from Allah's punishment. Sahih al-Bukhari 2753
+Jesus saves and no one can snatch us out of his hand. John 10:28
+
+
+Surah 46:9
+
+> I am no new thing among the messengers of Allah, nor know I what will be done with me or with you.
+
+Matthew 28:18
+
+> All authority in heaven and on earth has been given to me.
+
+Surah 72:21
+
+> I do not possess for you the power of harm or right direction.
+
+John 14:6
+
+> I am the way, and the truth, and the life. No one comes to the Father except through me.
+
+Sahih al-Bukhari 3929
+
+
+> By Allah, though I am the Apostle of Allah, yet I do not know what Allah will do to me,
+
+
+John 14:13
+
+> Whatever you ask in my name, this I will do, that the Father may be glorified in the Son.
+
+Sahih al-Bukhari 2753
+
+> I cannot save you from Allah's Punishment
+
+John 10:28
+
+>  I give them eternal life, and they will never perish, and no one will snatch them out of my hand.
 
 According to the Quran, a husband can have 4 wives. He has the right to have sex with her however and whenever he wishes, and the wife does not have this right. If he even suspects her of being rebellious, he should chastise her, banish her from their bed and physically beat her. (Surah 2:223; 4:3,34)
 
