@@ -13,8 +13,8 @@ Some selected Quran and Hadith verses.
 
 <small>Since the hadiths are often unnecessarily verbose, unnecessary text has been removed to cut down on the volume of text; The original Surahs and Hadiths are linked if you want to read the full text.</small>
 
-{% capture are %}{% include QH/A-E.md %}{% endcapture %}
-{{ are | markdownify }}
+{% capture AE %}{% include QH/A-E.md %}{% endcapture %}
+{{ AE | markdownify }}
 
 {% capture FJ %}{% include QH/F-J.md %}{% endcapture %}
 {{ FJ | markdownify }}

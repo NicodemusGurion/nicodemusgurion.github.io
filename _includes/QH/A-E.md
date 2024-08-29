@@ -397,6 +397,10 @@ Regular muslim men were "only" allowed to marry 4 women, but Allah made a specif
 
 Horndog that he was, Muhammad [was not satisfied with 11 wives](#eleven-wives) but started having sex with a slave girl. His wives Aisha and Hansah were upset and demanded he promise never to do it again, to which he obliged. But later Allah conveniently gave him the revelation in Surah 66:1-6 that says that Muhammad can have sex with any woman he wishes and if his wives complain about it, Allah will replace them with better wives. And he threatens them with hell for having the audacity to ask their husband to not be unfaithful. How convenient.
 
+### Allah annulled adoption so Muhammad could marry his son's wife {#anulling-adoption}
+
+See: [The time Muhammad stole his son's wife](/The-time-Muhammad-stole-his-sons-wife)
+
 ### Allah changed the Qiblah for Muhammad 
 
 [Allah changed the direction all Muslims must pray just because Muhammad wanted it.](#jerusalem-qiblah)

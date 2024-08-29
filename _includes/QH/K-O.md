@@ -151,7 +151,8 @@ See also:
 
 
 
-
+{% capture Moe %}{% include QH/Muhammad.md %}{% endcapture %}
+{{ Moe | markdownify }}
 
 
 
@@ -614,7 +615,7 @@ It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and tha
 
 Why do Muslims consider such information important for their religion?
 
-### Muhammad peed toward the Qiblah {peeing-qiblah}
+### Muhammad peed toward the Qiblah {#peeing-qiblah}
 
 Note: [The Qiblah]{#qiblah} is the prayer direction towards the [Kaaba.](#kaaba)
 
@@ -1011,9 +1012,44 @@ See also:
 - [Sunan an-Nasa'i 4621](https://sunnah.com/nasai:4621)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Muhammad and violence {#muhammad-violence}
 
 See also [Jihad](#jihad), and [Violence](#violence)
+
+
+### Muhammad physically abused Aisha {#abusing-aisha}
+
+[Sahih Muslim 974b](https://sunnah.com/muslim/11/132)
+
+Long story short: Muhammad was sneaking around outside in the middle of the night, and Aisha thinking he was having an affair stalks him. But he discovers it and then Sunnah.com says:
+
+> He gave me a nudge on the chest which I felt
+
+However the Arabic says:
+
+>‎ ‏.فَلَهَدَنِي فِي صَدْرِي لَهْدَةً أَوْجَعَتْنِي 
+
+[Which actually means:](https://translate.google.com/?sl=ar&tl=en&text=فَلَهَدَن%D9%90ي%20ف%D9%90ي%20صَدْر%D9%90ي%20لَهْدَةً%20أَوْجَعَتْن%D9%90ي%20&op=translate)
+
+> He gave me a slap in the chest that hurt me
+
+So Muhammad gets pissy and slaps his child wife in the chest so hard that it hurt her. This is in harmony with Surah 4:34 which allows men to beat their wives for any reason. So I don't understand why the people at Sunnah.com feels so ashamed over this that they feel they must rewrite it to deceive people about their religion. Maybe because sane people would reject their abusive cult if they knew. Without lies Islam dies.
+
 
 ### Muhammad had people assassinated 
 
