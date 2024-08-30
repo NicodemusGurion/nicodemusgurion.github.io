@@ -9,8 +9,10 @@ Since Muslim debaters never put any thought into their incoherent contradictory 
 [TOC]
 
 
+# Holy books
 
-# "The Bible has been corrupted"
+
+## "The Bible has been corrupted"
 
 Today we have 4 complete Bibles from the 4th century. They are two hundred years older than Islam and they are identical in content with modern Bibles. This alone proves there has been no changes.
 
@@ -38,7 +40,27 @@ The Quran confirms that the Bible that Muhammad had access to in the 7th century
 
 Since both archaeology and the Quran confirms that the Bible has not been changed in the last 1800 years, claiming that it has been corrupted is kufr (كفر) and means you're not a Muslim anymore.
 
-# "X is Pagan"
+## The Quranic dilemma
+
+Surah 2:4,41,89,91,97,101,111;3:3-4,23,81,93,184;4:47;5:44,48,66,68;6:91-92;10:37,94;12:111;16:43;20:133;21:7,48,105;26:196;28:48-49;35:25,31;37:37;40:53;46:12,30;87:18-19 affirms the Bible.
+
+The Quran confirms that the Bible that Muhammad had access to in the 7th century is the word of Allah. (2:89;5:68) It also says that no one can change the word of Allah. (6:115; 18:27)
+
+We have access to Bibles that are even older than the 7th century, so we can see that there has been no changes between what the Quran confirmed as being the unchanging word of Allah. (Surah 6:115)
+
+The Quran at the same time contradicts the Bible in many places, such as Surah 4:157,171; 2:31,55,60,65,66,73 etc.
+
+Meanwhile, the Bible says that the Quran is false and Muhammad is a false prophet. (Matthew 7:15-19; Mark 13:21,22; Galatians 1:8;1 John 2:22,23)
+
+So the dilemma is:
+If the Bible is true, then the Quran is false (because the true Bible condemns the Quran, and the Quran contradicts the Bible.)
+
+If the Bible is false, then the Quran is false (for affirming the Bible as the unchangeable word of Allah.)
+In either case the Quran is false.
+
+# Religious traditions
+
+## "X is Pagan"
 
 Accusations of paganism looks very hypocritical coming from someone whose religious practices involves worshipfully touching and kissing a black stone in a formerly pagan temple.
 
@@ -60,7 +82,7 @@ Sahih al-Bukhari reveals that Muhammad himself used to be a pagan, sacrificing t
 
 Every Muslim that makes the Hajj, runs between the hills, or kisses the black stone, is performing pagan rituals founded on pagan superstitions sanctioned by Muhammad himself.
 
-## "The crucifixion is pagan human sacrifice"
+### "The crucifixion is pagan human sacrifice"
 
 Pagan sacrifices were offered as sustenance to their deities. It was believed that the deity was in need of sustenance and somehow fed of the flesh, blood, or life force of the victim.
 
@@ -90,32 +112,17 @@ Neither Jews nor Christians have ever considered the crucifixion a human sacrifi
 If the crucifixion was a human sacrifice, it would mean the Jews purposefully broke their own laws and killed Jesus to bring sustenance to Yahweh. The idea is abhorrent and the deed pointless.
 
 
-# The Quranic dilemma
 
-Surah 2:4,41,89,91,97,101,111;3:3-4,23,81,93,184;4:47;5:44,48,66,68;6:91-92;10:37,94;12:111;16:43;20:133;21:7,48,105;26:196;28:48-49;35:25,31;37:37;40:53;46:12,30;87:18-19 affirms the Bible.
-
-The Quran confirms that the Bible that Muhammad had access to in the 7th century is the word of Allah. (2:89;5:68) It also says that no one can change the word of Allah. (6:115; 18:27)
-
-We have access to Bibles that are even older than the 7th century, so we can see that there has been no changes between what the Quran confirmed as being the unchanging word of Allah. (Surah 6:115)
-
-The Quran at the same time contradicts the Bible in many places, such as Surah 4:157,171; 2:31,55,60,65,66,73 etc.
-
-Meanwhile, the Bible says that the Quran is false and Muhammad is a false prophet. (Matthew 7:15-19; Mark 13:21,22; Galatians 1:8;1 John 2:22,23)
-
-So the dilemma is:
-If the Bible is true, then the Quran is false (because the true Bible condemns the Quran, and the Quran contradicts the Bible.)
-
-If the Bible is false, then the Quran is false (for affirming the Bible as the unchangeable word of Allah.)
-In either case the Quran is false.
+# Defending the pedophilia of Muhammad
 
 
-# "Rebecca was 3 years old when Isaac married her"
+## "Rebecca was 3 years old when Isaac married her"
 
 See ["Rebecca was only 3 years old when Isaac married her"](/Rebecca-was-only-3-years-old)
 
 **Note:** The argument goes that Isaac was born when his mother was 90, and his mother Sarah died at the age of 127, when Isaac was 37 years old. (Genesis 17:17;21:2-5;23:1) Before she died, Genesis 22:20-24 mentions that Bethuel became father to Rebecca. And since Isaac was 40 when he married Rebecca, this would mean Rebecca was only 3 years old when Isaac married her. (Genesis 25:20) The argument is put forth to defend [the fact that Muhammad married a 6 year old child.](/quran-and-hadiths#child-sexual-abuse), as if Isaac did something similar it would make pedophilia morally good.
 
-## Would it justify pedophilia?
+### Would it justify pedophilia?
 
 That Rebecca was 3 years old can be proven to be a blatant lie. But even if it was true, why would the conduct of Isaac justify pedophilia? Do you believe pedophilia is morally good?
 
@@ -125,7 +132,7 @@ If Isaac married a 3 year old, he would be a horrible human being. So you use a 
 
 If that was true, then by using the Bible as an authority to defend Muhammad, you acknowledge that the Bible is morally superior to the Quran and that he is no better than the worst possible sinner.
 
-## Is it true?
+### Is it true?
 
 That Rebecca was 3 years old when marrying Isaac is a lie. There is no way to prove that. According to the text she was an independent adult woman. (Genesis 24:5,8,14,16,28,39,43-44,55,57-58)
 
@@ -141,3 +148,18 @@ In Genesis 22:20-24 Abraham gets the news that no less than 14 relatives in 2 ge
 
 The news mentioning Rebecca covered what had happened to Abraham's relatives the last 60 years. Rebecca's birth could be anywhere within that timespan, so it can't be used to pinpoint her age.
 
+## "Mary was 13 / Joseph was 90"
+
+That is a myth. The Catholic Encyclopedia specifically says that such an idea is false, a myth that is not authoritative:
+
+"These dreams, as St. Jerome styles them, from which many a Christian artist has drawn his inspiration, are void of authority" https://www.newadvent.org/cathen/08504a.htm
+
+"No historical document tells us how old she actually was at the time of the Nativity." https://www.newadvent.org/cathen/15464b.htm
+
+Falsely accusing others of marrying teenagers does not excuse Muhammad having sex with an even younger 9 year old child. It doesn't make him less of a pedophile.
+
+Even though they are false, giving such examples only emphasizes that Muhammad was way way worse than the worst possible examples you can come up with. How does that defend his pedophilia?
+
+## "[Random  person] married a child"  / "Country X allowed child marriage"
+
+What they did has literally nothing to do with the topic. What's your point? That they are just as bad as Muhammad, so therefore Muhammad's pedophilia was justified?
