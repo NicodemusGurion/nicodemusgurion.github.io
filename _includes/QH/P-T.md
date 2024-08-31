@@ -538,6 +538,16 @@ See also:
 
 > Narrated 'Abdullah: A person was mentioned before the Prophet and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet said, "Satan urinated in his ears."
 
+## Sayan eats poop
+
+[Sunan an-Nasa'i 42](https://sunnah.com/nasai:42)
+
+> The Prophet wanted to defecate, and he told me to bring him three stones. I found two stones and looked for a third, but I could not find any, so I picked up a piece of dung and brought them to the Prophet. He took the two stones and three away the dung and said: "This is Riks." Abu 'Abdur-Rahman (An-Nasai') said: Riks is the food of the jinn.
+
+So dung, or poop, is called Riks, and Riks is the food of the jinn, and Sayannis a jinn. So Satan eats poop?
+
+(Also, why did he think a piece of dung was a good thing to wipe your ass with?)
+
 ## Yawning is Satanic {#satanic-yawning}
 
 [Sahih al Bukhari 3289](https://sunnah.com/bukhari:3289)
