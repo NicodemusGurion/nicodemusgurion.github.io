@@ -538,7 +538,15 @@ See also:
 
 > Narrated 'Abdullah: A person was mentioned before the Prophet and he was told that he had kept on sleeping till morning and had not got up for the prayer. The Prophet said, "Satan urinated in his ears."
 
-## Sayan eats poop
+## Satan blows air into your butt
+
+[Bulugh al-Maram 83](https://sunnah.com/bulugh:83)
+
+> Allah’s Messenger said: “Satan comes to one of you in Salat and blows air in his bottom, so he imagines that he has released air yet he did not. So if he gets that feeling he should not leave his prayer unless he hears the sound (of the air) or smells its odour.”
+
+In other words, farting during prayer voids your prayer, but unless you could hear or smell your fart, it was probably just Satan blowing air into your ass to trick you. Totally makes sense...
+
+## Satan eats poop
 
 [Sunan an-Nasa'i 42](https://sunnah.com/nasai:42)
 
@@ -547,6 +555,20 @@ See also:
 So dung, or poop, is called Riks, and Riks is the food of the jinn, and Sayannis a jinn. So Satan eats poop?
 
 (Also, why did he think a piece of dung was a good thing to wipe your ass with?)
+
+[Jami` at-Tirmidhi 18](https://sunnah.com/tirmidhi:18)
+
+> Allah's Messenger said: "Do not perform Istinja, with dung, nor with bones. For indeed it is provisions for your brothers among the Jinn."
+
+Dung is again said to be the provisions of the Jinn. Notice also that Muslims are brothers with Jinn. This makes sense as Islam believes that [Jinn can become Muslims](#snake-jinn).
+
+## Satan eats with his left hand 
+
+[Sunan Ibn Majah 3268](https://sunnah.com/ibnmajah:3268)
+
+> “Do not eat with your left hand, for Satan eats with his left hand.”
+
+So [Satan eats poop](#satan-eats-poop) with his left hand?
 
 ## Yawning is Satanic {#satanic-yawning}
 
