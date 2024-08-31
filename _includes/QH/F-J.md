@@ -142,6 +142,12 @@ Surah 98:6
 
 Islam views non-Muslims as the worst of all beings.
 
+## Leaving Islam
+
+[Sunan an-Nasa'i 4061](https://sunnah.com/nasai:4061)
+
+> "The Messenger of Allah said: 'Whoever changes his religion, kill him.'"
+
 
 ## Backgammon is forbidden
 
