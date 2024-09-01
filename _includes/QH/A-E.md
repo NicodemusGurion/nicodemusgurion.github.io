@@ -791,6 +791,33 @@ See also [Allah serves Muhammad.](#allah-serves-muhammad)
 
 
 
+# Cosmology
+
+In Islamic cosmology, there are 7 heavens, and 7 flat earths, stacked on top of one another like flapjacks on a plate. These earths rest on the back of a [the cosmic whale Nun.](https://wikiislam.net/wiki/The_Islamic_Whale) The whale is on top of the cosmic Bull Bahamut. (Or sometimes the other way around. Bahamut stands on rock, and under the rock is dust. And I guess after that it's dust all the way down...
+
+## The Whale Nun {#nun}
+
+Surah 68:1
+
+> Nūn , by the pen and what they write
+
+The commentary [Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs](https://www.altafsir.com/Tafasir.asp?tMadhNo=0&tTafsirNo=73&tSoraNo=68&tAyahNo=1&tDisplay=yes&UserProfile=0&LanguageId=2) has this to say about Nun:
+
+> (Nun) He says: Allah swears by the Nun, which is the whale that carries the earth**s** on its back while in Water, and beneath which is the Bull and under the Bull is the Rock and under the Rock is the Dust and none knows what is under the Dust save Allah. The name of the whale is Liwash, and it is said its name is Lutiaya'; the name of the bull is Bahamut, and some say its name is Talhut or Liyona. The whale is in a sea called 'Adwad, and it is like a small bull in a huge sea. The sea is in a hollowed rock whereby there is 4,000 cracks, and from each crack water springs out to the earth. 
+
+## There are 7 heavens and 7 earths
+
+Surah 65:12
+
+> Allah is He Who created seven Firmaments and of the earth a similar number.
+
+
+
+
+
+
+
+
 
 # Death
 
