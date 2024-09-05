@@ -229,21 +229,8 @@ See also:
 
 - [Sunan an-Nasa'i 3098](https://sunnah.com/nasai:3098)
 
-## Those who die for Allah are the best of people
 
-[Sunan an-Nasa'i 3106](https://sunnah.com/nasai:3106)
 
-> Among the best of the people is a man who strives in the cause of Allah on the back of his horse, or on the back of his camel, or on his own two feet, until death comes to him.
-
-## Killing disbelievers guarantees immunity from hell
-
-[Sunan an-Nasa'i 3109](https://sunnah.com/nasai:3109)
-
-> Two will never be gathered together in the Fire: A Muslim who killed a disbeliever then tried his best and did not deviate.
-
-[Sunan an-Nasa'i 3116](https://sunnah.com/nasai:3116)
-
-> Anyone whose feet become dusty in the cause of Allah, he will be forbidden to the Fire
 
 
 
@@ -530,7 +517,12 @@ See also:
 > The Messenger of Allah saw spittle or snot or sputum, sticking to the wall towards Qiblah and scratched it off.
 
 
+### Muhammad had lice {#lice}
 
+
+[Sunan Abi Dawud 3080](https://sunnah.com/abudawud:3080)
+
+> Narrated Zaynab: She was picking lice from the head of the Messenger of Allah...
 
 
 

@@ -329,12 +329,28 @@ See also [Violence](#violence) and [Muhammad and violence](#muhammad-and-violenc
 
 > The Prophet said, "The person who participates in (Holy battles) in Allah's cause and nothing compels him to do so except belief in Allah and His Apostles, will be recompensed by Allah either with a reward, or booty (if he survives) or will be admitted to Paradise (if he is killed in the battle as a martyr). 
 
+## Those who die for Allah are the best of people
+
+[Sunan an-Nasa'i 3106](https://sunnah.com/nasai:3106)
+
+> Among the best of the people is a man who strives in the cause of Allah on the back of his horse, or on the back of his camel, or on his own two feet, until death comes to him.
 
 ## Whoever does not fight is a hypocrite
 
 [Sunan an-Nasa'i 3097](https://sunnah.com/nasai:3097)
 
 > "Whoever dies without having fought or thought of fighting, he dies on one of the branches of hypocrisy."
+
+## Killing disbelievers guarantees immunity from hell
+
+[Sunan an-Nasa'i 3109](https://sunnah.com/nasai:3109)
+
+> Two will never be gathered together in the Fire: A Muslim who killed a disbeliever then tried his best and did not deviate.
+
+[Sunan an-Nasa'i 3116](https://sunnah.com/nasai:3116)
+
+> Anyone whose feet become dusty in the cause of Allah, he will be forbidden to the Fire
+
 
 
 ## The event that triggered Jihad (#allah-allows-jihad)
