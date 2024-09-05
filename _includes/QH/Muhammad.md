@@ -169,7 +169,7 @@ The Prophet said, "It is better for a man to fill the inside of his body with pu
 
 ### Muhammad didn't practice what he preached {#hypocrite}
 
-[Muhammad said to not pee towards the Qiblah but did so himself](#peeing-qiblah}
+[Muhammad said to not pee towards the Qiblah but did so himself](#peeing-qiblah)
 
 
 
