@@ -98,6 +98,14 @@ Deuteronomy 22:5 says “A woman shall not wear a man’s garment, nor shall a m
 
 ## Muhammad's character
 
+### Muhammad was illiterate {#illiterate}
+
+Surah 7:158
+
+> So believe in Allah and His messenger, the Prophet who can neither read nor write
+
+Muslims brag about this for some strange reason. Being illiterate is nothing to brag about. Muhammad wasn't poor, so the only reason  he would not learn to read or write would be because he was either incredibly lazy or a moron.
+
 ### Muhammad was a sinner
 
 Surah 40:55; 47:19
@@ -327,6 +335,14 @@ Muhammad's father is in hell.
 
 
 ## Muhammad and hygiene {#muhammad-hygiene}
+
+### Muhammad was sickly
+
+[Sahih al-Bukhari 5646](https://sunnah.com/bukhari:5646)
+
+> Narrated Aisha: I never saw anybody suffering so much from sickness as Allah's Messenger
+
+Maybe that has something to do with him [drinking sewer water](#sewer-water) and [camel urine](#drinking-camel-urine), [licking people's fingers](#licking-hands), and [dipping flies into his drinks](#dip-flies)? 
 
 ### Muhammad told his followers to drink sewer water {#sewer-water}
 
@@ -768,9 +784,11 @@ The white clad men starts pronouncing a parable over Muhammad while he is sleepi
 
 But who were the long, naked, North African men who rode Muhammad all night long so that he became sore and exhausted? 
 
-### Muhammad was kissing and cuddling with a man
+### Muhammad was kissing and cuddling with men
 
 [Sunan Abu Dawud 3476](https://sunnah.com/abudawud:3476)
+
+> My father asked the Prophet for permission to kiss his body. When he was given permission, lifting his shirt he approached his body, and began to kiss and **stick to him**. 
 
 Sunnah.com tries to fudge the wording but the Arabic says:
 
@@ -779,6 +797,10 @@ Sunnah.com tries to fudge the wording but the Arabic says:
 Which translates as:
 
 > She said: My father asked permission from the Prophet, … and he came between him and his shirt and began to kiss and cuddle.
+
+Another example is found in [Sunan Abi Dawud 5224](https://sunnah.com/abudawud:5224)
+
+> a man of the Ansar, said that while he was given to jesting and was talking to the people and making them laugh, the Prophet poked him under the ribs with a stick. He said: Let me take retaliation. He said: Take retaliation. He said: You are wearing a shirt but I am not. The Prophet then raised his shirt and the man embraced him and began to kiss his side. Then he said: This is what I wanted, Messenger of Allah!
 
 
 ### Muhammad ordered his followers to bite their father's penis

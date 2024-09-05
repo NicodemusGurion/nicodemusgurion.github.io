@@ -486,6 +486,15 @@ Understandable. This guy doesn't play Allah's manipulative games.
 So he is pardoned for not accepting Allahs "mercy" of throwing himself into hell? And the other guy was also taken with him to paradise? Allah has proven to be neither merciful, nor just, nor consistent, but fickle and arbitrary and completely illogical.
 
 
+# Being sick or injured cleanses from sins
+
+
+[Al-Adab Al-Mufrad 498](https://sunnah.com/adab:498)
+
+> It is narrated by Ayeshah that the Prophet said, "when a Muslim is afflicted by an anxiety, pain or sickness then, because of that, his sins are atoned. So much, so that if a thorn pricks him or he suffers a simple, minor injury (His sins are forgiven)”.
+
+
+
 
 
 
