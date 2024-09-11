@@ -203,6 +203,14 @@ This is one of the many passages where the English translations lie to hide the 
 
 So the error of these people is to take the rabbis and monks as lords, when they already have sufficient lords in Allah AND the Messiah. So it  admits that Jesus is Lord beside Allah. 
 
+## The First and the Last
+
+Surah 57:3
+
+> [Allah] is the First and the Last, and the Manifest and the Hidden, and He is All-Knowing about every thing.
+
+Christians agree that "The First and the Last" is a title that only belongs to God. But in Revelation 1:17, Jesus uses this term to describe himself, proving that Jesus is God, and Allah is Jesus.
+
 ## King of kings
 
 [Riyad as-Salihin 1724](https://sunnah.com/riyadussalihin:1724)
@@ -210,6 +218,14 @@ So the error of these people is to take the rabbis and monks as lords, when they
 > The Prophet said, "The most disgraceful man near Allah is a man who calls himself (or likes others to call him) Malikul-Amlak (i.e., king of kings)."
 
 Allah seemingly dislikes the King of Kinfs. But Jesus Christ is called "The King of Kings", a title that only belongs to God. So if Muslims respect Jesus they must respect his divine title.
+
+## Kibg if the Kingdom of Heaven and Earth
+
+Surah 57:5
+
+> To Him belongs the kingdom of the heavens and the earth. And to Allah all matters are returned.
+
+Jesus is the king of the kingdom of heaven and the earth. See John 18:36, Philippians 2:9-11, Revelation 11:15 and Daniel 7:27
 
 ## Will judge mankind
 
@@ -353,7 +369,7 @@ See also [Violence](#violence) and [Muhammad and violence](#muhammad-and-violenc
 
 
 
-## The event that triggered Jihad (#allah-allows-jihad)
+## The event that triggered Jihad {#allah-allows-jihad}
 
 [Sunan an-Nasa'i 3085](https://sunnah.com/nasai:3085)
 
@@ -363,6 +379,19 @@ When Muhammad and his tiny band of followers were kicked out of Mecca for being 
 
 
 
+
+
+
+
+
+
+# Jinn
+
+## Jinn can be Muslims 
+
+[Sunan Abi Dawud 5257](https://sunnah.com/abudawud:5257)
+
+> In Medina a group of Jinn have embraced Islam
 
 
 

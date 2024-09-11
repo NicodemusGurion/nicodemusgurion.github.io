@@ -164,7 +164,16 @@ Leviticus 19:14 says "You shall not curse the deaf or put a stumbling block befo
 
 ### Muhammad did not like poetry {#philistine}
 
-The Prophet said, "It is better for a man to fill the inside of his body with pus than to fill it with poetry."
+[Sahih al-Bukhari 6155](https://sunnah.com/bukhari:6155)
+
+> Allah's Messenger; said, "It is better for anyone of you that the inside of his body be filled with pus which may consume his body, than it be filled with poetry."
+
+See also:
+
+- [Sahih al-Bukhari 6154](https://sunnah.com/bukhari:6154)
+- [Al-Adab Al-Mufrad 860](https://sunnah.com/adab:860)
+- [Sunan Ibn Majah 3759](https://sunnah.com/ibnmajah:3759)
+- [Sunan Ibn Majah 3760](https://sunnah.com/ibnmajah:3760)
 
 
 ### Muhammad didn't practice what he preached {#hypocrite}
@@ -385,11 +394,49 @@ See also:
 
 > Narrated Ibn 'Abbas: The Prophet  said, 'When you eat, do not wipe your hands till you have licked it, or had it licked by somebody else."
 
-### Muhammad told his followers to drink his spit
+See also:
+
+- [Sahih Muslim, 2031 a](https://sunnah.com/muslim:2031a)
+- [Sahih Muslim, 2031 b](https://sunnah.com/muslim:2031b)
+- [Sunan Ibn Majah 3269](https://sunnah.com/ibnmajah:3269)
+- [Sunan Ibn Majah 3270](https://sunnah.com/ibnmajah:3270)
+- [Musnad Ahmad 1924](https://sunnah.com/ahmad)
+
+### Muhammad told his followers to eat food from the ground
+
+[Sahih Muslim 2033 b](https://sunnah.com/muslim:2033b)
+
+> When any one of you drops a mouthful he should pick it up and remove any of the filth on it, and then eat it
+
+See also:
+
+- [Riyad as-Salihin, 164](https://sunnah.com/riyadussalihin:164)
+- [Riyad as-Salihin, 750](https://sunnah.com/riyadussalihin:750)
+- [Riyad as-Salihin, 751](https://sunnah.com/riyadussalihin:751)
+
+### Muhammad told his followers to drink his spit water {#drink-spit}
 
 [Sahih al-Bukhari 188](https://sunnah.com/bukhari:188)
 
 > The Prophet asked for a tumbler containing water and washed both his hands and face in it and then threw a mouthful of water in the tumbler and said to both of us (Abu Musa and Bilal), "Drink from the tumbler and pour some of its water on your faces and chests."
+
+[Sahih al-Bukhari 189](https://sunnah.com/bukhari:189)
+
+> "Whenever the Prophet, performed ablution, his companions were nearly fighting for the remains of the water." 
+
+🤮
+
+### Muhammad spit water in the face of a boy
+
+[Sahih al-Bukhari 189](https://sunnah.com/bukhari:189)
+
+> Mahmud bin Ar-Rabi … was the person on whose face the Prophet had ejected a mouthful of water from his family's well while he was a boy, 
+
+[Sahih al-Bukhari 6354](https://sunnah.com/bukhari:6354)
+
+> Narrated Mahmud bin Ar-Rabi:  On whose face Allah's Messenger, had thrown water from his mouth, the water having been taken from their well while he was still a young boy (who has not yet attained the age of puberty). 
+
+
 
 ### Muhammad spit three times in a man's wound {#spitting-in-wounds}
 

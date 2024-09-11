@@ -76,6 +76,12 @@ This is also a verse that proves Islam is historically false, for [the crucifixi
 
 Surah 3:54
 
+## Allah leads people astray
+
+Surah 16:93
+
+> Had Allah willed, He could have easily made you one community ˹of believers˺, but He leaves to stray whoever He wills and guides whoever He wills. And you will certainly be questioned about what you used to do.
+
 
 
 ## Allah blinds people to the truth
@@ -310,6 +316,14 @@ Surah 2:254
 > Donate from what We have provided for you before the arrival of a Day when there will be no bargaining, friendship, or intercession. 
 
 Give him your money before it's too late!
+
+## Allah inherits
+
+Surah 57:10
+
+> And why should you not spend in the cause of Allah, while Allah is the inheritor of the heavens and the earth?
+
+
 
 ## Not everyone will bow before Allah
 
@@ -558,6 +572,17 @@ See also:
 - Surah 5:46,47
 
 
+## Christians and Jews must observe the Bible
+
+Surah 5:68
+
+> Say, ˹O Prophet,˺ “O People of the Book! You have nothing to stand on unless you observe the Torah, the Gospel, and what has been revealed to you from your Lord.” 
+
+"People of the book" are Christians and Jews. They must observe the Torah (Old Testament) and gospel (New Testament), because these are revealed by God.
+
+Would Allah order people to observe corrupted books? Obviously not. So these books can not be corrupted.
+
+
 
 
 
@@ -686,6 +711,25 @@ Surah 4:82
 If the Quran is from Allah, there should be no contradictions.
 
 
+### Jesus is the Word of Allah, but not Allah
+
+
+Surah 4:171
+
+> The Messiah Jesus the son of Mary is was a messenger of Allah, and his Word cast down into Mary, and a spirit from Him.
+
+So the Quran admits that Jesus is the Word of Allah who took on flesh in the womb of Mary. This is in line with the Bible. And since the Word of Allah is eternal, it means Jesus is eternal. But that leads to the dilemma that either Islam has two separate eternal beings, they have two gods, and are polytheists. Or the Word of Allah is an intrinsic part of Allah, and thus is a distinct person who **is** Allah in essence.
+
+The verse goes on:
+
+> And do not say, "Three"; desist - it is better for you. Indeed, Allāh is but one God. 
+
+So the Quran is denying tritheism, which is a form of polytheism. That leaves us with the conclusion that the Quran explicitly says that Jesus is an eternal person who is Allah in essence, just as the Bible teaches. 
+
+Surah 3:45 also says Jesus is a Word from Allah, honored in this world and the hereafter, and one closest to Allah. The question is only, how close? So close in fact that he is one in essence with Allah.
+
+
+
 ### Did Allah create the heavens or the earth first?
 
 #### Allah created the heavens before the earth
@@ -769,6 +813,16 @@ Surah 83:22-26
 Why does Allah in Paradise serve a drink that is "filth made up by Satan"?
 
 See also Surah 37:43-46; 47:15
+
+
+
+
+
+
+
+
+
+
 
 
 

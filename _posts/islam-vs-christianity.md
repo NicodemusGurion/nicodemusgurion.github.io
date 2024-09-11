@@ -105,6 +105,8 @@ tags: [Islam, Christianity, Lists]
 | Dying words: "Cursed be the Jews and Christians, for they build their Holy places on the graves of the prophets." | Dying words: "Father, forgive them, for they do not know what they are doing." |
 | Had no idea what would happen to him after death. (Surah 46:9) | Knew he would resurrect himself after death. |
 | Is dead in his tomb. | Was resurrected and lives forever. |
+| Sahih Muslim 22 "I have been commanded to fight against people till they testify that there is no god but Allah, that Muhammad is the messenger of Allah"  | Luke 19:10 "For the Son of Man came to seek and to save the lost." |
+| 
 
 
 

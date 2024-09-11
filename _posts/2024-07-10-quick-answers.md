@@ -23,6 +23,11 @@ https://digi.vatlib.it/view/MSS_Vat.gr.1209
 https://manuscripts.csntm.org/manuscript/View/GA_02
 https://manuscripts.csntm.org/manuscript/View/GA_04
 
+Here's the 4th century Codex Sinaiticus:
+https://www.codexsinaiticus.org/en/manuscript.aspx
+And here is our Bible: https://biblehub.com
+Could you please show me where the corruptions are located?
+
 Apart from 4 complete Bibles, we also have tens of thousands of manuscripts that date back 2300 years, and they match up perfectly with modern Bibles, proving there has been no corruption.
 
 - [https://en.m.wikipedia.org/wiki/List_of_Hebrew_Bible_manuscripts](https://en.m.wikipedia.org/wiki/List_of_Hebrew_Bible_manuscripts)
