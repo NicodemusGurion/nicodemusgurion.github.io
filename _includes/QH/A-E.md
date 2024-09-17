@@ -542,6 +542,26 @@ See also:
 
 **Note:** Muhammad was an ignoramus and did not know anything about the Bible, so when he refers to the Torah he means the Old Testament, and when he refers to the Gospel he means the New Testament.
 
+## The Quran confirms the Bible {#bible-confirmed}
+
+Surah 2:41
+
+> And believe in what I have sent down (i.e. the Quran) confirming that which is with you (i.e. the Bible), and be not the first to disbelieve in it.
+
+Surah 2:91
+
+> When it is said to them, ‘Believe in God’s revelations,’ they reply, ‘We believe in what was revealed to us,’ but they do not believe in what came afterwards (i.e. the Quran), though it is the truth confirming what they already have (i.e. the Bible).
+
+Surah 2:101
+
+> Now, when a messenger from Allah has come to them—confirming their own Scriptures—some of the People of the Book cast the Book of Allah behind their backs as if they did not know.
+
+Surah 3:3
+
+> He has sent down upon you the Book in truth, confirming what was before it. And He revealed the Torah and the Gospel
+
+See also Surah 2:4,41,89,91,97,101,111;3:3-4,23,81,93,184;4:47;5:44,48,66,68;6:91-92;10:37,94;12:111;16:43;20:133;21:7,48,105;26:196;28:48-49;35:25,31;37:37;40:53;46:12,30;87:18-19
+
 ## The Torah is the word of Allah
 
 Surah 5:43,44
@@ -695,6 +715,8 @@ Surah 2:73
 > We said, ‘Strike the [body] with a part of [the cow]’: thus God brings the dead to life and shows His signs so that you may understand.
 
 Israelites are instructed to use parts of a cow carcass to resurrect the dead.
+
+
 
 
 

@@ -124,6 +124,8 @@ Notice that this is not talking *about* Muhammad, but *to* Muhammad. Muhammad is
 
 # The Quran {#quran}
 
+See also [the Bible](#bible).
+
 ## The original Quranic manuscripts were burned 
 
 [Sahih al-Bukhari 4987](https://sunnah.com/bukhari:4987)
@@ -219,7 +221,26 @@ How can the Quran be perfectly preserved when two Surah's were literally eaten b
 
 Apparently, chapters could be requested on demand by the followers of Muhammad to suit their personal preferences. How convenient.
 
-## Denying a Quran verse is a capital offense {#denying-quran}
+
+
+## Denying a Quran verse makes you a kafir {#denying-quran}
+
+Surah 2:85
+
+> Do you believe in some of the Scripture and reject the rest? Is there any reward for those who do so among you other than disgrace in this worldly life and being subjected to the harshest punishment on the Day of Judgment?
+
+Surah 4:150
+
+> Surely those who deny Allah and His messengers and wish to make a distinction between Allah and His messengers, saying, “We believe in some and disbelieve in others,” desiring to forge a compromise,
+
+
+Surah 29:47
+
+> no one rejects Our verses except the infidels.
+
+## Denying a Quran verse is a capital offense {#execute-kafir}
+
+[Sunan Ibn Majah 2539](https://sunnah.com/ibnmajah:2539)
 
 > It was narrated from Ibn'Abbas that the Messenger of Allah said:
 > “Whoever denies a Verse of the Qur'an, it is permissible to strike his neck (i.e., execute him) 
