@@ -183,6 +183,25 @@ Surah 6:143
 
 One pair of sheep and one pair of goats equals four pairs?
 
+## Allah is ignorant {#ignorant}
+
+There are things that Allah does not know unless he  investigates, such as who are his believers or not.
+
+Surah 57:25
+
+> And We sent down iron, wherein there is awesome power and many benefits for people, **so that Allah may know** who, without even having seen Him, helps Him and His Messengers.
+
+Surah 5:94
+
+> Allah shall certainly test you with some of the game coming in the range of your hands and spears, so that Allah **may know** those who fear Him
+
+Surah 3:140,166
+
+> so that Allah **may know** those who believe
+> was by permission of Allah; **that He might know** the true believers
+
+
+
 ## Allah is limited to one location
 
 Surah 20:5

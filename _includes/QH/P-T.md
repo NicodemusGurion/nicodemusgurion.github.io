@@ -433,7 +433,7 @@ So there will be no ransom for anyone. This contradicts [other sources saying th
 
 Christianity teaches that Jesus is the perfect one who does not deserve hellfire but took this punishment in stead of those who have faith in him. Some Muslims think this is unjust saying that it's wrong that someone should take the punishment for someone else's sin. However here, Allah will let Jews and Christians take the punishment for the sins of Muslims. Is that just, though?
 
-Als this implies that Jews and Christians as not sinners deserving of hell, but that Muslims are sinners deserving of hell. Otherwise, if the Jews and Christians were already in hell, the exchange could not be made.
+Also this implies that Jews and Christians as not sinners deserving of hell, but that Muslims are sinners deserving of hell. Otherwise, if the Jews and Christians were already in hell, the exchange could not be made. And it means Allah is thoroughly unrighteous for throwing innocent people into hell so he can save guilty people.
 
 ## The Quran will come and intercede 
 
@@ -507,7 +507,7 @@ Understandable. This guy doesn't play Allah's manipulative games.
 So he is pardoned for not accepting Allahs "mercy" of throwing himself into hell? And the other guy was also taken with him to paradise? Allah has proven to be neither merciful, nor just, nor consistent, but fickle and arbitrary and completely illogical.
 
 
-# Being sick or injured cleanses from sins
+## Being sick or injured cleanses from sins
 
 
 [Al-Adab Al-Mufrad 498](https://sunnah.com/adab:498)
