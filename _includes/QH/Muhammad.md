@@ -1034,6 +1034,12 @@ Surah 33:36
 
 Notice that Allah and Muhammad decide on things **together**, and the are equal in authority.
 
+## Muhammad is inferior to Moses
+
+[Sahih al-Bukhari 2411](https://sunnah.com/bukhari:2411)
+
+> The Prophet said, "Do not give me superiority over Moses, for on the Day of Resurrection all the people will fall unconscious and I will be one of them, but I will. be the first to gain consciousness, and will see Moses standing and holding the side of the Throne (of Allah). I will not know whether (Moses) has also fallen unconscious and got up before me, or Allah has exempted him from that stroke."
+
 ### Muhammad died a pauper
 
 [Sunan an-Nasa'i 3596](https://sunnah.com/nasai:3596)

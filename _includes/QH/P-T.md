@@ -170,33 +170,33 @@ Surah 50:29
 
 > My Word cannot be changed, nor am I unjust to ˹My˺ creation.”
 
-
-
 ## The word of Allah CAN be changed
 
 Surah 2:75
 
 > a party of them used to listen to the word of Allah, then used to change it
 
+
+
 ## The Quran is not perfectly preserved {#not-preserved}
 
 One miraculous claim made is that the Quran has been perfectly preserved. However the Quran and Hadiths contradict this.
 
-## Allah foretold that the Quran wouldn’t be perfectly preserved {#no-preservation}
+### Allah foretold that the Quran wouldn’t be perfectly preserved {#no-preservation}
 
 Surah 2:106
 
 > If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
 
-## The Quran was corrupted even during Muhammad's lifetime {#early-corruption}
+### The Quran was corrupted even during Muhammad's lifetime {#early-corruption}
 
 
 [Sahih al-Bukhari 2410](https://sunnah.com/bukhari:2410)
 
-> I heard a man reciting a verse (of the Holy Qur'an) but I had heard the Prophet reciting it differently. So, I caught hold of the man by the hand and took him to Allah's Messenger who said, "Both of you are right."
+> Narrated Abdullah: I heard a man reciting a verse (of the Holy Qur'an) but I had heard the Prophet reciting it differently. So, I caught hold of the man by the hand and took him to Allah's Messenger who said, "Both of you are right."
 
 
-## Two chapters of the Quran were forgotten {#surahs-forgotten}
+### Two chapters of the Quran were forgotten {#surahs-forgotten}
 
 [Sahih Muslim 1050](https://sunnah.com/muslim:1050)
 
@@ -204,13 +204,13 @@ Surah 2:106
 
 This reciter admits that they **used to recite** two surahs meaning it was once part of the Quran, but that they just forgot them. He remembers some fragments, but these match nothin in the Quran, proving that these surahs are gone forever. This proves the Quran has not been perfectly preserved.
 
-## Two chapters of the Quran were eaten by a sheep {#sheep-ate-surahs}
+### Verses of the Quran were eaten by a sheep {#sheep-ate-verses}
 
 [Sunan Ibn Majah 1944](https://sunnah.com/ibnmajah:1944)
 
 > It was narrated that 'Aishah said “The Verse of stoning and of breastfeeding an adult ten times was revealed, and the paper was with me under my pillow. When the Messenger of Allah died, we were preoccupied with his death, and a tame sheep came in and ate it.”
 
-How can the Quran be perfectly preserved when two Surah's were literally eaten by a sheep?
+How can the Quran be perfectly preserved when parts of it were literally eaten by a sheep?
 
 
 ## Chapters of the Quran could be ordered on demand {#surah-on-demand}
