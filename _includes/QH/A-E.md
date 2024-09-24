@@ -540,6 +540,7 @@ See also:
 
 > Some Zanadiqa (atheists) were brought to Ali and he burnt them. The news of this event, reached Ibn Abbas who said, "If I had been in his place, I would not have burnt them, as Allah's Messenger forbade it, saying, 'Do not punish anybody with Allah's punishment (fire).' I would have killed them according to the statement of Allah's Messenger, 'Whoever changed his Islamic religion, then kill him.'"
 
+
 See also:
 
 - [Jami` at-Tirmidhi 1458](https://sunnah.com/tirmidhi:1458)
