@@ -546,7 +546,7 @@ See also:
 - [Jami` at-Tirmidhi 1458](https://sunnah.com/tirmidhi:1458)
 
 
-[Muwatta Malik](https://sunnah.com/urn/514180)
+[Muwatta Malik 36:15](https://sunnah.com/urn/514180)
 
 > the Messenger of Allah, may Allah bless him and grant him peace, said, "If someone changes his deen (religion) - strike his neck!" The meaning of the statement of the Prophet, may Allah bless him and grant him peace, in our opinion and Allah knows best, is that "if someone changes his deen, strike his neck!" refers to those who leave Islam for other than it - like the heretics and their like, about whom it is known. They are killed without being called to tawba (repentance) because their tawba is not recognised. They were hiding their kufr and publishing their Islam, so I do not think that one calls such people to tawba, and one does not accept their word. As for the one who goes out of Islam to something else and divulges it, one calls him to tawba. If he does not turn in tawba, he is killed. If there are people in that situation, I think that one should call them to Islam and call them to tawba. If they turn in tawba, that is accepted from them. If they do not turn in tawba, they are killed. 
 

@@ -126,6 +126,26 @@ Notice that this is not talking *about* Muhammad, but *to* Muhammad. Muhammad is
 
 See also [the Bible](#bible).
 
+
+# The Quran is only meant for the Arabs
+
+Surah 42:7
+
+> And so We have revealed to you a Quran in Arabic, so you may warn the Mother of Cities1 and everyone around it, and warn of the Day of Gathering—about which there is no doubt—˹when˺ a group will be in Paradise and another in the Blaze.
+
+Surah 14:4
+
+> We have never sent a messenger who did not use his own people’s language to make things clear for them.
+
+## Non-arabs predicted to not believe 
+
+Surah 26:198,199
+
+> And if We had revealed it unto one of any other nation than the Arabs, and he had read it unto them, they would not have believed in it.
+
+Allah is saying that if Muhammad had gone to Bob-Arabs, they would not believe him. Are non-Sarah's not as gullible as Arabs, or what? This is a prediction by Allah that proved to be false, since many non-Arabs have accepted Islam, even from Muhammad directly.
+
+
 ## The original Quranic manuscripts were burned 
 
 [Sahih al-Bukhari 4987](https://sunnah.com/bukhari:4987)

@@ -268,6 +268,13 @@ Surah 45:16
 
 > Indeed, We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good, lawful provisions; and favoured them above the others.
 
+## Allah ordained that Israel would live in the holy land
+
+Surah 5:21
+
+> O my people! Go into the holy land which Allah hath ordained for you. Turn not in flight, for surely ye turn back as losers:
+
+
 ## A tribe of Israelites were turned into rats {#rats}
 
 [Sahih al-Bukhari 3305](https://sunnah.com/bukhari:3305)
