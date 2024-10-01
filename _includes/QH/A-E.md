@@ -52,7 +52,7 @@ Surah 37:125
 
 Allah is only one creator of many. Apparently Ba'l is a competing creator. The other creators are also good, but Allah thinks that he is the best of them.
 
-## Allah is a narcissist 
+## Allah is a narcissist {#narcissist}
 
 [Sahih al-Bukhari 4634](http://web.archive.org/web/20221005220613/https://sunnah.com/bukhari:4634)
 
@@ -200,9 +200,16 @@ Surah 3:140,166
 > so that Allah **may know** those who believe
 > was by permission of Allah; **that He might know** the true believers
 
+## Allah is afraid of insults {#insults}
+
+Surah 6:108
+
+> Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance.
+
+Allah doesn't like it when people insult him, because [Allah is a narcissist](#narcissist). But this verse also gives non-Muslims the right to insult Allah if Muslims are being disrespectful and insulting them.
 
 
-## Allah is limited to one location
+## Allah is limited to one location {#not-omnipresent}
 
 Surah 20:5
 
@@ -233,7 +240,7 @@ See also:
 - [Sunan Ibn Majah 158](http://web.archive.org/web/20231206105330/https://sunnah.com/ibnmajah:158)
 - [Sahih Muslim 2466 b](https://web.archive.org/web/20231210111632/https://sunnah.com/muslim:2466b)
 
-## Allah comes down every night
+## Allah comes down every night {#nightly-visits}
 
 [Sahih Muslim 758b](https://sunnah.com/muslim:758b)
 
