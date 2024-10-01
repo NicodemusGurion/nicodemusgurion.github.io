@@ -60,6 +60,25 @@ Surah 2:29
 
 
 
+
+
+# Pedophilia
+
+Convenience links.
+
+- [Muhammad married a 6 year old girl](#child-sexual-abuse)
+- [Muhammad French-kissed a little boy](#muhammad-french-kissed-a-little-boy)
+- [Muhammad was baffled that other Muslims were not pedophiles](#muhammad-was-baffled-that-other-men-were-not-pedophiles-like-him)
+- [Muslim men can marry and divorce prepubescent girls](#pedophilia-ok)
+
+
+
+
+
+
+
+
+
 # Prayer
 
 ## Looking up while praying makes you go blind {#praying-blind}
@@ -223,6 +242,15 @@ Surah 2:106
 > Abu Harb b. Abu al-Aswad… We used to recite a surah which resembled in length and severity to (Surah) Bara'at. **I have, however, forgotten it** with the exception of this which I remember out of it:" If there were two valleys full of riches, for the son of Adam, he would long for a third valley, and nothing would fill the stomach of the son of Adam but dust." And we used so recite a surah which resembled one of the surahs of Musabbihat, and **I have forgotten it**, but remember (this much) out of it:" Oh people who believe, why do you say that which you do not practise" and" that is recorded in your necks as a witness (against you) and you would be asked about it on the Day of Resurrection"
 
 This reciter admits that they **used to recite** two surahs meaning it was once part of the Quran, but that they just forgot them. He remembers some fragments, but these match nothin in the Quran, proving that these surahs are gone forever. This proves the Quran has not been perfectly preserved.
+
+### Even Muhammad forgot what the Quran said
+
+[Sahih al Bukhari 5038](https://sunnah.com/bukhari:5038)
+
+> Narrated Aisha: Allah's Messenger heard a man reciting the Qur'an at night, and said, "May Allah bestow His Mercy on him, as he has reminded me of such-and-such Verses of such-and-such Suras, which I was caused to forget."
+
+Not even the man who made it up could remember it, yet they want me to believe the Quran was perfectly preserved?
+
 
 ### Verses of the Quran were eaten by a sheep {#sheep-ate-verses}
 

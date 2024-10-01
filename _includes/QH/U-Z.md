@@ -314,7 +314,7 @@ Surah 2:223
 
 > No woman can fulfill her duty towards Allah until she fulfills her duty towards her husband. If he asks her (for intimacy) even if she is on her camel saddle, she should not refuse.
 
-## Pedophilia encouraged {#pedophilia-ok}
+## Marrying prepubescent girls {#pedophilia-ok}
 
 Surah 65:4
 
