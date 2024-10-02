@@ -106,7 +106,7 @@ Seems like monkeys and Muslims are allies in woman hating.
 
 
 
-# Non-muslims, Jews and Christians
+# Non-Muslims, Jews and Christians {#non-muslims}
 
 ## Muslims should listen to and learn from Christians and Jews {#listen-to-christians}
 
@@ -125,6 +125,66 @@ Surah 10:94
 Muslims should not argue with Christians but listen and learn from them what Allah has really taught.
 
 ## Jews
+
+
+### Allah favors Jews
+
+Surah 45:16
+
+> Indeed, We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good, lawful provisions; and favoured them above the others.
+
+### Allah ordained that Israel would live in the holy land
+
+Surah 5:21
+
+> O my people! Go into the holy land which Allah hath ordained for you. Turn not in flight, for surely ye turn back as losers:
+
+
+### A tribe of Israelites were turned into rats {#rats}
+
+[Sahih al-Bukhari 3305](https://sunnah.com/bukhari:3305)
+
+> The Prophet said, "A group of Israelites were lost. Nobody knows what they did. But I do not see them except that they were cursed and changed into rats, for if you put the milk of a she-camel in front of a rat, it will not drink it, but if the milk of a sheep is put in front of it, it will drink it."
+
+
+### Jews are equal to asses and pigs
+
+[Mishkat al-Masabih 789](https://sunnah.com/mishkat:789)
+
+> When one of you prays without a sutra, an ass, a pig, a Jew, a Magian, and a woman cut off his prayer.
+
+### The verse Muslims use to lie that Islam is peaceful {#peaceful}
+
+Surah 5:32
+
+> That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
+
+This verse is often quoted by Muslims doing taqiyya to say that Islam is peaceful. But as you can see, it is a command directed to the people of Israel, not Muslims. 
+
+It is a quotation from the Talmud. So the Quran is actually saying that the commentary by a rabbi in the Talmud is "revelation from Allah."
+
+Also notice that this command has the stipulation "unless as a punishment for murder or mischief in the land", meaning that Jews had the right of capital punishment for those spreading mischief in the land. But in other cases, killing one person would be like killing all of humanity.
+
+And what "land" is it talking about? Well, the land of the Jews, Israel, or Palestine as it was later renamed. 
+
+*So according to the Quran, the Jews has the right to execute capital punishment on those spreading mischief in the land of Israel.*
+
+But wait, it gets better. The next verse is what applies to Muslims:
+
+Surah 5:33
+
+> Indeed, the penalty **for those who wage war against Allah and His Messenger** and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land.** This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous **punishment in the Hereafter.**
+
+This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
+
+### Islam's Final Solution to the Jewish Question {#final-solution}
+
+[Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
+
+> …"The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
+
+
+
 
 ## Christians
 
