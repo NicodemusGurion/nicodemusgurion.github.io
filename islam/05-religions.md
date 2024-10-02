@@ -44,6 +44,67 @@ See also:
 - [Sunan an-Nasa'i 4065](https://sunnah.com/nasai:4065)
 - [Bulug al Maram 9:46](https://sunnah.com/bulugh/9/46)
 
+## Islam is a strange serpent receding into its hole {#strange-serpent}
+
+[Sahih Muslim 146](https://sunnah.com/muslim:146)
+
+> the Messenger of Allah observed: Verily Islam started as something strange and it would again revert (to its old position) of being strange just as it started, and it would recede between the two mosques just as the serpent crawls back into its hole.
+
+If he was a prophet then let's hope this prophecy comes true at least.
+
+## Islam means following Muhammad 
+
+Surah 4:65
+
+> But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.
+
+## View of non-Muslims
+
+Surah 98:6
+
+> Indeed, those who disbelieve from the People of the Book and the polytheists will be in the Fire of Hell, to stay there forever. They are the worst of ˹all˺ beings
+
+Islam views non-Muslims as the worst of all beings.
+
+## Leaving Islam
+
+[Sunan an-Nasa'i 4061](https://sunnah.com/nasai:4061)
+
+> "The Messenger of Allah said: 'Whoever changes his religion, kill him.'"
+
+
+## Backgammon is forbidden
+
+[Sunan Ibn Majah 3763](https://sunnah.com/ibnmajah:3763)
+
+> Whoever plays backgammon, it is as if he dipped his hand in the flesh and blood of a pig.
+
+See also:
+
+- [Al-Adab Al-Mufrad 1271](https://sunnah.com/adab:1271)
+- [Al-Adab Al-Mufrad 1277](https://sunnah.com/adab:1277)
+
+## Stoning is monkey business 
+
+[Sahih al-Bukhari 3849](https://sunnah.com/bukhari:3849)
+
+> During the pre-lslamic period of ignorance I saw a she-monkey surrounded by a number of monkeys. They were all stoning it, because it had committed illegal sexual intercourse. I too, stoned it along with them.
+
+Seems like monkeys and Muslims are allies in woman hating.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Non-muslims, Jews and Christians
 
@@ -73,3 +134,8 @@ Surah 5:47
 
 > So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
 
+### Allah promised that Christians will be superior until judgment day 
+
+Surah 3:55
+
+> God said, ‘Jesus, I will take you back and raise you up to Me: I will purify you of the disbelievers. To the Day of Resurrection **I will make those who follow you superior to those who disbelieved.**

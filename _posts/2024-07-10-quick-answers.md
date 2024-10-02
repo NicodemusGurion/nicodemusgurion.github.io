@@ -63,29 +63,17 @@ If the Bible is true, then the Quran is false (because the true Bible condemns t
 If the Bible is false, then the Quran is false (for affirming the Bible as the unchangeable word of Allah.)
 In either case the Quran is false.
 
-# Religious traditions
+# Religious teachings
 
-## "X is Pagan"
+## The Crucifixion 
 
-Accusations of paganism looks very hypocritical coming from someone whose religious practices involves worshipfully touching and kissing a black stone in a formerly pagan temple.
+### "It's unjust that God would let an innocent man be a ransom for others"
 
-The Kaaba was originally a pagan temple with 360 idols, and the pagans used to smear the blood of their sacrifices on the black stone. (https://sunnah.com/bukhari:2478)
+Sahih Muslim 2767 a "When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire."
 
-The pilgrimages to the Kaaba are of pagan origins. The ritual processions around the Kaaba were part of pagan beliefs and custom, the white robes worn by the pilgrims are from pagan origins.
+Islam teaches that Muslims are ransomed from hell by Allah sending innocent Jews of Christians in their place. So by your own words you condemn Allah as an unjust god.
 
-Pagans called out the names of their pagan gods as they circled the Kaaba. Today Muslims call out Allah's name. Pagans ran between the nearby hills. Today Muslims follow their example.
-
-Muslims believe that praying under the rain gutter of the Kaaba purifies them of all sins. They thus say that a building can do something only God can do, making the Kaaba equal to God.
-
-Islam teaches that touching or kissing the black stone erases your sins; Something only God can do. The veneration of the Kaaba and black stone are derived from pagan rituals and beliefs.
-
-Sahih al-Bukhari 1597 shows even Umar recognized that kissing the black stone was a pointless act of idolatry, but he only did so because Muhammad did so. (https://sunnah.com/bukhari:1597)
-
-Islam also teaches that the black stone is omniscient and will intercede on judgement day for those who touched it. Apparently Allah doesn't know who did or not. (https://sunnah.com/tirmidhi:961)
-
-Sahih al-Bukhari reveals that Muhammad himself used to be a pagan, sacrificing to false gods. No prophet of the God of Abraham has ever sacrificed to false gods. (https://sunnah.com/bukhari:5499)
-
-Every Muslim that makes the Hajj, runs between the hills, or kisses the black stone, is performing pagan rituals founded on pagan superstitions sanctioned by Muhammad himself.
+Muslims say that Jesus wasn't crucified because Allah replaced him with someone else who died instead. So Allah let's an innocent man be a ransom for Jesus?
 
 ### "The crucifixion is pagan human sacrifice"
 
@@ -115,6 +103,34 @@ Victims of human sacrifice are not volunteers. Jesus self-sacrifice was fully vo
 Neither Jews nor Christians have ever considered the crucifixion a human sacrifice. Human sacrifice are abhorrent to Jews and an abomination to Yahweh. (Jeremiah 32:35)
 
 If the crucifixion was a human sacrifice, it would mean the Jews purposefully broke their own laws and killed Jesus to bring sustenance to Yahweh. The idea is abhorrent and the deed pointless.
+
+
+
+## "X is Pagan"
+
+Accusations of paganism looks very hypocritical coming from someone whose religious practices involves worshipfully touching and kissing a black stone in a formerly pagan temple.
+
+The Kaaba was originally a pagan temple with 360 idols, and the pagans used to smear the blood of their sacrifices on the black stone. (https://sunnah.com/bukhari:2478)
+
+The pilgrimages to the Kaaba are of pagan origins. The ritual processions around the Kaaba were part of pagan beliefs and custom, the white robes worn by the pilgrims are from pagan origins.
+
+Pagans called out the names of their pagan gods as they circled the Kaaba. Today Muslims call out Allah's name. Pagans ran between the nearby hills. Today Muslims follow their example.
+
+Muslims believe that praying under the rain gutter of the Kaaba purifies them of all sins. They thus say that a building can do something only God can do, making the Kaaba equal to God.
+
+Islam teaches that touching or kissing the black stone erases your sins; Something only God can do. The veneration of the Kaaba and black stone are derived from pagan rituals and beliefs.
+
+Sahih al-Bukhari 1597 shows even Umar recognized that kissing the black stone was a pointless act of idolatry, but he only did so because Muhammad did so. (https://sunnah.com/bukhari:1597)
+
+Islam also teaches that the black stone is omniscient and will intercede on judgement day for those who touched it. Apparently Allah doesn't know who did or not. (https://sunnah.com/tirmidhi:961)
+
+Sahih al-Bukhari reveals that Muhammad himself used to be a pagan, sacrificing to false gods. No prophet of the God of Abraham has ever sacrificed to false gods. (https://sunnah.com/bukhari:5499)
+
+Every Muslim that makes the Hajj, runs between the hills, or kisses the black stone, is performing pagan rituals founded on pagan superstitions sanctioned by Muhammad himself.
+
+
+
+
 
 
 
