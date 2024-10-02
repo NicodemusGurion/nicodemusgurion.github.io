@@ -124,6 +124,24 @@ Surah 10:94
 
 Muslims should not argue with Christians but listen and learn from them what Allah has really taught.
 
+
+
+## Jizya
+
+Jizya is a tax that Islam demands from Jews and Christians in exchange for not killing them.
+
+Surah 9:29
+
+> Fight those of the People of the Book who do not [truly] believe in God and the Last Day, who do not forbid what God and His Messenger have forbidden, who do not obey the rule of justice,until they pay the [jizya] tax and agree to submit.
+
+[Sahih Muslim 1731a](https://sunnah.com/muslim:1731a)
+
+> …If they refuse to accept Islam, demand from them the Jizya. If they agree to pay, accept it from them and hold off your hands. If they refuse to pay the tax, seek Allah's help and fight them.…
+
+This is the future of your country if you invite Islam: They will sooner or later take over, and if you do not join their ideology, you will have to pay a tax to them. And if you refuse to pay them, they will kill you.
+
+
+
 ## Jews
 
 
