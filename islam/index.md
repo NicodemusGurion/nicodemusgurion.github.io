@@ -7,7 +7,7 @@ title: Table of Contents
 
 <ul>
   {% for page in site.pages %}
-    {% if page.path contains 'your-folder/' and page.path endswith '.md' %}
+    {% if page.path contains 'islam/' and page.path endswith '.md' %}
       <li>
         <a href="{{ page.url }}">{{ page.title }}</a>
         <ul>
