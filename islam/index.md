@@ -12,6 +12,9 @@ title: Table of Contents
     {% if pg.url contains 'islam/' %}
     {% if pg.url != page.url %}
       <li>
+        {{ pg.url }}={{ page.url }}<br>
+        {{ pg.name }}={{ page.name }}<br>
+        {{ pg.path }}={{ page.path }}<br>
         <a href="{{ pg.url }}">{{ pg.title }}</a>
       </li>
     {% endif %}
