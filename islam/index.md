@@ -15,7 +15,7 @@ title: Table of Contents
         <a href="{{ pg.url }}">{{ pg.title }}</a>
       </li>
     {% endif %}
-    {% end if %}
+    {% endif %}
   {% endfor %}
 </ul>
 
@@ -23,4 +23,5 @@ title: Table of Contents
 
 
 {% capture contents %}{% include_relative muhammad.md %}{% endcapture %}
+
 {{ contents | markdownify }}
