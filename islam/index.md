@@ -26,7 +26,7 @@ title: Table of Contents
 {% assign lines = contents | split: "\n" %}
 {% for line in lines %}
  {% if line contains "#" %}
-  {% assign header = line | remove "#" | remove_first " " | split " {" | first | join "" %}
+  {% assign header = line | remove "#" %}
   {% if line contains "# " %}
     {% assign listlevel = 1 %}
   {% elsif line contains "## " %}
