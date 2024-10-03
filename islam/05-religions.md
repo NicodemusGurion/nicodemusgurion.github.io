@@ -108,6 +108,14 @@ Seems like monkeys and Muslims are allies in woman hating.
 
 # Non-Muslims, Jews and Christians {#non-muslims}
 
+## Muslims ordered to bully Jews and Christians 
+
+[Sahih Muslim 2167 a](https://sunnah.com/muslim:2167)
+
+> Do not greet the Jews and the Christians before they greet you and when you meet any one of them on the roads force him to go to the narrowest part of it.
+
+
+
 ## Muslims should listen to and learn from Christians and Jews {#listen-to-christians}
 
 Surah 29:46
