@@ -25,7 +25,7 @@ title: Table of Contents
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
 {% assign lines = contents | split: "\n" %}
 {% for line in lines %}
- {% if line startswith "#" %}
+ {% if line contains "#" %}
   {% assign header = line | remove "#" | remove_first " " | split " {" | first | join "" %}
   {% if line contains "# " %}
     {% assign listlevel = 1 %}
