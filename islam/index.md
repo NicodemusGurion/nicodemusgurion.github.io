@@ -26,23 +26,18 @@ title: Table of Contents
 {% assign lines = contents | split: "\n" %}
 {% for line in lines %}
  {% if line startswith "#" %}
-  {% if line startswith "# " %}
-    {% assign header = line | remove_first "# " %}
+  {% assign header = line | remove "#" | remove_first " " | split " {" | first | join "" %}
+  {% if line contains "# " %}
     {% assign listlevel = 1 %}
-  {% elsif line startswith "## " %}
-    {% assign header = line | remove_first "## " %}
+  {% elsif line contains "## " %}
     {% assign listlevel = 2 %}
-  {% elsif line startswith "### " %}
-    {% assign header = line | remove_first "### " %}
+  {% elsif line contains "### " %}
     {% assign listlevel = 3 %}
-  {% elsif line startswith "#### " %}
-    {% assign header = line | remove_first "#### " %}
+  {% elsif line contains "#### " %}
     {% assign listlevel = 4 %}
-  {% elsif line startswith "##### " %}
-    {% assign header = line | remove_first "##### " %}
+  {% elsif line contains "##### " %}
     {% assign listlevel = 5 %}
-  {% elsif line startswith "###### " %}
-    {% assign header = line | remove_first "###### " %}
+  {% elsif line contains "###### " %}
     {% assign listlevel = 6 %}
   {% endif %}
   {% if listlevel > lastlistlevel %}
