@@ -5,12 +5,19 @@ title: Table of Contents
 
 <h1>Table of Contents</h1>
 
+{% assign current_url = page.url %}
+
 <ul>
-  {% for page in site.pages %}
-    {% if page.path contains 'islam/' %}
+  {% for pg in site.pages %}
+    {% if pg.url contains 'islam/' %}
+    {% if pg.url != page.url %}
       <li>
-        <a href="{{ page.url }}">{{ page.title }}</a>
+        <a href="{{ pg.url }}">{{ pg.title }}</a>
       </li>
     {% endif %}
+    {% end if %}
   {% endfor %}
 </ul>
+
+<ul>
+  
