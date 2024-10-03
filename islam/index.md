@@ -20,4 +20,7 @@ title: Table of Contents
 </ul>
 
 <ul>
-  
+
+
+{% capture contents %}{% include_relative muhammad.md %}{% endcapture %}
+{{ contents | markdownify }}
