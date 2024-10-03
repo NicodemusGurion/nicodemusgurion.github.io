@@ -26,29 +26,6 @@ title: Table of Contents
 {% assign lines = contents | split: "\n" %}
 {% for line in lines %}
  {% if line contains "#" %}
-  {% assign header = line | remove "#" %}
-  {% if line contains "# " %}
-    {% assign listlevel = 1 %}
-  {% elsif line contains "## " %}
-    {% assign listlevel = 2 %}
-  {% elsif line contains "### " %}
-    {% assign listlevel = 3 %}
-  {% elsif line contains "#### " %}
-    {% assign listlevel = 4 %}
-  {% elsif line contains "##### " %}
-    {% assign listlevel = 5 %}
-  {% elsif line contains "###### " %}
-    {% assign listlevel = 6 %}
-  {% endif %}
-  {% if listlevel > lastlistlevel %}
-   <li>
-   <ul>
-  {% endif %}
-  {% if listlevel < lastlistlevel %}
-   </ul>
-   </li>
-  {% endif %}
-  {% assign lastlistlevel = listlevel %}
-  <li>{{ header }}</li>
+  {{ line }}
  {% endif %}
 {% endfor %}
