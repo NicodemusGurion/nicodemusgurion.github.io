@@ -23,7 +23,12 @@ title: Table of Contents
 
 {% assign lastlistlevel = 0 %}
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
-{%- assign contents = contents | replace: "\r", "\n" -%}
+{%- assign htmlcontents = contents | markdownify -%}
+{% assign htmllines = htmlcontents | split: "<h" %}
+First line:<br>
+{{ htmllines | first }}<br>
+Numlines:<br>
+{{ htmllines | size }}<br>
 {% assign lines = contents | split: "\n" %}
 Number of lines: {{ lines | size }}
 {% for line in lines %}
