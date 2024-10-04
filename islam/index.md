@@ -34,6 +34,19 @@ Numlines:<br>
   {% assign firstchar = line | slice: 0 %}
   First character: "{{ firstchar }}"<br>
   {% if "123456" contains firstchar %}
+   {% assign listlevel = firstchar | plus: 0 %}
    A header level {{ firstchar }}<br>
+     {% if listlevel > lastlistlevel %}
+	   <li>
+	   <ul>
+	  {% endif %}
+	  {% if listlevel < lastlistlevel %}
+	   </ul>
+	   </li>
+	  {% endif %}
+	  {% assign lastlistlevel = listlevel %}
+	  {% assign header = line | split: ">" %}
+	  <li>{{ header[1] }}</li>
   {% endif %}
+  
 {% endfor %}
