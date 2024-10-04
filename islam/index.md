@@ -32,7 +32,7 @@ title: Table of Contents
    {% assign header = line | split: ">" %}
    {% assign header = header[1] | split: "<" %}
    {% assign header = header[0] %}
-   {% assign listlevel = firstchar | plus: 0 %}
+   {% assign listlevel = firstchar %}
    
    
    
