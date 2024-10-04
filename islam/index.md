@@ -32,20 +32,21 @@ Numlines:<br>
 
 {% for line in htmllines %}
   {% assign firstchar = line | slice: 0 %}
-  First character: "{{ firstchar }}"<br>
   {% if "123456" contains firstchar %}
    {% assign header = line | split: ">" %}
+   {% assign tailend = "</h" | append: firstchar %}
+   {% assign headertext = header[1] | remove tailend %}
    {% assign listlevel = firstchar | plus: 0 %}
    A header level {{ firstchar }}<br>
      {% if listlevel > lastlistlevel %}
-	   <li>{{ header[1] }}
+	   <li>{{ headertext }}
 	   <ul>
 	  {% elsif listlevel < lastlistlevel %}
 	   </ul>
 	   </li>
-	   <li>{{ header[1] }}</li>
+	   <li>{{ headertext }}</li>
 	  {% else %}
-	  <li>{{ header[1] }}</li>
+	  <li>{{ headertext }}</li>
 	  {% endif %}
 	  {% assign lastlistlevel = listlevel %}
   {% endif %}
