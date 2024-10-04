@@ -31,5 +31,6 @@ Numlines:<br>
 {{ htmllines | size }}<br>
 
 {% for line in htmllines %}
-  {% assign firstchar = line | slice: 0 }
+  {% assign firstchar = line | slice: 0 %}
+  First character: "{{ firstchar }}"<br>
 {% endfor %}
