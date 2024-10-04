@@ -37,17 +37,7 @@ title: Table of Contents
    {% assign header = header[0] %}
    {% assign listlevel = firstchar | plus: 0 %}
    
-   
-   
-   
-	{% if listlevel == lastlistlevel %}
 	{% assign output = output | append: "<li>" | append: header | append: "</li>" %}
-	{% elsif listlevel > lastlistlevel %}
-	{% assign output = output | slice: -5,5 | append: "<ul><li>" | append: header | append: "</li>" %}
-	{% elsif listlevel < lastlistlevel %}
-	{% assign output = output | append: "</ul></li><li>" | append: header | append: "</li>" %}
-	{% endif %}
-		
     
 	{% assign lastlistlevel = listlevel %}
 	
