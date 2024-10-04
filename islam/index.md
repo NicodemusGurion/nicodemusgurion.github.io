@@ -29,15 +29,9 @@ First line:<br>
 {{ htmllines | first }}<br>
 Numlines:<br>
 {{ htmllines | size }}<br>
-{% assign lines = contents | split: "\n" %}
-Number of lines: {{ lines | size }}
-{% for line in lines %}
- {% assign splitline = line | split: "# " %}
- {% assign firstpart = splitline | pop %}
- {% assign headerlevel = firstpart | size | plus: 1 %} 
- Header level {{ headerlevel }}<br >
- {% if line contains "#" %}
- NEW LINE<br>
-  {{ line }}<br >
- {% endif %}
+
+
+{% for line in htmllines %}
+ {% assign firstchar = line | slice: 1 }
+ First character: "{{ firstchar }}"<br>
 {% endfor %}
