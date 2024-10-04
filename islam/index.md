@@ -28,6 +28,8 @@ title: Table of Contents
 " %}
 <pre>
 {% for line in lines %}
+{% assign firstchar = line | split "" | first %}
+{% unless firstchar == "#" %}{% continue %}{% endunless %}
 - {{ line }}
 {% endfor %}
 </pre>
