@@ -30,4 +30,5 @@ First line:<br>
 Numlines:<br>
 {{ htmllines | size }}<br>
 
-
+{% for line in htmllines %}
+{% endfor %}
