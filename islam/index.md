@@ -26,7 +26,7 @@ title: Table of Contents
 {% assign lines = contents | split: "\n" %}
 {% for line in lines %}
  {% assign splitline = line | split "# " %}
- {% firstpart = splitline | pop %}
+ {% assign firstpart = splitline | pop %}
  {% assign headerlevel = firstpart | size | plus: 1 %} 
  Header level {{ headerlevel }}<br >
  {% if line contains "#" %}
