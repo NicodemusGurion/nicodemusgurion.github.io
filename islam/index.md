@@ -35,9 +35,11 @@ title: Table of Contents
 {% assign headerid = parts | last %}
 {% assign title = parts | shift | join: " " %}
 {% if headerid contains "{#" %}
+  {% assign title = title | remove: headerid | strip %}
   {% assign headerid = headerid | remove: "{#" | remove: "}" %}
+
 {% else %}
-  {% assign headerid = title | remove: "'" | slugify %}
+  {% assign headerid = title | remove: "'" | remove: "\"" | slugify %}
 {% endif %} 
 - {{ title }} - {{listlevel}} - {{headerid}}
 {% endfor %}
