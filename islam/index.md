@@ -38,7 +38,7 @@ I'm
    {% elsif listlevel < lastlistlevel %}
    </ul>step down</li>
    {% endif %}
-   <li>{{ listlevel }} - {{ header[0] }}</li>
+   <li>{{ listlevel }} {{ lastlistlevel }} - {{ header[0] }}</li>
    
      
 	{% assign lastlistlevel = listlevel %}
