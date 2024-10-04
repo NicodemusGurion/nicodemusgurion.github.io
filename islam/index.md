@@ -37,7 +37,7 @@ title: Table of Contents
 {% if headerid contains "{#" %}
   {% assign headerid = headerid | remove: "{#" | remove: "}" %}
 {% else %}
-  {% assign headerid = title | slugify %}
+  {% assign headerid = title | slugify: "latin" %}
 {% endif %} 
 - {{ title }} - {{listlevel}} - {{headerid}}
 {% endfor %}
