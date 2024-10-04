@@ -31,8 +31,14 @@ title: Table of Contents
 {% assign firstchar = line | split: "" | first %}
 {% unless firstchar == "#" %}{% continue %}{% endunless %}
 {% assign parts = line | split: " " %}
-{% assign listlevel = parts | pop | size %}
+{% assign listlevel = parts[0] | size %}
 {% assign headerid = parts | last %}
+{% assign title = parts | slice: 1 | join: " " %}
+{% if headerid contains "{#" %}
+  {% assign headerid = headerid | remove: "{#" | remove: "}" %}
+{% else %}
+  {% assign headerid = title | slugify %}
+{% endif %} 
 - {{ parts | join: " " }} - {{listlevel}} - {{headerid}}
 {% endfor %}
 </pre>
