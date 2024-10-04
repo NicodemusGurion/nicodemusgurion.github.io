@@ -33,7 +33,7 @@ title: Table of Contents
 {% assign parts = line | split: " " %}
 {% assign listlevel = parts[0] | size %}
 {% assign headerid = parts | last %}
-{% assign title = parts | slice: 1 | join: " " %}
+{% assign title = parts | shift | join: " " %}
 {% if headerid contains "{#" %}
   {% assign headerid = headerid | remove: "{#" | remove: "}" %}
 {% else %}
