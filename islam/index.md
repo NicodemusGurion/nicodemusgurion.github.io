@@ -23,6 +23,7 @@ title: Table of Contents
 
 {% assign lastlistlevel = 0 %}
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
+{%- assign contents = contents | replace: "\r", "\n" -%}
 {% assign lines = contents | split: "\n" %}
 Number of lines: {{ lines | size }}
 {% for line in lines %}
