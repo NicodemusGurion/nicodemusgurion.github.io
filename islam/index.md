@@ -39,6 +39,6 @@ title: Table of Contents
 {% else %}
   {% assign headerid = title | slugify %}
 {% endif %} 
-- {{ parts | join: " " }} - {{listlevel}} - {{headerid}}
+- {{ title }} - {{listlevel}} - {{headerid}}
 {% endfor %}
 </pre>
