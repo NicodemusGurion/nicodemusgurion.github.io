@@ -24,5 +24,5 @@ title: Table of Contents
 {% assign lastlistlevel = 1 %}
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
 <pre>
-{{contents}}
+{{contents | replace: "\n", "FOO"}}
 </pre>
