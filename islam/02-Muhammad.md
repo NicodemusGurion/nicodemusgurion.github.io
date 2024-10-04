@@ -899,7 +899,7 @@ See also:
 - [Sahih al-Bukhari 5435](https://sunnah.com/bukhari:5435)
 - [Black slaves are worth half of Arab slaves](#black-slaves-worth-less)
 
-## Muhammad had a sex slave (#muhammads-sex-slave)
+## Muhammad had a sex slave {#muhammads-sex-slave}
 
 [Sunan an-Nasa'i 3959](https://sunnah.com/nasai:3959)
 

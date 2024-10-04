@@ -24,6 +24,8 @@ title: Table of Contents
 {% assign lastlistlevel = 1 %}
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
 
+{% assign permalink = "/islam/muhammad/" %}
+
 {% assign lines = contents | split: "
 " %}
 {% assign output = "<ul>" %}
@@ -41,8 +43,6 @@ title: Table of Contents
 	{% else %}
 		{% assign headerid = title | remove: "'" | remove: "\"" | slugify %}
 	{% endif %}
-	
-	
 	{% if listlevel > lastlistlevel %}
 		{% assign lastli = output | slice: -5, 5 %}
 		{% if lastli == "</li>" %}
@@ -54,11 +54,7 @@ title: Table of Contents
 	{% if listlevel < lastlistlevel %}
 		{% assign output = output | append: "</ul></li>"  %}
 	{% endif %}
-	
-	{% assign output = output | append: "<li>" | append: title | append: "</li>" %}
-	
-	
-	
+	{% assign output = output | append: "<li><a href=\"" | append: permalink | append: "#" | append : headerid | append: "\">" | append: title | append: "</a></li>" %}
 	{% assign lastlistlevel = listlevel %}
 {% endfor %}
 {{output}}
