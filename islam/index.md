@@ -34,7 +34,11 @@ title: Table of Contents
    {% assign header = header[1] | split: "<" %}
    {% assign listlevel = firstchar | plus: 0 %}
    
-   
+   {% if listlevel > lastlistlevel %}
+   <li><ul>
+   {% elsif listlevel < lastlistlevel %}
+   </ul></li>
+   {% endif %}
    <li>{{ listlevel }} - {{ header[0] }}</li>
    
      
