@@ -30,6 +30,9 @@ title: Table of Contents
 {% for line in lines %}
 {% assign firstchar = line | split: "" | first %}
 {% unless firstchar == "#" %}{% continue %}{% endunless %}
-- {{ line }}
+{% assign parts = line | split: " " %}
+{% assign listlevel = parts | pop | size %}
+{% assign headerid = parts | last %}
+- {{ parts | join: " " }} - {{listlevel}} - {{headerid}}
 {% endfor %}
 </pre>
