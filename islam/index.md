@@ -33,4 +33,7 @@ Numlines:<br>
 {% for line in htmllines %}
   {% assign firstchar = line | slice: 0 %}
   First character: "{{ firstchar }}"<br>
+  {% if "123456" contains firstchar %}
+   A header level {{ firstchar }}<br>
+  {% endif %}
 {% endfor %}
