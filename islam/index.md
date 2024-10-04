@@ -54,7 +54,7 @@ title: Table of Contents
 	{% if listlevel < lastlistlevel %}
 		{% assign output = output | append: "</ul></li>"  %}
 	{% endif %}
-	{% capture link %}<li><a href="">{{title}}</a></li>{% endcapture %}
+	{% capture link %}<li><a href="{{permalink}}#{{headerid}}">{{title}}</a></li>{% endcapture %}
 	{% assign output = output | append: link %}
 	{% assign lastlistlevel = listlevel %}
 {% endfor %}
