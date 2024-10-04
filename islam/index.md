@@ -25,8 +25,7 @@ title: Table of Contents
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
 {% assign htmlcontents = contents | markdownify %}
 {% assign htmllines = htmlcontents | split: "<h" %}
-
-<ul>
+I'm 
 {% for line in htmllines %}
   {% assign firstchar = line | slice: 0 %}
   {% if "123456" contains firstchar %}
@@ -35,14 +34,14 @@ title: Table of Contents
    {% assign listlevel = firstchar | plus: 0 %}
    
    {% if listlevel > lastlistlevel %}
-   <li><ul>
+   <li>step up<ul>
    {% elsif listlevel < lastlistlevel %}
-   </ul></li>
+   </ul>step down</li>
    {% endif %}
    <li>{{ listlevel }} - {{ header[0] }}</li>
    
      
-	  {% assign lastlistlevel = listlevel %}
+	{% assign lastlistlevel = listlevel %}
   {% endif %}
 {% endfor %}
 </ul>
