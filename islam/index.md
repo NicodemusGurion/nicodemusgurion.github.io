@@ -26,21 +26,40 @@ title: Table of Contents
 
 {% assign lines = contents | split: "
 " %}
-<pre>
+{% assign opentag = false %}
+<ul>
 {% for line in lines %}
-{% assign firstchar = line | split: "" | first %}
-{% unless firstchar == "#" %}{% continue %}{% endunless %}
-{% assign parts = line | split: " " %}
-{% assign listlevel = parts[0] | size %}
-{% assign headerid = parts | last %}
-{% assign title = parts | shift | join: " " %}
-{% if headerid contains "{#" %}
-  {% assign title = title | remove: headerid | strip %}
-  {% assign headerid = headerid | remove: "{#" | remove: "}" %}
-
-{% else %}
-  {% assign headerid = title | remove: "'" | remove: "\"" | slugify %}
-{% endif %} 
-- {{ title }} - {{listlevel}} - {{headerid}}
+	{% assign firstchar = line | split: "" | first %}
+	{% unless firstchar == "#" %}{% continue %}{% endunless %}
+	{% assign parts = line | split: " " %}
+	{% assign listlevel = parts[0] | size %}
+	{% assign headerid = parts | last %}
+	{% assign title = parts | shift | join: " " %}
+	{% if headerid contains "{#" %}
+		{% assign title = title | remove: headerid | strip %}
+		{% assign headerid = headerid | remove: "{#" | remove: "}" %}
+	{% else %}
+		{% assign headerid = title | remove: "'" | remove: "\"" | slugify %}
+	{% endif %}
+	
+	{% if listlevel > lastlistlevel %}
+		<ul>
+		<li>{{ title }}
+		{% assign opentag = true %}
+	{% endif %}
+	
+	{% if listlevel == lastlistlevel %}
+		{% if opentag == true %}</li>{% endif %}
+		<li>{{ title }}
+		{% assign opentag = true %}
+	{% endif %}
+	
+	{% if listlevel < lastlistlevel %}
+		{% if opentag == true %}</li>{% endif %}
+		</ul>
+		</li>
+		{% assign opentag = false %}
+	{% endif %}
 {% endfor %}
-</pre>
+{% if opentag == true %}</li>{% endif %}
+</ul>
