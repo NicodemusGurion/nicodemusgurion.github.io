@@ -38,10 +38,12 @@ title: Table of Contents
    {% assign listlevel = firstchar | plus: 0 %}
    
 	{% assign output = output | append: "<li>" | append: header | append: "</li>" %}
+	
+	{{ header }}<br>
+	{{ output | size }}
     
 	{% assign lastlistlevel = listlevel %}
-	
-	
+
 	
   {% endif %}
 {% endfor %}
