@@ -29,25 +29,18 @@ First line:<br>
 {{ htmllines | first }}<br>
 Numlines:<br>
 {{ htmllines | size }}<br>
-
+<ul>
 {% for line in htmllines %}
   {% assign firstchar = line | slice: 0 %}
   {% if "123456" contains firstchar %}
    {% assign header = line | split: ">" %}
-   {% assign tailend = "</h" | append: firstchar %}
-   {% assign headertext = header[1] | remove tailend %}
+  
    {% assign listlevel = firstchar | plus: 0 %}
-   A header level {{ firstchar }}<br>
-     {% if listlevel > lastlistlevel %}
-	   <li>{{ headertext }}
-	   <ul>
-	  {% elsif listlevel < lastlistlevel %}
-	   </ul>
-	   </li>
-	   <li>{{ headertext }}</li>
-	  {% else %}
-	  <li>{{ headertext }}</li>
-	  {% endif %}
+   
+   <li>{{ listlevel }} - {{ header[1] }}</li>
+   
+     
 	  {% assign lastlistlevel = listlevel %}
   {% endif %}
 {% endfor %}
+</ul>
