@@ -26,8 +26,8 @@ title: Table of Contents
 
 {% assign lines = contents | split: "
 " %}
-{% assign opentag = false %}
-<ul>
+{% assign output = "<ul>" %}
+
 {% for line in lines %}
 	{% assign firstchar = line | split: "" | first %}
 	{% unless firstchar == "#" %}{% continue %}{% endunless %}
@@ -42,24 +42,24 @@ title: Table of Contents
 		{% assign headerid = title | remove: "'" | remove: "\"" | slugify %}
 	{% endif %}
 	
+	
 	{% if listlevel > lastlistlevel %}
-		<ul>
-		<li>{{ title }}
-		{% assign opentag = true %}
+		{% assign lastli = output | slice: -5, 5 %}
+		{% if lastli == "</li>" %}
+			{% assign cutsize = output | size | minus: 5 %}
+			{% assign output = output | slice: 0, cutsize  %}
+		{% endif %}
+		{% assign output = output | append: "<ul>"  %}
 	{% endif %}
-	
-	{% if listlevel == lastlistlevel %}
-		{% if opentag == true %}</li>{% endif %}
-		<li>{{ title }}
-		{% assign opentag = true %}
-	{% endif %}
-	
 	{% if listlevel < lastlistlevel %}
-		{% if opentag == true %}</li>{% endif %}
-		</ul>
-		</li>
-		{% assign opentag = false %}
+		{% assign output = output | append: "</ul></li>"  %}
 	{% endif %}
+	
+	{% assign output = output | append: "<li>" | append: title | append: "</li>" %}
+	
+	
+	
+	{% assign lastlistlevel = listlevel %}
 {% endfor %}
-{% if opentag == true %}</li>{% endif %}
+
 </ul>
