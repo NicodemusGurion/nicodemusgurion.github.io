@@ -34,10 +34,19 @@ title: Table of Contents
   
    {% assign header = line | split: ">" %}
    {% assign header = header[1] | split: "<" %}
-   {% assign header = header[0] %}
+   {% assign header = header[0] | strip %}
+   {% if header == "" %}{% continue %}{% endif %}
+   
+   
+   
    {% assign listlevel = firstchar | plus: 0 %}
    
 	{% assign output = output | append: "<li>" | append: header | append: "</li>" %}
+	
+	{% assign headerid = line | split: "id=\"" %}
+   {% assign headerid = headerid[1] | split: "\"" %}
+   {% assign headerid = headerid[0] | split: "\"" %}
+   {{ headerid }}<br>
 	
 	{{ header }}<br>
 	{{ output | size }}
