@@ -24,12 +24,14 @@ title: Table of Contents
 {% assign lastlistlevel = 0 %}
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
 {% assign lines = contents | split: "\n" %}
+Number of lines: {{ lines | size }}
 {% for line in lines %}
  {% assign splitline = line | split: "# " %}
  {% assign firstpart = splitline | pop %}
  {% assign headerlevel = firstpart | size | plus: 1 %} 
  Header level {{ headerlevel }}<br >
  {% if line contains "#" %}
+ NEW LINE<br>
   {{ line }}<br >
  {% endif %}
 {% endfor %}
