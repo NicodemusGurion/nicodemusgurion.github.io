@@ -22,7 +22,7 @@ title: Table of Contents
 
 
 {% assign lastlistlevel = 1 %}
-{% capture contents %}{%raw%}{% include_relative 02-Muhammad.md %}{%endraw%}{% endcapture %}
+{% capture contents -%}{% include_relative 02-Muhammad.md %}{%- endcapture %}
 <pre>
 {{contents | replace: "\n", "FOO"}}
 </pre>
