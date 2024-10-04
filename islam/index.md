@@ -26,7 +26,7 @@ title: Table of Contents
 {% assign htmlcontents = contents | markdownify %}
 {% assign htmllines = htmlcontents | split: "<h" %}
 {% assign output = "<ul>" %}
-
+<pre>
 {% for line in htmllines %}
   {% assign firstchar = line | slice: 0 %}
   {% if "123456" contains firstchar %}
@@ -35,26 +35,27 @@ title: Table of Contents
    {% assign header = line | split: ">" %}
    {% assign header = header[1] | split: "<" %}
    {% assign header = header[0] | strip %}
-   {% if header == "" %}{% continue %}{% endif %}
-   
-   
    
    {% assign listlevel = firstchar | plus: 0 %}
    
 	{% assign output = output | append: "<li>" | append: header | append: "</li>" %}
 	
 	{% assign headerid = line | split: "id=\"" %}
-   {% assign headerid = headerid[1] | split: "\"" %}
-   {% assign headerid = headerid[0] | split: "\"" %}
-   {{ headerid }}<br>
-	
-	{{ header }}<br>
-	{{ output | size }}
+   
+   {{ header }}
+   
+   {% for h in headerid %}
+   
+   {{ h }}
+   
+   {% endfor %}
     
 	{% assign lastlistlevel = listlevel %}
 
 	
   {% endif %}
 {% endfor %}
+</pre> 
+
 
 {{ output }}</ul>
