@@ -21,25 +21,30 @@ title: Table of Contents
 
 <ul>
 
-{% assign lastlistlevel = 0 %}
+{% assign lastlistlevel = 1 %}
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
 {% assign htmlcontents = contents | markdownify %}
 {% assign htmllines = htmlcontents | split: "<h" %}
-I'm 
+
 {% for line in htmllines %}
   {% assign firstchar = line | slice: 0 %}
   {% if "123456" contains firstchar %}
    {% assign header = line | split: ">" %}
    {% assign header = header[1] | split: "<" %}
+   {% assign header = header[0] %}
    {% assign listlevel = firstchar | plus: 0 %}
    
-   {% if listlevel > lastlistlevel %}
-   <li>step up<ul>
-   {% elsif listlevel < lastlistlevel %}
-   </ul>step down</li>
-   {% endif %}
-   <li>{{ listlevel }} {{ lastlistlevel }} - {{ header[0] }}</li>
    
+   
+   <li>{{ listlevel }} {{ lastlistlevel }} - {{ header }}
+   {% if listlevel > lastlistlevel %}
+   <ul>
+   {% elsif listlevel < lastlistlevel %}
+   </li></ul></li>
+   {% else %}
+   </li>
+   {% endif %}
+
      
 	{% assign lastlistlevel = listlevel %}
   {% endif %}
