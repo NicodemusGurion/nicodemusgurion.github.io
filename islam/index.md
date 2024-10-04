@@ -23,7 +23,7 @@ title: Table of Contents
 
 {% assign lastlistlevel = 0 %}
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
-{%- assign htmlcontents = contents | markdownify -%}
+{% assign htmlcontents = contents | markdownify %}
 {% assign htmllines = htmlcontents | split: "<h" %}
 First line:<br>
 {{ htmllines | first }}<br>
@@ -32,6 +32,6 @@ Numlines:<br>
 
 
 {% for line in htmllines %}
- {% assign firstchar = line | slice: 1 }
+ {% assign firstchar = line | slice: 0 }
  First character: "{{ firstchar }}"<br>
 {% endfor %}
