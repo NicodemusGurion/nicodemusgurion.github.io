@@ -25,20 +25,17 @@ title: Table of Contents
 {% capture contents %}{% include_relative 02-Muhammad.md %}{% endcapture %}
 {% assign htmlcontents = contents | markdownify %}
 {% assign htmllines = htmlcontents | split: "<h" %}
-First line:<br>
-{{ htmllines | first }}<br>
-Numlines:<br>
-{{ htmllines | size }}<br>
+
 <ul>
 {% for line in htmllines %}
   {% assign firstchar = line | slice: 0 %}
   {% if "123456" contains firstchar %}
    {% assign header = line | split: ">" %}
-   {% assign headertext = header[1] | split: "<" | first %}
+   {% assign header = header[1] | split: "<" %}
    {% assign listlevel = firstchar | plus: 0 %}
    
    
-   <li>{{ listlevel }} - {{ headertext }}</li>
+   <li>{{ listlevel }} - {{ header[0] }}</li>
    
      
 	  {% assign lastlistlevel = listlevel %}
