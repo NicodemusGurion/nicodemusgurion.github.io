@@ -34,10 +34,11 @@ Numlines:<br>
   {% assign firstchar = line | slice: 0 %}
   {% if "123456" contains firstchar %}
    {% assign header = line | split: ">" %}
-  
+   {% assign headertext = header[1] | split: "<" | first %}
    {% assign listlevel = firstchar | plus: 0 %}
    
-   <li>{{ listlevel }} - {{ header[1] }}</li>
+   
+   <li>{{ listlevel }} - {{ headertext }}</li>
    
      
 	  {% assign lastlistlevel = listlevel %}
