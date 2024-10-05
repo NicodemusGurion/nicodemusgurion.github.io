@@ -4,7 +4,7 @@ permalink: /islam/muhammad/
 layout: default
 ---
 
-{% include "toc.md" %}
+{% include toc.md %}
 
 # Muhammad's appearance
 
