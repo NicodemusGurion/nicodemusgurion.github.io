@@ -128,6 +128,7 @@ table th:before {
 /* Background image for the plus sign (default closed state) */
 #markdown-toc li:before {
   content: url('/public/img/plus-dmitri13.png');
+  padding-right:10px;
 }
 
 /* Initially hide the second-level <ul> */
