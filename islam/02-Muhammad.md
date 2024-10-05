@@ -4,11 +4,7 @@ permalink: /islam/muhammad/
 layout: default
 ---
 
-# Contents
-{:.no_toc}
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
+{% include "toc.md" %}
 
 # Muhammad's appearance
 
