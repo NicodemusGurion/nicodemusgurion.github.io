@@ -114,16 +114,6 @@ table th:before {
 
 
 /* Basic styles for the list and links */
-#markdown-toc {
-  list-style: none;
-  padding: 0;
-}
-
-#markdown-toc li {
-  position: relative;
-  padding-left: 25px; /* Space for the background image on the left */
-  cursor: pointer; /* Make the whole <li> look clickable */
-}
 
 /* Background image for the plus sign (default closed state) */
 #markdown-toc li:before {
