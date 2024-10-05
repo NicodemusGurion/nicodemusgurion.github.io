@@ -7,7 +7,7 @@ layout: default
 
 Everything you wanted to know about Muhammad but were afraid to ask.
 
-{:toc}
+* TOC {:toc}
 
 # Muhammad's appearance
 
