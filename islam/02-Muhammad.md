@@ -4,13 +4,11 @@ permalink: /islam/muhammad/
 layout: default
 ---
 
+# Contents
+{:.no_toc}
 
-Everything you wanted to know about Muhammad but were afraid to ask.
-
-{% capture tocdata %}
+* Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
-{% endcapture %}
-{{ tocdata | markdownify}}
 
 # Muhammad's appearance
 
