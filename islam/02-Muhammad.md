@@ -19,7 +19,7 @@ An average looking fellow, neither tall nor short, with wavy hair, silver white 
 
 ## Muhammad was very average looking {#average-looks}
 
-[Jami` at-Tirmidhi 3623](https://sunnah.com/tirmidhi:3623)
+Jami` at-Tirmidhi 3623
 
 > The Messenger of Allah was not very tall nor was he [very] short, nor was he pale white, nor was he brown, nor was the wave of his hair completely curly nor straight…
 
