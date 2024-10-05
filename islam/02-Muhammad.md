@@ -7,7 +7,8 @@ layout: default
 
 Everything you wanted to know about Muhammad but were afraid to ask.
 
-* TOC {:toc}
+* Placeholder for Table of Content (Must not be removed) 
+{:toc}
 
 # Muhammad's appearance
 
