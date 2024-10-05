@@ -1,6 +1,3 @@
----
-layout: nil
----
 # Contents of this page
 {:.no_toc}
 * toc
