@@ -114,6 +114,7 @@ table th:before {
 
 /* toc link list toggle */
 
+
 /* Basic styles for the list and links */
 #markdown-toc {
   list-style: none;
@@ -122,7 +123,7 @@ table th:before {
 
 #markdown-toc li {
   position: relative;
-  padding-right: 20px; /* Space for the background image */
+  padding-left: 25px; /* Space for the background image on the left */
   cursor: pointer; /* Make the whole <li> look clickable */
 }
 
@@ -130,7 +131,7 @@ table th:before {
 #markdown-toc li:before {
   content: '';
   position: absolute;
-  right: 0;
+  left: 0;
   top: 50%;
   transform: translateY(-50%);
   width: 15px;
@@ -154,17 +155,18 @@ table th:before {
 /* Change background image to minus when the list is expanded */
 #markdown-toc li:focus-within:before,
 #markdown-toc li:hover:before {
-  background-image: url('/public/img/plus-dmitri13.png'); /* Use a small minus icon */
+  background-image: url('/public/img/minus-dmitri13.png'); /* Use a small minus icon */
 }
 
 /* Optional: Style the anchor tags */
 #markdown-toc a {
   text-decoration: none;
   color: #007bff;
-  padding-right: 20px; /* Avoid text overlapping the icon */
+  padding-left: 5px; /* Space between icon and text */
 }
 
-#markdown-toc li li {
+/* Style the second-level items to differentiate them */
+#markdown-toc ul ul li a {
   color: #555;
-  padding-left: 10px;
+  padding-left: 20px; /* Indent second-level links more */
 }
