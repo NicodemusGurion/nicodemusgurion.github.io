@@ -131,6 +131,11 @@ table th:before {
   padding-right:10px;
 }
 
+#markdown-toc li ul li:before {
+  content: "";
+  padding-right:0px;
+}
+
 /* Initially hide the second-level <ul> */
 #markdown-toc li ul {
   display: none;
