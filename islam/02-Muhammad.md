@@ -608,15 +608,19 @@ See also:
 
 # Muhammad's mental health {#mental-health}
 
-## Muhammad was delusional
+## Muhammad was bewitched {#bewitched}
 
 [Sahih Al Bukhari 3268](https://sunnah.com/bukhari:3268)
 
-> Magic was worked on the Prophet so that he began to fancy that he was doing a thing which he was not actually doing. One day he invoked (Allah) for a long period and then said, "I feel that Allah has inspired me as how to cure myself. Two persons came to me (in my dream) and sat, one by my head and the other by my feet. One of them asked the other, "What is the ailment of this man?" The other replied, 'He has been bewitched"...
+> **Magic was worked on the Prophet** so that he began to fancy that he was doing a thing which he was not actually doing. One day he invoked (Allah) for a long period and then said, "I feel that Allah has inspired me as how to cure myself. Two persons came to me (in my dream) and sat, one by my head and the other by my feet. One of them asked the other, "What is the ailment of this man?" The other replied, '**He has been bewitched**"...
 
 [Sahih Al Bukhari 5765 provides more detail:](https://sunnah.com/bukhari:5765)
 
-> Magic was worked on Allah's Messenger  so that he used to think that he had sexual relations with his wives while he actually had not...
+> **Magic was worked on Allah's Messenger** so that he used to think that he had sexual relations with his wives while he actually had not...
+
+
+Why are people trusting a man whose mind could be controlled by voodoo spells?
+
 
 See also:
 
@@ -1057,7 +1061,7 @@ Surah 33:36
 
 Notice that Allah and Muhammad decide on things **together**, and the are equal in authority.
 
-# Muhammad is inferior to Moses
+## Muhammad is inferior to Moses
 
 [Sahih al-Bukhari 2411](https://sunnah.com/bukhari:2411)
 
