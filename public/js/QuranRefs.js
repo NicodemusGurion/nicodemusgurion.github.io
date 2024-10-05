@@ -1,5 +1,5 @@
 function QuranRefs() {
-    var mainDiv = document.getElementById("thecontent");
+    var mainDiv = document.getElementById("maincontent");
     var text = mainDiv.innerHTML;
     const regex = /(surah[s]*\s*[0-9\:\,\-\;\s]*[0-9])/gi;
     mainDiv.innerHTML = text.replace(regex, (match, surah) => SurahLink(surah));

@@ -233,6 +233,11 @@ See also:
 - [Sunan Ibn Majah 158](http://web.archive.org/web/20231206105330/https://sunnah.com/ibnmajah:158)
 - [Sahih Muslim 2466 b](https://web.archive.org/web/20231210111632/https://sunnah.com/muslim:2466b)
 
+## The Throne of Allah 
+
+[Al-Mustadrak ala al-Sahihayn 8397](https://islamweb-net.translate.goog/ar/library/index.php?page=bookcontents&flag=1&bk_no=74&ID=8397&_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp)
+> He said: “Then Allah will send water from beneath the Throne like the semen of men, and their flesh and bodies will grow from That water, as the earth grows from the dust.”
+
 ## Allah comes down every night {#nightly-visits}
 
 [Sahih Muslim 758b](https://sunnah.com/muslim:758b)
