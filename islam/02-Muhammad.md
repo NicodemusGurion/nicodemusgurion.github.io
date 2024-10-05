@@ -7,8 +7,10 @@ layout: default
 
 Everything you wanted to know about Muhammad but were afraid to ask.
 
-* Placeholder for Table of Content (Must not be removed) 
+{% capture tocdata %}
 {:toc}
+{% endcapture %}
+{{ tocdata | markdownify}}
 
 # Muhammad's appearance
 
