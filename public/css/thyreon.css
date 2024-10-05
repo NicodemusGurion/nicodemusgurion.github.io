@@ -127,16 +127,7 @@ table th:before {
 
 /* Background image for the plus sign (default closed state) */
 #markdown-toc li:before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 15px;
-  height: 15px;
-  background-image: url('/public/img/plus-dmitri13.png'); /* Use a small plus icon */
-  background-size: contain;
-  background-repeat: no-repeat;
+  content: url('/public/img/plus-dmitri13.png');
 }
 
 /* Initially hide the second-level <ul> */
@@ -153,5 +144,5 @@ table th:before {
 /* Change background image to minus when the list is expanded */
 #markdown-toc li:focus-within:before,
 #markdown-toc li:hover:before {
-  background-image: url('/public/img/minus-dmitri13.png'); /* Use a small minus icon */
+  content: url('/public/img/minus-dmitri13.png'); /* Use a small minus icon */
 }
