@@ -114,7 +114,10 @@ table th:before {
 
 
 /* Basic styles for the list and links */
-
+#markdown-toc {
+  list-style: none;
+  padding: 0;
+}
 /* Background image for the plus sign (default closed state) */
 #markdown-toc li:before {
   content: url('/public/img/plus-dmitri13.png');
