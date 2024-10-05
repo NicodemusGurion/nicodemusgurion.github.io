@@ -142,3 +142,9 @@ table th:before {
 #markdown-toc li:hover:before {
   content: url('/public/img/minus-dmitri13.png'); /* Use a small minus icon */
 }
+
+#markdown-toc li ul li:focus-within:before, 
+#markdown-toc li ul li:hover:before{
+  content: "";
+  padding-right:0px;
+}
