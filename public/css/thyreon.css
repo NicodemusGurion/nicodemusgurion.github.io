@@ -118,6 +118,10 @@ table th:before {
   list-style: none;
   padding: 0;
 }
+
+#markdown-toc > li {
+  background-color: #eeeeee;
+}
 /* Background image for the plus sign (default closed state) */
 #markdown-toc li:before {
   content: url('/public/img/plus-dmitri13.png');
