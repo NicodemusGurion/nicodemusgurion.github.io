@@ -4,6 +4,10 @@ permalink: /islam/muhammad/
 layout: default
 ---
 
+# Muhammad
+
+Everything you wanted to know about Muhammad but were afraid to ask.
+
 {% include toc.md %}
 
 # Muhammad's appearance

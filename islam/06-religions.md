@@ -108,7 +108,19 @@ Seems like monkeys and Muslims are allies in woman hating.
 
 # Non-Muslims, Jews and Christians {#non-muslims}
 
-## Muslims ordered to bully Jews and Christians 
+## Do not befriend non-muslims 
+
+Surah 3:28
+
+> Believers should not take disbelievers as allies instead of the believers—and whoever does so will have nothing to hope for from Allah—unless it is a precaution against their tyranny.
+
+Surah 5:51
+
+> You who believe, do not take the Jews and Christians as allies:they are allies only to each other. Anyone who takes them as an ally becomes one of them- God does not guide such wrongdoers
+
+Think you have a Muslim friend? Think again. Muslims are not allowed to be your friend, but will only pretend to be friendly to deceive.
+
+## Bully Jews and Christians 
 
 [Sahih Muslim 2167 a](https://sunnah.com/muslim:2167)
 
@@ -225,3 +237,5 @@ Surah 5:47
 Surah 3:55
 
 > God said, ‘Jesus, I will take you back and raise you up to Me: I will purify you of the disbelievers. To the Day of Resurrection **I will make those who follow you superior to those who disbelieved.**
+
+
