@@ -20,6 +20,7 @@ title: Table of Contents
 </ul>
 
 {% assign pgurl = "/islam/muhammad" %}
+{{pgurl}#
 {% capture content %}{% include_relative 02-Muhammad.md %}{% endcapture %}
 {% assign content_html = content | markdownify %}
 
@@ -28,5 +29,8 @@ title: Table of Contents
 {% capture toc_and_after %}{{ content_html | split: toc_start | last }}{% endcapture %}
 {% capture toc_content %}{{ toc_and_after | split: toc_end | first }}{% endcapture %}
 {% assign linkreplacement = "<a href=\"" | append: pgurl %}
+{{ linkreplacement }}
 {% assign toc_content = toc_content | replace: "<a href=\"", linkreplacement %}
 {{ toc_content }}
+
+
