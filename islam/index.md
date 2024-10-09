@@ -7,7 +7,7 @@ title: Table of Contents
 
 {% assign current_url = page.url %}
 
-<ul>
+<ul id="markdown-toc">
   {% for pg in site.pages %}
     {% if pg.url contains 'islam/' %}
     {% if pg.url != page.url %}
@@ -16,10 +16,7 @@ title: Table of Contents
         {% capture content %}{% include_relative {{ pg.name }} %}{% endcapture %}
 		{% assign content_html = content | markdownify %}
 		{% assign toc_start = '<!--TOC-->' %}
-		{% unless content_html contains toc_start %}
-		file {{pg.name}} does not contain TOC. 
-			{% continue %}
-		{% endunless %}
+		{% unless content_html contains toc_start %}{% continue %}{% endunless %}
 		{% assign toc_end = '<!--/TOC-->' %}
 		{% capture toc_and_after %}{{ content_html | split: toc_start | last }}{% endcapture %}
 		{% capture toc_content %}{{ toc_and_after | split: toc_end | first }}{% endcapture %}
@@ -31,7 +28,6 @@ title: Table of Contents
     {% endif %}
   {% endfor %}
 </ul>
-Too
 
 
 

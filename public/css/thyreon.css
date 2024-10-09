@@ -114,44 +114,18 @@ table th:before {
 
 
 /* Basic styles for the list and links */
-#markdown-toc {
-  list-style: none;
-  padding: 0;
+#markdown-toc li {
+  font-size:30pt;
 }
 
-#markdown-toc > li {
-  background-color: #eeeeee;
-}
-/* Background image for the plus sign (default closed state) */
-#markdown-toc li:before {
-  content: url('/public/img/plus-dmitri13.png');
-  padding-right:10px;
+#markdown-toc li li{
+  font-size:20pt;
 }
 
-#markdown-toc li ul li:before {
-  content: "";
-  padding-right:0px;
+#markdown-toc li li li{
+  font-size:10pt;
 }
 
-/* Initially hide the second-level <ul> */
-#markdown-toc li ul {
-  display: none;
-}
-
-/* When <li> is focused or hovered, show the nested <ul> */
-#markdown-toc li:focus-within > ul,
-#markdown-toc li:hover > ul {
-  display: block;
-}
-
-/* Change background image to minus when the list is expanded */
-#markdown-toc li:focus-within:before,
-#markdown-toc li:hover:before {
-  content: url('/public/img/minus-dmitri13.png'); /* Use a small minus icon */
-}
-
-#markdown-toc li ul li:focus-within:before, 
-#markdown-toc li ul li:hover:before{
-  content: "";
-  padding-right:0px;
+#markdown-toc li li li li {
+  font-size:5pt;
 }
