@@ -17,6 +17,8 @@ title: Table of Contents
 		{% assign content_html = content | markdownify %}
 		{% assign toc_start = '<!--TOC-->' %}
 		{% unless content_html contains toc_start %}{% continue %}{% endunless %}
+		<br>
+        <small><a href="javascript:void(0);" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';">Toggle List</a></small>
 		{% assign toc_end = '<!--/TOC-->' %}
 		{% capture toc_and_after %}{{ content_html | split: toc_start | last }}{% endcapture %}
 		{% capture toc_content %}{{ toc_and_after | split: toc_end | first }}{% endcapture %}
