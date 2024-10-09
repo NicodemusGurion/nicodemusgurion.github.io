@@ -13,7 +13,7 @@ title: Table of Contents
     {% if pg.url != page.url %}
       <li>
         <a href="{{ pg.url }}">{{ pg.title }}</a>
-        {% capture content %}{% include_relative page.path %}{% endcapture %}
+        {% capture content %}{% include_relative pg.path %}{% endcapture %}
 		{% assign content_html = content | markdownify %}
 		{% assign toc_start = '<!--TOC-->' %}
 		{% assign toc_end = '<!--/TOC-->' %}
