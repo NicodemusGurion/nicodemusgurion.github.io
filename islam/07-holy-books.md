@@ -3,7 +3,7 @@ Title: Holy books
 permalink: /islam/holy-books/
 ---
 
-# The Bible
+# The Bible 
 
 **Note:** Muhammad was an ignoramus and did not know anything about the Bible, so when he refers to the Torah he means the Old Testament, and when he refers to the Gospel he means the New Testament.
 
