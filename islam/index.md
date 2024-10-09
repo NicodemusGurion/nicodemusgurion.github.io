@@ -30,7 +30,7 @@ title: Table of Contents
 {% capture toc_content %}{{ toc_and_after | split: toc_end | first }}{% endcapture %}
 {% assign linkreplacement = '<a href="' | append: pgurl %}
 {{ linkreplacement }}
-{% assign toc_content = toc_content | replace: '<a href="', linkreplacement %}
+{% assign toc_content = toc_content | replace: 'id="markdown-toc"', '' | replace: '<a href="', linkreplacement %}
 {{ toc_content }}
 
 
