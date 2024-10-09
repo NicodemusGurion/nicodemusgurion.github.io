@@ -3,6 +3,13 @@ title: General Islamic Theology
 permalink: /islam/theology/
 ---
 
+# General Islamic theology 
+{:.no_toc}
+
+
+{% include toc.md %}
+
+
 # Adam
 
 ## Adam was 60 cubits tall

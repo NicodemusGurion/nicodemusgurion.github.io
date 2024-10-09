@@ -3,7 +3,14 @@ title: Errors and contradictions
 permalink: /islam/errors/
 ---
 
+
+# Errors and contradictions 
+{:.no_toc}
+
+
 Islamic theology based on the Quran and Hadiths is rife with errors and contradictions.
+
+{% include toc.md %}
 
 
 # Errors 

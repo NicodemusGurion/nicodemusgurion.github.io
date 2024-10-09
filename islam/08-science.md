@@ -3,6 +3,13 @@ title: Islam and Science
 permalink: /islam/science/
 ---
 
+# Islam and science 
+{:.no_toc}
+
+{% include toc.md %}
+
+
+
 # Cosmology
 
 In Islamic cosmology, there are 7 heavens, and 7 flat earths, stacked on top of one another like flapjacks on a plate. These earths rest on the back of a [the cosmic whale Nun.](https://wikiislam.net/wiki/The_Islamic_Whale) The whale is on top of the cosmic Bull Bahamut. (Or sometimes the other way around. Bahamut stands on rock, and under the rock is dust. And I guess after that it's dust all the way down...

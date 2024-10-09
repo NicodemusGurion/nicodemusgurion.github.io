@@ -3,7 +3,12 @@ title: Other important persons
 permalink: /islam/vip/
 ---
 
-[TOC]
+# Other important persons in Islam 
+{:.no_toc}
+
+{% include toc.md %}
+
+
 
 # Jesus
 

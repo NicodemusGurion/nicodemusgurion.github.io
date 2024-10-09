@@ -3,6 +3,10 @@ title: Allah
 permalink: /islam/allah/
 ---
 
+# Allah - the god of Islam
+{:.no_toc}
+
+{% include toc.md %}
 
 
 ## Allah is not a father

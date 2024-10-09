@@ -3,6 +3,11 @@ title: Islam's morality
 permalink: /Islam/morals/
 ---
 
+# Morals according to Islam
+{:.no_toc}
+
+{% include toc.md %}
+
 
 
 # Lying 

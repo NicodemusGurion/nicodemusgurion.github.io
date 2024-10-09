@@ -3,6 +3,12 @@ title: Islam's view on religions
 permalink: /islam/religions/
 ---
 
+# What Islam teaches about various religions 
+{:.no_toc}
+
+{% include toc.md %}
+
+
 
 # Islam
 

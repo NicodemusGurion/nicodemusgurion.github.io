@@ -3,7 +3,11 @@ title: Everyday life as a muslim
 permalink: /islam/life
 ---
 
-[TOC]
+# Everyday life as a Muslim 
+{:.no_toc}
+
+{% include toc.md %}
+
 
 # How to treat animals {#animals}
 
