@@ -16,10 +16,10 @@ title: Table of Contents
         {% capture content %}{% include_relative {{ pg.name }} %}{% endcapture %}
 		{% assign content_html = content | markdownify %}
 		{% assign toc_start = '<!--TOC-->' %}
-		{% if content_html contains toc_start %}
-		file {{pg.name}} does contain TOC. 
+		{% unless content_html contains toc_start %}
+		file {{pg.name}} does not contain TOC. 
 			{% continue %}
-		{% endif %}
+		{% endunless %}
 		{% assign toc_end = '<!--/TOC-->' %}
 		{% capture toc_and_after %}{{ content_html | split: toc_start | last }}{% endcapture %}
 		{% capture toc_content %}{{ toc_and_after | split: toc_end | first }}{% endcapture %}
