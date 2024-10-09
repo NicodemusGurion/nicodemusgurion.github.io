@@ -4,7 +4,7 @@ permalink: /islam/muhammad/
 layout: default
 ---
 
-# Muhammad
+# Muhammad {:.no_toc}
 
 Everything you wanted to know about Muhammad but were afraid to ask.
 

@@ -1,6 +1,5 @@
-# Contents of this page
+# Contents of this page {:.no_toc}
 <!--TOC-->
-{:.no_toc}
 * toc
 {:toc}
 <!--/TOC-->
