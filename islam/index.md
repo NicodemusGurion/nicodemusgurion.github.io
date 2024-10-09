@@ -17,7 +17,8 @@ title: Table of Contents
 		{% assign content_html = content | markdownify %}
 		{% assign toc_start = '<!--TOC-->' %}
 		{% unless content_html contains toc_start %}
-		{% continue %}
+		file {{pg.name}} does NOT contain TOC. 
+			{% continue %}
 		{% endunless %}
 		{% assign toc_end = '<!--/TOC-->' %}
 		{% capture toc_and_after %}{{ content_html | split: toc_start | last }}{% endcapture %}
