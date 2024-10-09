@@ -20,7 +20,7 @@ title: Table of Contents
 </ul>
 
 {% assign pgurl = "/islam/muhammad" %}
-{{pgurl}#
+{{pgurl}}
 {% capture content %}{% include_relative 02-Muhammad.md %}{% endcapture %}
 {% assign content_html = content | markdownify %}
 
