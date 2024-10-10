@@ -7,7 +7,7 @@ The Trinity Doctrine is probably the most misunderstood and attacked Christian d
  
 (This list will be continually expanded.)
 
-[TOC]
+{% include toc.md %}
 
 [ ![](/public/img/Trinity-Shield-With-Legend.png) ](/public/img/Trinity-Shield-With-Legend-big.png)
 
@@ -1047,6 +1047,17 @@ This verse proves that the Holy Spirit is **eternal**, which is an attribute of 
 > Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him.
 
 In this verse whoever **has stood the test will receive the crown of life** by **God**, however the only other time the crown of life is mentioned is in [Revelation 2:10](#revelation-210) the crown of life is given by Jesus Christ, because Jesus Christ is God.
+
+
+## 1 Peter 3: 14,15
+
+> 14 But even if you should suffer for righteousness’ sake, you will be blessed. *Have no fear of them, nor be troubled, 15 but in your hearts honor Christ the Lord as holy*, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect,
+
+Peter is talking about Christ Jesus, and he is paraphrasing or quoting Isaiah 8: 12,13
+
+> 12 “Do not call conspiracy all that this people calls conspiracy, and *do not fear what they fear, nor be in dread. 13 But the LORD of hosts, him you shall honor as holy*. Let him be your fear, and let him be your dread.
+
+So Peter is taking a verse that is talking about not fearing but to honor the Lord Jehovah God as holy, and is replacing "the LORD of hosts" with "Christ the Lord". This shows that he and the Christians he wrote to considered Christ Jesus to be interchangeable with Jehovah God.
 
 ## 2 Peter 1: 1 
 
