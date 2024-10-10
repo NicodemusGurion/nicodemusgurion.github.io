@@ -144,11 +144,46 @@ Surah 40:55; 47:19
 
 > The Prophet used to copy the people of the Scriptures in matters in which there was no order from Allah.
 
-### Muhammad copied Jesus
+
+### Muhammad copied the Lord's Prayer
+
+[Sunan Abi Dawud 3892](https://sunnah.com/abudawud:3892)
+
+> I heard the Messenger of Allah say: If any of you is suffering from anything or his brother is suffering, he should say: 
+> Our Lord is Allah Who is in the heaven, 
+> holy is Thy name, 
+> Thy command reigns supreme in the heaven and the earth, as Thy mercy in the heaven, make Thy mercy in the earth; 
+> forgive us our sins, and our errors; 
+> Thou art the Lord of good men; send down mercy from Thy mercy, and remedy, and remedy from Thy remedy on this pain so that it is healed up.
+
+Apart from Jesus' supplication for daily bread this prayer is suspiciously similar to the Lord's prayer, addressing God in heaven, praising his name, requesting his will be done in heaven and earth, asking forgiveness for sins, and asking deliverance from evil.
+
+> Matthew 6:9-13 Pray then like this: 
+> “Our Father in heaven, 
+> hallowed be your name. 
+> Your kingdom come, your will be done, on earth as it is in heaven. 
+> *Give us this day our daily bread,*
+> and forgive us our debts, as we also have forgiven our debtors. 
+> And lead us not into temptation, but deliver us from evil.
+
+Coincidence? Or plagiarism?
+
+### Muhammad copied Jesus' parables
 
 > Allah's Messenger said, "Your example and the example of Jews and Christians is like the example of a man who employed some laborers to whom he said, 'Who will work for me up to midday for one Qirat each?' The Jews carried out the work for one Qirat each; and then the Christians carried out the work up to the Asr prayer for one Qirat each; and now you Muslims are working from the Asr prayer up to sunset for two Qirats each. The Jews and Christians got angry and said, 'We work more and are paid less.' The employer (Allah) asked them, 'Have I usurped some of your right?' They replied in the negative. He said, 'That is My Blessing, I bestow upon whomever I wish.' "
 
 This parable attributed to Muhammad is a blatant copy of Jesus' parable in Matthew 20:1-16
+
+
+### Muhammad copied Paul's writings
+
+[Sahih al-Bukhari 7498](https://sunnah.com/bukhari:7498)
+
+> the Prophet said, "Allah said, "I have prepared for My righteous slaves such excellent things as no eye has ever seen, nor an ear has ever heard nor a human heart can ever think of.' "
+
+About 600 years earlier, Paul wrote:
+
+> 1 Corinthians 2:9 But, as it is written, “What no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him”--
 
 
 ## Muhammad cursed an orphan girl to die young {#cursed-orphan}
