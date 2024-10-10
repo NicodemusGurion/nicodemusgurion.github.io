@@ -100,16 +100,27 @@ Seems like monkeys and Muslims are allies in woman hating.
 
 
 
+## Who resembles a Jew or Christian can not be a Muslim 
+
+[Jami` at-Tirmidhi 2695](https://sunnah.com/tirmidhi:2695)
+
+> the Messenger of Allah said: "He is not one of us who resembles other than us, no who resembles the Jews nor the Christians. For indeed greeting of the Jews is pointing the finger, and the greeting of the Christians is waving with the hand."
+
+
+So if you point with your finger, wave with your hand, or do anything else that the Jews and Christians are doing, such as praying prostrate, you are not a Muslim.
 
 
 
 
+## Islam will split into 73 sects
 
+[Sunan Ibn Majah 3992](https://sunnah.com/ibnmajah:3992)
 
+>  the Messenger of Allah said: “The Jews split into seventy-one sects, one of which will be in Paradise and seventy in Hell. The Christians split into seventy-two sects, seventy-one of which will be in Hell and one in Paradise. I swear by the One Whose Hand is the soul of Muhammad, my nation will split into seventy-three sects, one of which will be in Paradise and seventy-two in Hell.” It was said: “O Messenger of Allah, who are they?” He said: “The main body.”
 
+See also:
 
-
-
+- [Jami` at-Tirmidhi 2640](https://sunnah.com/tirmidhi:2640)
 
 
 # Non-Muslims, Jews and Christians {#non-muslims}
@@ -132,6 +143,12 @@ Think you have a Muslim friend? Think again. Muslims are not allowed to be your 
 
 > Do not greet the Jews and the Christians before they greet you and when you meet any one of them on the roads force him to go to the narrowest part of it.
 
+Muslims are to bully Jews and Christians by not greeting them first and force them to yield on the road.
+
+See also:
+
+- [Jami` at-Tirmidhi 2700](https://sunnah.com/tirmidhi:2700)
+
 
 ## Jews and Christians to be expelled from Arabia
 
@@ -139,7 +156,9 @@ Think you have a Muslim friend? Think again. Muslims are not allowed to be your 
 
 > I will expel the Jews and Christians from the Arabian Peninsula and will not leave any but Muslim
 
-- [](https://sunnah.com/bulugh/11/46)
+- [Jami` at-Tirmidhi 1606](https://sunnah.com/tirmidhi:1606)
+- [Bulugh al-Maram 11:46](https://sunnah.com/bulugh/11/46)
+- [Mishkat al-Masabih 4053](https://sunnah.com/mishkat:4053)
 
 ## Jews and Christians who don't accept Islam go to hell
 
@@ -151,6 +170,17 @@ Think you have a Muslim friend? Think again. Muslims are not allowed to be your 
 See also:
 
 - [Mishkat al-Masabih 10](https://sunnah.com/mishkat:10)
+
+
+## Jews and Christians are worth half as much as Muslims 
+
+[Sunan Ibn Majah 2644](https://sunnah.com/ibnmajah:2644)
+
+> the Messenger of Allah ruled that the blood money for the people of the book is half of that of the blood money for the Muslims, and they are the Jews and Christians.
+
+See also:
+
+- [Sunan an-Nasa'i 4806](https://sunnah.com/nasai:4806)
 
 
 ## Muslims should listen to and learn from Christians and Jews {#listen-to-christians}

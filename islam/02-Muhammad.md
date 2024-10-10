@@ -211,6 +211,7 @@ This parable attributed to Muhammad is a blatant copy of Jesus' parable in Matth
 See also:
 
 - [Sahih al-Bukhari 2268](https://sunnah.com/bukhari:2268)
+- [Sahih al-Bukhari 2269](https://sunnah.com/bukhari:2269)
 - [Sahih al-Bukhari 5021](https://sunnah.com/bukhari:5021)
 - [Jami` at-Tirmidhi 2871](https://sunnah.com/tirmidhi:2871)
 
@@ -1299,6 +1300,7 @@ While Jesus used his last moments to forgive his enemies, Muhammad used his last
 See also:
 
 - [Sahih Muslim 530 b](https://sunnah.com/muslim:530b)
+- [Sahih al-Bukhari 3453, 3454](https://sunnah.com/bukhari:3453)
 
 ## What was the last action of Muhammad? {#last-actions}
 
