@@ -1,3 +1,7 @@
+---
+noindex: true
+---
+
 https://jesusisyhwh.blogspot.com/2012/12/jesus-is-jehovah.html
 
 JESUS IS JEHOVAH!

@@ -1,6 +1,7 @@
 ---
 layout: null
 permalink: /database.json
+noindex: true
 ---
 {% capture string_with_newlines %}
 {% assign wordList = ""  %}
