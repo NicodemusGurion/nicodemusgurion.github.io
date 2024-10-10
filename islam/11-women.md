@@ -61,6 +61,7 @@ However the Arabic says:
 
 So Muhammad gets pissy and slaps his wife in the chest so hard that it hurt her. This is in harmony with Surah 4:34 which allows men to beat their wives for any reason. So I don't understand why the people at Sunnah.com feels so ashamed over this that they feel they must rewrite it to deceive people about their religion. Maybe because sane people would reject their abusive cult if they knew. Without lies Islam dies.
 
+
 ## No women has it worse than Muslim women {#muslimas-treated-worst}
 
 [Sahih al-Bukhari 5825](https://sunnah.com/bukhari:5825)

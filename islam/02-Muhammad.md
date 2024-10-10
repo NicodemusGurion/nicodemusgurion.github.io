@@ -114,6 +114,14 @@ Surah 7:158
 
 Muslims brag about this for some strange reason. Being illiterate is nothing to brag about. Muhammad wasn't poor, so the only reason  he would not learn to read or write would be because he was either incredibly lazy or a moron.
 
+## Muhammad was gullible
+
+Surah 9:61
+
+> And among them (the hypocrites) there are those who hurt the Prophet and say, “He is just an ear” (that is, he hears and believes everything).
+
+Muhammad was well known among his people as a gullible person who just listened and believed in anything people said.
+
 ## Muhammad was a sinner
 
 Surah 40:55; 47:19
@@ -144,6 +152,28 @@ Surah 40:55; 47:19
 
 > The Prophet used to copy the people of the Scriptures in matters in which there was no order from Allah.
 
+Muhammad was not only a caravan robber but a religion robber as well, picking whatever he liked from the Jews and the Christians.
+
+Surah 9:61
+
+> And among them there are those who hurt the Prophet and say, “He is just an ear” (that is, he hears and believes everything).
+
+Muhammad was well known among his people as a gullible person who just listened and believed in anything people said. So when he heard stories from the Jews and Christians that he liked, he plagiarised them and tried to pass it of as his own revelation. 
+
+Surah 25:4
+
+> The disbelievers say, “This ˹Quran˺ is nothing but a fabrication which he made up with the help of others.”
+
+They were on to something.
+
+Surah 6:25
+
+> ...Even when they come to you arguing with you, those who disbelieve say, "This is not but legends of the former peoples."
+
+His followers being ignorant didn't notice, but the Jews and Christians did and correctly said that these things were nothing new but stories that had been told for close to 600 years.
+
+Here are some of the things he copied:
+
 
 ### Muhammad copied the Lord's Prayer
 
@@ -168,12 +198,22 @@ Apart from Jesus' supplication for daily bread this prayer is suspiciously simil
 
 Coincidence? Or plagiarism?
 
-### Muhammad copied Jesus' parables
+### Muhammad copied Jesus' teachings 
+
+#### The workers if the vineyard
 
 > Allah's Messenger said, "Your example and the example of Jews and Christians is like the example of a man who employed some laborers to whom he said, 'Who will work for me up to midday for one Qirat each?' The Jews carried out the work for one Qirat each; and then the Christians carried out the work up to the Asr prayer for one Qirat each; and now you Muslims are working from the Asr prayer up to sunset for two Qirats each. The Jews and Christians got angry and said, 'We work more and are paid less.' The employer (Allah) asked them, 'Have I usurped some of your right?' They replied in the negative. He said, 'That is My Blessing, I bestow upon whomever I wish.' "
 
-This parable attributed to Muhammad is a blatant copy of Jesus' parable in Matthew 20:1-16
+This parable attributed to Muhammad is a blatant copy of Jesus' parable in Matthew 20:1-16 where Jesus tells of a vineyard owner who pays the same wage to the workers who worked all day and to the workers who only worked one hour.
 
+#### Final judgment
+
+[Sahih Muslim 2569](https://sunnah.com/muslim:2569)
+
+> Abu Huraira reported Allah's Messenger as saying:
+> Verily, Allah, the Exalted and Glorious, would say on the Day of Resurrection: O son of Adam, I was sick but you did not visit Me. He would say: O my Lord; how could I visit Thee whereas Thou art the Lord of the worlds? Thereupon He would say: Didn't you know that such and such servant of Mine was sick but you did not visit him and were you not aware of this that if you had visited him, you would have found Me by him? O son of Adam, I asked food from you but you did not feed Me. He would say: My Lord, how could I feed Thee whereas Thou art the Lord of the worlds? He said: Didn't you know that such and such servant of Mine asked food from you but you did not feed him, and were you not aware that if you had fed him you would have found him by My side? (The Lord would again say: ) O son of Adam, I asked drink from you but you did not provide Me. He would say: My Lord, how could I provide Thee whereas Thou art the Lord of the worlds? Thereupon He would say: Such and such of servant of Mine asked you for a drink but you did not provide him, and had you provided him drink you would have found him near Me.
+
+This matches Jesus teaching in Matthew 25:31-46, with the difference that Allah is judging a "son of Adam" or "son of Man", whereas in Jesus' version, Jesus **is** the Son of Man, judging humanity.  So by copying this story from the Christians, and saying that the judge is Allah when it is Jesus, Muhammad is admitting that Jesus **is** Allah/God.
 
 ### Muhammad copied Paul's writings
 
@@ -289,6 +329,20 @@ See also:
 
 
 
+## Muhammad slapped a lady
+
+[Sahih al-Bukhari 5255](https://sunnah.com/bukhari:5255)
+
+> We went out with the Prophet to a garden called Ash-Shaut till we reached two walls between which we sat down. The Prophet said, "Sit here," and went in (the garden). The Jauniyya (a lady from Bani Jaun) had been brought and lodged in a house in a date-palm garden in the home of Umaima bint An- Numan bin Sharahil, and her wet nurse was with her. When the Prophet entered upon her, he said to her, "Give me yourself (in marriage) as a gift." She said, "Can a princess give herself in marriage to an ordinary man?" The Prophet **raised his hand to pat her so that she might become tranquil**. She said, "I seek refuge with Allah from you." He said, "You have sought refuge with One Who gives refuge. Then the Prophet came out to us and said, "O Abu Usaid! Give her two white linen dresses to wear and let her go back to her family."
+
+
+So Muhammad goes to propose marriage to a lady, and she rejects him, saying he is not worthy. Sunnah.com says that he then "raised his hand to pat her so that she might become tranquil", which is a lie.
+
+The Arabic says "يَضَعُ يَدَهُ عَلَيْهَا" which means "he laid hands upon her". The meaning is not entirely clear, but to "lay hands on someone" usually indicates striking them or grasping them roughly.
+
+Since her immediate reaction to his action was to appeal to Allah for protection, "*I seek refuge with Allah from you*", we can surmise that he wasn't exactly "petting" her like a kitten to make her "tranquil". That is a deception by the translators at sunnah.com.
+
+Given what we know about Muhammad, what most likely happened is that the proud piss ant got so offended that he couldn't score another trophy wife that he immediately resorted to violence and slapped her in the face. 
 
 
 
@@ -297,8 +351,7 @@ See also:
 
 
 
-
-# Muhammad spiritual qualifications
+# Muhammad spiritual qualifications and prophethood {#prophethood}
 
 
 
@@ -320,7 +373,15 @@ See also:
 Yes, we can know what is in the womb, and also when it will rain.
 
 
+## Muhammad couldn't predict Covid-19 
 
+[Sahih al-Bukhari 1880](https://sunnah.com/bukhari:1880)
+
+> Allah's Messenger said, "There are angels guarding the entrances (or roads) of Medina, neither plague nor Ad-Dajjal will be able to enter it."
+
+Muhammad predicted that plagues (epidemic illnesses) would not be able to enter Medina. 
+
+[Turns out he was wrong](https://archive.fo/VQDJH). Perhaps those angels were off duty?
 
 
 
