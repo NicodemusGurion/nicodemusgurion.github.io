@@ -133,6 +133,25 @@ Think you have a Muslim friend? Think again. Muslims are not allowed to be your 
 > Do not greet the Jews and the Christians before they greet you and when you meet any one of them on the roads force him to go to the narrowest part of it.
 
 
+## Jews and Christians to be expelled from Arabia
+
+[Sahih Muslim 1767 a](https://sunnah.com/muslim:1767a)
+
+> I will expel the Jews and Christians from the Arabian Peninsula and will not leave any but Muslim
+
+- [](https://sunnah.com/bulugh/11/46)
+
+## Jews and Christians who don't accept Islam go to hell
+
+
+[Sahih Muslim 153](https://sunnah.com/muslim:153)
+
+> he who amongst the community of Jews or Christians hears about me, but does not affirm his belief in that with which I have been sent and dies in this state (of disbelief), he shall be but one of the denizens of Hell-Fire.
+
+See also:
+
+- [Mishkat al-Masabih 10](https://sunnah.com/mishkat:10)
+
 
 ## Muslims should listen to and learn from Christians and Jews {#listen-to-christians}
 
