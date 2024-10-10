@@ -252,3 +252,166 @@ Notice that this is not talking *about* Muhammad, but *to* Muhammad. Muhammad is
 
 
 
+
+
+# Resurrection 
+
+## The hour of resurrection 
+
+Surah 22:6-7
+
+> That is because Allâh: He is the Truth, and it is He Who gives life to the dead, and it is He Who is Able to do all things. And surely, the Hour is coming, there is no doubt about it; and certainly, Allâh will resurrect those who are in the graves.
+
+The one who is called the truth, and who will raise people to life at the hour of resurrection is God. Let's see what the Bible says.
+
+John 5:25,28,29 
+
+> “Truly, truly, I say to you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live....28 Do not marvel at this, for an hour is coming when all who are in the tombs will hear his voice 29 and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment.
+
+John 14:6 
+
+> Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.
+
+The one who is called the truth, and who will raise people to life at the hour of resurrection is Jesus. So the Quran admits that Jesus is God.
+
+
+
+# Salvation 
+
+How Muslims are saved on judgment day is confusing and contradictory.
+
+## Jews and Christians are also saved
+
+Surah 2:62
+
+> The [Muslim] believers, the Jews, the Christians, and the Sabians- all those who believe in God and the Last Day and do good- will have their rewards with their Lord. 
+
+## No ransom 
+
+Surah 2:48
+
+> Guard yourselves against a Day when no soul will stand in place of another, no intercession will be accepted for it, nor any ransom; nor will they be helped.
+
+So there will be no ransom for anyone. This contradicts [other sources saying that Muslims can be ransomed](#ransomed-from-hell). 
+
+
+## Ransomed from hell by Jews and Christians {#ransomed-from-hell}
+
+[Sahih Muslim 2767 a](https://sunnah.com/muslim:2767a)
+
+> Abu Musa' reported that Allah's Messenger said:
+> When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire.
+
+Christianity teaches that Jesus is the perfect one who does not deserve hellfire but took this punishment in stead of those who have faith in him. Some Muslims think this is unjust saying that it's wrong that someone should take the punishment for someone else's sin. However here, Allah will let Jews and Christians take the punishment for the sins of Muslims. Is that just, though?
+
+Also this implies that Jews and Christians as not sinners deserving of hell, but that Muslims are sinners deserving of hell. Otherwise, if the Jews and Christians were already in hell, the exchange could not be made. And it means Allah is thoroughly unrighteous for throwing innocent people into hell so he can save guilty people.
+
+## The Quran will come and intercede 
+
+
+See [The Quran is alive and will intercede on judgment day](#quran-intercession). It will come as a flock of birds and convince Allah to have mercy on those who read it.
+
+## Muhammad can save {#muhammad-saves}
+
+[Sahih al-Bukhari 6807](https://sunnah.com/bukhari:6807)
+
+> The Prophet said, "Whoever guarantees me what is between his legs and what is between his jaws, I guarantee him Paradise."
+
+## Muhammad can NOT save {#muhammad-saves-not}
+
+[Sahih al-Bukhari 2753](https://sunnah.com/bukhari:2753)
+
+> Allah's Messenger got up and said, "O people of Quraish! Save yourselves from the Hellfire as I cannot save you from Allah's Punishment; O Bani Abd Manaf! I cannot save you from Allah's Punishment, O Safiya, the Aunt of Allah's Messenger! I cannot save you from Allah's Punishment; O Fatima bint Muhammad! Ask me anything from my wealth, but I cannot save you from Allah's Punishment."
+
+
+## The black stone will intercede 
+
+[Jami` at-Tirmidhi 961](https://sunnah.com/tirmidhi:961)
+
+> The Messenger of Allah said about the Black Stone: "By Allah! Allah will raise it on the Day of Resurrection with two eyes by which it sees and a tongue that it speaks with, testifying to whoever touched it in truth."
+
+So Allah does not know who have and have not touched it? 
+
+The fact that "the black stone" is broken into 8 pieces held together by glue is also a big problem since there really is no black stone. Are the 8 pieces going to join together? Or are they going to each get a set of eyes and mouth?
+
+## Muhammad will intercede for those dying in Medina
+
+[Jami` at-Tirmidhi 3917](https://sunnah.com/tirmidhi:3917)
+
+> the Prophet said: "Whoever is able to die in Al-Madinah, then let him die there, for I will intercede for those who die 
+
+## Invading India or being Christian ensures salvation
+
+[Sunan an-Nasa'i 3175](https://sunnah.com/nasai:3175)
+
+> The Messenger of Allah said: 'There are two groups of my Ummah whom Allah will free from the Fire: The group that invades India, and the group that will be with 'Isa bin Maryam, peace be upon him.'"
+
+## Memorizing 99 names ensures salvation 
+
+[Sahih al-Bukhari 7392](https://sunnah.com/bukhari:7392)
+
+> Allah's Messenger said, "Allah has ninety-nine Names, one-hundred less one; and he who memorized them all by heart will enter Paradise." 
+
+
+## Allah is a fickle and arbitrary judge
+
+[Jami` at-Tirmidhi 2599](https://sunnah.com/tirmidhi:2599)
+
+> "Indeed two men among those who entered the Fire will be screaming violently.  So the Lord, Blessed and Exalted, will say: 'Take them out.'  Then when they are taken out He will say: 'What caused you to scream so violently?'
+
+Is Allah stupid or just cruel?
+
+> They will say: 'We did that so You would have mercy on us.' He will say: 'My mercy for you is that you both go and throw yourselves where you were in the Fire.' 
+
+How is it mercy to tell someone to throw themselves into hellfire? Seems like something Saw would do.
+
+> So they will go. One of them will throw himself in, and He will make it cool and peaceful for him. 
+
+How is it justice to randomly make hell comfortable for a sinner? Allah is not consistent at all.
+
+> And the other will stand there and not throw himself in, so the Lord, Mighty and Majestic, will say to him: 'What prevented you from throwing yourself in as your companion did?' He will say: 'O Lord! I hope that you will not return me to it after You have taken me out.' 
+
+Understandable. This guy doesn't play Allah's manipulative games.
+
+> So the Lord, Blessed and Exalted, will say to him: 'For you is what you hoped for,' and so they will both enter Paradise together by the mercy of Allah."
+
+So he is pardoned for not accepting Allahs "mercy" of throwing himself into hell? And the other guy was also taken with him to paradise? Allah has proven to be neither merciful, nor just, nor consistent, but fickle and arbitrary and completely illogical.
+
+
+## Being sick or injured cleanses from sins
+
+
+[Al-Adab Al-Mufrad 498](https://sunnah.com/adab:498)
+
+> It is narrated by Ayeshah that the Prophet said, "when a Muslim is afflicted by an anxiety, pain or sickness then, because of that, his sins are atoned. So much, so that if a thorn pricks him or he suffers a simple, minor injury (His sins are forgiven)”.
+
+
+
+
+
+
+
+
+# Sin
+
+## Allah predetermines adultery
+
+[Sahih Muslim 2657 b](https://sunnah.com/muslim:2657b)
+
+> Verily Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity must commit.
+
+A man who commits adultery is really only doing the will of Allah, and has no choice in it.
+
+## Who forgives sins?
+
+### Only Allah forgives sins
+
+Surah 3:135
+
+> They are those who, upon committing an evil deed or wronging themselves, remember Allah and seek forgiveness for their sins—and who forgives sins except Allah?
+
+### But Muhammad also forgives sins 
+
+Surah 46:31
+
+> Our people, respond to the one who calls you to God. Believe in Him: He will forgive you your sins and protect you from a painful torment.’

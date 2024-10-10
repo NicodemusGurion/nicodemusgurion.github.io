@@ -142,6 +142,73 @@ Not only are Muslims allowed to rape women, but can just discard them like trash
 
 
 
+## Muslims men can have sex slaves
+
+Surah 4:3 
+
+> If you fear you might fail to give orphan women their ˹due˺ rights ˹if you were to marry them˺, then marry other women of your choice—two, three, or four. But if you are afraid you will fail to maintain justice, then ˹content yourselves with˺ one or those ˹bondwomen˺ in your possession.
+
+The footnote on quran.com says "A bondwoman is **a female slave** that a man owned either through purchase or taking her captive in war".
+
+A muslim man can freely use his female slaves for sex.
+
+Surah 33:50
+
+> O Prophet! We have **made lawful** for you your wives to whom you have paid their ˹full˺ dowries as well as those ˹bondwomen˺ in your possession, whom Allah has granted you... We have ordained for the believers in relation to their wives and those ˹bondwomen˺ in their possession.
+
+"Made lawful" means that he can have sex with female slaves.
+
+Surah 23:5-6; 70:29-30
+
+> [Sucessful are the believers...] those who guard their chastity except with their wives or those [bondswomen] in their possession, for then they are free from blame
+
+This passage says that a muslim should be chaste except with their wives (plural) or "those their right hand posesses", which would be women they have taken captive in war or bought as slaves. It's allowed for muslim men to have slaves that they have sex with and these slave women can not refuse them.
+
+Surah 4:24
+
+> Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession.
+
+They're not allowed to have sex with married women **except** if these **married women** have been captured in battle. Then it is allowed to have sex with these **married women**.
+
+
+
+
+
+
+
+
+
+# Slavery
+
+See also [Muhammad and slavery](#muhammad-and-slavery), [Sex slaves](#sex-slaves)
+
+## Runaway slaves lack protection
+
+[Mishkat al-Masabih 3350](https://sunnah.com/mishkat:3350)
+
+> If any slave runs away protection does not apply to him.
+
+Compare to the Mosaic law in Deuteronomy 23:15-16:
+
+> “You shall not give up to his master a slave who has escaped from his master to you. He shall dwell with you, in your midst, in the place that he shall choose within one of your towns, wherever it suits him. You shall not wrong him.
+
+## Gifting slaves is better than freeing them
+
+[Sahih Muslim 999](https://sunnah.com/muslim:999)
+
+> Maimuna bint Harith reported that she set free a slave-girl during the lifetime of the Messenger of Allah and she made a mention of that to the Messenger of Allah and he said: Had you given her to your maternal uncles, you would have a greater reward.
+
+## Value of slaves
+
+[Muwatta Malik Book 20, Hadith 243](https://sunnah.com/urn/409590)
+
+> The value of the newly-born slave is fifty dinars, and that is one-tenth of what the blood-money for the mother would be.
+
+## Black slaves are worth half of Arab slaves {#black-slaves-worth-less}
+
+See [Muhammad traded black slaves](#black-slaves), [Racism](#racism).
+
+
 
 
 
