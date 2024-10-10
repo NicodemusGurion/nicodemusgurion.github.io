@@ -4,9 +4,8 @@ layout: page
 noindex: true
 ---
 
-{% assign all_docs = site.posts | concat: site.pages %}
-{% assign all_docs = all_docs | sort: 'date' | reverse %}
-
-{% for doc in all_docs %}
+{% for doc in site.documents %}
+{% unless doc.noindex == true %}
   <h2>{{ doc.title }} - {{doc.url}}</h2>
+{% endunless %}
 {% endfor %}
