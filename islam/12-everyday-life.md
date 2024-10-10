@@ -114,3 +114,4 @@ See also:
 - [Sunan an-Nasa'i 5241](https://sunnah.com/nasai:5241)
 - [Sahih Muslim 2103](https://sunnah.com/muslim:2103)
 - [Mishkat al-Masabih 4423](https://sunnah.com/mishkat:4423)
+- [Sunan Ibn Majah 3621](https://sunnah.com/ibnmajah:3621)

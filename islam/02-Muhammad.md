@@ -202,12 +202,16 @@ Coincidence? Or plagiarism?
 
 #### The workers if the vineyard
 
+[Sahih al-Bukhari 2269](https://sunnah.com/bukhari:2269)
+
 > Allah's Messenger said, "Your example and the example of Jews and Christians is like the example of a man who employed some laborers to whom he said, 'Who will work for me up to midday for one Qirat each?' The Jews carried out the work for one Qirat each; and then the Christians carried out the work up to the Asr prayer for one Qirat each; and now you Muslims are working from the Asr prayer up to sunset for two Qirats each. The Jews and Christians got angry and said, 'We work more and are paid less.' The employer (Allah) asked them, 'Have I usurped some of your right?' They replied in the negative. He said, 'That is My Blessing, I bestow upon whomever I wish.' "
 
 This parable attributed to Muhammad is a blatant copy of Jesus' parable in Matthew 20:1-16 where Jesus tells of a vineyard owner who pays the same wage to the workers who worked all day and to the workers who only worked one hour.
 
 See also:
 
+- [Sahih al-Bukhari 2268](https://sunnah.com/bukhari:2268)
+- [Sahih al-Bukhari 5021](https://sunnah.com/bukhari:5021)
 - [Jami` at-Tirmidhi 2871](https://sunnah.com/tirmidhi:2871)
 
 #### Final judgment
