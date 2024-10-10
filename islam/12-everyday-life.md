@@ -95,3 +95,22 @@ See also:
 [Mishkat al-Masabih 336](https://sunnah.com/mishkat:336)
 
 > God’s messenger forbade us to face the qibla when easing ourselves or passing water, or to wipe ourselves with the right hand, or to wipe ourselves with less than three stones, or to wipe ourselves with dung or bone.
+
+## Muslims must dye their hair
+
+[Sahih al-Bukhari 3462](https://sunnah.com/bukhari:3462)
+
+> Allah's Messenger said, "The Jews and the Christians do not dye (their grey hair), so you shall do the opposite of what they do (i.e. dye your grey hair and beards).
+
+See also:
+
+
+
+- [Sahih al-Bukhari 5899](https://sunnah.com/bukhari:5899)
+- [Sunan Abi Dawud 4203](https://sunnah.com/abudawud:4203)
+- [Sunan an-Nasa'i 5069](https://sunnah.com/nasai:5069)
+- [Sunan an-Nasa'i 5071](https://sunnah.com/nasai:5071)
+- [Sunan an-Nasa'i 5072](https://sunnah.com/nasai:5072)
+- [Sunan an-Nasa'i 5241](https://sunnah.com/nasai:5241)
+- [Sahih Muslim 2103](https://sunnah.com/muslim:2103)
+- [Mishkat al-Masabih 4423](https://sunnah.com/mishkat:4423)

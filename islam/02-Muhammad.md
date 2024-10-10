@@ -206,6 +206,10 @@ Coincidence? Or plagiarism?
 
 This parable attributed to Muhammad is a blatant copy of Jesus' parable in Matthew 20:1-16 where Jesus tells of a vineyard owner who pays the same wage to the workers who worked all day and to the workers who only worked one hour.
 
+See also:
+
+- [Jami` at-Tirmidhi 2871](https://sunnah.com/tirmidhi:2871)
+
 #### Final judgment
 
 [Sahih Muslim 2569](https://sunnah.com/muslim:2569)
@@ -1283,6 +1287,14 @@ While Jesus used his last moments to forgive his enemies, Muhammad used his last
 [Sahih Muslim 531](https://sunnah.com/muslim:531)
 
 >  'A'isha and Abdullah reported: As the Messenger of Allah  was about to breathe his last, he drew his sheet upon his face and when he felt uneasy, he uncovered his face and said in that very state: Let there be curse upon the Jews and the Christians that they have taken the graves of their apostles as places of worship. He in fact warned (his men) against what they (the Jews and the Christians) did.
+
+[Mishkat al-Masabih 712](https://sunnah.com/mishkat:712)
+
+> A’isha told of God's Messenger as saying in his illness from which he did not recover, “God curse the Jews and Christians! They have taken the graves of their prophets as mosques.” 
+
+See also:
+
+- [Sahih Muslim 530 b](https://sunnah.com/muslim:530b)
 
 ## What was the last action of Muhammad? {#last-actions}
 

@@ -306,6 +306,12 @@ Christianity teaches that Jesus is the perfect one who does not deserve hellfire
 
 Also this implies that Jews and Christians as not sinners deserving of hell, but that Muslims are sinners deserving of hell. Otherwise, if the Jews and Christians were already in hell, the exchange could not be made. And it means Allah is thoroughly unrighteous for throwing innocent people into hell so he can save guilty people.
 
+
+See also:
+
+- [Sahih Muslim 2767 b](https://sunnah.com/muslim:2767b)
+- [Riyad as-Salihin 432](https://sunnah.com/riyadussalihin:432)
+
 ## The Quran will come and intercede 
 
 
@@ -346,36 +352,13 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 
 > The Messenger of Allah said: 'There are two groups of my Ummah whom Allah will free from the Fire: The group that invades India, and the group that will be with 'Isa bin Maryam, peace be upon him.'"
 
-## Memorizing 99 names ensures salvation 
+## Memorising the 99 names of Allah ensures salvation 
 
 [Sahih al-Bukhari 7392](https://sunnah.com/bukhari:7392)
 
 > Allah's Messenger said, "Allah has ninety-nine Names, one-hundred less one; and he who memorized them all by heart will enter Paradise." 
 
 
-## Allah is a fickle and arbitrary judge
-
-[Jami` at-Tirmidhi 2599](https://sunnah.com/tirmidhi:2599)
-
-> "Indeed two men among those who entered the Fire will be screaming violently.  So the Lord, Blessed and Exalted, will say: 'Take them out.'  Then when they are taken out He will say: 'What caused you to scream so violently?'
-
-Is Allah stupid or just cruel?
-
-> They will say: 'We did that so You would have mercy on us.' He will say: 'My mercy for you is that you both go and throw yourselves where you were in the Fire.' 
-
-How is it mercy to tell someone to throw themselves into hellfire? Seems like something Saw would do.
-
-> So they will go. One of them will throw himself in, and He will make it cool and peaceful for him. 
-
-How is it justice to randomly make hell comfortable for a sinner? Allah is not consistent at all.
-
-> And the other will stand there and not throw himself in, so the Lord, Mighty and Majestic, will say to him: 'What prevented you from throwing yourself in as your companion did?' He will say: 'O Lord! I hope that you will not return me to it after You have taken me out.' 
-
-Understandable. This guy doesn't play Allah's manipulative games.
-
-> So the Lord, Blessed and Exalted, will say to him: 'For you is what you hoped for,' and so they will both enter Paradise together by the mercy of Allah."
-
-So he is pardoned for not accepting Allahs "mercy" of throwing himself into hell? And the other guy was also taken with him to paradise? Allah has proven to be neither merciful, nor just, nor consistent, but fickle and arbitrary and completely illogical.
 
 
 ## Being sick or injured cleanses from sins
