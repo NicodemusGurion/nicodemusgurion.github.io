@@ -114,6 +114,10 @@ table th:before {
 
 
 /* Basic styles for the list and links */
+ul {
+  padding-bottom:0;
+}
+
 #markdown-toc li {
   font-size:21pt;
   padding-inline-start: 1em;
