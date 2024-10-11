@@ -120,13 +120,13 @@ table th:before {
 }
 
 #markdown-toc li li{
-  font-size:13pt;
+  font-size:14pt;
 }
 
 #markdown-toc li li li{
-  font-size:8pt;
+  font-size:9pt;
 }
 
 #markdown-toc li li li li {
-  font-size:5pt;
+  font-size:6pt;
 }
