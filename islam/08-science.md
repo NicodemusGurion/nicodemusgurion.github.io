@@ -3,12 +3,9 @@ title: Islam and Science
 permalink: /islam/science/
 ---
 
-# Islam and science 
-{:.no_toc}
+# [< Index](/islam/)
 
 {% include toc.md %}
-
-Coinkydink
 
 # Cosmology
 
