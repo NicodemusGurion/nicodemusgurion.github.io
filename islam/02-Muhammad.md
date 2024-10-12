@@ -1,7 +1,6 @@
 ---
 title: Muhammad 
 permalink: /islam/muhammad/
-layout: default
 ---
 
 ## [< Index](/islam/)

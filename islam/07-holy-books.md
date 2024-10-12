@@ -1,5 +1,5 @@
 ---
-Title: Holy books
+title: Holy books
 permalink: /islam/holy-books/
 ---
 
