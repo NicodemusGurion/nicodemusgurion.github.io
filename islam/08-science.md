@@ -4,6 +4,7 @@ permalink: /islam/science/
 ---
 
 # [< Index](/islam/)
+{:.notoc}
 
 {% include toc.md %}
 
