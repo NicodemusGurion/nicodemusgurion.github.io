@@ -8,7 +8,7 @@ permalink: /islam/science/
 
 {% include toc.md %}
 
-
+Coinkydink
 
 # Cosmology
 
