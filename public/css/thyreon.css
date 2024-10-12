@@ -121,6 +121,7 @@ ul {
 #markdown-toc li {
   font-size:21pt;
   padding-inline-start: 1em;
+  padding-left:0px;
 }
 
 #markdown-toc li li{
