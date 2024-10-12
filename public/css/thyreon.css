@@ -120,6 +120,7 @@ ul {
 
 #markdown-toc li {
   font-size:21pt;
+  margin-left: 0px;
   padding-left:0px;
   padding-bottom: 0px;
 }
