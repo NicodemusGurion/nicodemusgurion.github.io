@@ -4,8 +4,8 @@ layout: page
 noindex: true
 ---
 
-{% for doc in site.documents %}
+{% for doc in site.pages | append: site.posts %}
 {% unless doc.noindex == true %}
-  <h2>{{ doc.title }} - {{doc.url}} - {{ doc.path}}</h2>
+  <h2>{{ doc.title }} - {{doc.url}} - {{ doc.path }}</h2>
 {% endunless %}
 {% endfor %}
