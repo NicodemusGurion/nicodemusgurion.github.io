@@ -3,7 +3,7 @@ title: Weird stuff
 permalink: /islam/weird/
 ---
 
-# Weird and miscellaneous stuff 
+## [< Index](/islam/)
 {:.no_toc}
 
 {% include toc.md %}

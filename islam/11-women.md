@@ -3,7 +3,7 @@ title: Women
 permalink: /islam/women
 ---
 
-# Islam's view of women 
+## [< Index](/islam/)
 {:.no_toc}
 
 {% include toc.md %}

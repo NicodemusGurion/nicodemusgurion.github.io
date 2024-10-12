@@ -3,7 +3,7 @@ title: General Islamic Theology
 permalink: /islam/theology/
 ---
 
-# General Islamic theology 
+## [< Index](/islam/)
 {:.no_toc}
 
 

@@ -3,7 +3,7 @@ title: Everyday life as a muslim
 permalink: /islam/life
 ---
 
-# Everyday life as a Muslim 
+## [< Index](/islam/)
 {:.no_toc}
 
 {% include toc.md %}

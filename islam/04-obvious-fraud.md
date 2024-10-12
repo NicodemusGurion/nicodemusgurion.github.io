@@ -3,7 +3,7 @@ title: Obvious fraud
 permalink: /islam/fraud/
 ---
 
-# Obvious fraud
+## [< Index](/islam/)
 {:.no_toc}
 
 

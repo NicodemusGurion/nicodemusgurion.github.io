@@ -3,7 +3,7 @@ Title: Holy books
 permalink: /islam/holy-books/
 ---
 
-# Holy books
+## [< Index](/islam/)
 {:.no_toc}
 
 {% include toc.md %}

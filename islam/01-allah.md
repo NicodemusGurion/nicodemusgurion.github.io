@@ -3,7 +3,7 @@ title: Allah
 permalink: /islam/allah/
 ---
 
-# Allah - the god of Islam
+## [< Index](/islam/)
 {:.no_toc}
 
 {% include toc.md %}

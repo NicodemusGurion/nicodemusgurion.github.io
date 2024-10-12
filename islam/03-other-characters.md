@@ -3,7 +3,7 @@ title: Other important persons
 permalink: /islam/vip/
 ---
 
-# Other important persons in Islam 
+## [< Index](/islam/)
 {:.no_toc}
 
 {% include toc.md %}

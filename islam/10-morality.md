@@ -3,7 +3,7 @@ title: Islam's morality
 permalink: /Islam/morals/
 ---
 
-# Morals according to Islam
+## [< Index](/islam/)
 {:.no_toc}
 
 {% include toc.md %}

@@ -3,8 +3,8 @@ title: Islam and Science
 permalink: /islam/science/
 ---
 
-# [< Index](/islam/)
-{:.notoc}
+## [< Index](/islam/)
+{:.no_toc}
 
 {% include toc.md %}
 
