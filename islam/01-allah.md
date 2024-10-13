@@ -54,7 +54,7 @@ At the same time Surah 39:4 says:
 
 > God could have chosen any of His creation He willed for offspring
 
-So on the one hand Allah could just "choose" a creation as his offspring, but on the other hand he would need a spouse to cproduce offspring. Neither of those are correct, [and they contradict.](#contradictions)
+So on the one hand Allah could just "choose" a creation as his offspring, but on the other hand he would need a spouse to produce offspring. Neither of those are correct, [and they contradict.](/islam/errors/#contradictions)
 
 ## Allah's Godship 
 
@@ -128,7 +128,7 @@ Surah 4:157
 
 Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is deceptive.
 
-This is also a verse that proves Islam is historically false, for [the crucifixion of Jesus is the most well documented event in ancient history.](#no-crucifixion)
+This is also a verse that proves Islam is historically false, for contrathe crucifixion of Jesus is the most well documented event in ancient history.](satan/islam/errors/#no-crucifixion)
 
 Surah 3:54
 
@@ -315,7 +315,7 @@ Allah sits on a throne in heaven.
 See also: 
 
 - [Jami` at-Tirmidhi 3045](https://sunnah.com/tirmidhi:3045)
-- [The throne of Satan is upon the water](#satan-water-throne)
+- [The throne of Satan is upon the water](/islam/vip/#satan-water-throne)
 
 ### Allah's throne can be shaken by human affairs {#shaking-throne}
 
@@ -342,7 +342,7 @@ See also:
 
 > Allah descends every night to the lowest heaven when one-third of the first part of the night is over (3 am) and says: I am the Lord; I am the Lord: who is there to supplicate Me so that I answer him? Who is there to beg of Me so that I grant him? Who is there to beg forgiveness from Me so that I forgive him? He continues like this till the day breaks.
 
-Allah doesn't know how time zones work. If he comes down every night at 3am, and leave at daybreak, in what time zone is he? It would mean that in one time zone he is descending while in another time zone he is ascending, at the same time. Therefore Allah is always somewhere in our atmosphere at all times, yet he is unable to enter our world, and he is [also located on his throne?](#allah-is-limited-to-one-location) How does it work?
+Allah doesn't know how time zones work. If he comes down every night at 3am, and leave at daybreak, in what time zone is he? It would mean that in one time zone he is descending while in another time zone he is ascending, at the same time. Therefore Allah is always somewhere in our atmosphere at all times, yet he is unable to enter our world, and he is [also located on his throne?](/islam/allah/#not-omnipresent) How does it work?
 
 
 
