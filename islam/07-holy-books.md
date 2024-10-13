@@ -85,7 +85,7 @@ Would Allah order people to observe corrupted books? Obviously not. So these boo
 See also [the Bible](#bible).
 
 
-# The Quran is only meant for the Arabs
+## The Quran is only meant for the Arabs
 
 Surah 42:7
 
