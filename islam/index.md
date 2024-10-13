@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: menu
 title: What does Islam teach?
 ---
 
