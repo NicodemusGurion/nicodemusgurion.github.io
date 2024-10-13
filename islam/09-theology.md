@@ -79,6 +79,12 @@ So apparently all people, including all Muslims, will go to hell. It's up to the
 
 > In Medina a group of Jinn have embraced Islam
 
+Surah 46:29-31
+
+> ˹Remember, O  Prophet,˺ when We sent a group of jinn your way to listen to the Quran. Then, upon hearing it, they said ˹to one another˺, “Listen quietly!” Then when it was over, they returned to their fellow jinn as warners. They declared, “O our fellow jinn! We have truly heard a scripture revealed after Moses, confirming what came before it. It guides to the truth and the Straight Way. O  our fellow jinn! Respond to the caller of Allah and believe in him, He will forgive your sins and protect you from a painful punishment.
+
+
+If demons wants you to follow Islam, that should be enough for you to understand that it's false.
 
 
 
