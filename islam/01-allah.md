@@ -88,7 +88,7 @@ Surah 68:42
 > Such people will try to prostrate (on the Day of Judgment) but their back swill be as stiff as if it is one bone
 
 
-## Allah is unable to receive prayers at certain times 
+### Allah is unable to receive prayers at certain times 
 
 [Sahih al-Bukhari 582, 583](https://sunnah.com/bukhari:582)
 
