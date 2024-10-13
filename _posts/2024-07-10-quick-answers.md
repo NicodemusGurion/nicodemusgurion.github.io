@@ -12,6 +12,11 @@ Since Muslim debaters never put any thought into their incoherent contradictory 
 # Holy books
 
 
+
+
+
+
+
 ## "The Bible has been corrupted"
 
 Today we have 4 complete Bibles from the 4th century. They are two hundred years older than Islam and they are identical in content with modern Bibles. This alone proves there has been no changes.
