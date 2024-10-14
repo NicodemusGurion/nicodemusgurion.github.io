@@ -343,7 +343,7 @@ Surah 4:47
 
 Surah 5:44
 
-> Verily, **We did send down the Taurât (Torah) [to Mûsâ (Moses)], therein was guidance and light, by which the Prophets, who submitted themselves to Allâh’s Will, judged for the Jews.** And the rabbis and the priests [too judged for the Jews by the Taurât (Torah) after those Prophets], for to them was entrusted the protection of Allâh’s Book, and they were witnesses thereto. Therefore fear not men but fear Me (O Jews) and **sell not My Verses for a miserable price**. And **whosoever does not judge by what Allâh has revealed, such are the Kâfirûn** (i.e. disbelievers - of a lesser degree as they do not act on Allâh’s Laws).
+> Verily, **We did send down the Taurât (Torah) [to Mûsâ (Moses)], therein was guidance and light, by which the Prophets, who submitted themselves to Allâh’s Will, judged for the Jews.** And the rabbis and the priests [too judged for the Jews by the Taurât (Torah) after those Prophets], for to them was entrusted the protection of **Allâh’s Book**, and they were witnesses thereto. Therefore fear not men but fear Me (O Jews) and **sell not My Verses for a miserable price**. And **whosoever does not judge by what Allâh has revealed, such are the Kâfirûn** (i.e. disbelievers - of a lesser degree as they do not act on Allâh’s Laws).
 
 They Torah is from Allah, the Quran confirms it, and those who do not judge by it are Kafirs.
 
