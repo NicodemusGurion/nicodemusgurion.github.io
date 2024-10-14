@@ -1,6 +1,6 @@
 ---
 title: Everyday life as a muslim
-permalink: /islam/life
+permalink: /islam/life/
 ---
 
 ## [< Index](/islam/)
