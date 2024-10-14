@@ -8,8 +8,9 @@ permalink: /islam/women/
 
 {% include toc.md %}
 
+## Violence against women
 
-## Wife beating is allowed in Islam {#domestic-abuse}
+### Wife beating is allowed in Islam {#domestic-abuse}
 
 Surah 4:34
 
@@ -17,7 +18,7 @@ Surah 4:34
 
 This is if a man even only fears his wife would be disobedient.
 
-## Never ask why a man beats his wife  {#dont-question-wife-beater}
+### Never ask why a man beats his wife  {#dont-question-wife-beater}
 
 [Sunan Ibn Majah 1986](https://sunnah.com/ibnmajah:1986)
 
@@ -25,7 +26,7 @@ This is if a man even only fears his wife would be disobedient.
 
 Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 
-## Muhammad insults victims of domestic abuse
+### Muhammad insults victims of domestic abuse
 
 [Sunan Abi Dawud 2146 (Sahih)](https://sunnah.com/abudawud:2146)
 
@@ -34,7 +35,7 @@ Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 At first it seems Muhammad was against wife beating, but being a pushover milquetoast with no backbone, one sentence by Umar made him change his mind. Instead he started promoting wife beating and said that women who complained about being beaten were "not the best among you."
 
 
-## Abu Bakr hit Aisha
+### Abu Bakr hit Aisha
 
 [Sahih al-Bukhari 6845](https://sunnah.com/bukhari:6845)
 
@@ -42,7 +43,7 @@ At first it seems Muhammad was against wife beating, but being a pushover milque
 
 So it's ok to just go punch some other man's wife too?
 
-## Muhammad hit Aisha
+### Muhammad hit Aisha
 
 
 [Sahih Muslim 974b](https://sunnah.com/muslim/11/132)
@@ -62,7 +63,7 @@ However the Arabic says:
 So Muhammad gets pissy and slaps his wife in the chest so hard that it hurt her. This is in harmony with Surah 4:34 which allows men to beat their wives for any reason. So I don't understand why the people at Sunnah.com feels so ashamed over this that they feel they must rewrite it to deceive people about their religion. Maybe because sane people would reject their abusive cult if they knew. Without lies Islam dies.
 
 
-## No women has it worse than Muslim women {#muslimas-treated-worst}
+### No women has it worse than Muslim women {#muslimas-treated-worst}
 
 [Sahih al-Bukhari 5825](https://sunnah.com/bukhari:5825)
  
@@ -70,7 +71,9 @@ So Muhammad gets pissy and slaps his wife in the chest so hard that it hurt her.
 
 Even Aisha, the "mother of the believers", admits that no women are treated as poorly as Muslim women. This muslima was beaten so severely that her bruises were greener than her green veil.
 
-## Women should be circumcised 
+## Sexual abuse
+
+### Women should be circumcised 
 
 [Al-Adab Al-Mufrad 53:2](https://sunnah.com/adab/53/2)
 
@@ -80,19 +83,19 @@ Even Aisha, the "mother of the believers", admits that no women are treated as p
 
 > the daughters of 'A'isha's brother were circumcised
 
-## Women are to be plowed like a field {#plowing-women}
+### Women are to be plowed like a field {#plowing-women}
 
 Surah 2:223 
 
 > Your wives are your fields, so plow into your fields whichever way you like
 
-## Wives must always be ready to please their husbands
+### Wives must always be ready to please their husbands
 
 [Sunan Ibn Majah 1853](https://sunnah.com/ibnmajah:1853)
 
 > No woman can fulfill her duty towards Allah until she fulfills her duty towards her husband. If he asks her (for intimacy) even if she is on her camel saddle, she should not refuse.
 
-## Islam allows child marriage {#pedophilia-ok}
+### Islam allows child marriage {#pedophilia-ok}
 
 Surah 65:4
 
@@ -106,7 +109,9 @@ There's a waiting period a divorced woman has to wait before she can remarry.
 
 This means men are allowed to marry and divorce prepubescent girls.
 
-## Most people in hell are women {#most-in-hell-women}
+## General view on women 
+
+### Most people in hell are women {#most-in-hell-women}
 
 [Sunan an-Nasa'i 1493](https://sunnah.com/nasai:1493)
 
@@ -122,7 +127,7 @@ See also:
 
 - [Sahih al-Bukhari 29](https://sunnah.com/bukhari:29)
 
-## Women are "deficient in intelligence"
+### Women are "deficient in intelligence"
 
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
@@ -131,7 +136,7 @@ See also:
 See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
 
 
-## The testimony of a woman is worth half that of a man
+### The testimony of a woman is worth half that of a man
 
 Surah 2:282
 
@@ -145,7 +150,7 @@ In Islam, women are considered to be half as intelligent and trustworthy as a ma
 
 See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
 
-## Women are "deficient in religion"
+### Women are "deficient in religion"
 
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
@@ -155,7 +160,7 @@ See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
 
 So since women can't pray or fast during their period, they are seen as deficient. Therefore ["most people in hell are women"](#most-in-hell-women) But it is Allah who made women that way, so it is Allah's fault if this would be the case. What an absolute arsehole.
 
-## Women are equal to donkeys, dogs and pigs
+### Women are equal to donkeys, dogs and pigs
 
 [Sahih al-Bukhari 511](https://sunnah.com/bukhari:511)
 
@@ -171,7 +176,7 @@ See also:
 - [Sahih al-Bukhari 519](https://sunnah.com/bukhari:519)
 
 
-## Women are cursed for plucking their eyebrows, getting tattoos, or orthodontics 
+### Women are cursed for plucking their eyebrows, getting tattoos, or orthodontics 
 
 [Riyad as-Salihin 1646](https://sunnah.com/riyadussalihin:1646)
 
@@ -179,19 +184,19 @@ See also:
 
 In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#pedophilia-ok) are allowed, but if a woman plucks her eyebrows she is cursed?
 
-## Women are a source of trouble
+### Women are a source of trouble
 
 [Riyad as-Salihin 1675](https://sunnah.com/riyadussalihin:1675)
 
 > The Messenger of Allah said, "There is no infection and no evil omen; but if there is anything (that may be a source of trouble) then it could be a house, a horse, and a woman."
 
-## Women are devils 
+### Women are devils 
 
 [Mishkat al-Masabih 3105](https://sunnah.com/mishkat:3105)
 
 > God’s Messenger [said], “A woman advances in the form of a devil and retires in the form of a devil.
 
-## Men are not allowed to wash themselves with the same water a woman has used
+### Men are not allowed to wash themselves with the same water a woman has used
 
 [Sunan an-Nasa'i 343](https://sunnah.com/nasai:343)
 
