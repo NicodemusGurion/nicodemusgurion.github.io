@@ -1,6 +1,6 @@
 ---
-title: Women
-permalink: /islam/women
+title: Islam's view of women
+permalink: /islam/women/
 ---
 
 ## [< Index](/islam/)
