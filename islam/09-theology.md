@@ -286,6 +286,16 @@ The one who is called the truth, and who will raise people to life at the hour o
 
 How Muslims are saved on judgment day is confusing and contradictory.
 
+
+## Muslims are saved by works
+
+Surah 13:29; 18:107; 22:50; 30:15 32:19; 98:7
+
+> And those who have believed and done righteous deeds - for them is forgiveness and noble provision.
+
+Islam is a works-righteousness religion. And as such it can't save, because none of our deeds are good enough to bribe God.
+
+
 ## Jews and Christians are also saved
 
 Surah 2:62
