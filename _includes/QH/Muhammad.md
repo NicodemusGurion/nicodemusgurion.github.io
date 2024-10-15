@@ -700,7 +700,7 @@ So which is it? Muhammad never did any miracles, or Muhammad did miracles? This 
 
 ## Muhammad and sex
 
-### Mohammed was a pedophile {#child-sexual-abuse}
+### Muhammad was a pedophile {#child-sexual-abuse}
 
 [Sunan an Nasa'i 3378](https://sunnah.com/nasai:3378)
 

@@ -1187,7 +1187,7 @@ Notice that Allah and Muhammad decide on things **together**, and the are equal 
 
 > "I heard 'Amr bin Al-Harith say: 'I saw the Messenger of Allah and he left nothing behind except his white mule, his weapon and some land which he left as a charity.'"
 
-## Muhammad was worshipped by his contemporaries {#mohammad-worship}
+## Muhammad was worshipped by his contemporaries {#muhammad-worship}
 
 [Sunan Ibn Majah 1627](https://sunnah.com/ibnmajah:1627)
 
