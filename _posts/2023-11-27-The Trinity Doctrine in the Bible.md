@@ -12,9 +12,9 @@ The Trinity Doctrine is probably the most misunderstood and attacked Christian d
 [ ![](/public/img/Trinity-Shield-With-Legend.png) ](/public/img/Trinity-Shield-With-Legend-big.png)
 
 
-# The Trinity in the Bible
-
 Here is a list of scriptures that harmonize with or prove the trinity doctrine, along with explanations as to what part of the doctrine they touch on.
+
+# Old Testament 
 
 ## Genesis 1: 1-3 
 
@@ -216,6 +216,12 @@ This whole pasaage is about how Job was looking forwards to "**see God..for myse
 
 This proves the deity of Christ.
 
+## Psalm 9: 7,8
+
+> But the LORD (Jehovah) sits enthroned forever; he has established his throne for justice, 8 and **he judges the world with righteousness**; he judges the peoples with uprightness.
+
+In this verse the Lord Jehovah is the one who **judges the world with righteousness**, and in Acts 17:31, Paul explains that the one who **judges the world with righteousness** is Jesus. This identifies Jesus with Jehovah. 
+
 ## Psalms 44: 21
 
 > Will not God discover this? He is aware of the secrets of the heart.
@@ -247,6 +253,19 @@ This scripture tellsnus that Jehovah God is the highest over all the earth. [Phi
 > You rule the raging of the sea; when its waves rise, you still them.
 
 Jehovah has the power to control the weather and to still the sea. When Jesus did this in [Mark 4:39-41](#mark-4-39-41) and [Matthew 8:26,27](#matthew-8-26-27) the disciples wereastonished at Jesus doung this because only Jehovah can do this. This proves that Jesus is Jehovah.
+
+
+## Psalms 96: 13
+
+> ... before the LORD (Jehovah), for **he comes**, for he comes to judge the earth. **He will judge the world in righteousness**, and the peoples in his faithfulness.
+
+In this verse the Lord Jehovah is the one who will **come** and **judge the world with righteousness**, and in Acts 17:31, Paul explains that the one who **judges the world with righteousness** is Jesus. Jesus is also the one who **comes**. This identifies Jesus with Jehovah. 
+
+## Psalm 98: 9
+
+> ...before the LORD (Jehovah), for **he comes** to judge the earth. He **will judge the world with righteousness**, and the peoples with equity.
+
+In this verse the Lord Jehovah is the one who will **come** and **judge the world with righteousness**, and in Acts 17:31, Paul explains that the one who **judges the world with righteousness** is Jesus. Jesus is also the one who **will come**. This identifies Jesus with Jehovah. 
 
 ## Psalm 102: 25-27 
 
@@ -466,6 +485,8 @@ Forgiveness belongs to God alone. He is the only one with the absolute right to 
 > “And I will pour out on the house of David and on the inhabitants of Jerusalem the Spirit of grace and of pleading, so that they will look at Me whom they pierced; and they will mourn for Him, like one mourning for an only son, and they will weep bitterly over Him like the bitter weeping over a firstborn.
 
 In this verse Jehovah God says **they will look at Me whom they pierced**. How can an immaterial God be pierced unless he takes on a human body? This is a prophecy pointing forward to the crucifixion of Jesus, because Jesus is the Jehovah that they pierced. This proves the deity of Christ.
+
+# New Testament 
 
 ## Malachi 3: 1 
 
@@ -831,6 +852,12 @@ Hence, the Holy Spirit is Lord and God, and is a person with a self-identity and
 > While they were worshiping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.”
 
 In this verse the Holy Spirit speaks, refers to himself, and makes commands according to his own decisions. It shows he has a sense of self, the ability to make decisions, a will, and the ability to communicate his will. These are all abilities only persons have. He is also speaking with the authority of God.
+
+## Acts 17: 31
+
+> because he has fixed a day on which **he will judge the world in righteousness by a man whom he has appointed**; and of this he has given assurance to all by raising him from the dead.”
+
+Paul is explaining that God will **judge the world in righteousness** by Jesus coming as the judge. Psalms 9:8;96:13 and 98:9 sows us that the one who will come and **judge the world in righteousness** is Jehovah. This equates Jesus with Jehovah.
 
 ## Acts 20: 28 
 
