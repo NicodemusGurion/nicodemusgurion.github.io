@@ -5,10 +5,10 @@ noindex: true
 ---
 {% capture string_with_newlines %}
 {% assign wordList = ""  %}
-{% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|"  %}     
+{% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|lt|index|"  %}     
 {% assign postCounter = 0 %}
 "postlist": [
-{% for post in site.pages | append: site.posts  %}{% if doc.noindex == true %}{% continue %}{% endif %}
+{% for post in site.posts  %}
 { "title": {{ post.title | jsonify }}, "url": {{ post.url | jsonify }}, "thumb": {{ post.thumb | jsonify }} }{% unless forloop.last %},{% endunless -%}
 {%   assign content = post.content | remove: "'" | remove: "’" | remove: "ʹ" | remove: "·"  %}
 {%   assign words = content | strip_html | normalize_whitespace | slugify: "latin" | split: "-" %} 
