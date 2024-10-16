@@ -8,12 +8,41 @@ Since Muslim debaters never put any thought into their incoherent contradictory 
 
 [TOC]
 
+# The trinity doesn't make sense
+
+That something doesn't make sense to you does not mean that it's false. It just means that you don't understand it.
+
+Surah 42:11 says that "There is nothing like Allah", so why would you expect God to be just like simple things you can touch and see in this world? 
+
+# Where did Jesus say I am God, worship me?
+
+Does saying "I am God, worship me" means that someone is God? If I tell you "I am God, worship me", would you fall down and worship me as God?
+
+# How can God die?
+
+What do you mean by "die"?
+Can God cease to exist?
+No.
+Can God create for himself a human body so that he can experience human death?
+Of course.
+Otherwise he wouldn't be almighty.
+
+# If Jesus died for our sins, can I sin as much as I want?
+
+
+Jesus died for your sins, but you must accept his sacrifice, and follow him as Lord. If you don't accept his gift, you don't own it, do you? If you accept it but disrespect it, do you really want it?
+
+If you continue in sin after being saved, are you showing gratitude for your gift? No. If you are not feeling gratitude for your gift, it means you reject it, doesn't it?
+
+Accepting Jesus sacrifice requires repentance. Repentance means to change your mind from doing your own will to doing God's will. So if you go on sinning you show that you have not repented.
+
+Real repentance results in changed behavior. James 2:26 says "Faith without works is dead", meaning if your faith does not show in your behavior, it's false faith.
+
+1 John 3:6 says "No one who abides in him keeps on sinning; no one who keeps on sinning has either seen him or known him." If you keep sinning it means you don't know Jesus.
+
+
 
 # Holy books
-
-
-
-
 
 
 
@@ -78,7 +107,9 @@ Sahih Muslim 2767 a "When it will be the Day of Resurrection Allah would deliver
 
 Islam teaches that Muslims are ransomed from hell by Allah sending innocent Jews of Christians in their place. So by your own words you condemn Allah as an unjust god.
 
-Muslims say that Jesus wasn't crucified because Allah replaced him with someone else who died instead. So Allah let's an innocent man be a ransom for Jesus?
+Muslims say that Jesus wasn't crucified because Allah replaced him with someone else who died instead. So Allah lets an innocent man be a ransom for Jesus?
+
+Surah 35:18 says "No soul burdened with sin will bear the burden of another." But Jesus had no burden of sin, which is why he COULD bear the burden of others. (Sahih al Bukhari 3431)
 
 ### "The crucifixion is pagan human sacrifice"
 
