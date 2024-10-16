@@ -390,7 +390,6 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 
 
 
-
 # Sin
 
 ## Allah predetermines adultery

@@ -75,6 +75,12 @@ Surah 5:68
 Would Allah order people to observe corrupted books? Obviously not. So these books can not be corrupted.
 
 
+## Christians must judge by the gospel
+
+Surah 5:47
+
+> So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
+
 
 
 
@@ -101,7 +107,7 @@ Surah 26:198,199
 
 > And if We had revealed it unto one of any other nation than the Arabs, and he had read it unto them, they would not have believed in it.
 
-Allah is saying that if Muhammad had gone to Bob-Arabs, they would not believe him. Are non-Sarah's not as gullible as Arabs, or what? This is a prediction by Allah that proved to be false, since many non-Arabs have accepted Islam, even from Muhammad directly.
+Allah is saying that if Muhammad had gone to non-Arabs, they would not believe him. Are non-Arabs not as gullible as Arabs, or what? This is a prediction by Allah that proved to be false, since many non-Arabs have accepted Islam, even from Muhammad directly.
 
 
 ## The original Quranic manuscripts were burned 
@@ -264,7 +270,7 @@ See also:
 
 # Verses where the Quran affirms the Bible
 
-Surah 2:4,41,89,91,97,101;3:3-4,23,81,93,184;4:47;5:44,48,66,68;6:91-92;10:37,94;12:111;16:43;20:133;21:7,105;26:196;28:48-49;35:25,31;37:37;40:53;46:12,30;87:18-19 
+Surah 2:4,41,89,91,97,101;3:3-4,23,81,93,184;4:47;5:44,46,48,66,68;6:91-92;10:37,94;12:111;16:43;20:133;21:7,105;26:196;28:48-49;35:25,31;37:37;40:53;46:12,30;87:18-19 
 
 These verses shows that according to the Quran:
 
@@ -347,6 +353,15 @@ Surah 5:44
 
 They Torah is from Allah, the Quran confirms it, and those who do not judge by it are Kafirs.
 
+Surah 5:45
+
+> And those who do not judge by what Allah has revealed are ˹truly˺ the wrongdoers
+
+Surah 5:46
+
+> Then in the footsteps of the prophets, We sent Jesus, son of Mary, **confirming the Torah revealed before him**. And We gave him the Gospel containing guidance and light and confirming what was revealed in the Torah—a guide and a lesson to the God-fearing.
+
+Islam even teaches that Jesus confirmed the previous revelation.
 
 Surah 5:48
 
