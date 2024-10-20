@@ -26,6 +26,12 @@ This is if a man even only fears his wife would be disobedient.
 
 Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 
+### Flogging your wife is ok as long as you don't have sex with her afterwards
+
+[Sahih al-Bukhari 5204](https://sunnah.com/bukhari:5204)
+
+> The Prophet said, "None of you should flog his wife as he flogs a slave and then have sexual intercourse with her in the last part of the day."
+
 ### Muhammad insults victims of domestic abuse
 
 [Sunan Abi Dawud 2146 (Sahih)](https://sunnah.com/abudawud:2146)

@@ -46,6 +46,11 @@ permalink: /islam/theology/
 
 > Allah's Messenger has said, 'The dead person is tortured by the crying of his relatives?"
 
+[Riyad as-Salihin 1657](https://sunnah.com/riyadussalihin:1657)
+
+> The Prophet said, "The deceased is tortured in his grave for bewailing over him."
+
+
 
 
 
@@ -65,9 +70,6 @@ Surah 19:71
 
 So apparently all people, including all Muslims, will go to hell. It's up to the iffy and contradictory means of [salvation](#salvation) that anyone would get out of there.
 
-[Riyad as-Salihin 1657](https://sunnah.com/riyadussalihin:1657)
-
-> The Prophet said, "The deceased is tortured in his grave for bewailing over him."
 
 
 
@@ -302,7 +304,7 @@ Surah 2:62
 
 > The [Muslim] believers, the Jews, the Christians, and the Sabians- all those who believe in God and the Last Day and do good- will have their rewards with their Lord. 
 
-## No ransom 
+## No ransom will be accepted for another person {#no-ransom}
 
 Surah 2:48
 

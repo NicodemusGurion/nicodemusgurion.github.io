@@ -208,7 +208,11 @@ Compare to the Mosaic law in Deuteronomy 23:15-16:
 
 See [Muhammad traded black slaves](#black-slaves), [Racism](#racism).
 
+## You may flog your slaves (and your wife) {#flog-slaves}
 
+[Sahih al-Bukhari 5204](https://sunnah.com/bukhari:5204)
+
+> The Prophet said, "None of you should flog his wife as he flogs a slave and then have sexual intercourse with her in the last part of the day."
 
 
 
