@@ -1,6 +1,6 @@
 ---
 title: Islam's morality
-permalink: /Islam/morals/
+permalink: /islam/morals/
 ---
 
 ## [< Index](/islam/)
