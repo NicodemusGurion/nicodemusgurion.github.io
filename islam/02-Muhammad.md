@@ -100,7 +100,11 @@ Note that Sunnah.com often adds to and changes translations that are too embarra
 Deuteronomy 22:5 says “A woman shall not wear a man’s garment, nor shall a man put on a woman’s cloak, for whoever does these things is an abomination to the LORD your God."
 
 
+[Al-Adab Al-Mufrad 600](https://sunnah.com/adab:600)
 
+> Sa'id ibn al-'As reported that 'Uthman and 'A'isha told him that Abu Bakr asked for permission to come in to the Messenger of Allah, may Allah bless him and grant him peace, while he was lying of 'A'isha's bed, wearing 'A'isha's woollen shirt. He gave Abu Bakr permission to enter while he was like that. he gave him what he needed and then Abu Bakr left. Then 'Umar, may Allah be pleased with him, asked for permission to come in and he gave him permission to come in while he was like that. He gave him what he needed and then 'Umar left. 'Uthman said, "Then I asked for permission to come in and he sat up and told 'A'isha, 'Take your garment.' I told him what I needed and then I left.' 'A'isha asked, 'Messenger of Allah, why did I see that you did not do for Abu Bakr and 'Umar what you did for 'Uthman?' The Messenger of Allah, may Allah bless him and grant him peace, said, ''Uthman is a modest man and I feared that if I gave him permission to come in while I was in that state he would not tell me what he needed.'"
+
+So here Muhammad is wearing the clothes of Aisha, and even entertaining guests, namely Abu Bakr and Umar. However when Uthman shows up, Muhammad quickly takes off Aishas clothes, and the reason is that Uthman was considered a "modest man" and Muhammad didn't wish to offend him. So Muhammad knew that him wearing these clothes was something offensive and shameful. But as long as he is with his buddies who don't really care about his various perversions, it's all ok.
 
 
 # Muhammad's character
@@ -393,6 +397,12 @@ Muhammad predicted that plagues (epidemic illnesses) would not be able to enter 
 
 
 
+## Muhammad couldn't even remember his own nonsense
+
+
+[Sahih al-Bukhari 5038](https://sunnah.com/bukhari:5038)
+
+> Allah's Messenger heard a man reciting the Qur'an at night, and said, "May Allah bestow His Mercy on him, as he has reminded me of such-and-such Verses of such-and-such Suras, which I was caused to forget."
 
 
 
