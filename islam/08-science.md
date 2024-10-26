@@ -125,7 +125,17 @@ See also:
 🤮
 
 
+## Eat food from the ground and lick your fingers 
 
+[Riyad as-Salihin 751](https://sunnah.com/riyadussalihin:751)
+
+> The Messenger of Allah said, "Satan appears at every thing done by you; he appears even at one's dinner. **When a morsel of any of you falls, he should pick it up and remove any dirt on it, and then eat it.** He should not leave it for Satan, nor should he wipe his hand with the towel until he has **licked his fingers**, for he does not know in what portion of the food the blessing lies."
+
+
+See also: 
+
+- [Riyad as-Salihin 752](https://sunnah.com/riyadussalihin:752)
+- [Sunan Ibn Majah 3278](https://sunnah.com/ibnmajah:3278)
 
 ## The coccyx does not decay {#coccyx}
 

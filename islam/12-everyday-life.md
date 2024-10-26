@@ -115,3 +115,18 @@ See also:
 - [Sahih Muslim 2103](https://sunnah.com/muslim:2103)
 - [Mishkat al-Masabih 4423](https://sunnah.com/mishkat:4423)
 - [Sunan Ibn Majah 3621](https://sunnah.com/ibnmajah:3621)
+
+## Don't drink or eat while standing, or you have to vomit
+
+[Sahih Muslim 2026](https://sunnah.com/muslim:2026)
+
+> Abu Huraira reported Allah's Messenger as saying: None of you should drink while standing; and if anyone forgets, he must vomit.
+
+
+See also:
+
+
+- [Riyad as-Salihin 770](https://sunnah.com/riyadussalihin:770)
+- [Riyad as-Salihin 771](https://sunnah.com/riyadussalihin:771)
+- [Mishkat al-Masabih 4267](https://sunnah.com/mishkat:4267)
+

@@ -388,6 +388,16 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 
 
 
+## Having three dead children saves
+
+[Sahih al-Bukhari 1381](https://sunnah.com/bukhari:1381)
+
+> Allah's Messenger said, "Any Muslim whose three children died before the age of puberty will be granted Paradise by Allah because of His mercy to them."
+
+
+
+
+
 
 
 

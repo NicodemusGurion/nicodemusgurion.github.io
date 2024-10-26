@@ -207,3 +207,14 @@ In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#
 [Sunan an-Nasa'i 343](https://sunnah.com/nasai:343)
 
 > The Messenger of Allah forbade a man from performing Wudu' (washing) with the leftovers of a woman's (water for) Wudu' (washing).
+
+
+### Women must cover everything but their faces and hands
+
+[Sunan Abi Dawud 4104](https://sunnah.com/abudawud:4104)
+
+> Narrated Aisha, Ummul Mu'minin: Asma, daughter of AbuBakr, entered upon the Messenger of Allah wearing thin clothes. The Messenger of Allah turned his attention from her. He said: O Asma', when a woman reaches the age of menstruation, it does not suit her that she displays her parts of body except this and this, and he pointed to his face and hands.
+
+Surah 23:31
+
+> And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments [i.e., hair, body shape, and underclothes.] except what normally appears.[i.e., the face, hands, outer clothes, rings, kohl, and henna.] Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments [i.e., hair, arms, and legs.]

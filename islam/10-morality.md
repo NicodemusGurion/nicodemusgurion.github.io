@@ -37,8 +37,20 @@ In other words, lying is basically permitted at any and all times for any and al
 
 Islam is based on lies and dishonesty.
 
+## Allah has ordained for the breaking of oaths
+
+Surah 66:2
+
+> Allah has already ordained for you ˹believers˺ the way to absolve yourselves from your oaths. For Allah is your Guardian. And He is the All-Knowing, All-Wise.
 
 
+## Breaking an oath comes with ridiculously trivial consequences 
+
+Surah 5:89
+
+> Allah will not call you to account for your thoughtless oaths, but He will hold you accountable for deliberate oaths. The penalty for a broken oath is to feed ten poor people from what you normally feed your own family, or to clothe them, or to free a bondsperson. But if none of this is affordable, then you must fast three days. This is the penalty for breaking your oaths. 
+
+Just label an oath "thoughtless" and you don't have to hold your word. Otherwise you can just pay your way cheaply or by exposing yourself to minor inconvenience.
 
 
 # Racism

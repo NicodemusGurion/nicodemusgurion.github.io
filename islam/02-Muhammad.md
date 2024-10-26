@@ -82,6 +82,12 @@ See also:
 - [Ash-Shama'il Al-Muhammadiyah 51](https://sunnah.com/shamail:51), [52](https://sunnah.com/shamail:52), [53](https://sunnah.com/shamail:53), [54](https://sunnah.com/shamail:54)
 - [Jami` at-Tirmidhi 2048](https://sunnah.com/tirmidhi:2048)
 
+## Muhammad liked his own face
+
+[Sunan an-Nasa'i 1126](https://sunnah.com/nasai:1126)
+
+> My face has prostrated to the One Who created it and shaped it and shaped it well
+
 ## Muhammad had a tooth knocked out
 
 > The face of the Prophet [was] wounded and one of his front teeth [wa]s broken
