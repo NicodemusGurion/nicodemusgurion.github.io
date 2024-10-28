@@ -1140,9 +1140,16 @@ In contrast Jesus defended a woman against being stoned for adultery. (John 8:1-
 
 ## Muhammad was a terrorist {#muhammad-terrorist}
 
-[Sahih al-Bukhari 2977](https://sunnah.com/bukhari:2977)
+[Sahih Muslim 523 e](https://sunnah.com/muslim:523e)
 
-> ...I have been made victorious with terror cast in the hearts of the enemy...
+> The Messenger of Allah said: I have been helped by terror in the heart of the enemy
+
+See also:
+
+- [Sahih Muslim 523 f](https://sunnah.com/muslim:523f)
+- [Mishkat al-Masabih 5749](https://sunnah.com/mishkat:5749)
+- [Sahih al-Bukhari 2977](https://sunnah.com/bukhari:2977)
+
 
 
 ## Muhammad tortured people to death {#muhammad-tortured}

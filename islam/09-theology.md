@@ -341,6 +341,7 @@ See [The Quran is alive and will intercede on judgment day](#quran-intercession)
 
 > The Prophet said, "Whoever guarantees me what is between his legs and what is between his jaws, I guarantee him Paradise."
 
+
 ## Muhammad can NOT save {#muhammad-saves-not}
 
 [Sahih al-Bukhari 2753](https://sunnah.com/bukhari:2753)
