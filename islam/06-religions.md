@@ -137,6 +137,12 @@ Surah 5:51
 
 Think you have a Muslim friend? Think again. Muslims are not allowed to be your friend, but will only pretend to be friendly to deceive.
 
+## Do not insult unbelievers 
+
+Surah 6:108
+
+> ˹O believers!˺ Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance. 
+
 ## Bully Jews and Christians 
 
 [Sahih Muslim 2167 a](https://sunnah.com/muslim:2167)

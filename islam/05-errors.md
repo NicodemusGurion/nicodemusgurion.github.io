@@ -199,6 +199,17 @@ Surah 4:82
 If the Quran is from Allah, there should be no contradictions.
 
 
+### Allah forgives all sins / does not forgive all sins
+
+Surah 39:53
+
+> Allah certainly forgives **all** sins. He is indeed the All-Forgiving, Most Merciful.
+
+Surah 4:116
+
+> Surely Allah does **not** forgive associating ˹others˺ with Him ˹in worship˺,
+
+
 ### Jesus is the Word of Allah, but not Allah
 
 
