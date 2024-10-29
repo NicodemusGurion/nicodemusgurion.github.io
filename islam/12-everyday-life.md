@@ -130,3 +130,8 @@ See also:
 - [Riyad as-Salihin 771](https://sunnah.com/riyadussalihin:771)
 - [Mishkat al-Masabih 4267](https://sunnah.com/mishkat:4267)
 
+## Don't eat with your left hand
+
+[Sahih Muslim 2020 a](https://sunnah.com/muslim:2020)
+
+> When any one of you intends to eat (meal), he should eat with his right hand. and when he (intends) to drink he should drink with his right hand, for the Satan eats with his left hand and drinks with his left hand.
