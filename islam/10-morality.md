@@ -253,7 +253,7 @@ So plundering only makes a Muslim a nonbeliever under the condition that they do
 # Violence and Jihad 
 
 
-See also [Muhammad and violence](/islam/muhammad/#muhammad-and-violence).
+See also [Muhammad and violence](/islam/muhammad/#muhammad-violence).
 
 ## Standing orders to fight the world
 
