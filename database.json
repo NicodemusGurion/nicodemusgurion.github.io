@@ -8,6 +8,11 @@ noindex: true
 {% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|lt|index|amp|markdownify|"  %}     
 {% assign postCounter = 0 %}
 {% assign all_docs = site.posts %}
+{% for pg in site.pages %}
+{% if pg.layout == "menu" %}
+{% assign all_docs = all_docs | append: pg %}
+{% endif %}
+{% endfor %}
 "postlist":[
 {% for post in all_docs %}
 {"title":{{ post.title | jsonify }}, "url":{{ post.url | jsonify }},"thumb":{{ post.thumb | jsonify }}}{% unless forloop.last %},{% endunless -%}
