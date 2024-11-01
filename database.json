@@ -9,9 +9,7 @@ noindex: true
 {% assign postCounter = 0 %}
 {% assign all_docs = site.posts %}
 {% for pg in site.pages %}
-{% if pg.title != null %}
 {% assign all_docs = all_docs | append: pg %}
-{% endif %}
 {% endfor %}
 "postlist":[
 {% for post in all_docs %}
