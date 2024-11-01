@@ -7,9 +7,10 @@ noindex: true
 {% assign wordList = ""  %}
 {% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|lt|index|amp|markdownify|"  %}     
 {% assign postCounter = 0 %}
+{% assign menu_pages = site.pages | where: "layout", "menu" %}
 {% assign all_docs = site.posts %}
 "postlist":[
-{% for post in all_docs %}
+{% for post in menu_pages %}
 {"title":{{ post.title | jsonify }}, "url":{{ post.url | jsonify }},"thumb":{{ post.thumb | jsonify }}}{% unless forloop.last %},{% endunless -%}
 {%   assign content = post.content | remove: "'" | remove: "’" | remove: "ʹ" | remove: "·"  %}
 {%   assign words = content | strip_html | normalize_whitespace | slugify: "latin" | split: "-" %} 
