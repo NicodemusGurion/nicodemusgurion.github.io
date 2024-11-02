@@ -198,6 +198,11 @@ Surah 4:82
 
 If the Quran is from Allah, there should be no contradictions.
 
+### The Quran is both clear and unclear
+
+Surah 3:7 says that in the Quran "some verses are precise…while others are elusive…none grasps their meaning except Allah." Meanwhile Surah 11:1 says that the Quran is "a Book whose verses are well perfected and then fully explained. " So which is it? Is it clear or unclear?
+
+
 
 ### Allah forgives all sins / does not forgive all sins
 
@@ -301,14 +306,24 @@ Jews are favoured by Allah, but Islam has as a main goal to kill all Jews.
 
 ### Wine is from Satan but is served in paradise {#satanic-wine-in-paradise}
 
+Surah 16:65-69 
+
+> And Allah sends down rain from the sky, giving life to the earth after its death. ... pure milk, pleasant to drink ... And **from the fruits of palm trees and grapevines you derive intoxicants as well as wholesome provision**. Surely in this is a sign for those who understand
+
+This teaches that intoxicants (wine) is a blessing of Allah.
+
 Surah 5:90
 
 > O you who believe! **Wine**, gambling, altars and divining arrows **are filth, made up by Satan**. Therefore, refrain from it, so that you may be successful.
+
+This teaches that wine is an invention of Satan.
 
 Surah 83:22-26
 
 > Surely the virtuous will be in bliss, ˹seated˺ on ˹canopied˺ couches, gazing around. You will recognize on their faces the glow of delight. **They will be given a drink of sealed, pure wine, whose last sip will smell like musk.** So let whoever aspires to this strive ˹diligently˺.
 
-Why does Allah in Paradise serve a drink that is "filth made up by Satan"?
+This teaches that wine is a reward from Allah in paradise.
+
+So is wine a blessing from Allah or an invention of Satan?
 
 See also Surah 37:43-46; 47:15

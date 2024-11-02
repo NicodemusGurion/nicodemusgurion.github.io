@@ -90,6 +90,10 @@ Surah 5:47
 
 See also [the Bible](#bible).
 
+## Clear and unclear
+
+Surah 3:7 says that in the Quran "some verses are precise…while others are elusive." Meanwhile Surah 11:1 says that the Quran is "a Book whose verses are well perfected and then fully explained. " So which is it? Is it clear or unclear?
+
 
 ## The Quran is only meant for the Arabs
 

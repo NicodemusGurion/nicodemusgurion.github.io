@@ -8,6 +8,42 @@ permalink: /islam/morals/
 
 {% include toc.md %}
 
+# Intoxicants 
+
+See Surah 5:90,91; 16:65-69; 37:43-46; 47:15; 83:22-26
+
+## Intoxicants (wine) is one of the blessings of Allah
+
+Surah 16:65-69
+
+> And Allah sends down rain from the sky, giving life to the earth after its death. ... pure milk, pleasant to drink ... And **from the fruits of palm trees and grapevines you derive intoxicants as well as wholesome provision**. Surely in this is a sign for those who understand
+
+These verses lists some blessings of Allah, which includes rains to revive the earth, milk from cows, honey from bees, and most interestingly, **intoxicants** i.e. alcohol, which is made from fruits and grapes.
+
+So wine is a blessing of Allah.
+
+## Wine is from Satan
+
+Surah 5:90,91
+
+> Wine, gambling, altars and divining arrows are filth, made up by Satan. ...Satan wishes only to plant enmity and malice between you through wine and gambling...
+
+So wine is bad, mkay?
+
+
+## Allah serves wine in Paradise
+
+Surah 47:15
+
+> Paradise which the God-fearing have been promised: in it shall be rivers of incorruptible water, rivers of milk unchanging in taste,and **rivers of wine, a delight to those that drink;**
+
+So in Paradise there will be rivers of wine.
+
+But wait, isn't wine an invention of Satan? 
+
+But wait, isn't wine a blessing of Allah?
+
+Are perhaps Satan and Allah the same person?
 
 
 # Lying 
