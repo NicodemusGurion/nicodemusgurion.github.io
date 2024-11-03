@@ -49,4 +49,6 @@ noindex: true
 ]{% unless forloop.last %},{% endunless -%}
 {%   endunless %}
 {% endfor %}}
-{% endcapture %}{{{ string_with_newlines | strip_newlines | strip }}}
+{% endcapture %}{
+{{ string_with_newlines | strip_newlines | strip }}
+}
