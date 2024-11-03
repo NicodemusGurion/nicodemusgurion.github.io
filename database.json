@@ -12,8 +12,8 @@ noindex: true
 "postlist":[
 {% for post in all_docs %}
 [{{ post.title | jsonify }},{{ post.url | jsonify }},{{ post.thumb | jsonify }}]{% unless forloop.last %},{% endunless -%}
-{%   assign content = post.content | remove: "'" | remove: "’" | remove: "ʹ" | remove: "·"  %}
-{%   assign words = content | strip_html | normalize_whitespace | slugify: "latin" | split: "-" %} 
+{%-   assign content = post.content | remove: "'" | remove: "’" | remove: "ʹ" | remove: "·"  -%}
+{%-   assign words = content | strip_html | normalize_whitespace | slugify: "latin" | split: "-" -%} 
 {%   for word in words  %}
 {%     assign numcheck = word | plus: 0 %}
 {%     if numcheck > 0 %}{% continue %}{% endif %}
