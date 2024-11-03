@@ -54,7 +54,7 @@ var SearchDatabase;
     		for(pageIndex of SearchDatabase.searchdata[queryWord])
 			{
 				foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
-				if (SearchDatabase.postlist[pageIndex].title.toLowerCase().includes(queryWord)) //if the word is even found in the title...
+				if (SearchDatabase.postlist[pageIndex][0].toLowerCase().includes(queryWord)) //if the word is even found in the title...
 				{
 					foundMatches[pageIndex] = 2 + (foundMatches[pageIndex] || 0); //increase the score even more because that's good stuff
 				}
@@ -72,7 +72,7 @@ var SearchDatabase;
 				for(pageIndex of SearchDatabase.searchdata[queryWord])
 				{
 					foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
-					if (SearchDatabase.postlist[pageIndex].title.toLowerCase().includes(queryWord)) //if the word is even found in the title...
+					if (SearchDatabase.postlist[pageIndex][0].toLowerCase().includes(queryWord)) //if the word is even found in the title...
 					{
 						foundMatches[pageIndex] = 2 + (foundMatches[pageIndex] || 0); //increase the score even more because that's good stuff
 					}
@@ -95,8 +95,8 @@ var SearchDatabase;
 		//generate a html list of the results
 		output += "<ul>";
 		for (const [key, value] of fm_arr) {
-			let thumb = (SearchDatabase.postlist[key].thumb != null ? "<img src=\"" + SearchDatabase.postlist[key].thumb + "\" class=\"featured-thumbnail-mini\" />": "")
-			output += "<li>" + thumb + "<a href=\"" + SearchDatabase.postlist[key].url + "\">" + SearchDatabase.postlist[key].title + "</a></li>";  	
+			let thumb = (SearchDatabase.postlist[key][2] != null ? "<img src=\"" + SearchDatabase.postlist[key][2] + "\" class=\"featured-thumbnail-mini\" />": "")
+			output += "<li>" + thumb + "<a href=\"" + SearchDatabase.postlist[key][1] + "\">" + SearchDatabase.postlist[key][0] + "</a></li>";  	
 		}
 		output += "</ul>";
     }
