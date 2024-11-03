@@ -9,7 +9,7 @@ noindex: true
 {% assign postCounter = 0 %}
 {% assign menu_pages = site.pages | where: "search", "true" %}
 {% assign all_docs = site.posts | concat: menu_pages %}
-"postlist":[
+"pages":[
 {% for post in all_docs %}
 [{{ post.title | jsonify }},{{ post.url | jsonify }},{{ post.thumb | jsonify }}]{% unless forloop.last %},{% endunless -%}
 {%-   assign content = post.content | remove: "'" | remove: "’" | remove: "ʹ" | remove: "·"  -%}
@@ -33,7 +33,7 @@ noindex: true
 {%-   endfor -%}
 {%- assign postCounter = postCounter | plus: 1 -%}
 {%- endfor -%}
-],"searchdata":{
+],"data":{
 {% assign sections = wordList | split: "[" %}
 {% for section in sections  %}
 {%   unless section == "" %}

@@ -38,7 +38,7 @@ var SearchDatabase;
     var foundMatches = {}; //a hash with the page ids where the words are found, and how many times a word is found on that page.
     var suggestedWords = []; //if the user writes a partial word not in the list, make some suggestions
     var lastWord = queryWords[queryWords.length - 1]; //get last word to generate suggestions.
-	const sortedEntries = Object.entries(SearchDatabase.searchdata).sort((a, b) => b[1].length - a[1].length); //sort database words according to how many pages contain them
+	const sortedEntries = Object.entries(SearchDatabase.data).sort((a, b) => b[1].length - a[1].length); //sort database words according to how many pages contain them
     sortedEntries.forEach(entry => {
 	  	const key = entry[0];
 	  	if (key.startsWith(lastWord) && key != lastWord) { //if a word starts with the word (but is not the word)
@@ -49,12 +49,12 @@ var SearchDatabase;
 
     for (queryWord of queryWords) //loop thru query word list
     {
-		if (queryWord in SearchDatabase.searchdata) //check if the word exists in the db
+		if (queryWord in SearchDatabase.data) //check if the word exists in the db
     	{    	
-    		for(pageIndex of SearchDatabase.searchdata[queryWord])
+    		for(pageIndex of SearchDatabase.data[queryWord])
 			{
 				foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
-				if (SearchDatabase.postlist[pageIndex][0].toLowerCase().includes(queryWord)) //if the word is even found in the title...
+				if (SearchDatabase.pages[pageIndex][0].toLowerCase().includes(queryWord)) //if the word is even found in the title...
 				{
 					foundMatches[pageIndex] = 2 + (foundMatches[pageIndex] || 0); //increase the score even more because that's good stuff
 				}
@@ -67,12 +67,12 @@ var SearchDatabase;
     {
     	for (queryWord of suggestedWords) //loop thru suggested word list
 		{
-			if (queryWord in SearchDatabase.searchdata) //check if the word exists in the db
+			if (queryWord in SearchDatabase.data) //check if the word exists in the db
 			{    	
-				for(pageIndex of SearchDatabase.searchdata[queryWord])
+				for(pageIndex of SearchDatabase.data[queryWord])
 				{
 					foundMatches[pageIndex] = 1 + (foundMatches[pageIndex] || 0) //increase the score for this page
-					if (SearchDatabase.postlist[pageIndex][0].toLowerCase().includes(queryWord)) //if the word is even found in the title...
+					if (SearchDatabase.pages[pageIndex][0].toLowerCase().includes(queryWord)) //if the word is even found in the title...
 					{
 						foundMatches[pageIndex] = 2 + (foundMatches[pageIndex] || 0); //increase the score even more because that's good stuff
 					}
@@ -95,8 +95,8 @@ var SearchDatabase;
 		//generate a html list of the results
 		output += "<ul>";
 		for (const [key, value] of fm_arr) {
-			let thumb = (SearchDatabase.postlist[key][2] != null ? "<img src=\"" + SearchDatabase.postlist[key][2] + "\" class=\"featured-thumbnail-mini\" />": "")
-			output += "<li>" + thumb + "<a href=\"" + SearchDatabase.postlist[key][1] + "\">" + SearchDatabase.postlist[key][0] + "</a></li>";  	
+			let thumb = (SearchDatabase.pages[key][2] != null ? "<img src=\"" + SearchDatabase.pages[key][2] + "\" class=\"featured-thumbnail-mini\" />": "")
+			output += "<li>" + thumb + "<a href=\"" + SearchDatabase.pages[key][1] + "\">" + SearchDatabase.pages[key][0] + "</a></li>";  	
 		}
 		output += "</ul>";
     }
