@@ -13,24 +13,28 @@ noindex: true
 {% for post in all_docs %}
 [{{ post.title | jsonify }},{{ post.url | jsonify }},{{ post.thumb | jsonify }}]{% unless forloop.last %},{% endunless -%}
 {%-   assign content = post.content | remove: "'" | remove: "’" | remove: "ʹ" | remove: "·"  -%}
-{%-   assign words = content | strip_html | normalize_whitespace | slugify: "latin" | split: "-" -%} 
-{%   for word in words  %}
-{%     assign numcheck = word | plus: 0 %}
-{%     if numcheck > 0 %}{% continue %}{% endif %}
-{%     unless word.size < 2 %}
-{%       assign invalidWordCheck = "|" | append: word | append: "|"   %}
-{%       unless skipWordList contains invalidWordCheck %}
-{%         assign wordKey = "[" | append: word | append: "]" %}
-{%         unless wordList contains wordKey  %}
-{%           assign wordList = wordList | append: "[" | append: word | append: "]" | append: postCounter %}
-{%         else %}
-{%           assign lookForWord = "[" | append: word | append: "]" %}
-{%           assign splitWordList = wordList | split: wordKey %}
-{%           assign wordList = splitWordList[0] | append: wordKey | append: postCounter | append: "," | append: splitWordList[1]  %}
-{%         endunless %}
-{%       endunless %}
-{%     endunless %}
-{%   endfor %}
+{%-   assign words = content | strip_html | normalize_whitespace | slugify: "latin" | split: "-" -%}
+{% liquid 
+   for word in words  
+     assign numcheck = word | plus: 0 
+     if numcheck > 0
+       continue
+     endif
+     unless word.size < 2 
+       assign invalidWordCheck = "|" | append: word | append: "|" 
+       unless skipWordList contains invalidWordCheck
+         assign wordKey = "[" | append: word | append: "]"
+         unless wordList contains wordKey 
+           assign wordList = wordList | append: "[" | append: word | append: "]" | append: postCounter
+         else 
+           assign lookForWord = "[" | append: word | append: "]"
+           assign splitWordList = wordList | split: wordKey 
+           assign wordList = splitWordList[0] | append: wordKey | append: postCounter | append: "," | append: splitWordList[1] 
+         endunless
+       endunless
+     endunless
+   endfor
+%}
 {% assign postCounter = postCounter | plus: 1 %}
 {% endfor %}
 ],"searchdata":{
