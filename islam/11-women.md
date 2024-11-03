@@ -1,6 +1,7 @@
 ---
 title: Islam's view of women
 permalink: /islam/women/
+search: true
 ---
 
 ## [< Index](/islam/)

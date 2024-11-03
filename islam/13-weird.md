@@ -1,6 +1,7 @@
 ---
 title: Weird stuff
 permalink: /islam/weird/
+search: true
 ---
 
 ## [< Index](/islam/)

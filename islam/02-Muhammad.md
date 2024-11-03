@@ -1,6 +1,7 @@
 ---
 title: Muhammad 
 permalink: /islam/muhammad/
+search: true
 ---
 
 ## [< Index](/islam/)

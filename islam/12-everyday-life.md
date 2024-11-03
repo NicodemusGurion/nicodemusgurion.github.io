@@ -1,6 +1,7 @@
 ---
 title: Everyday life as a muslim
 permalink: /islam/life/
+search: true
 ---
 
 ## [< Index](/islam/)

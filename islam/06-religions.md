@@ -1,6 +1,7 @@
 ---
 title: Islam's view on religions
 permalink: /islam/religions/
+search: true
 ---
 
 ## [< Index](/islam/)

@@ -1,6 +1,7 @@
 ---
 title: Islam's morality
 permalink: /islam/morals/
+search: true
 ---
 
 ## [< Index](/islam/)

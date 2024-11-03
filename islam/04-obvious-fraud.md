@@ -1,6 +1,7 @@
 ---
 title: Obvious fraud
 permalink: /islam/fraud/
+search: true
 ---
 
 ## [< Index](/islam/)

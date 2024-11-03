@@ -1,6 +1,7 @@
 ---
 title: Islam and Science
 permalink: /islam/science/
+search: true
 ---
 
 ## [< Index](/islam/)

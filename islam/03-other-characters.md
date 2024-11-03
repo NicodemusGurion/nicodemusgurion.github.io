@@ -1,6 +1,7 @@
 ---
 title: Other important persons
 permalink: /islam/vip/
+search: true
 ---
 
 ## [< Index](/islam/)

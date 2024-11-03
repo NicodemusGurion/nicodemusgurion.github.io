@@ -1,6 +1,7 @@
 ---
 title: Holy books
 permalink: /islam/holy-books/
+search: true
 ---
 
 ## [< Index](/islam/)

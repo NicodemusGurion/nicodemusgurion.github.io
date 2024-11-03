@@ -1,6 +1,7 @@
 ---
 title: Allah
 permalink: /islam/allah/
+search: true
 ---
 
 ## [< Index](/islam/)
