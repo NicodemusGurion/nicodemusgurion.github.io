@@ -30,6 +30,11 @@ Surah 65:12
 > Allah is He Who created seven Firmaments and of the earth a similar number.
 
 
+## Earth is flat 
+
+Surah 2:22;15:19;20:53;43:10;50:7;51:48;71:19;78:6-7;79:30;88:20;91:6
+
+
 # Hygiene, health and food
 
 There's a surprising amount of rules about urinating. If your religion micromanages how you piss, you're in a cult.
