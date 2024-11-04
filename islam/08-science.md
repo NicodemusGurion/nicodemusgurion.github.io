@@ -236,3 +236,21 @@ This description of gestation is entirely unscientific. A fetus does not go thro
 [Sahih al-Bukhari 3320](https://sunnah.com/bukhari:3320)
 
 > The Prophet said "If a house fly falls in the drink of anyone of you, he should dip it (in the drink) and take it out, for one of its wings has a disease and the other has the cure for the disease."
+
+## The cure for sciatica is sheep's fat
+
+[Sunan Ibn Majah 3463](https://sunnah.com/ibnmajah:3463)
+
+> Anas bin Malik said: “I heard the Messenger of Allah saying: ‘The cure for sciatica is the fat from the tail of a Bedouin sheep (or wild sheep), which should be melted and divided into three parts, one part to be taken each day on an empty stomach.’”
+
+## Repeating an incantation 7 times can cure anything except death
+
+[Jami` at-Tirmidhi 2083](https://sunnah.com/tirmidhi:2083)
+
+> "There is no Muslim worshiper who visits one who is ill - other than at the time of death - and he says seven times: 'I ask Allah the Magnificent, Lord of the Magnificent Throne to cure you' except when he will be cured."
+
+## 7 dates protects against poison
+
+[Sahih al-Bukhari 5779](https://sunnah.com/bukhari:5779)
+
+> I heard Allah's Messenger saying, "Whoever takes seven 'Ajwa dates in the morning will not be effected by magic or poison on that day."
