@@ -51,6 +51,12 @@ See also:
 - [Sunan an-Nasa'i 4065](https://sunnah.com/nasai:4065)
 - [Bulug al Maram 9:46](https://sunnah.com/bulugh/9/46)
 
+## A man was beheaded for apostasy
+
+[Sunan Abi Dawud 4356](https://sunnah.com/abudawud:4356)
+
+> Abu Burdah said: A man who turned back from Islam was brought to Abu Musa. He invited him to repent for twenty days or about so. Muadh then came and invited him (to embrace Islam) but he refused. So he was beheaded.
+
 ## Islam is a strange serpent receding into its hole {#strange-serpent}
 
 [Sahih Muslim 146](https://sunnah.com/muslim:146)

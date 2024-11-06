@@ -116,6 +116,32 @@ There's a waiting period a divorced woman has to wait before she can remarry.
 
 This means men are allowed to marry and divorce prepubescent girls.
 
+## Opresive rules
+
+### Women wearing perfume are adulteresses
+
+[Sunan an-Nasa'i 5126](https://sunnah.com/nasai:5126)
+
+> "The Messenger of Allah said: 'Any woman who puts on perfume then passes by people so that they can smell her fragrance then she is an adulteress.'"
+
+### Women are cursed for plucking their eyebrows, getting tattoos, or orthodontics 
+
+[Riyad as-Salihin 1646](https://sunnah.com/riyadussalihin:1646)
+
+> Ibn Mas'ud (May Allah be pleased with him) said: Allah has cursed those women who practise tattooing and those women who have themselves tattooed, and those women who get their hair removed from their eyebrows and faces (except the beard and the mustache), and those who make artificial spaces between their teeth for beauty, whereby they change Allah's creation.
+
+In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#pedophilia-ok) are allowed, but if a woman plucks her eyebrows she is cursed?
+
+
+## Wigs are forbidden {#no-wigs}
+
+[Riyad as-Salihin 1642](https://sunnah.com/riyadussalihin:1642)
+
+> A woman came to the Prophet and said: "O Messenger of Allah! I have a daughter who had an attack of small pox and her hair fell off. Now I want to celebrate her marriage. Can I get her a wig?" Thereupon the Prophet said, "Allah has cursed the maker and wearer of a wig."
+
+Letting that poor girl go to her wedding bald, just because he had a weird thing about wigs and an obsession with micromanaging the minutiae of everyone's lives.
+
+
 ## General view on women 
 
 ### Most people in hell are women {#most-in-hell-women}
@@ -183,13 +209,7 @@ See also:
 - [Sahih al-Bukhari 519](https://sunnah.com/bukhari:519)
 
 
-### Women are cursed for plucking their eyebrows, getting tattoos, or orthodontics 
 
-[Riyad as-Salihin 1646](https://sunnah.com/riyadussalihin:1646)
-
-> Ibn Mas'ud (May Allah be pleased with him) said: Allah has cursed those women who practise tattooing and those women who have themselves tattooed, and those women who get their hair removed from their eyebrows and faces (except the beard and the mustache), and those who make artificial spaces between their teeth for beauty, whereby they change Allah's creation.
-
-In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#pedophilia-ok) are allowed, but if a woman plucks her eyebrows she is cursed?
 
 ### Women are a source of trouble
 
