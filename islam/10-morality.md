@@ -160,7 +160,29 @@ See also [Sahih al-Bukhari 7142](https://sunnah.com/bukhari:7142)
 > I (one of the narrators)said: "What is the difference between a black dog, a yellow one and a red one?" He said: I asked the Messenger of Allah just like you and he said:"The black dog is a shaitan."
 
 
+# Music and arts
 
+
+## Music and sinning is a sin
+
+[Sunan Ibn Majah 4020](https://sunnah.com/ibnmajah:4020)
+
+> “People among my nation will drink wine, calling it by another name, and musical instruments will be played for them and singing girls (will sing for them). Allah will cause the earth to swallow them up, and will turn them into monkeys and pigs.”
+
+Listening to music will cause you to be turned into a pig. But rape is totally fine.
+
+### Poetry is a sin {#poetry}
+
+[Sahih al-Bukhari 6155](https://sunnah.com/bukhari:6155)
+
+> Allah's Messenger; said, "It is better for anyone of you that the inside of his body be filled with pus which may consume his body, than it be filled with poetry."
+
+See also:
+
+- [Sahih al-Bukhari 6154](https://sunnah.com/bukhari:6154)
+- [Al-Adab Al-Mufrad 860](https://sunnah.com/adab:860)
+- [Sunan Ibn Majah 3759](https://sunnah.com/ibnmajah:3759)
+- [Sunan Ibn Majah 3760](https://sunnah.com/ibnmajah:3760)
 
 
 

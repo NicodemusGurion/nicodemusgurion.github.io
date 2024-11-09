@@ -23,6 +23,10 @@ How to deal with those who leave islam.
 
 > Some Zanadiqa (atheists) were brought to Ali and he burnt them. The news of this event, reached Ibn Abbas who said, "If I had been in his place, I would not have burnt them, as Allah's Messenger forbade it, saying, 'Do not punish anybody with Allah's punishment (fire).' I would have killed them according to the statement of Allah's Messenger, 'Whoever changed his Islamic religion, then kill him.'"
 
+[Sunan an-Nasa'i 4102](https://sunnah.com/nasai:4102)
+
+> It was narrated that 'Ali said: "I heard the Messenger of Allah say: 'At the end of time there will appear young people with foolish minds. Their faith will not pass through their throats, and they will go out of Islam as an arrow goes through the target. If you meet them, then kill them, for killing them will bring reward to the one who killed them on the Day of Resurrection.'"
+
 
 See also:
 
