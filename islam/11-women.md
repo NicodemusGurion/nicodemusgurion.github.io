@@ -102,6 +102,12 @@ Surah 2:223
 
 > No woman can fulfill her duty towards Allah until she fulfills her duty towards her husband. If he asks her (for intimacy) even if she is on her camel saddle, she should not refuse.
 
+### Allah curses women who don't sleep with their husbands
+
+[Sahih al-Bukhari 5194](https://sunnah.com/bukhari:5194)
+
+> The Prophet said, "If a woman spends the night deserting her husband's bed (does not sleep with him), then the angels send their curses on her till she comes back (to her husband).
+
 ### Islam allows child marriage {#pedophilia-ok}
 
 Surah 65:4
