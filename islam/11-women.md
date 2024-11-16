@@ -21,6 +21,10 @@ This is if a man even only fears his wife would be disobedient.
 
 ### Never ask why a man beats his wife  {#dont-question-wife-beater}
 
+[Sunan Abi Dawud 2147](https://sunnah.com/abudawud:2147)
+
+> The Prophet said: A man will not be asked as to why he beat his wife.
+
 [Sunan Ibn Majah 1986](https://sunnah.com/ibnmajah:1986)
 
 > It was narrated that Ash'ath bin Qais said: "I was a guest (at the home) of 'Umar one night, and in the middle of the night he went and hit his wife, and I separated them. When he went to bed he said to me: 'O Ash'ath, learn from me something that I heard from the Messenger of Allah" A man should not be asked why he beats his wife...

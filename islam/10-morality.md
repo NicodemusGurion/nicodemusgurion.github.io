@@ -147,6 +147,14 @@ See also:
 
 See also [Sahih al-Bukhari 7142](https://sunnah.com/bukhari:7142)
 
+## Use of racist slurs {#nword}
+
+[Sahih al-Bukhari 2906, 2907](https://sunnah.com/bukhari:2906)
+
+> It was the day of Id when **negroes** used to play with leather shields and spears. Either I requested Allah's Messenger or he himself asked me whether I would like to see the display. I replied in the affirmative. Then he let me stand behind him and my cheek was touching his cheek and **he was saying, "Carry on, negroes!**" When I got tired, he asked me if that was enough. I replied in the affirmative and he told me to leave.
+
+According to Muhammad, it seems that black people are only good for entertainment and should be addressed in a condescending way.
+
 ## Muhammad didn't like black dogs {#black-dogs}
 
 [Sunan Ibn Majah 3205](https://sunnah.com/ibnmajah:3205)
@@ -183,6 +191,8 @@ See also:
 - [Al-Adab Al-Mufrad 860](https://sunnah.com/adab:860)
 - [Sunan Ibn Majah 3759](https://sunnah.com/ibnmajah:3759)
 - [Sunan Ibn Majah 3760](https://sunnah.com/ibnmajah:3760)
+
+
 
 
 

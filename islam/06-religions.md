@@ -61,6 +61,14 @@ See also:
 
 > Abu Burdah said: A man who turned back from Islam was brought to Abu Musa. He invited him to repent for twenty days or about so. Muadh then came and invited him (to embrace Islam) but he refused. So he was beheaded.
 
+## End time fake Muslims foretold
+
+[Sahih Muslim 1066 a](https://sunnah.com/muslim:1066)
+
+> I heard the Messenger of Allah as saying: There would arise at the end of the age a people who would be young in age and immature in thought, but they would talk (in such a manner) as if their words are the best among the creatures. They would recite the Qur'an, but it would not go beyond their throats, and they would pass through the religion as an arrow goes through the prey. So when you meet them, kill them, for in their killing you would get a reward with Allah on the Day of Judgement.
+
+So there would be Muslims who falsely claim to be Muslims. And muslims should kill the false Muslims.
+
 ## Islam is a strange serpent receding into its hole {#strange-serpent}
 
 [Sahih Muslim 146](https://sunnah.com/muslim:146)
