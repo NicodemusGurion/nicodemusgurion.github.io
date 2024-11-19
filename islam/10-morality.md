@@ -46,6 +46,15 @@ But wait, isn't wine a blessing of Allah?
 
 Are perhaps Satan and Allah the same person?
 
+## If someone drinks wine they should be flogged to death
+
+[Sunan Abi Dawud 4482](https://sunnah.com/abudawud:4482)
+
+> The Prophet said: If they (the people) drink wine, flog them, again if they drink it, flog them. Again if they drink it, kill them.
+
+See also:
+
+- [Sunan Abi Dawud 4484](https://sunnah.com/abudawud:4484)
 
 # Lying 
 
@@ -295,6 +304,26 @@ See [Muhammad traded black slaves](#black-slaves), [Racism](#racism).
 
 > The Prophet said, "None of you should flog his wife as he flogs a slave and then have sexual intercourse with her in the last part of the day."
 
+## Slaves should be flogged for sins
+
+
+[Sahih al-Bukhari 6837, 6838](https://sunnah.com/bukhari:6837)
+
+> The verdict of Allah's Messenger (ﷺ) was sought about an unmarried slave girl guilty of illegal intercourse. He replied, "If she commits illegal sexual intercourse, then flog her (fifty stripes), and if she commits illegal sexual intercourse (after that for the second time), then flog her (fifty stripes), and if she commits illegal sexual intercourse (for the third time), then flog her (fifty stripes) and sell her for even a hair rope."
+
+See also:
+
+- [Sahih al-Bukhari 2232, 2233](https://sunnah.com/bukhari:2232)
+- [Sahih al-Bukhari 6839](https://sunnah.com/bukhari:6839)
+- [Sunan Abi Dawud 4469](https://sunnah.com/abudawud:4469)
+
+[Muwatta Malik 41:15](https://sunnah.com/urn/515160)
+
+> Malik related to me from Nafi that a slave was in charge of the slaves in the khumus and he forced a slave-girl among those slaves against her will and had intercourse with her. Umar ibn al-Khattab had him flogged and banished him, and he did not flog the slave-girl because the slave had forced her.
+
+See also:
+
+- [Sahih al-Bukhari 6949](https://sunnah.com/bukhari:6949)
 
 
 

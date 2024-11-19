@@ -59,6 +59,12 @@ So on the one hand Allah could just "choose" a creation as his offspring, but on
 
 ## Allah's Godship 
 
+### Allah is unlike anything else
+
+Surah 42:12
+
+> There is nothing like Him, for He ˹alone˺ is the All-Hearing, All-Seeing.
+
 ### Allah is not the only creator
 
 Surah 23:14
