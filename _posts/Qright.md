@@ -1,6 +1,5 @@
 ---
 title: The Qright - The Revelation of Kenneth, the Final Final Prophet
-permalink: /qright/
 tags: [Islam, Quran, Apologetics, Satire]
 excerpt: "The Qright of the great last last last last final prophet (for real this time) named Kenneth (Cheese be upon him), which Allan totally gave him and which is totally not made up at all."
 ---
