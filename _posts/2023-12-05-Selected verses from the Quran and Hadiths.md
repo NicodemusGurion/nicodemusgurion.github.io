@@ -7,6 +7,8 @@ permalink: /quran-and-hadiths
 ---
 Some selected Quran and Hadith verses.
 
+**NOTICE:** Due to it's sheer size, this article has been divided into smaller sections and made into a handy dandy reference work [found at https://thyreon.com/islam/](https://thyreon.com/islam/). All new updates will be made there instead. This article will not be updated anymore.
+
 [TOC]
 
 <small> Note that there are many translations of the Quran and few of them are honest. Most of them paraphrase, add, remove, and change words to make it seem more palpable to westerners. For example, surah 4:34 says that men can "strike" their wives, but the Clear Quran renders this "discipline them gently". Or surah 1:157 which says that "Allah prays" (salawatun, from salat, pray), they change it to "blesses". As the saying goes "without lies Islam dies". If you don't expect honesty from Islamic scholars you will usually be right. Therefore I will link to archived versions of the sites, because the administrators of sunnah.com and other Muslim websites are dishonest and change embarrasing translations.</small>

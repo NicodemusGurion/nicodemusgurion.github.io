@@ -213,6 +213,12 @@ Understandable. This guy doesn't play Allah's manipulative games.
 
 So he is pardoned for not accepting Allahs "mercy" of throwing himself into hell? And the other guy was also taken with him to paradise? Allah has proven to be neither merciful, nor just, nor consistent, but fickle and arbitrary and completely illogical.
 
+### Allah admits that he is Satan
+
+[Sahih al-Bukhari 4950](https://sunnah.com/bukhari:4950)
+
+> Once Allah's Messenger became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that **your Satan has forsaken you**, for I have not seen him with you for two or three nights!" On that Allah revealed: 'By the fore-noon, and by the night when it darkens, **your Lord (O Muhammad) has neither forsaken you**, nor hated you.' (93.1-3)
+
 ## Allah's religion
 
 ### Allah is a muslim
@@ -229,6 +235,52 @@ Surah 48:29
 
 So since Allah testifies that there is no God but Allah and that Muhammad is his prophet, it technically means that Allah is a Muslim.
 
+
+### Allah swears by creation
+
+**Significance of oaths** 
+
+Swearing is a social and psychological act where a person invokes something **greater** or **more sacred** than themselves to lend credibility to their words or promises. People swear on entities like deities, sacred texts, or natural phenomena because these are seen as powerful, eternal, or morally authoritative, capable of witnessing or enforcing the oath. This reflects a universal human tendency to appeal to higher values or powers for accountability. The choice of what is sworn upon reveals both the cultural significance of that entity and the individual’s perceived relationship to it, emphasizing trust, reverence, or honor.
+
+In the Bible, Yahweh swears on himself, because there is nothing higher or more sacred than him. (Genesis 22:16; Isaiah 45:23; Hebrews 6:13) In the Islamic sources, Allah sometimes swears by created things or other deities and is thus showing that he is not the highest and most sacred, but considers himself lower and less sacred than these things.
+
+### Allah swears by the moon
+
+Surah 73:32-34
+
+> But no! By the moon, and the night as it retreats, and the day as it breaks!
+
+In these verses, Allah swears by the moon. This is why this is significant:
+
+In pre-Islamic Arabia, **the moon** was significant in religion and culture, often associated with deities like **Sīn** (or **Wadd**) and linked to fertility, timekeeping, and navigation.
+
+So in this verse, Allah invokes the authority of the moon god Sīn as a greater, more sacred, powerful, and morally authoritative deity, capable of witnessing and enforcing the oath.
+
+This tells us that:
+
+- Allah is not Yahweh.
+- Allah is not the highest deity.
+- Allah considers other things more sacred and authoritative.
+- Allah is a lesser deity than the moon god Sīn.
+
+### Allah swears by the fore-noon and night
+
+Surah 93:1-3
+
+> By the morning sunlight and the night when it falls still! Your Lord ˹O Prophet˺ has not abandoned you, nor has He become hateful ˹of you˺.
+
+Allah swears by the morning and evening because these are more sacred than he is.
+
+
+### Allah swears by the Lord of the East and West
+
+Surah 70:40
+
+> I swear by the Lord of the easts and the wests that We have the power
+
+Why would Allah swear by someone else? A Lord at that? That only means this Lord is higher than Allah. 
+
+Yahweh in the Bible swear by himself because there is no one higher. (Genesis 22:16; Isaiah 45:23; Hebrews 6:13) The Bible shows that the Lord of the east and west is Yahweh. (Malachi 1:11; Psalm 113:3; Isaiah 59:19) So Allah swears by Yahweh.
 
 
 ### Allah prays
@@ -247,15 +299,6 @@ Surah 2:157
 
 Whom is Allah praying to?
 
-### Allah swears by the Lord of the East and West
-
-Surah 70:40
-
-> I swear by the Lord of the easts and the wests that We have the power
-
-Why would Allah swear by someone else? A Lord at that? That only means this Lord is higher than Allah. 
-
-Yahweh in the Bible swear by himself, because there is no one higher. But Allah swears by someone higher.
 
 
 

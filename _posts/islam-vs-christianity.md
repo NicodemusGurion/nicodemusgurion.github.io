@@ -3,13 +3,7 @@ title: Christianity v.s. Islam - A comparison
 tags: [Islam, Christianity, Lists]
 ---
 
-# God
-
-| Yahweh/Jesus | Allah |
-| ------- |---|
-| Is love. (1 John 4:8) Loves the whole world, including unbelievers. (John 3:16) | 
-
-# Essence and character of God
+# God's essence and character {#essence}
 
 | Allah | Yahweh |
 | ----- | ------ |
@@ -24,14 +18,15 @@ tags: [Islam, Christianity, Lists]
 | Allah is fickle and untrustworthy. | Yahweh is unchanging and trustworthy. |
 | Allah lies | Yahweh can not lie |
 
-# Authority 
+## God's authority {#authority}
 
 
 | Allah | Yahweh |
 | ----- | ------ |
 | Not every knee will bend before Allah. (Surah 48:62) | Every knee will bend before Jesus. (Phil 2:10-11) |
+| Swears by the moon (and by extension the moon god Sīn.) (Surah 74:32-34) | Swears by himself because there is none greater. (Genesis 22:16; Isaiah 45:23; Hebrews 6:13) |
 
-# Relationship with humanity
+# God's relationship with humanity {#humanity}
 
 
 | Allah | Yahweh |
@@ -51,7 +46,7 @@ tags: [Islam, Christianity, Lists]
 | Allah demands that a divorced woman must marry another man and divorce again before she can remarry her original husband.| Yahweh forbids a man who divorced his wife to remarry her if she became another man's wife.|
 
 
-# Sonship of Jesus Christ
+# Sonship of Jesus Christ {#sonship}
 
 | Islam | Christianity |
 | ----- | ------ |
@@ -66,7 +61,7 @@ tags: [Islam, Christianity, Lists]
 | Salvation in Islam is attained through faith in Allah, righteous deeds, and following the Five Pillars of Islam. It involves submission to Allah’s will, repentance, and seeking Allah’s mercy. | In Christianity, salvation is viewed as a gift of grace from God through faith in Jesus Christ (Ephesians 2:8-9). It involves belief in Jesus’ sacrificial death and resurrection, repentance from sin, but can not be attained by righteous deeds.|
 
 
-# Holy books
+# Holy books {#books}
 
 | Quran | Bible |
 | ----- | ------ |
@@ -84,7 +79,7 @@ tags: [Islam, Christianity, Lists]
 | No verified prophecy. | A lot of verified prophecy. |
 
 
-# Muhammad v.s. Jesus 
+# Muhammad v.s. Jesus {#founders}
 
 
 | Muhammad  | Jesus |
@@ -106,28 +101,11 @@ tags: [Islam, Christianity, Lists]
 | Had no idea what would happen to him after death. (Surah 46:9) | Knew he would resurrect himself after death. |
 | Is dead in his tomb. | Was resurrected and lives forever. |
 | Sahih Muslim 22 "I have been commanded to fight against people till they testify that there is no god but Allah, that Muhammad is the messenger of Allah"  | Luke 19:10 "For the Son of Man came to seek and to save the lost." |
-| 
+| Muhammad can not direct you the correct way. Surah 72:21 | Jesus **is** the way, the truth, and the life. John 14:6 |
+| Muhammad can not save anyone from Allah's punishment. Sahih al-Bukhari 2753 | Jesus saves and no one can snatch us out of his hand. John 10:28 |
 
 
 
-
-
-
-
-Muhammad can not direct you the correct way. Surah 72:21
-Jesus is the way, the truth, and the life. John 14:6
-
-Muhammad can not save anyone from Allah's punishment. Sahih al-Bukhari 2753
-Jesus saves and no one can snatch us out of his hand. John 10:28
-
-
-Surah 46:9
-
-> I am no new thing among the messengers of Allah, nor know I what will be done with me or with you.
-
-Matthew 28:18
-
-> All authority in heaven and on earth has been given to me.
 
 Surah 72:21
 
