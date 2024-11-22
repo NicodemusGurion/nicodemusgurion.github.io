@@ -1,5 +1,5 @@
 ---
-title: The Qright - The Revelation of Kenneth, the Final Final Prophet
+title: The Qright
 permalink: /qright/
 search: true
 layout: menu
