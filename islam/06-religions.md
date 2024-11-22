@@ -19,6 +19,14 @@ How to deal with those who leave islam.
 
 ## Punishment for apostasy is death {#apostasy-death-sentence}
 
+Surah 4:89
+
+> They wish you would disbelieve as they have disbelieved, so you may all be alike. So do not take them as allies unless they emigrate in the cause of Allah. But if they turn away, **then seize them and kill them wherever you find them**, and do not take any of them as allies or helpers,
+
+[Sunan Ibn Majah 2535](https://sunnah.com/ibnmajah:2535)
+
+> The Messenger of Allah said:“Whoever changes his religion, execute him.”
+
 [Sahih al-Bukhari 6922](https://sunnah.com/bukhari:6922)
 
 > Some Zanadiqa (atheists) were brought to Ali and he burnt them. The news of this event, reached Ibn Abbas who said, "If I had been in his place, I would not have burnt them, as Allah's Messenger forbade it, saying, 'Do not punish anybody with Allah's punishment (fire).' I would have killed them according to the statement of Allah's Messenger, 'Whoever changed his Islamic religion, then kill him.'"
@@ -27,23 +35,13 @@ See also:
 
 - [Sunan Ibn Majah 2535](https://sunnah.com/ibnmajah:2535)
 
-[Sunan an-Nasa'i 4102](https://sunnah.com/nasai:4102)
-
-> It was narrated that 'Ali said: "I heard the Messenger of Allah say: 'At the end of time there will appear young people with foolish minds. Their faith will not pass through their throats, and they will go out of Islam as an arrow goes through the target. If you meet them, then kill them, for killing them will bring reward to the one who killed them on the Day of Resurrection.'"
-
-
-See also:
-
-- [Jami` at-Tirmidhi 1458](https://sunnah.com/tirmidhi:1458)
+## Give apostates a chance to repent, and if they don't, kill them
 
 
 [Muwatta Malik 36:15](https://sunnah.com/urn/514180)
 
 > the Messenger of Allah, may Allah bless him and grant him peace, said, "If someone changes his deen (religion) - strike his neck!" The meaning of the statement of the Prophet, may Allah bless him and grant him peace, in our opinion and Allah knows best, is that "if someone changes his deen, strike his neck!" refers to those who leave Islam for other than it - like the heretics and their like, about whom it is known. They are killed without being called to tawba (repentance) because their tawba is not recognised. They were hiding their kufr and publishing their Islam, so I do not think that one calls such people to tawba, and one does not accept their word. As for the one who goes out of Islam to something else and divulges it, one calls him to tawba. If he does not turn in tawba, he is killed. If there are people in that situation, I think that one should call them to Islam and call them to tawba. If they turn in tawba, that is accepted from them. If they do not turn in tawba, they are killed. 
 
-[Sunan Ibn Majah 2535](https://sunnah.com/ibnmajah:2535)
-
-> “Whoever changes his religion, execute him.”
 
 See also:
 
@@ -72,6 +70,16 @@ See also:
 > I heard the Messenger of Allah as saying: There would arise at the end of the age a people who would be young in age and immature in thought, but they would talk (in such a manner) as if their words are the best among the creatures. They would recite the Qur'an, but it would not go beyond their throats, and they would pass through the religion as an arrow goes through the prey. So when you meet them, kill them, for in their killing you would get a reward with Allah on the Day of Judgement.
 
 So there would be Muslims who falsely claim to be Muslims. And muslims should kill the false Muslims.
+
+
+[Sunan an-Nasa'i 4102](https://sunnah.com/nasai:4102)
+
+> It was narrated that 'Ali said: "I heard the Messenger of Allah say: 'At the end of time there will appear young people with foolish minds. Their faith will not pass through their throats, and they will go out of Islam as an arrow goes through the target. If you meet them, then kill them, for **killing them will bring reward to the one who killed them** on the Day of Resurrection.'"
+
+
+See also:
+
+- [Jami` at-Tirmidhi 1458](https://sunnah.com/tirmidhi:1458)
 
 ## Islam is a strange serpent receding into its hole {#strange-serpent}
 
