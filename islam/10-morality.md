@@ -9,6 +9,20 @@ search: true
 
 {% include toc.md %}
 
+
+# Divorce
+
+Surah 2:230
+
+> So if a husband divorces his wife, then it is not lawful for him to remarry her until after she has married another man and then is divorced. 
+
+Before a man can remarry a wife he divorced, she must first be passed around like a joint for others to enjoy.
+
+In Deuteronomy 24:1-4 gives the exact opposite command:
+
+> “When a man takes a wife and marries her, … and he writes her a certificate of divorce … and if she goes and becomes another man’s wife, 3 and the latter man hates her and writes her a certificate of divorce … then her former husband, who sent her away, may **not** take her again to be his wife, after she has been defiled, for that is an abomination before the LORD. 
+
+
 # Intoxicants 
 
 See Surah 5:90,91; 16:65-69; 37:43-46; 47:15; 83:22-26

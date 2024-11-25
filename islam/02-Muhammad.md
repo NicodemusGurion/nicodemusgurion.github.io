@@ -403,8 +403,15 @@ Muhammad predicted that plagues (epidemic illnesses) would not be able to enter 
 [Turns out he was wrong](https://archive.fo/VQDJH). Perhaps those angels were off duty?
 
 
+## Muhammad predicted that the last hour would come before a young man grew old
 
-## Muhammad couldn't even remember his own nonsense
+[Sahih Muslim 2952](https://sunnah.com/muslim:2952)
+
+> 'A'isha reported that when the desert Arabs came to Allah's Messenger **they asked about the Last Hour as to when that would come.** And he looked towards the youngest amongst them and said: **If this man lives, he will not be overtaken by old age.** Your hour has come upon you.”
+
+That young man has been dead for way longer than a thousand years, but the last hour didn't come. Muhammad is a false prophet.
+
+## Muhammad couldn't remember verses of the Quran
 
 
 [Sahih al-Bukhari 5038](https://sunnah.com/bukhari:5038)
