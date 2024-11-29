@@ -135,6 +135,14 @@ This means men are allowed to marry and divorce prepubescent girls.
 
 Temporary marriage or Muta is when a Muslim man marries a woman for a few days or hours usually in exchange for money, just because he can't keep it in his pants for a few days, or he wants to sleep around without technically committing adultery. It's basically prostitution. Just yet another way in which Islam treats women as property or commodities to be bought and sold.
 
+### Captured women's marriage annulled
+
+[Sahih Muslim 1456 a](https://sunnah.com/muslim:1456)
+
+> Abu Sa'id al-Khudri reported that at the Battle of Hanain Allah's Messenger sent an army to Autas and encountered the enemy and fought with them. Having overcome them and taken them captives, the Companions of Allah's Messenger seemed to refrain from having intercourse with captive women because of their husbands being polytheists. Then Allah, Most High, sent down regarding that:" And women already married, except those whom your right hands possess"
+
+The companions of Muhammad had the basic decency to not rape married women, but then Allah said it's ok to rape married women if you capture them in battle.
+
 ## Opresive rules
 
 ### Women wearing perfume are adulteresses

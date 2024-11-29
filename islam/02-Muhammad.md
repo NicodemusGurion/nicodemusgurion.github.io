@@ -365,9 +365,15 @@ Given what we know about Muhammad, what most likely happened is that the proud p
 
 
 
+## Muhammad condoned murder {#murder}
 
 
+[Sunan an-Nasa'i 4070](https://sunnah.com/nasai:4070)
 
+
+> There was a blind man during the time of the Messenger of Allah who had an Umm Walad by whom he had two sons. She used to slander and defame the Messenger of Allah a great deal, and he would rebuke her, but she would not pay heed, and he would forbid her to do that, but she ignored him. (The blind man said) One night I mentioned the Prophet, and she slandered him. I could not bear it so I went and got a dagger which I thrust into her stomach and leaned upon it, and killed her. In the morning she was found slain. Mention of that was made to the Prophet and he gathered the people and said: "I adjure by Allah; a man over whom I have the right, that he should obey me, and he did what he did, to stand up." The blind man started to tremble and said: "O Messenger of Allah, I am the one who killed her. She was my Umm Walad and she was kind and gentle toward me, and I have two sons like pearls from her, but she used to slander and defame you a great deal. I forbade her, but she did not stop, and I rebuked her, but she did not pay heed. Finally, I mentioned your name and she slandered you, so I went and got a dagger which I thrust into her stomach, and leaned on it until I killed her. The Messenger of Allah said: "I bear witness that her blood is permissible."
+
+She was a good wife, and he murdered her because he was brainwashed by his cult leader, and his cult leader condoned and approves of this.
 
 
 # Muhammad spiritual qualifications and prophethood {#prophethood}
