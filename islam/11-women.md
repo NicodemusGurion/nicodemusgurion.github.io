@@ -126,6 +126,15 @@ There's a waiting period a divorced woman has to wait before she can remarry.
 
 This means men are allowed to marry and divorce prepubescent girls.
 
+
+### Temporary marriages allowed {#muta}
+
+[Sahih al-Bukhari 5075](https://sunnah.com/bukhari:5075)
+
+> We used to participate in the holy battles led by Allah's Messenger and we had nothing (no wives) with us. So we said, "Shall we get ourselves castrated?" He forbade us that and then allowed us to marry women with a temporary contract
+
+Temporary marriage or Muta is when a Muslim man marries a woman for a few days or hours usually in exchange for money, just because he can't keep it in his pants for a few days, or he wants to sleep around without technically committing adultery. It's basically prostitution. Just yet another way in which Islam treats women as property or commodities to be bought and sold.
+
 ## Opresive rules
 
 ### Women wearing perfume are adulteresses
