@@ -419,7 +419,11 @@ That young man has been dead for way longer than a thousand years, but the last 
 > Allah's Messenger heard a man reciting the Qur'an at night, and said, "May Allah bestow His Mercy on him, as he has reminded me of such-and-such Verses of such-and-such Suras, which I was caused to forget."
 
 
+## Muhammad ordered Muslims to cast spells {#cast-spells}
 
+
+[Mishkat al-Masabih 4527](https://sunnah.com/mishkat:4527)
+> Aisha said : The Prophet gave command that we should use a spell against the evil eye. 
 
 
 
