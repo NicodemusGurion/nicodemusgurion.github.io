@@ -95,14 +95,27 @@ Surah 4:171
 > Jesus is His Word which He communicated to Mary and His spirit which He sent to her
 
 
+## Jesus has the divine powers of Allah
+
+Surah 22:6,7
+
+> That is because Allah is the truth, and that He gives life to the dead, and that He is powerful to do everything, and that the Hour has to come, in which there is no doubt, and that Allah will raise again all those in the graves.
+
+Allah is the truth, who gives life to the dead, when the hour comes he will raise the dead in the graves.
 
 
+John 14:6 
+
+> Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.
+
+John 5:21,25 
+
+> For as the Father raises the dead and gives them life, so also the Son gives life to whom he will. … “Truly, truly, I say to you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live.
+
+Jesus is the truth, who gives life to the dead, when the hour comes he will raise the dead in the graves.
 
 
-
-
-
-
+This proves that Jesus claims to be God.
 
 
 
