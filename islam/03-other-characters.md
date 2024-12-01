@@ -112,6 +112,10 @@ John 5:21,25
 
 > For as the Father raises the dead and gives them life, so also the Son gives life to whom he will. … “Truly, truly, I say to you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live.
 
+John 5:28-29 
+
+> Do not marvel at this, for an hour is coming when all who are in the tombs will hear his voice and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment.
+
 Jesus is the truth, who gives life to the dead, when the hour comes he will raise the dead in the graves.
 
 

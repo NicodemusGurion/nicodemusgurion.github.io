@@ -72,6 +72,11 @@ Surah 19:71
 So apparently all people, including all Muslims, will go to hell. It's up to the iffy and contradictory means of [salvation](#salvation) that anyone would get out of there.
 
 
+## Hell can think and speak
+
+[Jami` at-Tirmidhi 2572](https://sunnah.com/tirmidhi:2572)
+
+> Anas bin Malik narrated that the Messenger of Allah said: "Whoever asks Allah Paradise three times, Paradise says: 'O Allah, admit him into Paradise', and whoever seeks refuge from the Fire three times, the Fire says: 'O Allah, save him from the Fire.'"
 
 
 # Jinn
@@ -211,7 +216,11 @@ Surah 2:29
 
 > It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens...
 
+## Paradise can think and speak
 
+[Jami` at-Tirmidhi 2572](https://sunnah.com/tirmidhi:2572)
+
+> Anas bin Malik narrated that the Messenger of Allah said: "Whoever asks Allah Paradise three times, Paradise says: 'O Allah, admit him into Paradise', and whoever seeks refuge from the Fire three times, the Fire says: 'O Allah, save him from the Fire.'"
 
 
 
@@ -397,7 +406,11 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 > Allah's Messenger said, "Any Muslim whose three children died before the age of puberty will be granted Paradise by Allah because of His mercy to them."
 
 
+## Paradise and hell can intercede
 
+[Jami` at-Tirmidhi 2572](https://sunnah.com/tirmidhi:2572)
+
+> Anas bin Malik narrated that the Messenger of Allah said: "Whoever asks Allah Paradise three times, Paradise says: 'O Allah, admit him into Paradise', and whoever seeks refuge from the Fire three times, the Fire says: 'O Allah, save him from the Fire.'"
 
 
 
