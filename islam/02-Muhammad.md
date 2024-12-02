@@ -17,7 +17,7 @@ What did he look like?
 
 An average looking fellow, neither tall nor short, with wavy hair, silver white skin, yellow beard, eyeliner and mascara, gap tooth and one tooth knocked out.
 
-![Rendition of Muhammad according to Hadiths](https://i.ibb.co/PMb3RRZ/IMG-1912.jpg)
+![Rendition of Muhammad according to the descriptions found in the Hadiths](https://i.ibb.co/jht9dgr/D9540539-7-CC1-4-F7-E-95-C7-D7-C4536-F5378.jpg)
 
 ## Muhammad was very average looking {#average-looks}
 
