@@ -328,3 +328,19 @@ This teaches that wine is a reward from Allah in paradise.
 So is wine a blessing from Allah or an invention of Satan?
 
 See also Surah 37:43-46; 47:15
+
+### Noah's sons all survived the flood or not
+
+Surah 21:76
+
+> And ˹remember˺ when Noah had cried out to Us earlier, so We responded to him and delivered him and his family from the great distress.
+
+All of Noah's family survived.
+
+Surah 11:41-42
+
+>And the Ark sailed with them through waves like mountains. Noah called out to his son, who stood apart, “O my dear son! Come aboard with us and do not be with the disbelievers.” He replied, “I will take refuge on a mountain, which will protect me from the water.” Noah cried, “Today no one is protected from Allah’s decree except those to whom He shows mercy!” And the waves came between them, and his son was among the drowned.
+
+Not all of Noah's family survived.
+
+(This also contradicts the Bible of course.)
