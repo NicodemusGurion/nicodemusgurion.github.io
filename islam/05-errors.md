@@ -344,3 +344,14 @@ Surah 11:41-42
 Not all of Noah's family survived.
 
 (This also contradicts the Bible of course.)
+
+
+### Jinn can not produce something like the Quran, but did produce a whole Surah of the Quran 
+
+Surah 17:88
+
+> Say, ‘Even if all mankind **and jinn** came together to produce **something like this Quran**, they could not produce anything like it, however much they helped each other.’
+
+"Something like the Quran" would be a text of the same calibre, would it not? Would a Surah of the Quran count as "something like the Quran"?
+
+Because pretty much the entirety of Surah 72 is quotations of what jinn allegedly said. So Surah 72 was authored by jinn. They thus produced "something like the Quran." Actually they produced part of the Quran.
