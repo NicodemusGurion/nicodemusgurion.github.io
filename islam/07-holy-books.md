@@ -83,6 +83,11 @@ Surah 5:47
 > So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
 
 
+## Muhammad is ordered to consult the Jews and Christians if he is in doubt
+
+Surah 10:94
+
+>  If you ˹O Prophet˺ are in doubt about ˹these stories˺ that We have revealed to you, then ask those who read the Scripture before you. The truth has certainly come to you from your Lord, so do not be one of those who doubt,
 
 
 

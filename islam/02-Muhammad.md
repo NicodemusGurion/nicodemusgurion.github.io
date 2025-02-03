@@ -1036,6 +1036,10 @@ See also [Slavery](#slavery)
 
 ## Muhammad owned slaves {#slave-owner}
 
+[Sahih al-Bukhari 2468](https://sunnah.com/bukhari:2468)
+
+> So I went to the upper room where the Prophet was and requested to a black slave of his: "Will you get the permission of (Allah's Apostle) for Umar (to enter)?
+
 [Sahih al-Bukhari 5433](https://sunnah.com/bukhari:5433)
 
 > Allah's Messenger went to his slave tailor...
@@ -1045,6 +1049,8 @@ See also [Slavery](#slavery)
 > Rifaa ibn Zayd presented a black slave boy to the Messenger of Allah, may Allah bless him and grant him peace, whose name was Midam...Midam was unsaddling the camel of the Messenger of Allah, may Allah bless him and grant him peace, when a stray arrow struck and killed him. The people said, 'Good luck to him! The Garden!' The Messenger of Allah said, 'No! By He in whose hand my self is! The cloak which he took from the spoils on the Day of Khaybar before they were distributed will blaze with fire on him.'
 
 Muhammad had a black slave who was killed in battle, and Muhammad said he went to hell.
+
+
 
 See also:
 
@@ -1190,7 +1196,12 @@ These people had stolen some camels so Muhammad **had their hands and feet cut o
 
 
 
+## Muhammad attacked and enslaved defenseless people 
 
+
+[Sahih al-Bukhari 2541](https://sunnah.com/bukhari:2541)
+
+> the Prophet had suddenly attacked Bani Mustaliq without warning while they were heedless and their cattle were being watered at the places of water. Their fighting men were killed and their women and children were taken as slaves
 
 
 
