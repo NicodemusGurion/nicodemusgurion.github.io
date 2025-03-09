@@ -1,0 +1,74 @@
+/* Styling for the adventure game with horizontal buttons */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+.adventure-container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.adventure-content {
+  margin-bottom: 30px;
+}
+
+.adventure-choices {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  border-top: 1px solid #eee;
+  padding-top: 20px;
+}
+
+.adventure-choice {
+  padding: 12px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s, transform 0.1s;
+}
+
+.adventure-choice:hover {
+  background-color: #0069d9;
+  transform: translateY(-2px);
+}
+
+.adventure-choice:active {
+  transform: translateY(0);
+}
+
+.adventure-end {
+  text-align: center;
+  font-style: italic;
+  margin-top: 20px;
+  color: #666;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+  .adventure-container {
+    padding: 15px;
+    margin: 10px;
+  }
+  
+  .adventure-choices {
+    flex-direction: column;
+  }
+  
+  .adventure-choice {
+    width: 100%;
+  }
+}

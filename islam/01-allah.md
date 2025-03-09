@@ -146,7 +146,6 @@ Surah 16:93
 > Had Allah willed, He could have easily made you one community ˹of believers˺, but He leaves to stray whoever He wills and guides whoever He wills. And you will certainly be questioned about what you used to do.
 
 
-
 ### Allah blinds people to the truth
 
 Surah 2:7
@@ -154,6 +153,12 @@ Surah 2:7
 > Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
 
 It is Allah's fault if someone does not believe.
+
+## Allah hates deaf and dumb people
+
+Surah 8:22
+
+> Indeed, the worst of living creatures in the sight of Allāh are the deaf and dumb who do not use reason
 
 ### Allah wants people to sin
 

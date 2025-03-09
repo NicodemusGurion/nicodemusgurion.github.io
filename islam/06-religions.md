@@ -168,13 +168,20 @@ Surah 5:51
 
 Think you have a Muslim friend? Think again. Muslims are not allowed to be your friend, but will only pretend to be friendly to deceive.
 
-## Do not insult unbelievers 
+## Do not insult unbelievers or they will insult Allah
 
 Surah 6:108
 
 > ˹O believers!˺ Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance. 
 
-## Bully Jews and Christians 
+
+## Non-Muslims are the worst of creatures
+
+Surah 98:6
+
+> Those who reject (Truth), among the People of the Book and among the Polytheists, will be in Hell-Fire, to dwell therein. They are the worst of creatures
+
+## Do not greet Jews and Christians but bully them
 
 [Sahih Muslim 2167 a](https://sunnah.com/muslim:2167)
 
