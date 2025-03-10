@@ -1,11 +1,9 @@
 ---
 layout: adventure
-title: Adventure
+title: Adventure thing
 permalink: /adventure/
 ---
-
 # Choose Your Own Adventure
-
 
 You wake up in a mysterious forest. The trees tower above you, their leaves casting dancing shadows on the ground. You have no memory of how you got here.
 
