@@ -481,6 +481,15 @@ Surah 2:216
 
 Apparently Allah thinks violence is good for humans. 
 
+
+### Muslims "kill and are killed" for Allah
+
+Surah 9:111
+
+> Allah has indeed purchased from the believers their lives and wealth in exchange for Paradise. **They fight in the cause of Allah and kill or are killed**. This is a true promise binding on Him in the Torah, the Gospel, and the Quran. And whose promise is truer than Allah’s? So rejoice in the exchange you have made with Him. That is ˹truly˺ the ultimate triumph.
+
+In order to get paradise a Muslim must sell his soul to Allah, and they do this by fighting for Allah, Killing and being killed.
+
 ### Muslims not fighting are hypocrites
 
 [Sunan an-Nasa'i 3097](https://sunnah.com/nasai:3097)

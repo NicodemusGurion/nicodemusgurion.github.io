@@ -501,5 +501,14 @@ Surah 57:10
 > And why should you not spend in the cause of Allah, while Allah is the inheritor of the heavens and the earth?
 
 
+### Allah purchases souls from people
 
+Surah 9:111
 
+> Allah has indeed purchased from the believers their lives and wealth in exchange for Paradise. They fight in the cause of Allah and kill or are killed. This is a true promise binding on Him in the Torah, the Gospel, and the Quran. And whose promise is truer than Allah’s? So rejoice in the exchange you have made with Him. That is ˹truly˺ the ultimate triumph.
+
+Allah needs to purchase souls. Meanwhile Yahweh already owns all souls.
+
+> Ezekiel 18:4 — Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.
+
+These are not the same gods. Yahweh owns everything, but Allah does not. Allah needs to purchase souls.
