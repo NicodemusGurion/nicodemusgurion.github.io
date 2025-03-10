@@ -1,118 +1,178 @@
 /**
  * Choose Your Own Adventure Game Engine for GitHub Pages
- * This script converts a markdown document into an interactive adventure game.
+ * Converts markdown content rendered by GitHub Pages into an interactive adventure game
  */
 
 document.addEventListener('DOMContentLoaded', function() {
-  // Get the content container where the story will be displayed
+  // Create the adventure container
   const contentContainer = document.createElement('div');
   contentContainer.id = 'adventure-container';
   contentContainer.className = 'adventure-container';
-  document.body.appendChild(contentContainer);
   
-  // Extract all content from the document
-  const documentContent = document.body.innerHTML;
+  // Get the content from the page (rendered by GitHub Pages)
+  const originalContent = document.getElementById('content');
+  
+  if (!originalContent) {
+    console.error("Content container not found. Make sure you have a div with id='content'.");
+    return;
+  }
   
   // Parse the document content into story nodes
-  const storyNodes = parseDocumentContent(documentContent);
+  const storyNodes = parseDocumentContent(originalContent);
   
   // Initialize the game
   if (Object.keys(storyNodes).length > 0) {
+    // Replace content with our game container
+    document.body.insertBefore(contentContainer, originalContent);
+    originalContent.style.display = 'none';
+    
+    // Render the start node
     renderNode('start');
   } else {
-    contentContainer.innerHTML = '<p>Error: No story content found.</p>';
+    contentContainer.innerHTML = '<p>Error: No story content found. Check the structure of your markdown file.</p>';
+    document.body.insertBefore(contentContainer, originalContent);
   }
   
   /**
    * Parse the document content into story nodes
    */
-  function parseDocumentContent(content) {
-    // Create a temporary element to work with the content
-    const tempContainer = document.createElement('div');
-    tempContainer.innerHTML = content;
-    
-    // Get all elements in the document
-    const allElements = Array.from(tempContainer.children);
-    
-    // Create an object to store our story nodes
+  function parseDocumentContent(contentElement) {
     const nodes = {};
     
-    // Extract the start node (everything before the first heading)
+    // Get all headings in the document
+    const headings = contentElement.querySelectorAll('h1, h2, h3, h4, h5, h6');
+    
+    // If there are no headings, try to use the entire content as the start node
+    if (headings.length === 0) {
+      const paragraphs = contentElement.querySelectorAll('p');
+      let startContent = '';
+      let startChoices = [];
+      
+      // Add any paragraphs to the start content
+      paragraphs.forEach(p => {
+        startContent += p.outerHTML;
+      });
+      
+      // Look for lists (choices)
+      const lists = contentElement.querySelectorAll('ul');
+      if (lists.length > 0) {
+        startChoices = parseChoices(lists[0]);
+      }
+      
+      nodes['start'] = {
+        content: startContent,
+        choices: startChoices
+      };
+      
+      return nodes;
+    }
+    
+    // Process the first heading differently - everything before it is the start node
+    const firstHeading = headings[0];
     let startContent = '';
     let startChoices = [];
-    let index = 0;
+    let currentElement = contentElement.firstChild;
     
-    // Collect content until we hit a heading
-    while (index < allElements.length && 
-           !['H1', 'H2', 'H3', 'H4', 'H5', 'H6'].includes(allElements[index].tagName)) {
-      
-      // If we find a list, it contains our choices
-      if (allElements[index].tagName === 'UL') {
-        startChoices = parseChoices(allElements[index]);
-      } else {
-        // Otherwise it's part of the content
-        startContent += allElements[index].outerHTML;
+    // Collect all content before the first heading for the start node
+    while (currentElement && currentElement !== firstHeading) {
+      if (currentElement.nodeType === Node.ELEMENT_NODE) {
+        if (currentElement.tagName === 'UL') {
+          startChoices = parseChoices(currentElement);
+        } else if (!['SCRIPT', 'STYLE'].includes(currentElement.tagName)) {
+          startContent += currentElement.outerHTML;
+        }
       }
-      
-      index++;
+      currentElement = currentElement.nextSibling;
     }
     
-    // Save the start node
-    nodes['start'] = {
-      content: startContent,
-      choices: startChoices
-    };
-    
-    // Now process each heading and its content as a node
-    let currentNodeId = '';
-    let currentNodeContent = '';
-    let currentNodeChoices = [];
-    
-    for (let i = index; i < allElements.length; i++) {
-      const element = allElements[i];
+    // Special case: if the first heading is h1, we'll use it as part of the start node content
+    if (firstHeading.tagName === 'H1') {
+      startContent = firstHeading.outerHTML + startContent;
+      nodes['start'] = {
+        content: startContent,
+        choices: startChoices
+      };
       
-      // If we hit a heading, it's the start of a new node
-      if (['H1', 'H2', 'H3', 'H4', 'H5', 'H6'].includes(element.tagName)) {
-        // Save the previous node if we have one
-        if (currentNodeId) {
-          nodes[currentNodeId] = {
-            content: currentNodeContent,
-            choices: currentNodeChoices
-          };
+      // Start processing with the second heading
+      processHeadings(headings, 1);
+    } else {
+      // Otherwise, use the content before the first heading as the start node
+      nodes['start'] = {
+        content: startContent,
+        choices: startChoices
+      };
+      
+      // Process all headings
+      processHeadings(headings, 0);
+    }
+    
+    // Helper function to process headings and their content
+    function processHeadings(headings, startIndex) {
+      for (let i = startIndex; i < headings.length; i++) {
+        const heading = headings[i];
+        const headingId = heading.id || githubSlugify(heading.textContent);
+        
+        let nodeContent = heading.outerHTML;
+        let nodeChoices = [];
+        
+        // Collect content until the next heading
+        let nextElement = heading.nextSibling;
+        while (nextElement && 
+               !(nextElement.nodeType === Node.ELEMENT_NODE && 
+                 ['H1', 'H2', 'H3', 'H4', 'H5', 'H6'].includes(nextElement.tagName))) {
+          
+          if (nextElement.nodeType === Node.ELEMENT_NODE) {
+            if (nextElement.tagName === 'UL') {
+              nodeChoices = parseChoices(nextElement);
+            } else if (!['SCRIPT', 'STYLE'].includes(nextElement.tagName)) {
+              nodeContent += nextElement.outerHTML;
+            }
+          }
+          
+          nextElement = nextElement.nextSibling;
         }
         
-        // Start a new node
-        // Generate ID in the same way GitHub does (lowercase, replace spaces with hyphens, remove non-alphanumeric)
-        const headingText = element.textContent;
-        currentNodeId = githubSlugify(headingText);
-        
-        currentNodeContent = element.outerHTML;
-        currentNodeChoices = [];
-      } 
-      // If we find a list, it contains our choices for the current node
-      else if (element.tagName === 'UL') {
-        currentNodeChoices = parseChoices(element);
-      } 
-      // Otherwise it's content for the current node
-      else {
-        currentNodeContent += element.outerHTML;
+        // Save this node
+        nodes[headingId] = {
+          content: nodeContent,
+          choices: nodeChoices
+        };
       }
-    }
-    
-    // Save the last node
-    if (currentNodeId) {
-      nodes[currentNodeId] = {
-        content: currentNodeContent,
-        choices: currentNodeChoices
-      };
     }
     
     return nodes;
   }
   
   /**
+   * Parse a UL element into an array of choice objects
+   */
+  function parseChoices(ulElement) {
+    const choices = [];
+    const listItems = ulElement.querySelectorAll('li');
+    
+    listItems.forEach(li => {
+      const text = li.textContent;
+      const parts = text.split('>');
+      
+      if (parts.length >= 2) {
+        const choiceText = parts[0].trim();
+        const targetHeadingText = parts[1].trim();
+        
+        // Generate the target ID using GitHub-style slugification
+        const targetId = githubSlugify(targetHeadingText);
+        
+        choices.push({
+          text: choiceText,
+          target: targetId
+        });
+      }
+    });
+    
+    return choices;
+  }
+  
+  /**
    * Convert a string into a GitHub-style slug ID
-   * This mimics how GitHub generates IDs for markdown headings
    */
   function githubSlugify(text) {
     return text
@@ -121,36 +181,6 @@ document.addEventListener('DOMContentLoaded', function() {
       .replace(/\s+/g, '-')     // Replace spaces with hyphens
       .replace(/--+/g, '-')     // Replace multiple hyphens with single
       .replace(/^-|-$/g, '');   // Remove leading/trailing hyphens
-  }
-  
-  /**
-   * Parse a UL element into an array of choice objects
-   */
-  function parseChoices(ulElement) {
-    const choices = [];
-    const listItems = ulElement.getElementsByTagName('li');
-    
-    for (let i = 0; i < listItems.length; i++) {
-      const text = listItems[i].textContent;
-      
-      // Look for the ">" separator instead of ":"
-      const parts = text.split('>');
-      
-      if (parts.length >= 2) {
-        const choiceText = parts[0].trim();
-        const targetHeadingText = parts[1].trim();
-        
-        // Generate the target ID using the same GitHub-style slugification
-        const targetId = githubSlugify(targetHeadingText);
-        
-        choices.push({
-          text: choiceText,
-          target: targetId
-        });
-      }
-    }
-    
-    return choices;
   }
   
   /**
@@ -199,8 +229,4 @@ document.addEventListener('DOMContentLoaded', function() {
     // Scroll to the top
     window.scrollTo(0, 0);
   }
-  
-  // Replace the original document content with our game container
-  document.body.innerHTML = '';
-  document.body.appendChild(contentContainer);
 });
