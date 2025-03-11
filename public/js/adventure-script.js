@@ -37,7 +37,20 @@ document.addEventListener("DOMContentLoaded", function () {
 
             li.textContent = ""; // Clear existing text
             li.appendChild(link); // Add the new link
-        }
+        } else { // check for hard coded link
+	        match = li.textContent.match(/(.*?)\s*\@\s*(.*)/);
+	        if (match) {
+	            let linkText = match[1].trim();
+	            let targetId = match[2].trim();
+
+	            let link = document.createElement("a");
+	            link.href = targetId;
+	            link.textContent = linkText;
+
+	            li.textContent = ""; // Clear existing text
+	            li.appendChild(link); // Add the new link
+	        }
+        } 
     });
 //move to first section
     if (!window.location.hash) {
