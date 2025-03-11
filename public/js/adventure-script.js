@@ -19,12 +19,20 @@ document.addEventListener("DOMContentLoaded", function () {
             document.body.appendChild(wrapper);
         }
         if (wrapper) {
+	        let link = document.createElement("a");
+            link.textContent = "&lt;";
+            link.onclick = function() {
+				history.back();
+				return false;
+			}
+			wrapper.appendChild(link);
             // Move elements into the current wrapper
             wrapper.appendChild(el);
         }
     });
     
 //make links
+
     document.querySelectorAll("li").forEach((li) => {
         let match = li.textContent.match(/(.*?)\s*\#\s*(.*)/);
         if (match) {
