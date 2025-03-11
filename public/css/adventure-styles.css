@@ -62,7 +62,7 @@ ul li a:hover {
     }
 
     ul li a {
-        width: 100%; /* Full width on small screens */
+        width: 90%; /* Full width on small screens */
         text-align: center;
     }
 }
