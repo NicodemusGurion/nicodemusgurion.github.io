@@ -1,6 +1,7 @@
 ---
+layout: adventure
 title: Was Rebecca married at age 3?
-permalink: rebecca
+permalink: /claims/rebecca
 ---
 
 # Start
