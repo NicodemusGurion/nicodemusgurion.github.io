@@ -1,6 +1,6 @@
 ---
 title: Was Rebecca married at age 3?
-permalink: /cases/rebecca
+permalink: /claims/rebecca
 ---
 
 # Start
