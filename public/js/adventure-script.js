@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
     
 //make links
     document.querySelectorAll("li").forEach((li) => {
-        let match = li.textContent.match(/(.*?)\s*>\s*(.*)/);
+        let match = li.textContent.match(/(.*?)\s*\#\s*(.*)/);
         if (match) {
             let linkText = match[1].trim();
             let targetId = match[2].trim().toLowerCase().replace(/\s+/g, "-");
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function () {
             li.textContent = ""; // Clear existing text
             li.appendChild(link); // Add the new link
         } else { // check for hard coded link
-	        match = li.textContent.match(/(.*?)\s*\@\s*(.*)/);
+	        match = li.textContent.match(/(.*?)\s*\>\s*(.*)/);
 	        if (match) {
 	            let linkText = match[1].trim();
 	            let targetId = match[2].trim();

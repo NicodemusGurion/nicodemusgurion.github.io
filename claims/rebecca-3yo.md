@@ -11,15 +11,13 @@ As we can see from the Bible, [Rebecca was definitely not 3 years old when she g
 
 But for the sake of argument, let's *assume* that Isaac actually *did* marry Rebecca when she was 3 years old; Do you personally think that doing so would have been a morally good thing to do?
 
-- Yes, Isaac did the morally good thing > Adult men may marry toddlers
-- No, Isaac was a morally despicable man > Adult men may not marry toddlers
+- Yes, Isaac did the morally good thing # Adult men may marry toddlers
+- No, Isaac was a morally despicable man # Adult men may not marry toddlers
 
 
 # Adult men may marry toddlers
 
 So you think that it is ok for an adult man to marry a toddler? Then you should probably be in prison.
-
-
 
 # Adult men may not marry toddlers
 
@@ -27,8 +25,8 @@ So if Isaac was a morally despicable man if he married Rebecca at age 3, why wou
 
 (By the way, the age gap between Isaac and Rebecca would be 37 years, and the age gap between Muhammad and Aisha would be 47 years.)
 
-- Yes, Muhammad was despicable > Muhammad was despicable
-- No, Muhammad was a good moral example in marrying a child @ aisha/ 
+- Yes, Muhammad was despicable # Muhammad was despicable
+- No, Muhammad was a good moral example in marrying a child > /cases/aisha/ 
 
 
 # Muhammad was despicable
