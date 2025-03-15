@@ -110,16 +110,7 @@ Islam views non-Muslims as the worst of all beings.
 > "The Messenger of Allah said: 'Whoever changes his religion, kill him.'"
 
 
-## Backgammon is forbidden
 
-[Sunan Ibn Majah 3763](https://sunnah.com/ibnmajah:3763)
-
-> Whoever plays backgammon, it is as if he dipped his hand in the flesh and blood of a pig.
-
-See also:
-
-- [Al-Adab Al-Mufrad 1271](https://sunnah.com/adab:1271)
-- [Al-Adab Al-Mufrad 1277](https://sunnah.com/adab:1277)
 
 ## Stoning is monkey business 
 
@@ -152,6 +143,12 @@ So if you point with your finger, wave with your hand, or do anything else that 
 See also:
 
 - [Jami` at-Tirmidhi 2640](https://sunnah.com/tirmidhi:2640)
+
+## The goal of Islam is world domination
+
+[Mishkat al-Masabih 42](https://sunnah.com/mishkat:42)
+
+> Miqdad reported that he heard God’s messenger say, “There will not remain on the face of the earth a mud-brick house or a camel’s hair tent which God will not cause the confession of Islam to enter bringing both mighty honour and abject abasement. God will either honour the occupants and put them among its adherents, or will humiliate them and they will be subject to it.” Miqdad said, “God will then receive complete obedience.”
 
 
 # Non-Muslims, Jews and Christians {#non-muslims}

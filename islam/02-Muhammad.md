@@ -417,6 +417,11 @@ Muhammad predicted that plagues (epidemic illnesses) would not be able to enter 
 
 That young man has been dead for way longer than a thousand years, but the last hour didn't come. Muhammad is a false prophet.
 
+
+See also:
+
+- [Sahih Muslim 2953b](https://sunnah.com/muslim:2953b)
+
 ## Muhammad couldn't remember verses of the Quran
 
 

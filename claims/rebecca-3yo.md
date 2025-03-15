@@ -6,9 +6,9 @@ permalink: /claims/rebecca
 
 # Start
 
-The claim is that Rebecca in the Bible was married off to Isaac at the age of 3.
+Some claim that Rebecca in the Bible was married off to Isaac at the age of 3.
 
-This claim is made to somehow justify that Muhammad married Aisha at age 6 and consummated the marriage when she was 9.[^hadiths]
+This claim is made to justify the fact that Muhammad married Aisha at age 6 and consummated the marriage when she was 9.[^hadiths]
 
 [^hadiths]: See [Sahih al Bukhari 6130](https://sunnah.com/bukhari:6130), [3896](https://sunnah.com/bukhari:3896), [5133](https://sunnah.com/bukhari:5133), [5134](https://sunnah.com/bukhari:5134), [5158](https://sunnah.com/bukhari:5158), [Sahih Muslim 1422c](https://sunnah.com/muslim:1422c), [1422b](https://sunnah.com/muslim:1422b), [1876](https://sunnah.com/ibnmajah:1876), [1982](https://sunnah.com/ibnmajah:1982), [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931), [2121](https://sunnah.com/abudawud:2121), and [Sunan an Nasa'i 3378](https://sunnah.com/nasai:3378).
 

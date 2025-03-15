@@ -151,6 +151,9 @@ See also:
 
 I'm pretty sure it does, eventually.
 
+See also:
+- [Sahih Muslim 2955c](https://sunnah.com/muslim:2955c)
+
 
 ## The earth existed before space {#earth-before-space}
 

@@ -218,6 +218,18 @@ Understandable. This guy doesn't play Allah's manipulative games.
 
 So he is pardoned for not accepting Allahs "mercy" of throwing himself into hell? And the other guy was also taken with him to paradise? Allah has proven to be neither merciful, nor just, nor consistent, but fickle and arbitrary and completely illogical.
 
+### To Allah, the world is less valuable than the carcass of a defective lamb
+
+[Sahih Muslim 2957a](https://sunnah.com/muslim:2957a)
+
+> Allah's Apostle happened to walk through the bazar … There he found a dead lamb with very short ears. He took hold of his ear and said: Who amongst you would like to have this for a dirham? They said: We do not like to have it even for less than that as it is of no use to us. He said: Do you wish to have it free of any cost? They said: By Allah, even if it were alive we would not have liked to possess that, for there is defect in it as its ear is very short; now it is dead also. Thereupon Allah's Messenger said: By Allah, **this world is more insignificant in the eye of Allah than it this dead lamb is in your eye**
+
+What a horrible narcissistic god that thinks the entire universe is so worthless that it's like something that no one even wants for free. Garbage essentially.
+
+Contrast that with the Christian God who "loved the world so much that he gave his only begotten Son, so that we would not perish but have eternal life." (John 3:16)
+
+No wonder Muslims live such a nihilistic existence.
+
 ### Allah admits that he is Satan
 
 [Sahih al-Bukhari 4950](https://sunnah.com/bukhari:4950)

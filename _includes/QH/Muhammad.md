@@ -1100,7 +1100,7 @@ Surah 33:21
 
 [Musnad Ahmad 107](https://sunnah.com/ahmad:107)
 
-> And if he (Muhammad ﷺ) had forged a false saying concerning Us (Allah). We surely would have seized him by his right hand (or with power and might), And then **We certainly would have cut off his life artery (aorta)**, And none of you could have withheld Us from (punishing) him...”
+> And if he (Muhammad) had forged a false saying concerning Us (Allah). We surely would have seized him by his right hand (or with power and might), And then **We certainly would have cut off his life artery (aorta)**, And none of you could have withheld Us from (punishing) him...”
 
 So Allah promises that Muhammed ever acts as a false prophet, Allah will cut off his aorta.
 
@@ -1125,7 +1125,7 @@ After Muhammad kills the whole male Jewish population of Khaibar, a Jewish woman
 
 [Sahih al Bukhari 4428](https://sunnah.com/bukhari:4428)
   
-> Narrated 'Aisha: The Prophet  in his ailment in which he died, used to say, "O `Aisha! I still feel the pain caused by the food I ate at Khaibar, and at this time, **I feel as if my aorta is being cut** from that poison."
+> Narrated 'Aisha: The Prophet  in his ailment in which he died, used to say, "O Aisha! I still feel the pain caused by the food I ate at Khaibar, and at this time, **I feel as if my aorta is being cut** from that poison."
 
 [Sunnah Abu Dawud 4513](https://sunnah.com/abudawud:4513)
 

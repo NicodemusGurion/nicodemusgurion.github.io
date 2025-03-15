@@ -114,10 +114,10 @@ Just label an oath "thoughtless" and you don't have to hold your word. Otherwise
 
 
 
-# Music and poetry
+# Art and entertainment is prohibited
 
 
-## Music and sinning is a sin
+## Music and singing is a sin
 
 [Sunan Ibn Majah 4020](https://sunnah.com/ibnmajah:4020)
 
@@ -138,7 +138,16 @@ See also:
 - [Sunan Ibn Majah 3759](https://sunnah.com/ibnmajah:3759)
 - [Sunan Ibn Majah 3760](https://sunnah.com/ibnmajah:3760)
 
+## Backgammon is forbidden
 
+[Sunan Ibn Majah 3763](https://sunnah.com/ibnmajah:3763)
+
+> Whoever plays backgammon, it is as if he dipped his hand in the flesh and blood of a pig.
+
+See also:
+
+- [Al-Adab Al-Mufrad 1271](https://sunnah.com/adab:1271)
+- [Al-Adab Al-Mufrad 1277](https://sunnah.com/adab:1277)
 
 
 # Racism
