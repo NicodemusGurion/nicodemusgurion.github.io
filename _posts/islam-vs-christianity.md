@@ -106,6 +106,12 @@ tags: [Islam, Christianity, Lists]
 
 
 
+# Morality
+
+| Islam | Christianity |
+| --- | --- |
+| If you make an oath and find a better alternative, it is ok to break the oath. (Riyad as-Salihin 1716) | A righteous person does not break his oath even if it is bad for him. (Psalm 15:4) |
+
 
 Surah 72:21
 
