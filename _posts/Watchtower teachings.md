@@ -12,7 +12,7 @@ What does the Watchtower teach about God?
  
 ## The name of God, is it Jehovah or Yahweh?
 
-*   ["We do not say that “Jehovah” is the correct pronunciation of God’s name.... for in [the thirteenth century] century the word [Jehovah] historically appears..."](https://wol.jw.org/en/wol/d/r1/lp-e/1950881?p=par#h=27)
+*   ["We do not say that “Jehovah” is the correct pronunciation of God’s name.... for in the thirteenth century century the word Jehovah historically appears..."](https://wol.jw.org/en/wol/d/r1/lp-e/1950881?p=par#h=27)
 *   [The New World Bible Translation Committee: ‘Yahwehʹ is the more correct pronunciation.](https://wol.jw.org/en/wol/d/r1/lp-e/1960561#h=16)
 *   ["It is almost if not quite certain that the Name was originally pronounced ‘Yahweh.’”](https://wol.jw.org/en/wol/d/r1/lp-e/1964521#h=20)
 *   [What pronunciation do Jehovah’s witnesses view as more correct? The NWT translators stated that they inclined “to view the pronunciation ‘Yahweh,’ as the more correct way.”](https://wol.jw.org/en/wol/d/r1/lp-e/1964521#h=23)
