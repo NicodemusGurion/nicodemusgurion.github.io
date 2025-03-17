@@ -44,6 +44,7 @@ tags: [Islam, Christianity, Lists]
 | Allah forgives sins by overlooking them. | Yahweh can not overlook sins, but must judge righteously.|
 | Allah allows adultery | Yahweh prohibits adultery |
 | Allah demands that a divorced woman must marry another man and divorce again before she can remarry her original husband.| Yahweh forbids a man who divorced his wife to remarry her if she became another man's wife.|
+| If you make an oath and find a better alternative, it is ok to break the oath. (Riyad as-Salihin 1716) Allah has already ordained a way to absolve yourselves from your oaths. Surah 66:2 | A righteous person does not break his oath even if it is bad for him. (Psalm 15:4) |
 
 
 # Sonship of Jesus Christ {#sonship}
@@ -106,11 +107,7 @@ tags: [Islam, Christianity, Lists]
 
 
 
-# Morality
 
-| Islam | Christianity |
-| --- | --- |
-| If you make an oath and find a better alternative, it is ok to break the oath. (Riyad as-Salihin 1716) | A righteous person does not break his oath even if it is bad for him. (Psalm 15:4) |
 
 
 Surah 72:21
