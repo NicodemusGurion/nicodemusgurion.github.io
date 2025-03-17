@@ -1,6 +1,6 @@
 ---
-layout:page
-title: The mental health of Jehovah's Witnesses
+layout: page
+title: "The mental health of Jehovah's Witnesses"
 ---
  
 Link: [The mental health of Jehovah's Witnesses](https://pubmed.ncbi.nlm.nih.gov/1174772/)
