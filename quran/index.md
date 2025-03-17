@@ -1,6 +1,6 @@
 ---
 layout: menu
-title: Tafsīr al-Jāk: Naẓra Masīḥiyya (تفسير الجاك: نظرة مسيحية) Jack's commentary: A Christian perspective
+title: "Tafsīr al-Jāk: Naẓra Masīḥiyya (تفسير الجاك: نظرة مسيحية) Jack's commentary: A Christian perspective"
 ---
 
 <h1>Table of Contents</h1>
