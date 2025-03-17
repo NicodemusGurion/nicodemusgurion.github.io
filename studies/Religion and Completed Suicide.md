@@ -1,6 +1,6 @@
 ---
 title: "Study: Religion and Completed Suicide"
-tags: [Studies]
+layout: page
 excerpt: "Religion plays a protective role against suicide in a majority of settings where suicide research is conducted. However, this effect varies based on the cultural and religious context. Therefore, public health professionals need to strongly consider the current social and religious atmosphere of a given population when designing suicide prevention strategies."
 ---
 

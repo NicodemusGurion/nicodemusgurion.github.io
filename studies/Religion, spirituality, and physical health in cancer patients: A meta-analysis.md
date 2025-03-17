@@ -1,6 +1,6 @@
 ---
 title: "Study: Religion, spirituality, and physical health in cancer patients: A meta-analysis"
-tags: [Studies]
+layout: page
 excerpt: "Although religion/spirituality (R/S) is important in its own right for many cancer patients, a large body of research has examined whether R/S is also associated with better physical health outcomes. ... In conclusion, the results of the current meta-analysis suggest that greater R/S is associated with better patient-reported physical health. These results underscore the importance of attending to patients' religious and spiritual needs as part of comprehensive cancer care."
 ---
 [https://pubmed.ncbi.nlm.nih.gov/26258868/](https://pubmed.ncbi.nlm.nih.gov/26258868/)
