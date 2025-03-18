@@ -60,6 +60,7 @@ function generateTableOfContents() {
 
   var headers = mainContent.querySelectorAll('h1, h2, h3, h4, h5, h6');
   var toc = '<h1>Table of contents</h1>';
+  var stoc = "";
   var currentLevel = 0;
 
   for (var i = 0; i < headers.length; i++) {
@@ -73,15 +74,20 @@ function generateTableOfContents() {
     } else {
       toc += '</li>';
     }
-
+	if stoc != "" {
+		stoc += ", ";
+	}
     toc += '<li><a href="#' + header.id + '">' + header.textContent + '</a>';
+    stoc += '<a href="#' + header.id + '">' + header.textContent + '</a>';
+
     currentLevel = level;
   }
 
   toc += '</li></ul>'.repeat(currentLevel);
-
+  
   var mainContentText = mainContent.innerHTML;
   mainContentText = mainContentText.replace('[TOC]', toc);
+  mainContentText = mainContentText.replace('[STOC]', stoc);
   mainContent.innerHTML = mainContentText;
 }
 
