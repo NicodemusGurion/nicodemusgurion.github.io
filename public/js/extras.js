@@ -58,7 +58,7 @@ function generateTableOfContents() {
     return;
   }
 
-  var headers = mainContent.querySelectorAll('h1, h2, h3, h4, h5, h6');
+  var headers = mainContent.querySelectorAll('h1:not(.page-title), h2, h3, h4, h5, h6');
   var toc = '<h1>Table of contents</h1>';
   var stoc = "";
   var currentLevel = 0;
