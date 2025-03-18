@@ -20,7 +20,7 @@ title: Studies and other data
 
 [Crucifixion in the Mediterranean world](public/pdf/Crucifixion-in-the-Mediterranean-world.pdf)
 
-[CHILDREN AND CHILDHOOD IN LIGHT OF THE DEMOGRAPHICS OF THE JEWISH FAMILY IN LATE ANTIQUITY by AMRAM TROPPER](public/pdf/CHILDREN AND CHILDHOOD IN LIGHT OF THE DEMOGRAPHICS OF THE JEWISH FAMILY IN LATE ANTIQUITY by AMRAM TROPPER.pdf)
+[Children and childhood in light of the demographics of the Jewish family in late antiquity by Amram Tropper](public/pdf/CHILDREN AND CHILDHOOD IN LIGHT OF THE DEMOGRAPHICS OF THE JEWISH FAMILY IN LATE ANTIQUITY by AMRAM TROPPER.pdf)
 
 [The average lifespan in the first cebtury](public/pdf/average-lifespan-in-first-century-35-years.pdf)
 
