@@ -3,6 +3,10 @@ layout: menu
 title: "Studies, Statistics and Papers"
 ---
 
+# Studies
+
+(Links and abstracts.)
+
 {% include list-pages.html %}
 
 # Statistics
