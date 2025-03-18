@@ -1,7 +1,5 @@
-
 <ul>
   {% for p in site.pages %}
-    <li>{{ p.url }} = {{ page.url }}</li>
     {% if p.url contains page.url and p.url != page.url %}
       <li><a href="{{ p.url }}">{{ p.title | default: p.url }}</a></li>
     {% endif %}
