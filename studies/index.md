@@ -30,5 +30,7 @@ title: Studies and other data
 </ul>
 
 
+# Papers
 
+[The physical death of Jesus](public/pdf/The_Physical_Death_of_Jesus.pdf)
 
