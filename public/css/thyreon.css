@@ -113,6 +113,7 @@ h6 {
   opacity: 0;
   position: absolute;
   pointer-events: none;
+  padding-bottom:1em;
 }
 
 /* toc link list toggle */
