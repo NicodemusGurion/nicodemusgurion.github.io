@@ -109,7 +109,12 @@ table th:before {
 }
 
 /* Use h6 for invisible id anchors */
-h6 { display: block; }
+h6 {
+  font-size:0;
+  opacity: 0;
+  position: absolute;
+  pointer-events: none;
+}
 
 /* toc link list toggle */
 
