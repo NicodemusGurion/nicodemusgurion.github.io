@@ -1,6 +1,6 @@
 ---
 layout: menu
-title: Studies and other data
+title: "Studies, Statistics and Papers"
 ---
 
 {% include list-pages.html %}
@@ -8,7 +8,6 @@ title: Studies and other data
 # Statistics
 
 [Religiosity survey from Iran](public/pdf/GAMAAN-Iran-Religion-Survey-2020-English.pdf)
-
 
 # Papers
 
