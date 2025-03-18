@@ -110,10 +110,8 @@ table th:before {
 
 /* Use h6 for invisible id anchors */
 h6 {
-  visibility: hidden;
-  height: 0;
-  margin: 0;
-  padding: 0;
+  position: absolute;
+  left: -9999px;
 }
 
 /* toc link list toggle */
