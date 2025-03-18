@@ -31,6 +31,7 @@ function generateTableOfContents() {
   toc += '</li></ul>'.repeat(currentLevel);
 
   var mainContentText = mainContent.innerHTML;
-  mainContentText = mainContentText.replace('[TOC]', toc).replace('[STOC]', stoc);
+  mainContentText = mainContentText.replace('[TOC]', toc)
+  mainContentText = mainContentText.replace('[STOC]', stoc)
   mainContent.innerHTML = mainContentText;
 }
