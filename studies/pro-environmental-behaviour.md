@@ -1,5 +1,5 @@
 ---
-title: "Study: Does religion promote pro-environmental behaviour? A cross-country investigation"
+title: "Does religion promote pro-environmental behaviour? A cross-country investigation"
 layout: page
 excerpt: "Religion promotes individuals' willingness to contribute money and dampens individuals' protest against contributing for environmental protection. Similarly, religion has a positive effect on ecological donation and participation in the environmental demonstration."
 ---

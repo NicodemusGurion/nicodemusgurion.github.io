@@ -1,5 +1,5 @@
 ---
-title: "Study: The Effects of Catholic and Prostestant Schools"
+title: "The Effects of Catholic and Prostestant Schools"
 layout: page
 ---
 

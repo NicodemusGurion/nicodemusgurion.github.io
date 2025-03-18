@@ -1,5 +1,5 @@
 ---
-title: "Poll: only 40% of Iranians consider themselves muslim"
+title: "Survey shows 40% of Iranians consider themselves muslim"
 layout: page
 excerpt: "An anonymous online poll the Group for Analyzing and Measuring Attitudes in IRAN (GAMAAN) shows that 60% of Iranians do not adhere to Islam."
 ---

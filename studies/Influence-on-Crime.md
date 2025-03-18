@@ -1,5 +1,5 @@
 ---
-title: "Study: Does Religion Suppress, Socialize, Soothe, or Support? Exploring Religiosity's Influence on Crime"
+title: "Does Religion Suppress, Socialize, Soothe, or Support? Exploring Religiosity's Influence on Crime"
 layout: page
 excerpt: "A negative association between religiosity and crime is commonly documented in the United States and other Western contexts...religiosity is negatively correlated with projected criminal probability in non-Western contexts as well as among both Christian and Muslim respondents."
 ---

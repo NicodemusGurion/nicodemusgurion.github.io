@@ -1,5 +1,5 @@
 ---
-title: "Study: Religionand the five factors of personality - A meta-analytic review"
+title: "Religion and the five factors of personality - A meta-analytic review"
 layout: page
 excerpt: "Religiosity is associated high Agreeableness, Conscientiousness and Extraversion. Open-mature religiosity and spirituality reflect Emotional Stability."
 ---

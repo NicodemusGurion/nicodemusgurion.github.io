@@ -1,5 +1,5 @@
 ---
-title: "Study: Religion, delinquency and drug use."
+title: "Religion, delinquency and drug use."
 layout: page
 excerpt: "Contemporary research on adolescent involvement in religion and delinquency...found religious involvement to be inversely related to delinquency...the results of this meta-analysis confirmed that religious involvement is negatively related to delinquent behaviors, regardless of measurement characteristics."
 ---

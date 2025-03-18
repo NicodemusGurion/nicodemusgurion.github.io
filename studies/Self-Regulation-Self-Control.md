@@ -1,5 +1,5 @@
 ---
-title: "Study: Religion, Self-Regulation, and Self-Control: Associations, Explanations, and Implications"
+title: "Religion, Self-Regulation, and Self-Control: Associations, Explanations, and Implications"
 excerpt: "religion can promote self-control...fosters the development of self-regulatory strength...fosters proficiency in a suite of self-regulatory behaviors"
 ---
 [https://www.researchgate.net/publication/24001207_Religion_Self-Regulation_and_Self-Control_Associations_Explanations_and_Implications](https://www.researchgate.net/publication/24001207_Religion_Self-Regulation_and_Self-Control_Associations_Explanations_and_Implications")
