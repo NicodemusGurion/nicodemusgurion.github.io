@@ -3,7 +3,7 @@ layout: menu
 title: Studies and other data
 ---
 
-{% include list-directory.html %}
+{% include list-pages.html %}
 
 # Statistics
 
