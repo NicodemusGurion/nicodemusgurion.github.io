@@ -1,0 +1,17 @@
+{% assign toc = "" %}
+{% assign headers = content | split: '<h' %}
+
+{% for header in headers offset:1 %}
+  {% assign header_level = header | slice: 0, 1 %}
+  {% assign header_rest = header | split: '>' %}
+  {% assign header_text = header_rest[1] | split: '<' | first %}
+  {% assign header_id = header_text | downcase | replace: ' ', '-' | replace: ',', '' %}
+
+  {% if toc != "" %}
+    {% assign toc = toc | append: ", " %}
+  {% endif %}
+
+  {% assign toc = toc | append: '<a href="#' | append: header_id | append: '">' | append: header_text | append: '</a>' %}
+{% endfor %}
+
+{{ toc }}
