@@ -120,20 +120,20 @@ ul {
 }
 
 #markdown-toc li {
-  font-size:19pt;
+  font-size:20pt;
   margin-left: 0px;
   padding-left:0px;
   padding-bottom: 0px;
 }
 
 #markdown-toc li li{
-  font-size:14pt;
+  font-size:16pt;
 }
 
 #markdown-toc li li li{
-  font-size:9pt;
+  font-size:13pt;
 }
 
 #markdown-toc li li li li {
-  font-size:6pt;
+  font-size:10pt;
 }
