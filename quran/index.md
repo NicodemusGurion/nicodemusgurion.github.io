@@ -1,11 +1,13 @@
 ---
 layout: menu
-title: "Jack's commentary: A Christian perspective"
+title: "Tafsīr al-Jāk"
 ---
 
-## Tafsīr al-Jāk: Naẓra Masīḥiyya 
+## Jack's commentary: A Christian perspective
 
-### تفسير الجاك: نظرة مسيحية
+### Tafsīr al-Jāk: Naẓra Masīḥiyya 
+
+### تفسير الجاك: نظرة مسيحية####
 
 
 {% include list-pages.html %}
