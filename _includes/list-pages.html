@@ -1,10 +1,14 @@
 {% assign current_path = page.url | split: "/" %}
 {% assign current_path_size = current_path | size | minus: 1 %}
 {% assign directory = current_path | slice: 0, current_path_size | join: "/" | append: "/" %}
+Current path: {{ current_path }}<br>
+Current path size: {{ current_path_size }}<br>
+Directory: {{ directory }}<br>
 
 <ul>
   {% for p in site.pages %}
     {% assign page_path = p.url | split: "/" | slice: 0, current_path_size | join: "/" | append: "/" %}
+    <li>{{ page_path }}</li>
     {% if page_path == directory and p.url != page.url %}
       <li><a href="{{ p.url }}">{{ p.title | default: p.url }}</a></li>
     {% endif %}
