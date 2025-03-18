@@ -2,7 +2,7 @@ function QuranRefs() {
     var mainDiv = document.getElementById("maincontent");
     var text = mainDiv.innerHTML;
     const regex = /(surah[s]*\s*[0-9\:\,\-\;\s]*[0-9])/gi;
-    mainDiv.innerHTML = text.replace(regex, (match, surah) => SurahLink(surah));
+    mainDiv.innerHTML = text.replace(regex, (match) => SurahLink(match));
 }
 
 function SurahLink(input) {
@@ -45,7 +45,7 @@ function convertHadithReferences() {
     const regex = new RegExp(`${hadithName} (\\d{1,5})`, 'g');
 
     // Replace the matched references with a hyperlink
-    document.body.innerHTML = bodyContent.replace(regex, (match, number) => {
+    bodyContent.innerHTML = bodyContent.innerHTML.replace(regex, (match, number) => {
       return `<a href="https://sunnah.com/${urlKeyword}:${number}" target="_blank">${match}</a>`;
     });
   }
@@ -74,7 +74,7 @@ function generateTableOfContents() {
     } else {
       toc += '</li>';
     }
-	if stoc != "" {
+	if (stoc !== "") {
 		stoc += ", ";
 	}
     toc += '<li><a href="#' + header.id + '">' + header.textContent + '</a>';
@@ -97,4 +97,4 @@ QuranRefs();
 convertHadithReferences()
 }
 
-document.addEventListener("DOMContentLoaded", runAllExtras);
+window.onload = runAllExtras;
