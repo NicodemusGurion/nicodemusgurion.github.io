@@ -22,6 +22,24 @@ Strangely enough this is the only place in the NWT where they use the word "acti
 
 The hebrew phrase "*Ruach Elohim*" should be translated "God's spirit". A *ruach* literally means breath or wind, but also spirit, i.e. something invisible, but that you can feel the effects of. But in every case where *Ruach* refers to things in the supernatural it refers to a living being, such as angels, demons, or the spirit of man. The only times it is referred to as an impersonal force is when it is a natural phenomena such as wind. How come that God's Holy Spirit is the only supernatural *Ruach* that is not a spirit being, but rather compared to a natural phenomena like electricity? Even though natural phenomena makes no sense in a supernatural realm? This is the kind of nonsense you get when you deny the personhood of the Holy Spirit.
 
+# Genesis 3:6
+
+> **Afterward**, she also gave some to her husband **when he was** with her, and he began eating it.
+
+**Biased translation, Addition**
+
+This does not reflect how most translations handle the Hebrew. The Hebrew עִמָּהּ (immah) literally means “with her”—which is why virtually all mainstream translations (KJV, ESV, NIV, NASB, etc.) render it simply as “she also gave some to her husband with her” rather than adding a time delay. The NWT’s addition of “afterward” and “when” introduces an element not found in the Hebrew text—suggesting an interpretive choice rather than a strict translation.
+
+By inserting “afterward” and “when he was with her”, the NWT suggests that Adam was not present until later, softening his involvement.
+
+The Watchtower Society (Jehovah’s Witnesses) teaches that Eve was primarily at fault for the Fall, and Adam was more of a passive participant.
+
+By altering the sequence to make Adam’s presence appear secondary and delayed, the NWT reduces his responsibility, making him seem more like a victim of Eve’s actions rather than a willing participant.
+
+This fits Watchtower theology, which tends to downplay male culpability in favor of a hierarchical structure where women are more easily blamed for leading men into sin.
+
+Paul (Romans 5:12; 1 Timothy 2:14) puts ultimate responsibility on Adam, not Eve. The traditional Hebrew reading supports Paul’s theology: Adam was with Eve, did not stop her, and knowingly sinned. The NWT’s wording subtly shifts the blame from Adam to Eve, contradicting the biblical emphasis on Adam’s deliberate sin.
+
 # Genesis 19:24
 
 > Then Jehovah made it rain sulfur and fire on Sodʹom and Go·morʹrah — it came from Jehovah, from the heavens.
