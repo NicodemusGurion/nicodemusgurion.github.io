@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Jesus is Allah
 ---
 
