@@ -116,3 +116,9 @@ Apparently it was impossible to keep this deathbed convert in the ground, so the
 >  A'isha (Allah be pleased with her) reported that Salim, the freed slave of Abu Hadhaifa, lived with him and his family in their house. She (i. e. the daughter of Suhail came to Allah's Apostle and said: Salim has attained (puberty) as men attain, and he understands what they understand, and he enters our house freely, I, however, perceive that something (rankles) in the heart of Abu Hudhaifa, whereupon Allah's Apostle said to her: Suckle him and you would become unlawful for him, and (the rankling) which Abu Hudhaifa feels in his heart will disappear. She returned and said: So I suckled him, and what (was there) in the heart of Abu Hudhaifa disappeared.
 
 So her slave boy is becoming an adult, and her husband is bothered that a young man is spending time with his wife because of the sexual awkwardness. She asks Muhammad what to do. So what is the solution proposed by Muhammad? "Let the horny young boy suck on your breasts, and that will make the situation less sexually awkward."
+
+## Muhammad's donkey stinks
+
+[Sahih Muslim 1799](https://sunnah.com/muslim:1799)
+
+> It was said to the Prophet: Would that you approached Abdullah b. Ubayy (to persuade him to accept Islam). The Prophet (accordingly) went to him, riding a donkey, and (a party of) Muslims also went (with him). … When the Prophet approached him, he said: Do not come near me. By Allah, the obnoxious smell of your donkey has offended me. (As a rejoinder to this remark), a man from the Ansar said: By God, the smell of the donkey of the Messenger of Allah is better than your smell. (At this), a man from the tribe of 'Abdullah got furious. Then people from both sides got furious and exchanged blows with sticks, hands and shoes.
