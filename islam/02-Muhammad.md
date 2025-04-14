@@ -785,6 +785,10 @@ See also:
 
 > …the Prophet  became so sad as we have heard that he intended several times to throw himself from the tops of high mountains and every time he went up the top of a mountain in order to throw himself down, Gabriel would appear before him and say, "O Muhammad! You are indeed Allah's Messenger  in truth" whereupon his heart would become quiet and he would calm down and would return home. And whenever the period of the coming of the inspiration used to become long, he would do as before, but when he used to reach the top of a mountain, Gabriel would appear before him and say to him what he had said before.
 
+See also:
+
+- [Sahih al Bukhari 6982](https://sunnah.com/bukhari/6982)
+
 ## Muhammad was paranoid, accusing a child of being a supervillain {#dajjal}
 
 The Dajjal is an evil figure in Islamic eschatology who will pretend to be the promised Messiah and later claim to be God, appearing before the Day of Judgment according to the Islamic eschatological narrative. Muhammad harassed, stalked, and spread rumors about a young boy, saying he was this Dajjal, making him depressed and suicidal.
