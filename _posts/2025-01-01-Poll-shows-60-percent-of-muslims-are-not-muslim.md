@@ -1,7 +1,6 @@
 ---
 title: "Survey shows 40% of Iranians consider themselves muslim"
-layout: page
-excerpt: "An anonymous online poll the Group for Analyzing and Measuring Attitudes in IRAN (GAMAAN) shows that 60% of Iranians do not adhere to Islam."
+tags: [Studies, Islam, Iran]
 ---
 
 [Original article.](https://theconversation.com/irans-secular-shift-new-survey-reveals-huge-changes-in-religious-beliefs-145253)

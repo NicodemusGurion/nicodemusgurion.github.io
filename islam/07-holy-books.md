@@ -90,7 +90,16 @@ Surah 10:94
 >  If you ˹O Prophet˺ are in doubt about ˹these stories˺ that We have revealed to you, then ask those who read the Scripture before you. The truth has certainly come to you from your Lord, so do not be one of those who doubt,
 
 
+## Muhammad says the Jews and Christians do have the Torah and Gospel 
 
+[Jami` at-Tirmidhi 2653](https://sunnah.com/tirmidhi:2653)
+
+
+> He [Muhammad] said: … The Tawrah and Injil are with the Jews and Christians, but what do they avail of them?
+
+Muhammed is saying that the Jews and Christian's of his day **did** have the Torah and gospel. Which proves that it had not been "corrupted" in those days.
+
+And since we have complete Bibles hundreds of years older than Islam, and these Bibles are identical to modern ones (since we use them to translate the modern ones), then the Torah and gospels that we have today are the exact same that Muhammad said existed in his days.
 
 # The Quran {#quran}
 
