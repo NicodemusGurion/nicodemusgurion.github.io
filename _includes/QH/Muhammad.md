@@ -1135,6 +1135,12 @@ Muhammad eventually died from the poisoned lamb of a jewish woman, and he did so
 
 Notice also the poetic biblical references in that a false anti-christ prophet was killed by Allah after eating of the Lamb that came from a Jewish woman.
 
+### Muhammad didn't want to take his medicine 
+
+[Sahih al-Bukhari 4458](https://sunnah.com/bukhari:4458)
+
+> We poured medicine in one side of the Prophet's mouth during his illness and he started pointing to us, meaning to say, "Don't pour medicine in my mouth." We said, "(He says so) because a patient dislikes medicines." When he improved and felt a little better, he said, "Didn't I forbid you to pour medicine in my mouth ?" We said, " ( We thought it was because of) the dislike, patients have for medicines. He said, "Let everyone present in the house be given medicine by pouring it in his mouth while I am looking at him, except Abbas as he has not witnessed you (doing the same to me).
+
 ### What was the last orders of Muhammad to his followers? {#last-orders}
 
 [Sahih al Bukhari 3053](https://sunnah.com/bukhari:3053)

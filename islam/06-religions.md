@@ -95,6 +95,12 @@ Surah 4:65
 
 > But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.
 
+## Muslims must love Muhammad more than anyone else
+
+[Sunan Ibn Majah 67](https://sunnah.com/ibnmajah:67)
+
+> It was narrated that Anas bin Malik said: "The Messenger of Allah said: 'None of you truly believes until I am more beloved to him than his child, his father and all the people.'"
+
 ## View of non-Muslims
 
 Surah 98:6
@@ -240,6 +246,12 @@ Surah 10:94
 
 Muslims should not argue with Christians but listen and learn from them what Allah has really taught.
 
+
+## The Jews and Christians did have the uncorrupted scriptures in the days of Muhammad 
+
+[Jami` at-Tirmidhi 2653](https://sunnah.com/tirmidhi:2653)
+
+> The Tawrah and Injil are with the Jews and Christians
 
 
 ## Jizya

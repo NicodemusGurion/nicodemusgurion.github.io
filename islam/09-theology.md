@@ -21,10 +21,15 @@ search: true
 
 1 Arabic cubit was traditionally 64 cm long, which means Adam would be 38.4 meters tall.
 
+## Adam was created in Allahs image 
 
+[Sahih Muslim 2612 e](https://sunnah.com/muslim:2612e)
 
+> When any one of you fights with his brother, he should avoid his face for Allah created Adam in His own image.
 
+Islam apparently teaches the *Imago Dei* doctrine, that humans are made in the image of God. This means that humans are intrinsically valuable and unique and that hurting them is immoral because they are a physical representation of God.
 
+Muslims however understand it not as that you shouldn't fight or hurt others, but that when you **do** fight, you just shouldn't hit them in the face.
 
 
 
