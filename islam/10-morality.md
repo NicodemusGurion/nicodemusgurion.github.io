@@ -233,8 +233,78 @@ According to Muhammad, it seems that black people are only good for entertainmen
 
 
 
-# Sex and rape
+# Sexuality
 
+## Islam promotes pedophilia
+
+### Mohammed raped a nine year old girl 
+
+Since children are incapable of understanding or consenting to sexual acts, any sexual act conducted with a child is an act of rape.
+
+Muhammad, the example that all Muslims must follow, was a child rapist.
+
+[Sahih al Bukhari 3896](https://sunnah.com/bukhari:3896)
+
+> Khadija died three years before the Prophet departed to Medina. He stayed there for two years or so and **then he married Aisha when she was a girl of six years of age, and he consumed that marriage when she was nine years old.**
+
+Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. 
+
+This is what Aisha herself said:
+
+[Sunan an Nasa'i 3378](https://sunnah.com/nasai:3378)
+
+> "The Messenger of Allah married me when I was six, and consummated the marriage with me when I was nine, and **I used to play with dolls.**"
+
+The last part is important because many lying Muslims try to claim that Aisha was many years older, or that she was "mature for her age". But a child of 9 that plays with dolls is not mature for their age. Sahih al Bukhari explains that the playing with dolls means that she had not even entered puberty:
+
+[Sahih al Bukhari 6130](https://sunnah.com/bukhari:6130)
+
+> Narrated 'Aisha: I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger  used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was **a little girl, not yet reached the age of puberty.**) (Fath-ul-Bari page 143, Vol.13)
+
+Aisha was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but were allowed for Aisha since she was a "little girl", so young that normal Islamic rules didn't yet apply to her.
+
+See also:
+
+- [Sahih al Bukhari 5133](https://sunnah.com/bukhari:5133)
+- [Sahih al Bukhari 5134](https://sunnah.com/bukhari:5134)
+- [Sahih al Bukhari 5158](https://sunnah.com/bukhari:5158)
+- [Sahih Muslim 1422c](https://sunnah.com/muslim:1422c)
+- [Sahih Muslim 1422b](https://sunnah.com/muslim:1422b)
+- [Sunnah ibn Majah 1876](https://sunnah.com/ibnmajah:1876)
+- [Sunnah ibn Majah 1982](https://sunnah.com/ibnmajah:1982)
+- [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
+- [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
+
+### Muhammad was flabbergasted that other men were not pedophiles
+
+[Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
+
+> Narrated Jabir bin Abdullah: When I got married, Allah's Messenger said to me, "What type of lady have you married?" I replied, "I have married a matron' He said, "Why, don't you have a liking for the virgins and for fondling them?" Jabir also said: Allah's Messenger said, "Why didn't you marry a young girl so that you might play with her and she with you?'
+
+The fact that other men are not drawn to sexually abuse children makes Muhammad shocked.
+
+
+## Muhammad tongue-kissed a little boy
+
+Muhammad's list for children was not limited to little girls. Little boys were not safe from this creep either.
+
+[Al-Adab Al-Mufrad 1183](https://sunnah.com/adab:1183)
+
+> …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, **opened his mouth and put his mouth in his mouth**. Then he said, O Allah, I love him, so love him and the one who loves him!'"
+
+### The Quran promotes child marriage
+
+Surah 65:1 gives us the context for the passage in Surah 65:1-4: "When you intend to˺ divorce women, then divorce them with concern for their waiting period"". This passage is about the rules for the waiting period when you divorce a woman that she has to wait before she can remarry. In order to dis or e a woman you must first have had married her.
+
+Surah 65:4 says:
+
+> As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated** as well. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them.
+
+So pregnant women have to wait until delivery. Those "past the age of menstruation", menopausal, have to wait 3 months.
+
+But, on the other side of that spectrum, those who have **not** menstruated, that is **prepubescent girls**, also have to wait 3 months before remarriage.
+
+So in other words, the Quran outright condones and facilitates marrying children!
 
 ## Rape
 
