@@ -329,6 +329,17 @@ This is directed to Muslims, how to deal with those who "who wage war against Al
 
 > …"The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
 
+See also:
+
+- [Sahih al-Bukhari 2925](https://sunnah.com/bukhari:2925)
+- [Sahih al-Bukhari 3593](https://sunnah.com/bukhari:3593)
+- [Sahih Muslim 2921 a](https://sunnah.com/muslim:2921a)
+- [Sahih Muslim 2921 c](https://sunnah.com/muslim:2921c)
+- [Sahih Muslim 2921 d](https://sunnah.com/muslim:2921d)
+- [Sahih Muslim 2922](https://sunnah.com/muslim:2922)
+- [Jami` at-Tirmidhi 2236](https://sunnah.com/tirmidhi:2236)
+- [Riyad as-Salihin 1820](https://sunnah.com/riyadussalihin:1820)
+- [Mishkat al-Masabih 5414](https://sunnah.com/mishkat:5414)
 
 
 
