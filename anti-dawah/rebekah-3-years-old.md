@@ -1,7 +1,10 @@
 ---
-title: Was Rebecca married at age 3?
+title: Rebekah was 3 years old when she married Isaac. 
 search:true
 ---
+
+Claim: Rebekah was 3 years old when she married Isaac.
+
 
 # Just a distraction from Muhammad's pedophilia
 
@@ -29,6 +32,8 @@ If Isaac was a pedophile like Muhammad was, Christians still do not follow the m
 
 # Rebecca was an adult 
 
-There is not a single verse in the Bible that gives the age of Rebecca at marriage. - The Bible says she was an adult woman of marriageable age.
+There is not a single verse in the Bible that gives the age of Rebecca at marriage. - The Bible says she was a woman of marriageable age.
+- The Bible describes her as a young woman (Heb. naʿarah), a word never used for toddlers. 
+- She performs adult tasks that children would not be doing. 
 - She was strong enough to haul several thousand liters of water. No toddler is capable of this. 
 - She was mature enough to make major life decisions. No toddler would be allowed to do this.
