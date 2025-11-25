@@ -8,7 +8,6 @@ search:true
 
 Claim: The Bible has been corrupted and is not the original revelation
 
-
 Why it’s false:
 
 Textual criticism (Christian, Jewish, secular, and even many Muslim scholars) affirms the remarkable stability of the biblical manuscripts.
@@ -26,6 +25,9 @@ If Christians had the power to rewrite their Scriptures, they would have deleted
 Christians and Jews were spread across continents with no centralized authority. A coordinated “corruption” of millions of copies in dozens of languages is logistically impossible. This claim requires a conspiracy bigger than the Roman Empire.
 
 If Christians “changed their Scriptures,” Muslims must show when, where, and by whom, and explain how Jews and Christians across continents all changed the same verses identically. There is no historical evidence of this.
+
+If the Bible was corrupted then the Quran is false for saying that the Bible is the trustworthy unchangeable word of Allah, and it also means that Allah is a liar and not competent enough to protect it.
+
 
 # What history shows
 
