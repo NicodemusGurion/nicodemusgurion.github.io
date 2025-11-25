@@ -31,4 +31,4 @@ If Isaac was a pedophile like Muhammad was, Christians still do not follow the m
 
 There is not a single verse in the Bible that gives the age of Rebecca at marriage. - The Bible says she was an adult woman of marriageable age.
 - She was strong enough to haul several thousand liters of water. No toddler is capable of this. 
-- She was mature enough to make major life decisions. No toddler is allowed to do this.
+- She was mature enough to make major life decisions. No toddler would be allowed to do this.
