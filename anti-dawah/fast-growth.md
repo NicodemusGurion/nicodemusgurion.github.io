@@ -3,7 +3,7 @@ title: Fastest growing religion
 search: true
 ---
 
-*Person is claiming that a rapid increase in adherebts means that Islam is true*
+*Person is claiming that a rapid increase in adherents means that Islam is true*
 
 Truth is not measured in popularity. If it was, Christianity would still be the true religion for decade to come.
 
