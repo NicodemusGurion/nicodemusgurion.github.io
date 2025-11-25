@@ -3,6 +3,9 @@ title: The Bible has been corrupted
 search:true
 ---
 
+## [< Index](/islam/)
+{:.no_toc}
+
 Claim: The Bible has been corrupted and is not the original revelation
 
 
@@ -12,6 +15,9 @@ Textual criticism (Christian, Jewish, secular, and even many Muslim scholars) af
 
 - The New Testament is the best-attested text of the ancient world.
 - The Dead Sea Scrolls show the Old Testament text was stable centuries before Christ. The “tahrif” concept in early Islam originally meant misinterpretation, not textual corruption.
+
+
+{% include toc.md %}
 
 # What logic shows
 

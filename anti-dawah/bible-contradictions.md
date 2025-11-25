@@ -3,6 +3,9 @@ title: The Bible has contradictions
 search: true
 ---
 
+## [< Index](/islam/)
+{:.no_toc}
+
 Claim: There are thousands of Bible contradictions; therefore it cannot be God’s Word.
 
 Why it’s misleading:
@@ -14,6 +17,8 @@ Lists circulated online often rely on:
 - Citation-style differences (ancient authors did not use modern quotation conventions)
 
 Most alleged contradictions dissolve under careful exegesis.
+
+{% include toc.md %}
 
 #Islam needs the Bible, the Bible does not need Islam
 

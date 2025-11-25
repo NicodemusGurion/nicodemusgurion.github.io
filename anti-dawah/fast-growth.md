@@ -3,6 +3,9 @@ title: Fastest growing religion
 search: true
 ---
 
+## [< Index](/islam/)
+{:.no_toc}
+
 Claim: Islam is the fastest-growing religion in the world, implying that it is therefore true.
 
 Why it’s misleading:
@@ -11,6 +14,8 @@ The most recent demographic research (Pew, Gordon-Conwell, etc.) generally shows
 - Islam has high growth in certain regions primarily due to higher birth rates.
 
 Conversion data does not indicate Islam is the fastest-growing; global studies show Christianity gains more converts annually.
+
+{% include toc.md %}
 
 # Truth is not determined by popularity
 
