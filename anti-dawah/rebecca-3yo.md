@@ -1,7 +1,7 @@
 ---
 layout: adventure
 title: Was Rebecca married at age 3?
-permalink: /claims/rebecca
+permalink: /anti-dawah/rebecca
 ---
 
 # Start
