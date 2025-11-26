@@ -1,6 +1,6 @@
 ---
 title: The Bible has been corrupted
-search:true
+search: true
 ---
 
 ## [< Index](/islam/)
