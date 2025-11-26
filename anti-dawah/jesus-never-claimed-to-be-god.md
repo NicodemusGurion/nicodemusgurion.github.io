@@ -1,6 +1,6 @@
 ---
 title: Jesus never claimed to be God
-search:true
+search: true
 ---
 
 ## [< Index](/islam/)

@@ -1,6 +1,6 @@
 ￼---
 title: Jesus wasn't crucified
-search:true
+search: true
 ---
 
 ## [< Index](/islam/)

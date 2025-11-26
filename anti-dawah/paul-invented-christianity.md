@@ -1,6 +1,6 @@
 ---
 title: Paul invented Christianity
-search:true
+search: true
 ---
 
 ## [< Index](/islam/)

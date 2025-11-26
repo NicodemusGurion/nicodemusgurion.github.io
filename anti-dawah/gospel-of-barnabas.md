@@ -1,6 +1,6 @@
 ---
 title: Gospel of Barnabas
-search:true
+search: true
 ---
 
 ## [< Index](/islam/)

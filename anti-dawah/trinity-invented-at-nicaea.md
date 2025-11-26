@@ -1,6 +1,6 @@
 ---
 title: The Trinity is a later invention from the Council of Nicaea/by Constantine
-search:true
+search: true
 ---
 
 [< Index](/islam/)
