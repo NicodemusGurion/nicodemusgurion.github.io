@@ -20,6 +20,7 @@ permalink: /quran/topics/
         {% comment %} Extract data-tags {% endcomment %}
         {% assign tags_start = span | split: 'data-tags="' | last %}
         {% assign tags_string = tags_start | split: '"' | first %}
+        Tags string: {{ tags_string }}
         
         {% if tags_string != "" %}
           {% assign tags = tags_string | split: ',' %}
@@ -42,7 +43,7 @@ permalink: /quran/topics/
             {% endif %}
             
             {% assign link = chapter_padded | append: '/#v' | append: verse %}
-            {% assign entry = tag | append: '|||' | append: link | append: '|||' | append: chapter | append: ':' | append: verse %}
+            {% assign entry = tag | append: '¿' | append: link | append: '¿' | append: chapter | append: ':' | append: verse %}
             {% assign topics_hash = topics_hash | push: entry %}
             
           {% endfor %}
@@ -56,10 +57,8 @@ permalink: /quran/topics/
 {% assign topics_hash = topics_hash | sort %}
 {% assign current_tag = "" %}
 
-<h1>Topic Index</h1>
-
 {% for entry in topics_hash %}
-  {% assign parts = entry | split: '|||' %}
+  {% assign parts = entry | split: '¿' %}
   {% assign tag = parts[0] %}
   {% assign link = parts[1] %}
   {% assign display = parts[2] %}
