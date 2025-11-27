@@ -5,7 +5,6 @@ permalink: /quran/topics/
 
 {% comment %} Build dictionary of topics {% endcomment %}
 {% assign topics_hash = "" | split: "" %}
-
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
  {% if page.path contains 'quran/' %}
@@ -38,21 +37,19 @@ permalink: /quran/topics/
  {% assign entry = tag | append: '¿' | append: link | append: '¿' | append: chapter | append: ':' | append: verse %}
  {% assign topics_hash = topics_hash | push: entry %}
 {% endfor %}
- {% endif %}
- {% endif %}
- {% endfor %}
- {% endif %}
+{% endif %}
+{% endif %}
 {% endfor %}
-
+{% endif %}
+{% endfor %}
 {% comment %} Sort and group by tag {% endcomment %}
 {% assign topics_hash = topics_hash | sort %}
 {% assign current_tag = "" %}
-
 {% for entry in topics_hash %}
- {% assign parts = entry | split: '¿' %}
- {% assign tag = parts[0] %}
- {% assign link = parts[1] %}
- {% assign display = parts[2] %}
+{% assign parts = entry | split: '¿' %}
+{% assign tag = parts[0] %}
+{% assign link = parts[1] %}
+{% assign display = parts[2] %}
 {% if tag != current_tag %}
 {% if current_tag != "" %}</ul>{% endif %}
 <h2>{{ tag | capitalize }}</h2>
