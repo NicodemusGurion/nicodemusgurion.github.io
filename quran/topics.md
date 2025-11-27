@@ -13,11 +13,12 @@ permalink: /quran/topics/
  {% if span contains 'data-tags=' %}
 {% comment %} Extract data-verse {% endcomment %}
  {% assign verse_start = span | split: 'data-verse="' | last %}
- {% assign verse_ref = verse_start | split: '\"' | first %}
+ {% assign verse_ref = verse_start | split: '"' | first %}
 {% comment %} Extract data-tags {% endcomment %}
- {% assign tags_start = span | split: 'data-tags=\"' | last %}
- {% assign tags_string = tags_start | split: '\"' | first %}
+{% assign tags_start = span | split: 'data-tags="' | last %}
+ {% assign tags_string = tags_start | split: '"' | first %}
  {% if tags_string != "" %}
+ tags string {{ tags_string }}
  {% assign tags = tags_string | split: ',' %}
 {% for tag in tags %}
  {% assign tag = tag | strip %}
