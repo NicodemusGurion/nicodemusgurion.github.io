@@ -56,7 +56,7 @@ margin-right: 0.5em;
 color: #999;
 }
 </style>
-Version 0
+Version 1
 {% comment %} Build array of all topic entries {% endcomment %}
 {% assign all_entries = “” | split: “” %}
 
@@ -65,7 +65,7 @@ Version 0
 {% if page.layout == "surah" %}
 {{ page.url }} is Surah 
 {% comment %} Split by tags to find all tag markers {% endcomment %}
-{% assign tag_markers = page.content | split: "\<tags " %}
+{% assign tag_markers = page.content | split: "<tags " %}
 Tags found: {{ tag_markers.size }}
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between <tags and /> {% endcomment %}
