@@ -61,56 +61,49 @@ color: #999;
 
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
-{{ page.url }}
 {% if page.url contains "/quran/" %}
-Processing {{ page.url }}
-
-```
 {% comment %} Split by <tags to find all tag markers {% endcomment %}
-{% assign tag_markers = page.content | split: '<tags ' %}
-number of tags: {{ tag_markers.size }}
+{% assign tag_markers = page.content | split: "<tags " %}
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between <tags and /> {% endcomment %}
-  {% assign tag_content = marker | split: '/>' | first | strip %}
-  Tag content {{ tag_content }}
+  {% assign tag_content = marker | split: "/>" | first | strip %}
+Tag content {{ tag_content }}
   {% comment %} Split by = to get ref and tags {% endcomment %}
-  {% assign parts = tag_content | split: '=' %}
-  
+  {% assign parts = tag_content | split: "=" %}
   {% if parts.size == 2 %}
     {% assign ref = parts[0] | strip %}
     {% assign tags_string = parts[1] | strip %}
     
     {% comment %} Split the verse reference (e.g., "1:5") {% endcomment %}
-    {% assign ref_parts = ref | split: ':' %}
+    {% assign ref_parts = ref | split: ":"%}
     {% assign chapter = ref_parts[0] %}
     {% assign verse = ref_parts[1] %}
     
     {% comment %} Pad chapter with zeros (001, 002, etc.) {% endcomment %}
     {% if chapter.size == 1 %}
-      {% assign chapter_padded = '00' | append: chapter %}
+      {% assign chapter_padded = "00" | append: chapter %}
     {% elsif chapter.size == 2 %}
-      {% assign chapter_padded = '0' | append: chapter %}
+      {% assign chapter_padded = "0" | append: chapter %}
     {% else %}
       {% assign chapter_padded = chapter %}
     {% endif %}
-    Chapter verse {{ chapter_padded }} {{ verse }}
-    {% comment %} Create the link (e.g., "001.html#v5") {% endcomment %}
-    {% assign link = chapter_padded | append: '/#v' | append: verse %}
-    
+Chapter verse {{ chapter_padded }} {{ verse }}
+    {% comment %} Create the link (e.g., "001/#v5") {% endcomment %}
+    {% assign link = chapter_padded | append: "/#v" | append: verse %}
+    Link url {{ link }}
     {% comment %} Split tags by comma {% endcomment %}
-    {% assign tags = tags_string | split: ',' %}
-    Number of tags {{ tags.size }}
+    {% assign tags = tags_string | split: "," %}
+Number of tags {{ tags.size }}
     {% for tag in tags %}
       {% assign tag_name = tag | strip | downcase %}
-      Tag name {{tag_name }}
+Tag name {{tag_name }}
       {% comment %} Create entry: tag|||link|||display (using ||| as delimiter) {% endcomment %}
-      {% assign display = chapter | append: ':' | append: verse %}
-      {% assign entry = tag_name | append: '|||' | append: link | append: '|||' | append: display %}
+      {% assign display = chapter | append: ":" | append: verse %}
+      {% assign entry = tag_name | append: "|||" | append: link | append: "|||" | append: display %}
       {% assign all_entries = all_entries | push: entry %}
     {% endfor %}
   {% endif %}
 {% endfor %}
-```
 
 {% endif %}
 {% endfor %}
