@@ -93,7 +93,7 @@ color: #999;
     {% endif %}
     
     {% comment %} Create the link (e.g., "001.html#v5") {% endcomment %}
-    {% assign link = chapter_padded | append: '.html#v' | append: verse %}
+    {% assign link = chapter_padded | append: '/#v' | append: verse %}
     
     {% comment %} Split tags by comma {% endcomment %}
     {% assign tags = tags_string | split: ',' %}
@@ -115,8 +115,6 @@ color: #999;
 
 {% comment %} Sort entries alphabetically by tag name {% endcomment %}
 {% assign sorted_entries = all_entries | sort %}
-
-<h1>Topic Index</h1>
 
 {% if sorted_entries.size == 0 %}
 
