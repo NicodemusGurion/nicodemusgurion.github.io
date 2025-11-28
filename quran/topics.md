@@ -56,7 +56,7 @@ margin-right: 0.5em;
 color: #999;
 }
 </style>
-Version 1 facking ändra då rå!!!!
+Version 2
 {% comment %} Build array of all topic entries {% endcomment %}
 {% assign all_entries = “” | split: “” %}
 
@@ -67,6 +67,7 @@ Version 1 facking ändra då rå!!!!
 {% comment %} Split by tags to find all tag markers {% endcomment %}
 {% assign tag_markers = page.content | split: "<tags " %}
 Tags found: {{ tag_markers.size }}
+Tag marker contents: >>>{{tag_marker}}<<<
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between <tags and /> {% endcomment %}
   {% assign tag_content = marker | split: "/>" | first | strip %}
