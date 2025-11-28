@@ -61,7 +61,9 @@ color: #999;
 
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
-{% if page.path contains ‘/quran/’ %}
+{{ page.url }}
+{% if page.path contains ‘quran/’ %}
+Processing {{ page.url }}
 
 ```
 {% comment %} Split by <tags to find all tag markers {% endcomment %}
