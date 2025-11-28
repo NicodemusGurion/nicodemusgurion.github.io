@@ -62,7 +62,7 @@ color: #999;
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
 {{ page.url }}
-{% if page.url contains ‘quran/’ %}
+{% if page.url contains "/quran/" %}
 Processing {{ page.url }}
 
 ```
