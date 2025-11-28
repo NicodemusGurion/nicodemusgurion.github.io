@@ -56,7 +56,7 @@ margin-right: 0.5em;
 color: #999;
 }
 </style>
-
+Version 0
 {% comment %} Build array of all topic entries {% endcomment %}
 {% assign all_entries = “” | split: “” %}
 
