@@ -61,16 +61,16 @@ color: #999;
 
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
-{% if page.path contains ‘.md’ and page.path contains ‘/’ == false %}
+{% if page.path contains ‘/quran/’ %}
 
 ```
 {% comment %} Split by <tags to find all tag markers {% endcomment %}
 {% assign tag_markers = page.content | split: '<tags ' %}
-
+number of tags: {{ tag_markers.size }}
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between <tags and /> {% endcomment %}
   {% assign tag_content = marker | split: '/>' | first | strip %}
-  
+  Tag content {{ tag_content }}
   {% comment %} Split by = to get ref and tags {% endcomment %}
   {% assign parts = tag_content | split: '=' %}
   
@@ -91,16 +91,16 @@ color: #999;
     {% else %}
       {% assign chapter_padded = chapter %}
     {% endif %}
-    
+    Chapter verse {{ chapter_padded }} {{ verse }}
     {% comment %} Create the link (e.g., "001.html#v5") {% endcomment %}
     {% assign link = chapter_padded | append: '/#v' | append: verse %}
     
     {% comment %} Split tags by comma {% endcomment %}
     {% assign tags = tags_string | split: ',' %}
-    
+    Number of tags {{ tags.size }}
     {% for tag in tags %}
       {% assign tag_name = tag | strip | downcase %}
-      
+      Tag name {{tag_name }}
       {% comment %} Create entry: tag|||link|||display (using ||| as delimiter) {% endcomment %}
       {% assign display = chapter | append: ':' | append: verse %}
       {% assign entry = tag_name | append: '|||' | append: link | append: '|||' | append: display %}
