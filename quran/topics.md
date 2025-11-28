@@ -62,11 +62,10 @@ color: #999;
 
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
-{{ page.url }}
 {% if page.layout == "surah" %}
 {{ page.url }} is Surah 
 {% comment %} Split by tags to find all tag markers {% endcomment %}
-{% assign tag_markers = page.content | split: "<tags " %}
+{% assign tag_markers = page.content | split: "\<tags " %}
 Tags found: {{ tag_markers.size }}
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between <tags and /> {% endcomment %}
