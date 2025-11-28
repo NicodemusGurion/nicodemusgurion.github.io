@@ -1,4 +1,5 @@
 ---
+layout: default 
 title: Topic Index
 permalink: /quran/topics/
 ---
@@ -61,7 +62,9 @@ color: #999;
 
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
-{% if page.url contains "/quran/0" or page.url contains "/quran/1" %}
+{{ page.url }}
+{% if page.layout == "surah" %}
+{{ page.url }} is Surah 
 {% comment %} Split by tags to find all tag markers {% endcomment %}
 {% assign tag_markers = page.content | split: "<tags " %}
 {% for marker in tag_markers offset:1 %}
