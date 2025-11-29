@@ -62,11 +62,18 @@ Version 2
 
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
-{% if page.layout == "surah" %}
-{{ page.url }} is Surah 
+{% if page.layout == "surah" and page.url contains "001" %}
+{{page.content}} 
+{% assign foo = page.content | split: "<" %}
+Foo size: {{foo.size}}
+{% for marker in foo %}
+{{marker}}
+----
+{% endfor %}
+
 {% comment %} Split by tags to find all tag markers {% endcomment %}
 {% assign tag_markers = page.content | split: "<tags " %}
-    {{page.content}} 
+
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between <tags and /> {% endcomment %}
   {% assign tag_content = marker | split: "/>" | first | strip %}
