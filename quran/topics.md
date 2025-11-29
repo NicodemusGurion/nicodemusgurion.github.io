@@ -66,8 +66,7 @@ Version 2
 {{ page.url }} is Surah 
 {% comment %} Split by tags to find all tag markers {% endcomment %}
 {% assign tag_markers = page.content | split: "<tags " %}
-Tags found: {{ tag_markers.size }}
-Tag marker contents: >>>{{tag_marker}}<<<
+    {{page.content}} 
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between <tags and /> {% endcomment %}
   {% assign tag_content = marker | split: "/>" | first | strip %}
@@ -134,11 +133,9 @@ Tag name {{tag_name }}
 </ul>
 {% endif %}
 
-```
 <h2 id="{{ tag_name }}">{{ tag_name | capitalize }}</h2>
 <ul>
 {% assign current_tag = tag_name %}
-```
 
 {% endif %}
 
