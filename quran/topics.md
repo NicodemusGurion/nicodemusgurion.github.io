@@ -26,6 +26,8 @@ permalink: /quran/topics/
 }
 </style>
 
+Version 0
+
 {% comment %} Build array of all topic entries {% endcomment %}
 {% assign all_entries = “” | split: “” %}
 
