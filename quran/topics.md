@@ -32,11 +32,11 @@ permalink: /quran/topics/
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
 {% if page.layout == "surah" %}
-
+{{ page.url }} is Surah
 
 {% comment %} Split by (( to find all tag markers {% endcomment %}
 {% assign tag_markers = page.content | split: '((' %}
-
+Tags: {{ tag_markers.size }}
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between (( and )) {% endcomment %}
   {% assign tag_content = marker | split: '))' | first | strip %}
