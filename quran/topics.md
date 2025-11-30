@@ -39,8 +39,9 @@ permalink: /quran/topics/
 Tags: {{ tag_markers.size }}
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between (( and )) {% endcomment %}
+Marker: {{marker}}
   {% assign tag_content = marker | split: '))' | first | strip %}
-  
+Tag content: {{ tag_content }}
   {% comment %} Split by first space to separate ref from tags {% endcomment %}
   {% assign parts = tag_content | split: ' ' %}
   
