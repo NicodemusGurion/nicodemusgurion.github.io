@@ -1,35 +1,49 @@
-// Convert <tags> elements to clickable topic links
+// Convert ((ref tags)) markers to clickable topic links
 document.addEventListener(‘DOMContentLoaded’, function() {
-const tagElements = document.querySelectorAll(‘tags’);
-
-tagElements.forEach(el => {
-// Get all attributes
-const attrs = el.attributes;
+// Find all text nodes in the body
+function processTextNodes(node) {
+if (node.nodeType === 3) { // Text node
+const text = node.textContent;
+const pattern = /((([^)]+)))/g;
 
 ```
-// Find the attribute with format "ref=tags" (e.g., "1:5=prayer,guidance")
-for (let attr of attrs) {
-  const match = attr.name.match(/^(\d+:\d+)$/);
-  if (match) {
-    const ref = match[1];  // e.g., "1:5"
-    const tagsList = attr.value.split(',');
+  if (pattern.test(text)) {
+    // Create a temporary div to hold the processed content
+    const wrapper = document.createElement('span');
     
-    // Create links for each tag
-    const links = tagsList.map(tag => {
-      const tagName = tag.trim();
-      return `<a href="/topics.html#${tagName}" class="topic-tag">${tagName}</a>`;
-    }).join(' ');
+    // Replace all ((ref tags)) with links
+    const newHTML = text.replace(/\(\(([^)]+)\)\)/g, function(match, content) {
+      const parts = content.trim().split(/\s+/);
+      if (parts.length < 2) return ''; // Invalid format
+      
+      const ref = parts[0]; // e.g., "1:5"
+      const tags = parts.slice(1).join(' ').split(','); // Everything after first space
+      
+      // Create links for each tag
+      const links = tags.map(tag => {
+        const tagName = tag.trim();
+        return `<a href="/topics.html#${tagName}" class="topic-tag">${tagName}</a>`;
+      }).join(' ');
+      
+      return `<span class="topic-links">[${links}]</span>`;
+    });
     
-    // Replace the <tags> element with the links
-    const span = document.createElement('span');
-    span.className = 'topic-links';
-    span.innerHTML = ' [' + links + ']';
-    el.parentNode.replaceChild(span, el);
+    wrapper.innerHTML = newHTML;
     
-    break;  // Stop after finding the first matching attribute
+    // Replace the text node with the new content
+    const parent = node.parentNode;
+    while (wrapper.firstChild) {
+      parent.insertBefore(wrapper.firstChild, node);
+    }
+    parent.removeChild(node);
   }
+} else if (node.nodeType === 1 && node.nodeName !== 'SCRIPT' && node.nodeName !== 'STYLE') {
+  // Element node - process children
+  Array.from(node.childNodes).forEach(child => processTextNodes(child));
 }
 ```
 
-});
+}
+
+processTextNodes(document.body);
 });
