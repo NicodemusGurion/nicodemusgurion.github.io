@@ -31,7 +31,7 @@ permalink: /quran/topics/
 
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
-{% if page.layout == ‘chapter’ %}
+{% if page.layout == "surah" %}
 
 
 {% comment %} Split by (( to find all tag markers {% endcomment %}
@@ -72,7 +72,7 @@ permalink: /quran/topics/
       {% endif %}
       
       {% comment %} Create the link (e.g., "001.html#v5") {% endcomment %}
-      {% assign link = chapter_padded | append: '.html#v' | append: verse %}
+      {% assign link = chapter_padded | append: '/#v' | append: verse %}
       
       {% comment %} Split tags by comma {% endcomment %}
       {% assign tags = tags_string | split: ',' %}
