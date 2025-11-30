@@ -49,8 +49,6 @@ Reference: {{ ref }}
     {% if ref_parts.size == 2 %}
       {% assign chapter = ref_parts[0] %}
       {% assign verse = ref_parts[1] %}
-      
-      {% comment %} Pad chapter with zeros (001, 002, etc.) {% endcomment %}
       {% if chapter.size == 1 %}
         {% assign chapter_padded = '00' | append: chapter %}
       {% elsif chapter.size == 2 %}
@@ -58,16 +56,13 @@ Reference: {{ ref }}
       {% else %}
         {% assign chapter_padded = chapter %}
       {% endif %}
-      
-      {% comment %} Create the link (e.g., "001.html#v5") {% endcomment %}
       {% assign link = chapter_padded | append: '/#v' | append: verse %}
 link url: {{ link }}
-      {% comment %} Split tags by comma {% endcomment %}
       
       {% for tag in parts offset:1 %}
         {% assign tag_name = tag | strip | downcase %}
 Tag name: {{tag_name}}
-        {% comment %} Create entry: tag|||link|||display (using ||| as delimiter) {% endcomment %}
+
         {% assign display = chapter | append: ':' | append: verse %}
         
 Display: {{display}}
@@ -80,7 +75,6 @@ Display: {{display}}
 {% endif %}
 {% endfor %}
 
-{% comment %} Sort entries alphabetically by tag name {% endcomment %}
 {% assign sorted_entries = all_entries | sort %}
 
 <h1>Topic Index</h1>
@@ -94,6 +88,9 @@ Display: {{display}}
 
 {% for entry in sorted_entries %}
 Entry: {{ entry }}
+{% endfor %}
+
+{% for entry in sorted_entries %}
 {% assign parts = entry | split: '|||' %}
 {% assign tag_name = parts[0] %}
 {% assign link = parts[1] %
