@@ -73,9 +73,9 @@ foo: bar12
 {%- assign tag_name = parts[0] -%}
 {%- assign link = parts[1] -%}
 {%- assign display = parts[2] -%}
-{%- if tag_name != current_tag -%}
+{%- if tag_name != current_tag %}
 <h2 id="{{ tag_name }}">{{ tag_name | capitalize }}</h2>
-{%- assign current_tag = tag_name -%}
+{% assign current_tag = tag_name -%}
 {%- assign first_ref = true -%}
 {%- endif -%}
 {%- unless first_ref -%}, {% endunless -%}<a href="{{ link }}">{{ display }}</a>
