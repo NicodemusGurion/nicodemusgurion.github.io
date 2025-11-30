@@ -1,7 +1,8 @@
------
-
-## layout: default
+---
+layout: default
 title: Topic Index
+permalink: /quran/topics/
+---
 
 <style>
 .topic-tag {
