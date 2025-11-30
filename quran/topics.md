@@ -36,28 +36,14 @@ permalink: /quran/topics/
 
 {% comment %} Split by (( to find all tag markers {% endcomment %}
 {% assign tag_markers = page.content | split: '((' %}
-Tags: {{ tag_markers.size }}
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between (( and )) {% endcomment %}
-Marker: {{marker}}
   {% assign tag_content = marker | split: '))' | first | strip %}
 Tag content: {{ tag_content }}
-  {% comment %} Split by first space to separate ref from tags {% endcomment %}
-  {% assign parts = tag_content | split: ' ' %}
   
+  {% assign parts = tag_content | split: ',' %}
   {% if parts.size >= 2 %}
     {% assign ref = parts[0] | strip %}
-    
-    {% comment %} Everything after first space is the tags {% endcomment %}
-    {% assign tags_string = "" %}
-    {% for part in parts offset:1 %}
-      {% if tags_string != "" %}
-        {% assign tags_string = tags_string | append: ' ' %}
-      {% endif %}
-      {% assign tags_string = tags_string | append: part %}
-    {% endfor %}
-    
-    {% comment %} Split the verse reference (e.g., "1:5") {% endcomment %}
     {% assign ref_parts = ref | split: ':' %}
     {% if ref_parts.size == 2 %}
       {% assign chapter = ref_parts[0] %}
@@ -76,21 +62,18 @@ Tag content: {{ tag_content }}
       {% assign link = chapter_padded | append: '/#v' | append: verse %}
       
       {% comment %} Split tags by comma {% endcomment %}
-      {% assign tags = tags_string | split: ',' %}
       
-      {% for tag in tags %}
+      {% for tag in parts offset:1 %}
         {% assign tag_name = tag | strip | downcase %}
         
         {% comment %} Create entry: tag|||link|||display (using ||| as delimiter) {% endcomment %}
-        {% assign display = 'Chapter ' | append: chapter | append: ', Verse ' | append: verse %}
+        {% assign display = chapter | append: ':' | append: verse %}
         {% assign entry = tag_name | append: '|||' | append: link | append: '|||' | append: display %}
         {% assign all_entries = all_entries | push: entry %}
       {% endfor %}
     {% endif %}
   {% endif %}
 {% endfor %}
-
-
 {% endif %}
 {% endfor %}
 
@@ -117,19 +100,11 @@ Tag content: {{ tag_content }}
 {% if current_tag != “” %}
 </ul>
 {% endif %}
-
-
-
 <h2 id="{{ tag_name }}">{{ tag_name | capitalize }}</h2>
 <ul>
 {% assign current_tag = tag_name %}
-
-
 {% endif %}
-
-  <li><a href="{{ link }}">{{ display }}</a></li>
+<li><a href="{{ link }}">{{ display }}</a></li>
 {% endfor %}
-
 </ul>
-
 {% endif %}
