@@ -21,10 +21,10 @@ const pattern = /((([^)]+)))/g;
       // Create links for each tag
       const links = tags.map(tag => {
         const tagName = tag.trim();
-        return '<a href="/topics/#${tagName}" class="topic-tag">${tagName}</a>';
+        return '<a href="/topics/#' + tagName +'" class="topic-tag">'+tagName+'</a>';
       }).join(' ');
       
-      return '<span class="topic-links">[${links}]</span>';
+      return '<span class="topic-links">'+links+'</span>';
     });
     
     wrapper.innerHTML = newHTML;
