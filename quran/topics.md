@@ -2,6 +2,7 @@
 layout: default
 title: Topic Index
 permalink: /quran/topics/
+foo: bar1
 ---
 
 <style>
@@ -89,8 +90,9 @@ Display: {{display}}
 
 {% for entry in sorted_entries %}
 {% assign parts = entry | split: '|||' %}
+Parts: {{ parts }}
 {% assign tag_name = parts[0] %}
-{% assign link = parts[1] %
+{% assign link = parts[1] %}
 {% assign display = parts[2] %}
 
 Entry: {{ tag_name }}, {{link}}, {{display}}
