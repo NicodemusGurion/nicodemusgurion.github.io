@@ -27,12 +27,8 @@ foo: bar1
 }
 </style>
 
-Version 3 uppdatera då då
 
-{% comment %} Build array of all topic entries {% endcomment %}
 {% assign all_entries = "" | split: "" %}
-
-{% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
 {% if page.layout == "surah" %}
 {% comment %} Split by (( to find all tag markers {% endcomment %}
@@ -42,10 +38,8 @@ Version 3 uppdatera då då
   {% assign tag_content = marker | split: '))' | first | strip %}
 Tag content: {{ tag_content }}
   {% assign parts = tag_content | split: ',' %}
-  
   {% if parts.size >= 2 %}
     {% assign ref = parts[0] | strip %}
-Reference: {{ ref }}
     {% assign ref_parts = ref | split: ':' %}
     {% if ref_parts.size == 2 %}
       {% assign chapter = ref_parts[0] %}
@@ -57,12 +51,10 @@ Reference: {{ ref }}
       {% else %}
         {% assign chapter_padded = chapter %}
       {% endif %}
-      {% assign link = chapter_padded | append: '/#v' | append: verse %}
-link url: {{ link }}
+      {% assign link = "/quran/" | append: chapter_padded | append: '/#v' | append: verse %}
       
       {% for tag in parts offset:1 %}
         {% assign tag_name = tag | strip | downcase %}
-Tag name: {{tag_name}}
 
         {% assign display = chapter | append: ':' | append: verse %}
         
@@ -80,22 +72,15 @@ Display: {{display}}
 
 <h1>Topic Index</h1>
 
-{% if sorted_entries.size == 0 %}
-
-<p>No topics found. Add tags using: <code>((1:5,prayer,guidance))</code></p>
-{% else %}
+{% unless sorted_entries.size == 0 %}
 
 {% assign current_tag = "" %}
 
-
 {% for entry in sorted_entries %}
 {% assign parts = entry | split: '|||' %}
-Parts: {{ parts }}
 {% assign tag_name = parts[0] %}
 {% assign link = parts[1] %}
 {% assign display = parts[2] %}
-
-Entry: {{ tag_name }}, {{link}}, {{display}}
 
 {% if tag_name != current_tag %}
 {% if current_tag != "" %}
@@ -108,4 +93,4 @@ Entry: {{ tag_name }}, {{link}}, {{display}}
 <li><a href="{{ link }}">{{ display }}</a></li>
 {% endfor %}
 </ul>
-{% endif %}
+{% endunless %}
