@@ -6,7 +6,7 @@ if (node.nodeType === 3) { // Text node
 const text = node.textContent;
 const pattern = /((([^)]+)))/g;
 
-```
+
   if (pattern.test(text)) {
     // Create a temporary div to hold the processed content
     const wrapper = document.createElement('span');
@@ -41,7 +41,6 @@ const pattern = /((([^)]+)))/g;
   // Element node - process children
   Array.from(node.childNodes).forEach(child => processTextNodes(child));
 }
-```
 
 }
 
