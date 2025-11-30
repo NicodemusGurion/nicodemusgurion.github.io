@@ -32,18 +32,17 @@ permalink: /quran/topics/
 {% comment %} Loop through all pages {% endcomment %}
 {% for page in site.pages %}
 {% if page.layout == "surah" %}
-{{ page.url }} is Surah
-
 {% comment %} Split by (( to find all tag markers {% endcomment %}
 {% assign tag_markers = page.content | split: '((' %}
 {% for marker in tag_markers offset:1 %}
   {% comment %} Extract content between (( and )) {% endcomment %}
   {% assign tag_content = marker | split: '))' | first | strip %}
 Tag content: {{ tag_content }}
-  
   {% assign parts = tag_content | split: ',' %}
+  
   {% if parts.size >= 2 %}
     {% assign ref = parts[0] | strip %}
+Reference: {{ ref }}
     {% assign ref_parts = ref | split: ':' %}
     {% if ref_parts.size == 2 %}
       {% assign chapter = ref_parts[0] %}
@@ -60,14 +59,16 @@ Tag content: {{ tag_content }}
       
       {% comment %} Create the link (e.g., "001.html#v5") {% endcomment %}
       {% assign link = chapter_padded | append: '/#v' | append: verse %}
-      
+link url: {{ link }}
       {% comment %} Split tags by comma {% endcomment %}
       
       {% for tag in parts offset:1 %}
         {% assign tag_name = tag | strip | downcase %}
-        
+Tag name: {{tag_name}}
         {% comment %} Create entry: tag|||link|||display (using ||| as delimiter) {% endcomment %}
         {% assign display = chapter | append: ':' | append: verse %}
+        
+Display: {{display}}
         {% assign entry = tag_name | append: '|||' | append: link | append: '|||' | append: display %}
         {% assign all_entries = all_entries | push: entry %}
       {% endfor %}
@@ -84,7 +85,7 @@ Tag content: {{ tag_content }}
 
 {% if sorted_entries.size == 0 %}
 
-<p>No topics found. Add tags using: <code>((1:5 prayer, guidance))</code></p>
+<p>No topics found. Add tags using: <code>((1:5,prayer,guidance))</code></p>
 {% else %}
 
 {% assign current_tag = “” %}
