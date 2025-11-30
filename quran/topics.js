@@ -1,31 +1,30 @@
-// Convert ((ref tags)) markers to clickable topic links
-document.addEventListener(‘DOMContentLoaded’, function() {
+// Convert ((ref,tag1,tag2)) markers to clickable topic links
+document.addEventListener('DOMContentLoaded', function() {
 // Find all text nodes in the body
 function processTextNodes(node) {
 if (node.nodeType === 3) { // Text node
 const text = node.textContent;
 const pattern = /((([^)]+)))/g;
 
-
   if (pattern.test(text)) {
     // Create a temporary div to hold the processed content
     const wrapper = document.createElement('span');
     
-    // Replace all ((ref tags)) with links
+    // Replace all ((ref,tag1,tag2)) with links
     const newHTML = text.replace(/\(\(([^)]+)\)\)/g, function(match, content) {
-      const parts = content.trim().split(/\s+/);
-      if (parts.length < 2) return ''; // Invalid format
+      const parts = content.trim().split(',');
+      if (parts.length < 2) return ''; // Invalid format - need at least ref and one tag
       
-      const ref = parts[0]; // e.g., "1:5"
-      const tags = parts.slice(1).join(' ').split(','); // Everything after first space
+      const ref = parts[0].trim(); // e.g., "1:5"
+      const tags = parts.slice(1); // All tags after the reference
       
       // Create links for each tag
       const links = tags.map(tag => {
         const tagName = tag.trim();
-        return `<a href="/topics.html#${tagName}" class="topic-tag">${tagName}</a>`;
+        return '<a href="/topics/#${tagName}" class="topic-tag">${tagName}</a>';
       }).join(' ');
       
-      return `<span class="topic-links">[${links}]</span>`;
+      return '<span class="topic-links">[${links}]</span>';
     });
     
     wrapper.innerHTML = newHTML;
