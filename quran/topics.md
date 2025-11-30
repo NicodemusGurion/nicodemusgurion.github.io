@@ -86,9 +86,6 @@ Display: {{display}}
 
 {% assign current_tag = "" %}
 
-{% for entry in sorted_entries %}
-Entry: {{ entry }}
-{% endfor %}
 
 {% for entry in sorted_entries %}
 {% assign parts = entry | split: '|||' %}
@@ -96,7 +93,8 @@ Entry: {{ entry }}
 {% assign link = parts[1] %
 {% assign display = parts[2] %}
 
-{% comment %} Start new section when tag changes {% endcomment %}
+Entry: {{ tag_name }}, {{link}}, {{display}}
+
 {% if tag_name != current_tag %}
 {% if current_tag != "" %}
 </ul>
