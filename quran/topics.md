@@ -27,16 +27,12 @@ foo: bar1
 }
 </style>
 
-
 {% assign all_entries = "" | split: "" %}
 {% for page in site.pages %}
 {% if page.layout == "surah" %}
-{% comment %} Split by (( to find all tag markers {% endcomment %}
 {% assign tag_markers = page.content | split: '((' %}
 {% for marker in tag_markers offset:1 %}
-  {% comment %} Extract content between (( and )) {% endcomment %}
   {% assign tag_content = marker | split: '))' | first | strip %}
-Tag content: {{ tag_content }}
   {% assign parts = tag_content | split: ',' %}
   {% if parts.size >= 2 %}
     {% assign ref = parts[0] | strip %}
@@ -52,13 +48,9 @@ Tag content: {{ tag_content }}
         {% assign chapter_padded = chapter %}
       {% endif %}
       {% assign link = "/quran/" | append: chapter_padded | append: '/#v' | append: verse %}
-      
       {% for tag in parts offset:1 %}
         {% assign tag_name = tag | strip | downcase %}
-
         {% assign display = chapter | append: ':' | append: verse %}
-        
-Display: {{display}}
         {% assign entry = tag_name | append: '|||' | append: link | append: '|||' | append: display %}
         {% assign all_entries = all_entries | push: entry %}
       {% endfor %}
@@ -76,13 +68,11 @@ Display: {{display}}
 
 {% assign current_tag = "" %}
 {% assign first_ref = true %}
-
 {% for entry in sorted_entries %}
 {% assign parts = entry | split: '|||' %}
 {% assign tag_name = parts[0] %}
 {% assign link = parts[1] %}
 {% assign display = parts[2] %}
-
 {% if tag_name != current_tag %}
 <h2 id="{{ tag_name }}">{{ tag_name | capitalize }}</h2>
 {% assign current_tag = tag_name %}
