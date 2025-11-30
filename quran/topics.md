@@ -93,6 +93,7 @@ Display: {{display}}
 {% assign current_tag = “” %}
 
 {% for entry in sorted_entries %}
+Entry: {{ entry }}
 {% assign parts = entry | split: ‘|||’ %}
 {% assign tag_name = parts[0] %}
 {% assign link = parts[1] %}
