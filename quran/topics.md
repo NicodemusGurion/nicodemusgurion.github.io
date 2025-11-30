@@ -75,6 +75,7 @@ Display: {{display}}
 {% unless sorted_entries.size == 0 %}
 
 {% assign current_tag = "" %}
+{% assign first_ref = true %}
 
 {% for entry in sorted_entries %}
 {% assign parts = entry | split: '|||' %}
@@ -83,14 +84,11 @@ Display: {{display}}
 {% assign display = parts[2] %}
 
 {% if tag_name != current_tag %}
-{% if current_tag != "" %}
-</ul>
-{% endif %}
 <h2 id="{{ tag_name }}">{{ tag_name | capitalize }}</h2>
-<ul>
 {% assign current_tag = tag_name %}
+{% assign first_ref = true %}
 {% endif %}
-<li><a href="{{ link }}">{{ display }}</a></li>
+{% unless first_ref %}, {% endunless %}<a href="{{ link }}">{{ display }}</a>
+{% assign first_ref = false %}
 {% endfor %}
-</ul>
 {% endunless %}
