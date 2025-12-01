@@ -67,7 +67,7 @@ foo: bar12
 {%- unless sorted_entries.size == 0 -%}
 
 {%- assign current_tag = "" -%}
-{%- assign first_ref = true -%}
+{%- assign use_comma = false -%}
 {%- for entry in sorted_entries -%}
 {%- assign parts = entry | split: '|||' -%}
 {%- assign tag_name = parts[0] -%}
@@ -76,9 +76,8 @@ foo: bar12
 {%- if tag_name != current_tag %}
 <h2 id="{{ tag_name }}">{{ tag_name | capitalize }}</h2>
 {% assign current_tag = tag_name -%}
-{%- assign first_ref = true -%}
+{%- assign use_comma = false -%}
 {%- endif -%}
-{%- unless first_ref -%}, {% endunless -%}<a href="{{ link }}">{{ display }}</a>
-{%- assign first_ref = false -%}
+{%- if use_comma -%}, {% else -%}{%- assign use_comma = true -%}{% endif %}<a href="{{ link }}">{{ display }}</a>
 {%- endfor -%}
 {%- endunless -%}
