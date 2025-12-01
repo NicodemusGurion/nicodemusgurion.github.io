@@ -60,11 +60,11 @@ table {
   display: block;
   max-width: 100vw;
   overflow-x: auto;
-  white-space: nowrap;
 }
 
 table th,
 table td {
+  min-width: max-content;
   max-width: 100vw;
   white-space: normal;
   word-break: break-word;
