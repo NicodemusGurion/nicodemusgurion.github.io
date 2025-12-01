@@ -55,58 +55,39 @@ th, td {
   padding: 8px;
 }
 
-@media screen and (max-width: 600px) {
-  /* Make table cells stack vertically */
-  table, thead, tbody, th, td, tr {
-    display: block;
-  }
-  
-  /* Add space between table rows */
-  tr {
-    margin-bottom: 16px;
-  }
 
-  /* Add a counter to the table body */
-  table tbody tr {
-    counter-reset: column-counter;
-  }
-
-  /* Increment the counter for each cell in a row */
-  table tbody tr td {
-    counter-increment: column-counter;
-  }
- 
-
-  /* Use the counter to create the content of the :before pseudo-element */
-  table td:before {
-    content: counter(column-counter);
-    font-weight: thin;
-    font-size:5pt;
-    display: inline;
-    margin-right: 0.5em;
-  }
-
-/* Reset the counter for the header row */
-table thead tr {
-  counter-reset: column-counter;
+/* Make tables scrollable on mobile */
+table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+  border-collapse: collapse;
 }
 
-/* Increment the counter for each cell in the header row */
-table thead tr th {
-  counter-increment: column-counter;
+/* Ensure table body acts as table */
+tbody {
+  display: table;
+  width: 100%;
 }
 
-/* Use the counter to create the content of the :before pseudo-element */
-table th:before {
-  content: counter(column-counter);
-  font-weight: thin;
-  font-size: 5pt;
-  display: inline;
-  margin-right: 0.5em;
+/* Prevent columns from exceeding screen width */
+td, th {
+  max-width: 100vw;
+  word-wrap: break-word;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 
- 
+/* Mobile-specific adjustments */
+@media screen and (max-width: 768px) {
+  td, th {
+    max-width: 90vw; /* Account for margins/padding */
+    padding: 8px;
+    font-size: 0.9em;
+  }
 }
+
 
 /* Use h6 for invisible id anchors */
 h6 {
