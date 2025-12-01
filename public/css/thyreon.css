@@ -66,9 +66,8 @@ table {
 table th,
 table td {
   max-width: 100vw;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  overflow: hidden;
+  white-space: normal;
+  word-break: break-word;
 }
 
 /* Use h6 for invisible id anchors */
