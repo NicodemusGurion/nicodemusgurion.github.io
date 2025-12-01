@@ -22,7 +22,7 @@ const pattern = /((([^)]+)))/g;
       const links = tags.map(tag => {
         const tagName = tag.trim();
         return '<a href="/quran/topics/#' + tagName +'" class="topic-tag">'+tagName+'</a>';
-      }).join(' ');
+      }).join(', ');
       
       return '<span class="topic-links">'+links+'</span>';
     });
