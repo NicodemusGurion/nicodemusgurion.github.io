@@ -59,13 +59,9 @@ foo: bar12
 {%- endfor -%}
 {%- endif -%}
 {%- endfor -%}
-
 {%- assign sorted_entries = all_entries | sort -%}
-
 <h1>Topic Index</h1>
-
 {%- unless sorted_entries.size == 0 -%}
-
 {%- assign current_tag = "" -%}
 {%- assign use_comma = false -%}
 {%- for entry in sorted_entries -%}
