@@ -78,6 +78,6 @@ foo: bar12
 {% assign current_tag = tag_name -%}
 {%- assign use_comma = false -%}
 {%- endif -%}
-{%- if use_comma -%}, {% else -%}{%- assign use_comma = true -%}{% endif %}<a href="{{ link }}">{{ display }}</a>
+{%- if use_comma %}, {% else -%}{%- assign use_comma = true -%}{% endif %}<a href="{{ link }}">{{ display }}</a>
 {%- endfor -%}
 {%- endunless -%}
