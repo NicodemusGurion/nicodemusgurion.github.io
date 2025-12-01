@@ -56,20 +56,26 @@ th, td {
 }
 
 
-table {
-  display: block;
-  width: max-content; 
+.quran-wrapper {
+  max-width: 100vw;
   overflow-x: auto;
-  border-collapse: collapse;
 }
 
-table th,
-table td {
-  width: 100vw;
-  max-width: 500px;
-  white-space: normal;
-  word-break: break-word;
+.quran-wrapper table {
+  width: max-content;        /* Table grows according to content */
+  border-collapse: collapse;
+  table-layout: auto;        /* Allows natural column expansion */
 }
+
+.quran-wrapper td,
+.quran-wrapper th {
+  max-width: min(100vw, 40em);          /* No cell wider than screen */
+  white-space: normal;       /* Wrap inside the cell */
+  word-break: break-word;    /* Break long words if needed */
+  overflow-wrap: break-word; /* Better compatibility */
+}
+
+ 
 
 /* Use h6 for invisible id anchors */
 h6 {
