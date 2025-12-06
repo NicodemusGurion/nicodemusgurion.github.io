@@ -1,7 +1,24 @@
 ---
 layout: default
 ---
+<style>
+/* Make the table a block-level element and allow horizontal scrolling */
+table {
+  display: block;           /* block-level so width and overflow can work */
+  width: 100%;              /* always as wide as parent */
+  overflow-x: auto;         /* allow horizontal scrolling if needed */
+  border-collapse: collapse; /* optional: keeps borders neat */
+  table-layout: fixed;      /* ensures max-width per column works */
+}
 
+/* Ensure each cell can break text naturally and respect max width */
+table th,
+table td {
+  min-width: min(100vw, 40em);  /* each column max width */
+  word-wrap: break-word;        /* break long words */
+  white-space: normal;          /* allow wrapping */
+}
+</style>
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
   {{ content }}
