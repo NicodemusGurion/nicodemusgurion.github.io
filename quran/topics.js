@@ -24,7 +24,7 @@ const pattern = /((([^)]+)))/g;
         return '<a href="/quran/topics/#' + tagName +'" class="topic-tag">'+tagName+'</a>';
       }).join(', ');
       
-      return '<span class="topic-links">'+links+'</span>';
+      return '<span class="topic-links">Topics: '+links+'</span>';
     });
     
     wrapper.innerHTML = newHTML;
