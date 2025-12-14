@@ -1,7 +1,7 @@
 ---
 title: The Trinity Doctrine in the Bible
-tags: [Trinity, Arianism, Deity of Christ, Featured]
 thumb: /public/img/Trinity-Shield-thumb.png
+permalink: /christianity/trinity-in-bible
 ---
 The Trinity Doctrine is probably the most misunderstood and attacked Christian doctrine though it is firmly rooted in the Bible and is really nothing but a summary of what the Bible teaches about the nature of God. This article explains key concepts and presents an extensive list of scriptures along with explanations that prove or support the trinity doctrine.
  
@@ -341,6 +341,12 @@ The word of God will never pass away. In Luke 21:33 Jesus says "Heaven and earth
 > Behold, the Lord GOD comes with might, and his arm rules for him; behold, his reward is with him, and his recompense before him.
 
 [The one who repays deeds](#the-one-who-repays-deeds) is a divine title which in [Revelation 22:12,13](#revelation-22-12-13) is used about Jesus, proving his deity.
+
+## Isaiah 40: 13, 14
+
+> Who has taken the measurements of the spirit of Jehovah, And who can instruct him as his adviser?  14 With whom did he consult to gain understanding, Or who teaches him in the path of justice, Or teaches him knowledge, Or shows him the way of true understanding?
+
+Here the Spirit of Jehovah is called "him", and has understanding and knowledge. 
 
 ## Isaiah 41: 4 
 

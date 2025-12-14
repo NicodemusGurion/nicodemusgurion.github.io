@@ -266,3 +266,12 @@ See also:
 Surah 23:31
 
 > And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments [i.e., hair, body shape, and underclothes.] except what normally appears.[i.e., the face, hands, outer clothes, rings, kohl, and henna.] Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments [i.e., hair, arms, and legs.]
+
+
+### In paradise, women will be prostitutes
+
+[Sahih al-Bukhari 4879, 4880](https://sunnah.com/bukhari:4879)
+
+> Allah's Messenger said, "In Paradise there is a pavilion made of a single hollow pearl sixty miles wide, in each corner of which there are wives who will not see those in the other corners; and the believers will visit and enjoy them.
+
+I don't know how a pearl could have corners, but apparently at the corners of this sixty mile wide pearl, Muslim wives are standing, waiting like prostitutes to be sexually used by Muslim men. The islamic afterlife is all about perverted sex.

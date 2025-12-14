@@ -185,6 +185,12 @@ Also:
 - [Riyad as-Salihin 1880](https://sunnah.com/riyadussalihin:1880)
 - [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
+## Paradise dwellers will have 72 wives
+
+[Mishkat al-Masabih 5648](https://sunnah.com/mishkat:5648)
+
+> Abu Sa'id reported God's messenger as saying, "The lowliest of the inhabitants of paradise will be he who has eighty thousand servants, seventy-two wives,...
+
 ## Paradise dwellers will have large-eyed houris {#houris}
 
 [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
@@ -227,7 +233,13 @@ Surah 2:29
 
 > Anas bin Malik narrated that the Messenger of Allah said: "Whoever asks Allah Paradise three times, Paradise says: 'O Allah, admit him into Paradise', and whoever seeks refuge from the Fire three times, the Fire says: 'O Allah, save him from the Fire.'"
 
+## Paradise for women
 
+[Sahih al-Bukhari 4879, 4880](https://sunnah.com/bukhari:4879)
+
+> Allah's Messenger said, "In Paradise there is a pavilion made of a single hollow pearl sixty miles wide, in each corner of which there are wives who will not see those in the other corners; and the believers will visit and enjoy them.
+
+I don't know how a pearl could have corners, but apparently at the corners of this sixty mile wide pearl, Muslim wives are standing, waiting like prostitutes to be sexually used by Muslim men. The islamic afterlife is all about perverted sex.
 
 # Prayer
 

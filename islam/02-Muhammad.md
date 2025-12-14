@@ -590,6 +590,14 @@ See also:
 - [Riyad as-Salihin, 750](https://sunnah.com/riyadussalihin:750)
 - [Riyad as-Salihin, 751](https://sunnah.com/riyadussalihin:751)
 
+## Muhammad's followers drank the water he used to wash himself in
+
+[Mishkat al-Masabih 476](https://sunnah.com/mishkat:476)
+
+> As-Sa'ib b. Yazid said: My maternal aunt took me to the Prophet and said, “My nephew is ill.” So he wiped my head, invoked a blessing on me, then performed ablution, and I drank some of the water he had used.
+
+
+
 ## Muhammad told his followers to drink his spit water {#drink-spit}
 
 [Sahih al-Bukhari 188](https://sunnah.com/bukhari:188)
@@ -884,7 +892,7 @@ So which is it? Muhammad never did any miracles, or Muhammad did miracles? This 
 
 # Muhammad and sex
 
-## Mohammed was a pedophile {#child-sexual-abuse}
+## Mohammed raped a 9 year old girl {#child-sexual-abuse}
 
 [Sunan an Nasa'i 3378](https://sunnah.com/nasai:3378)
 
