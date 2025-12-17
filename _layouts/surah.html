@@ -19,11 +19,12 @@ layout: default
   <tr>
   <td></td>
     {%- for verse in verse_links -%}
-      <td><a href="#v{{ verse }}">{{ verse }}</a></td>
-      {% assign remainder = forloop.index | modulo: 10 %}
+    {% assign remainder = forloop.index | modulo: 10 %}
   {% if remainder == 0 %}
     </tr><tr>
   {% endif %}
+      <td><a href="#v{{ verse }}">{{ verse }}</a></td>
+      
     {%- endfor -%}
    </tr>
    </table>
