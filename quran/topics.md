@@ -49,7 +49,7 @@ foo: bar12
       {%- endif -%}
       {%- assign link = "/quran/" | append: chapter_padded | append: '/#v' | append: verse -%}
       {%- for tag in parts offset:1 -%}
-        {%- assign tag_name = tag | strip | downcase | replace: " ", "-" -%}
+        {%- assign tag_name = tag | strip  -%}
         {%- assign display = chapter | append: ':' | append: verse -%}
         {%- assign entry = tag_name | append: '|||' | append: link | append: '|||' | append: display -%}
         {%- assign all_entries = all_entries | push: entry -%}
@@ -67,10 +67,11 @@ foo: bar12
 {%- for entry in sorted_entries -%}
 {%- assign parts = entry | split: '|||' -%}
 {%- assign tag_name = parts[0] -%}
+{%- assign tag_id = tag_name | downcase | replace: " ", "-" -%}
 {%- assign link = parts[1] -%}
 {%- assign display = parts[2] -%}
 {%- if tag_name != current_tag %}
-<h2 id="{{ tag_name }}">{{ tag_name | capitalize }}</h2>
+<h2 id="{{ tag_id }}">{{ tag_name | capitalize }}</h2>
 {% assign current_tag = tag_name -%}
 {%- assign use_comma = false -%}
 {%- endif -%}
