@@ -263,7 +263,7 @@ See also:
 
 > Narrated Aisha, Ummul Mu'minin: Asma, daughter of AbuBakr, entered upon the Messenger of Allah wearing thin clothes. The Messenger of Allah turned his attention from her. He said: O Asma', when a woman reaches the age of menstruation, it does not suit her that she displays her parts of body except this and this, and he pointed to his face and hands.
 
-Surah 23:31
+Surah 24:31
 
 > And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments [i.e., hair, body shape, and underclothes.] except what normally appears.[i.e., the face, hands, outer clothes, rings, kohl, and henna.] Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments [i.e., hair, arms, and legs.]
 
