@@ -40,14 +40,7 @@ foo: bar12
     {%- if ref_parts.size == 2 -%}
       {%- assign chapter = ref_parts[0] -%}
       {%- assign verse = ref_parts[1] -%}
-      {%- if chapter.size == 1 -%}
-        {%- assign chapter_padded = '00' | append: chapter -%}
-      {%- elsif chapter.size == 2 -%}
-        {%- assign chapter_padded = '0' | append: chapter -%}
-      {%- else -%}
-        {%- assign chapter_padded = chapter -%}
-      {%- endif -%}
-      {%- assign link = "/quran/" | append: chapter_padded | append: '/#v' | append: verse -%}
+      {%- assign link = "/quran/" | append: chapter | append: '/#v' | append: verse -%}
       {%- for tag in parts offset:1 -%}
         {%- assign tag_name = tag | strip  -%}
         {%- assign display = chapter | append: ':' | append: verse -%}
