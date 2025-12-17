@@ -19,8 +19,32 @@ table td {
   white-space: normal;          /* allow wrapping */
 }
 </style>
+
 <div class="page">
   <h1 class="page-title">{{ page.title }}</h1>
+  
+  {%- comment -%}Generate TOC from verse spans{%- endcomment -%}
+  {%- assign verse_spans = content | split: '<span id="v' -%}
+  {%- assign verse_links = "" | split: "" -%}
+  
+  {%- for span in verse_spans offset:1 -%}
+    {%- assign verse_num = span | split: '"' | first -%}
+    {%- if verse_num contains "v" == false -%}
+      {%- assign verse_links = verse_links | push: verse_num -%}
+    {%- endif -%}
+  {%- endfor -%}
+  
+  {%- if verse_links.size > 0 -%}
+  <div class="verse-toc">
+    Verses: 
+    {%- for verse in verse_links -%}
+      {%- if forloop.first == false -%}, {%- endif -%}
+      <a href="#v{{ verse }}">{{ verse }}</a>
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+  
+  
   {{ content }}
 </div>
 <script src="/quran/topics.js"></script>
