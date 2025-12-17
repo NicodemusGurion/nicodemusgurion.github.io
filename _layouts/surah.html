@@ -46,7 +46,7 @@ td {margin:0; padding:0; text-align: center;}
       {%- assign topic_links = "" -%}
       
       {%- for tag in parts offset:1 -%}
-      {%- unless forloop.first %}, {% endunless -%}
+      {%- if forloop.first == false -%}, {%- endif -%}
         {%- assign tag_name = tag | strip -%}
         {%- assign tag_id = tag_name | downcase | replace: " ", "-" -%}
         {%- if topic_links != "" -%}
