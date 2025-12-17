@@ -49,7 +49,7 @@ foo: bar12
       {%- endif -%}
       {%- assign link = "/quran/" | append: chapter_padded | append: '/#v' | append: verse -%}
       {%- for tag in parts offset:1 -%}
-        {%- assign tag_name = tag | strip | downcase -%}
+        {%- assign tag_name = tag | strip | downcase | replace: " ", "-" -%}
         {%- assign display = chapter | append: ':' | append: verse -%}
         {%- assign entry = tag_name | append: '|||' | append: link | append: '|||' | append: display -%}
         {%- assign all_entries = all_entries | push: entry -%}

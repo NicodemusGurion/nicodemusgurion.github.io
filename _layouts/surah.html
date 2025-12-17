@@ -46,14 +46,16 @@ td {margin:0; padding:0; text-align: center;}
       {%- assign topic_links = "" -%}
       
       {%- for tag in parts offset:1 -%}
+      {%- unless forloop.first %}, {% endunless -%}
         {%- assign tag_name = tag | strip -%}
+        {%- assign tag_id = tag_name | downcase | replace: " ", "-" -%}
         {%- if topic_links != "" -%}
           {%- assign topic_links = topic_links | append: ' ' -%}
         {%- endif -%}
-        {%- assign topic_links = topic_links | append: '<a href="/quran/topics.html#' | append: tag_name | append: '" class="topic-tag">' | append: tag_name | append: '</a>' -%}
+        {%- assign topic_links = topic_links | append: '<a href="/quran/topics/#' | append: tag_id | append: '" class="topic-tag">' | append: tag_name | append: '</a>' -%}
       {%- endfor -%}
       
-      {%- assign replacement = '<span class="topic-links">[' | append: topic_links | append: ']</span>' -%}
+      {%- assign replacement = '<span class="topic-links">[Tags: ' | append: topic_links | append: ']</span>' -%}
       {%- assign original = '((' | append: tag_content | append: '))' -%}
       {%- assign processed_content = processed_content | replace: original, replacement -%}
     {%- endif -%}
