@@ -19,7 +19,6 @@ layout: default
   <tr>
   <td></td>
     {%- for verse in verse_links -%}
-      {%- if forloop.first == false -%}, {%- endif -%}
       <td><a href="#v{{ verse }}">{{ verse }}</a></td>
       {% assign remainder = forloop.index | modulo: 10 %}
   {% if remainder == 0 %}
