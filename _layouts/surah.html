@@ -34,7 +34,31 @@ td {margin:0; padding:0; text-align: center;}
   </div>
   {%- endif -%}
   
+  {%- assign processed_content = content -%}
+  {%- assign tag_markers = content | split: '((' -%}
   
-  {{ content }}
+  {%- for marker in tag_markers offset:1 -%}
+    {%- assign tag_content = marker | split: '))' | first | strip -%}
+    {%- assign parts = tag_content | split: ',' -%}
+    
+    {%- if parts.size >= 2 -%}
+      {%- assign ref = parts[0] | strip -%}
+      {%- assign topic_links = "" -%}
+      
+      {%- for tag in parts offset:1 -%}
+        {%- assign tag_name = tag | strip -%}
+        {%- if topic_links != "" -%}
+          {%- assign topic_links = topic_links | append: ' ' -%}
+        {%- endif -%}
+        {%- assign topic_links = topic_links | append: '<a href="/quran/topics.html#' | append: tag_name | append: '" class="topic-tag">' | append: tag_name | append: '</a>' -%}
+      {%- endfor -%}
+      
+      {%- assign replacement = '<span class="topic-links">[' | append: topic_links | append: ']</span>' -%}
+      {%- assign original = '((' | append: tag_content | append: '))' -%}
+      {%- assign processed_content = processed_content | replace: original, replacement -%}
+    {%- endif -%}
+  {%- endfor -%}
+  
+  {{ processed_content }}
+  
 </div>
-<script src="/quran/topics.js"></script>
