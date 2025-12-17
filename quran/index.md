@@ -2,11 +2,6 @@
 layout: menu
 title: "Tafsīr al-Jāk"
 ---
-
-## Naẓra Masīḥiyya
-
-
-
 {%- assign surah_pages = site.pages | where: "layout", "surah" | sort: "path" -%}
 
 <ul>
