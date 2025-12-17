@@ -29,11 +29,12 @@ table td {
   
   {%- for span in verse_spans offset:1 -%}
     {%- assign verse_num = span | split: '"' | first -%}
+    Verse num {{ verse_num }}
     {%- if verse_num contains "v" == false -%}
       {%- assign verse_links = verse_links | push: verse_num -%}
     {%- endif -%}
   {%- endfor -%}
-  Verse links: {{ verse_links }}
+  Verse links: {{ verse_links.size }}
   {%- if verse_links.size > 0 -%}
   <div class="verse-toc">
     Verses: 
