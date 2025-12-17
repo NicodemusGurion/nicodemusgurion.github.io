@@ -122,8 +122,8 @@ function generateTableOfContents() {
 
 function runAllExtras(){
 generateTableOfContents();
-QuranRefs();
-convertHadithReferences()
+//QuranRefs();
+//convertHadithReferences()
 }
 
 window.onload = runAllExtras;
