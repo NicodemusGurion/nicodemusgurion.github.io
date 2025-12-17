@@ -1,9 +1,38 @@
 function QuranRefs() {
     var mainDiv = document.getElementById("maincontent");
-    var text = mainDiv.innerHTML;
+    
+    // Get all text nodes that are NOT inside <a> tags
+    var walker = document.createTreeWalker(
+        mainDiv,
+        NodeFilter.SHOW_TEXT,
+        {
+            acceptNode: function(node) {
+                // Reject if parent is a link
+                if (node.parentElement.tagName === 'A') {
+                    return NodeFilter.FILTER_REJECT;
+                }
+                return NodeFilter.FILTER_ACCEPT;
+            }
+        }
+    );
+    
+    var textNodes = [];
+    while (walker.nextNode()) {
+        textNodes.push(walker.currentNode);
+    }
+    
     const regex = /(surah[s]*\s*[0-9\:\,\-\;\s]*[0-9])/gi;
-    mainDiv.innerHTML = text.replace(regex, (match) => SurahLink(match));
+    
+    textNodes.forEach(node => {
+        var text = node.textContent;
+        if (regex.test(text)) {
+            var span = document.createElement('span');
+            span.innerHTML = text.replace(regex, (match) => SurahLink(match));
+            node.parentNode.replaceChild(span, node);
+        }
+    });
 }
+
 
 function SurahLink(input) {
   const surahs = input.split(';');
