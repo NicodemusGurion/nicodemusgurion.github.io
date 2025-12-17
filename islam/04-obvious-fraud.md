@@ -37,7 +37,7 @@ See also:
 
 ## Unlimited women for Muhammad {#unlimited-women}
 
-Surah 33:50-51
+[Surah 33:50-51](https://quran.com/33/50-51)
 
 > Prophet, We have made lawful for you the wives whose bride gift you have paid, and any slaves God has assigned to you through war, and the daughters of your uncles and aunts on your father’s and mother’s sides, who migrated with you. Also any believing woman who has offered herself to the Prophet and whom the Prophet wishes to wed- this is only for you [Prophet] and not the rest of the believers…
 
@@ -51,7 +51,7 @@ Regular muslim men were "only" allowed to marry 4 women, but Allah made a specif
 
 > It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
 
-Horndog that he was, Muhammad [was not satisfied with 11 wives](#eleven-wives) but started having sex with a slave girl. His wives Aisha and Hansah were upset and demanded he promise never to do it again, to which he obliged. But later Allah conveniently gave him the revelation in Surah 66:1-6 that says that Muhammad can have sex with any woman he wishes and if his wives complain about it, Allah will replace them with better wives. And he threatens them with hell for having the audacity to ask their husband to not be unfaithful. How convenient.
+Horndog that he was, Muhammad [was not satisfied with 11 wives](#eleven-wives) but started having sex with a slave girl. His wives Aisha and Hansah were upset and demanded he promise never to do it again, to which he obliged. But later Allah conveniently gave him the revelation in [Surah 66:1-6](https://quran.com/66/1-6) that says that Muhammad can have sex with any woman he wishes and if his wives complain about it, Allah will replace them with better wives. And he threatens them with hell for having the audacity to ask their husband to not be unfaithful. How convenient.
 
 ## Allah annulled adoption so Muhammad could marry his son's wife {#anulling-adoption}
 
@@ -66,7 +66,7 @@ See: [The time Muhammad stole his son's wife](/The-time-Muhammad-stole-his-sons-
 > “When the Prophet was expelled from Makkah, … it was revealed: ‘Permission to fight (against disbelievers) is given to those (believers) who are fought against, because they have been wronged; and surely, Allah is able to give them (believers) victory.’ Then I knew that there would be fighting.” Ibn Abbas said: “This is the first Verse that was revealed concerning fighting.”
 
 
-When Muhammad and his tiny band of followers were kicked out of Mecca for being a nuisance, Muhammad suddenly had a convenient revelation (Surah 23:39) where Allah gave him permission to convert his cult into the death machine that has plagued mankind since.
+When Muhammad and his tiny band of followers were kicked out of Mecca for being a nuisance, Muhammad suddenly had a convenient revelation ([Surah 23:39](https://quran.com/23/39)) where Allah gave him permission to convert his cult into the death machine that has plagued mankind since.
 
 ## Allah changed the Qiblah for Muhammad 
 
@@ -87,11 +87,11 @@ Allah surely did everything to please Muhammad's most frivolous whims, even chan
 
 > It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
 
-The verse revealed was Surah 66:1-6. [Tafsir al-Jalalayn](http://web.archive.org/web/20220221075859/https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=74&tSoraNo=66&tAyahNo=1&tDisplay=yes&UserProfile=0&LanguageId=2) says about Surah 66:1-6:
+The verse revealed was [Surah 66:1-6](https://quran.com/66/1-6). [Tafsir al-Jalalayn](http://web.archive.org/web/20220221075859/https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=74&tSoraNo=66&tAyahNo=1&tDisplay=yes&UserProfile=0&LanguageId=2) says about [Surah 66:1-6](https://quran.com/66/1-6):
 
 > O Prophet! Why do you prohibit what God has made lawful for you in terms of your Coptic handmaiden Māriya — when he lay with her in the house of Hafsa who had been away but who upon returning and finding out became upset by the fact that this had taken place in her own house and on her own bed — by saying ‘She is unlawful for me!’ seeking by making her unlawful for you to please your wives? And God is Forgiving Merciful having forgiven you this prohibition.
 
-Muhammad was having sex with his sex slave Maria the Copt in the house of his wife Hansa, and quite understandably his wives complained. But then Allah conveniently revealed Surah 66:1-6, that Muhammad can do that if he wishes, and if his wives complain, he should divorce them and they can literally go to hell. 
+Muhammad was raping with his sex slave Maria the Copt in the house of his wife Hansa, and quite understandably his wives complained. But then Allah conveniently revealed [Surah 66:1-6,](https://quran.com/66/1-6,) that Muhammad can do that if he wishes, and if his wives complain, he should divorce them and they can literally go to hell. 
 
 ## Allah defends Muhammad against accusations of theft
 
@@ -103,7 +103,7 @@ After the battle of Badr, the Muslims were dividing up the spoil, and apparently
 
 You have to wonder why, rather than being beyond suspicion, Muhammad was the very first suspect when something was missing?
 
-So to defend himself, "Allah" revealed the verse Surah 3:161:
+So to defend himself, "Allah" revealed the verse [Surah 3:161](https://quran.com/3/161):
 
 > It is inconceivable that a prophet would ever dishonestly take something from the battle gains. Anyone who does so will carry it with him on the Day of Resurrection, when each soul will be fully repaid for what it has done: no one will be wronged.
 
@@ -117,7 +117,7 @@ So essentially "Allah" says "No, Muhammad is innocent. Trust me bro." But the sa
 
 ## Dinner instructions 
 
-Surah 33:53
+[Surah 33:53](https://quran.com/33/53)
 
 > O believers! Do not enter the homes of the Prophet without permission ˹and if invited˺ for a meal, do not ˹come too early and˺ linger until the meal is ready. But if you are invited, then enter ˹on time˺. Once you have eaten, then go on your way, and do not stay for casual talk. Such behaviour is truly annoying to the Prophet, yet he is too shy to ask you to leave. But Allah is never shy of the truth. And when you ˹believers˺ ask his wives for something, ask them from behind a barrier. This is purer for your hearts and theirs. And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.
 

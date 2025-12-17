@@ -17,7 +17,7 @@ What Islam teaches about Jesus varies. Some things are more or less accurate, bu
 
 ## Jesus is free of sin
 
-Surah 19:19 
+[Surah 19:19](https://quran.com/19/19) 
 
 The angel said to Mary about Jesus:
 
@@ -25,7 +25,7 @@ The angel said to Mary about Jesus:
 
 ## Jesus was not crucified 
 
-Surah 4:157
+[Surah 4:157](https://quran.com/4/157)
 
 > and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
 
@@ -33,7 +33,7 @@ This is probably the most damning verse in the Quran, because it not only goes a
 
 ## Jesus is Lord along with Allah
 
-Surah 9:31
+[Surah 9:31](https://quran.com/9/31)
 
 > They have taken their scholars and monks as lords besides Allāh and the Messiah, the son of Mary.
 
@@ -43,7 +43,7 @@ So the error of these people is to take the rabbis and monks as lords, when they
 
 ## The First and the Last
 
-Surah 57:3
+[Surah 57:3](https://quran.com/57/3)
 
 > [Allah] is the First and the Last, and the Manifest and the Hidden, and He is All-Knowing about every thing.
 
@@ -59,7 +59,7 @@ Allah seemingly dislikes the King of Kinfs. But Jesus Christ is called "The King
 
 ## King of the Kingdom of Heaven and Earth
 
-Surah 57:5
+[Surah 57:5](https://quran.com/57/5)
 
 > To Him belongs the kingdom of the heavens and the earth. And to Allah all matters are returned.
 
@@ -75,18 +75,18 @@ Last I checked, only God can judge humanity. Why don't Muslims follow the future
 
 ## Is alive in heaven with Allah
 
-Surah 3:55
+[Surah 3:55](https://quran.com/3/55)
 
 > Allah said, “O Jesus! I will take you1 and raise you up to Myself. I will deliver you from those who disbelieve, and elevate your followers above the disbelievers until the Day of Judgment. 
 
-Surah 4:157-158
+[Surah 4:157-158](https://quran.com/4/157-158)
 
 > Rather, Allah raised him (Jesus) up to Himself. And Allah is Almighty, All-Wise.
 
 
 ## Jesus is the Word of Allah and a spirit from him
 
-Surah 4:171
+[Surah 4:171](https://quran.com/4/171)
 
 > The Messiah, Jesus son of Mary, was a messenger of Allah, and His word which He cast down to Mary, and a spirit from Him.
 
@@ -97,22 +97,22 @@ Surah 4:171
 
 ## Jesus has the divine powers of Allah
 
-Surah 22:6,7
+[Surah 22:6,7](https://quran.com/22/6,7)
 
 > That is because Allah is the truth, and that He gives life to the dead, and that He is powerful to do everything, and that the Hour has to come, in which there is no doubt, and that Allah will raise again all those in the graves.
 
 Allah is the truth, who gives life to the dead, when the hour comes he will raise the dead in the graves.
 
 
-John 14:6 
+[John 14:6](https://biblehub.com/john/14-6.htm)
 
 > Jesus said to him, “I am the way, and the truth, and the life. No one comes to the Father except through me.
 
-John 5:21,25 
+[John 5:21](https://biblehub.com/john/5-21.htm],[25](https://biblehub.com/john/5-25.htm)
 
 > For as the Father raises the dead and gives them life, so also the Son gives life to whom he will. … “Truly, truly, I say to you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live.
 
-John 5:28-29 
+[John 5:28](https://biblehub.com/john/5-28.htm)[-29](https://biblehub.com/john/5-29.htm)
 
 > Do not marvel at this, for an hour is coming when all who are in the tombs will hear his voice and come out, those who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment.
 
@@ -120,9 +120,6 @@ Jesus is the truth, who gives life to the dead, when the hour comes he will rais
 
 
 This proves that Jesus claims to be God.
-
-
-
 
 
 # Satan

@@ -70,7 +70,7 @@ Muslims however understand it not as that you shouldn't fight or hurt others, bu
 
 ## All people go to hell
 
-Surah 19:71
+[Surah 19:71](https://quran.com/19/71)
 
 > There is not one of you but shall pass by Hell. This is a decree which your Lord will fulfil.
 
@@ -92,7 +92,7 @@ So apparently all people, including all Muslims, will go to hell. It's up to the
 
 > In Medina a group of Jinn have embraced Islam
 
-Surah 46:29-31
+[Surah 46:29-31](https://quran.com/46/29-31)
 
 > ˹Remember, O  Prophet,˺ when We sent a group of jinn your way to listen to the Quran. Then, upon hearing it, they said ˹to one another˺, “Listen quietly!” Then when it was over, they returned to their fellow jinn as warners. They declared, “O our fellow jinn! We have truly heard a scripture revealed after Moses, confirming what came before it. It guides to the truth and the Straight Way. O  our fellow jinn! Respond to the caller of Allah and believe in him, He will forgive your sins and protect you from a painful punishment.
 
@@ -223,7 +223,7 @@ See also:
 
 ## There are 7 heavens {#seven-heavens}
 
-Surah 2:29
+[Surah 2:29](https://quran.com/2/29)
 
 > It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens...
 
@@ -293,7 +293,7 @@ Notice that this is not talking *about* Muhammad, but *to* Muhammad. Muhammad is
 
 ## The hour of resurrection 
 
-Surah 22:6-7
+[Surah 22:6-7](https://quran.com/22/6-7)
 
 > That is because Allâh: He is the Truth, and it is He Who gives life to the dead, and it is He Who is Able to do all things. And surely, the Hour is coming, there is no doubt about it; and certainly, Allâh will resurrect those who are in the graves.
 
@@ -318,7 +318,7 @@ How Muslims are saved on judgment day is confusing and contradictory.
 
 ## Muslims are saved by works
 
-Surah 13:29; 18:107; 22:50; 30:15 32:19; 98:7
+[Surah 13:29](https://quran.com/13/29)[; 18:107](https://quran.com/18/107)[; 22:50](https://quran.com/22/50)[; 30:15](https://quran.com/30/15) 32:19[; 98:7](https://quran.com/98/7)
 
 > And those who have believed and done righteous deeds - for them is forgiveness and noble provision.
 
@@ -327,13 +327,13 @@ Islam is a works-righteousness religion. And as such it can't save, because none
 
 ## Jews and Christians are also saved
 
-Surah 2:62
+[Surah 2:62](https://quran.com/2/62)
 
 > The [Muslim] believers, the Jews, the Christians, and the Sabians- all those who believe in God and the Last Day and do good- will have their rewards with their Lord. 
 
 ## No ransom will be accepted for another person {#no-ransom}
 
-Surah 2:48
+[Surah 2:48](https://quran.com/2/48)
 
 > Guard yourselves against a Day when no soul will stand in place of another, no intercession will be accepted for it, nor any ransom; nor will they be helped.
 
@@ -448,12 +448,12 @@ A man who commits adultery is really only doing the will of Allah, and has no ch
 
 ### Only Allah forgives sins
 
-Surah 3:135
+[Surah 3:135](https://quran.com/3/135)
 
 > They are those who, upon committing an evil deed or wronging themselves, remember Allah and seek forgiveness for their sins—and who forgives sins except Allah?
 
 ### But Muhammad also forgives sins 
 
-Surah 46:31
+[Surah 46:31](https://quran.com/46/31)
 
 > Our people, respond to the one who calls you to God. Believe in Him: He will forgive you your sins and protect you from a painful torment.’

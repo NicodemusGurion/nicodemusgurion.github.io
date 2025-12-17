@@ -19,7 +19,7 @@ How to deal with those who leave islam.
 
 ## Punishment for apostasy is death {#apostasy-death-sentence}
 
-Surah 4:89
+[Surah 4:89](https://quran.com/4/89)
 
 > They wish you would disbelieve as they have disbelieved, so you may all be alike. So do not take them as allies unless they emigrate in the cause of Allah. But if they turn away, **then seize them and kill them wherever you find them**, and do not take any of them as allies or helpers,
 
@@ -91,7 +91,7 @@ If he was a prophet then let's hope this prophecy comes true at least.
 
 ## Islam means following Muhammad 
 
-Surah 4:65
+[Surah 4:65](https://quran.com/4/65)
 
 > But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.
 
@@ -103,7 +103,7 @@ Surah 4:65
 
 ## View of non-Muslims
 
-Surah 98:6
+[Surah 98:6](https://quran.com/98/6)
 
 > Indeed, those who disbelieve from the People of the Book and the polytheists will be in the Fire of Hell, to stay there forever. They are the worst of ˹all˺ beings
 
@@ -161,11 +161,11 @@ See also:
 
 ## Do not befriend non-muslims 
 
-Surah 3:28
+[Surah 3:28](https://quran.com/3/28)
 
 > Believers should not take disbelievers as allies instead of the believers—and whoever does so will have nothing to hope for from Allah—unless it is a precaution against their tyranny.
 
-Surah 5:51
+[Surah 5:51](https://quran.com/5/51)
 
 > You who believe, do not take the Jews and Christians as allies:they are allies only to each other. Anyone who takes them as an ally becomes one of them- God does not guide such wrongdoers
 
@@ -173,14 +173,14 @@ Think you have a Muslim friend? Think again. Muslims are not allowed to be your 
 
 ## Do not insult unbelievers or they will insult Allah
 
-Surah 6:108
+[Surah 6:108](https://quran.com/6/108)
 
 > ˹O believers!˺ Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance. 
 
 
 ## Non-Muslims are the worst of creatures
 
-Surah 98:6
+[Surah 98:6](https://quran.com/98/6)
 
 > Those who reject (Truth), among the People of the Book and among the Polytheists, will be in Hell-Fire, to dwell therein. They are the worst of creatures
 
@@ -232,15 +232,15 @@ See also:
 
 ## Muslims should listen to and learn from Christians and Jews {#listen-to-christians}
 
-Surah 29:46
+[Surah 29:46](https://quran.com/29/46)
 
 > Do not argue with the People of the Book unless gracefully, except with those of them who act wrongfully. 
 
-Surah 16:43;21:7
+[Surah 16:43](https://quran.com/16/43)[;21:7](https://quran.com/21/7)
 
 > [Prophet], all the messengers We sent before you were simply men to whom We had given the Revelation: you [people] can ask those who have knowledge if you do not know.
 
-Surah 10:94
+[Surah 10:94](https://quran.com/10/94)
 
 > If you are in doubt about what We have revealed to you, then ask those who read the Scripture before you. The truth has certainly come to you from your Lord, so do not be one of those who doubt,
 
@@ -258,7 +258,7 @@ Muslims should not argue with Christians but listen and learn from them what All
 
 Jizya is a tax that Islam demands from Jews and Christians in exchange for not killing them.
 
-Surah 9:29
+[Surah 9:29](https://quran.com/9/29)
 
 > Fight those of the People of the Book who do not [truly] believe in God and the Last Day, who do not forbid what God and His Messenger have forbidden, who do not obey the rule of justice,until they pay the [jizya] tax and agree to submit.
 
@@ -275,13 +275,13 @@ This is the future of your country if you invite Islam: They will sooner or late
 
 ### Allah favors Jews
 
-Surah 45:16
+[Surah 45:16](https://quran.com/45/16)
 
 > Indeed, We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good, lawful provisions; and favoured them above the others.
 
 ### Allah ordained that Israel would live in the holy land
 
-Surah 5:21
+[Surah 5:21](https://quran.com/5/21)
 
 > O my people! Go into the holy land which Allah hath ordained for you. Turn not in flight, for surely ye turn back as losers:
 
@@ -301,7 +301,7 @@ Surah 5:21
 
 ### The verse Muslims use to lie that Islam is peaceful {#peaceful}
 
-Surah 5:32
+[Surah 5:32](https://quran.com/5/32)
 
 > That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
 
@@ -317,7 +317,7 @@ And what "land" is it talking about? Well, the land of the Jews, Israel, or Pale
 
 But wait, it gets better. The next verse is what applies to Muslims:
 
-Surah 5:33
+[Surah 5:33](https://quran.com/5/33)
 
 > Indeed, the penalty **for those who wage war against Allah and His Messenger** and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land.** This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous **punishment in the Hereafter.**
 
@@ -347,13 +347,13 @@ See also:
 
 ### Christians must judge by the Gospel
 
-Surah 5:47
+[Surah 5:47](https://quran.com/5/47)
 
 > So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
 
 ### Allah promised that Christians will be superior until judgment day 
 
-Surah 3:55
+[Surah 3:55](https://quran.com/3/55)
 
 > God said, ‘Jesus, I will take you back and raise you up to Me: I will purify you of the disbelievers. To the Day of Resurrection **I will make those who follow you superior to those who disbelieved.**
 

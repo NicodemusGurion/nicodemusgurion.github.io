@@ -15,7 +15,7 @@ In Islamic cosmology, there are 7 heavens, and 7 flat earths, stacked on top of 
 
 ## The Whale Nun {#nun}
 
-Surah 68:1
+[Surah 68:1](https://quran.com/68/1)
 
 > Nūn , by the pen and what they write
 
@@ -25,14 +25,14 @@ The commentary [Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs](https://www.altafs
 
 ## There are 7 heavens and 7 earths
 
-Surah 65:12
+[Surah 65:12](https://quran.com/65/12)
 
 > Allah is He Who created seven Firmaments and of the earth a similar number.
 
 
 ## Earth is flat 
 
-Surah 2:22;15:19;20:53;43:10;50:7;51:48;71:19;78:6-7;79:30;88:20;91:6
+[Surah 2:22](https://quran.com/2/22)[;15:19](https://quran.com/15/19)[;20:53](https://quran.com/20/53)[;43:10](https://quran.com/43/10)[;50:7](https://quran.com/50/7)[;51:48](https://quran.com/51/48)[;71:19](https://quran.com/71/19)[;78:6-7](https://quran.com/78/6-7)[;79:30](https://quran.com/79/30)[;88:20](https://quran.com/88/20)[;91:6](https://quran.com/91/6)
 
 
 # Hygiene, health and food
@@ -157,7 +157,7 @@ See also:
 
 ## The earth existed before space {#earth-before-space}
 
-Surah 2:29
+[Surah 2:29](https://quran.com/2/29)
 
 > He is the One Who created everything in the earth for you. Then He turned towards the heaven, forming it into seven heavens. 
 
@@ -169,20 +169,20 @@ Surah 2:29
 
 ## The sky can fall down
 
-Surah 23:65
+[Surah 23:65](https://quran.com/23/65)
 
 > He keeps the heavens from falling down on the earth without His permission
 
 
 ## Sperm comes from between the backbone and the ribs {#backbone-sperm}
 
-Surah 86:6-7
+[Surah 86:6-7](https://quran.com/86/6-7)
 
 > ˹They were˺ created from a spurting fluid, stemming from between the backbone and the ribcage.
 
 ## The sun sets in a muddy spring {#sun-sets-in-mud}
 
-[Quran 18:86](https://quran.com/18/86?translations=17)
+[Surah 18:86](https://quran.com/18/86?translations=17)
 
 > Until, when he reached the setting of the sun, he found it setting in a muddy spring, and he found a people at it. We said, "O Thulqarnayn, either you will torment them or you will take to yourself towards them a fair way."
 

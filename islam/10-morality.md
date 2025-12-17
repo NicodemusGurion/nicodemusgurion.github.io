@@ -12,7 +12,7 @@ search: true
 
 # Divorce
 
-Surah 2:230
+[Surah 2:230](https://quran.com/2/230)
 
 > So if a husband divorces his wife, then it is not lawful for him to remarry her until after she has married another man and then is divorced. 
 
@@ -25,11 +25,11 @@ In Deuteronomy 24:1-4 gives the exact opposite command:
 
 # Intoxicants 
 
-See Surah 5:90,91; 16:65-69; 37:43-46; 47:15; 83:22-26
+See [Surah 5:90,91](https://quran.com/5/90,91)[; 16:65-69](https://quran.com/16/65-69)[; 37:43-46](https://quran.com/37/43-46)[; 47:15](https://quran.com/47/15)[; 83:22-26](https://quran.com/83/22-26)
 
 ## Intoxicants (wine) is one of the blessings of Allah
 
-Surah 16:65-69
+[Surah 16:65-69](https://quran.com/16/65-69)
 
 > And Allah sends down rain from the sky, giving life to the earth after its death. ... pure milk, pleasant to drink ... And **from the fruits of palm trees and grapevines you derive intoxicants as well as wholesome provision**. Surely in this is a sign for those who understand
 
@@ -39,7 +39,7 @@ So wine is a blessing of Allah.
 
 ## Wine is from Satan
 
-Surah 5:90,91
+[Surah 5:90,91](https://quran.com/5/90,91)
 
 > Wine, gambling, altars and divining arrows are filth, made up by Satan. ...Satan wishes only to plant enmity and malice between you through wine and gambling...
 
@@ -48,7 +48,7 @@ So wine is bad, mkay?
 
 ## Allah serves wine in Paradise
 
-Surah 47:15
+[Surah 47:15](https://quran.com/47/15)
 
 > Paradise which the God-fearing have been promised: in it shall be rivers of incorruptible water, rivers of milk unchanging in taste,and **rivers of wine, a delight to those that drink;**
 
@@ -99,14 +99,14 @@ Islam is based on lies and dishonesty.
 
 ## Allah has ordained for the breaking of oaths
 
-Surah 66:2
+[Surah 66:2](https://quran.com/66/2)
 
 > Allah has already ordained for you ˹believers˺ the way to absolve yourselves from your oaths. For Allah is your Guardian. And He is the All-Knowing, All-Wise.
 
 
 ## Breaking an oath comes with ridiculously trivial consequences 
 
-Surah 5:89
+[Surah 5:89](https://quran.com/5/89)
 
 > Allah will not call you to account for your thoughtless oaths, but He will hold you accountable for deliberate oaths. The penalty for a broken oath is to feed ten poor people from what you normally feed your own family, or to clothe them, or to free a bondsperson. But if none of this is affordable, then you must fast three days. This is the penalty for breaking your oaths. 
 
@@ -169,7 +169,7 @@ According to Muhammed, white people are destined for heaven and black people are
 
 ## Those condemned by Allah turns black {#blackface-hell}
 
-Surah 3:106-107
+[Surah 3:106-107](https://quran.com/3/106-107)
 
 > on a day when some faces are whitened and some faces are blackened. So as for those whose faces were blackened: “Did you deny after having attained faith?” Then taste the punishment on account of what you used to deny. And as for those whose faces were whitened—(they are) in Allah’s mercy; therein they abide.
 
@@ -294,9 +294,9 @@ Muhammad's list for children was not limited to little girls. Little boys were n
 
 ### The Quran promotes child marriage
 
-Surah 65:1 gives us the context for the passage in Surah 65:1-4: "When you intend to˺ divorce women, then divorce them with concern for their waiting period"". This passage is about the rules for the waiting period when you divorce a woman that she has to wait before she can remarry. In order to dis or e a woman you must first have had married her.
+[Surah 65:1](https://quran.com/65/1) gives us the context for the passage in [Surah 65:1-4](https://quran.com/65/1-4): "When you intend to˺ divorce women, then divorce them with concern for their waiting period"". This passage is about the rules for the waiting period when you divorce a woman that she has to wait before she can remarry. In order to dis or e a woman you must first have had married her.
 
-Surah 65:4 says:
+[Surah 65:4](https://quran.com/65/4) says:
 
 > As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated** as well. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them.
 
@@ -332,7 +332,7 @@ Not only are Muslims allowed to rape women, but can just discard them like trash
 
 ## Muslims men can have sex slaves
 
-Surah 4:3 
+[Surah 4:3](https://quran.com/4/3) 
 
 > If you fear you might fail to give orphan women their ˹due˺ rights ˹if you were to marry them˺, then marry other women of your choice—two, three, or four. But if you are afraid you will fail to maintain justice, then ˹content yourselves with˺ one or those ˹bondwomen˺ in your possession.
 
@@ -340,19 +340,19 @@ The footnote on quran.com says "A bondwoman is **a female slave** that a man own
 
 A muslim man can freely use his female slaves for sex.
 
-Surah 33:50
+[Surah 33:50](https://quran.com/33/50)
 
 > O Prophet! We have **made lawful** for you your wives to whom you have paid their ˹full˺ dowries as well as those ˹bondwomen˺ in your possession, whom Allah has granted you... We have ordained for the believers in relation to their wives and those ˹bondwomen˺ in their possession.
 
 "Made lawful" means that he can have sex with female slaves.
 
-Surah 23:5-6; 70:29-30
+[Surah 23:5-6](https://quran.com/23/5-6)[; 70:29-30](https://quran.com/70/29-30)
 
 > [Sucessful are the believers...] those who guard their chastity except with their wives or those [bondswomen] in their possession, for then they are free from blame
 
 This passage says that a muslim should be chaste except with their wives (plural) or "those their right hand posesses", which would be women they have taken captive in war or bought as slaves. It's allowed for muslim men to have slaves that they have sex with and these slave women can not refuse them.
 
-Surah 4:24
+[Surah 4:24](https://quran.com/4/24)
 
 > Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession.
 
@@ -459,7 +459,7 @@ See also [Muhammad and violence](/islam/muhammad/#muhammad-violence).
 
 > “When the Prophet was expelled from Makkah, … it was revealed: ‘Permission to fight (against disbelievers) is given to those (believers) who are fought against, because they have been wronged; and surely, Allah is able to give them (believers) victory.’ Then I knew that there would be fighting.” Ibn Abbas said: “This is the first Verse that was revealed concerning fighting.”
 
-When Muhammad and his tiny band of followers were kicked out of Mecca for being a nuisance, Muhammad had a convenient revelation (Surah 23:39) where Allah gave him permission to convert his cult into the death machine that has plagued mankind since.
+When Muhammad and his tiny band of followers were kicked out of Mecca for being a nuisance, Muhammad had a convenient revelation ([Surah 23:39](https://quran.com/23/39)) where Allah gave him permission to convert his cult into the death machine that has plagued mankind since.
 
 
 ### Fight the unbelievers until they convert
@@ -481,13 +481,13 @@ Also:
 
 ### "Kill unbelievers wherever you find them"
 
-Surah 4:89
+[Surah 4:89](https://quran.com/4/89)
 
 > They wish you would disbelieve as they have disbelieved, so you may all be alike. So do not take them as allies unless they emigrate in the cause of Allah. But if they turn away, then seize them and kill them wherever you find them, and do not take any of them as allies or helpers,
 
 Do not befriend unbelievers but **seize them and kill them wherever you find them**.
 
-Surah 4:91
+[Surah 4:91](https://quran.com/4/91)
 
 > You will find others who wish to be safe from you and their own people. Yet they cannot resist the temptation ˹of disbelief or hostility˺. If they do not keep away, offer you peace, or refrain from attacking you, then seize them and kill them wherever you find them. We have given you full permission over such people.
 
@@ -501,7 +501,7 @@ If someone just wants to **be safe from** Islam and just want to live their life
 
 ### Behead unbelievers
 
-Surah 8:12
+[Surah 8:12](https://quran.com/8/12)
 
 > … I will cast horror into the hearts of the disbelievers. So strike their necks and strike their fingertips.”
 
@@ -509,7 +509,7 @@ Ever wondered why Islamic terrorists behead their victims? It's by the book.
 
 ### Terrorizing and killing unbelievers
 
-Surah 3:151-152
+[Surah 3:151-152](https://quran.com/3/151-152)
 
 > We will **throw terror into the hearts** of those who have denied because they associated with Allah (partners) for which He bestowed from on high no authority. And their shelter is the Fire, and how miserable is the dwelling of the unjust! And very truly Allah fulfilled His promise to you **as you killed them** by His permission, until when you faltered and disagreed with each other about the matter and disobeyed after He had shown you what you love: …
 
@@ -548,13 +548,13 @@ Allah will use **terror** against unbelievers. By what method? By Muslims **kill
 
 ### Allah likes terrorists more than peaceful Muslims 
 
-Surah 4:95
+[Surah 4:95](https://quran.com/4/95)
 
 >  Those believers who stay at home—except those with valid excuses1—are not equal to those who strive in the cause of Allah with their wealth and their lives.…
 
 ### Fighting is obligatory for Muslims 
 
-Surah 2:216
+[Surah 2:216](https://quran.com/2/216)
 
 > Fighting has been made obligatory upon you ˹believers˺, though you dislike it. Perhaps you dislike something which is good for you and like something which is bad for you. Allah knows and you do not know.
 
@@ -563,7 +563,7 @@ Apparently Allah thinks violence is good for humans.
 
 ### Muslims "kill and are killed" for Allah
 
-Surah 9:111
+[Surah 9:111](https://quran.com/9/111)
 
 > Allah has indeed purchased from the believers their lives and wealth in exchange for Paradise. **They fight in the cause of Allah and kill or are killed**. This is a true promise binding on Him in the Torah, the Gospel, and the Quran. And whose promise is truer than Allah’s? So rejoice in the exchange you have made with Him. That is ˹truly˺ the ultimate triumph.
 
@@ -577,7 +577,7 @@ In order to get paradise a Muslim must sell his soul to Allah, and they do this 
 
 ### Muslims not fighting for Islam are punished with hell
 
-Surah 8:15-16
+[Surah 8:15-16](https://quran.com/8/15-16)
 
 > O believers! When you face the disbelievers in battle, never turn your backs to them. And whoever does so on such an occasion—unless it is a manoeuvre or to join their own troops—will earn the displeasure of Allah, and their home will be Hell. What an evil destination!
 
@@ -600,7 +600,7 @@ A Muslim who chickens out and turns his back on a disbeliever will go to hell.
 
 ### Resisting Islam is severely punished
 
-Surah 5:33
+[Surah 5:33](https://quran.com/5/33)
 
 > Indeed, the penalty for those who wage war against Allah and His Messenger and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land**. This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous punishment in the Hereafter.
 

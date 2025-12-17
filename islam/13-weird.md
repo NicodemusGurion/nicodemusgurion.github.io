@@ -39,13 +39,13 @@ Also:
 
 ## Unbelievers visiting a mosque will go to hell
 
-Surah 9:17-18
+[Surah 9:17-18](https://quran.com/9/17)
 
 > Never was it befitting for the polytheists to attend Allah’s mosques while professing their denial. Those—their deeds were nullified, and in the Fire they abide.Surely, Allah’s mosques can only be attended by one who has attained faith in Allah…
 
 ## Muslims living abroad goes to hell
 
-Surah 4:97
+[Surah 4:97](https://quran.com/4/97)
 
 > When the angels seize the souls of those who have wronged themselves — scolding them, “What was wrong with you?” they will reply, “We were oppressed in the land.” The angels will respond, “Was Allah’s earth not spacious enough for you to emigrate?” It is they who will have Hell as their home—what an evil destination!
 

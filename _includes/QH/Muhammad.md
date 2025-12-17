@@ -10,7 +10,7 @@ What did he look like?
 
 An average looking fellow, neither tall nor short, with wavy hair, silver white skin, yellow beard, eyeliner and mascara, gap tooth and one tooth knocked out.
 
-![Artist's rendition of Muhammad according to Hadiths](https://i.ibb.co/PMb3RRZ/IMG-1912.jpg)
+![Artist's rendition of Muhammad based on the Hadiths](https://i.ibb.co/PMb3RRZ/IMG-1912.jpg)
 
 ### Muhammad was very average looking {#average-looks}
 
@@ -100,7 +100,7 @@ Deuteronomy 22:5 says “A woman shall not wear a man’s garment, nor shall a m
 
 ### Muhammad was illiterate {#illiterate}
 
-Surah 7:158
+[[Surah 7:158](https://quran.com/7/158)](https://quran.com/7/158)
 
 > So believe in Allah and His messenger, the Prophet who can neither read nor write
 
@@ -108,7 +108,7 @@ Muslims brag about this for some strange reason. Being illiterate is nothing to 
 
 ### Muhammad was a sinner
 
-Surah 40:55; 47:19
+[Surah 40:55](https://quran.com/40/55); [47:19](https://quran.com/47/19)
 
 > Then have patience (O Muhammad). Lo! the promise of Allah is true. And ask forgiveness of thy sin
 
@@ -145,7 +145,7 @@ Surah 40:55; 47:19
 
 The Bible says that being kind and help orphans in their need is pure and undefiled worship. (James 1:27) 
 
-Even Surah 93:9 says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
+Even [Surah 93:9](https://quran.com/93/9) says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
 
 
 Exodus 22:22 says "You shall not mistreat any widow or fatherless child."
@@ -153,7 +153,7 @@ Exodus 22:22 says "You shall not mistreat any widow or fatherless child."
 
 ### Muhammad disdained a blind man
 
-Surah 80:1,2
+[Surah 80:1](https://quran.com/80/1),2
 
 > The Prophet frowned and turned away when the blind man came to him.
 
@@ -201,7 +201,7 @@ After the battle of Badr, the Muslims were dividing up the spoil, and apparently
 
 You have to wonder why rather than being beyond suspicion, Muhammad was the very first suspect when something was missing?
 
-So to defend himself, ~~Muhammad~~ Allah revealed the verse Surah 3:161:
+So to defend himself, ~~Muhammad~~ Allah revealed the verse [Surah 3:161](https://quran.com/3/161):
 
 > It is inconceivable that a prophet would ever dishonestly take something from the battle gains. Anyone who does so will carry it with him on the Day of Resurrection, when each soul will be fully repaid for what it has done: no one will be wronged.
 
@@ -294,7 +294,7 @@ Instead they had to go to Abu Bakr to get what they needed to survive as a chari
 
 ### The wives of Muhammad were denied remarriage {#no-remarriage}
 
-Surah 33:53
+[Surah 33:53](https://quran.com/33/53)
 
 > And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.
 
@@ -665,11 +665,11 @@ Even if Satan only commands Muhammad for good, it still means Muhammad is comman
 
 ### Muhammad did NOT perform miracles {#no-miracles}
 
-Surah 6:109
+[Surah 6:109](https://quran.com/6/109)
 
 > And they swore by Allah their most solemn oaths that if a sign were to come to them, they would believe in it. Say, “Signs are only with Allah,” but how do you know that even if it did come, they would still not believe?
 
-Surah 17:59
+[Surah 17:59](https://quran.com/17/59)
 
 > And nothing prevented Us from sending miraculous signs except that the ancients disbelieved in them. ….
 
@@ -678,9 +678,9 @@ People didn't believe Muhammad was a prophet because true prophets of God were a
 
 Also:
 
-- Surah 6:37
-- Surah 13:7
-- Surah 20:20
+- [Surah 6:37](https://quran.com/6/37)
+- [Surah 13:7](https://quran.com/13/7)
+- [Surah 20:20](https://quran.com/20/20)
 
 ### Muhammad DID perform miracles {#did-miracles}
 
@@ -882,11 +882,11 @@ See also:
 
 > It was narrated from Anas, that the Messenger of Allah had a female slave with whom he had intercourse, but 'Aishah and Hafsah would not leave him alone until he said that she was forbidden for him. Then Allah, the Mighty and Sublime, revealed: "O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' until the end of the Verse.
 
-The verse revealed was Surah 66:1-6. [Tafsir al-Jalalayn](http://web.archive.org/web/20220221075859/https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=74&tSoraNo=66&tAyahNo=1&tDisplay=yes&UserProfile=0&LanguageId=2) says about Surah 66:1-6:
+The verse revealed was [Surah 66:1](https://quran.com/66/1)-6. [Tafsir al-Jalalayn](http://web.archive.org/web/20220221075859/https://www.altafsir.com/Tafasir.asp?tMadhNo=1&tTafsirNo=74&tSoraNo=66&tAyahNo=1&tDisplay=yes&UserProfile=0&LanguageId=2) says about [Surah 66:1](https://quran.com/66/1)-6:
 
 > O Prophet! Why do you prohibit what God has made lawful for you in terms of your Coptic handmaiden Māriya — when he lay with her in the house of Hafsa who had been away but who upon returning and finding out became upset by the fact that this had taken place in her own house and on her own bed — by saying ‘She is unlawful for me!’ seeking by making her unlawful for you to please your wives? And God is Forgiving Merciful having forgiven you this prohibition.
 
-Muhammad was having sex with his sex slave Maria the Copt in the house of his wife Hansa, and quite understandably his wives complained. But then Allah [conveniently revealed](#convenient-revelation) Surah 66:1-6, that Muhammad can do that if he wishes, and if his wives complain, he should divorce them and they can literally go to hell. What a guy!
+Muhammad was having sex with his sex slave Maria the Copt in the house of his wife Hansa, and quite understandably his wives complained. But then Allah [conveniently revealed](#convenient-revelation) [Surah 66:1](https://quran.com/66/1)-6, that Muhammad can do that if he wishes, and if his wives complain, he should divorce them and they can literally go to hell. What a guy!
 
 
 
@@ -957,7 +957,7 @@ However the Arabic says:
 
 > He gave me a slap in the chest that hurt me
 
-So Muhammad gets pissy and slaps his child wife in the chest so hard that it hurt her. This is in harmony with Surah 4:34 which allows men to beat their wives for any reason. So I don't understand why the people at Sunnah.com feels so ashamed over this that they feel they must rewrite it to deceive people about their religion. Maybe because sane people would reject their abusive cult if they knew. Without lies Islam dies.
+So Muhammad gets pissy and slaps his child wife in the chest so hard that it hurt her. This is in harmony with [Surah 4:34](https://quran.com/4/34) which allows men to beat their wives for any reason. So I don't understand why the people at Sunnah.com feels so ashamed over this that they feel they must rewrite it to deceive people about their religion. Maybe because sane people would reject their abusive cult if they knew. Without lies Islam dies.
 
 
 ### Muhammad had people assassinated 
@@ -1028,7 +1028,7 @@ These people had stolen some camels so Muhammad **had their hands and feet cut o
 
 ### Muhammad is equal to Allah in authority
 
-Surah 33:36
+[Surah 33:36](https://quran.com/33/36)
 
 > When God and His Messenger have decided on a matter that concerns them, it is not fitting for any believing man or woman to claim freedom of choice in that matter: whoever disobeys God and His Messenger is far astray.
 
@@ -1059,13 +1059,13 @@ Abu Bakr was telling the Muslims who **used to worship Muhammad** to not do so a
 
 ### Muhammad was the first Muslim {#first-muslim}
 
-Surah 6:14
+[Surah 6:14](https://quran.com/6/14)
 
 > Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “**I have been commanded to be the first to submit** and not be one of the polytheists.”
 
 ### Allah considered Muhammad the perfect example {#perfect-example}
 
-Surah 33:21
+[Surah 33:21](https://quran.com/33/21)
 
 > Indeed, in the Messenger of Allah you have an excellent example for whoever has hope in Allah and the Last Day, and remembers Allah often.
 
@@ -1170,6 +1170,3 @@ See also:
 - [Sahiha al Bukhari 3100](https://sunnah.com/bukhari:3100)
 - [Sahih al Bukhari 4451](https://sunnah.com/bukhari:4451)
 - [Sahih al Bukhari 5217](https://sunnah.com/bukhari:5217)
-
-
-

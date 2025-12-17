@@ -13,7 +13,7 @@ search: true
 
 ### Wife beating is allowed in Islam {#domestic-abuse}
 
-Surah 4:34
+[Surah 4:34](https://quran.com/4/34)
 
 > Men stand caretakers of women since Allah has made some of them excel the others, and because they have spent of their wealth., So, the righteous women are obedient, guarding in absence with the protection given by Allah. As for women whose disobedience you fear, convince them, and leave them apart in beds, and **beat them**. Then, if they obey you, do not seek a way against them. Surely, Allah is the Highest, the Greatest.
 
@@ -71,7 +71,7 @@ However the Arabic says:
 
 > He gave me a slap in the chest that hurt me
 
-So Muhammad gets pissy and slaps his wife in the chest so hard that it hurt her. This is in harmony with Surah 4:34 which allows men to beat their wives for any reason. So I don't understand why the people at Sunnah.com feels so ashamed over this that they feel they must rewrite it to deceive people about their religion. Maybe because sane people would reject their abusive cult if they knew. Without lies Islam dies.
+So Muhammad gets pissy and slaps his wife in the chest so hard that it hurt her. This is in harmony with [Surah 4:34](https://quran.com/4/34) which allows men to beat their wives for any reason. So I don't understand why the people at Sunnah.com feels so ashamed over this that they feel they must rewrite it to deceive people about their religion. Maybe because sane people would reject their abusive cult if they knew. Without lies Islam dies.
 
 
 ### No women has it worse than Muslim women {#muslimas-treated-worst}
@@ -96,7 +96,7 @@ Even Aisha, the "mother of the believers", admits that no women are treated as p
 
 ### Women are to be plowed like a field {#plowing-women}
 
-Surah 2:223 
+[Surah 2:223](https://quran.com/2/223) 
 
 > Your wives are your fields, so plow into your fields whichever way you like
 
@@ -114,9 +114,9 @@ Surah 2:223
 
 ### Islam allows child marriage {#pedophilia-ok}
 
-Surah 65:4
+[Surah 65:4](https://quran.com/65/4)
 
-Context from Surah 65:1:
+Context from [Surah 65:1](https://quran.com/65/1):
 
 > O Prophet! ˹Instruct the believers:˺ **When you intend to˺ divorce women, then divorce them with concern for their waiting period**...
 
@@ -198,7 +198,7 @@ See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
 
 ### The testimony of a woman is worth half that of a man
 
-Surah 2:282
+[Surah 2:282](https://quran.com/2/282)
 
 > Call upon two of your men to witness. If two men cannot be found, then one man and two women of your choice will witness—so if one of the women forgets the other may remind her.
 
@@ -263,7 +263,7 @@ See also:
 
 > Narrated Aisha, Ummul Mu'minin: Asma, daughter of AbuBakr, entered upon the Messenger of Allah wearing thin clothes. The Messenger of Allah turned his attention from her. He said: O Asma', when a woman reaches the age of menstruation, it does not suit her that she displays her parts of body except this and this, and he pointed to his face and hands.
 
-Surah 24:31
+[Surah 24:31](https://quran.com/24/31)
 
 > And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments [i.e., hair, body shape, and underclothes.] except what normally appears.[i.e., the face, hands, outer clothes, rings, kohl, and henna.] Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments [i.e., hair, arms, and legs.]
 

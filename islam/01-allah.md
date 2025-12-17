@@ -15,7 +15,7 @@ search: true
 
 ### Jews and Christians have a familial relationship with God
 
-Surah 5:18
+[Surah 5:18](https://quran.com/5/18)
 
 > The Jews and the Christians each say, “We are the children of Allah and His most beloved!”
 
@@ -24,7 +24,7 @@ The Quran admits Jews and Christians consider God to be their father.
 
 ### Allah is not a father
 
-Surah 112:4; 18:4; 19:35, 88-93
+[Surah 112:4](https://quran.com/112/4)[; 18:4](https://quran.com/18/4)[; 19:35,](https://quran.com/19/35,) 88-93
 
 > He neither begets nor is born,
 
@@ -38,20 +38,20 @@ You can never have a close relationship with the god of Islam as a child to a fa
 
 ### The best Muslims can hope for us to be slaves
 
-Surah 19:88-93
+[Surah 19:88-93](https://quran.com/19/88-93)
 
 > They say, “The All-Merciful (Allah) has got a son.”… they have ascribed a son to the All-Merciful (Allah), while it does not behove the All-Merciful to have a son. There is none in the heavens and the earth, but bound to come to the All-Merciful as a slave.
 
 
 ### Allah would need a wife to become a father
 
-Surah 6:101
+[Surah 6:101](https://quran.com/6/101)
 
 > the Creator of the heavens and earth! How could He have children when He has no spouse
 
 Muslims believe that the omnipotent one would need to have literal sex with a literal spouse in order to produce offspring. Laughable.
 
-At the same time Surah 39:4 says:
+At the same time [Surah 39:4](https://quran.com/39/4) says:
 
 > God could have chosen any of His creation He willed for offspring
 
@@ -61,17 +61,17 @@ So on the one hand Allah could just "choose" a creation as his offspring, but on
 
 ### Allah is unlike anything else
 
-Surah 42:12
+[Surah 42:12](https://quran.com/42/12)
 
 > There is nothing like Him, for He ˹alone˺ is the All-Hearing, All-Seeing.
 
 ### Allah is not the only creator
 
-Surah 23:14
+[Surah 23:14](https://quran.com/23/14)
 
 > So Blessed is Allah, the Best of Creators.
 
-Surah 37:125
+[Surah 37:125](https://quran.com/37/125)
 
 > Do you call upon ˹the idol of˺ Ba’l and abandon the Best of Creators—
 
@@ -86,7 +86,7 @@ In the Bible, Philippians 2:10-11 it says:
 
 However not everyone will be able to bow before Allah, showing that he is not the same god as the god of the Bible, and also is not worthy.
 
-Surah 68:42
+[Surah 68:42](https://quran.com/68/42)
 
 > On the Day when matters become dire, they will be invited to prostrate themselves but will be prevented from doing so
 
@@ -115,7 +115,7 @@ It seems Allah is unable to receive prayers when the earth and sun are at a spec
 
 ### Allah is afraid of insults {#insults}
 
-Surah 6:108
+[Surah 6:108](https://quran.com/6/108)
 
 > Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance.
 
@@ -123,13 +123,13 @@ Allah doesn't like it when people insult him, because [Allah is a narcissist](#n
 
 ### Allah is a liar
 
-Surah 8:43-44
+[Surah 8:43-44](https://quran.com/8/43-44)
 
 > Recall: Allah showing them to you in your sleep as few, for had He showed them to you as many, you would have faltered and disagreed with each other about the matter, but Allah saved (the situation). He is indeed All-Knowing of what lies within the chests. And recall: when you met, Him showing them to you as few in your eyes and making you appear fewer in their eyes, so that Allah might carry out a predetermined matter. And to Allah all matters are returned.
 
 Allah deceived Muhammad to go into battle against a large army, making him think it was a small army. He also deceived his enemies in the same way.
 
-Surah 4:157
+[Surah 4:157](https://quran.com/4/157)
 
 > and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
 
@@ -137,18 +137,18 @@ Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is dec
 
 This is also a verse that proves Islam is historically false, for contrathe crucifixion of Jesus is the most well documented event in ancient history.](satan/islam/errors/#no-crucifixion)
 
-Surah 3:54
+[Surah 3:54](https://quran.com/3/54)
 
 ### Allah leads people astray
 
-Surah 16:93
+[Surah 16:93](https://quran.com/16/93)
 
 > Had Allah willed, He could have easily made you one community ˹of believers˺, but He leaves to stray whoever He wills and guides whoever He wills. And you will certainly be questioned about what you used to do.
 
 
 ### Allah blinds people to the truth
 
-Surah 2:7
+[Surah 2:7](https://quran.com/2/7)
 
 > Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
 
@@ -156,7 +156,7 @@ It is Allah's fault if someone does not believe.
 
 ## Allah hates deaf and dumb people
 
-Surah 8:22
+[Surah 8:22](https://quran.com/8/22)
 
 > Indeed, the worst of living creatures in the sight of Allāh are the deaf and dumb who do not use reason
 
@@ -182,7 +182,7 @@ Who is it that wants people to sin? God, or Satan?
 
 ### Allah wants contention
 
-Surah 2:253
+[Surah 2:253](https://quran.com/2/253)
 
 > Yet if Allah had willed, they would not have fought one another. But Allah does what He wills.
 
@@ -242,11 +242,11 @@ No wonder Muslims live such a nihilistic existence.
 
 Muslims need to take the Shahada, meaning they testify that there is no God but Allah, and that Muhammad is his prophet.
 
-Surah 3:18
+[Surah 3:18](https://quran.com/3/18)
 
 > Allah bears witness that there is no god but He.
 
-Surah 48:29
+[Surah 48:29](https://quran.com/48/29)
 
 > Muhammad is the messenger of Allah. 
 
@@ -263,7 +263,7 @@ In the Bible, Yahweh swears on himself, because there is nothing higher or more 
 
 ### Allah swears by the moon
 
-Surah 73:32-34
+[Surah 73:32-34](https://quran.com/73/32-34)
 
 > But no! By the moon, and the night as it retreats, and the day as it breaks!
 
@@ -282,7 +282,7 @@ This tells us that:
 
 ### Allah swears by the fore-noon and night
 
-Surah 93:1-3
+[Surah 93:1-3](https://quran.com/93/1-3)
 
 > By the morning sunlight and the night when it falls still! Your Lord ˹O Prophet˺ has not abandoned you, nor has He become hateful ˹of you˺.
 
@@ -291,7 +291,7 @@ Allah swears by the morning and evening because these are more sacred than he is
 
 ### Allah swears by the Lord of the East and West
 
-Surah 70:40
+[Surah 70:40](https://quran.com/70/40)
 
 > I swear by the Lord of the easts and the wests that We have the power
 
@@ -302,7 +302,7 @@ Yahweh in the Bible swear by himself because there is no one higher. (Genesis 22
 
 ### Allah prays
 
-Surah 2:157
+[Surah 2:157](https://quran.com/2/157)
 
 > Upon those are the prayers *from* their Lord, and mercy; and those are they (who) are the right-guided.
 
@@ -331,7 +331,7 @@ Apparently there are things that surprise Allah. How could someone supposedly al
 
 ### Allah can not count
 
-Surah 6:143
+[Surah 6:143](https://quran.com/6/143)
 
 > ˹Allah has created˺ four pairs: a pair of sheep and a pair of goats
 
@@ -341,15 +341,15 @@ One pair of sheep and one pair of goats equals four pairs?
 
 There are things that Allah does not know unless he investigates, such as who are his believers or not.
 
-Surah 57:25
+[Surah 57:25](https://quran.com/57/25)
 
 > And We sent down iron, wherein there is awesome power and many benefits for people, **so that Allah may know** who, without even having seen Him, helps Him and His Messengers.
 
-Surah 5:94
+[Surah 5:94](https://quran.com/5/94)
 
 > Allah shall certainly test you with some of the game coming in the range of your hands and spears, so that Allah **may know** those who fear Him
 
-Surah 3:140,166
+[Surah 3:140,166](https://quran.com/3/140,166)
 
 > so that Allah **may know** those who believe
 > was by permission of Allah; **that He might know** the true believers
@@ -366,7 +366,7 @@ Surah 3:140,166
 
 ### Allah is limited to one location {#not-omnipresent}
 
-Surah 20:5
+[Surah 20:5](https://quran.com/20/5)
 
 > the Most Compassionate, Who is˺ established on the Throne.
 
@@ -455,13 +455,13 @@ Allah seems to have at least three hands, one left hand and two right hands.
 
 ### Allah has a face
 
-Surah 55:27
+[Surah 55:27](https://quran.com/55/27)
 
 > all that remains is the Face of your Lord
 
 ### Allah has eyes
 
-Surah 20:39
+[Surah 20:39](https://quran.com/20/39)
 
 > ...you should be reared under My watchful eye
 
@@ -472,7 +472,7 @@ Surah 20:39
 
 ### Allah has a shin
 
-Surah 68:42
+[Surah 68:42](https://quran.com/68/42)
 
 > Beware of the Day the Shin ˹of Allah˺ will be bared, and the wicked will be asked to prostrate, but they will not be able to do so,
 
@@ -500,7 +500,7 @@ This not only means that Allah has a genital area but also that he was sexually 
 
 ### Allah needs your money
 
-Surah 2:254
+[Surah 2:254](https://quran.com/2/254)
 
 > Donate from what We have provided for you before the arrival of a Day when there will be no bargaining, friendship, or intercession. 
 
@@ -508,14 +508,14 @@ Give him your money before it's too late!
 
 ### Allah inherits
 
-Surah 57:10
+[Surah 57:10](https://quran.com/57/10)
 
 > And why should you not spend in the cause of Allah, while Allah is the inheritor of the heavens and the earth?
 
 
 ### Allah purchases souls from people
 
-Surah 9:111
+[Surah 9:111](https://quran.com/9/111)
 
 > Allah has indeed purchased from the believers their lives and wealth in exchange for Paradise. They fight in the cause of Allah and kill or are killed. This is a true promise binding on Him in the Torah, the Gospel, and the Quran. And whose promise is truer than Allah’s? So rejoice in the exchange you have made with Him. That is ˹truly˺ the ultimate triumph.
 
