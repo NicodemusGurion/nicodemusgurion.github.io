@@ -2,6 +2,10 @@
 layout: menu
 title: "Tafsīr al-Jāk"
 ---
+
+A tafsir (or commentary) on the Quran, from a modern Christian perspective, based on the public domain English translation "The meaning of the Glorious Quran" by Mohammed Marmaduke Pickthall (made freely available by the Islamic Computing Centre, London).
+
+
 {%- assign surah_pages = site.pages | where: "layout", "surah" | sort: "path" -%}
 <ul>
 {%- for page in surah_pages -%}
