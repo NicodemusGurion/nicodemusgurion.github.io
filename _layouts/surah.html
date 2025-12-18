@@ -19,10 +19,10 @@ td {margin:0; padding:0; text-align: center;}
   {%- if verse_links.size > 0 -%}
   <div class="verse-toc">
   <table>
-  {%- if verse_links.size > 9 -%}
   <tr>
-  {%- endif -%}
+  {%- if verse_links.size > 9 -%}
   <td></td>
+  {%- endif -%}
     {%- for verse in verse_links -%}
     {% assign remainder = forloop.index | modulo: 10 %}
   {% if remainder == 0 %}
