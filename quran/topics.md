@@ -2,7 +2,6 @@
 layout: default
 title: Topic Index
 permalink: /quran/topics/
-foo: bar12
 ---
 
 <style>
@@ -26,6 +25,8 @@ foo: bar12
   margin-left: 0.5em;
 }
 </style>
+
+These are all catalogues topic tags of Tafsir al-Jak for quick reference. Tags are defined without definite or indefinite article to save space and preserve alphabetic order, e.g. look for "Quran" rather than "The Quran".
 
 {%- assign all_entries = "" | split: "" -%}
 {%- for page in site.pages -%}
