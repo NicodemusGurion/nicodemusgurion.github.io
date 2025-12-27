@@ -183,7 +183,7 @@ Surah 19:19
 
 The angel said to Mary about Jesus:
 
-> He said: I am only a messenger of thy Lord, that I may bestow on thee a faultless son.
+> He said: I am only a messenger of thy Lord, that I may bestow on you a faultless son.
 
 ## Jesus was not crucified 
 

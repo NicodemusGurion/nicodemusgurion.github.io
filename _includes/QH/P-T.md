@@ -203,7 +203,7 @@ Surah 10:64
 
 Surah 18:27
 
-> And recite that which hath been revealed unto thee of the Scripture of thy Lord. There is none who can change His words, and thou wilt find no refuge beside Him.
+> And recite that which hath been revealed unto you of the Scripture of thy Lord. There is none who can change His words, and thou wilt find no refuge beside Him.
 
 Surah 50:29
 
