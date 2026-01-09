@@ -1,6 +1,6 @@
 ---
-layout: menu
-title: What does Islam teach?
+layout: page
+title: What Islam actually teaches
 image: https://i.ibb.co/HpbywR8y/IMG-0175.jpg
 ---
 

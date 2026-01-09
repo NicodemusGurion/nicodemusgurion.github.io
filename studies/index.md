@@ -1,5 +1,5 @@
 ---
-layout: menu
+layout: page
 title: "Studies, Statistics and Papers"
 image: https://i.ibb.co/DHCfXjJ5/IMG-0178.png
 ---
