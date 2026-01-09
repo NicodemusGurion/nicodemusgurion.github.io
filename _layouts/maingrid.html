@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-base-0f">
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+            &nbsp; &nbsp;
+            <small>{{ site.tagline }}</small>
+            &nbsp; &nbsp; &nbsp; &nbsp;
+            <input type=text id=searchQuery placeholder="Search..." class="fa fa-search" value="" onFocus="loadDatabase();" onkeyup = "searchInDatabase(this.value);">
+          </h3>
+        </div>
+        <div class="container searchResults" id="searchResults"></div>
+      </div>
+
+<div class="container">
+    <div class="category-grid">
+
+        {% for item in page.categories %}
+        <a href="{{ item.url }}" class="category-card">
+
+            {% if item.image %}
+            <img
+                src="{{ item.image | relative_url }}"
+                alt="{{ item.title }}"
+                class="category-image"
+            >
+            {% endif %}
+
+            <div class="category-content">
+                <h3 class="category-title">{{ item.title }}</h3>
+                <p class="category-description">
+                    {{ item.description }}
+                </p>
+            </div>
+
+        </a>
+        {% endfor %}
+
+    </div>
+</div>
+
+
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+    <script src="https://code.jquery.com/jquery-3.6.4.slim.min.js" integrity="sha256-a2yjHM4jnF9f54xUQakjZGaqYs/V1CYvWpoqZzC2/Bw=" crossorigin="anonymous"></script>
+    <script src='{{ site.baseurl }}/public/js/script.js'></script>
+    <script src='{{ site.baseurl }}/public/js/search.js'></script>
+    <script src='{{ site.baseurl }}/public/js/extras.js'></script>
+    <script src="https://static.esvmedia.org/crossref/crossref.min.js"></script>
+  </body>
+</html>
