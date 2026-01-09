@@ -1,6 +1,7 @@
 ---
 layout: menu
 title: What does Islam teach?
+image: https://i.ibb.co/HpbywR8y/IMG-0175.jpg
 ---
 
 <h1>Table of Contents</h1>
