@@ -13,6 +13,8 @@ image: https://i.ibb.co/p6vhqpQT/B3-A17-B5-A-239-E-4-E4-C-A491-2059078-F6283.jpg
 
 - [Jesus is Jehovah](/jesus-is-jehovah/)
 - [Jehovah appears physically](/theophanies/)
+- [The Trinity doctrine in the Bible](/trinity/)
+- [List is scriptures proving the deity of Jesus](/jesus-deity)
 
 # Supposed errors {#errors}
 
@@ -26,3 +28,8 @@ image: https://i.ibb.co/p6vhqpQT/B3-A17-B5-A-239-E-4-E4-C-A491-2059078-F6283.jpg
 # Replies to accusations
 
 - [Faith is believing in something without evidence](/replies/faith-evidence)
+
+# Jehovah's witnesses 
+
+- [Changes in the New World Translation](/nwt/)
+- [List of Watchtower teachings](/watchtower/)
