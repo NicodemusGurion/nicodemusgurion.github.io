@@ -1,8 +1,8 @@
 ---
 title: The Qright
 permalink: /qright/
-search: true
-layout: menu
+layout: page
+image: https://i.ibb.co/fVzyJ06g/7-D91-EDDF-EB38-41-D8-BCE1-72-A1-B30780-B8.png
 ---
 
 The Qright [^qright] of the great last last last last final prophet (for real this time) named Kenneth[^kenneth] (Cheese be upon him[^cbuh]), which Allan [^allan] totally gave him and which is totally not made up at all. The Qright Will be uppdated as more revelations come from Allan.
