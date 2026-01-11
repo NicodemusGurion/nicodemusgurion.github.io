@@ -3,7 +3,7 @@ title: Jesus’ disciples never believed he was divine
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: Jesus’ disciples never believed he was divine until centuries later.”

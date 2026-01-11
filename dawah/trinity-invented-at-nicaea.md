@@ -3,7 +3,7 @@ title: The Trinity is a later invention from the Council of Nicaea/by Constantin
 search: true
 ---
 
-[< Index](/islam/)
+[< Index](/dawah/)
 {:.no_toc}
 
 Claim: The Trinity is a later invention from the Council of Nicaea, or by emperor Constantine.

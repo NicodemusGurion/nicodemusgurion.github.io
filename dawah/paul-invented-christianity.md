@@ -3,7 +3,7 @@ title: Paul invented Christianity
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: Paul invented Christianity and taught a religion Jesus never taught.

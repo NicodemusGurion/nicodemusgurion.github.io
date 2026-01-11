@@ -3,7 +3,7 @@ title: Fastest growing religion
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: Islam is the fastest-growing religion in the world, implying that it is therefore true.

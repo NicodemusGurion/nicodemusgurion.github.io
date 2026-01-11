@@ -3,7 +3,7 @@ title: Jesus wasn't crucified
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 

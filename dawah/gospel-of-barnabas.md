@@ -3,7 +3,7 @@ title: Gospel of Barnabas
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: The Gospel of Barnabas is a lost ‘true gospel’ suppressed by the church.

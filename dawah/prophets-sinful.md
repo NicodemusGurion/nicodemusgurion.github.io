@@ -3,7 +3,7 @@ title: The Bible portrays prophets committing terrible sins, proving it's corrup
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: The Bible portrays prophets committing terrible sins; this proves it is corrupted.”

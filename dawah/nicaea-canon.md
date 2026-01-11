@@ -3,7 +3,7 @@ title: The Council of Nicaea chose the Biblical canon
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: The Council of Nicaea chose which books went into the Bible.

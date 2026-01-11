@@ -3,7 +3,7 @@ title: Rebekah was 3 years old when she married Isaac.
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: Rebekah was 3 years old when she married Isaac.
@@ -23,7 +23,7 @@ The claim that Rebecca in the Bible was married off to Isaac at the age of 3 is 
 
 What a sinful person in the Bible did or did not do is irellevant, since Christians do not follow Isaac or any other sinful person, but follow the sinless Jesus. Muslims however do follow a sinful pedophile as their moral example.
 
-# Muslims bring it up because they know that pedophilia evil
+# Muslims bring it up because they know that pedophilia is evil
 
 If Rebecca was married at 3 years old, do you personally think that Isaac was a good moral example?
 

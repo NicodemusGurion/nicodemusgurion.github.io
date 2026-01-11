@@ -3,7 +3,7 @@ title: The Gospels were written hundreds of years after Jesus
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: The Gospels were written hundreds of years after Jesus.

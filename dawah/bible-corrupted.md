@@ -3,7 +3,7 @@ title: The Bible has been corrupted
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: The Bible has been corrupted and is not the original revelation

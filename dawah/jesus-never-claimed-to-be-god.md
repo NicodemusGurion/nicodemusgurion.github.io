@@ -3,7 +3,7 @@ title: Jesus never claimed to be God
 search: true
 ---
 
-## [< Index](/islam/)
+## [< Index](/dawah/)
 {:.no_toc}
 
 Claim: Jesus never claimed to be God; Christians invented that doctrine.
