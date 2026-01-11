@@ -3,7 +3,9 @@ title: The Islamic Dilemma
 layout: page
 ---
 
-# The classic dilemma {#classic}
+The Islamic dilemma refers to any and all of the many dilemmas that occur because Islam is so full of contradictions. 
+
+# The classic Islamic dilemma {#classic}
 
 The classic Islamic dilemma is based on the fact that the Quran both affirms and contradicts the Bible. The Quran says that God gave the Bible before Islam and that it is from God and can't be changed. But the Bible says Jesus died on the cross, rose from the dead, and is God. The Quran says those things are not true.
 
