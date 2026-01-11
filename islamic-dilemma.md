@@ -29,7 +29,7 @@ Furthermore [Surah 6:115](https://quran.com/6/115) says that no one can change t
 
 **Premise 2: The Quran contradicts the Bible.**
 
-The Quran contradicts the Bible on many points. The most important points include but are not limited to that the Bible says that Jesus was crucified, died, resurrected, and that he is divine. (Matthew 26:64; 27:35,50; 28:5,6; Mark 1:2,3; 14:62; 15:25,37; 16:6; Luke 21:27; 23:33,46; 24:5-7; John 1:1-3,14; 8;58; 19:18,30;20:28; 1 Corinthians 15:3-4; Col 2:9; Heb 1:2,3,8; Rev 1:8 etc.) The Quran vehemently denies these fundamental doctrines of the Bible. (Surah 3:55; 4:157,171; 5:72,73,117;112:3)
+The Quran contradicts the Bible on many points. The most important points are that the Bible says that Jesus was crucified, died, resurrected, and that he is our divine Lord. (Matthew 26:64; 27:35,50; 28:5,6; Mark 1:2,3; 14:62; 15:25,37; 16:6; Luke 21:27; 23:33,46; 24:5-7; John 1:1-3,14; 8;58; 19:18,30;20:28; 1 Corinthians 15:3-4; Col 2:9; Heb 1:2,3,8; Rev 1:8 etc.) The Quran vehemently denies these fundamental doctrines of the Bible. (Surah 3:55; 4:157,171; 5:72,73,117;112:3)
 
 **Premise 3 (auxiliary): The Bible denies further contradictory revelation.**
 
