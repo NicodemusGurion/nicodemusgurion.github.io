@@ -14,7 +14,7 @@ image: https://i.ibb.co/p6vhqpQT/B3-A17-B5-A-239-E-4-E4-C-A491-2059078-F6283.jpg
 - [Jesus is Jehovah](/jesus-is-jehovah/)
 - [Jehovah appears physically](/theophanies/)
 
-# Supposed errors {errors}
+# Supposed errors {#errors}
 
 - [There are two sets of Ten Commandments](/errors/commandments)
 - [The Bible gets the value of Pi wrong](/errors/pi/)
