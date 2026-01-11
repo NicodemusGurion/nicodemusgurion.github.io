@@ -13,11 +13,7 @@ The classic Islamic dilemma is based on the fact that the Quran both affirms and
 
 This leads to the following dilemma:
  
-> If the Bible is true, the Quran is false.
-
-> If the Bible is false, the Quran is false.
-
-> Either way the Quran is false.
+> If the Bible is true, the Quran is false. If the Bible is false, the Quran is false. Either way the Quran is false.
 
 Here are the basic premises:
 
@@ -29,15 +25,17 @@ Furthermore [Surah 6:115](https://quran.com/6/115) says that no one can change t
 
 **Premise 2: The Quran contradicts the Bible.**
 
-The Quran contradicts the Bible on many points. The most important points are that the Bible says that Jesus was crucified, died, resurrected, and that he is our divine Lord. (Matthew 26:64; 27:35,50; 28:5,6; Mark 1:2,3; 14:62; 15:25,37; 16:6; Luke 21:27; 23:33,46; 24:5-7; John 1:1-3,14; 8;58; 19:18,30;20:28; 1 Corinthians 15:3-4; Col 2:9; Heb 1:2,3,8; Rev 1:8 etc.) The Quran vehemently denies these fundamental doctrines of the Bible. (Surah 3:55; 4:157,171; 5:72,73,117;112:3)
+The Quran contradicts the Bible on many points. The most important points are that the Bible says that Jesus was crucified, died, resurrected, and that he is our divine Lord. (Matthew 26:64; Matthew 27:35, 50; Matthew 28:5, 6; Mark 1:2, 3; 14:62; Mark 15:25, 37; Mark 16:6; Luke 21:27; Luke 23:33, 46; Luke 24:5-7; John 1:1-3, 14; John 8;58; John 19:18, John 30;20:28; 1 Corinthians 15:3-4; Colossians 2:9; Hebrews 1:2, 3, 8; Revelation 1:8 etc.) 
 
-**Premise 3 (auxiliary): The Bible denies further contradictory revelation.**
+The Quran vehemently denies these fundamental doctrines of the Bible. ([Surah 3:55](https://quran.com/3/55); [4:157](https://quran.com/4/157),[171](https://quran.com/4/171); [5:72,73](https://quran.com/5/72-73),[117](https://quran.com/5/117);[112:3](https://quran.com/112/3))
 
-Furthermore the Bible denies any further revelation contradicting the message it has brought. (Gal 1:8)
+**Premise 3 (auxiliary): The Bible denies future contradictory revelation.**
+
+Furthermore the Bible denies any further revelation beyond the Bible, especially if it's contradicting the message it has already brought. (Gal 1:8; Rev 22:18)
 
 ⸻
 
-So there are only two options:
+So there are only two possible options:
 
 **Option 1: The Bible is true**
 
@@ -49,7 +47,7 @@ If the Bible is false or corrupted, then the Quran is telling us to trust a fals
 
 **Conclusion**
 
-Whether the Bible is true or false, in every case it means the Quran is false
+Whether the Bible is true or false, in every case the Quran is false
 
 ⸻
 
@@ -58,7 +56,9 @@ Muslim responses (lost gospels, partial confirmation, original-only texts, etc.)
 
 # The Christian Islamic dilemma (or trilemma) {#christian}
 
-There is no way that Christians can obey Islam. Either Christians must obey Allah by rejecting Islam, or Christians are forced to disobey Allah by accepting Islam.
+Surah 5:47 commands Christians to judge by the gospels. This leads to the following dilemma:
+
+> According to Surah 5:47, Christians must either obey Allah by rejecting Islam, or they are forced to disobey Allah by accepting Islam. There is no way that Christians can obey Islam.
 
 **Premise 1: Allah commands Christians to judge by the Gospel.**
 
@@ -67,6 +67,8 @@ In Surah 5:47, Allah commands Christians to judge by what Allah has revealed in 
 > “Let the People of the Gospel judge by what Allah has revealed in it. And whoever does not judge by what Allah has revealed—then it is those who are the rebellious.”
 
 **Premise 2: The Gospel Christians possess teaches:**
+
+As [previously mentioned](#classic) the Gospels teaches:
 
 - Jesus died by crucifixion
 - Jesus rose from the dead
@@ -94,15 +96,16 @@ If the Gospel is corrupted, Allah is commanding me to judge by something unrelia
 
 **Conclusion:**
 
-No matter which option I choose, obedience to Surah 5:47 results in rejecting Islam.
+No matter which option I choose, both obedience and disobedience to Surah 5:47 results in rejecting Islam.
 
 # The clear Quran dilemma {#clear-quran}
 
-Either the Quran is not clear, or it is clear.
-If it is not clear, Islam is false.
-If it is clear, Islam is false.
+The Quran claims to be clear and understandable, but that leads to the following dilemma:
 
-This creates a dilemma with no escape.
+> Either the Quran is not clear, or it is clear.
+> If it is not clear, Islam is false.
+> If it is clear, Islam is false.
+
 
 **Premise 1: The Quran claims to be clear, fully explained, detailed, and a guide to all humanity**
 
