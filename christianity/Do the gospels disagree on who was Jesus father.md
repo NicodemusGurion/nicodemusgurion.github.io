@@ -1,8 +1,9 @@
 ---
+layout: page
 title: Do the gospels disagree on who was Jesus father?
-tags: [Contradictions, Gospel accounts, Apologetics]
 thumb: https://i.ibb.co/r56hbrs/A8-FDA031-F159-4563-A83-C-A0-EA623-AF4-AB.jpg
 image: https://i.ibb.co/Jvqq09n/11-EAB790-0335-49-A9-92-D8-5-DF18-DE7116-B.jpg
+permalink: /errors/jesus-father
 ---
 
 The Bible is clear that while Jesus was begotten of God by Holy Spirit, Joseph, the husband of Mary was his step father.

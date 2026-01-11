@@ -1,6 +1,7 @@
 ---
-Title: When Jehovah appears physically
-tags: [Theophany, Christophany, Jehovah, Jesus is Jehovah]
+layout: page
+title: When Jehovah appears physically
+permalink: /theophanies/
 ---
 
 Throughout the Old Testament, Jehovah appears physically and visually to his servants. The concept of Jehovah as a God that is both beyond our world yet at the same time decidedly present in it was well known to ancient Jews. These following scriptures show examples of when Jehovah appears visually or physically to his people in a human form.

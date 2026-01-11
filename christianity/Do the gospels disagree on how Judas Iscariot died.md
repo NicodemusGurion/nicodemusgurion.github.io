@@ -1,8 +1,9 @@
 ---
+layout:page
 title: Do the gospels disagree on how Judas Iscariot died?
-tags: [Contradictions, Gospel accounts, Apologetics, Undesigned coincidences]
 thumb: https://i.ibb.co/JtmJPjN/EBE1-DB7-E-FB5-F-4-F3-F-9-A9-C-A487-B9590-B13.jpg
 image: https://i.ibb.co/mbCkFCF/99960-D5-F-5622-40-F0-A7-BF-4436-C717-AF02.jpg
+permalink: /errors/judas
 ---
 This is how Matthew describes the death of Judas:
 
