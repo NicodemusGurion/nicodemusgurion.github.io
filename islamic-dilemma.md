@@ -2,6 +2,7 @@
 title: The Islamic Dilemma
 layout: page
 image: https://i.ibb.co/bRRqvJ3H/IMG-0192.jpg
+permalink: /islamic-dilemma/
 ---
 
 The Islamic dilemma refers to any and all of the many dilemmas that occur because Islam is so full of contradictions. 
