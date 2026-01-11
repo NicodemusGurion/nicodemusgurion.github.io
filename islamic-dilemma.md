@@ -3,7 +3,7 @@ title: The Islamic Dilemma
 layout: page
 ---
 
-# The classic dilemma {classic}
+# The classic dilemma {#classic}
 
 The classic Islamic dilemma is based on the fact that the Quran both affirms and contradicts the Bible. The Quran says that God gave the Bible before Islam and that it is from God and can't be changed. But the Bible says Jesus died on the cross, rose from the dead, and is God. The Quran says those things are not true.
 
@@ -49,7 +49,7 @@ Whether the Bible is true or false, in every case it means the Quran is false
 
 ⸻
 
-Muslim responses (lost gospels, partial confirmation, original-only texts, etc.) are neutralized by the [Clear Quran filemma](#clear-quran) below.
+Muslim responses (lost gospels, partial confirmation, original-only texts, etc.) are neutralized by the [Clear Quran dilemma](#clear-quran) below.
 
 
 # The Christian Islamic dilemma (or trilemma) {#christian}
