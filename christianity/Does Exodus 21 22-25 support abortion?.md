@@ -1,6 +1,5 @@
 ---
-title: Does Exodus 21:22-25 support abortion?
-tags: [Abortion, Mosaic law, Apologetics, Eisegesis]
+title: "Does Exodus 21:22-25 support abortion?"
 image: https://i.ibb.co/rb488Wg/C2-A02-A0-B-AAB2-4-FD1-99-CA-51277-B36-FF7-A.jpg
 thumb: https://i.ibb.co/wy5s5v7/1-E3-E8864-91-F4-466-D-A19-C-03-E886-FA743-E.jpg
 ---
