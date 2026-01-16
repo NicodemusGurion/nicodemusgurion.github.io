@@ -436,6 +436,18 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 
 # Sin
 
+## Confessing sins is bad
+
+[Sahih al-Bukhari 6069](https://sunnah.com/bukhari:6069)
+
+> Narrated Abu Huraira: I heard Allah's Messenger saying. "All the sins of my followers will be forgiven except those of the Mujahirin (those who commit a sin openly or disclose their sins to the people). An example of such disclosure is that a person commits a sin at night and though Allah screens it from the public, then he comes in the morning, and says, 'O so-and-so, I did such-and-such (evil) deed yesterday,' though he spent his night screened by his Lord (none knowing about his sin) and in the morning he removes Allah's screen from himself."
+
+In Christianity, confessing your sins is important. 
+
+> 1 John 1:9 If we confess our sins, he is faithful and just to forgive us our sins, and to cleanse us from all unrighteousness.
+
+But in Islam, confessing your sins is a sure way to make sure they are **not** forgiven by God. 
+
 ## Allah predetermines adultery
 
 [Sahih Muslim 2657 b](https://sunnah.com/muslim:2657b)

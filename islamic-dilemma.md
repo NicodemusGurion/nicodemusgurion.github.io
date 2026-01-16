@@ -130,11 +130,11 @@ From this, the guidance is supposedly clear and fully explained. Adding explanat
 
 If the Quran claims to be clear but is not clear then Islam is false.
 
-**Option 2: The Quran IS clear￼**
-￼
+**Option 2: The Quran IS clear**
+
 If the Quran is clear, then it leads back to [the classic Islamic dilemma](#classic) and [the Christian Islamic Dilemma](#christian), and leaves no room for clarification by Muslim apologists to escape these dilemmas.
 
-￼- If the Torah and Gospel Christians possess are uncorrupted, then judging by them leads to rejecting Islam (because they contradict the Quran).
+- If the Torah and Gospel Christians possess are uncorrupted, then judging by them leads to rejecting Islam (because they contradict the Quran).
 - If the Torah and Gospel are corrupted, then Allah is commanding people to judge by and believe corrupted scriptures — without warning them.
 
 Muslim responses (like lost gospels, partial confirmation, original-only texts, etc.) all fail, according to the argument, because none of these qualifications are clearly stated or fully explained in the Quran, but they must be added later by Muslim apologists.

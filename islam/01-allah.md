@@ -154,7 +154,7 @@ This is also a verse that proves Islam is historically false, for contrathe cruc
 
 It is Allah's fault if someone does not believe.
 
-## Allah hates deaf and dumb people
+### Allah hates deaf and dumb people
 
 [Surah 8:22](https://quran.com/8/22)
 

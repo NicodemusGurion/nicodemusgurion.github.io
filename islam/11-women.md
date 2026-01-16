@@ -187,6 +187,15 @@ See also:
 
 - [Sahih al-Bukhari 29](https://sunnah.com/bukhari:29)
 
+### Women in hell for dressing wrong
+
+[Sahih Muslim 2128](https://sunnah.com/muslim:2128)
+
+> AbU Huraira reported Allah's Messenger having said this: Two are the types of the denizens of Hell whom I did not see: people having flogs like the tails of the ox with them and they would be beating people, and the women who would be dressed but appear to be naked, who would be inclined (to evil) and make their husbands incline towards it. Their heads would be like the humps of the bukht camel inclined to one side. They will not enter Paradise and they would not smell its odour whereas its odour would be smelt from such and such distance.
+
+
+Editors note: “whom I did not see” means they were not commonly seen in his society.
+	
 ### Women are "deficient in intelligence"
 
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
