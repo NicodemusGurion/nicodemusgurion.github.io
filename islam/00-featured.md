@@ -37,7 +37,7 @@ See also:
 - [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
 - [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
-## Muhammad was flabbergasted that other men were not pedophiles
+### Muhammad was flabbergasted that other men were not pedophiles
 
 [Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
 
