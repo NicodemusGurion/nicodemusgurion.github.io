@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Topic Index
+title: Tafsir al-Jak topics index
 permalink: /quran/topics/
 ---
 
