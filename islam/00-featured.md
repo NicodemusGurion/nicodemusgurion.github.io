@@ -4,7 +4,12 @@ permalink: /islam/featured/
 search: true
 ---
 
-## Mohammed married a 6 year old girl and "consummated" the marriage when she was 9 years old {#pedophile}
+## [< Index](/islam/)
+{:.no_toc}
+
+{% include toc.md %}
+
+## Mohammed was a pedophile who married a 6 year old girl and "consummated" the marriage when she was 9 years old {#pedophile}
 
 [Sunan an Nasa'i 3378](https://sunnah.com/nasai:3378)
 
