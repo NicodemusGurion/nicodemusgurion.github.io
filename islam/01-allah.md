@@ -9,6 +9,140 @@ search: true
 
 {% include toc.md %}
 
+## Allah's personality traits
+
+### Allah is a narcissist who praises himself {#narcissist}
+
+[Sahih al-Bukhari 4634](http://web.archive.org/web/20221005220613/https://sunnah.com/bukhari:4634)
+
+> And none loves to be praised more than Allah does, and for this reason He praises Himself.
+
+### Allah is afraid people will insult him {#insults}
+
+[Surah 6:108](https://quran.com/6/108)
+
+> Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance.
+
+Allah doesn't like it when people insult him, because [Allah is a narcissist](#narcissist). But this verse also gives non-Muslims the right to insult Allah if Muslims are being disrespectful and insulting them.
+
+### Allah is a liar
+
+#### Allah lied to Muhammad to fool him to go to battle
+
+[Surah 8:43-44](https://quran.com/8/43-44)
+
+> Recall: Allah showing them to you in your sleep as few, for had He showed them to you as many, you would have faltered and disagreed with each other about the matter, but Allah saved (the situation). He is indeed All-Knowing of what lies within the chests. And recall: when you met, Him showing them to you as few in your eyes and making you appear fewer in their eyes, so that Allah might carry out a predetermined matter. And to Allah all matters are returned.
+
+Allah deceived Muhammad to go into battle against a large army, making him think it was a small army. He also deceived his enemies in the same way.
+
+#### Allah deceived the world to think Jesus died and to start Christianity.
+
+[Surah 4:157](https://quran.com/4/157)
+
+> and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
+
+Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is deceptive.
+
+This is also a verse that proves Islam is historically false, for contrathe crucifixion of Jesus is the most well documented event in ancient history.](satan/islam/errors/#no-crucifixion)
+
+[Surah 3:54](https://quran.com/3/54)
+
+### Allah leads people astray
+
+[Surah 16:93](https://quran.com/16/93)
+
+> Had Allah willed, He could have easily made you one community ˹of believers˺, but He leaves to stray whoever He wills and guides whoever He wills. And you will certainly be questioned about what you used to do.
+
+
+### Allah blinds people to the truth
+
+[Surah 2:7](https://quran.com/2/7)
+
+> Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
+
+It is Allah's fault if someone does not believe.
+
+### Allah hates deaf and dumb people
+
+[Surah 8:22](https://quran.com/8/22)
+
+> Indeed, the worst of living creatures in the sight of Allāh are the deaf and dumb who do not use reason
+
+### Allah wants people to sin - would otherwise wipe them out
+
+[Sahih Muslim 2749](http://web.archive.org/web/20240115142947/https://sunnah.com/muslim:2749)
+
+> By Him in Whose Hand is my life, if you were not to commit sin, Allah would sweep you out of existence and He would replace (you by) those people who would commit sin and seek forgiveness from Allah, and He would have pardoned them.
+
+If people didn't sin, Allah would wipe them out and replace them with people who would sin. 
+
+Who is it that wants people to sin? God, or Satan?
+
+### Allah has predestined adultery - No free will
+
+[Sahih al-Bukhari 6612](http://web.archive.org/web/20240208033843/https://sunnah.com/bukhari:6612)
+
+> Allah has written for the son of Adam his inevitable share of adultery whether he is aware of it or not
+
+[Sahih Muslim 2657 b](https://web.archive.org/web/20240325212822/https://sunnah.com/muslim:2657b)
+
+> Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity **must** commit.
+
+### Allah wants contention between people
+
+[Surah 2:253](https://quran.com/2/253)
+
+> Yet if Allah had willed, they would not have fought one another. But Allah does what He wills.
+
+Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.
+
+### Allah tortures the dead if their relatives grieve
+
+[Sahih al-Bukhari 1286, 1287, 1288](https://web.archive.org/web/20230928004431/https://sunnah.com/bukhari:1286)
+
+> Allah increases the punishment of a non-believer because of the weeping of his relatives.
+
+### Allah is a fickle and arbitrary judge
+
+[Jami` at-Tirmidhi 2599](https://sunnah.com/tirmidhi:2599)
+
+> "Indeed two men among those who entered the Fire will be screaming violently.  So the Lord, Blessed and Exalted, will say: 'Take them out.'  Then when they are taken out He will say: 'What caused you to scream so violently?'
+
+Is Allah stupid or just cruel?
+
+> They will say: 'We did that so You would have mercy on us.' He will say: 'My mercy for you is that you both go and throw yourselves where you were in the Fire.' 
+
+How is it mercy to tell someone to throw themselves into hellfire? Seems like something Saw would do.
+
+> So they will go. One of them will throw himself in, and He will make it cool and peaceful for him. 
+
+How is it justice to randomly make hell comfortable for a sinner? Allah is not consistent at all.
+
+> And the other will stand there and not throw himself in, so the Lord, Mighty and Majestic, will say to him: 'What prevented you from throwing yourself in as your companion did?' He will say: 'O Lord! I hope that you will not return me to it after You have taken me out.' 
+
+Understandable. This guy doesn't play Allah's manipulative games.
+
+> So the Lord, Blessed and Exalted, will say to him: 'For you is what you hoped for,' and so they will both enter Paradise together by the mercy of Allah."
+
+So he is pardoned for not accepting Allahs "mercy" of throwing himself into hell? And the other guy was also taken with him to paradise? Allah has proven to be neither merciful, nor just, nor consistent, but fickle and arbitrary and completely illogical.
+
+### To Allah, the world is less valuable than the carcass of a defective lamb
+
+[Sahih Muslim 2957a](https://sunnah.com/muslim:2957a)
+
+> Allah's Apostle happened to walk through the bazar … There he found a dead lamb with very short ears. He took hold of his ear and said: Who amongst you would like to have this for a dirham? They said: We do not like to have it even for less than that as it is of no use to us. He said: Do you wish to have it free of any cost? They said: By Allah, even if it were alive we would not have liked to possess that, for there is defect in it as its ear is very short; now it is dead also. Thereupon Allah's Messenger said: By Allah, **this world is more insignificant in the eye of Allah than it this dead lamb is in your eye**
+
+What a horrible narcissistic god that thinks the entire universe is so worthless that it's like something that no one even wants for free. Garbage essentially.
+
+Contrast that with the Christian God who "loved the world so much that he gave his only begotten Son, so that we would not perish but have eternal life." (John 3:16)
+
+No wonder Muslims live such a nihilistic existence.
+
+### Allah admits that he is Satan
+
+[Sahih al-Bukhari 4950](https://sunnah.com/bukhari:4950)
+
+> Once Allah's Messenger became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that **your Satan has forsaken you**, for I have not seen him with you for two or three nights!" On that Allah revealed: 'By the fore-noon, and by the night when it darkens, **your Lord (O Muhammad) has neither forsaken you**, nor hated you.' (93.1-3)
 
 
 ## Allah's fatherhood
@@ -103,138 +237,6 @@ However not everyone will be able to bow before Allah, showing that he is not th
 
 It seems Allah is unable to receive prayers when the earth and sun are at a specific angle with one another. Perhaps the position of the sun affects the reception? Or is his Office closed during those hours? And how does that work, since the sun is rising or setting somewhere in the world all the time?
 
-
-
-## Allah's personality traits
-
-### Allah is a narcissist {#narcissist}
-
-[Sahih al-Bukhari 4634](http://web.archive.org/web/20221005220613/https://sunnah.com/bukhari:4634)
-
-> And none loves to be praised more than Allah does, and for this reason He praises Himself.
-
-### Allah is afraid of insults {#insults}
-
-[Surah 6:108](https://quran.com/6/108)
-
-> Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance.
-
-Allah doesn't like it when people insult him, because [Allah is a narcissist](#narcissist). But this verse also gives non-Muslims the right to insult Allah if Muslims are being disrespectful and insulting them.
-
-### Allah is a liar
-
-[Surah 8:43-44](https://quran.com/8/43-44)
-
-> Recall: Allah showing them to you in your sleep as few, for had He showed them to you as many, you would have faltered and disagreed with each other about the matter, but Allah saved (the situation). He is indeed All-Knowing of what lies within the chests. And recall: when you met, Him showing them to you as few in your eyes and making you appear fewer in their eyes, so that Allah might carry out a predetermined matter. And to Allah all matters are returned.
-
-Allah deceived Muhammad to go into battle against a large army, making him think it was a small army. He also deceived his enemies in the same way.
-
-[Surah 4:157](https://quran.com/4/157)
-
-> and their saying, “We have surely killed the Messiah, Jesus, son of Mary, the Messenger of Allah. ”In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they had. And indeed, those who differed over him are in doubt about it. They have no knowledge of it—just following assumptions. And certainly, they did not kill him.
-
-Allah deceived the Jews and Romans into thinking they killed Jesus. Allah is deceptive.
-
-This is also a verse that proves Islam is historically false, for contrathe crucifixion of Jesus is the most well documented event in ancient history.](satan/islam/errors/#no-crucifixion)
-
-[Surah 3:54](https://quran.com/3/54)
-
-### Allah leads people astray
-
-[Surah 16:93](https://quran.com/16/93)
-
-> Had Allah willed, He could have easily made you one community ˹of believers˺, but He leaves to stray whoever He wills and guides whoever He wills. And you will certainly be questioned about what you used to do.
-
-
-### Allah blinds people to the truth
-
-[Surah 2:7](https://quran.com/2/7)
-
-> Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
-
-It is Allah's fault if someone does not believe.
-
-### Allah hates deaf and dumb people
-
-[Surah 8:22](https://quran.com/8/22)
-
-> Indeed, the worst of living creatures in the sight of Allāh are the deaf and dumb who do not use reason
-
-### Allah wants people to sin
-
-[Sahih Muslim 2749](http://web.archive.org/web/20240115142947/https://sunnah.com/muslim:2749)
-
-> By Him in Whose Hand is my life, if you were not to commit sin, Allah would sweep you out of existence and He would replace (you by) those people who would commit sin and seek forgiveness from Allah, and He would have pardoned them.
-
-If people didn't sin, Allah would wipe them out and replace them with people who would sin. 
-
-Who is it that wants people to sin? God, or Satan?
-
-### Allah has predestined adultery
-
-[Sahih al-Bukhari 6612](http://web.archive.org/web/20240208033843/https://sunnah.com/bukhari:6612)
-
-> Allah has written for the son of Adam his inevitable share of adultery whether he is aware of it or not
-
-[Sahih Muslim 2657 b](https://web.archive.org/web/20240325212822/https://sunnah.com/muslim:2657b)
-
-> Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity must commit.
-
-### Allah wants contention
-
-[Surah 2:253](https://quran.com/2/253)
-
-> Yet if Allah had willed, they would not have fought one another. But Allah does what He wills.
-
-Disagreements and fights between religious factions is Allah's will. He wants people to be divided and fighting.
-
-### Allah tortures the dead if their relatives grieve
-
-[Sahih al-Bukhari 1286, 1287, 1288](https://web.archive.org/web/20230928004431/https://sunnah.com/bukhari:1286)
-
-> Allah increases the punishment of a non-believer because of the weeping of his relatives.
-
-### Allah is a fickle and arbitrary judge
-
-[Jami` at-Tirmidhi 2599](https://sunnah.com/tirmidhi:2599)
-
-> "Indeed two men among those who entered the Fire will be screaming violently.  So the Lord, Blessed and Exalted, will say: 'Take them out.'  Then when they are taken out He will say: 'What caused you to scream so violently?'
-
-Is Allah stupid or just cruel?
-
-> They will say: 'We did that so You would have mercy on us.' He will say: 'My mercy for you is that you both go and throw yourselves where you were in the Fire.' 
-
-How is it mercy to tell someone to throw themselves into hellfire? Seems like something Saw would do.
-
-> So they will go. One of them will throw himself in, and He will make it cool and peaceful for him. 
-
-How is it justice to randomly make hell comfortable for a sinner? Allah is not consistent at all.
-
-> And the other will stand there and not throw himself in, so the Lord, Mighty and Majestic, will say to him: 'What prevented you from throwing yourself in as your companion did?' He will say: 'O Lord! I hope that you will not return me to it after You have taken me out.' 
-
-Understandable. This guy doesn't play Allah's manipulative games.
-
-> So the Lord, Blessed and Exalted, will say to him: 'For you is what you hoped for,' and so they will both enter Paradise together by the mercy of Allah."
-
-So he is pardoned for not accepting Allahs "mercy" of throwing himself into hell? And the other guy was also taken with him to paradise? Allah has proven to be neither merciful, nor just, nor consistent, but fickle and arbitrary and completely illogical.
-
-### To Allah, the world is less valuable than the carcass of a defective lamb
-
-[Sahih Muslim 2957a](https://sunnah.com/muslim:2957a)
-
-> Allah's Apostle happened to walk through the bazar … There he found a dead lamb with very short ears. He took hold of his ear and said: Who amongst you would like to have this for a dirham? They said: We do not like to have it even for less than that as it is of no use to us. He said: Do you wish to have it free of any cost? They said: By Allah, even if it were alive we would not have liked to possess that, for there is defect in it as its ear is very short; now it is dead also. Thereupon Allah's Messenger said: By Allah, **this world is more insignificant in the eye of Allah than it this dead lamb is in your eye**
-
-What a horrible narcissistic god that thinks the entire universe is so worthless that it's like something that no one even wants for free. Garbage essentially.
-
-Contrast that with the Christian God who "loved the world so much that he gave his only begotten Son, so that we would not perish but have eternal life." (John 3:16)
-
-No wonder Muslims live such a nihilistic existence.
-
-### Allah admits that he is Satan
-
-[Sahih al-Bukhari 4950](https://sunnah.com/bukhari:4950)
-
-> Once Allah's Messenger became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that **your Satan has forsaken you**, for I have not seen him with you for two or three nights!" On that Allah revealed: 'By the fore-noon, and by the night when it darkens, **your Lord (O Muhammad) has neither forsaken you**, nor hated you.' (93.1-3)
 
 ## Allah's religion
 
