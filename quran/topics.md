@@ -28,7 +28,7 @@ permalink: /quran/topics/
 
 ## [< Tafsir al-Jak contents index](/quran/)
 
-These are all catalogues topic tags of Tafsir al-Jak for quick reference. Tags are defined without definite or indefinite article to save space and preserve alphabetic order, e.g. look for "Quran" rather than "The Quran".
+These are all catalogues topic tags of Tafsir al-Jak for quick reference. Tags are defined without definite or indefinite article to save space and preserve alphabetic order, e.g. look for "Quran" rather than "The Quran". Sub topics are filed after the main topic with a hyphen, e.g. "Allah - cruel".
 
 {%- assign all_entries = "" | split: "" -%}
 {%- for page in site.pages -%}
