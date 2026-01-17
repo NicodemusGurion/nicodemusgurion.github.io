@@ -240,7 +240,7 @@ It seems Allah is unable to receive prayers when the earth and sun are at a spec
 
 ## Allah's religion
 
-### Allah is a muslim
+### Allah takes the Sahara and is therefore a muslim 
 
 Muslims need to take the Shahada, meaning they testify that there is no God but Allah, and that Muhammad is his prophet.
 
@@ -255,7 +255,7 @@ Muslims need to take the Shahada, meaning they testify that there is no God but 
 So since Allah testifies that there is no God but Allah and that Muhammad is his prophet, it technically means that Allah is a Muslim.
 
 
-### Allah swears by creation
+### Allah swears by creation, because creation is greater than Allah
 
 **Significance of oaths** 
 
@@ -263,7 +263,7 @@ Swearing is a social and psychological act where a person invokes something **gr
 
 In the Bible, Yahweh swears on himself, because there is nothing higher or more sacred than him. (Genesis 22:16; Isaiah 45:23; Hebrews 6:13) In the Islamic sources, Allah sometimes swears by created things or other deities and is thus showing that he is not the highest and most sacred, but considers himself lower and less sacred than these things.
 
-### Allah swears by the moon
+#### Allah swears by the moon
 
 [Surah 73:32-34](https://quran.com/73/32-34)
 
@@ -282,7 +282,7 @@ This tells us that:
 - Allah considers other things more sacred and authoritative.
 - Allah is a lesser deity than the moon god Sīn.
 
-### Allah swears by the fore-noon and night
+#### Allah swears by the fore-noon and night
 
 [Surah 93:1-3](https://quran.com/93/1-3)
 
@@ -291,7 +291,7 @@ This tells us that:
 Allah swears by the morning and evening because these are more sacred than he is.
 
 
-### Allah swears by the Lord of the East and West
+#### Allah swears by the Lord of the East and West
 
 [Surah 70:40](https://quran.com/70/40)
 
@@ -321,9 +321,9 @@ Whom is Allah praying to?
 
 
 
-## Allah's mental abilities
+## Allah's mental abilities and disabilities
 
-### Allah wonders 
+### Allah wonders over things - not omniscient
 
 [Sahih al-Bukhari 3010](https://web.archive.org/web/20240318170959/https://sunnah.com/bukhari:3010)
 
@@ -331,7 +331,7 @@ Whom is Allah praying to?
 
 Apparently there are things that surprise Allah. How could someone supposedly all-knowing wonder about anything?
 
-### Allah can not count
+### Allah can not count (1 + 1 =2 4?)
 
 [Surah 6:143](https://quran.com/6/143)
 
@@ -339,7 +339,7 @@ Apparently there are things that surprise Allah. How could someone supposedly al
 
 One pair of sheep and one pair of goats equals four pairs?
 
-### Allah is ignorant {#ignorant}
+### Allah is ignorant - doesn't know who believes {#ignorant}
 
 There are things that Allah does not know unless he investigates, such as who are his believers or not.
 
