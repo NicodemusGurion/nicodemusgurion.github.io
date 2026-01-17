@@ -5,7 +5,7 @@
 
   <body class="theme-base-0f">
 
-
+    {% include sidebar.html %}
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
@@ -28,6 +28,7 @@
       </div>
     </div>
 
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
     <script src="https://code.jquery.com/jquery-3.6.4.slim.min.js" integrity="sha256-a2yjHM4jnF9f54xUQakjZGaqYs/V1CYvWpoqZzC2/Bw=" crossorigin="anonymous"></script>
     <script src='{{ site.baseurl }}/public/js/script.js'></script>
     <script src='{{ site.baseurl }}/public/js/search.js'></script>
