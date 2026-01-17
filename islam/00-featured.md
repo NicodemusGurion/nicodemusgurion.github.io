@@ -1,5 +1,5 @@
 ---
-title: Featured Hadiths 
+title: Featured verses 
 permalink: /islam/featured/
 search: true
 ---
@@ -7,7 +7,6 @@ search: true
 ## [< Index](/islam/)
 {:.no_toc}
 
-{% include toc.md %}
 
 ## Mohammed was a pedophile who married a 6 year old girl and "consummated" the marriage when she was 9 years old {#pedophile}
 
