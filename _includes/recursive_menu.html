@@ -1,15 +1,13 @@
 {% comment %}
-  Recursive menu / TOC generator for GitHub Pages.
-
-  Input:
-    include.permalink_path  (example: "/", "/topic1/")
+  Recursive menu / TOC generator
+  GitHub Pages compatible
 {% endcomment %}
 
 {% assign base_path = include.permalink_path | default: "/" %}
 
-{% comment %}
-  Collect all pages whose URL starts with base_path
-{% endcomment %}
+{%- comment -%}
+  Collect pages under base_path
+{%- endcomment -%}
 {% assign pages_under = "" | split: "" %}
 
 {% for p in site.pages %}
@@ -23,23 +21,21 @@
 
 {% assign pages_under = pages_under | sort: "url" %}
 
-{% if pages_under.size == 0 %}
-{% else %}
+{% if pages_under.size > 0 %}
 
-  {% comment %}
-    Group pages by the next path segment after base_path
-  {% endcomment %}
-  {% assign groups = "" | split: "" %}
+  {%- comment -%}
+    Collect unique next-level path segments
+  {%- endcomment -%}
   {% assign group_keys = "" | split: "" %}
 
   {% for p in pages_under %}
     {% assign rest = p.url | remove_first: base_path %}
     {% assign segments = rest | split: "/" %}
-    {% assign key = segments[0] %}
+    {% assign first = segments[0] | default: "" | strip %}
 
-    {% if key != "" %}
-      {% unless group_keys contains key %}
-        {% assign group_keys = group_keys | push: key %}
+    {% if first != "" %}
+      {% unless group_keys contains first %}
+        {% assign group_keys = group_keys | push: first %}
       {% endunless %}
     {% endif %}
   {% endfor %}
@@ -47,19 +43,25 @@
   {% assign group_keys = group_keys | sort %}
 
   {% for key in group_keys %}
+
+    {%- comment -%}
+      Collect pages belonging to this group
+    {%- endcomment -%}
     {% assign group_pages = "" | split: "" %}
 
     {% for p in pages_under %}
       {% assign rest = p.url | remove_first: base_path %}
       {% assign segments = rest | split: "/" %}
-      {% if segments[0] == key %}
+      {% assign first = segments[0] | default: "" | strip %}
+
+      {% if first != "" and first == key %}
         {% assign group_pages = group_pages | push: p %}
       {% endif %}
     {% endfor %}
 
-    {% comment %}
-      CASE 1: exactly one page -> extract headers
-    {% endcomment %}
+    {%- comment -%}
+      Case 1: exactly one page -> extract headers
+    {%- endcomment -%}
     {% if group_pages.size == 1 %}
       {% assign page = group_pages[0] %}
       <details>
@@ -67,21 +69,15 @@
           <a href="{{ page.url }}">{{ page.title | default: key }}</a>
         </summary>
 
-        {% comment %}
-          Parse Markdown headings safely
-        {% endcomment %}
         {% for line in page.content | split: "\n" %}
           {% assign trimmed = line | strip %}
-          {% if trimmed != "" and trimmed contains "#" %}
+          {% if trimmed != "" %}
             {% assign first_char = trimmed | slice: 0, 1 %}
             {% if first_char == "#" %}
               {% assign hashes = trimmed | split: " " | first %}
               {% assign level = hashes | size %}
               {% assign text = trimmed | remove_first: hashes | strip %}
 
-              {% comment %}
-                Handle optional custom ID {#id}
-              {% endcomment %}
               {% if text contains "{#" %}
                 {% assign parts = text | split: "{#" %}
                 {% assign text = parts[0] | strip %}
@@ -101,9 +97,9 @@
         {% endfor %}
       </details>
 
-    {% comment %}
-      CASE 2: multiple pages -> recurse deeper
-    {% endcomment %}
+    {%- comment -%}
+      Case 2: multiple pages -> recurse
+    {%- endcomment -%}
     {% else %}
       <details>
         <summary>{{ key }}</summary>
@@ -111,6 +107,6 @@
         {% include recursive_menu.html permalink_path=new_path %}
       </details>
     {% endif %}
-  {% endfor %}
 
+  {% endfor %}
 {% endif %}
