@@ -1,112 +1,112 @@
-{% comment %}
+{%- comment -%}
   Recursive menu / TOC generator
   GitHub Pages compatible
-{% endcomment %}
-
-{% assign base_path = include.permalink_path | default: "/" %}
-
-{%- comment -%}
-  Collect pages under base_path
 {%- endcomment -%}
-{% assign pages_under = "" | split: "" %}
 
-{% for p in site.pages %}
-  {% if p.url %}
-    {% assign prefix = p.url | slice: 0, base_path.size %}
-    {% if prefix == base_path %}
-      {% assign pages_under = pages_under | push: p %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
+{%- assign base_path = include.permalink_path | default: "/" -%}
 
-{% assign pages_under = pages_under | sort: "url" %}
+{%-- comment --%}
+  Collect pages under base_path
+{%-- endcomment --%}
+{%- assign pages_under = "" | split: "" -%}
 
-{% if pages_under.size > 0 %}
+{%- for p in site.pages -%}
+  {%- if p.url -%}
+    {%- assign prefix = p.url | slice: 0, base_path.size -%}
+    {%- if prefix == base_path -%}
+      {%- assign pages_under = pages_under | push: p -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
 
-  {%- comment -%}
+{%- assign pages_under = pages_under | sort: "url" -%}
+
+{%- if pages_under.size > 0 -%}
+
+  {%-- comment --%}
     Collect unique next-level path segments
-  {%- endcomment -%}
-  {% assign group_keys = "" | split: "" %}
+  {%-- endcomment --%}
+  {%- assign group_keys = "" | split: "" -%}
 
-  {% for p in pages_under %}
-    {% assign rest = p.url | remove_first: base_path %}
-    {% assign segments = rest | split: "/" %}
-    {% assign first = segments[0] | default: "" | strip %}
+  {%- for p in pages_under -%}
+    {%- assign rest = p.url | remove_first: base_path -%}
+    {%- assign segments = rest | split: "/" -%}
+    {%- assign first = segments[0] | default: "" | strip -%}
 
-    {% if first != "" %}
-      {% unless group_keys contains first %}
-        {% assign group_keys = group_keys | push: first %}
-      {% endunless %}
-    {% endif %}
-  {% endfor %}
+    {%- if first != "" -%}
+      {%- unless group_keys contains first -%}
+        {%- assign group_keys = group_keys | push: first -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endfor -%}
 
-  {% assign group_keys = group_keys | sort %}
+  {%- assign group_keys = group_keys | sort -%}
 
-  {% for key in group_keys %}
+  {%- for key in group_keys -%}
 
-    {%- comment -%}
+    {%-- comment --%}
       Collect pages belonging to this group
-    {%- endcomment -%}
-    {% assign group_pages = "" | split: "" %}
+    {%-- endcomment --%}
+    {%- assign group_pages = "" | split: "" -%}
 
-    {% for p in pages_under %}
-      {% assign rest = p.url | remove_first: base_path %}
-      {% assign segments = rest | split: "/" %}
-      {% assign first = segments[0] | default: "" | strip %}
+    {%- for p in pages_under -%}
+      {%- assign rest = p.url | remove_first: base_path -%}
+      {%- assign segments = rest | split: "/" -%}
+      {%- assign first = segments[0] | default: "" | strip -%}
 
-      {% if first != "" and first == key %}
-        {% assign group_pages = group_pages | push: p %}
-      {% endif %}
-    {% endfor %}
+      {%- if first != "" and first == key -%}
+        {%- assign group_pages = group_pages | push: p -%}
+      {%- endif -%}
+    {%- endfor -%}
 
-    {%- comment -%}
+    {%-- comment --%}
       Case 1: exactly one page -> extract headers
-    {%- endcomment -%}
-    {% if group_pages.size == 1 %}
-      {% assign page = group_pages[0] %}
-      <details>
+    {%-- endcomment --%}
+    {%- if group_pages.size == 1 -%}
+      {%- assign page = group_pages[0] -%}
+<details>
         <summary>
           <a href="{{ page.url }}">{{ page.title | default: key }}</a>
         </summary>
 
-        {% for line in page.content | split: "\n" %}
-          {% assign trimmed = line | strip %}
-          {% if trimmed != "" %}
-            {% assign first_char = trimmed | slice: 0, 1 %}
-            {% if first_char == "#" %}
-              {% assign hashes = trimmed | split: " " | first %}
-              {% assign level = hashes | size %}
-              {% assign text = trimmed | remove_first: hashes | strip %}
+        {%- for line in page.content | split: "\n" -%}
+          {%- assign trimmed = line | strip -%}
+          {%- if trimmed != "" -%}
+            {%- assign first_char = trimmed | slice: 0, 1 -%}
+            {%- if first_char == "#" -%}
+              {%- assign hashes = trimmed | split: " " | first -%}
+              {%- assign level = hashes | size -%}
+              {%- assign text = trimmed | remove_first: hashes | strip -%}
 
-              {% if text contains "{#" %}
-                {% assign parts = text | split: "{#" %}
-                {% assign text = parts[0] | strip %}
-                {% assign id = parts[1] | remove: "}" | strip %}
-              {% else %}
-                {% assign id = text
+              {%- if text contains "{#" -%}
+                {%- assign parts = text | split: "{#" -%}
+                {%- assign text = parts[0] | strip -%}
+                {%- assign id = parts[1] | remove: "}" | strip -%}
+              {%- else -%}
+                {%- assign id = text
                   | downcase
                   | replace: " ", "-"
-                  | replace_regex: "[^a-z0-9\\-]", "" %}
-              {% endif %}
+                  | replace_regex: "[^a-z0-9\\-]", "" -%}
+              {%- endif -%}
 
               <p style="margin-left:{{ level | minus: 1 }}em">
                 <a href="{{ page.url }}#{{ id }}">{{ text }}</a>
               </p>
-            {% endif %}
-          {% endif %}
-        {% endfor %}
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
       </details>
 
-    {%- comment -%}
+    {%-- comment --%}
       Case 2: multiple pages -> recurse
-    {%- endcomment -%}
-    {% else %}
+    {%-- endcomment --%}
+    {%- else -%}
       <details>
         <summary>{{ key }}</summary>
-        {% assign new_path = base_path | append: key | append: "/" %}
-        {% include recursive_menu.html permalink_path=new_path %}
+        {%- assign new_path = base_path | append: key | append: "/" -%}
+        {%- include recursive_menu.html permalink_path=new_path -%}
       </details>
-    {% endif %}
+    {%- endif -%}
 
-  {% endfor %}
-{% endif %}
+  {%- endfor -%}
+{%- endif -%}
