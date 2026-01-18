@@ -35,13 +35,8 @@ Num parts {{ parts.size }}<br>
   {%- assign tag_start = part | slice: 0, 1 -%}
   {%- if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" -%}
     {%- assign level = tag_start | plus: 0 -%}
-    {%- assign headertext = part | split: "</h" | first | split: ">" | last %}
-    Header text raw {{ headertext }}
-    {%- assign after_tag = part | split: ">" | last -%}
-    After tag = {{ after_tag }}<br>
-    {%- assign text = after_tag | split: "</h" | first | strip -%}
-    text = {{ text }}
-
+    {%- assign text = part | split: "</h" | first | split: ">" | last %}
+Text = {{ text }}<br>
     {%- if part contains 'id="' -%}
       {%- assign id = part | split: 'id="' | last | split: '"' | first -%}
     {%- else -%}
