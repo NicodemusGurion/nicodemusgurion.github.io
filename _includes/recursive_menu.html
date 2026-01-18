@@ -7,5 +7,5 @@
 {% assign permalink_path = include.permalink_path | default: "/" %}
 
 {{ permalink_path }}.
-{% assign pages_under_path = site.pages %}
+{% assign pages_under_path = site.pages | where_exp: "p", "p.url startswith permalink_path" %}
 pages path size {{ pages_under_path.size }}.
