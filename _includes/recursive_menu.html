@@ -83,7 +83,8 @@ Group key {{ key }}.
     {% endcomment %}
     <details>
       <summary>{{ key }}</summary>
-      {% include recursive_menu.html permalink_path=permalink_path | append: key | append: "/" %}
+      {% assign new_permalink_path=permalink_path | append: key | append: "/" %}
+      {% include recursive_menu.html permalink_path=new_permalink_path %}
     </details>
   {% endif %}
 {% endfor %}
