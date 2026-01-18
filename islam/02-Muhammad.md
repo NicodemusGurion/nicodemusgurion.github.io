@@ -2,6 +2,7 @@
 title: Muhammad 
 permalink: /islam/muhammad/
 search: true
+image: https://i.ibb.co/jht9dgr/D9540539-7-CC1-4-F7-E-95-C7-D7-C4536-F5378.jpg
 ---
 
 ## [< Index](/islam/)

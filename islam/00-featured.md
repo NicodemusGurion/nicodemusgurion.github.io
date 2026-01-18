@@ -45,7 +45,7 @@ See also:
 
 The fact that other men are not drawn to sexually abuse children makes Muhammad shocked.
 
-## Quran verses promoting violence
+## Quran and Hadith verses promoting violence
 
 [Surah 3:151-152](https://quran.com/3/151-152)
 
@@ -69,7 +69,6 @@ The fact that other men are not drawn to sexually abuse children makes Muhammad 
 
 > Thus, when you encounter those who have denied, strike at their necks. Then when you have subjugated them, bind them firmly…
 
-## Hadith verses promoting violence
 
 [Sahih al-Bukhari 25](https://sunnah.com/bukhari:25)
 
