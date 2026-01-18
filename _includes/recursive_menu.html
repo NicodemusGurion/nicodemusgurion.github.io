@@ -32,6 +32,7 @@ Num pages {{ pages_under.size }}<br>
         <summary>
           <a href="{{ page.url }}">{{ page.title }}</a>
         </summary>
+        page content: {{ page.content }}
         {%- assign lines = page.content | split: "\n" -%}
         Number of lines in file: {{ lines.size }}
         {%- for line in lines -%}
@@ -64,12 +65,21 @@ Num pages {{ pages_under.size }}<br>
       </details>
       
 {% else %}
-
+  {% assign used_subpaths = "" | split: "" %}
+  {% for page in pages_under %}
+  {% assign subpath = page.url | remove: base_path | split: "/" | first %}
+  Subpath: {{ subpath }}<br>
+  {% if used_subpaths contain subpath %}
+  {% continue %}
+  {% else %}
+  {% assign used_subpaths = used_subpaths | append: subpath %}
+  {% endif %}
+  
       <details>
-        <summary>{{ key }}</summary>
-        {%- assign new_path = base_path | append: key | append: "/" -%}
+        <summary>{{ page.title }}</summary>
+        {%- assign new_path = base_path | append: subpath | append: "/" -%}
         {%- include recursive_menu.html permalink_path=new_path -%}
       </details>
-
+  {% endfor %}
 {% endif %}
 {% endif %}
