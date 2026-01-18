@@ -5,9 +5,7 @@
 
 {%- assign base_path = include.permalink_path | default: "/" -%}
 
-{%-- comment --%}
-  Collect pages under base_path
-{%-- endcomment --%}
+
 {%- assign pages_under = "" | split: "" -%}
 
 {%- for p in site.pages -%}
