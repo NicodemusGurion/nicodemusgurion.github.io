@@ -11,6 +11,7 @@
 {%- for p in site.pages -%}
   {%- if p.url -%}
     {%- assign prefix = p.url | slice: 0, base_path.size -%}
+    {{ prefix }}, {{ base_path }}. 
     {%- if prefix == base_path -%}
       {%- assign pages_under = pages_under | push: p -%}
     {%- endif -%}
@@ -18,6 +19,7 @@
 {%- endfor -%}
 
 {%- assign pages_under = pages_under | sort: "url" -%}
+Num pages {{ pages_under.size }}
 
 {%- if pages_under.size > 0 -%}
 
