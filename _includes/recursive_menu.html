@@ -21,3 +21,25 @@
 {% assign pages_under_path = pages_under_path | sort: "url" %}
 
 pages path size {{ pages_under_path.size }}.
+
+{% if pages_under_path.size > 0 %}
+
+{% assign groups = {} %}
+{% for p in pages_under_path %}
+  {% assign relative_path = p.url | remove_first: permalink_path %}
+  {% assign segments = relative_path | split: '/' | reject: '' %}
+  {% assign first_segment = segments[0] %}
+  
+  {% if first_segment %}
+    {% if groups[first_segment] == nil %}
+      {% assign groups = groups | merge: {{ first_segment }}: [] %}
+    {% endif %}
+    {% assign groups[first_segment] = groups[first_segment] | push: p %}
+  {% endif %}
+{% endfor %}
+Groups {{ groups }}. 
+
+
+
+
+{% endif %}
