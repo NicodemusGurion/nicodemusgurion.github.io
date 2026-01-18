@@ -29,40 +29,37 @@ Num pages {{ pages_under.size }}<br>
 
 {%- assign page = pages_under[0] -%}
 <details>
-        <summary>
-          <a href="{{ page.url }}">{{ page.title }}</a>
-        </summary>
-        page content: {{ page.content }}
-        {%- assign lines = page.content | split: "\n" -%}
-        Number of lines in file: {{ lines.size }}
-        {%- for line in lines -%}
-          {%- assign trimmed = line | strip -%}
-          {%- if trimmed != "" -%}
-            {%- assign first_char = trimmed | slice: 0, 1 -%}
-            {%- if first_char == "#" -%}
-            This is a header: {{- line -}}
-              {%- assign hashes = trimmed | split: " " | first -%}
-              {%- assign level = hashes | size -%}
-              {%- assign text = trimmed | remove_first: hashes | strip -%}
+<summary><a href="{{ page.url }}">{{ page.title }}</a></summary>
+{% assign html = page.content %}
 
-              {%- if text contains "{#" -%}
-                {%- assign parts = text | split: "{#" -%}
-                {%- assign text = parts[0] | strip -%}
-                {%- assign id = parts[1] | remove: "}" | strip -%}
-              {%- else -%}
-                {%- assign id = text
-                  | downcase
-                  | replace: " ", "-"
-                  | replace_regex: "[^a-z0-9\\-]", "" -%}
-              {%- endif -%}
+{% assign parts = html | split: "<h" %}
 
-              <p style="margin-left:{{ level | minus: 1 }}em">
-                <a href="{{ page.url }}#{{ id }}">{{ text }}</a>
-              </p>
-            {%- endif -%}
-          {%- endif -%}
-        {%- endfor -%}
-      </details>
+{% for part in parts %}
+  {% assign tag_start = part | slice: 0, 1 %}
+  {% if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" %}
+
+    {% assign level = tag_start | plus: 0 %}
+
+    {% assign after_tag = part | split: ">" | last %}
+    {% assign text = after_tag | split: "</h" | first | strip %}
+
+    {% if part contains 'id="' %}
+      {% assign id = part | split: 'id="' | last | split: '"' | first %}
+    {% else %}
+      {% assign id = text
+        | downcase
+        | replace: " ", "-"
+        | replace_regex: "[^a-z0-9\\-]", "" %}
+    {% endif %}
+
+    <p style="margin-left:{{ level | minus: 1 }}em">
+      <a href="{{ page.url }}#{{ id }}">{{ text }}</a>
+    </p>
+
+  {% endif %}
+{% endfor %}
+
+</details>
       
 {% else %}
   {% assign used_subpaths = "" | split: "" %}
