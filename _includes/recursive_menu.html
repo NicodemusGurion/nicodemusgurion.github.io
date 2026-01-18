@@ -10,13 +10,11 @@
   Filter all pages whose permalink begins with the given path
 {% endcomment %}
 {% assign pages_under_path = site.pages | where_exp: "p", "p.url startswith permalink_path" | sort: "url" %}
-
+Pages under path size: {{ pages_under_path.size }}.
 {% comment %}
   If no pages, stop recursion
 {% endcomment %}
 {% if pages_under_path.size > 0 %}
-
-
 
 {% comment %}
   Group pages by the next segment in the path
