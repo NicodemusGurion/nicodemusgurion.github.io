@@ -11,59 +11,23 @@
 {%- for p in site.pages -%}
   {%- if p.url -%}
     {%- assign prefix = p.url | slice: 0, base_path.size -%}
-    {{ prefix }}, {{ base_path }}. 
+    {{ prefix }} = {{ base_path }}<br>
     {%- if prefix == base_path -%}
+    Match!<br>
       {%- assign pages_under = pages_under | push: p -%}
     {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
 
 {%- assign pages_under = pages_under | sort: "url" -%}
-Num pages {{ pages_under.size }}
+Num pages {{ pages_under.size }}<br>
 
 {%- if pages_under.size > 0 -%}
 
-  {%- comment -%}
-    Collect unique next-level path segments
-  {%- endcomment -%}
-  {%- assign group_keys = "" | split: "" -%}
 
-  {%- for p in pages_under -%}
-    {%- assign rest = p.url | remove_first: base_path -%}
-    {%- assign segments = rest | split: "/" -%}
-    {%- assign first = segments[0] | default: "" | strip -%}
+{%- if pages_under.size == 1 -%}
 
-    {%- if first != "" -%}
-      {%- unless group_keys contains first -%}
-        {%- assign group_keys = group_keys | push: first -%}
-      {%- endunless -%}
-    {%- endif -%}
-  {%- endfor -%}
-
-  {%- assign group_keys = group_keys | sort -%}
-
-  {%- for key in group_keys -%}
-
-    {%- comment -%}
-      Collect pages belonging to this group
-    {%- endcomment -%}
-    {%- assign group_pages = "" | split: "" -%}
-
-    {%- for p in pages_under -%}
-      {%- assign rest = p.url | remove_first: base_path -%}
-      {%- assign segments = rest | split: "/" -%}
-      {%- assign first = segments[0] | default: "" | strip -%}
-
-      {%- if first != "" and first == key -%}
-        {%- assign group_pages = group_pages | push: p -%}
-      {%- endif -%}
-    {%- endfor -%}
-
-    {%- comment -%}
-      Case 1: exactly one page -> extract headers
-    {%- endcomment -%}
-    {%- if group_pages.size == 1 -%}
-      {%- assign page = group_pages[0] -%}
+{%- assign page = pages_under[0] -%}
 <details>
         <summary>
           <a href="{{ page.url }}">{{ page.title | default: key }}</a>
@@ -97,17 +61,13 @@ Num pages {{ pages_under.size }}
           {%- endif -%}
         {%- endfor -%}
       </details>
+      
+{% else %}
 
-    {%- comment -%}
-      Case 2: multiple pages -> recurse
-    {%- endcomment -%}
-    {%- else -%}
       <details>
         <summary>{{ key }}</summary>
         {%- assign new_path = base_path | append: key | append: "/" -%}
         {%- include recursive_menu.html permalink_path=new_path -%}
       </details>
-    {%- endif -%}
 
-  {%- endfor -%}
-{%- endif -%}
+{% endif %}
