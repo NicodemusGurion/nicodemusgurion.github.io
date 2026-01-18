@@ -72,6 +72,7 @@
           {%- if trimmed != "" -%}
             {%- assign first_char = trimmed | slice: 0, 1 -%}
             {%- if first_char == "#" -%}
+            {{- line -}}
               {%- assign hashes = trimmed | split: " " | first -%}
               {%- assign level = hashes | size -%}
               {%- assign text = trimmed | remove_first: hashes | strip -%}
