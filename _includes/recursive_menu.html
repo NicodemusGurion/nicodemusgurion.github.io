@@ -34,17 +34,15 @@ Num parts {{ parts.size }}<br>
 {%- for part in parts -%}
   {%- assign tag_start = part | slice: 0, 1 -%}
   {%- if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" -%}
-Tag start: {{ tag_start }}<br>
     {%- assign level = tag_start | plus: 0 -%}
 
     {%- assign after_tag = part | split: ">" | last -%}
     {%- assign text = after_tag | split: "</h" | first | strip -%}
+    text = {{ text }}
 
     {%- if part contains 'id="' -%}
-    Found id<br>
       {%- assign id = part | split: 'id="' | last | split: '"' | first -%}
     {%- else -%}
-    Make id <br>
       {%- assign id = text
         | downcase
         | replace: " ", "-"
