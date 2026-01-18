@@ -30,15 +30,16 @@ Num pages {{ pages_under.size }}<br>
 {%- assign page = pages_under[0] -%}
 <details>
         <summary>
-          <a href="{{ page.url }}">{{ page.title | default: key }}</a>
+          <a href="{{ page.url }}">{{ page.title }}</a>
         </summary>
-
-        {%- for line in page.content | split: "\n" -%}
+        {%- assign lines = page.content | split: "\n" -%}
+        Number of lines in file: {{ lines.size }}
+        {%- for line in lines -%}
           {%- assign trimmed = line | strip -%}
           {%- if trimmed != "" -%}
             {%- assign first_char = trimmed | slice: 0, 1 -%}
             {%- if first_char == "#" -%}
-            {{- line -}}
+            This is a header: {{- line -}}
               {%- assign hashes = trimmed | split: " " | first -%}
               {%- assign level = hashes | size -%}
               {%- assign text = trimmed | remove_first: hashes | strip -%}
