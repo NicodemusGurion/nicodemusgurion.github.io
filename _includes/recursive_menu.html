@@ -1,45 +1,116 @@
 {% comment %}
-  Recursive menu generator.
+  Recursive menu / TOC generator for GitHub Pages.
+
   Input:
-    - permalink_path: the prefix of permalinks to start at (e.g., "/topic1/")
+    include.permalink_path  (example: "/", "/topic1/")
 {% endcomment %}
 
-{% assign permalink_path = include.permalink_path | default: "/" %}
+{% assign base_path = include.permalink_path | default: "/" %}
 
-{{ permalink_path }}.
-{% assign pages_under_path = "" | split: "" %}
+{% comment %}
+  Collect all pages whose URL starts with base_path
+{% endcomment %}
+{% assign pages_under = "" | split: "" %}
 
 {% for p in site.pages %}
-  {% if p.url != nil and p.url.size >= permalink_path.size %}
-    {% assign prefix = p.url | slice: 0, permalink_path.size %}
-    {% if prefix == permalink_path %}
-      {% assign pages_under_path = pages_under_path | push: p %}
+  {% if p.url %}
+    {% assign prefix = p.url | slice: 0, base_path.size %}
+    {% if prefix == base_path %}
+      {% assign pages_under = pages_under | push: p %}
     {% endif %}
   {% endif %}
 {% endfor %}
 
-{% assign pages_under_path = pages_under_path | sort: "url" %}
+{% assign pages_under = pages_under | sort: "url" %}
 
-pages path size {{ pages_under_path.size }}.
+{% if pages_under.size == 0 %}
+{% else %}
 
-{% if pages_under_path.size > 0 %}
+  {% comment %}
+    Group pages by the next path segment after base_path
+  {% endcomment %}
+  {% assign groups = "" | split: "" %}
+  {% assign group_keys = "" | split: "" %}
 
-{% assign groups = {} %}
-{% for p in pages_under_path %}
-  {% assign relative_path = p.url | remove_first: permalink_path %}
-  {% assign segments = relative_path | split: '/' | reject: '' %}
-  {% assign first_segment = segments[0] %}
-  
-  {% if first_segment %}
-    {% if groups[first_segment] == nil %}
-      {% assign groups = groups | merge: {{ first_segment }}: [] %}
+  {% for p in pages_under %}
+    {% assign rest = p.url | remove_first: base_path %}
+    {% assign segments = rest | split: "/" %}
+    {% assign key = segments[0] %}
+
+    {% if key != "" %}
+      {% unless group_keys contains key %}
+        {% assign group_keys = group_keys | push: key %}
+      {% endunless %}
     {% endif %}
-    {% assign groups[first_segment] = groups[first_segment] | push: p %}
-  {% endif %}
-{% endfor %}
-Groups {{ groups }}. 
+  {% endfor %}
 
+  {% assign group_keys = group_keys | sort %}
 
+  {% for key in group_keys %}
+    {% assign group_pages = "" | split: "" %}
 
+    {% for p in pages_under %}
+      {% assign rest = p.url | remove_first: base_path %}
+      {% assign segments = rest | split: "/" %}
+      {% if segments[0] == key %}
+        {% assign group_pages = group_pages | push: p %}
+      {% endif %}
+    {% endfor %}
+
+    {% comment %}
+      CASE 1: exactly one page -> extract headers
+    {% endcomment %}
+    {% if group_pages.size == 1 %}
+      {% assign page = group_pages[0] %}
+      <details>
+        <summary>
+          <a href="{{ page.url }}">{{ page.title | default: key }}</a>
+        </summary>
+
+        {% comment %}
+          Parse Markdown headings safely
+        {% endcomment %}
+        {% for line in page.content | split: "\n" %}
+          {% assign trimmed = line | strip %}
+          {% if trimmed != "" and trimmed contains "#" %}
+            {% assign first_char = trimmed | slice: 0, 1 %}
+            {% if first_char == "#" %}
+              {% assign hashes = trimmed | split: " " | first %}
+              {% assign level = hashes | size %}
+              {% assign text = trimmed | remove_first: hashes | strip %}
+
+              {% comment %}
+                Handle optional custom ID {#id}
+              {% endcomment %}
+              {% if text contains "{#" %}
+                {% assign parts = text | split: "{#" %}
+                {% assign text = parts[0] | strip %}
+                {% assign id = parts[1] | remove: "}" | strip %}
+              {% else %}
+                {% assign id = text
+                  | downcase
+                  | replace: " ", "-"
+                  | replace_regex: "[^a-z0-9\\-]", "" %}
+              {% endif %}
+
+              <p style="margin-left:{{ level | minus: 1 }}em">
+                <a href="{{ page.url }}#{{ id }}">{{ text }}</a>
+              </p>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </details>
+
+    {% comment %}
+      CASE 2: multiple pages -> recurse deeper
+    {% endcomment %}
+    {% else %}
+      <details>
+        <summary>{{ key }}</summary>
+        {% assign new_path = base_path | append: key | append: "/" %}
+        {% include recursive_menu.html permalink_path=new_path %}
+      </details>
+    {% endif %}
+  {% endfor %}
 
 {% endif %}
