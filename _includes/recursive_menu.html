@@ -14,10 +14,9 @@
 {% comment %}
   If no pages, stop recursion
 {% endcomment %}
-{% if pages_under_path.size == 0 %}
-No pages under {{ permalink_path }}. 
-  {% return %}
-{% endif %}
+{% if pages_under_path.size > 0 %}
+
+
 
 {% comment %}
   Group pages by the next segment in the path
@@ -88,3 +87,5 @@ Group key {{ key }}.
     </details>
   {% endif %}
 {% endfor %}
+
+{% endif %}
