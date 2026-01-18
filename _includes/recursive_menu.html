@@ -21,9 +21,9 @@
 
 {%- if pages_under.size > 0 -%}
 
-  {%-- comment --%}
+  {%- comment -%}
     Collect unique next-level path segments
-  {%-- endcomment --%}
+  {%- endcomment -%}
   {%- assign group_keys = "" | split: "" -%}
 
   {%- for p in pages_under -%}
@@ -42,9 +42,9 @@
 
   {%- for key in group_keys -%}
 
-    {%-- comment --%}
+    {%- comment -%}
       Collect pages belonging to this group
-    {%-- endcomment --%}
+    {%- endcomment -%}
     {%- assign group_pages = "" | split: "" -%}
 
     {%- for p in pages_under -%}
@@ -57,9 +57,9 @@
       {%- endif -%}
     {%- endfor -%}
 
-    {%-- comment --%}
+    {%- comment -%}
       Case 1: exactly one page -> extract headers
-    {%-- endcomment --%}
+    {%- endcomment -%}
     {%- if group_pages.size == 1 -%}
       {%- assign page = group_pages[0] -%}
 <details>
@@ -95,9 +95,9 @@
         {%- endfor -%}
       </details>
 
-    {%-- comment --%}
+    {%- comment -%}
       Case 2: multiple pages -> recurse
-    {%-- endcomment --%}
+    {%- endcomment -%}
     {%- else -%}
       <details>
         <summary>{{ key }}</summary>
