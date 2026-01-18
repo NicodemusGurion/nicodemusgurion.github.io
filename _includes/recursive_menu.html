@@ -30,53 +30,53 @@ Num pages {{ pages_under.size }}<br>
 {%- assign page = pages_under[0] -%}
 <details>
 <summary><a href="{{ page.url }}">{{ page.title }}</a></summary>
-{% assign html = page.content %}
+{%- assign html = page.content -%}
 
-{% assign parts = html | split: "<h" %}
+{%- assign parts = html | split: "<h" -%}
 
-{% for part in parts %}
-  {% assign tag_start = part | slice: 0, 1 %}
-  {% if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" %}
+{%- for part in parts -%}
+  {%- assign tag_start = part | slice: 0, 1 -%}
+  {%- if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" -%}
 
-    {% assign level = tag_start | plus: 0 %}
+    {%- assign level = tag_start | plus: 0 -%}
 
-    {% assign after_tag = part | split: ">" | last %}
-    {% assign text = after_tag | split: "</h" | first | strip %}
+    {%- assign after_tag = part | split: ">" | last -%}
+    {%- assign text = after_tag | split: "</h" | first | strip -%}
 
-    {% if part contains 'id="' %}
-      {% assign id = part | split: 'id="' | last | split: '"' | first %}
-    {% else %}
-      {% assign id = text
+    {%- if part contains 'id="' -%}
+      {%- assign id = part | split: 'id="' | last | split: '"' | first -%}
+    {%- else -%}
+      {%- assign id = text
         | downcase
         | replace: " ", "-"
-        | replace_regex: "[^a-z0-9\\-]", "" %}
-    {% endif %}
+        | replace_regex: "[^a-z0-9\\-]", "" -%}
+    {%- endif -%}
 
     <p style="margin-left:{{ level | minus: 1 }}em">
       <a href="{{ page.url }}#{{ id }}">{{ text }}</a>
     </p>
 
-  {% endif %}
-{% endfor %}
+  {%- endif -%}
+{%- endfor -%}
 
 </details>
       
-{% else %}
-  {% assign used_subpaths = "" | split: "" %}
-  {% for page in pages_under %}
-  {% assign subpath = page.url | remove: base_path | split: "/" | first %}
+{%- else -%}
+  {%- assign used_subpaths = "" | split: "" -%}
+  {%- for page in pages_under -%}
+  {%- assign subpath = page.url | remove: base_path | split: "/" | first -%}
   Subpath: {{ subpath }}<br>
-  {% if used_subpaths contain subpath %}
-  {% continue %}
-  {% else %}
-  {% assign used_subpaths = used_subpaths | append: subpath %}
-  {% endif %}
+  {%- if used_subpaths contain subpath -%}
+  {%- continue -%}
+  {%- else -%}
+  {%- assign used_subpaths = used_subpaths | append: subpath -%}
+  {%- endif -%}
   
       <details>
         <summary>{{ page.title }}</summary>
         {%- assign new_path = base_path | append: subpath | append: "/" -%}
         {%- include recursive_menu.html permalink_path=new_path -%}
       </details>
-  {% endfor %}
-{% endif %}
-{% endif %}
+  {%- endfor -%}
+{%- endif -%}
+{%- endif -%}

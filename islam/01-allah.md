@@ -4,10 +4,7 @@ permalink: /islam/allah/
 search: true
 ---
 
-## [< Index](/islam/)
-{:.no_toc}
-
-{% include toc.md %}
+**[< Index](/islam/)**
 
 ## Allah's personality traits
 
