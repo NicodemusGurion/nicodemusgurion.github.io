@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What Islam actually teaches
+title: Teachings of Islam
 image: https://i.ibb.co/9H5GWT83/IMG-0248.jpg
 ---
 

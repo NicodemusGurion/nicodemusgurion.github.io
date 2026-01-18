@@ -7,5 +7,17 @@
 {% assign permalink_path = include.permalink_path | default: "/" %}
 
 {{ permalink_path }}.
-{% assign pages_under_path = site.pages | where_exp: "p", "p.url startswith permalink_path" %}
+{% assign pages_under_path = "" | split: "" %}
+
+{% for p in site.pages %}
+  {% if p.url != nil and p.url.size >= permalink_path.size %}
+    {% assign prefix = p.url | slice: 0, permalink_path.size %}
+    {% if prefix == permalink_path %}
+      {% assign pages_under_path = pages_under_path | push: p %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% assign pages_under_path = pages_under_path | sort: "url" %}
+
 pages path size {{ pages_under_path.size }}.
