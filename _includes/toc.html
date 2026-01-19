@@ -2,4 +2,6 @@
 layout: none
 ---
 
-{% include recursive_menu.html permalink_path="/islam/allah" %}
+{% assign toc_path = include.permalink_path | default: "/" %}
+
+{% include recursive_menu.html permalink_path=toc_path %}
