@@ -4,7 +4,7 @@
 {%- endcomment -%}
 
 {%- assign base_path = include.permalink_path | default: "/" -%}
-
+This incursion base path: {{base_path}}<br>
 {%- assign last_char = base_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
   {%- assign base_path = base_path | append: "/" -%}
@@ -15,7 +15,9 @@
 {%- for p in site.pages -%}
   {%- if p.url -%}
     {%- assign prefix = p.url | slice: 0, base_path.size -%}
+Prefix: {{ prefix }}<br>
     {%- if prefix == base_path -%}
+    
       {%- assign pages_under = pages_under | push: p -%}
     {%- endif -%}
   {%- endif -%}
@@ -66,7 +68,9 @@ Doing multiple pages <br>
         {%- assign new_path = base_path | append: subpath -%}
         
         {%- unless new_path == base_path -%}
+Recursing, new path: {{ new_path }}<br>
   {%- include recursive_menu.html permalink_path=new_path -%}
+Returning from recursion to {{ base_path }}<br>
         {%- endunless -%}
         
       </details>
