@@ -20,6 +20,7 @@
 {%- assign pages_under = pages_under | sort: "url" -%}
 {%- if pages_under.size > 0 -%}
 {%- if pages_under.size == 1 -%}
+Doing single page <br>
 {%- assign page = pages_under[0] -%}
 <details><summary><a href="{{ page.url }}">{{ page.title }}</a></summary>
 {%- assign html = page.content -%}
@@ -43,11 +44,15 @@
 </details>
       
 {%- else -%}
+Doing multiple pages <br>
   {%- assign used_subpaths = "" | split: "" -%}
   {%- for page in pages_under -%}
-  {%- assign subpath = page.url | remove: base_path | split: "/" | first -%}
+  page url: {{ page.url }}<br>
+  Base path: {{ base_path }}<br>
+  {%- assign subpath = page.url | remove_first: base_path | split: "/" | first -%}
   Subpath: {{ subpath }}<br>
     {%- unless used_subpaths contains subpath -%}
+    New subpaths<br>
   {%- assign used_subpaths = used_subpaths | push: subpath -%}
       <details>
         <summary>{{ page.title }}</summary>
