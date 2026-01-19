@@ -15,9 +15,12 @@ details p::before {
 }
 </style>
 {%- assign base_path = include.permalink_path | default: "/" -%}
-{%- unless base_path endswith "/" -%}
+
+{%- assign last_char = base_path | slice: -1, 1 -%}
+{%- unless last_char == "/" -%}
   {%- assign base_path = base_path | append: "/" -%}
 {%- endunless -%}
+
 <div markdown="0">
 {%- include recursive_menu.html permalink_path=base_path -%}
 </div>
