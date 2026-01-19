@@ -57,7 +57,9 @@ Doing multiple pages <br>
       <details>
         <summary>{{ page.title }}</summary>
         {%- assign new_path = base_path | append: subpath | append: "/" | remove: "//" -%}
+        {%- assign old_base_path = base_path %}
         {%- include recursive_menu.html permalink_path=new_path -%}
+        {%- assign base_path = old_base_path %}
       </details>
     {%- endunless -%}
   {%- endfor -%}
