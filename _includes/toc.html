@@ -14,7 +14,10 @@ details p::before {
   color: #333;
 }
 </style>
-{%- assign toc_path = include.permalink_path | default: "/" -%}
+{%- assign base_path = include.permalink_path | default: "/" -%}
+{%- unless base_path endswith "/" -%}
+  {%- assign base_path = base_path | append: "/" -%}
+{%- endunless -%}
 <div markdown="0">
-{%- include recursive_menu.html permalink_path=toc_path -%}
+{%- include recursive_menu.html permalink_path=base_path -%}
 </div>

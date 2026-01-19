@@ -19,7 +19,7 @@
 
 {%- assign pages_under = pages_under | sort: "url" -%}
 {%- if pages_under.size > 0 -%}
-{%- if pages_under.size == 1 or page.url == base_path -%}
+{%- if pages_under.size == 1 and pages_under[0].url == base_path -%}
 Doing single page <br>
 {%- assign page = pages_under[0] -%}
 <details><summary><a href="{{ page.url }}">{{ page.title }}</a></summary>
@@ -50,18 +50,24 @@ Doing multiple pages <br>
   page url: {{ page.url }}<br>
   Base path: {{ base_path }}<br>
   {%- assign subpath = page.url | remove_first: base_path | split: "/" | first -%}
+  {%- unless subpath == "" -%}
+
+
   Subpath: {{ subpath }}<br>
     {%- unless used_subpaths contains subpath -%}
     New subpaths<br>
   {%- assign used_subpaths = used_subpaths | push: subpath -%}
       <details>
         <summary>{{ page.title }}</summary>
-        {%- assign new_path = base_path | append: subpath | append: "/" | remove: "//" -%}
-        {%- assign old_base_path = base_path %}
-        {%- include recursive_menu.html permalink_path=new_path -%}
-        {%- assign base_path = old_base_path %}
+        {%- assign new_path = base_path | append: subpath | append: "/" -%}
+        
+        {%- unless new_path == base_path -%}
+  {%- include recursive_menu.html permalink_path=new_path -%}
+        {%- endunless -%}
+        
       </details>
     {%- endunless -%}
+   {%- endunless -%}
   {%- endfor -%}
 {%- endif -%}
 {%- endif -%}
