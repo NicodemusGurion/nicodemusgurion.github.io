@@ -18,12 +18,8 @@
 {%- endfor -%}
 
 {%- assign pages_under = pages_under | sort: "url" -%}
-Num pages {{ pages_under.size }}<br>
-
 {%- if pages_under.size > 0 -%}
-
 {%- if pages_under.size == 1 -%}
-
 {%- assign page = pages_under[0] -%}
 <details><summary><a href="{{ page.url }}">{{ page.title }}</a></summary>
 {%- assign html = page.content -%}
