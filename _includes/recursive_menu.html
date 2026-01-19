@@ -5,6 +5,10 @@
 
 {%- assign base_path = include.permalink_path | default: "/" -%}
 
+{%- assign last_char = base_path | slice: -1, 1 -%}
+{%- unless last_char == "/" -%}
+  {%- assign base_path = base_path | append: "/" -%}
+{%- endunless -%}
 
 {%- assign pages_under = "" | split: "" -%}
 
