@@ -1,3 +1,19 @@
+<style>
+details details {
+  margin-left: 20px;
+}
+details p {
+  margin:0;
+  padding-left: 25px; /* or use padding-left */
+  line-height: 1;
+}
+details p::before {
+  content: "•";       /* the bullet character */
+  position: relative;
+  left:-5px;
+  color: #333;        /* bullet color */
+}
+</style>
 {%- assign toc_path = include.permalink_path | default: "/" -%}
 <div markdown="0">
 {%- include recursive_menu.html permalink_path=toc_path -%}
