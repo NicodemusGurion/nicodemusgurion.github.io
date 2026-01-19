@@ -47,17 +47,14 @@
   {%- for page in pages_under -%}
   {%- assign subpath = page.url | remove: base_path | split: "/" | first -%}
   Subpath: {{ subpath }}<br>
-  {%- if used_subpaths contain subpath -%}
-  {%- continue -%}
-  {%- else -%}
-  {%- assign used_subpaths = used_subpaths | append: subpath -%}
-  {%- endif -%}
-  
+    {%- unless used_subpaths contains subpath -%}
+  {%- assign used_subpaths = used_subpaths | push: subpath -%}
       <details>
         <summary>{{ page.title }}</summary>
         {%- assign new_path = base_path | append: subpath | append: "/" -%}
         {%- include recursive_menu.html permalink_path=new_path -%}
       </details>
+    {%- endunless -%}
   {%- endfor -%}
 {%- endif -%}
 {%- endif -%}

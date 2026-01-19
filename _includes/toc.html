@@ -4,14 +4,14 @@ details details {
 }
 details p {
   margin:0;
-  padding-left: 25px; /* or use padding-left */
+  padding-left: 25px;
   line-height: 1;
 }
 details p::before {
-  content: "•";       /* the bullet character */
+  content: "•";
   position: relative;
   left:-5px;
-  color: #333;        /* bullet color */
+  color: #333;
 }
 </style>
 {%- assign toc_path = include.permalink_path | default: "/" -%}
