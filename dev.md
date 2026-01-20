@@ -6,7 +6,7 @@ layout: page
 
 {% assign sortable = "" | split: "" %}
 
-{% assign mypages = site.pages | where: "toc" %}
+{% assign mypages = site.pages | where: "toc", "true" %}
 
 {% for p in mypages %}
   {% if p.title %}
