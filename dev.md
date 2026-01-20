@@ -5,7 +5,6 @@ layout: page
 ---
 
 {% assign sortable = "" | split: "" %}
-
 {% assign mypages = site.pages | where: "toc", "true" %}
 
 {% for p in mypages %}
@@ -23,7 +22,7 @@ layout: page
 
 {% assign sortable = sortable | sort %}
 
-<ul class="toc-root">
+<div class="toc-root">
 {% assign prev_depth = 0 %}
 
 {% for entry in sortable %}
@@ -31,29 +30,42 @@ layout: page
   {% assign sortkey = parts[0] | strip %}
   {% assign url = parts[1] %}
   {% assign title = parts[2] %}
-
   {% assign depth = sortkey | split: "/" | size | minus: 2 %}
+
+  {% assign next_entry = sortable[forloop.index] %}
+  {% if next_entry %}
+    {% assign next_parts = next_entry | split: "|||" %}
+    {% assign next_sortkey = next_parts[0] | strip %}
+    {% assign next_depth = next_sortkey | split: "/" | size | minus: 2 %}
+  {% else %}
+    {% assign next_depth = -1 %}
+  {% endif %}
 
   {% if depth > prev_depth %}
     {% for i in (prev_depth..depth-1) %}
-      <ul>
+      <div class="toc-level">
     {% endfor %}
   {% elsif depth < prev_depth %}
     {% for i in (depth..prev_depth-1) %}
-      </li></ul>
+      </details></div>
     {% endfor %}
-    </li>
-  {% else %}
-    </li>
   {% endif %}
 
-  <li>
-    <a href="{{ url }}">{{ title }}</a>
+  {% if next_depth > depth %}
+    <details>
+      <summary>
+        <a href="{{ url }}">{{ title }}</a>
+      </summary>
+  {% else %}
+    <p>
+      <a href="{{ url }}">{{ title }}</a>
+    </p>
+  {% endif %}
 
   {% assign prev_depth = depth %}
 {% endfor %}
 
 {% for i in (0..prev_depth-1) %}
-  </li></ul>
+  </details></div>
 {% endfor %}
-</ul>
+</div>
