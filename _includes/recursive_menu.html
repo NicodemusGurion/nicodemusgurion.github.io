@@ -25,7 +25,7 @@
 {%-     assign prefix = sortpath 
         | slice: 0, base_path.size -%}
 {%-     if prefix == base_path -%}
-Prefix {{ prefix }} base path {{base_oath }} page URL {{p.url}} page toc path {{p.tocpath}}<br>
+Prefix {{ prefix }}, base path {{base_path }}, page URL {{p.url}}, page toc path {{p.tocpath}}<br>
 {%-       assign pages_under = pages_under | push: p -%}
 {%-     endif -%}
 {%-   endif -%}
