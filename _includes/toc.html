@@ -13,6 +13,29 @@ p.listitem::before {
   left:-5px;
   color: #333;
 }
+
+/* Remove default triangle */
+details > summary::-webkit-details-marker {
+  display: none;
+}
+details > summary::marker {
+  content: none; /* For Firefox */
+}
+
+/* Add custom arrow */
+details > summary::before {
+  content: "►";       /* Right-pointing arrow (▶ works too) */
+  display: inline-block;
+  width: 1em;
+  margin-right: 0.3em;
+  font-size: 1.5em;   /* 150% size */
+  transition: transform 0.2s ease;
+}
+
+/* Rotate arrow when open */
+details[open] > summary::before {
+  transform: rotate(90deg);
+}
 </style>
 {%- assign base_path = include.permalink_path | default: "/" -%}
 
