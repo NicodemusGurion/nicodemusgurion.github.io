@@ -69,7 +69,11 @@ Doing multiple pages <br>
         
         {%- unless new_path == base_path -%}
 Recursing, new path: {{ new_path }}<br>
+{%- assign old_path = base_path -%}
+Base path before recursing {{ base_path }}<br>
   {%- include recursive_menu.html permalink_path=new_path -%}
+Base path after recursing {{ base_path }}<br>
+{%- assign base_path = old_path -%}
 Returning from recursion to {{ base_path }}<br>
         {%- endunless -%}
         
