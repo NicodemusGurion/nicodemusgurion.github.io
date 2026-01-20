@@ -2,15 +2,13 @@
 title: Islam's morality
 permalink: /islam/morals/
 search: true
+toc: true
 ---
 
-## [< Index](/islam/)
-{:.no_toc}
-
-{% include toc.md %}
+**[< Index](/islam/)**
 
 
-# Divorce
+## Divorce
 
 [Surah 2:230](https://quran.com/2/230)
 
@@ -23,11 +21,11 @@ In Deuteronomy 24:1-4 gives the exact opposite command:
 > “When a man takes a wife and marries her, … and he writes her a certificate of divorce … and if she goes and becomes another man’s wife, 3 and the latter man hates her and writes her a certificate of divorce … then her former husband, who sent her away, may **not** take her again to be his wife, after she has been defiled, for that is an abomination before the LORD. 
 
 
-# Intoxicants 
+## Intoxicants 
 
 See [Surah 5:90,91](https://quran.com/5/90,91)[; 16:65-69](https://quran.com/16/65-69)[; 37:43-46](https://quran.com/37/43-46)[; 47:15](https://quran.com/47/15)[; 83:22-26](https://quran.com/83/22-26)
 
-## Intoxicants (wine) is one of the blessings of Allah
+### Intoxicants (wine) is one of the blessings of Allah
 
 [Surah 16:65-69](https://quran.com/16/65-69)
 
@@ -37,7 +35,7 @@ These verses lists some blessings of Allah, which includes rains to revive the e
 
 So wine is a blessing of Allah.
 
-## Wine is from Satan
+### Wine is from Satan
 
 [Surah 5:90,91](https://quran.com/5/90,91)
 
@@ -46,7 +44,7 @@ So wine is a blessing of Allah.
 So wine is bad, mkay?
 
 
-## Allah serves wine in Paradise
+### Allah serves wine in Paradise
 
 [Surah 47:15](https://quran.com/47/15)
 
@@ -60,7 +58,7 @@ But wait, isn't wine a blessing of Allah?
 
 Are perhaps Satan and Allah the same person?
 
-## If someone drinks wine they should be flogged to death
+### If someone drinks wine they should be flogged to death
 
 [Sunan Abi Dawud 4482](https://sunnah.com/abudawud:4482)
 
@@ -70,9 +68,9 @@ See also:
 
 - [Sunan Abi Dawud 4484](https://sunnah.com/abudawud:4484)
 
-# Lying 
+## Lying 
 
-## Three situations in which you can lie
+### Three situations in which you can lie
 
 [Sunan Abi Dawud 4921 (Sahih)](https://sunnah.com/abudawud:4921)
 
@@ -89,7 +87,7 @@ These pretty much cover all of the human conditions: peaceful, non-peaceful and 
 
 In other words, lying is basically permitted at any and all times for any and all reasons to any and all people, which means that you can never trust a Muslim. A religion that sanctions lying can logically not be the truth. It can only come from the Father of Lies, Satan. (John 8:44)
 
-## You can break an oath if you have a better alternative 
+### You can break an oath if you have a better alternative 
 
 [Riyad as-Salihin 1716](https://sunnah.com/riyadussalihin:1716)
 
@@ -97,14 +95,14 @@ In other words, lying is basically permitted at any and all times for any and al
 
 Islam is based on lies and dishonesty.
 
-## Allah has ordained for the breaking of oaths
+### Allah has ordained for the breaking of oaths
 
 [Surah 66:2](https://quran.com/66/2)
 
 > Allah has already ordained for you ˹believers˺ the way to absolve yourselves from your oaths. For Allah is your Guardian. And He is the All-Knowing, All-Wise.
 
 
-## Breaking an oath comes with ridiculously trivial consequences 
+### Breaking an oath comes with ridiculously trivial consequences 
 
 [Surah 5:89](https://quran.com/5/89)
 
@@ -114,10 +112,10 @@ Just label an oath "thoughtless" and you don't have to hold your word. Otherwise
 
 
 
-# Art and entertainment is prohibited
+## Art and entertainment is prohibited
 
 
-## Music and singing is a sin
+### Music and singing is a sin
 
 [Sunan Ibn Majah 4020](https://sunnah.com/ibnmajah:4020)
 
@@ -125,7 +123,7 @@ Just label an oath "thoughtless" and you don't have to hold your word. Otherwise
 
 Listening to music will cause you to be turned into a pig. But rape is totally fine.
 
-### Poetry is a sin {#poetry}
+#### Poetry is a sin {#poetry}
 
 [Sahih al-Bukhari 6155](https://sunnah.com/bukhari:6155)
 
@@ -138,7 +136,7 @@ See also:
 - [Sunan Ibn Majah 3759](https://sunnah.com/ibnmajah:3759)
 - [Sunan Ibn Majah 3760](https://sunnah.com/ibnmajah:3760)
 
-## Backgammon is forbidden
+### Backgammon is forbidden
 
 [Sunan Ibn Majah 3763](https://sunnah.com/ibnmajah:3763)
 
@@ -150,16 +148,16 @@ See also:
 - [Al-Adab Al-Mufrad 1277](https://sunnah.com/adab:1277)
 
 
-# Racism
+## Racism
 
-## Blacks are worth half as much
+### Blacks are worth half as much
 
 Muhammad owned and traded black slaves. The going rate was two black slaves for one Arabic slave. 
 
 See [Muhammad traded black slaves](#black-slaves).
 
 
-## Black people were created for hell {#blacks-made-for-hell}
+### Black people were created for hell {#blacks-made-for-hell}
 
 [Mishkat al-Masabih 119](https://sunnah.com/mishkat:119)
 
@@ -167,13 +165,13 @@ See [Muhammad traded black slaves](#black-slaves).
 
 According to Muhammed, white people are destined for heaven and black people are destined for hell.
 
-## Those condemned by Allah turns black {#blackface-hell}
+### Those condemned by Allah turns black {#blackface-hell}
 
 [Surah 3:106-107](https://quran.com/3/106-107)
 
 > on a day when some faces are whitened and some faces are blackened. So as for those whose faces were blackened: “Did you deny after having attained faith?” Then taste the punishment on account of what you used to deny. And as for those whose faces were whitened—(they are) in Allah’s mercy; therein they abide.
 
-## Black people symbolize disease {#black-disease}
+### Black people symbolize disease {#black-disease}
 
 [Sahih al-Bukhari 7039](https://sunnah.com/bukhari:7039)
 
@@ -182,7 +180,7 @@ According to Muhammed, white people are destined for heaven and black people are
 When Muhammad sees a black woman in a dream he automatically assumes she represents an epidemic.
 
 
-## Turks look like their faces were hit with a hammer {#turks}
+### Turks look like their faces were hit with a hammer {#turks}
 
 [Sahih Muslim 2912 d](https://sunnah.com/muslim:2912d)
 
@@ -199,7 +197,7 @@ See also:
 - [Sunan an-Nasa'i 3177](https://sunnah.com/nasai:3177)
 
 
-## Ethiopians have heads like raisins {#raisin-heads}
+### Ethiopians have heads like raisins {#raisin-heads}
 
 [Sahih al-Bukhari 693](https://sunnah.com/bukhari:693)
 
@@ -207,7 +205,7 @@ See also:
 
 See also [Sahih al-Bukhari 7142](https://sunnah.com/bukhari:7142)
 
-## Use of racist slurs {#nword}
+### Use of racist slurs {#nword}
 
 [Sahih al-Bukhari 2906, 2907](https://sunnah.com/bukhari:2906)
 
@@ -215,13 +213,13 @@ See also [Sahih al-Bukhari 7142](https://sunnah.com/bukhari:7142)
 
 According to Muhammad, it seems that black people are only good for entertainment and should be addressed in a condescending way.
 
-## Muhammad didn't like black dogs {#black-dogs}
+### Muhammad didn't like black dogs {#black-dogs}
 
 [Sunan Ibn Majah 3205](https://sunnah.com/ibnmajah:3205)
 
 > Were it not that dogs form one of the communities, I would have commanded that they be killed. But kill those that are all black...
 
-## Black dogs are satanic
+### Black dogs are satanic
 
 [Sunan an-Nasa'i 750](https://sunnah.com/nasai:750)
 
@@ -233,11 +231,11 @@ According to Muhammad, it seems that black people are only good for entertainmen
 
 
 
-# Sexuality
+## Sexuality
 
-## Islam promotes pedophilia
+### Islam promotes pedophilia
 
-### Mohammed raped a nine year old girl 
+#### Mohammed raped a nine year old girl 
 
 Since children are incapable of understanding or consenting to sexual acts, any sexual act conducted with a child is an act of rape.
 
@@ -275,7 +273,7 @@ See also:
 - [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
 - [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
-### Muhammad was flabbergasted that other men were not pedophiles
+#### Muhammad was flabbergasted that other men were not pedophiles
 
 [Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
 
@@ -284,7 +282,7 @@ See also:
 The fact that other men are not drawn to sexually abuse children makes Muhammad shocked.
 
 
-## Muhammad tongue-kissed a little boy
+### Muhammad tongue-kissed a little boy
 
 Muhammad's list for children was not limited to little girls. Little boys were not safe from this creep either.
 
@@ -292,7 +290,7 @@ Muhammad's list for children was not limited to little girls. Little boys were n
 
 > …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, **opened his mouth and put his mouth in his mouth**. Then he said, O Allah, I love him, so love him and the one who loves him!'"
 
-### The Quran promotes child marriage
+#### The Quran promotes child marriage
 
 [Surah 65:1](https://quran.com/65/1) gives us the context for the passage in [Surah 65:1-4](https://quran.com/65/1-4): "When you intend to˺ divorce women, then divorce them with concern for their waiting period"". This passage is about the rules for the waiting period when you divorce a woman that she has to wait before she can remarry. In order to dis or e a woman you must first have had married her.
 
@@ -306,9 +304,9 @@ But, on the other side of that spectrum, those who have **not** menstruated, tha
 
 So in other words, the Quran outright condones and facilitates marrying children!
 
-## Rape
+### Rape
 
-### Captured women may be freely raped {#raping-captives}
+#### Captured women may be freely raped {#raping-captives}
 
 [Sunan Abi Dawud 2155](https://sunnah.com/abudawud:2155)
 
@@ -320,7 +318,7 @@ So in other words, the Quran outright condones and facilitates marrying children
 
 > Also ˹forbidden are˺ married women—except ˹female˺ captives in your possession...
 
-### Impregnating rape victims is of no concern
+#### Impregnating rape victims is of no concern
 
 [Sahih Muslim 1438a](https://sunnah.com/muslim:1438a)
 
@@ -330,7 +328,7 @@ Not only are Muslims allowed to rape women, but can just discard them like trash
 
 
 
-## Muslims men can have sex slaves
+### Muslims men can have sex slaves
 
 [Surah 4:3](https://quran.com/4/3) 
 
@@ -366,11 +364,11 @@ They're not allowed to have sex with married women **except** if these **married
 
 
 
-# Slavery
+## Slavery
 
 See also [Muhammad and slavery](#muhammad-and-slavery), [Sex slaves](#sex-slaves)
 
-## Runaway slaves lack protection
+### Runaway slaves lack protection
 
 [Mishkat al-Masabih 3350](https://sunnah.com/mishkat:3350)
 
@@ -380,29 +378,29 @@ Compare to the Mosaic law in Deuteronomy 23:15-16:
 
 > “You shall not give up to his master a slave who has escaped from his master to you. He shall dwell with you, in your midst, in the place that he shall choose within one of your towns, wherever it suits him. You shall not wrong him.
 
-## Gifting slaves is better than freeing them
+### Gifting slaves is better than freeing them
 
 [Sahih Muslim 999](https://sunnah.com/muslim:999)
 
 > Maimuna bint Harith reported that she set free a slave-girl during the lifetime of the Messenger of Allah and she made a mention of that to the Messenger of Allah and he said: Had you given her to your maternal uncles, you would have a greater reward.
 
-## Value of slaves
+### Value of slaves
 
 [Muwatta Malik Book 20, Hadith 243](https://sunnah.com/urn/409590)
 
 > The value of the newly-born slave is fifty dinars, and that is one-tenth of what the blood-money for the mother would be.
 
-## Black slaves are worth half of Arab slaves {#black-slaves-worth-less}
+### Black slaves are worth half of Arab slaves {#black-slaves-worth-less}
 
 See [Muhammad traded black slaves](#black-slaves), [Racism](#racism).
 
-## You may flog your slaves (and your wife) {#flog-slaves}
+### You may flog your slaves (and your wife) {#flog-slaves}
 
 [Sahih al-Bukhari 5204](https://sunnah.com/bukhari:5204)
 
 > The Prophet said, "None of you should flog his wife as he flogs a slave and then have sexual intercourse with her in the last part of the day."
 
-## Slaves should be flogged for sins
+### Slaves should be flogged for sins
 
 
 [Sahih al-Bukhari 6837, 6838](https://sunnah.com/bukhari:6837)
@@ -425,10 +423,10 @@ See also:
 
 
 
-# Theft
+## Theft
 
 
-## Plundering is ok if no one is watching
+### Plundering is ok if no one is watching
 
 [Sahih al Bukhari 6772](https://sunnah.com/bukhari:6772)
 
@@ -446,14 +444,14 @@ So plundering only makes a Muslim a nonbeliever under the condition that they do
 
 
 
-# Violence and Jihad 
+## Violence and Jihad 
 
 
 See also [Muhammad and violence](/islam/muhammad/#muhammad-violence).
 
-## Standing orders to fight the world
+### Standing orders to fight the world
 
-### What triggered Jihad {#allah-allows-jihad}
+#### What triggered Jihad {#allah-allows-jihad}
 
 [Sunan an-Nasa'i 3085](https://sunnah.com/nasai:3085)
 
@@ -462,7 +460,7 @@ See also [Muhammad and violence](/islam/muhammad/#muhammad-violence).
 When Muhammad and his tiny band of followers were kicked out of Mecca for being a nuisance, Muhammad had a convenient revelation ([Surah 23:39](https://quran.com/23/39)) where Allah gave him permission to convert his cult into the death machine that has plagued mankind since.
 
 
-### Fight the unbelievers until they convert
+#### Fight the unbelievers until they convert
 
 [Sahih al-Bukhari 25](https://sunnah.com/bukhari:25)
 
@@ -479,7 +477,7 @@ Also:
 - [Sunan Ibn Majah 3928](https://sunnah.com/ibnmajah:3928)
 - [Sunan Ibn Majah 3929](https://sunnah.com/ibnmajah:3929)
 
-### "Kill unbelievers wherever you find them"
+#### "Kill unbelievers wherever you find them"
 
 [Surah 4:89](https://quran.com/4/89)
 
@@ -493,13 +491,13 @@ Do not befriend unbelievers but **seize them and kill them wherever you find the
 
 If someone just wants to **be safe from** Islam and just want to live their life in peace and not be bothered, then **seize them and kill them** too.
 
-### Behead enemies
+#### Behead enemies
 
 [Quran 47:4](https://quran.com/47/4?translations=149)
 
 > Thus, when you encounter those who have denied, strike at their necks. Then when you have subjugated them, bind them firmly…
 
-### Behead unbelievers
+#### Behead unbelievers
 
 [Surah 8:12](https://quran.com/8/12)
 
@@ -507,7 +505,7 @@ If someone just wants to **be safe from** Islam and just want to live their life
 
 Ever wondered why Islamic terrorists behead their victims? It's by the book.
 
-### Terrorizing and killing unbelievers
+#### Terrorizing and killing unbelievers
 
 [Surah 3:151-152](https://quran.com/3/151-152)
 
@@ -517,42 +515,42 @@ Allah will use **terror** against unbelievers. By what method? By Muslims **kill
 
 
 
-## View on violence and terrorism
+### View on violence and terrorism
 
 
-### Fighting is the second best deed in Islam
+#### Fighting is the second best deed in Islam
 
 [Sahih al-Bukhari 26](https://sunnah.com/bukhari:26)
 
 > Allah's Messenger was asked, "What is the best deed?" He replied, "To believe in Allah and His Apostle (Muhammad). The questioner then asked, "What is the next in goodness? He replied, "To participate in Jihad (religious fighting) in Allah's Cause."
 
 
-### Jihadis are rewarded with booty and paradise
+#### Jihadis are rewarded with booty and paradise
 
 [Sahih al-Bukhari 36](https://sunnah.com/bukhari:36)
 
 > The Prophet said, "The person who participates in (Holy battles) in Allah's cause and nothing compels him to do so except belief in Allah and His Apostles, will be recompensed by Allah either with a reward, or booty (if he survives) or will be admitted to Paradise (if he is killed in the battle as a martyr). 
 
-### Those who die for Allah are the best of people
+#### Those who die for Allah are the best of people
 
 [Sunan an-Nasa'i 3106](https://sunnah.com/nasai:3106)
 
 > Among the best of the people is a man who strives in the cause of Allah on the back of his horse, or on the back of his camel, or on his own two feet, until death comes to him.
 
-### The best jihad is where blood is shed
+#### The best jihad is where blood is shed
 
 
 [Sunan Ibn Majah 2794](https://sunnah.com/ibnmajah:2794)
 
 > It was narrated that ‘Amr bin ‘Abasah said: “I came to the Prophet and said: ‘O Messenger of Allah, which Jihad is best?’ He said: ‘(That of a man) whose blood is shed and his horse is wounded.’”
 
-### Allah likes terrorists more than peaceful Muslims 
+#### Allah likes terrorists more than peaceful Muslims 
 
 [Surah 4:95](https://quran.com/4/95)
 
 >  Those believers who stay at home—except those with valid excuses1—are not equal to those who strive in the cause of Allah with their wealth and their lives.…
 
-### Fighting is obligatory for Muslims 
+#### Fighting is obligatory for Muslims 
 
 [Surah 2:216](https://quran.com/2/216)
 
@@ -561,7 +559,7 @@ Allah will use **terror** against unbelievers. By what method? By Muslims **kill
 Apparently Allah thinks violence is good for humans. 
 
 
-### Muslims "kill and are killed" for Allah
+#### Muslims "kill and are killed" for Allah
 
 [Surah 9:111](https://quran.com/9/111)
 
@@ -569,13 +567,13 @@ Apparently Allah thinks violence is good for humans.
 
 In order to get paradise a Muslim must sell his soul to Allah, and they do this by fighting for Allah, Killing and being killed.
 
-### Muslims not fighting are hypocrites
+#### Muslims not fighting are hypocrites
 
 [Sunan an-Nasa'i 3097](https://sunnah.com/nasai:3097)
 
 > "Whoever dies without having fought or thought of fighting, he dies on one of the branches of hypocrisy."
 
-### Muslims not fighting for Islam are punished with hell
+#### Muslims not fighting for Islam are punished with hell
 
 [Surah 8:15-16](https://quran.com/8/15-16)
 
@@ -584,7 +582,7 @@ In order to get paradise a Muslim must sell his soul to Allah, and they do this 
 A Muslim who chickens out and turns his back on a disbeliever will go to hell.
 
 
-### Killing disbelievers guarantees immunity from hell
+#### Killing disbelievers guarantees immunity from hell
 
 [Sunan an-Nasa'i 3109](https://sunnah.com/nasai:3109)
 
@@ -595,10 +593,10 @@ A Muslim who chickens out and turns his back on a disbeliever will go to hell.
 > Anyone whose feet become dusty in the cause of Allah, he will be forbidden to the Fire
 
 
-## View on those who resist Islamic violence 
+### View on those who resist Islamic violence 
 
 
-### Resisting Islam is severely punished
+#### Resisting Islam is severely punished
 
 [Surah 5:33](https://quran.com/5/33)
 
@@ -607,13 +605,13 @@ A Muslim who chickens out and turns his back on a disbeliever will go to hell.
 In case you wage war against Islam, for example by exposing what a horrible ideology it is, your punishment is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land** and then to burn in hell for all eternity.
 
 
-### Even stones will help jihadists to kill Jews 
+#### Even stones will help jihadists to kill Jews 
 
 [Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
 
 > …"The Hour will not be established until you fight with the Jews, and the stone behind which a Jew will be hiding will say. "O Muslim! There is a Jew hiding behind me, so kill him."
 
-## Muslims can indiscriminately kill innocent civilians 
+### Muslims can indiscriminately kill innocent civilians 
 
 [Sahih al-Bukhari 3012](https://sunnah.com/bukhari:3012)
 

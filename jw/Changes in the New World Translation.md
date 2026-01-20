@@ -3,8 +3,11 @@ layout: page
 title: Changes in the New World Translation
 image: https://i.ibb.co/JvTTgWS/7-Lf9-Geg1-o.jpg
 thumb: https://i.ibb.co/48LL3w0/7-Lf9-Geg1-o.jpg
-permalink: /nwt/
+permalink: /jw/nwt/
+search: true
+toc: true
 ---
+
 The Watchtower corporation boasts that the New World Translation is the best and most accurate Bible translation. They say they have translated it to convey the correct meaning. But when scrutinized it turns out that the New World Translation team has both added, removed and changed words and phrases to fit their own doctrines. This is condemned in scripture as a serious sin. (Deuteronomy 4:2; Proverbs 30:5,6; Revelation 22:18,19) 
 
 Apart from this the translation is also very clunky and inelegant, choosing such phrases as "dominant mental attitude" rather than just "mind".

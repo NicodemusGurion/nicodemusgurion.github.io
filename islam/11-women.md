@@ -2,12 +2,10 @@
 title: Islam's view of women
 permalink: /islam/women/
 search: true
+toc: true
 ---
 
-## [< Index](/islam/)
-{:.no_toc}
-
-{% include toc.md %}
+**[< Index](/islam/)**
 
 ## Violence against women
 

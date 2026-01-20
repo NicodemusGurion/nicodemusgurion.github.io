@@ -2,18 +2,15 @@
 title: General Islamic Theology
 permalink: /islam/theology/
 search: true
+toc: true
 ---
 
-## [< Index](/islam/)
-{:.no_toc}
+**[< Index](/islam/)**
 
 
-{% include toc.md %}
+## Adam
 
-
-# Adam
-
-## Adam was 60 cubits tall
+### Adam was 60 cubits tall
 
 [Sahih Muslim 2834 c](https://web.archive.org/web/20240310050216/https://sunnah.com/muslim:2834c)
 
@@ -21,7 +18,7 @@ search: true
 
 1 Arabic cubit was traditionally 64 cm long, which means Adam would be 38.4 meters tall.
 
-## Adam was created in Allahs image 
+### Adam was created in Allahs image 
 
 [Sahih Muslim 2612 e](https://sunnah.com/muslim:2612e)
 
@@ -33,9 +30,9 @@ Muslims however understand it not as that you shouldn't fight or hurt others, bu
 
 
 
-# Angels
+## Angels
 
-## Angels are afraid of dogs and pictures
+### Angels are afraid of dogs and pictures
 
 [Sahih al-Bukhari 4002](https://sunnah.com/bukhari:4002)
 
@@ -43,9 +40,9 @@ Muslims however understand it not as that you shouldn't fight or hurt others, bu
 
 
 
-# Death
+## Death
 
-## Grieving tortures the deceased 
+### Grieving tortures the deceased 
 
 
 [Sahih al-Bukhari 1286, 1287, 1288](https://sunnah.com/bukhari:1286)
@@ -60,15 +57,15 @@ Muslims however understand it not as that you shouldn't fight or hurt others, bu
 
 
 
-# Hell
+## Hell
 
-## Murder victims go to hell
+### Murder victims go to hell
 
 [Sahih al-Bukhari 31](https://sunnah.com/bukhari:31)
 
 > When two Muslims fight (meet) each other with their swords, both the murderer as well as the murdered will go to the Hell-fire.
 
-## All people go to hell
+### All people go to hell
 
 [Surah 19:71](https://quran.com/19/71)
 
@@ -77,16 +74,16 @@ Muslims however understand it not as that you shouldn't fight or hurt others, bu
 So apparently all people, including all Muslims, will go to hell. It's up to the iffy and contradictory means of [salvation](#salvation) that anyone would get out of there.
 
 
-## Hell can think and speak
+### Hell can think and speak
 
 [Jami` at-Tirmidhi 2572](https://sunnah.com/tirmidhi:2572)
 
 > Anas bin Malik narrated that the Messenger of Allah said: "Whoever asks Allah Paradise three times, Paradise says: 'O Allah, admit him into Paradise', and whoever seeks refuge from the Fire three times, the Fire says: 'O Allah, save him from the Fire.'"
 
 
-# Jinn
+## Jinn
 
-## Jinn can be Muslims 
+### Jinn can be Muslims 
 
 [Sunan Abi Dawud 5257](https://sunnah.com/abudawud:5257)
 
@@ -103,11 +100,11 @@ If demons wants you to follow Islam, that should be enough for you to understand
 
 
 
-# The Kaaba and Qiblah {#kaaba}
+## The Kaaba and Qiblah {#kaaba}
 
 The Kaaba is a black cubic temple in Mecca towards which Muslims turn to pray. It used to be a pagan temple with 360 idols in it, until Muhammad conquered Mecca in 630AD and emptied it. In one of the corners of the building sits a big black stone (or actually the fragments of a stone glued together) which Muslims reverently touch and kiss thinking that it erases their sins. This is of course blatant idolatry.
 
-### The Muslims used to pray toward Jerusalem {#jerusalem-qiblah}
+#### The Muslims used to pray toward Jerusalem {#jerusalem-qiblah}
 
 [Sunan an-Nasa'i 488](https://sunnah.com/nasai:488)
 
@@ -128,18 +125,18 @@ See also:
 - [Sahih al-Bukhari 4492](https://sunnah.com/bukhari:4492)
 - [Sunan Ibn Majah 1010](https://sunnah.com/ibnmajah:1010)
 
-### Peeing towards the Qiblah 
+#### Peeing towards the Qiblah 
 
 [Muhammad peed facing the Qiblah]{#peeing-qiblah}
 
-### Pooping toward the Qiblah
+#### Pooping toward the Qiblah
 
 [Muhammad pooped facing the Qiblah]{#pooping-qiblah}
 
 
-## The Black stone {#black-stone}
+### The Black stone {#black-stone}
 
-### The black stone absorbs sins
+#### The black stone absorbs sins
 
 [Mishkat al-Masabih 2577](https://sunnah.com/mishkat:2577)
 
@@ -147,13 +144,13 @@ See also:
 
 See also: [Jami` at-Tirmidhi 877](https://sunnah.com/tirmidhi:877)
 
-### Muhammad touched the black stone
+#### Muhammad touched the black stone
 
 [Sunan Ibn Majah 2946](https://sunnah.com/ibnmajah:2946)
 
 > “The Messenger of Allah did not touch the corners of the Ka’bah apart from the Black Corner (i.e., the corner where the Black Stone is) and the one that is next to it facing the houses of Banu Jumah (i.e., the Yemenite Corner).”
 
-### Kissing the stone is idolatry
+#### Kissing the stone is idolatry
 
 [Sahih al-Bukhari 1597](https://sunnah.com/bukhari:1597)
 
@@ -166,17 +163,17 @@ Even Umar recognized that kissing the black stone was a pointless act of idolatr
 
 
 
-# Paradise
+## Paradise
 
 The Islamic paradise is a very physical place where people will have sex, and eat food. But the food all tastes the same, and they will not poop, but belch out the excrement as musk.
 
-## All fruit looks the same in paradise {#boring-fruit}
+### All fruit looks the same in paradise {#boring-fruit}
 
 [Quran 2:25](https://quran.com/2/25)
 
 > And give glad tidings to those who believe and do righteous deeds that they will have gardens under which rivers flow. Every time they are provided with a provision of fruit therefrom, they will say, “This is what we were provided with before,” for they will be given fruit that resemble one another. They will have purified spouses, and they will abide therein forever.
 
-## Paradise dwellers don't poop but belch and sweat musk {#belching-musk}
+### Paradise dwellers don't poop but belch and sweat musk {#belching-musk}
 
 > I heard Allah's Apostle as saying that the inmates of Paradise would eat and drink but would neither spit, nor pass water, nor void excrement, nor suffer catarrah. It was said: Then, what would happen with food? Thereupon he said: They would belch and sweat (and it would be over with their food), and their sweat would be that of musk and they would glorify and praise Allah as easily as you breathe.
 
@@ -185,19 +182,19 @@ Also:
 - [Riyad as-Salihin 1880](https://sunnah.com/riyadussalihin:1880)
 - [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
-## Paradise dwellers will have 72 wives
+### Paradise dwellers will have 72 wives
 
 [Mishkat al-Masabih 5648](https://sunnah.com/mishkat:5648)
 
 > Abu Sa'id reported God's messenger as saying, "The lowliest of the inhabitants of paradise will be he who has eighty thousand servants, seventy-two wives,...
 
-## Paradise dwellers will have large-eyed houris {#houris}
+### Paradise dwellers will have large-eyed houris {#houris}
 
 [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
 > ...their wives will be large-eyed maidens...
 
-## Paradise dwellers will be about 30 years old 
+### Paradise dwellers will be about 30 years old 
 
 [Jami` at-Tirmidhi 2545](https://sunnah.com/tirmidhi:2545)
 
@@ -207,7 +204,7 @@ See also:
 
 - [Jami` at-Tirmidhi 2539](https://sunnah.com/tirmidhi:2539)
 
-## Paradise dwellers will be 38 meters tall {#tall-people}
+### Paradise dwellers will be 38 meters tall {#tall-people}
 
 [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
@@ -215,25 +212,25 @@ See also:
 
 60 Arabic cubits á 64cm each equals 38.4 meters.
 
-## Huge tree
+### Huge tree
 
 [Sahih al-Bukhari 3252](https://sunnah.com/bukhari:3252)
 
 > The Prophet said "There is a tree in Paradise (which is so big and huge that) a rider could travel in its shade for a hundred years.
 
-## There are 7 heavens {#seven-heavens}
+### There are 7 heavens {#seven-heavens}
 
 [Surah 2:29](https://quran.com/2/29)
 
 > It is He Who created for you all that is in the earth, then He turned towards the heaven and made them seven heavens...
 
-## Paradise can think and speak
+### Paradise can think and speak
 
 [Jami` at-Tirmidhi 2572](https://sunnah.com/tirmidhi:2572)
 
 > Anas bin Malik narrated that the Messenger of Allah said: "Whoever asks Allah Paradise three times, Paradise says: 'O Allah, admit him into Paradise', and whoever seeks refuge from the Fire three times, the Fire says: 'O Allah, save him from the Fire.'"
 
-## Paradise for women
+### Paradise for women
 
 [Sahih al-Bukhari 4879, 4880](https://sunnah.com/bukhari:4879)
 
@@ -241,9 +238,9 @@ See also:
 
 I don't know how a pearl could have corners, but apparently at the corners of this sixty mile wide pearl, Muslim wives are standing, waiting like prostitutes to be sexually used by Muslim men. The islamic afterlife is all about perverted sex.
 
-# Prayer
+## Prayer
 
-## Looking up while praying makes you go blind {#praying-blind}
+### Looking up while praying makes you go blind {#praying-blind}
 
 [Sahih al Bukhari 750](https://sunnah.com/bukhari:750)
 
@@ -255,13 +252,13 @@ However Muhammed looked up to heaven while praying.
 
 > When the Messenger of Allah prayed towards Baitul-Maqdis, he would often lift his face towards the heavens.
 
-## Raising your head before the Imam while praying turns it into a donkey head {#donkey-head}
+### Raising your head before the Imam while praying turns it into a donkey head {#donkey-head}
 
 [Sahih al Bukhari 691](https://sunnah.com/bukhari:691)
 
 > The Prophet said, "Isn't he who raises his head before the Imam afraid that Allah may transform his head into that of a donkey or his figure into that of a donkey?"
 
-## Prayer is nullified by donkeys, black dogs and women {#nullified-prayer}
+### Prayer is nullified by donkeys, black dogs and women {#nullified-prayer}
 
 [Sunan an-Nasa'i 750](https://sunnah.com/nasai:750)
 
@@ -271,7 +268,7 @@ However Muhammed looked up to heaven while praying.
 
 > Narrated Aisha: The things which annul the prayers were mentioned before me. They said, "Prayer is annulled by a dog, a donkey and a woman (if they pass in front of the praying people)."
 
-## Muslims pray to Muhammad 
+### Muslims pray to Muhammad 
 
 This is not part of the Quran or Hadiths but it is worth mentioning since this is part of the Tashahhud, a section of the prayer that all faithful Muslims recite five times every day. In that prayer is a section that goes:
 
@@ -289,9 +286,9 @@ Notice that this is not talking *about* Muhammad, but *to* Muhammad. Muhammad is
 
 
 
-# Resurrection 
+## Resurrection 
 
-## The hour of resurrection 
+### The hour of resurrection 
 
 [Surah 22:6-7](https://quran.com/22/6-7)
 
@@ -311,12 +308,12 @@ The one who is called the truth, and who will raise people to life at the hour o
 
 
 
-# Salvation 
+## Salvation 
 
 How Muslims are saved on judgment day is confusing and contradictory.
 
 
-## Muslims are saved by works
+### Muslims are saved by works
 
 [Surah 13:29](https://quran.com/13/29)[; 18:107](https://quran.com/18/107)[; 22:50](https://quran.com/22/50)[; 30:15](https://quran.com/30/15) 32:19[; 98:7](https://quran.com/98/7)
 
@@ -325,13 +322,13 @@ How Muslims are saved on judgment day is confusing and contradictory.
 Islam is a works-righteousness religion. And as such it can't save, because none of our deeds are good enough to bribe God.
 
 
-## Jews and Christians are also saved
+### Jews and Christians are also saved
 
 [Surah 2:62](https://quran.com/2/62)
 
 > The [Muslim] believers, the Jews, the Christians, and the Sabians- all those who believe in God and the Last Day and do good- will have their rewards with their Lord. 
 
-## No ransom will be accepted for another person {#no-ransom}
+### No ransom will be accepted for another person {#no-ransom}
 
 [Surah 2:48](https://quran.com/2/48)
 
@@ -340,7 +337,7 @@ Islam is a works-righteousness religion. And as such it can't save, because none
 So there will be no ransom for anyone. This contradicts [other sources saying that Muslims can be ransomed](#ransomed-from-hell). 
 
 
-## Ransomed from hell by Jews and Christians {#ransomed-from-hell}
+### Ransomed from hell by Jews and Christians {#ransomed-from-hell}
 
 [Sahih Muslim 2767 a](https://sunnah.com/muslim:2767a)
 
@@ -357,26 +354,26 @@ See also:
 - [Sahih Muslim 2767 b](https://sunnah.com/muslim:2767b)
 - [Riyad as-Salihin 432](https://sunnah.com/riyadussalihin:432)
 
-## The Quran will come and intercede 
+### The Quran will come and intercede 
 
 
 See [The Quran is alive and will intercede on judgment day](#quran-intercession). It will come as a flock of birds and convince Allah to have mercy on those who read it.
 
-## Muhammad can save {#muhammad-saves}
+### Muhammad can save {#muhammad-saves}
 
 [Sahih al-Bukhari 6807](https://sunnah.com/bukhari:6807)
 
 > The Prophet said, "Whoever guarantees me what is between his legs and what is between his jaws, I guarantee him Paradise."
 
 
-## Muhammad can NOT save {#muhammad-saves-not}
+### Muhammad can NOT save {#muhammad-saves-not}
 
 [Sahih al-Bukhari 2753](https://sunnah.com/bukhari:2753)
 
 > Allah's Messenger got up and said, "O people of Quraish! Save yourselves from the Hellfire as I cannot save you from Allah's Punishment; O Bani Abd Manaf! I cannot save you from Allah's Punishment, O Safiya, the Aunt of Allah's Messenger! I cannot save you from Allah's Punishment; O Fatima bint Muhammad! Ask me anything from my wealth, but I cannot save you from Allah's Punishment."
 
 
-## The black stone will intercede 
+### The black stone will intercede 
 
 [Jami` at-Tirmidhi 961](https://sunnah.com/tirmidhi:961)
 
@@ -386,19 +383,19 @@ So Allah does not know who have and have not touched it?
 
 The fact that "the black stone" is broken into 8 pieces held together by glue is also a big problem since there really is no black stone. Are the 8 pieces going to join together? Or are they going to each get a set of eyes and mouth?
 
-## Muhammad will intercede for those dying in Medina
+### Muhammad will intercede for those dying in Medina
 
 [Jami` at-Tirmidhi 3917](https://sunnah.com/tirmidhi:3917)
 
 > the Prophet said: "Whoever is able to die in Al-Madinah, then let him die there, for I will intercede for those who die 
 
-## Invading India or being Christian ensures salvation
+### Invading India or being Christian ensures salvation
 
 [Sunan an-Nasa'i 3175](https://sunnah.com/nasai:3175)
 
 > The Messenger of Allah said: 'There are two groups of my Ummah whom Allah will free from the Fire: The group that invades India, and the group that will be with 'Isa bin Maryam, peace be upon him.'"
 
-## Memorising the 99 names of Allah ensures salvation 
+### Memorising the 99 names of Allah ensures salvation 
 
 [Sahih al-Bukhari 7392](https://sunnah.com/bukhari:7392)
 
@@ -407,7 +404,7 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 
 
 
-## Being sick or injured cleanses from sins
+### Being sick or injured cleanses from sins
 
 
 [Al-Adab Al-Mufrad 498](https://sunnah.com/adab:498)
@@ -416,14 +413,14 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 
 
 
-## Having three dead children saves
+### Having three dead children saves
 
 [Sahih al-Bukhari 1381](https://sunnah.com/bukhari:1381)
 
 > Allah's Messenger said, "Any Muslim whose three children died before the age of puberty will be granted Paradise by Allah because of His mercy to them."
 
 
-## Paradise and hell can intercede
+### Paradise and hell can intercede
 
 [Jami` at-Tirmidhi 2572](https://sunnah.com/tirmidhi:2572)
 
@@ -434,9 +431,9 @@ The fact that "the black stone" is broken into 8 pieces held together by glue is
 
 
 
-# Sin
+## Sin
 
-## Confessing sins is bad
+### Confessing sins is bad
 
 [Sahih al-Bukhari 6069](https://sunnah.com/bukhari:6069)
 
@@ -448,7 +445,7 @@ In Christianity, confessing your sins is important.
 
 But in Islam, confessing your sins is a sure way to make sure they are **not** forgiven by God. 
 
-## Allah predetermines adultery
+### Allah predetermines adultery
 
 [Sahih Muslim 2657 b](https://sunnah.com/muslim:2657b)
 
@@ -456,15 +453,15 @@ But in Islam, confessing your sins is a sure way to make sure they are **not** f
 
 A man who commits adultery is really only doing the will of Allah, and has no choice in it.
 
-## Who forgives sins?
+### Who forgives sins?
 
-### Only Allah forgives sins
+#### Only Allah forgives sins
 
 [Surah 3:135](https://quran.com/3/135)
 
 > They are those who, upon committing an evil deed or wronging themselves, remember Allah and seek forgiveness for their sins—and who forgives sins except Allah?
 
-### But Muhammad also forgives sins 
+#### But Muhammad also forgives sins 
 
 [Surah 46:31](https://quran.com/46/31)
 

@@ -2,12 +2,10 @@
 title: Weird stuff
 permalink: /islam/weird/
 search: true
+toc: true
 ---
 
-## [< Index](/islam/)
-{:.no_toc}
-
-{% include toc.md %}
+**[< Index](/islam/)**
 
 
 ## "The eyes are the leather strap of the anus"

@@ -3,20 +3,20 @@ layout: null
 permalink: /database.json
 noindex: true
 ---
-{% capture string_with_newlines %}
-{% assign wordList = ""  %}
-{% assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|lt|index|amp|markdownify|"  %}     
-{% assign postCounter = 0 %}
-{% assign menu_pages = site.pages | where: "search", "true" %}
-{% assign all_docs = site.posts | concat: menu_pages %}
+{%- capture string_with_newlines -%}
+{%- assign wordList = ""  -%}
+{%- assign skipWordList = "|the|be|is|are|to|of|and|a|in|that|have|I|it|for|not|on|with|as|you|do|at|this|but|his|by|from|they|we|saw|she|or|her|an|if|lt|index|amp|markdownify|"  -%}     
+{%- assign postCounter = 0 -%}
+{%- assign menu_pages = site.pages | where: "search", "true" -%}
+{%- assign all_docs = site.posts | concat: menu_pages -%}
 "pages":[
-{% for post in all_docs %}
-[{{ post.title | jsonify }},{{ post.url | jsonify }},{{ post.thumb | jsonify }}]{% unless forloop.last %},{% endunless -%}
+{%- for post in all_docs -%}
+[{{ post.title | jsonify }},{{ post.url | jsonify }},{{ post.thumb | jsonify }}]{%- unless forloop.last -%},{%- endunless -%}
 {%-   assign content = post.content | remove: "'" | remove: "’" | remove: "ʹ" | remove: "·"  -%}
 {%-   assign words = content | strip_html | normalize_whitespace | slugify: "latin" | split: "-" -%} 
 {%-   for word in words  -%}
 {%-     assign numcheck = word | plus: 0 -%}
-{%-     if numcheck > 0 %}{% continue %}{% endif -%}
+{%-     if numcheck > 0 -%}{%- continue -%}{%- endif -%}
 {%-     unless word.size < 2 -%}
 {%-       assign invalidWordCheck = "|" | append: word | append: "|"   -%}
 {%-       unless skipWordList contains invalidWordCheck -%}
@@ -34,21 +34,21 @@ noindex: true
 {%- assign postCounter = postCounter | plus: 1 -%}
 {%- endfor -%}
 ],"data":{
-{% assign sections = wordList | split: "[" %}
-{% for section in sections  %}
-{%   unless section == "" %}
-{%     assign wordAndList = section | split: "]" -%}
-{%     assign sectionWord = wordAndList[0] | strip -%}
+{%- assign sections = wordList | split: "[" -%}
+{%- for section in sections  -%}
+{%-   unless section == "" -%}
+{%-     assign wordAndList = section | split: "]" -%}
+{%-     assign sectionWord = wordAndList[0] | strip -%}
 {{    sectionWord | jsonify }}:[
-{%     assign urls = wordAndList[1] | split: "," | sort -%}
-{%     assign uniqurls = urls | uniq -%}
-{%     for uniqurl in uniqurls -%}
+{%-     assign urls = wordAndList[1] | split: "," | sort -%}
+{%-     assign uniqurls = urls | uniq -%}
+{%-     for uniqurl in uniqurls -%}
 {{      uniqurl  }}
-{% unless forloop.last %},{% endunless -%}
-{%     endfor %}
-]{% unless forloop.last %},{% endunless -%}
-{%   endunless %}
-{% endfor %}}
-{% endcapture %}{
+{%- unless forloop.last -%},{%- endunless -%}
+{%-     endfor -%}
+]{%- unless forloop.last -%},{%- endunless -%}
+{%-   endunless -%}
+{%- endfor -%}}
+{%- endcapture -%}{
 {{ string_with_newlines | strip_newlines | strip }}
 }

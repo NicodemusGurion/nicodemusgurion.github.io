@@ -2,23 +2,21 @@
 title: Everyday life as a muslim
 permalink: /islam/life/
 search: true
+toc: true
 ---
 
-## [< Index](/islam/)
-{:.no_toc}
-
-{% include toc.md %}
+**[< Index](/islam/)**
 
 
-# How to treat animals {#animals}
+## How to treat animals {#animals}
 
-## Owning a dog gives you minus points {#owning-a-dog}
+### Owning a dog gives you minus points {#owning-a-dog}
 
 [Sahih al Bukhari 5480](https://sunnah.com/bukhari:5480)
 
 > "Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds."
 
-## Kill all dogs 
+### Kill all dogs 
 
 [Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
 
@@ -29,7 +27,7 @@ See also:
 - [Sunan an-Nasa'i 336](https://sunnah.com/nasai:336)
 - [Sunan an-Nasa'i 337](https://sunnah.com/nasai:337)
 
-## Kill all lizards
+### Kill all lizards
 
 [Sunan Ibn Majah 3231](https://sunnah.com/ibnmajah:3231)
 
@@ -37,11 +35,11 @@ See also:
 
 
 
-# Minutiae 
+## Minutiae 
 
 Islam really obsesses about completely ridiculous everyday minutiae, as if God would care. Controlling your everyday behavior is a big red flag for a manipulative cult. Here are some of the most ridiculous examples.
 
-## How to breathe while drinking
+### How to breathe while drinking
 
 [Sunan Ibn Majah 3427](https://sunnah.com/ibnmajah:3427) 
 
@@ -52,13 +50,13 @@ See also:
 - [Sahih al-Bukhari 154](https://sunnah.com/bukhari:154)
 - [Riyad as-Salihin 1648](https://sunnah.com/riyadussalihin:1648)
 
-## Don't hold your penis with the right hand
+### Don't hold your penis with the right hand
 
 [Sahih Muslim 267a](https://sunnah.com/muslim:267a)
 
 > None of you should hold your penis with his right hand while urinating
 
-## Don't wear only one shoe
+### Don't wear only one shoe
 
 [Riyad as-Salihin 1649](https://sunnah.com/riyadussalihin:1649)
 
@@ -68,14 +66,14 @@ See also:
 
 > …"When one of you breaks his sandal-strap, he should not walk in his other sandal until it is mended."
 
-## Don't tie your shoe while standing
+### Don't tie your shoe while standing
 
 [Riyad as-Salihin 1651](https://sunnah.com/riyadussalihin:1651)
 
 > The Messenger of Allah forbade a person tying up his shoe while standing
 
 
-## Don't make pictures
+### Don't make pictures
 
 [Riyad as-Salihin 1678](https://sunnah.com/riyadussalihin:1678)
 
@@ -85,19 +83,19 @@ See also:
 
 > I heard the Messenger of Allah saying, "Every painter will go to Hell, and for every portrait he has made, there will be appointed one who will chastise him in the Hell."
 
-## Don't throw pebbles
+### Don't throw pebbles
 
 [Sunan Ibn Majah 3226](https://sunnah.com/ibnmajah:3226)
 
 > The Prophet forbade throwing small pebbles 
 
-## How to do your toilet
+### How to do your toilet
 
 [Mishkat al-Masabih 336](https://sunnah.com/mishkat:336)
 
 > God’s messenger forbade us to face the qibla when easing ourselves or passing water, or to wipe ourselves with the right hand, or to wipe ourselves with less than three stones, or to wipe ourselves with dung or bone.
 
-## Muslims must dye their hair
+### Muslims must dye their hair
 
 [Sahih al-Bukhari 3462](https://sunnah.com/bukhari:3462)
 
@@ -117,7 +115,7 @@ See also:
 - [Mishkat al-Masabih 4423](https://sunnah.com/mishkat:4423)
 - [Sunan Ibn Majah 3621](https://sunnah.com/ibnmajah:3621)
 
-## Don't drink or eat while standing, or you have to vomit
+### Don't drink or eat while standing, or you have to vomit
 
 [Sahih Muslim 2026](https://sunnah.com/muslim:2026)
 
@@ -131,7 +129,7 @@ See also:
 - [Riyad as-Salihin 771](https://sunnah.com/riyadussalihin:771)
 - [Mishkat al-Masabih 4267](https://sunnah.com/mishkat:4267)
 
-## Don't eat with your left hand
+### Don't eat with your left hand
 
 [Sahih Muslim 2020 a](https://sunnah.com/muslim:2020)
 

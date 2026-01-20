@@ -2,14 +2,10 @@
 title: Other important persons
 permalink: /islam/vip/
 search: true
+toc: true
 ---
 
-## [< Index](/islam/)
-{:.no_toc}
-
-{% include toc.md %}
-
-
+**[< Index](/islam/)**
 
 # Jesus
 

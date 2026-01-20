@@ -2,16 +2,13 @@
 title: Obvious fraud
 permalink: /islam/fraud/
 search: true
+toc: true
 ---
 
-## [< Index](/islam/)
-{:.no_toc}
+**[< Index](/islam/)**
 
 
 As most liars and cult leaders, Muhammad could not keep his lies straight, and many of the things he said made it obvious that he was defrauding people. Here are some examples.
-
-
-{% include toc.md %}
 
 
 # Allah pampers Muhammad {#allah-serves-muhammad}
