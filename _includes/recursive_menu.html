@@ -8,6 +8,7 @@ This incursion base path: {{base_path}}<br>
 {%- assign last_char = base_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
   {%- assign base_path = base_path | append: "/" -%}
+  New base path: {{ base_path }}<br>
 {%- endunless -%}
 
 {%- assign pages_under = "" | split: "" -%}
@@ -19,6 +20,7 @@ Prefix: {{ prefix }}<br>
     {%- if prefix == base_path -%}
     
       {%- assign pages_under = pages_under | push: p -%}
+      Adding the page {{ p.url }} to list<br>
     {%- endif -%}
   {%- endif -%}
 {%- endfor -%}
@@ -57,8 +59,6 @@ Doing multiple pages <br>
   Base path: {{ base_path }}<br>
   {%- assign subpath = page.url | remove_first: base_path | split: "/" | first -%}
   {%- unless subpath == "" -%}
-
-
   Subpath: {{ subpath }}<br>
     {%- unless used_subpaths contains subpath -%}
     New subpaths<br>
