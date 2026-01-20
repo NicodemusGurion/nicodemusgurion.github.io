@@ -3,6 +3,9 @@
   GitHub Pages compatible
 {%- endcomment -%}
 {%- assign current_path = include.permalink_path | default: "/" -%}
+{%- assign recursive_paths = recursive_paths | push: current_path -%}
+Current stack: 
+{% for s in recursive_path %}{{ s }},{%endfor%}<br>
 {%- assign last_char = current_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
 {%-   assign current_path = current_path 
@@ -25,7 +28,6 @@
 {%-     assign prefix = sort_path 
         | slice: 0, current_path.size -%}
 {%-     if prefix == current_path -%}
-Prefix {{ prefix }}, base path {{current_path }}, page URL {{p.url}}, page toc path {{p.tocpath}}<br>
 {%-       assign pages_under = pages_under | push: p -%}
 {%-     endif -%}
 {%-   endif -%}
@@ -64,7 +66,7 @@ Prefix {{ prefix }}, base path {{current_path }}, page URL {{p.url}}, page toc p
 {%-   else -%}
 {%-     assign used_subpaths = "" | split: "" -%}
 {%-     for page in pages_under -%}
-Processing base {{current_path}}, url {{page.url}}, to  {{page.tocpath }}<br>
+Processing base {{current_path}}, url {{page.url}}, toc path  {{page.tocpath }}<br>
 {%-       assign sort_path = page.url -%}
 {%-       if page.tocpath -%}
 {%-         assign sort_path = page.tocpath -%}
@@ -94,3 +96,4 @@ Processing next page<br>
 {%-     endfor -%}
 {%-   endif -%}
 {%- endif -%}
+{%- assign recursive_paths = recursive_paths | pop %}

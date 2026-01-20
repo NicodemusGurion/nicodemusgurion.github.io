@@ -49,6 +49,8 @@ details[open] > summary::before {
   {%- assign base_path = base_path | append: "/" -%}
 {%- endunless -%}
 
+{%- assign recursive_paths = "" | split: "" %}
+
 <div markdown="0">
 {%- include recursive_menu.html permalink_path=base_path -%}
 </div>
