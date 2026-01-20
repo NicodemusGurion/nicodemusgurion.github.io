@@ -12,12 +12,15 @@ p.listitem::before {
   position: relative;
   left:-5px;
   color: #333;
+  font-size: 2em; 
 }
 
 /* Remove default triangle */
-details > summary::-webkit-details-marker {
-  display: none;
+
+details summary::-webkit-details-marker {
+  display:none;
 }
+
 details > summary::marker {
   content: none; /* For Firefox */
 }
