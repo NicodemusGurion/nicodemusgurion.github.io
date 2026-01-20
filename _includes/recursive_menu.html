@@ -63,8 +63,6 @@ Doing multiple pages <br>
     {%- unless used_subpaths contains subpath -%}
     New subpaths<br>
   {%- assign used_subpaths = used_subpaths | push: subpath -%}
-      <details>
-        <summary>{{ page.title }}</summary>
         {%- assign new_path = base_path | append: subpath -%}
         
         {%- unless new_path == base_path -%}
@@ -77,7 +75,7 @@ Base path after recursing {{ base_path }}<br>
 Returning from recursion to {{ base_path }}<br>
         {%- endunless -%}
         
-      </details>
+ 
     {%- endunless -%}
    {%- endunless -%}
   {%- endfor -%}
