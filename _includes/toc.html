@@ -50,8 +50,6 @@ details[open] > summary::before {
 {%- endunless -%}
 
 {%- assign recursive_paths = "" | split: "" %}
-Initial recursive_paths: {% for p in recursive_paths %}{{ p }}, {% endfor %}<br>
-
 <div markdown="0">
-{%- include recursive_menu.html permalink_path=base_path -%}
+{%- include menu.html -%}
 </div>
