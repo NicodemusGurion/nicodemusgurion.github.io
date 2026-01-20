@@ -84,6 +84,7 @@ Processing base {{base_path}}, url {{page.url}}, to  {{page.tocpath }}<br>
 {%-             assign base_path = old_path -%}
 {%-       assign sort_path = page.url -%}
 {%-       if page.tocpath -%}
+{{ page.title }} has a toc path {{ page.tocpath }}<br>
 {%-         assign sort_path = page.tocpath -%}
 {%-       endif -%}
 {%-             if subtext == "" %}
