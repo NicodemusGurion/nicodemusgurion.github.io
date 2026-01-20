@@ -22,7 +22,7 @@ layout: page
 
 {% assign sortable = sortable | sort %}
 
-<div class="toc-root">
+<div class="toc-root" markdown="0">
 {% assign prev_depth = 0 %}
 
 {% for entry in sortable %}
