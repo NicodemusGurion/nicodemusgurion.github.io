@@ -5,11 +5,14 @@
 {%- assign base_path = include.permalink_path | default: "/" -%}
 {%- assign last_char = base_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
-{%-   assign base_path = base_path | append: "/" -%}
+{%-   assign base_path = base_path 
+      | append: "/" -%}
 {%- endunless -%}
-{%- assign pages_under = "" | split: "" -%}
+{%- assign pages_under = "" 
+    | split: "" -%}
 {%- assign this_page = "" %}
-{%- assign all_pages = site.pages | where: "toc", "true" -%}
+{%- assign all_pages = site.pages 
+    | where: "toc", "true" -%}
 {%- for p in all_pages -%}
 {%-   if p.tocpath -%}
 {%-     assign sortpath = p.tocpath -%}
@@ -20,40 +23,44 @@
 {%-     if sortpath == base_path -%}
 {%-       assign this_page = p %}
 {%-     endif -%}
-{%-     assign prefix = sortpath | slice: 0, base_path.size -%}
+{%-     assign prefix = sortpath 
+        | slice: 0, base_path.size -%}
 {%-     if prefix == base_path -%}
 {%-       assign pages_under = pages_under | push: p -%}
 {%-     endif -%}
 {%-   endif -%}
 {%- endfor -%}
-
 {%- assign pages_under = pages_under | sort: "url" -%}
-
 {%- if pages_under.size > 0 -%}
 {%-   if pages_under.size == 1 and (pages_under[0].url == base_path or pages_under[0].tocpath == base_path) -%}
-
 {%-     assign page = pages_under[0] -%}
-
 {%-     assign html = page.content -%}
 {%-     assign parts = html | split: "<h" -%}
 {%-     for part in parts -%}
 {%-       assign tag_start = part | slice: 0, 1 -%}
 {%-       if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" -%}
-{%-         assign level = tag_start | plus: 0 -%}
-{%-         assign text = part | split: "</h" | first | split: ">" | last %}
+{%-         assign level = tag_start 
+            | plus: 0 -%}
+{%-         assign text = part 
+            | split: "</h" 
+            | first 
+            | split: ">" 
+            | last %}
 {%-         if part contains 'id="' -%}
-{%-           assign id = part | split: 'id="' | last | split: '"' | first -%}
+{%-           assign id = part 
+             | split: 'id="' 
+             | last 
+             | split: '"' 
+             | first -%}
 {%-         else -%}
 {%-           assign id = text
-        | downcase
-        | replace: " ", "-"
-        | replace_regex: "[^a-z0-9\\-]", "" -%}
+              | downcase
+              | replace: " ", "-"
+              | replace_regex: "[^a-z0-9\\-]", "" -%}
 {%-         endif -%}
-<p style="margin-left:{{ level | minus: 1 }}em"><a href="{{ page.url }}#{{ id }}">{{ text }}</a></p>
+<p class="listitem" style="margin-left:{{ level | minus: 1 }}em"><a href="{{ page.url }}#{{ id }}">{{ text }}</a></p>
 {%-       endif -%}
 {%-     endfor -%}
-
-      
 {%-   else -%}
 {%-     assign used_subpaths = "" | split: "" -%}
 {%-     for page in pages_under -%}
@@ -72,10 +79,9 @@
 {%-               include recursive_menu.html permalink_path=new_path -%}
 {%-             endcapture -%}
 {%-             assign subtext = subtext | strip -%}
-  
 {%-             assign base_path = old_path -%}
 {%-             if subtext == "" %}
-<p><a href="{{ this_page.url }}">{{ this_page.title }}</a><p>
+<p class="listitem"><a href="{{ this_page.url }}">{{ this_page.title }}</a></p>
 {%-             else -%}
 <details><summary><a href="{{ this_page.url }}">{{ this_page.title }}</a></summary>{{ subtext }}</details>
 {%-             endif -%}

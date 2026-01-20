@@ -6,7 +6,7 @@ toc: true
 ---
 
 
-** [< Index](/islam/)**
+**[< Index](/islam/)**
 
 Islamic theology based on the Quran and Hadiths is full of errors and contradictions.
 
