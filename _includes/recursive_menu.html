@@ -14,10 +14,9 @@
 {%- assign all_pages = site.pages 
     | where: "toc", "true" -%}
 {%- for p in all_pages -%}
+{%-   assign sortpath = p.url -%}
 {%-   if p.tocpath -%}
 {%-     assign sortpath = p.tocpath -%}
-{%-   else -%}
-{%-     assign sortpath = p.url -%}
 {%-   endif -%}
 {%-   if sortpath -%}
 {%-     if sortpath == base_path -%}
