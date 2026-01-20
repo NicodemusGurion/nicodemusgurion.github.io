@@ -1,6 +1,4 @@
 {%- assign current_path = include.permalink_path | default: "/" -%}
-{%- assign recursive_paths = recursive_paths | push: current_path -%}
-recursive_paths: {% for p in recursive_paths %}{{ p }}, {% endfor %}<br>
 {%- assign last_char = current_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
 {%-   assign current_path = current_path 
@@ -91,5 +89,6 @@ Processing next page<br>
 {%-     endfor -%}
 {%-   endif -%}
 {%- endif -%}
-{%- assign recursive_paths = recursive_paths | pop %}
-recursive_paths after pop: {% for p in recursive_paths %}{{ p }}, {% endfor %}<br>
+{%-  assign current_path = current_path 
+      | split: "/" | pop | join: "/" -%}
+Popped path: {{ current_path }}<br>
