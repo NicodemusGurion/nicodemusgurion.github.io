@@ -4,11 +4,11 @@
 {%- endcomment -%}
 
 {%- assign base_path = include.permalink_path | default: "/" -%}
-{%- comment -%}This incursion base path: {{base_path}}<br>{%- endcomment -%}
+
 {%- assign last_char = base_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
   {%- assign base_path = base_path | append: "/" -%}
-  {%- comment -%}New base path: {{ base_path }}<br>{%- endcomment -%}
+  
 {%- endunless -%}
 
 {%- assign pages_under = "" | split: "" -%}
@@ -29,7 +29,7 @@
 {%- assign pages_under = pages_under | sort: "url" -%}
 {%- if pages_under.size > 0 -%}
 {%- if pages_under.size == 1 and pages_under[0].url == base_path -%}
-{%- comment -%}Doing single page <br>{%- endcomment -%}
+
 {%- assign page = pages_under[0] -%}
 <details><summary><a href="{{ page.url }}">{{ page.title }}</a></summary>
 {%- assign html = page.content -%}
@@ -53,31 +53,28 @@
 </details>
       
 {%- else -%}
-{%- comment -%}Doing multiple pages <br>{%- endcomment -%}
 
 {%- if this_page != "" -%}
 <details><summary><a href="{{ this_page.url }}">{{ this_page.title }}</a></summary>
 {%- endif -%}
   {%- assign used_subpaths = "" | split: "" -%}
   {%- for page in pages_under -%}
-  {%- comment -%}page url: {{ page.url }}<br>
-  Base path: {{ base_path }}<br>{%- endcomment -%}
+  
   {%- assign subpath = page.url | remove_first: base_path | split: "/" | first -%}
   {%- unless subpath == "" -%}
-  {%- comment -%}Subpath: {{ subpath }}<br>{%- endcomment -%}
+  
     {%- unless used_subpaths contains subpath -%}
-    {%- comment -%}New subpaths<br>{%- endcomment -%}
+    
   {%- assign used_subpaths = used_subpaths | push: subpath -%}
         {%- assign new_path = base_path | append: subpath -%}
         
         {%- unless new_path == base_path -%}
-{%- comment -%}Recursing, new path: {{ new_path }}<br>{%- endcomment -%}
+
 {%- assign old_path = base_path -%}
 {%- comment -%}Base path before recursing {{ base_path }}<br>{%- endcomment -%}
   {%- include recursive_menu.html permalink_path=new_path -%}
-Base path after recursing {{ base_path }}<br>
 {%- assign base_path = old_path -%}
-{%- comment -%}Returning from recursion to {{ base_path }}<br>{%- endcomment -%}
+
         {%- endunless -%}
         
  
