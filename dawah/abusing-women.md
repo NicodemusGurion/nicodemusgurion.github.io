@@ -1,10 +1,10 @@
 ---
 title: The Bible promotes abuse of women
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-{:.no_toc}
+**[< Index](/dawah/)**
 
 Claim: The Bible teaches abuse of women, therefore the abuse of women that Islam teaches is justified.
 

@@ -1,10 +1,11 @@
 ---
 title: The Bible has contradictions
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-{:.no_toc}
+**[< Index](/dawah/)**
+
 
 Claim: There are thousands of Bible contradictions; therefore it cannot be God’s Word.
 

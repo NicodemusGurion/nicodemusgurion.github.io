@@ -1,10 +1,10 @@
 ---
 title: The Bible has been corrupted
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-{:.no_toc}
+**[< Index](/dawah/)**
 
 Claim: The Bible has been corrupted and is not the original revelation
 

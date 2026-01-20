@@ -1,11 +1,10 @@
 ￼---
 title: "Jesus wasn't crucified"
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-
-{:.no_toc}
+**[< Index](/dawah/)**
 
 Claim: The Bible says Jesus didn’t die — Christians added that later.
 

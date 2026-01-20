@@ -1,10 +1,11 @@
 ---
 title: The Bible portrays prophets committing terrible sins, proving it's corrupted
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-{:.no_toc}
+**[< Index](/dawah/)**
+
 
 Claim: The Bible portrays prophets committing terrible sins; this proves it is corrupted.”
 

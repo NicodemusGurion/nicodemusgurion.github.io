@@ -3,6 +3,7 @@ title: What does the Watchtower teach about...
 image: https://i.ibb.co/qgkrydH/3-C4-E1-DDD-8123-459-E-9-E87-7-A7-DFA72-A821.jpg
 thumb: https://i.ibb.co/YdpLR35/3-C4-E1-DDD-8123-459-E-9-E87-7-A7-DFA72-A821.jpg
 permalink: /watchtower/
+tocpath: /jw/watchtower/
 ---
 This is a long list of references to Watchtower publications for easy access to what the Watchtower teaches about different issues.
 

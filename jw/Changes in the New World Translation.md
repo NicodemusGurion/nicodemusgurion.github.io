@@ -3,7 +3,8 @@ layout: page
 title: Changes in the New World Translation
 image: https://i.ibb.co/JvTTgWS/7-Lf9-Geg1-o.jpg
 thumb: https://i.ibb.co/48LL3w0/7-Lf9-Geg1-o.jpg
-permalink: /jw/nwt/
+tocpath: /jw/nwt/
+permalink: /nwt/
 search: true
 toc: true
 ---

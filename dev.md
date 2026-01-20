@@ -4,4 +4,4 @@ permalink: /dev/
 layout: page
 ---
 
-{% include toc.html permalink_path = "/" %}
+{% include toc.html permalink_path = "/islam/" %}

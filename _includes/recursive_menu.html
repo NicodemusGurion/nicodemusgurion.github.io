@@ -2,97 +2,86 @@
   Recursive menu / TOC generator
   GitHub Pages compatible
 {%- endcomment -%}
-
 {%- assign base_path = include.permalink_path | default: "/" -%}
-
 {%- assign last_char = base_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
-  {%- assign base_path = base_path | append: "/" -%}
-  
+{%-   assign base_path = base_path | append: "/" -%}
 {%- endunless -%}
-
 {%- assign pages_under = "" | split: "" -%}
 {%- assign this_page = "" %}
 {%- assign all_pages = site.pages | where: "toc", "true" -%}
 {%- for p in all_pages -%}
-  {%- if p.tocpath -%}
-    {%- assign sortpath = p.tocpath -%}
-  {%- else -%}
-    {%- assign sortpath = p.url -%}
-  {%- endif -%}
-  {%- if sortpath -%}
-    {%- if sortpath == base_path -%}
-      {%- assign this_page = p %}
-    {%- endif -%}
-    {%- assign prefix = sortpath | slice: 0, base_path.size -%}
-    {%- if prefix == base_path -%}
-      {%- assign pages_under = pages_under | push: p -%}
-    {%- endif -%}
-  {%- endif -%}
+{%-   if p.tocpath -%}
+{%-     assign sortpath = p.tocpath -%}
+{%-   else -%}
+{%-     assign sortpath = p.url -%}
+{%-   endif -%}
+{%-   if sortpath -%}
+{%-     if sortpath == base_path -%}
+{%-       assign this_page = p %}
+{%-     endif -%}
+{%-     assign prefix = sortpath | slice: 0, base_path.size -%}
+{%-     if prefix == base_path -%}
+{%-       assign pages_under = pages_under | push: p -%}
+{%-     endif -%}
+{%-   endif -%}
 {%- endfor -%}
 
 {%- assign pages_under = pages_under | sort: "url" -%}
-{%- if pages_under.size > 0 -%}
-{%- if pages_under.size == 1 and (pages_under[0].url == base_path or pages_under[0].tocpath == base_path) -%}
 
-{%- assign page = pages_under[0] -%}
-<details><summary><a href="{{ page.url }}">{{ page.title }}</a></summary>
-{%- assign html = page.content -%}
-{%- assign parts = html | split: "<h" -%}
-{%- for part in parts -%}
-  {%- assign tag_start = part | slice: 0, 1 -%}
-  {%- if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" -%}
-    {%- assign level = tag_start | plus: 0 -%}
-    {%- assign text = part | split: "</h" | first | split: ">" | last %}
-    {%- if part contains 'id="' -%}
-      {%- assign id = part | split: 'id="' | last | split: '"' | first -%}
-    {%- else -%}
-      {%- assign id = text
+{%- if pages_under.size > 0 -%}
+{%-   if pages_under.size == 1 and (pages_under[0].url == base_path or pages_under[0].tocpath == base_path) -%}
+
+{%-     assign page = pages_under[0] -%}
+
+{%-     assign html = page.content -%}
+{%-     assign parts = html | split: "<h" -%}
+{%-     for part in parts -%}
+{%-       assign tag_start = part | slice: 0, 1 -%}
+{%-       if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" -%}
+{%-         assign level = tag_start | plus: 0 -%}
+{%-         assign text = part | split: "</h" | first | split: ">" | last %}
+{%-         if part contains 'id="' -%}
+{%-           assign id = part | split: 'id="' | last | split: '"' | first -%}
+{%-         else -%}
+{%-           assign id = text
         | downcase
         | replace: " ", "-"
         | replace_regex: "[^a-z0-9\\-]", "" -%}
-    {%- endif -%}
+{%-         endif -%}
 <p style="margin-left:{{ level | minus: 1 }}em"><a href="{{ page.url }}#{{ id }}">{{ text }}</a></p>
-  {%- endif -%}
-{%- endfor -%}
-</details>
+{%-       endif -%}
+{%-     endfor -%}
+
       
-{%- else -%}
-
-{%- if this_page != "" -%}
-<details><summary><a href="{{ this_page.url }}">{{ this_page.title }}</a></summary>
-{%- endif -%}
-  {%- assign used_subpaths = "" | split: "" -%}
-  {%- for page in pages_under -%}
-  {%- if page.tocpath -%}
-    {%- assign subpath = page.tocpath | remove_first: base_path | split: "/" | first -%}
-  {%- else -%}
-    {%- assign subpath = page.url | remove_first: base_path | split: "/" | first -%}
-  {%- endif -%}
-  {%- unless subpath == "" -%}
+{%-   else -%}
+{%-     assign used_subpaths = "" | split: "" -%}
+{%-     for page in pages_under -%}
+{%-       if page.tocpath -%}
+{%-         assign subpath = page.tocpath | remove_first: base_path | split: "/" | first -%}
+{%-       else -%}
+{%-         assign subpath = page.url | remove_first: base_path | split: "/" | first -%}
+{%-       endif -%}
+{%-       unless subpath == "" -%}
+{%-         unless used_subpaths contains subpath -%}
+{%-           assign used_subpaths = used_subpaths | push: subpath -%}
+{%-           assign new_path = base_path | append: subpath -%}
+{%-           unless new_path == base_path -%}
+{%-             assign old_path = base_path -%}
+{%-             capture subtext -%}
+{%-               include recursive_menu.html permalink_path=new_path -%}
+{%-             endcapture -%}
+{%-             assign subtext = subtext | strip -%}
   
-    {%- unless used_subpaths contains subpath -%}
-    
-  {%- assign used_subpaths = used_subpaths | push: subpath -%}
-        {%- assign new_path = base_path | append: subpath -%}
-        
-        {%- unless new_path == base_path -%}
-
-{%- assign old_path = base_path -%}
-{%- comment -%}Base path before recursing {{ base_path }}<br>{%- endcomment -%}
-  {%- include recursive_menu.html permalink_path=new_path -%}
-{%- assign base_path = old_path -%}
-
-        {%- endunless -%}
-        
- 
-    {%- endunless -%}
-   {%- endunless -%}
-  {%- endfor -%}
-  
-{%- if this_page != "" -%}
-</details>
-{%- endif -%}
-
-{%- endif -%}
+{%-             assign base_path = old_path -%}
+{%-             if subtext == "" %}
+<p><a href="{{ this_page.url }}">{{ this_page.title }}</a><p>
+{%-             else -%}
+<details><summary><a href="{{ this_page.url }}">{{ this_page.title }}</a></summary>{{ subtext }}</details>
+{%-             endif -%}
+{%-           endunless -%}
+{%-         endunless -%}
+{%-       endunless -%}
+{%-     endfor -%}
+{%-   endif -%}
 {%- endif -%}

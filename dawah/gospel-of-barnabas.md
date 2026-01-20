@@ -1,10 +1,11 @@
 ---
 title: Gospel of Barnabas
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-{:.no_toc}
+**[< Index](/dawah/)**
+
 
 Claim: The Gospel of Barnabas is a lost ‘true gospel’ suppressed by the church.
 

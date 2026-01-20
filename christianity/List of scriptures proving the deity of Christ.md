@@ -3,6 +3,7 @@ title: List of scriptures proving the Deity of Christ
 image: https://i.ibb.co/vsqhB4v/5-E85-C611-5749-466-C-8-A44-8-F45263-EE349.jpg
 thumb: https://i.ibb.co/hcBJDFS/E26748-FD-056-C-4689-913-E-C0-D4-ED0172-A4.jpg
 permalink: /jesus-deity/
+tocpath: /christianity/jesus-deity/
 search: true
 toc: true
 ---

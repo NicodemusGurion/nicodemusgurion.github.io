@@ -1,10 +1,11 @@
 ---
 title: Jesus never claimed to be God
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-{:.no_toc}
+**[< Index](/dawah/)**
+
 
 Claim: Jesus never claimed to be God; Christians invented that doctrine.
 

@@ -1,10 +1,11 @@
 ---
 title: Rebekah was 3 years old when she married Isaac. 
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-{:.no_toc}
+**[< Index](/dawah/)**
+
 
 Claim: Rebekah was 3 years old when she married Isaac.
 

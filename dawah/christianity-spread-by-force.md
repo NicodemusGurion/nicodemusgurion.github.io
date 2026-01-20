@@ -1,10 +1,11 @@
 ---
 title: Christianity was spread by force
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-{:.no_toc}
+**[< Index](/dawah/)**
+
 
 Claim: Christianity was spread by force; Islam spreads because of truth.
 

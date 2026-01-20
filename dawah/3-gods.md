@@ -1,10 +1,11 @@
 ---
 title: Christians worship 3 gods
 search: true
+toc: true
 ---
 
-## [< Index](/dawah/)
-{:.no_toc}
+**[< Index](/dawah/)**
+
 
 Claim: Christians worship three gods — the Trinity is polytheism.
 

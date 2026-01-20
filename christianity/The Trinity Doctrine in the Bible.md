@@ -2,7 +2,8 @@
 title: The Trinity Doctrine in the Bible
 thumb: /public/img/Trinity-Shield-thumb.png
 image: https://i.ibb.co/ymQjjCFn/6-B99-CE2-A-B995-4166-BDCC-D14477-FC0342.jpg
-permalink: /christianity/trinity/
+permalink: /trinity/
+tocpath: /christianity/trinity/
 search: true
 toc: true
 ---
