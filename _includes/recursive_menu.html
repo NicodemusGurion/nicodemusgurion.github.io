@@ -82,15 +82,10 @@ Processing base {{base_path}}, url {{page.url}}, to  {{page.tocpath }}<br>
 {%-             endcapture -%}
 {%-             assign subtext = subtext | strip -%}
 {%-             assign base_path = old_path -%}
-{%-       assign sort_path = page.url -%}
-{%-       if page.tocpath -%}
-{{ page.title }} has a toc path {{ page.tocpath }}<br>
-{%-         assign sort_path = page.tocpath -%}
-{%-       endif -%}
 {%-             if subtext == "" %}
-<p class="listitem"><a href="{{ sort_path }}">{{ page.title }}</a></p>
+<p class="listitem"><a href="{{ page.url }}">{{ page.title }}</a></p>
 {%-             else -%}
-<details><summary><a href="{{ sort_path }}">{{ page.title }}</a></summary>{{ subtext }}</details>
+<details><summary><a href="{{ page.url }}">{{ page.title }}</a></summary>{{ subtext }}</details>
 {%-             endif -%}
 {%-           endunless -%}
 {%-         endunless -%}
