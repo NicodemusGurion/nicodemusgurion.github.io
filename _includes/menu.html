@@ -37,11 +37,11 @@
 
   {% if depth > prev_depth %}
     {% for i in (prev_depth..depth-1) %}
-      <div class="toc-level">
+      <div class="toc-level" markdown="0">
     {% endfor %}
   {% elsif depth < prev_depth %}
     {% for i in (depth..prev_depth-1) %}
-      </details></div>
+{% raw %}</details></div>{% endraw %}
     {% endfor %}
   {% endif %}
 
@@ -60,6 +60,6 @@
 {% endfor %}
 
 {% for i in (0..prev_depth-1) %}
-  </details></div>
+{% raw%}</details></div>{% endraw %}
 {% endfor %}
 </div>
