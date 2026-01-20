@@ -14,15 +14,15 @@
 {%- assign all_pages = site.pages 
     | where: "toc", "true" -%}
 {%- for p in all_pages -%}
-{%-   assign sortpath = p.url -%}
+{%-   assign sort_path = p.url -%}
 {%-   if p.tocpath -%}
-{%-     assign sortpath = p.tocpath -%}
+{%-     assign sort_path = p.tocpath -%}
 {%-   endif -%}
-{%-   if sortpath -%}
-{%-     if sortpath == base_path -%}
+{%-   if sort_path -%}
+{%-     if sort_path == base_path -%}
 {%-       assign this_page = p %}
 {%-     endif -%}
-{%-     assign prefix = sortpath 
+{%-     assign prefix = sort_path 
         | slice: 0, base_path.size -%}
 {%-     if prefix == base_path -%}
 Prefix {{ prefix }}, base path {{base_path }}, page URL {{p.url}}, page toc path {{p.tocpath}}<br>
@@ -65,11 +65,12 @@ Prefix {{ prefix }}, base path {{base_path }}, page URL {{p.url}}, page toc path
 {%-     assign used_subpaths = "" | split: "" -%}
 {%-     for page in pages_under -%}
 Processing base {{base_path}}, url {{page.url}}, to  {{page.tocpath }}<br>
+{%-       assign sort_path = page.url -%}
 {%-       if page.tocpath -%}
-{%-         assign subpath = page.tocpath | remove_first: base_path | split: "/" | first -%}
-{%-       else -%}
-{%-         assign subpath = page.url | remove_first: base_path | split: "/" | first -%}
+{%-         assign sort_path = page.tocpath -%}
 {%-       endif -%}
+{%-       assign subpath = sort_path | remove_first: base_path | split: "/" | first -%}
+
 {%-       unless subpath == "" -%}
 {%-         unless used_subpaths contains subpath -%}
 {%-           assign used_subpaths = used_subpaths | push: subpath -%}
@@ -82,9 +83,9 @@ Processing base {{base_path}}, url {{page.url}}, to  {{page.tocpath }}<br>
 {%-             assign subtext = subtext | strip -%}
 {%-             assign base_path = old_path -%}
 {%-             if subtext == "" %}
-<p class="listitem"><a href="{{ this_page.url }}">{{ this_page.title }}</a></p>
+<p class="listitem"><a href="{{ sort_path }}">{{ page.title }}</a></p>
 {%-             else -%}
-<details><summary><a href="{{ this_page.url }}">{{ this_page.title }}</a></summary>{{ subtext }}</details>
+<details><summary><a href="{{ sort_path }}">{{ page.title }}</a></summary>{{ subtext }}</details>
 {%-             endif -%}
 {%-           endunless -%}
 {%-         endunless -%}
