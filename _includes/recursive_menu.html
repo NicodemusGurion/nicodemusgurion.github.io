@@ -1,12 +1,12 @@
 {%- assign current_path = include.permalink_path | default: "/" -%}
-{%- assign recursive_paths = recursive_paths | push: current_path -%}
-Going in. Current stack: 
-{% for s in recursive_paths %}{{ s }},{%endfor%}<br>
 {%- assign last_char = current_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
 {%-   assign current_path = current_path 
       | append: "/" -%}
 {%- endunless -%}
+{%- assign recursive_paths = recursive_paths | push: current_path -%}
+Going in. Current stack: 
+{% for s in recursive_paths %}{{ s }},{%endfor%}<br>
 {%- assign pages_under = "" 
     | split: "" -%}
 {%- assign this_page = "" %}
