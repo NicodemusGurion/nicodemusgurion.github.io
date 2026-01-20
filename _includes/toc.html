@@ -15,7 +15,15 @@ p.listitem::before {
   font-size: 2em; 
 }
 
-/* Remove default triangle */
+
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+
 
 details summary::-webkit-details-marker {
   display:none;
