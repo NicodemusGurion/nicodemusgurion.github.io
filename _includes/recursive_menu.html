@@ -4,7 +4,7 @@
 {%- endcomment -%}
 
 {%- assign base_path = include.permalink_path | default: "/" -%}
-This incursion base path: {{base_path}}<br>
+{%- comment -%}This incursion base path: {{base_path}}<br>{%- endcomment -%}
 {%- assign last_char = base_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
   {%- assign base_path = base_path | append: "/" -%}
@@ -12,9 +12,12 @@ This incursion base path: {{base_path}}<br>
 {%- endunless -%}
 
 {%- assign pages_under = "" | split: "" -%}
-
+{%- assign this_page = "" %}
 {%- for p in site.pages -%}
   {%- if p.url -%}
+    {%- if p.url == base_path -%}
+      {%- assign this_page = p %}
+    {%- endif -%}
     {%- assign prefix = p.url | slice: 0, base_path.size -%}
     {%- if prefix == base_path -%}
       {%- assign pages_under = pages_under | push: p -%}
@@ -51,6 +54,10 @@ This incursion base path: {{base_path}}<br>
       
 {%- else -%}
 {%- comment -%}Doing multiple pages <br>{%- endcomment -%}
+
+{%- if this_page != "" -%}
+<details><summary><a href="{{ this_page.url }}">{{ this_page.title }}</a></summary>
+{%- endif -%}
   {%- assign used_subpaths = "" | split: "" -%}
   {%- for page in pages_under -%}
   {%- comment -%}page url: {{ page.url }}<br>
@@ -77,5 +84,10 @@ Base path after recursing {{ base_path }}<br>
     {%- endunless -%}
    {%- endunless -%}
   {%- endfor -%}
+  
+{%- if this_page != "" -%}
+</details>
+{%- endif -%}
+
 {%- endif -%}
 {%- endif -%}
