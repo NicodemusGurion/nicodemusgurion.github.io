@@ -1,6 +1,6 @@
 {%- assign current_path = include.permalink_path | default: "/" -%}
 {%- assign recursive_paths = recursive_paths | push: current_path -%}
-Current stack: 
+Going in. Current stack: 
 {% for s in recursive_paths %}{{ s }},{%endfor%}<br>
 {%- assign last_char = current_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
@@ -78,8 +78,8 @@ Processing base {{current_path}}, url {{page.url}}, toc path  {{page.tocpath }}<
 {%-             capture subtext -%}
 {%-               include recursive_menu.html permalink_path=child_path -%}
 {%-             endcapture -%}
-{%- assign current_path = recursive_paths | last -%}
-Restoring current path to {{ current_paths}}<br>
+{%- assign current_path = recursive_paths.last -%}
+Restoring current path to {{ current_path }}<br>
 {%-             assign subtext = subtext | strip -%}
 
 {%-             if subtext == "" %}
@@ -95,5 +95,5 @@ Processing next page<br>
 {%-   endif -%}
 {%- endif -%}
 {%- assign recursive_paths = recursive_paths | pop -%}
-Current stack: 
+Going out. Current stack: 
 {% for s in recursive_paths %}{{ s }},{%endfor%}<br>
