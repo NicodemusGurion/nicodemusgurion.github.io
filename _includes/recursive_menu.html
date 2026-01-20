@@ -1,7 +1,3 @@
-{%- comment -%}
-  Recursive menu / TOC generator
-  GitHub Pages compatible
-{%- endcomment -%}
 {%- assign current_path = include.permalink_path | default: "/" -%}
 {%- assign recursive_paths = recursive_paths | push: current_path -%}
 Current stack: 
