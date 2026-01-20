@@ -64,6 +64,7 @@ Prefix {{ prefix }}, base path {{base_path }}, page URL {{p.url}}, page toc path
 {%-   else -%}
 {%-     assign used_subpaths = "" | split: "" -%}
 {%-     for page in pages_under -%}
+Processing base {{base_path}}, url {{page.url}}, to  {{page.tocpath }}<br>
 {%-       if page.tocpath -%}
 {%-         assign subpath = page.tocpath | remove_first: base_path | split: "/" | first -%}
 {%-       else -%}
