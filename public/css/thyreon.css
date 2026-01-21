@@ -1,3 +1,48 @@
+/* Collapsible TOC/menu list items */
+
+details details {
+  margin-left: 20px;
+}
+p.listitem {
+  margin:0;
+  padding-left: 25px;
+  line-height: 1.1;
+}
+p.listitem::before {
+  content: "●";
+  position: relative;
+  left:-5px;
+  font-size: 1.2em; 
+}
+
+details > summary {
+  list-style: none;
+}
+details > summary::marker,
+details > summary::-webkit-details-marker {
+  display: none;
+  content: none;
+}
+
+
+/* Add custom arrow */
+details > summary::before {
+  content: "►";       /* Right-pointing arrow (▶ works too) */
+  display: inline-block;
+  width: 1em;
+  margin-right: 0.3em;
+  font-size: 1.2em;  
+  transition: transform 0.2s ease;
+}
+
+/* Rotate arrow when open */
+details[open] > summary::before {
+  transform: rotate(90deg);
+}
+
+
+
+
 /* Show the targeted header and its content */
 .quiz :target, .quiz :target ~ div {
   display: block; /* or any other display value appropriate for your content */
