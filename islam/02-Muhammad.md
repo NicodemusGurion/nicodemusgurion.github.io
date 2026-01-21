@@ -375,7 +375,7 @@ Given what we know about Muhammad, what most likely happened is that the proud p
 She was a good wife, and he murdered her because he was brainwashed by his cult leader, and his cult leader condoned and approves of this.
 
 
-# Muhammad's religion {#religion}
+# Muhammad's prophethood {#prophethood}
 
 ## Muhammad sacrificed to pagan gods
 
@@ -393,6 +393,14 @@ She was a good wife, and he murdered her because he was brainwashed by his cult 
 > Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “**I have been commanded to be the first to submit** and not be one of the polytheists.”
 
 When Muslims lie about people in the Bible being Muslims, remind them that Muhammad was the first ever Muslim. 
+
+## Muhammad can not save you
+
+[Sahih al-Bukhari 2753](https://sunnah.com/bukhari:2753)
+
+> I cannot save you from Allah's Punishment
+
+Jesus, however, can.
 
 
 ## Muhammad couldn't predict technological advances 
@@ -444,7 +452,11 @@ See also:
 
 
 
+## Muhammad had no idea what Allah will do to him
 
+[Sahih al-Bukhari 3929](https://sunnah.com/bukhari:3929)
+
+> By Allah, though I am the Apostle of Allah, yet I do not know what Allah will do to me,
 
 
 

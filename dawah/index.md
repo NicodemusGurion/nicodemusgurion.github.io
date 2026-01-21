@@ -14,6 +14,7 @@ toc: true
 - ["Jesus never said 'I am God'"](jesus-never-claimed-to-be-god)
 - ["Jesus was not crucified"](jesus-not-crucified)
 - ["Islam is the fastest growing religion"](fast-growth)
+- ["We worship the same God as the Christians and Jews"](allah-vs-yahweh)
 
 # Attacking the Bible 
 
@@ -50,4 +51,8 @@ Attacking the character of Christianity or Christians is a red herring tactic to
 - ["Christianity was spread by force"](christianity-spread-by-force)
 
 
+# Trying to leech authority
 
+Islam has no authority. It's literally nothing but an illiterate caveman asking us to believe his stories with no evidence just because he said so. So therefore Muslims often try to leech authority from the Bible, Christians or Jews, while at the same time attacking these.
+
+- ["We worship the same God as the Christians and Jews"](allah-vs-yahweh)
