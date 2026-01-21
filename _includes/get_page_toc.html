@@ -1,37 +1,31 @@
-{%- assign page_path = include.page_path | default: "/" -%}
-{%- assign last_char = page_path | slice: -1, 1 -%}
-{%- unless last_char == "/" -%}
-{%-   assign page_path = page_path 
-      | append: "/" -%}
-{%- endunless -%}
-{%-     assign page = site.pages | where: "url", page_path | first -%}
-Page {{ page.url }}
-{%-   if page %}
-{%-     assign html = page.content -%}
-{%-     assign parts = html | split: "<h" -%}
-{%-     for part in parts -%}
-{%-       assign tag_start = part | slice: 0, 1 -%}
-{%-       if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" -%}
-{%-         assign level = tag_start 
-            | plus: 0 -%}
-{%-         assign text = part 
-            | split: "</h" 
-            | first 
-            | split: ">" 
-            | last %}
-{%-         if part contains 'id="' -%}
-{%-           assign id = part 
-              | split: 'id="' 
-              | last 
-              | split: '"' 
-              | first -%}
-{%-         else -%}
-{%-           assign id = text
-              | downcase
-              | replace: " ", "-"
-              | replace_regex: "[^a-z0-9\\-]", "" -%}
-{%-         endif -%}
-<p class="listitem" style="margin-left:{{ level | minus: 1 }}em"><a href="{{ page.url }}#{{ id }}">{{ text }}</a></p>
-{%-       endif -%}
-{%-     endfor -%}
-{%-   endif -%}
+{%- assign page_path = include.page_path | default: page.url -%}
+
+{%- assign page = site.pages | where: "url", page_path | first -%}
+{%- if page -%}
+
+{%- assign lines = page.content | split: "\n" -%}
+
+{%- for line in lines -%}
+  {%- assign trimmed = line | strip -%}
+
+  {%- if trimmed startswith "#" -%}
+    {%- assign hashes = trimmed | split: " " | first -%}
+    {%- assign level = hashes | size -%}
+
+    {%- if level >= 1 and level <= 6 -%}
+      {%- assign text = trimmed | remove_first: hashes | strip -%}
+
+      {%- assign id = text
+        | downcase
+        | replace: " ", "-"
+        | replace_regex: "[^a-z0-9\\-]", "" -%}
+
+<p class="listitem" style="margin-left:{{ level | minus: 1 }}em">
+  <a href="#{{ id }}">{{ text }}</a>
+</p>
+
+    {%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- endif -%}
