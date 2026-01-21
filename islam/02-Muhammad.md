@@ -375,9 +375,7 @@ Given what we know about Muhammad, what most likely happened is that the proud p
 She was a good wife, and he murdered her because he was brainwashed by his cult leader, and his cult leader condoned and approves of this.
 
 
-# Muhammad spiritual qualifications and prophethood {#prophethood}
-
-
+# Muhammad's religion {#religion}
 
 ## Muhammad sacrificed to pagan gods
 
@@ -386,6 +384,15 @@ She was a good wife, and he murdered her because he was brainwashed by his cult 
 > Allah's Messenger said that he met Zaid bin Amr Nufail at a place near Baldah and this had happened before Allah's Messenger received the Divine Inspiration. Allah's Messenger presented a dish of meat to Zaid bin Amr, but Zaid refused to eat of it and then said, "I do not eat of what you slaughter on your stonealtars nor do I eat except that on which Allah's Name has been mentioned on slaughtering."
 
 [Zaid ibn Amr Nufayl (died 605) was a monotheist who lived in Mecca shortly before Islam.](https://en.m.wikipedia.org/wiki/Zayd_ibn_Amr)  Muhammad had just come back from sacrificing an animal to the pagan idols, and offered some of the meat to Zaid. Zaid refused, saying he would not eat anything sacrificed to false gods.
+
+
+## Muhammad was the first Muslim {#first-muslim}
+
+[Surah 6:14](https://quran.com/6/14)
+
+> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “**I have been commanded to be the first to submit** and not be one of the polytheists.”
+
+When Muslims lie about people in the Bible being Muslims, remind them that Muhammad was the first ever Muslim. 
 
 
 ## Muhammad couldn't predict technological advances 
@@ -436,58 +443,6 @@ See also:
 > Aisha said : The Prophet gave command that we should use a spell against the evil eye. 
 
 
-
-# Muhammad's family {#muhammads-family}
-
-## Muhammad would not provide more than one garment each to his wives {#miserly-husband}
-
-[Sahih al Bukhari 312](https://sunnah.com/bukhari:312)
-
-> Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
-
-When they had menstrual blood stain their garments they would have to clean them with spit.
-
-## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying {#discharge-dish}
-
-[Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
-
-> Narrated 'Aisha: "One of the wives of Allah's Messenger  joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
-
-## Muhammad daughter Fatima was denied an inheritance {#daughter-no-inheritance}
-
-Instead they had to go to Abu Bakr to get what they needed to survive as a charity.
-
-[Sunnan Abu Dawud 2969](https://sunnah.com/abudawud:2969)
-
-> Narrated Aisha, Ummul Mu'minin: Fatimah was demanding (the property of) sadaqah of the Messenger of Allah  at Medina and Fadak, and what remained from the fifth of Khaybar. Aisha quoted AbuBakr as saying: The Messenger of Allah  said: We are not inherited; whatever we leave is sadaqah (charity). The family of Muhammad will eat from this property, that is, from the property of Allah. They will not take more then their sustenance.
-
-## The wives of Muhammad were also denied an inheritance. {#wives-no-inheritance}
-
-[Sunnan Abu Dawud 2976](https://sunnah.com/abudawud:2976)
-
-> Narrated 'Aishah: When the Messenger of Allah  died, the wives of the Prophet  intended to send 'Uthman b. 'Affan to Abu Bakr to ask him their cost of living from (the inheritance of) the Prophet . Thereupon 'Aishah said: Did not the Messenger of Allah  say: We are not inherited. Whatever we leave is sadaqah (charity).
-
-## The wives of Muhammad were denied remarriage {#no-remarriage}
-
-[Surah 33:53](https://quran.com/33/53)
-
-> And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.
-
-In the ancient world marriage meant protection for a woman. Being left a widow was very negative. Also being left childless like Aisha was, meant she didn't even have, nor could she ever get children to help her in her old age. Muhammad was really selfish and heartless to leave his wives to fend for themselves just because of his own insecurities.
-
-## The parents of Muhammad are in hell {#parents-in-hell}
-
-[Sahih Muslim 976b](https://sunnah.com/muslim/11/135)
-
-> Abu Huraira reported: The Apostle of Allah  visited the grave of his mother and he wept, and moved others around him to tears, and said: **I sought permission from my Lord to beg forgiveness for her but it was not granted to me**, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death.
-
-Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will not forgive her, meaning she is in hell.
-
-[Sunan Abu Dawud 4718](https://sunnah.com/abudawud:4718)
-
-> Anas said : A man asked : where is my father, Messenger of Allah? He replied! Your father is in Hell. When he turned his back, he said : **My father and your father are in Hell.**
-
-Muhammad's father is in hell.
 
 
 
@@ -891,7 +846,9 @@ So which is it? Muhammad never did any miracles, or Muhammad did miracles? This 
 
 # Muhammad and sex
 
-## Mohammed raped a 9 year old girl {#child-sexual-abuse}
+## Muhammad was a pedophile {#pedophile}
+
+### Mohammed had sex with a 9 year old girl, Aisha {#child-sexual-abuse}
 
 [Sunan an Nasa'i 3378](https://sunnah.com/nasai:3378)
 
@@ -916,6 +873,20 @@ See also:
 - [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
 - [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
+### Muhammad French-kissed a little boy
+
+[Al-Adab Al-Mufrad 1183](https://sunnah.com/adab:1183)
+
+> …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, opened his mouth and put his mouth in his mouth. Then he said, O Allah, I love him, so love him and the one who loves him!'"
+
+### Muhammad was baffled that other men were not pedophiles like him
+
+[Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
+
+> Narrated Jabir bin Abdullah: When I got married, Allah's Messenger said to me, "What type of lady have you married?" I replied, "I have married a matron' He said, "Why, don't you have a liking for the virgins and for fondling them?" Jabir also said: Allah's Messenger said, "Why didn't you marry a young girl so that you might play with her and she with you?'
+
+The fact that other men are not drawn to sexually abuse children makes Muhammad flabbergasted.
+
 ## Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating {#crotch-talk}
 
 [Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
@@ -936,19 +907,6 @@ See also:
 
 Consenting adults sucking each others tongues is none of my business, but why the obsession about telling such embarrasing details to the world? And since Aisha was technically a child during their entire marriage, this is disgusting.  
 
-## Muhammad French-kissed a little boy
-
-[Al-Adab Al-Mufrad 1183](https://sunnah.com/adab:1183)
-
-> …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, opened his mouth and put his mouth in his mouth. Then he said, O Allah, I love him, so love him and the one who loves him!'"
-
-## Muhammad was baffled that other men were not pedophiles like him
-
-[Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
-
-> Narrated Jabir bin Abdullah: When I got married, Allah's Messenger said to me, "What type of lady have you married?" I replied, "I have married a matron' He said, "Why, don't you have a liking for the virgins and for fondling them?" Jabir also said: Allah's Messenger said, "Why didn't you marry a young girl so that you might play with her and she with you?'
-
-The fact that other men are not drawn to sexually abuse children makes Muhammad flabbergasted.
 
 
 ## Muhammad believed a woman's silence means consent {#silence-is-consent}
@@ -967,54 +925,17 @@ See also [Rape](#rape).
 
 > The Prophet used to go round (have sexual relations with) all his wives in one night, and he had nine wives.
 
-## Muhammad was "ridden" by tall black men all night long {#ridden}
+## Muhammad was gay (#gay)
+
+### Muhammad was "ridden" by tall black Pakistani men all night long {#al-zutt}
 
 [Musnad Ahmad ibn Hanbal 3778](https://www-islamweb-net.translate.goog/ar/library/content/6/3599/%D9%85%D8%B3%D9%86%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D8%B1%D8%B6%D9%8A-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D8%B9%D9%86%D9%87?_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp), [3688](https://hadithportal-com.translate.goog/index.php?show=hadith&h_id=3688&book=35&_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp) (Google translate), [Jami` at-Tirmidhi 2861](https://sunnah.com/urn/730940)
 
-These 3 hadiths mentions a weird story of a night excursion Muhammad took with a certain Abdullah ibn Masoud. They provide different complementary details, so I piece together the gist of the story with quotations from all 3.
+One night, Muhammad went out in the desert to have an all-night gay sex experience with some men from Pakistan, leaving him sore and exhausted. Abdullah ibn Masoud watched.
 
-So Muhammad and Abdullah go to the valley of Makkah. Muhammad draws a circle in the sand and tells Abdullah to stay inside of it, otherwise he will perish. Apparently Muhammad is expecting visitors. Abdullah obliges, but Muhammad goes outside the circle.
+Read the whole story here: [The Al-Zutt incident](/al-zutt/).
 
-Along comes some men about whom Abdullah says:
-
-> some men came to me that appeared as if they were from Az-Zut (A dark people, either from North Africa or India.), both their hair and their bodies. 
-
-Musnad Ahmad ibn Hanbal 3778 provides this information:
-
-> they have no clothes on them
-> They were long
-
-So some long, naked, seemingly North African men comes along. Then what happened?
-
-> He said, “So they came and **started riding the Messenger of God**.” He said, “And the Prophet of God, recited to them.”
-
-So a bunch of naked North African men meet up with Muhammad and "started riding" him? Meanwhile Muhammad is reciting Quran verses to them?
-
-> When the pillar of dawn split, they started to go
-
-When dawn breaks they stop "riding" Muhammad and leaves. 
-
-> Then the Messenger of God, may God bless him and grant him peace, came **with heavy pain...from what they had ridden on.**
-
-Muhammad stumbles back to Abdullah with heavy pain from being ridden all night by long, naked North African men?
-
-> He said, “I find myself heavy,” … Then the Messenger of God, placed his head in my lap… 
-
-Poor Muhammed has been ridden so hard by the long, naked North African men that he was in pain and exhausted, falling asleep in the lap of Abdullah.
-
-> And the Messenger of Allah would snore when he slept. So while I was sitting there, and the Messenger of Allah was sleeping (with his head resting) on my thigh, there appeared some men wearing white garments, and Allah knows best just how handsome they were.
-
-Then some other men shows up. They wear white and are apparently very handsome.
-
-> Then they said to each other: 'We have not ever seen a slave (of Allah) who was given the likes of what this Prophet has been given.
-
-I say... Muhammad "was given" good that night...
-
-The white clad men starts pronouncing a parable over Muhammad while he is sleeping. Then they leave. Muhammad wakes up, declares that they were angels, and explains their parable.
-
-But who were the long, naked, North African men who rode Muhammad all night long so that he became sore and exhausted? 
-
-## Muhammad was kissing and cuddling with men
+### Muhammad was kissing and cuddling with men
 
 [Sunan Abu Dawud 3476](https://sunnah.com/abudawud:3476)
 
@@ -1033,7 +954,7 @@ Another example is found in [Sunan Abi Dawud 5224](https://sunnah.com/abudawud:5
 > a man of the Ansar, said that while he was given to jesting and was talking to the people and making them laugh, the Prophet poked him under the ribs with a stick. He said: Let me take retaliation. He said: Take retaliation. He said: You are wearing a shirt but I am not. The Prophet then raised his shirt and the man embraced him and began to kiss his side. Then he said: This is what I wanted, Messenger of Allah!
 
 
-## Muhammad ordered his followers to bite their father's penis
+### Muhammad ordered his followers to bite their father's penis
 
 [Al-Adab Al-Mufrad 963 (Sahih)](https://sunnah.com/adab:963)
 
@@ -1209,9 +1130,6 @@ These people had stolen some camels so Muhammad **had their hands and feet cut o
 > It was narrated that 'Atiyyah said: 'I was among the prisoners of Quraizah; we were examined, and whoever had grown (pubic) hair was killed, and whoever had not grown hair, he was allowed to live and was not killed."
 
 
-
-
-
 ## Muhammad attacked and enslaved defenseless people 
 
 
@@ -1223,6 +1141,58 @@ These people had stolen some camels so Muhammad **had their hands and feet cut o
 
 
 
+
+# How Muhammad treated his family {#muhammads-family}
+
+## Muhammad would not provide more than one garment each to his wives {#miserly-husband}
+
+[Sahih al Bukhari 312](https://sunnah.com/bukhari:312)
+
+> Narrated 'Aisha: None of us had more than a single garment and we used to have our menses while wearing it. Whenever it got soiled with blood of menses we used to apply saliva to the blood spot and rub off the blood with our nails.
+
+When they had menstrual blood stain their garments they would have to clean them with spit.
+
+## A wife of Muhammad used a dish to catch yellow menstrual discharge while praying {#discharge-dish}
+
+[Sahih al Bukhari 310](https://sunnah.com/bukhari:310)
+
+> Narrated 'Aisha: "One of the wives of Allah's Messenger  joined him in I'tikaf and she noticed blood and yellowish discharge (from her private parts) and put a dish under her when she prayed."
+
+## Muhammad daughter Fatima was denied an inheritance {#daughter-no-inheritance}
+
+Instead they had to go to Abu Bakr to get what they needed to survive as a charity.
+
+[Sunnan Abu Dawud 2969](https://sunnah.com/abudawud:2969)
+
+> Narrated Aisha, Ummul Mu'minin: Fatimah was demanding (the property of) sadaqah of the Messenger of Allah  at Medina and Fadak, and what remained from the fifth of Khaybar. Aisha quoted AbuBakr as saying: The Messenger of Allah  said: We are not inherited; whatever we leave is sadaqah (charity). The family of Muhammad will eat from this property, that is, from the property of Allah. They will not take more then their sustenance.
+
+## The wives of Muhammad were also denied an inheritance. {#wives-no-inheritance}
+
+[Sunnan Abu Dawud 2976](https://sunnah.com/abudawud:2976)
+
+> Narrated 'Aishah: When the Messenger of Allah  died, the wives of the Prophet  intended to send 'Uthman b. 'Affan to Abu Bakr to ask him their cost of living from (the inheritance of) the Prophet . Thereupon 'Aishah said: Did not the Messenger of Allah  say: We are not inherited. Whatever we leave is sadaqah (charity).
+
+## The wives of Muhammad were denied remarriage {#no-remarriage}
+
+[Surah 33:53](https://quran.com/33/53)
+
+> And it is not right for you to annoy the Messenger of Allah, nor ever marry his wives after him. This would certainly be a major offence in the sight of Allah.
+
+In the ancient world marriage meant protection for a woman. Being left a widow was very negative. Also being left childless like Aisha was, meant she didn't even have, nor could she ever get children to help her in her old age. Muhammad was really selfish and heartless to leave his wives to fend for themselves just because of his own insecurities.
+
+## The parents of Muhammad are in hell {#parents-in-hell}
+
+[Sahih Muslim 976b](https://sunnah.com/muslim/11/135)
+
+> Abu Huraira reported: The Apostle of Allah  visited the grave of his mother and he wept, and moved others around him to tears, and said: **I sought permission from my Lord to beg forgiveness for her but it was not granted to me**, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death.
+
+Muhammad was not allowed to ask forgiveness for his mother, meaning Allah will not forgive her, meaning she is in hell.
+
+[Sunan Abu Dawud 4718](https://sunnah.com/abudawud:4718)
+
+> Anas said : A man asked : where is my father, Messenger of Allah? He replied! Your father is in Hell. When he turned his back, he said : **My father and your father are in Hell.**
+
+Muhammad's father is in hell.
 
 
 
@@ -1266,11 +1236,7 @@ At the funeral of Muhammad:
 Abu Bakr was telling the Muslims who **used to worship Muhammad** to not do so anymore.
 
 
-## Muhammad was the first Muslim {#first-muslim}
 
-[Surah 6:14](https://quran.com/6/14)
-
-> Say, ˹O Prophet,˺ “Will I take any guardian other than Allah, the Originator of the heavens and the earth, Who provides for all and is not in need of provision?” Say, “**I have been commanded to be the first to submit** and not be one of the polytheists.”
 
 ## Allah considered Muhammad the perfect example {#perfect-example}
 

@@ -50,7 +50,7 @@
 {%-   endif -%}
 
 {%-   if next_depth > depth -%}
-<details><summary><a href="{{ url }}">{{ title }}</a></summary>
+<details{%- if url == page_path -%} open{%- endif -%}><summary><a href="{{ url }}">{{ title }}</a></summary>
 {%-   else -%}
 {%-     capture page_toc -%}
 {%-       include get_page_toc.html page_path=url -%}

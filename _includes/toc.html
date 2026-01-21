@@ -42,7 +42,12 @@ details[open] > summary::before {
   transform: rotate(90deg);
 }
 </style>
-
+{%- assign page_path = include.root | default: "/" -%}
+{%- assign last_char = page_path | slice: -1, 1 -%}
+{%- unless last_char == "/" -%}
+{%-   assign page_path = page_path 
+      | append: "/" -%}
+{%- endunless -%}
 <div markdown="0">
-{%- include menu.html root="/islam/" -%}
+{%- include menu.html root=page_path -%}
 </div>
