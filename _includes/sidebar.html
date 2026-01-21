@@ -10,22 +10,8 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
-    {%- assign pages_list = site.pages | sort:"url" -%}
-    {%- for node in pages_list -%}
-      {%- if node.title != null -%}
-        {%- if node.layout == "menu" -%}
-           <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-        {%- endif -%}
-      {%- endif -%}
-    {%- endfor -%}
-    <div class="sidebar-item">
-    <p>Featured posts</p>
-    </div>
-    {%- for node in site.tags["Featured"] -%}
-      {%- if node.title != null -%}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
-      {%- endif -%}
-    {%- endfor -%}
+    {% assign open_path = page.tocpath | default: page.url %}
+    {% include toc.html open=open_path %}
 
   </nav>
 
