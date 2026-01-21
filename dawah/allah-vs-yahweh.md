@@ -6,9 +6,9 @@ search: true
 permalink: /dawah/allah-vs-yahweh/
 ---
 
-# Differences between Allah and Yahweh
-
 If the God of Islam and Christianity are one and the same then they should share the same attributes. If even one attribute is not the same, then they are not the same God.
+
+# Differences between Allah and Yahweh
 
 ## God's essence and character {#essence}
 

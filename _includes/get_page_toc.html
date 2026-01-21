@@ -1,4 +1,5 @@
 {%- assign page_path = include.page_path | default: "/" -%}
+{{ page_path }}
 {%- assign last_char = page_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
 {%-   assign page_path = page_path 
