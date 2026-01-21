@@ -7,6 +7,8 @@ toc: true
 
 **[< Index](/islam/)**
 
+{% include toc.html %}
+
 # Allah's personality traits
 
 ## Allah is a narcissist who praises himself {#narcissist}
