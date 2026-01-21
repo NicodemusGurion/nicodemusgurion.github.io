@@ -30,8 +30,6 @@
 {%- for entry in sortable -%}
 {%-   assign parts = entry | split: "|||" -%}
 {%-   assign sortkey = parts[0] | strip -%}
-{%-   assign prefix = open_path 
-        | slice: 0, sortkey.size -%}
 {%-   assign url = parts[1] -%}
 {%-   assign title = parts[2] -%}
 {%-   assign depth = sortkey 
@@ -46,12 +44,14 @@
 {%-   else -%}
 {%-     assign next_depth = -1 -%}
 {%-   endif -%}
-    
 {%-   if depth < prev_depth -%}
 {%-     for i in (depth..prev_depth-1) -%}
 </details>
 {%-     endfor -%}
 {%-   endif -%}
+{%-   assign prefix = open_path 
+        | slice: 0, sortkey.size -%}
+Prefix: {{prefix}}, sortkey: {{sortkey}}.<br>
 {%-   if next_depth > depth -%}
 <details{%- if prefix == sortkey %} open{%-  endif -%}><summary><a href="{{ url }}">{{ title }}</a></summary>
 {%-   else -%}
