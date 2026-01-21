@@ -36,16 +36,14 @@
     
   {%- if depth < prev_depth -%}
     {%- for i in (depth..prev_depth-1) -%}
-</details><m
+</details>
     {%- endfor -%}
   {%- endif -%}
 
   {%- if next_depth > depth -%}
 <details><summary><a href="{{ url }}">{{ title }}</a></summary>
   {%- else -%}
-    <p>
-      <a href="{{ url }}">{{ title }}</a>
-    </p>
+    <p class="listitem"><a href="{{ url }}">{{ title }}</a></p>
   {%- endif -%}
   {%- assign prev_depth = depth -%}
 {%- endfor -%}
