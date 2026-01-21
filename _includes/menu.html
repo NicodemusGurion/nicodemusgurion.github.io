@@ -2,15 +2,15 @@
 {%- assign mypages = site.pages | where: "toc", "true" -%}
 
 {%- for p in mypages -%}
-  {%- if p.title -%}
-    {%- assign sortkey = p.tocpath | default: p.url -%}
-    {%- assign sortkey = sortkey | append: " " -%}
+{%-   if p.title -%}
+{%-     assign sortkey = p.tocpath | default: p.url -%}
+{%-     assign sortkey = sortkey | append: " " -%}
 
-    {%- capture line -%}
+{%-     capture line -%}
 {{ sortkey }}|||{{ p.url }}|||{{ p.title }}
-    {%- endcapture -%}
-    {%- assign sortable = sortable | push: line -%}
-  {%- endif -%}
+{%-     endcapture -%}
+{%-     assign sortable = sortable | push: line -%}
+{%-   endif -%}
 {%- endfor -%}
 
 {%- assign sortable = sortable | sort -%}
@@ -19,33 +19,33 @@
 {%- assign prev_depth = 0 -%}
 
 {%- for entry in sortable -%}
-  {%- assign parts = entry | split: "|||" -%}
-  {%- assign sortkey = parts[0] | strip -%}
-  {%- assign url = parts[1] -%}
-  {%- assign title = parts[2] -%}
-  {%- assign depth = sortkey | split: "/" | size | minus: 2 -%}
+{%-   assign parts = entry | split: "|||" -%}
+{%-   assign sortkey = parts[0] | strip -%}
+{%-   assign url = parts[1] -%}
+{%-   assign title = parts[2] -%}
+{%-   assign depth = sortkey | split: "/" | size | minus: 2 -%}
 
-  {%- assign next_entry = sortable[forloop.index] -%}
-  {%- if next_entry -%}
-    {%- assign next_parts = next_entry | split: "|||" -%}
-    {%- assign next_sortkey = next_parts[0] | strip -%}
-    {%- assign next_depth = next_sortkey | split: "/" | size | minus: 2 -%}
-  {%- else -%}
-    {%- assign next_depth = -1 -%}
-  {%- endif -%}
+{%-   assign next_entry = sortable[forloop.index] -%}
+{%-   if next_entry -%}
+{%-     assign next_parts = next_entry | split: "|||" -%}
+{%-     assign next_sortkey = next_parts[0] | strip -%}
+{%-     assign next_depth = next_sortkey | split: "/" | size | minus: 2 -%}
+{%-   else -%}
+{%-     assign next_depth = -1 -%}
+{%-   endif -%}
     
-  {%- if depth < prev_depth -%}
-    {%- for i in (depth..prev_depth-1) -%}
+{%-   if depth < prev_depth -%}
+{%-     for i in (depth..prev_depth-1) -%}
 </details>
-    {%- endfor -%}
-  {%- endif -%}
+{%-     endfor -%}
+{%-   endif -%}
 
-  {%- if next_depth > depth -%}
+{%-   if next_depth > depth -%}
 <details><summary><a href="{{ url }}">{{ title }}</a></summary>
-  {%- else -%}
+{%-   else -%}
     <p class="listitem"><a href="{{ url }}">{{ title }}</a></p>
-  {%- endif -%}
-  {%- assign prev_depth = depth -%}
+{%-   endif -%}
+{%-   assign prev_depth = depth -%}
 {%- endfor -%}
 {%- for i in (0..prev_depth-1) -%}
 </details>
