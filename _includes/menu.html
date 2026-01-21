@@ -1,3 +1,44 @@
+<style>
+details details {
+  margin-left: 20px;
+}
+p.listitem {
+  margin:0;
+  padding-left: 25px;
+  line-height: 1.1;
+}
+p.listitem::before {
+  content: "●";
+  position: relative;
+  left:-5px;
+  font-size: 1.2em; 
+}
+
+details > summary {
+  list-style: none;
+}
+details > summary::marker,
+details > summary::-webkit-details-marker {
+  display: none;
+  content: none;
+}
+
+
+/* Add custom arrow */
+details > summary::before {
+  content: "►";       /* Right-pointing arrow (▶ works too) */
+  display: inline-block;
+  width: 1em;
+  margin-right: 0.3em;
+  font-size: 1.2em;  
+  transition: transform 0.2s ease;
+}
+
+/* Rotate arrow when open */
+details[open] > summary::before {
+  transform: rotate(90deg);
+}
+</style>
 {%- assign open_path = include.open | default: "" -%}
 {%- assign last_char = open_path | slice: -1, 1 -%}
 {%- if open_path != "" last_char != "/" -%}
@@ -10,73 +51,6 @@
 {%-   assign page_path = page_path 
       | append: "/" -%}
 {%- endunless -%}
-{%- assign sortable = "" | split: "" -%}
-{%- assign mypages = site.pages | where: "toc", "true" -%}
-{%- for p in mypages -%}
-{%-   if p.title -%}
-{%-     assign sortkey = p.tocpath | default: p.url -%}
-{%-     assign sortkey = sortkey | append: " " -%}
-{%-     assign prefix = sortkey 
-        | slice: 0, page_path.size -%}
-{%-     if prefix == page_path -%}
-{%-       capture line -%}
-{{ sortkey }}|||{{ p.url }}|||{{ p.title }}
-{%-       endcapture -%}
-{%-       assign sortable = sortable | push: line -%}
-{%-     endif -%}
-{%-   endif -%}
-{%- endfor -%}
-
-{%- assign sortable = sortable | sort -%}
-
 <div markdown="0">
-{%- assign prev_depth = 0 -%}
-
-{%- for entry in sortable -%}
-{%-   assign parts = entry | split: "|||" -%}
-{%-   assign sortkey = parts[0] | strip -%}
-{%-   assign url = parts[1] -%}
-{%-   assign title = parts[2] -%}
-{%-   assign depth = sortkey 
-      | split: "/" 
-      | size 
-      | minus: 2 -%}
-{%-   assign next_entry = sortable[forloop.index] -%}
-{%-   if next_entry -%}
-{%-     assign next_parts = next_entry | split: "|||" -%}
-{%-     assign next_sortkey = next_parts[0] | strip -%}
-{%-     assign next_depth = next_sortkey | split: "/" | size | minus: 2 -%}
-{%-   else -%}
-{%-     assign next_depth = -1 -%}
-{%-   endif -%}
-{%-   if depth < prev_depth -%}
-{%-     for i in (depth..prev_depth-1) -%}
-</details>
-{%-     endfor -%}
-{%-   endif -%}
-{%-   assign prefix = open_path 
-        | slice: 0, sortkey.size -%}
-{%-   assign last_char = page_path 
-      | slice: -1, 1 -%}
-{%-   unless last_char == "/" -%}
-{%-     assign prefix = prefix 
-        | append: "/" -%}
-{%-   endunless -%}
-{%-   if next_depth > depth -%}
-<details{%- if open_path == "*" or prefix == sortkey %} open{%-  endif -%}><summary><a href="{{ url }}">{{ title }}</a></summary>
-{%-   else -%}
-{%-     capture page_toc -%}
-{%-       include get_page_toc.html page_path=url -%}
-{%-     endcapture %}
-{%-     if page_toc.size > 0 %}
-<details{%- if open_path == "*" or prefix == sortkey %} open{%-  endif -%}><summary><a href="{{ url }}">{{ title }}</a></summary>{{ page_toc }}</details>
-{%-     else -%}
-    <p class="listitem"><a href="{{ url }}">{{ title }}</a></p>
-{%-     endif -%} 
-{%-   endif -%}
-{%-   assign prev_depth = depth -%}
-{%- endfor -%}
-{%- for i in (0..prev_depth-1) -%}
-</details>
-{%- endfor -%}
+{%- include menu_generator.html root=page_path open=open_path-%}
 </div>
