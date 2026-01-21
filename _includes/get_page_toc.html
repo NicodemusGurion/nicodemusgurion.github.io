@@ -1,11 +1,11 @@
 {%- assign page_path = include.page_path | default: "/" -%}
-{{ page_path }}
 {%- assign last_char = page_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
 {%-   assign page_path = page_path 
       | append: "/" -%}
 {%- endunless -%}
 {%-     assign page = site.pages | where: "url", page_path | first -%}
+Page {{ page.url }}
 {%-   if page %}
 {%-     assign html = page.content -%}
 {%-     assign parts = html | split: "<h" -%}
