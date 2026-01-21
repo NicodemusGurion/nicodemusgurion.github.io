@@ -42,15 +42,7 @@ details[open] > summary::before {
   transform: rotate(90deg);
 }
 </style>
-{%- assign base_path = include.permalink_path | default: "/" -%}
 
-{%- assign last_char = base_path | slice: -1, 1 -%}
-{%- unless last_char == "/" -%}
-  {%- assign base_path = base_path | append: "/" -%}
-{%- endunless -%}
-
-{%- assign recursive_paths = "" | split: "" %}
 <div markdown="0">
-{%- include get_page_toc.html page_path="/islam/allah/" -%}
-{%- include menu.html -%}
+{%- include menu.html root="/islam/" -%}
 </div>
