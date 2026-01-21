@@ -51,6 +51,12 @@
 {%-   endif -%}
 {%-   assign prefix = open_path 
         | slice: 0, sortkey.size -%}
+{%-   assign last_char = page_path 
+      | slice: -1, 1 -%}
+{%-   unless last_char == "/" -%}
+{%-     assign prefix = prefix 
+        | append: "/" -%}
+{%-   endunless -%}
 Prefix: {{prefix}}, sortkey: {{sortkey}}.<br>
 {%-   if next_depth > depth -%}
 <details{%- if prefix == sortkey %} open{%-  endif -%}><summary><a href="{{ url }}">{{ title }}</a></summary>
