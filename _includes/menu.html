@@ -6,7 +6,7 @@
 {%- endunless -%}
 {%- assign sortable = "" | split: "" -%}
 {%- assign mypages = site.pages | where: "toc", "true" -%}
-{%- assign open_path = "/islam/allah" -%}
+{%- assign open_path = "/islam/allah/" -%}
 {%- for p in mypages -%}
 {%-   if p.title -%}
 {%-     assign sortkey = p.tocpath | default: p.url -%}
