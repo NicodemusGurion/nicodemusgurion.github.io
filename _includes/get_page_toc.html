@@ -4,7 +4,6 @@
 {%-   assign page_path = page_path 
       | append: "/" -%}
 {%- endunless -%}
-Checking {{ page_path }}
 {%-     assign page = site.pages | where: "url", page_path | first -%}
 {%-   if page %}
 {%-     assign html = page.content -%}
