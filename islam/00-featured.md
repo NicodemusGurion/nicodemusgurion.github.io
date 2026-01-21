@@ -2,6 +2,7 @@
 title: Featured verses 
 permalink: /islam/featured/
 search: true
+toc: true
 ---
 
 **[< Index](/islam/)**
