@@ -9,14 +9,13 @@
     {%- capture line -%}
 {{ sortkey }}|||{{ p.url }}|||{{ p.title }}
     {%- endcapture -%}
-
     {%- assign sortable = sortable | push: line -%}
   {%- endif -%}
 {%- endfor -%}
 
 {%- assign sortable = sortable | sort -%}
 
-<div class="toc-root" markdown="0">
+<div markdown="0">
 {%- assign prev_depth = 0 -%}
 
 {%- for entry in sortable -%}
@@ -34,32 +33,23 @@
   {%- else -%}
     {%- assign next_depth = -1 -%}
   {%- endif -%}
-
-  {%- if depth > prev_depth -%}
-    {%- for i in (prev_depth..depth-1) -%}
-      <div class="toc-level" markdown="0">
-    {%- endfor -%}
-  {%- elsif depth < prev_depth -%}
+    
+  {%- if depth < prev_depth -%}
     {%- for i in (depth..prev_depth-1) -%}
-{%- raw -%}</details></div>{%- endraw -%}
+</details><m
     {%- endfor -%}
   {%- endif -%}
 
   {%- if next_depth > depth -%}
-    <details>
-      <summary>
-        <a href="{{ url }}">{{ title }}</a>
-      </summary>
+<details><summary><a href="{{ url }}">{{ title }}</a></summary>
   {%- else -%}
     <p>
       <a href="{{ url }}">{{ title }}</a>
     </p>
   {%- endif -%}
-
   {%- assign prev_depth = depth -%}
 {%- endfor -%}
-
 {%- for i in (0..prev_depth-1) -%}
-</details></div>
+</details>
 {%- endfor -%}
 </div>
