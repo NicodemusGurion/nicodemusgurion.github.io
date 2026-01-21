@@ -56,7 +56,7 @@
 {%-       include get_page_toc.html page_path=url -%}
 {%-     endcapture %}
 {%-     if page_toc.size > 0 %}
-<details><summary><a href="{{ url }}">{{ title }}</a></summary>{{ page_toc }}</details>
+<detailss{%- if url == "/islam/allah/" -%} open{%- endif -%}><summary><a href="{{ url }}">{{ title }}</a></summary>{{ page_toc }}</details>
 {%-     else -%}
     <p class="listitem"><a href="{{ url }}">{{ title }}</a></p>
 {%-     endif -%} 
