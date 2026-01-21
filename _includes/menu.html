@@ -6,7 +6,7 @@
 {%- endunless -%}
 {%- assign sortable = "" | split: "" -%}
 {%- assign mypages = site.pages | where: "toc", "true" -%}
-{%- assign open_path = "/islam/allah/" -%}
+{%- assign open_path = "/islam/life/" -%}
 {%- for p in mypages -%}
 {%-   if p.title -%}
 {%-     assign sortkey = p.tocpath | default: p.url -%}
@@ -57,7 +57,6 @@
 {%-     assign prefix = prefix 
         | append: "/" -%}
 {%-   endunless -%}
-Prefix: {{prefix}}, sortkey: {{sortkey}}.<br>
 {%-   if next_depth > depth -%}
 <details{%- if prefix == sortkey %} open{%-  endif -%}><summary><a href="{{ url }}">{{ title }}</a></summary>
 {%-   else -%}
