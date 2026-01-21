@@ -7,13 +7,13 @@ toc: true
 
 **[< Index](/islam/)**
 
-## Islam
+# Islam
 
-### Apostasy
+## Apostasy
 
 How to deal with those who leave islam.
 
-### Punishment for apostasy is death {#apostasy-death-sentence}
+## Punishment for apostasy is death {#apostasy-death-sentence}
 
 [Surah 4:89](https://quran.com/4/89)
 
@@ -31,7 +31,7 @@ See also:
 
 - [Sunan Ibn Majah 2535](https://sunnah.com/ibnmajah:2535)
 
-### Give apostates a chance to repent, and if they don't, kill them
+## Give apostates a chance to repent, and if they don't, kill them
 
 
 [Muwatta Malik 36:15](https://sunnah.com/urn/514180)
@@ -53,13 +53,13 @@ See also:
 - [Sunan an-Nasa'i 4065](https://sunnah.com/nasai:4065)
 - [Bulug al Maram 9:46](https://sunnah.com/bulugh/9/46)
 
-### A man was beheaded for apostasy
+## A man was beheaded for apostasy
 
 [Sunan Abi Dawud 4356](https://sunnah.com/abudawud:4356)
 
 > Abu Burdah said: A man who turned back from Islam was brought to Abu Musa. He invited him to repent for twenty days or about so. Muadh then came and invited him (to embrace Islam) but he refused. So he was beheaded.
 
-### End time fake Muslims foretold
+## End time fake Muslims foretold
 
 [Sahih Muslim 1066 a](https://sunnah.com/muslim:1066)
 
@@ -77,7 +77,7 @@ See also:
 
 - [Jami` at-Tirmidhi 1458](https://sunnah.com/tirmidhi:1458)
 
-### Islam is a strange serpent receding into its hole {#strange-serpent}
+## Islam is a strange serpent receding into its hole {#strange-serpent}
 
 [Sahih Muslim 146](https://sunnah.com/muslim:146)
 
@@ -85,19 +85,19 @@ See also:
 
 If he was a prophet then let's hope this prophecy comes true at least.
 
-### Islam means following Muhammad 
+## Islam means following Muhammad 
 
 [Surah 4:65](https://quran.com/4/65)
 
 > But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.
 
-### Muslims must love Muhammad more than anyone else
+## Muslims must love Muhammad more than anyone else
 
 [Sunan Ibn Majah 67](https://sunnah.com/ibnmajah:67)
 
 > It was narrated that Anas bin Malik said: "The Messenger of Allah said: 'None of you truly believes until I am more beloved to him than his child, his father and all the people.'"
 
-### View of non-Muslims
+## View of non-Muslims
 
 [Surah 98:6](https://quran.com/98/6)
 
@@ -105,7 +105,7 @@ If he was a prophet then let's hope this prophecy comes true at least.
 
 Islam views non-Muslims as the worst of all beings.
 
-### Leaving Islam
+## Leaving Islam
 
 [Sunan an-Nasa'i 4061](https://sunnah.com/nasai:4061)
 
@@ -114,7 +114,7 @@ Islam views non-Muslims as the worst of all beings.
 
 
 
-### Stoning is monkey business 
+## Stoning is monkey business 
 
 [Sahih al-Bukhari 3849](https://sunnah.com/bukhari:3849)
 
@@ -124,7 +124,7 @@ Seems like monkeys and Muslims are allies in woman hating.
 
 
 
-### Who resembles a Jew or Christian can not be a Muslim 
+## Who resembles a Jew or Christian can not be a Muslim 
 
 [Jami` at-Tirmidhi 2695](https://sunnah.com/tirmidhi:2695)
 
@@ -136,7 +136,7 @@ So if you point with your finger, wave with your hand, or do anything else that 
 
 
 
-### Islam will split into 73 sects
+## Islam will split into 73 sects
 
 [Sunan Ibn Majah 3992](https://sunnah.com/ibnmajah:3992)
 
@@ -146,16 +146,16 @@ See also:
 
 - [Jami` at-Tirmidhi 2640](https://sunnah.com/tirmidhi:2640)
 
-### The goal of Islam is world domination
+## The goal of Islam is world domination
 
 [Mishkat al-Masabih 42](https://sunnah.com/mishkat:42)
 
 > Miqdad reported that he heard God’s messenger say, “There will not remain on the face of the earth a mud-brick house or a camel’s hair tent which God will not cause the confession of Islam to enter bringing both mighty honour and abject abasement. God will either honour the occupants and put them among its adherents, or will humiliate them and they will be subject to it.” Miqdad said, “God will then receive complete obedience.”
 
 
-## Non-Muslims, Jews and Christians {#non-muslims}
+# Non-Muslims, Jews and Christians {#non-muslims}
 
-### Do not befriend non-muslims 
+## Do not befriend non-muslims 
 
 [Surah 3:28](https://quran.com/3/28)
 
@@ -167,20 +167,20 @@ See also:
 
 Think you have a Muslim friend? Think again. Muslims are not allowed to be your friend, but will only pretend to be friendly to deceive.
 
-### Do not insult unbelievers or they will insult Allah
+## Do not insult unbelievers or they will insult Allah
 
 [Surah 6:108](https://quran.com/6/108)
 
 > ˹O believers!˺ Do not insult what they invoke besides Allah or they will insult Allah spitefully out of ignorance. 
 
 
-### Non-Muslims are the worst of creatures
+## Non-Muslims are the worst of creatures
 
 [Surah 98:6](https://quran.com/98/6)
 
 > Those who reject (Truth), among the People of the Book and among the Polytheists, will be in Hell-Fire, to dwell therein. They are the worst of creatures
 
-### Do not greet Jews and Christians but bully them
+## Do not greet Jews and Christians but bully them
 
 [Sahih Muslim 2167 a](https://sunnah.com/muslim:2167)
 
@@ -193,7 +193,7 @@ See also:
 - [Jami` at-Tirmidhi 2700](https://sunnah.com/tirmidhi:2700)
 
 
-### Jews and Christians to be expelled from Arabia
+## Jews and Christians to be expelled from Arabia
 
 [Sahih Muslim 1767 a](https://sunnah.com/muslim:1767a)
 
@@ -203,7 +203,7 @@ See also:
 - [Bulugh al-Maram 11:46](https://sunnah.com/bulugh/11/46)
 - [Mishkat al-Masabih 4053](https://sunnah.com/mishkat:4053)
 
-### Jews and Christians who don't accept Islam go to hell
+## Jews and Christians who don't accept Islam go to hell
 
 
 [Sahih Muslim 153](https://sunnah.com/muslim:153)
@@ -215,7 +215,7 @@ See also:
 - [Mishkat al-Masabih 10](https://sunnah.com/mishkat:10)
 
 
-### Jews and Christians are worth half as much as Muslims 
+## Jews and Christians are worth half as much as Muslims 
 
 [Sunan Ibn Majah 2644](https://sunnah.com/ibnmajah:2644)
 
@@ -226,7 +226,7 @@ See also:
 - [Sunan an-Nasa'i 4806](https://sunnah.com/nasai:4806)
 
 
-### Muslims should listen to and learn from Christians and Jews {#listen-to-christians}
+## Muslims should listen to and learn from Christians and Jews {#listen-to-christians}
 
 [Surah 29:46](https://quran.com/29/46)
 
@@ -243,14 +243,14 @@ See also:
 Muslims should not argue with Christians but listen and learn from them what Allah has really taught.
 
 
-### The Jews and Christians did have the uncorrupted scriptures in the days of Muhammad 
+## The Jews and Christians did have the uncorrupted scriptures in the days of Muhammad 
 
 [Jami` at-Tirmidhi 2653](https://sunnah.com/tirmidhi:2653)
 
 > The Tawrah and Injil are with the Jews and Christians
 
 
-### Jizya
+## Jizya
 
 Jizya is a tax that Islam demands from Jews and Christians in exchange for not killing them.
 
@@ -266,36 +266,36 @@ This is the future of your country if you invite Islam: They will sooner or late
 
 
 
-### Jews
+## Jews
 
 
-#### Allah favors Jews
+### Allah favors Jews
 
 [Surah 45:16](https://quran.com/45/16)
 
 > Indeed, We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good, lawful provisions; and favoured them above the others.
 
-#### Allah ordained that Israel would live in the holy land
+### Allah ordained that Israel would live in the holy land
 
 [Surah 5:21](https://quran.com/5/21)
 
 > O my people! Go into the holy land which Allah hath ordained for you. Turn not in flight, for surely ye turn back as losers:
 
 
-#### A tribe of Israelites were turned into rats {#rats}
+### A tribe of Israelites were turned into rats {#rats}
 
 [Sahih al-Bukhari 3305](https://sunnah.com/bukhari:3305)
 
 > The Prophet said, "A group of Israelites were lost. Nobody knows what they did. But I do not see them except that they were cursed and changed into rats, for if you put the milk of a she-camel in front of a rat, it will not drink it, but if the milk of a sheep is put in front of it, it will drink it."
 
 
-#### Jews are equal to asses and pigs
+### Jews are equal to asses and pigs
 
 [Mishkat al-Masabih 789](https://sunnah.com/mishkat:789)
 
 > When one of you prays without a sutra, an ass, a pig, a Jew, a Magian, and a woman cut off his prayer.
 
-#### The verse Muslims use to lie that Islam is peaceful {#peaceful}
+### The verse Muslims use to lie that Islam is peaceful {#peaceful}
 
 [Surah 5:32](https://quran.com/5/32)
 
@@ -319,7 +319,7 @@ But wait, it gets better. The next verse is what applies to Muslims:
 
 This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
 
-#### Islam's Final Solution to the Jewish Question {#final-solution}
+### Islam's Final Solution to the Jewish Question {#final-solution}
 
 [Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
 
@@ -339,15 +339,15 @@ See also:
 
 
 
-### Christians
+## Christians
 
-#### Christians must judge by the Gospel
+### Christians must judge by the Gospel
 
 [Surah 5:47](https://quran.com/5/47)
 
 > So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
 
-#### Allah promised that Christians will be superior until judgment day 
+### Allah promised that Christians will be superior until judgment day 
 
 [Surah 3:55](https://quran.com/3/55)
 

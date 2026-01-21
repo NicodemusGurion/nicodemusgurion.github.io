@@ -8,7 +8,7 @@ toc: true
 **[< Index](/islam/)**
 
 
-## "The eyes are the leather strap of the anus"
+# "The eyes are the leather strap of the anus"
 
 [Sunnah Abu Dawud 203](https://sunnah.com/abudawud:203)
 
@@ -22,26 +22,26 @@ Also:
 
 
 
-## Muhammad comforted a crying date palm
+# Muhammad comforted a crying date palm
 
 [Sahih al-Bukhari 2095](https://sunnah.com/bukhari:2095)
 
 > The date-palm stem near which the Prophet used to deliver his sermons cried so much so that it was about to burst. The Prophet came down from the pulpit to the stem and embraced it and it started groaning like a child being persuaded to stop crying and then it stopped crying.
 
 
-## Moses had his clothes stolen by a stone
+# Moses had his clothes stolen by a stone
 
 [Sahih al Bukhari 278](https://sunnah.com/bukhari:278)
 
 > ...once Moses went out to take a bath and put his clothes over a stone and then that stone ran away with his clothes. Moses followed that stone saying, "My clothes, O stone! My clothes, O stone!...
 
-## Unbelievers visiting a mosque will go to hell
+# Unbelievers visiting a mosque will go to hell
 
 [Surah 9:17-18](https://quran.com/9/17)
 
 > Never was it befitting for the polytheists to attend Allah’s mosques while professing their denial. Those—their deeds were nullified, and in the Fire they abide.Surely, Allah’s mosques can only be attended by one who has attained faith in Allah…
 
-## Muslims living abroad goes to hell
+# Muslims living abroad goes to hell
 
 [Surah 4:97](https://quran.com/4/97)
 
@@ -49,7 +49,7 @@ Also:
 
 When muslims who live outside of Islamic countries (i.e. them being **opressed in the land**) die, the angel of death will scold them for not living in an Islamic country (i.e. **Allah’s earth**), and send them to hell.
 
-## Snakes in houses may be demons who converted to islam {#snake-jinn}
+# Snakes in houses may be demons who converted to islam {#snake-jinn}
 
 This teaching is spread out over many Hadiths, but pieced together the gist is: 
 
@@ -94,7 +94,7 @@ Muhammad said to kill specific snakes…
 - [Sahih Muslim 2236 b](https://sunnah.com/muslim:2236b)
 - [Mishkat al-Masabih 4137](https://sunnah.com/mishkat:4137)
 
-## A deathbed convert couldn't be buried
+# A deathbed convert couldn't be buried
 
 [Sunan Ibn Majah 3930](https://sunnah.com/ibnmajah:3930)
 
@@ -103,19 +103,19 @@ Muhammad said to kill specific snakes…
 Apparently it was impossible to keep this deathbed convert in the ground, so they did the only sensible thing and **threw him into one of these mountain passes**. As you do.
 
 
-## Don't sit between the sun and shade
+# Don't sit between the sun and shade
 
 [Sunan Ibn Majah 3722](https://sunnah.com/ibnmajah:3722)
 
 > the Prophet forbade sitting between the shade and sun.
 
-## Relieve sexual awkwardness by suckling breasts {#adult-suckling}
+# Relieve sexual awkwardness by suckling breasts {#adult-suckling}
 
 >  A'isha (Allah be pleased with her) reported that Salim, the freed slave of Abu Hadhaifa, lived with him and his family in their house. She (i. e. the daughter of Suhail came to Allah's Apostle and said: Salim has attained (puberty) as men attain, and he understands what they understand, and he enters our house freely, I, however, perceive that something (rankles) in the heart of Abu Hudhaifa, whereupon Allah's Apostle said to her: Suckle him and you would become unlawful for him, and (the rankling) which Abu Hudhaifa feels in his heart will disappear. She returned and said: So I suckled him, and what (was there) in the heart of Abu Hudhaifa disappeared.
 
 So her slave boy is becoming an adult, and her husband is bothered that a young man is spending time with his wife because of the sexual awkwardness. She asks Muhammad what to do. So what is the solution proposed by Muhammad? "Let the horny young boy suck on your breasts, and that will make the situation less sexually awkward."
 
-## Muhammad's donkey stinks
+# Muhammad's donkey stinks
 
 [Sahih Muslim 1799](https://sunnah.com/muslim:1799)
 

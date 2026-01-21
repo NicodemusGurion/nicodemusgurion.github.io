@@ -7,9 +7,9 @@ toc: true
 
 **[< Index](/islam/)**
 
-## Violence against women
+# Violence against women
 
-### Wife beating is allowed in Islam {#domestic-abuse}
+## Wife beating is allowed in Islam {#domestic-abuse}
 
 [Surah 4:34](https://quran.com/4/34)
 
@@ -17,7 +17,7 @@ toc: true
 
 This is if a man even only fears his wife would be disobedient.
 
-### Never ask why a man beats his wife  {#dont-question-wife-beater}
+## Never ask why a man beats his wife  {#dont-question-wife-beater}
 
 [Sunan Abi Dawud 2147](https://sunnah.com/abudawud:2147)
 
@@ -29,13 +29,13 @@ This is if a man even only fears his wife would be disobedient.
 
 Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 
-### Flogging your wife is ok as long as you don't have sex with her afterwards
+## Flogging your wife is ok as long as you don't have sex with her afterwards
 
 [Sahih al-Bukhari 5204](https://sunnah.com/bukhari:5204)
 
 > The Prophet said, "None of you should flog his wife as he flogs a slave and then have sexual intercourse with her in the last part of the day."
 
-### Muhammad insults victims of domestic abuse
+## Muhammad insults victims of domestic abuse
 
 [Sunan Abi Dawud 2146 (Sahih)](https://sunnah.com/abudawud:2146)
 
@@ -44,7 +44,7 @@ Are also [Musnad Ahmad 122](https://sunnah.com/ahmad:122)
 At first it seems Muhammad was against wife beating, but being a pushover milquetoast with no backbone, one sentence by Umar made him change his mind. Instead he started promoting wife beating and said that women who complained about being beaten were "not the best among you."
 
 
-### Abu Bakr hit Aisha
+## Abu Bakr hit Aisha
 
 [Sahih al-Bukhari 6845](https://sunnah.com/bukhari:6845)
 
@@ -52,7 +52,7 @@ At first it seems Muhammad was against wife beating, but being a pushover milque
 
 So it's ok to just go punch some other man's wife too?
 
-### Muhammad hit Aisha
+## Muhammad hit Aisha
 
 
 [Sahih Muslim 974b](https://sunnah.com/muslim/11/132)
@@ -72,7 +72,7 @@ However the Arabic says:
 So Muhammad gets pissy and slaps his wife in the chest so hard that it hurt her. This is in harmony with [Surah 4:34](https://quran.com/4/34) which allows men to beat their wives for any reason. So I don't understand why the people at Sunnah.com feels so ashamed over this that they feel they must rewrite it to deceive people about their religion. Maybe because sane people would reject their abusive cult if they knew. Without lies Islam dies.
 
 
-### No women has it worse than Muslim women {#muslimas-treated-worst}
+## No women has it worse than Muslim women {#muslimas-treated-worst}
 
 [Sahih al-Bukhari 5825](https://sunnah.com/bukhari:5825)
  
@@ -80,9 +80,9 @@ So Muhammad gets pissy and slaps his wife in the chest so hard that it hurt her.
 
 Even Aisha, the "mother of the believers", admits that no women are treated as poorly as Muslim women. This muslima was beaten so severely that her bruises were greener than her green veil.
 
-## Sexual abuse
+# Sexual abuse
 
-### Women should be circumcised 
+## Women should be circumcised 
 
 [Al-Adab Al-Mufrad 53:2](https://sunnah.com/adab/53/2)
 
@@ -92,25 +92,25 @@ Even Aisha, the "mother of the believers", admits that no women are treated as p
 
 > the daughters of 'A'isha's brother were circumcised
 
-### Women are to be plowed like a field {#plowing-women}
+## Women are to be plowed like a field {#plowing-women}
 
 [Surah 2:223](https://quran.com/2/223) 
 
 > Your wives are your fields, so plow into your fields whichever way you like
 
-### Wives must always be ready to please their husbands
+## Wives must always be ready to please their husbands
 
 [Sunan Ibn Majah 1853](https://sunnah.com/ibnmajah:1853)
 
 > No woman can fulfill her duty towards Allah until she fulfills her duty towards her husband. If he asks her (for intimacy) even if she is on her camel saddle, she should not refuse.
 
-### Allah curses women who don't sleep with their husbands
+## Allah curses women who don't sleep with their husbands
 
 [Sahih al-Bukhari 5194](https://sunnah.com/bukhari:5194)
 
 > The Prophet said, "If a woman spends the night deserting her husband's bed (does not sleep with him), then the angels send their curses on her till she comes back (to her husband).
 
-### Islam allows child marriage {#pedophilia-ok}
+## Islam allows child marriage {#pedophilia-ok}
 
 [Surah 65:4](https://quran.com/65/4)
 
@@ -125,7 +125,7 @@ There's a waiting period a divorced woman has to wait before she can remarry.
 This means men are allowed to marry and divorce prepubescent girls.
 
 
-### Temporary marriages allowed {#muta}
+## Temporary marriages allowed {#muta}
 
 [Sahih al-Bukhari 5075](https://sunnah.com/bukhari:5075)
 
@@ -133,7 +133,7 @@ This means men are allowed to marry and divorce prepubescent girls.
 
 Temporary marriage or Muta is when a Muslim man marries a woman for a few days or hours usually in exchange for money, just because he can't keep it in his pants for a few days, or he wants to sleep around without technically committing adultery. It's basically prostitution. Just yet another way in which Islam treats women as property or commodities to be bought and sold.
 
-### Captured women's marriage annulled
+## Captured women's marriage annulled
 
 [Sahih Muslim 1456 a](https://sunnah.com/muslim:1456)
 
@@ -141,15 +141,15 @@ Temporary marriage or Muta is when a Muslim man marries a woman for a few days o
 
 The companions of Muhammad had the basic decency to not rape married women, but then Allah said it's ok to rape married women if you capture them in battle.
 
-## Opresive rules
+# Opresive rules
 
-### Women wearing perfume are adulteresses
+## Women wearing perfume are adulteresses
 
 [Sunan an-Nasa'i 5126](https://sunnah.com/nasai:5126)
 
 > "The Messenger of Allah said: 'Any woman who puts on perfume then passes by people so that they can smell her fragrance then she is an adulteress.'"
 
-### Women are cursed for plucking their eyebrows, getting tattoos, or orthodontics 
+## Women are cursed for plucking their eyebrows, getting tattoos, or orthodontics 
 
 [Riyad as-Salihin 1646](https://sunnah.com/riyadussalihin:1646)
 
@@ -158,7 +158,7 @@ The companions of Muhammad had the basic decency to not rape married women, but 
 In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#pedophilia-ok) are allowed, but if a woman plucks her eyebrows she is cursed?
 
 
-## Wigs are forbidden {#no-wigs}
+# Wigs are forbidden {#no-wigs}
 
 [Riyad as-Salihin 1642](https://sunnah.com/riyadussalihin:1642)
 
@@ -167,9 +167,9 @@ In Islam, [murdering people](#jihad), [lying](#taqqiya), and [raping children](#
 Letting that poor girl go to her wedding bald, just because he had a weird thing about wigs and an obsession with micromanaging the minutiae of everyone's lives.
 
 
-## General view on women 
+# General view on women 
 
-### Most people in hell are women {#most-in-hell-women}
+## Most people in hell are women {#most-in-hell-women}
 
 [Sunan an-Nasa'i 1493](https://sunnah.com/nasai:1493)
 
@@ -185,7 +185,7 @@ See also:
 
 - [Sahih al-Bukhari 29](https://sunnah.com/bukhari:29)
 
-### Women in hell for dressing wrong
+## Women in hell for dressing wrong
 
 [Sahih Muslim 2128](https://sunnah.com/muslim:2128)
 
@@ -194,7 +194,7 @@ See also:
 
 Editors note: “whom I did not see” means they were not commonly seen in his society.
 	
-### Women are "deficient in intelligence"
+## Women are "deficient in intelligence"
 
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
@@ -203,7 +203,7 @@ Editors note: “whom I did not see” means they were not commonly seen in his 
 See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
 
 
-### The testimony of a woman is worth half that of a man
+## The testimony of a woman is worth half that of a man
 
 [Surah 2:282](https://quran.com/2/282)
 
@@ -217,7 +217,7 @@ In Islam, women are considered to be half as intelligent and trustworthy as a ma
 
 See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
 
-### Women are "deficient in religion"
+## Women are "deficient in religion"
 
 [Sahih al Bukhari 304](https://sunnah.com/bukhari:304)
 
@@ -227,7 +227,7 @@ See also [Sahih al Bukhari 2658](https://sunnah.com/bukhari:2658)
 
 So since women can't pray or fast during their period, they are seen as deficient. Therefore ["most people in hell are women"](#most-in-hell-women) But it is Allah who made women that way, so it is Allah's fault if this would be the case. What an absolute arsehole.
 
-### Women are equal to donkeys, dogs and pigs
+## Women are equal to donkeys, dogs and pigs
 
 [Sahih al-Bukhari 511](https://sunnah.com/bukhari:511)
 
@@ -245,26 +245,26 @@ See also:
 
 
 
-### Women are a source of trouble
+## Women are a source of trouble
 
 [Riyad as-Salihin 1675](https://sunnah.com/riyadussalihin:1675)
 
 > The Messenger of Allah said, "There is no infection and no evil omen; but if there is anything (that may be a source of trouble) then it could be a house, a horse, and a woman."
 
-### Women are devils 
+## Women are devils 
 
 [Mishkat al-Masabih 3105](https://sunnah.com/mishkat:3105)
 
 > God’s Messenger [said], “A woman advances in the form of a devil and retires in the form of a devil.
 
-### Men are not allowed to wash themselves with the same water a woman has used
+## Men are not allowed to wash themselves with the same water a woman has used
 
 [Sunan an-Nasa'i 343](https://sunnah.com/nasai:343)
 
 > The Messenger of Allah forbade a man from performing Wudu' (washing) with the leftovers of a woman's (water for) Wudu' (washing).
 
 
-### Women must cover everything but their faces and hands
+## Women must cover everything but their faces and hands
 
 [Sunan Abi Dawud 4104](https://sunnah.com/abudawud:4104)
 
@@ -275,7 +275,7 @@ See also:
 > And tell the believing women to lower their gaze and guard their chastity, and not to reveal their adornments [i.e., hair, body shape, and underclothes.] except what normally appears.[i.e., the face, hands, outer clothes, rings, kohl, and henna.] Let them draw their veils over their chests, and not reveal their ˹hidden˺ adornments [i.e., hair, arms, and legs.]
 
 
-### In paradise, women will be prostitutes
+## In paradise, women will be prostitutes
 
 [Sahih al-Bukhari 4879, 4880](https://sunnah.com/bukhari:4879)
 

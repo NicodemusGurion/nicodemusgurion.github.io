@@ -7,11 +7,11 @@ toc: true
 
 **[< Index](/islam/)**
 
-## The Bible 
+# The Bible 
 
 **Note:** Muhammad was an ignoramus and did not know anything about the Bible, so when he refers to the Torah he means the Old Testament, and when he refers to the Gospel he means the New Testament.
 
-### The Quran confirms the Bible {#bible-confirmed}
+## The Quran confirms the Bible {#bible-confirmed}
 
 [Surah 2:41](https://quran.com/2/41)
 
@@ -31,7 +31,7 @@ toc: true
 
 See also [Surah 2:4,41,89,91,97,101,111](https://quran.com/2/4,41,89,91,97,101,111)[;3:3-4,23,81,93,184](https://quran.com/3/3-4,23,81,93,184)[;4:47](https://quran.com/4/47)[;5:44,48,66,68](https://quran.com/5/44,48,66,68)[;6:91-92](https://quran.com/6/91-92)[;10:37,94](https://quran.com/10/37,94)[;12:111](https://quran.com/12/111)[;16:43](https://quran.com/16/43)[;20:133](https://quran.com/20/133)[;21:7,48,105](https://quran.com/21/7,48,105)[;26:196](https://quran.com/26/196)[;28:48-49](https://quran.com/28/48-49)[;35:25,31](https://quran.com/35/25,31)[;37:37](https://quran.com/37/37)[;40:53](https://quran.com/40/53)[;46:12,30](https://quran.com/46/12,30)[;87:18-19](https://quran.com/87/18-19)
 
-### The Torah is the word of Allah
+## The Torah is the word of Allah
 
 [Surah 5:43,44](https://quran.com/5/43,44)
 
@@ -41,13 +41,13 @@ Also: [Surah 32:23](https://quran.com/32/23)
 
 See: [No one can change the word of Allah](#unchanging-word)
 
-### The Quran says the Gospel confirms the Torah 
+## The Quran says the Gospel confirms the Torah 
 
 [Surah 5:46](https://quran.com/5/46)
 
 > Then in the footsteps of the prophets, We sent Jesus, son of Mary, confirming the Torah revealed before him. And We gave him the Gospel containing guidance and light and confirming what was revealed in the Torah—a guide and a lesson to the God-fearing.
 
-### The Quran confirms the Bible {#confirms-bible}
+## The Quran confirms the Bible {#confirms-bible}
 
 Surah 2: 88-91
 
@@ -61,7 +61,7 @@ See also:
 - [Surah 5:46,47](https://quran.com/5/46,47)
 
 
-### Christians and Jews must observe the Bible
+## Christians and Jews must observe the Bible
 
 [Surah 5:68](https://quran.com/5/68)
 
@@ -72,21 +72,21 @@ See also:
 Would Allah order people to observe corrupted books? Obviously not. So these books can not be corrupted.
 
 
-### Christians must judge by the gospel
+## Christians must judge by the gospel
 
 [Surah 5:47](https://quran.com/5/47)
 
 > So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
 
 
-### Muhammad is ordered to consult the Jews and Christians if he is in doubt
+## Muhammad is ordered to consult the Jews and Christians if he is in doubt
 
 [Surah 10:94](https://quran.com/10/94)
 
 >  If you ˹O Prophet˺ are in doubt about ˹these stories˺ that We have revealed to you, then ask those who read the Scripture before you. The truth has certainly come to you from your Lord, so do not be one of those who doubt,
 
 
-### Muhammad says the Jews and Christians do have the Torah and Gospel 
+## Muhammad says the Jews and Christians do have the Torah and Gospel 
 
 [Jami` at-Tirmidhi 2653](https://sunnah.com/tirmidhi:2653)
 
@@ -97,16 +97,16 @@ Muhammed is saying that the Jews and Christian's of his day **did** have the Tor
 
 And since we have complete Bibles hundreds of years older than Islam, and these Bibles are identical to modern ones (since we use them to translate the modern ones), then the Torah and gospels that we have today are the exact same that Muhammad said existed in his days.
 
-## The Quran {#quran}
+# The Quran {#quran}
 
 See also [the Bible](#bible).
 
-### Clear and unclear
+## Clear and unclear
 
 [Surah 3:7](https://quran.com/3/7) says that in the Quran "some verses are precise…while others are elusive." Meanwhile [Surah 11:1](https://quran.com/11/1) says that the Quran is "a Book whose verses are well perfected and then fully explained. " So which is it? Is it clear or unclear?
 
 
-### The Quran is only meant for the Arabs
+## The Quran is only meant for the Arabs
 
 [Surah 42:7](https://quran.com/42/7)
 
@@ -116,7 +116,7 @@ See also [the Bible](#bible).
 
 > We have never sent a messenger who did not use his own people’s language to make things clear for them.
 
-### Non-arabs predicted to not believe 
+## Non-arabs predicted to not believe 
 
 [Surah 26:198,199](https://quran.com/26/198,199)
 
@@ -125,7 +125,7 @@ See also [the Bible](#bible).
 Allah is saying that if Muhammad had gone to non-Arabs, they would not believe him. Are non-Arabs not as gullible as Arabs, or what? This is a prediction by Allah that proved to be false, since many non-Arabs have accepted Islam, even from Muhammad directly.
 
 
-### The original Quranic manuscripts were burned 
+## The original Quranic manuscripts were burned 
 
 [Sahih al-Bukhari 4987](https://sunnah.com/bukhari:4987)
 
@@ -134,7 +134,7 @@ Allah is saying that if Muhammad had gone to non-Arabs, they would not believe h
 We have no way of confirming that the current Quran is uncorrupted or even the same as the message Muhammad delivered.
 
 
-### The Quran was foretold in the Bible
+## The Quran was foretold in the Bible
 
 [Surah 26:192-196](https://quran.com/26/192-196)
 
@@ -142,7 +142,7 @@ We have no way of confirming that the current Quran is uncorrupted or even the s
 
 If the Bible was allegedly corrupted, why would Allah not know that it would be? And why would he use a corrupted book to foretell the Quran?
 
-### Proof of inspiration {#proof-of-inspiration}
+## Proof of inspiration {#proof-of-inspiration}
 
 [Surah 2:23-24](https://quran.com/2/23-24)
 
@@ -150,7 +150,7 @@ If the Bible was allegedly corrupted, why would Allah not know that it would be?
 
 The only claim to inspiration the Quran makes is in its literary excellence, claiming no one can produce a chapter like it. But if you have read it the first thing that strikes you is that literary speaking, it is garbage. Even a mediocre poet would be able to write a chapter far more excellent than most chapters of the Quran.
 
-### No one can change the word of Allah {#unchanging-word}
+## No one can change the word of Allah {#unchanging-word}
 
 
 [Surah 6:34,115](https://quran.com/6/34,115)
@@ -169,7 +169,7 @@ The only claim to inspiration the Quran makes is in its literary excellence, cla
 
 > My Word cannot be changed, nor am I unjust to ˹My˺ creation.”
 
-### The word of Allah CAN be changed
+## The word of Allah CAN be changed
 
 [Surah 2:75](https://quran.com/2/75)
 
@@ -177,17 +177,17 @@ The only claim to inspiration the Quran makes is in its literary excellence, cla
 
 
 
-### The Quran is not perfectly preserved {#not-preserved}
+## The Quran is not perfectly preserved {#not-preserved}
 
 One miraculous claim made is that the Quran has been perfectly preserved. However the Quran and Hadiths contradict this.
 
-#### Allah foretold that the Quran wouldn’t be perfectly preserved {#no-preservation}
+### Allah foretold that the Quran wouldn’t be perfectly preserved {#no-preservation}
 
 [Surah 2:106](https://quran.com/2/106)
 
 > If We ever abrogate a verse or **cause it to be forgotten**, We replace it with a better or similar one. Do you not know that Allah is Most Capable of everything?
 
-#### The Quran was corrupted even during Muhammad's lifetime {#early-corruption}
+### The Quran was corrupted even during Muhammad's lifetime {#early-corruption}
 
 
 [Sahih al-Bukhari 2410](https://sunnah.com/bukhari:2410)
@@ -195,7 +195,7 @@ One miraculous claim made is that the Quran has been perfectly preserved. Howeve
 > Narrated Abdullah: I heard a man reciting a verse (of the Holy Qur'an) but I had heard the Prophet reciting it differently. So, I caught hold of the man by the hand and took him to Allah's Messenger who said, "Both of you are right."
 
 
-#### Two chapters of the Quran were forgotten {#surahs-forgotten}
+### Two chapters of the Quran were forgotten {#surahs-forgotten}
 
 [Sahih Muslim 1050](https://sunnah.com/muslim:1050)
 
@@ -203,7 +203,7 @@ One miraculous claim made is that the Quran has been perfectly preserved. Howeve
 
 This reciter admits that they **used to recite** two surahs meaning it was once part of the Quran, but that they just forgot them. He remembers some fragments, but these match nothin in the Quran, proving that these surahs are gone forever. This proves the Quran has not been perfectly preserved.
 
-#### Even Muhammad forgot what the Quran said
+### Even Muhammad forgot what the Quran said
 
 [Sahih al Bukhari 5038](https://sunnah.com/bukhari:5038)
 
@@ -212,7 +212,7 @@ This reciter admits that they **used to recite** two surahs meaning it was once 
 Not even the man who made it up could remember it, yet they want me to believe the Quran was perfectly preserved?
 
 
-#### Verses of the Quran were eaten by a sheep {#sheep-ate-verses}
+### Verses of the Quran were eaten by a sheep {#sheep-ate-verses}
 
 [Sunan Ibn Majah 1944](https://sunnah.com/ibnmajah:1944)
 
@@ -221,7 +221,7 @@ Not even the man who made it up could remember it, yet they want me to believe t
 How can the Quran be perfectly preserved when parts of it were literally eaten by a sheep?
 
 
-### Chapters of the Quran could be ordered on demand {#surah-on-demand}
+## Chapters of the Quran could be ordered on demand {#surah-on-demand}
 
 [Sahih al Bukhari 4483](https://sunnah.com/bukhari:4483)
 
@@ -231,7 +231,7 @@ Apparently, chapters could be requested on demand by the followers of Muhammad t
 
 
 
-### Denying a Quran verse makes you a kafir {#denying-quran}
+## Denying a Quran verse makes you a kafir {#denying-quran}
 
 [Surah 2:85](https://quran.com/2/85)
 
@@ -246,7 +246,7 @@ Apparently, chapters could be requested on demand by the followers of Muhammad t
 
 > no one rejects Our verses except the infidels.
 
-### Denying a Quran verse is a capital offense {#execute-kafir}
+## Denying a Quran verse is a capital offense {#execute-kafir}
 
 [Sunan Ibn Majah 2539](https://sunnah.com/ibnmajah:2539)
 
@@ -255,13 +255,13 @@ Apparently, chapters could be requested on demand by the followers of Muhammad t
 
 See also [Apostasy](#apostasy)
 
-### Muslims shouldn't bring the Quran to enemy lands
+## Muslims shouldn't bring the Quran to enemy lands
 
 [Sahih Muslim 1869 a](https://sunnah.com/muslim:1869)
 
 > The Messenger of Allah forbade that one should travel to the land of the enemy taking the Qur'an with him.
 
-### A Christian wrote the Quran
+## A Christian wrote the Quran
 
 [Sahih al-Bukhari 3617](https://sunnah.com/bukhari:3617)
 
@@ -270,7 +270,7 @@ See also [Apostasy](#apostasy)
 At least part of the Quran was written down by, or edited by a Christian convert to Islam (and later re-convert to Christianity). He claimed to understand it better than Muhammad.
 
 
-### The Quran is alive and will intercede on judgment day {#quran-intercession}
+## The Quran is alive and will intercede on judgment day {#quran-intercession}
 
 [Sahih Muslim 804 a](https://sunnah.com/muslim:804a)
 
@@ -283,7 +283,7 @@ See also:
 - [Mishkat al-Masabih 2120](https://sunnah.com/mishkat:2120)
 
 
-## Verses where the Quran affirms the Bible
+# Verses where the Quran affirms the Bible
 
 [Surah 2:4,41,89,91,97,101](https://quran.com/2/4,41,89,91,97,101)[;3:3-4,23,81,93,184](https://quran.com/3/3-4,23,81,93,184)[;4:47](https://quran.com/4/47)[;5:44,46,48,66,68](https://quran.com/5/44,46,48,66,68)[;6:91-92](https://quran.com/6/91-92)[;10:37,94](https://quran.com/10/37,94)[;12:111](https://quran.com/12/111)[;16:43](https://quran.com/16/43)[;20:133](https://quran.com/20/133)[;21:7,105](https://quran.com/21/7,105)[;26:196](https://quran.com/26/196)[;28:48-49](https://quran.com/28/48-49)[;35:25,31](https://quran.com/35/25,31)[;37:37](https://quran.com/37/37)[;40:53](https://quran.com/40/53)[;46:12,30](https://quran.com/46/12,30)[;87:18-19](https://quran.com/87/18-19) 
 

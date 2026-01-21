@@ -12,11 +12,11 @@ Islamic theology based on the Quran and Hadiths is full of errors and contradict
 
 
 
-## Errors 
+# Errors 
 
 Historical and factual errors 
 
-### Jews think Ezra is the son of Allah {#ezra-son-of-allah}
+## Jews think Ezra is the son of Allah {#ezra-son-of-allah}
 
 [Surah 9:30](https://quran.com/9/30)
 
@@ -24,7 +24,7 @@ Historical and factual errors
 
 This is false. No Jews have ever claimed that Ezra is the son of God. Is it Allah or Muhammad who is ignorant of this fact?
 
-### The Quran gets the trinity wrong {#trinity}
+## The Quran gets the trinity wrong {#trinity}
 
 [Surah 5:73](https://quran.com/5/73)
 
@@ -32,7 +32,7 @@ This is false. No Jews have ever claimed that Ezra is the son of God. Is it Alla
 
 This is an obvious reference to the trinity doctrine. However the trinity doctrine doesn't say that God or Allah is "one of three". That would be tritheism. It says that God is one in essence and three in persons. The Quran is wrong. 
 
-### The Quran confuses the Holy Spirit with the Angel Gabriel 
+## The Quran confuses the Holy Spirit with the Angel Gabriel 
 
 [Surah 19:17](https://quran.com/19/17)
 
@@ -42,7 +42,7 @@ When Mary is visited by Gabriel:
 
 The spirit of Allah, i.e. the Holy Spirit comes in the shape of a man (see Ezekiel 8) to Mary. But it was the Angel Gabriel who came to Mary.
 
-### Christians worship Mary {#worshipping-mary}
+## Christians worship Mary {#worshipping-mary}
 
 [Surah 5:116](https://quran.com/5/116)
 
@@ -50,7 +50,7 @@ The spirit of Allah, i.e. the Holy Spirit comes in the shape of a man (see Ezeki
 
 Christians don't worship Mary. But Allah doesn't know this.
 
-### Mary the mother of Jesus is the brother of Aaron {#who-is-mary}
+## Mary the mother of Jesus is the brother of Aaron {#who-is-mary}
 
 [Surah 19:27-28](https://quran.com/19/27-28)
 
@@ -73,7 +73,7 @@ See also [Surah 3:35-36](https://quran.com/3/35-36).
 
 These are two totally different people, and the author of the Quran is so ignorant that he mixes them up and thinks they're the same people. 
 
-### Pharao ordered Haman to build the Tower of Babel {#pharao-haman-tower}
+## Pharao ordered Haman to build the Tower of Babel {#pharao-haman-tower}
 
 [Surah 40:36](https://quran.com/40/36)
 
@@ -81,7 +81,7 @@ These are two totally different people, and the author of the Quran is so ignora
 
 The Pharao was the king of Egypt. Haman was an Amalekite man, an enemy of Israel, who lived in the Persian empire in the 5th century BC, a thousand years later. And the Tower of Babel was built on the plains of Mesopotamia in the 24th century BC, almost a thousand years before. This is the worst imaginable mishmash of stories and characters picked from a time frame of two thousand years.
 
-### Pharao threatened people with crucifixion {#egyptian-crucifixion}
+## Pharao threatened people with crucifixion {#egyptian-crucifixion}
 
 [Surah 7:123-124](https://quran.com/7/123-124)
 
@@ -94,7 +94,7 @@ See also:
 - [Surah 20:71](https://quran.com/20/71)
 - [Surah 25:49](https://quran.com/25/49)
 
-### The Israelites were misled by a Samaritan {#misled-by-samaritan}
+## The Israelites were misled by a Samaritan {#misled-by-samaritan}
 
 [Surah 20:85](https://quran.com/20/85)
 
@@ -102,7 +102,7 @@ See also:
 
 The Samaritan people did not exist until at least a thousand years after the event where the Israelites were misled into worshipping the golden calf.
 
-### Jesus was not crucified {#no-crucifixion}
+## Jesus was not crucified {#no-crucifixion}
 
 [Surah 4:157](https://quran.com/4/157)
 
@@ -112,7 +112,7 @@ That Jesus was crucified by order of the Roman Prefect Pontius Pilate is subject
 
 In other words, the Quran is historically false.
 
-### No one was named John before John the Baptist
+## No one was named John before John the Baptist
 
 [Surah 19:7](https://quran.com/19/7) 
 
@@ -122,11 +122,11 @@ John is not a unique name. in fact it was one of the most popular names in the f
 
 
 
-## Contradictions
+# Contradictions
 
-### Contradicting the Bible
+## Contradicting the Bible
 
-#### Jesus was not crucified
+### Jesus was not crucified
 
 [Surah 4:157](https://quran.com/4/157)
 
@@ -134,7 +134,7 @@ John is not a unique name. in fact it was one of the most popular names in the f
 
 The Quran denies the crucifixion of Jesus, the most verified fact of ancient history, and the pinnacle of the Bible and cornerstone of Christianity.
 
-#### Who named the animals?
+### Who named the animals?
 
 [Surah 2:31](https://quran.com/2/31)
 
@@ -142,7 +142,7 @@ The Quran denies the crucifixion of Jesus, the most verified fact of ancient his
 
 In the Bible it is Adam who had the task of naming all animals.
 
-#### The affliction in Egypt
+### The affliction in Egypt
 
 [Surah 2:48](https://quran.com/2/48)
 
@@ -150,7 +150,7 @@ In the Bible it is Adam who had the task of naming all animals.
 
 According to the Bible, slavery in Egypt was not a trial from God but an affliction from the Egyptians. 
 
-#### Seeing God
+### Seeing God
 
 [Surah 2:55](https://quran.com/2/55)
 
@@ -158,7 +158,7 @@ According to the Bible, slavery in Egypt was not a trial from God but an afflict
 
 There is no such story in the Bible. Rather the Israelites were terrified and did not want to see God.
 
-#### How many springs?
+### How many springs?
 
 [Surah 2:60](https://quran.com/2/60)
 
@@ -166,7 +166,7 @@ There is no such story in the Bible. Rather the Israelites were terrified and di
 
 In the Bible there was only one spring.
 
-#### Breaking the sabbath
+### Breaking the sabbath
 
 Surah 2: 65,66
 
@@ -174,7 +174,7 @@ Surah 2: 65,66
 
 God has never said sabbath breakers are apes. Breaking the sabbath was punished by death, not ostracism.
 
-#### Raising dead using cow parts
+### Raising dead using cow parts
 
 [Surah 2:73](https://quran.com/2/73) 
 
@@ -190,7 +190,7 @@ Israelites are instructed to use parts of a cow carcass to resurrect the dead.
 
 
 
-### Contradicting the Quran
+## Contradicting the Quran
 
 [Surah 4:82](https://quran.com/4/82)
 
@@ -198,13 +198,13 @@ Israelites are instructed to use parts of a cow carcass to resurrect the dead.
 
 If the Quran is from Allah, there should be no contradictions.
 
-#### The Quran is both clear and unclear
+### The Quran is both clear and unclear
 
 [Surah 3:7](https://quran.com/3/7) says that in the Quran "some verses are precise…while others are elusive…none grasps their meaning except Allah." Meanwhile [Surah 11:1](https://quran.com/11/1) says that the Quran is "a Book whose verses are well perfected and then fully explained. " So which is it? Is it clear or unclear?
 
 
 
-#### Allah forgives all sins / does not forgive all sins
+### Allah forgives all sins / does not forgive all sins
 
 [Surah 39:53](https://quran.com/39/53)
 
@@ -215,7 +215,7 @@ If the Quran is from Allah, there should be no contradictions.
 > Surely Allah does **not** forgive associating ˹others˺ with Him ˹in worship˺,
 
 
-#### Jesus is the Word of Allah, but not Allah
+### Jesus is the Word of Allah, but not Allah
 
 
 [Surah 4:171](https://quran.com/4/171)
@@ -234,27 +234,27 @@ So the Quran is denying tritheism, which is a form of polytheism. That leaves us
 
 
 
-#### Did Allah create the heavens or the earth first?
+### Did Allah create the heavens or the earth first?
 
-##### Allah created the heavens before the earth
+#### Allah created the heavens before the earth
 
 [Surah 6:1,73,79,101](https://quran.com/6/1,73,79,101)[;14:19](https://quran.com/14/19)[;15:85](https://quran.com/15/85)[;16:3](https://quran.com/16/3)[;17:99](https://quran.com/17/99)[;21:16,56](https://quran.com/21/16,56)[;25:59](https://quran.com/25/59)[;29:44,61](https://quran.com/29/44,61)[;31:27](https://quran.com/31/27)[;36:81](https://quran.com/36/81)[;38:27](https://quran.com/38/27)[;43:9](https://quran.com/43/9)[;44:38](https://quran.com/44/38)[;45:22](https://quran.com/45/22)[;50:38](https://quran.com/50/38)[;52:36](https://quran.com/52/36)[;57:4](https://quran.com/57/4)[;64:3](https://quran.com/64/3) etc
 
-##### Allah created the earth before the heavens
+#### Allah created the earth before the heavens
 
 [Surah 2:29](https://quran.com/2/29)[;20:4](https://quran.com/20/4)[;41:9-12](https://quran.com/41/9-12)
 
 > He it is Who created for you all that is in the earth. Then turned He to the heaven, and fashioned it as seven heavens.
 
-#### The word of Allah both can't and can be changed
+### The word of Allah both can't and can be changed
 
 [Surah 6:115](https://quran.com/6/115)[; 10:64](https://quran.com/10/64)[; 18:27](https://quran.com/18/27)[; 50:29](https://quran.com/50/29) says no one can change the word of Allah, but [Surah 2:75](https://quran.com/2/75) says some people did change the word of Allah.
 
-#### Allah both could and could not have offspring
+### Allah both could and could not have offspring
 
 [Surah 6:101](https://quran.com/6/101) says Allah could not have offspring unless he had a spouse while [Surah 39:4](https://quran.com/39/4) says Allah could just choose any creation as his offspring. 
 
-#### Who forgives sins?
+### Who forgives sins?
 
 [Surah 3:135](https://quran.com/3/135)
 
@@ -268,7 +268,7 @@ Only Allah forgives sins.
 
 Muhammad also forgives sins.
 
-#### How long did it take Allah to create the world?
+### How long did it take Allah to create the world?
 
 Was it 6 days or 8 days?
 
@@ -280,15 +280,15 @@ Was it 6 days or 8 days?
 
 > Ask ˹them, O  Prophet˺, “How can you disbelieve in the One Who created the earth in **two Days**? And how can you set up equals with Him? That is the Lord of all worlds. He placed on the earth firm mountains, standing high, showered His blessings upon it, and ordained ˹all˺ its means of sustenance—totaling **four Days** exactly —for all who ask. ... So He formed the heaven into seven heavens in **two Days**, assigning to each its mandate. ... 
 
-#### Muhammad did and did not do miracles 
+### Muhammad did and did not do miracles 
 
 In [Surah 6:37](https://quran.com/6/37)[; 6:109](https://quran.com/6/109)[; 13:7](https://quran.com/13/7)[; 17:59](https://quran.com/17/59)[; 20:20](https://quran.com/20/20) it says that Muhammad never did any miracles. But in [Sahih al Bukhari 3637](https://sunnah.com/bukhari:3637) it says that he DID do a miracle.
 
-#### Are people ransomed from hell or not.
+### Are people ransomed from hell or not.
 
 [The Quran says there will be no ransoms whatsoever on judgment day.](#no-ransom) But one Hadith says [muslims will be ransomed from hell by Christians and Jews taking their places in hell.](#ransomed-from-hell).
 
-#### Jews are both favoured and not
+### Jews are both favoured and not
 
 [Surah 45:16](https://quran.com/45/16)
 
@@ -304,7 +304,7 @@ In [Surah 6:37](https://quran.com/6/37)[; 6:109](https://quran.com/6/109)[; 13:7
 
 Jews are favoured by Allah, but Islam has as a main goal to kill all Jews.
 
-#### Wine is from Satan but is served in paradise {#satanic-wine-in-paradise}
+### Wine is from Satan but is served in paradise {#satanic-wine-in-paradise}
 
 [Surah 16:65-69](https://quran.com/16/65-69) 
 
@@ -328,7 +328,7 @@ So is wine a blessing from Allah or an invention of Satan?
 
 See also [Surah 37:43-46](https://quran.com/37/43-46)[; 47:15](https://quran.com/47/15)
 
-#### Noah's sons all survived the flood or not
+### Noah's sons all survived the flood or not
 
 [Surah 21:76](https://quran.com/21/76)
 
@@ -345,7 +345,7 @@ Not all of Noah's family survived.
 (This also contradicts the Bible of course.)
 
 
-#### Jinn can not produce something like the Quran, but did produce a whole Surah of the Quran 
+### Jinn can not produce something like the Quran, but did produce a whole Surah of the Quran 
 
 [Surah 17:88](https://quran.com/17/88)
 

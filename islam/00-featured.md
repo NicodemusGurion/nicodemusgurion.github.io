@@ -4,15 +4,12 @@ permalink: /islam/featured/
 search: true
 ---
 
-## [< Index](/islam/)
-{:.no_toc}
+**[< Index](/islam/)**
 
 A selection of the most delicious verses and Hadiths.
 
-{% include toc.md %}
 
-
-## Mohammed was a pedophile who married a 6 year old girl and "consummated" the marriage when she was 9 years old {#pedophile}
+# Mohammed was a pedophile who married a 6 year old girl and "consummated" the marriage when she was 9 years old {#pedophile}
 
 [Sunan an Nasa'i 3378](https://sunnah.com/nasai:3378)
 
@@ -37,7 +34,7 @@ See also:
 - [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
 - [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
-### Muhammad was flabbergasted that other men were not pedophiles
+## Muhammad was flabbergasted that other men were not pedophiles
 
 [Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
 
@@ -45,7 +42,7 @@ See also:
 
 The fact that other men are not drawn to sexually abuse children makes Muhammad shocked.
 
-## Quran and Hadith verses promoting violence
+# Quran and Hadith verses promoting violence
 
 [Surah 3:151-152](https://quran.com/3/151-152)
 
