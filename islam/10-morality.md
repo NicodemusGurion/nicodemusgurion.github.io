@@ -233,9 +233,23 @@ According to Muhammad, it seems that black people are only good for entertainmen
 
 # Sexuality
 
-## Islam promotes pedophilia
+## Islam promotes pedophilia {#pedophilia}
 
-### Mohammed raped a nine year old girl 
+### The Quran promotes child marriage {#child-marriage}
+
+[Surah 65:1](https://quran.com/65/1) gives us the context for the passage in [Surah 65:1-4](https://quran.com/65/1-4): "When you intend to˺ divorce women, then divorce them with concern for their waiting period"". This passage is about the rules for the waiting period when you divorce a woman that she has to wait before she can remarry. In order to dis or e a woman you must first have had married her.
+
+[Surah 65:4](https://quran.com/65/4) says:
+
+> As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated** as well. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them.
+
+So pregnant women have to wait until delivery. Those "past the age of menstruation", menopausal, have to wait 3 months.
+
+But, on the other side of that spectrum, those who have **not** menstruated, that is **prepubescent girls**, also have to wait 3 months before remarriage.
+
+So in other words, the Quran outright condones and facilitates marrying children!
+
+### Mohammed raped Aisha, a nine year old girl {#aisha}
 
 Since children are incapable of understanding or consenting to sexual acts, any sexual act conducted with a child is an act of rape.
 
@@ -282,7 +296,7 @@ See also:
 The fact that other men are not drawn to sexually abuse children makes Muhammad shocked.
 
 
-## Muhammad tongue-kissed a little boy
+### Muhammad tongue-kissed a little boy {#tongue-kiss}
 
 Muhammad's list for children was not limited to little girls. Little boys were not safe from this creep either.
 
@@ -290,19 +304,6 @@ Muhammad's list for children was not limited to little girls. Little boys were n
 
 > …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, **opened his mouth and put his mouth in his mouth**. Then he said, O Allah, I love him, so love him and the one who loves him!'"
 
-### The Quran promotes child marriage
-
-[Surah 65:1](https://quran.com/65/1) gives us the context for the passage in [Surah 65:1-4](https://quran.com/65/1-4): "When you intend to˺ divorce women, then divorce them with concern for their waiting period"". This passage is about the rules for the waiting period when you divorce a woman that she has to wait before she can remarry. In order to dis or e a woman you must first have had married her.
-
-[Surah 65:4](https://quran.com/65/4) says:
-
-> As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated** as well. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them.
-
-So pregnant women have to wait until delivery. Those "past the age of menstruation", menopausal, have to wait 3 months.
-
-But, on the other side of that spectrum, those who have **not** menstruated, that is **prepubescent girls**, also have to wait 3 months before remarriage.
-
-So in other words, the Quran outright condones and facilitates marrying children!
 
 ## Rape
 

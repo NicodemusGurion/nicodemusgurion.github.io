@@ -31,7 +31,7 @@ details > summary::before {
   display: inline-block;
   width: 1em;
   margin-right: 0.3em;
-  font-size: 1.5em;   /* 150% size */
+  font-size: 1.2em;  
   transition: transform 0.2s ease;
 }
 
@@ -40,6 +40,12 @@ details[open] > summary::before {
   transform: rotate(90deg);
 }
 </style>
+{%- assign open_path = include.open | default: "" -%}
+{%- assign last_char = open_path | slice: -1, 1 -%}
+{%- if open_path != "" last_char != "/" -%}
+{%-   assign open_path = open_path 
+      | append: "/" -%}
+{%- endif -%}
 {%- assign page_path = include.root | default: "/" -%}
 {%- assign last_char = page_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
@@ -47,5 +53,5 @@ details[open] > summary::before {
       | append: "/" -%}
 {%- endunless -%}
 <div markdown="0">
-{%- include menu.html root=page_path -%}
+{%- include menu.html root=page_path open=open_path-%}
 </div>

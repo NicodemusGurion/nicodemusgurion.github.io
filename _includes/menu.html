@@ -1,4 +1,9 @@
-{%- assign open_path = "*" -%}
+{%- assign open_path = include.open | default: "" -%}
+{%- assign last_char = open_path | slice: -1, 1 -%}
+{%- if open_path != "" last_char != "/" -%}
+{%-   assign open_path = open_path 
+      | append: "/" -%}
+{%- endif -%}
 {%- assign page_path = include.root | default: "/" -%}
 {%- assign last_char = page_path | slice: -1, 1 -%}
 {%- unless last_char == "/" -%}
@@ -7,7 +12,6 @@
 {%- endunless -%}
 {%- assign sortable = "" | split: "" -%}
 {%- assign mypages = site.pages | where: "toc", "true" -%}
-
 {%- for p in mypages -%}
 {%-   if p.title -%}
 {%-     assign sortkey = p.tocpath | default: p.url -%}
