@@ -3,8 +3,8 @@
 
 {%- for line in lines -%}
   {%- assign trimmed = line | strip -%}
-
-  {%- if trimmed startswith "#" -%}
+  {% assign firstchar = trimmed | slice: 0,1 %}
+  {%- if firstchar == "#" -%}
   {{trimmed}}
     {%- assign hashes = trimmed | split: " " | first -%}
     {%- assign level = hashes | size -%}
