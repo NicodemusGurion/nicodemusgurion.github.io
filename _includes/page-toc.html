@@ -1,5 +1,6 @@
 {%- assign lines = page.content | split: "\n" -%}
 {%- for line in lines -%}
+    {{ line}}
 {%-   assign trimmed = line | strip -%}
 {%-   assign firstchar = trimmed 
       | slice: 0,1 -%}

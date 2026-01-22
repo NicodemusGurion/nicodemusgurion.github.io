@@ -7,6 +7,7 @@ toc: true
 
 **[< Index](/islam/)**
 
+{% include page-toc.html %}
 
 # Allah's personality traits
 
@@ -527,4 +528,4 @@ Allah needs to purchase souls. Meanwhile Yahweh already owns all souls.
 These are not the same gods. Yahweh owns everything, but Allah does not. Allah needs to purchase souls.
 
 
-{% include page-toc.html %}
+
