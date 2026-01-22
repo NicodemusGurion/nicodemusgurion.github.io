@@ -525,3 +525,6 @@ Allah needs to purchase souls. Meanwhile Yahweh already owns all souls.
 > Ezekiel 18:4 — Behold, all souls are mine; as the soul of the father, so also the soul of the son is mine: the soul that sinneth, it shall die.
 
 These are not the same gods. Yahweh owns everything, but Allah does not. Allah needs to purchase souls.
+
+
+{% include page-toc.html %}
