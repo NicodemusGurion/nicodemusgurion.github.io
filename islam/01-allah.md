@@ -7,7 +7,7 @@ toc: true
 
 **[< Index](/islam/)**
 
-{% include page_toc.html %}
+{% include get_md_toc.html %}
 
 # Allah's personality traits
 
