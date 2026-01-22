@@ -1,10 +1,11 @@
-
+{{page.url}}
 {%- assign lines = page.content | split: "\n" -%}
 
 {%- for line in lines -%}
   {%- assign trimmed = line | strip -%}
 
   {%- if trimmed startswith "#" -%}
+  {{trimmed}}
     {%- assign hashes = trimmed | split: " " | first -%}
     {%- assign level = hashes | size -%}
 
