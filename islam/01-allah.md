@@ -7,6 +7,71 @@ toc: true
 
 **[< Index](/islam/)**
 
+{% assign lines = page.content | split: "\n" %}
+{% assign current_level = 0 %}
+
+<ul>
+{% for line in lines %}
+  {% assign trimmed = line | lstrip %}
+
+  {% if trimmed startswith "#" %}
+
+    {% assign level = 0 %}
+    {% for c in trimmed | split: "" %}
+      {% if c == "#" %}
+        {% assign level = level | plus: 1 %}
+      {% else %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign raw_title = trimmed | slice: level, trimmed.size | strip %}
+
+    {% assign custom_id = "" %}
+    {% if raw_title contains "{#" %}
+      {% assign parts = raw_title | split: "{#" %}
+      {% assign title = parts[0] | strip %}
+      {% assign custom_id = parts[1] | split: "}" | first %}
+    {% else %}
+      {% assign title = raw_title %}
+    {% endif %}
+
+    {% if custom_id != "" %}
+      {% assign id = custom_id %}
+    {% else %}
+      {% assign id = title
+        | downcase
+        | replace: " ", "-"
+        | replace: ".", ""
+        | replace: ",", ""
+        | replace: ":", ""
+        | replace: "'", ""
+        | replace: '"', ""
+      %}
+    {% endif %}
+
+    {% if level > current_level %}
+      {% for i in (current_level..level-1) %}
+        <ul>
+      {% endfor %}
+    {% elsif level < current_level %}
+      {% for i in (level..current_level-1) %}
+        </ul>
+      {% endfor %}
+    {% endif %}
+
+    <li>
+      <a href="#{{ id }}">{{ title }}</a>
+    </li>
+
+    {% assign current_level = level %}
+
+  {% endif %}
+{% endfor %}
+
+{% for i in (1..current_level) %}
+  </ul>
+{% endfor %}
 
 # Allah's personality traits
 
