@@ -5,7 +5,6 @@ search: true
 toc: true
 ---
 
-**[< Index](/islam/)**
 
 A selection of the most delicious verses and Hadiths.
 

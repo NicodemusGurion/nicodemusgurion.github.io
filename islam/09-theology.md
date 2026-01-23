@@ -5,9 +5,6 @@ search: true
 toc: true
 ---
 
-**[< Index](/islam/)**
-
-
 # Adam
 
 ## Adam was 60 cubits tall

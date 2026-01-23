@@ -5,8 +5,6 @@ search: true
 toc: true
 ---
 
-**[< Index](/islam/)**
-
 
 # Divorce
 

@@ -5,7 +5,6 @@ search: true
 toc: true
 ---
 
-**[< Index](/islam/)**
 
 # Allah's personality traits
 

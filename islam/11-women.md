@@ -5,7 +5,6 @@ search: true
 toc: true
 ---
 
-**[< Index](/islam/)**
 
 # Violence against women
 

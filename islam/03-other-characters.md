@@ -5,8 +5,6 @@ search: true
 toc: true
 ---
 
-**[< Index](/islam/)**
-
 # Jesus
 
 What Islam teaches about Jesus varies. Some things are more or less accurate, but many things are false, antichristian and blasphemous.

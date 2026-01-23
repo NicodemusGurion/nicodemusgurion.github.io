@@ -6,7 +6,6 @@ toc: true
 image: https://i.ibb.co/9H5GWT83/IMG-0248.jpg
 ---
 
-**[< Index](/islam/)**
 
 Everything you wanted to know about Muhammad but were afraid to ask.
 

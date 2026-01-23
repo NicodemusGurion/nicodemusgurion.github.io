@@ -5,9 +5,6 @@ search: true
 toc: true
 ---
 
-**[< Index](/islam/)**
-
-
 # "The eyes are the leather strap of the anus"
 
 [Sunnah Abu Dawud 203](https://sunnah.com/abudawud:203)

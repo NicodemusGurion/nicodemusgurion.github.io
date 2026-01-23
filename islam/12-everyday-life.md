@@ -5,8 +5,6 @@ search: true
 toc: true
 ---
 
-**[< Index](/islam/)**
-
 
 # How to treat animals {#animals}
 
