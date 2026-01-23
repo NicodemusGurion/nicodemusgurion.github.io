@@ -9,7 +9,7 @@ layout: default
   {%- endif -%}
 {%- assign purl = page.tocpath | default: age.url %}
 URL {{purl}} - 
-{%- urlparts = purl | split: "/" %}
+{%- assign urlparts = purl | split: "/" %}
 Urlparts {{urlparts.size}} -
 {% if urlparts > 2 %}
 {%   assign parenturl = urlparts | pop | join: "/" %}
