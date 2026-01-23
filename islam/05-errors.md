@@ -202,6 +202,7 @@ If the Quran is from Allah, there should be no contradictions.
 
 [Surah 3:7](https://quran.com/3/7) says that in the Quran "some verses are precise…while others are elusive…none grasps their meaning except Allah." Meanwhile [Surah 11:1](https://quran.com/11/1) says that the Quran is "a Book whose verses are well perfected and then fully explained. " So which is it? Is it clear or unclear?
 
+See [The Clear Quran dilemma](/islamic-dilemma/#clear-quran)
 
 
 ### Allah forgives all sins / does not forgive all sins
@@ -286,7 +287,19 @@ In [Surah 6:37](https://quran.com/6/37)[; 6:109](https://quran.com/6/109)[; 13:7
 
 ### Are people ransomed from hell or not.
 
-[The Quran says there will be no ransoms whatsoever on judgment day.](#no-ransom) But one Hadith says [muslims will be ransomed from hell by Christians and Jews taking their places in hell.](#ransomed-from-hell).
+The Quran says there will be no ransoms whatsoever on judgment day.]
+
+[Surah 2:48](https://quran.com/2/48)
+
+> Guard yourselves against a Day when no soul will stand in place of another, no intercession will be accepted for it, nor any ransom; nor will they be helped.
+
+But this Hadith says muslims will be ransomed from hell by Christians and Jews taking their places in hell.
+
+[Sahih Muslim 2767 a](https://sunnah.com/muslim:2767)
+
+> Abu Musa’ reported that Allah’s Messenger said: When it will be the Day of Resurrection Allah would deliver to every Muslim a Jew or a Christian and say: That is your rescue from Hell-Fire.
+
+
 
 ### Jews are both favoured and not
 
