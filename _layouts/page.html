@@ -16,6 +16,7 @@ layout: default
 {% endif %}
 {%- assign html = content | markdownify -%}
 {%- assign blocks = html | split: "<h" -%}
+Num blocks: {{blocks.size}}<br>
 {%- if blocks.size > 1 %}
 {%- for b in blocks offset:1 -%}
   {%- assign level = b | slice: 0,1 | plus: 0 -%}
