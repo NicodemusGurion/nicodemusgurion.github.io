@@ -170,7 +170,7 @@ The Quran admits Jews and Christians consider God to be their father.
 
 You can never have a close relationship with the god of Islam as a child to a father, you can only be a slave to a master. If this is true, then the universe is bleak indeed. 
 
-## The best Muslims can hope for us to be slaves
+## The best Muslims can hope for is to be slaves
 
 [Surah 19:88-93](https://quran.com/19/88-93)
 
@@ -240,7 +240,7 @@ It seems Allah is unable to receive prayers when the earth and sun are at a spec
 
 # Allah's religion
 
-## Allah takes the Sahara and is therefore a muslim 
+## Allah takes the Shahada and is therefore a muslim 
 
 Muslims need to take the Shahada, meaning they testify that there is no God but Allah, and that Muhammad is his prophet.
 

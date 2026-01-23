@@ -5,7 +5,6 @@
       | append: "/" -%}
 {%- endunless -%}
 {%-     assign page = site.pages | where: "url", page_path | first -%}
-Page {{ page.url }}
 {%-   if page %}
 {%-     assign html = page.content -%}
 {%-     assign parts = html | split: "<h" -%}
