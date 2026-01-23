@@ -1,0 +1,61 @@
+{%- assign target_url = include.url | default: page.url -%}
+{%- assign target = site.pages | where: "url", target_url | first -%}
+
+{%- if target -%}
+{%- assign content = target.content -%}
+
+{%- if content contains "<h" -%}
+  {# ================= HTML MODE ================= #}
+
+  {%- assign blocks = content | split: "<h" -%}
+  {%- for b in blocks offset:1 -%}
+    {%- assign level = b | slice: 0,1 | plus: 0 -%}
+    {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
+    {%- assign title = b | split: ">" | last | split: "<" | first | strip -%}
+
+    {%- if id != "" and title != "" -%}
+<p style="padding-left:{{ level }}em">
+  <a href="{{ target.url }}#{{ id }}">{{ title }}</a>
+</p>
+    {%- endif -%}
+  {%- endfor -%}
+
+{%- elsif content contains "#" -%}
+  {# ================= MARKDOWN MODE ================= #}
+
+  {%- assign lines = content | split: "\n" -%}
+  {%- for line in lines -%}
+    {%- assign trimmed = line | lstrip -%}
+    {%- assign firstchar = trimmed | slice: 0,1 -%}
+
+    {%- if firstchar == "#" -%}
+
+      {%- assign level = trimmed | split: " " | first | size -%}
+      {%- assign text = trimmed | slice: level, trimmed.size | strip -%}
+
+      {%- if text contains "{#" -%}
+        {%- assign parts = text | split: "{#" -%}
+        {%- assign title = parts[0] | strip -%}
+        {%- assign id = parts[1] | split: "}" | first -%}
+      {%- else -%}
+        {%- assign title = text -%}
+        {%- assign id = title
+          | downcase
+          | replace: " ", "-"
+          | replace: ".", ""
+          | replace: ",", ""
+          | replace: ":", ""
+          | replace: "'", ""
+          | replace: '"', ""
+        -%}
+      {%- endif -%}
+
+<p style="padding-left:{{ level }}em">
+  <a href="{{ target.url }}#{{ id }}">{{ title }}</a>
+</p>
+
+    {%- endif -%}
+  {%- endfor -%}
+
+{%- endif -%}
+{%- endif -%}
