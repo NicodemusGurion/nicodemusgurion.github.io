@@ -12,7 +12,7 @@ layout: default
 {%- assign urlparts = purl | split: "/" %}
 {% if urlparts.size > 2 %}
 {%   assign parenturl = urlparts | pop | join: "/" %}
-{%   assign parenturl = "/" | append: parenturl | append: "/" %}
+{%   assign parenturl = parenturl | append: "/" %}
 <p style="font-size:1.2em; font-weight:bold;"><a href="{{parenturl}}">&lt; Go back</a></p>
 {% endif %}
 {%- assign html = content | markdownify -%}
