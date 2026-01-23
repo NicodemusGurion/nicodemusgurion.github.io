@@ -27,7 +27,7 @@ is markdown<br>
   {%- for line in lines -%}
     {%- assign trimmed = line | lstrip -%}
     {%- assign firstchar = trimmed | slice: 0,1 -%}
-{{ firstchar }}, 
+    {{ line }}, 
     {%- if firstchar == "#" -%}
 Header. 
       {%- assign level = trimmed | split: " " | first | size -%}
