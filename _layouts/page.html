@@ -10,8 +10,8 @@ layout: default
 {%- assign purl = page.tocpath | default: page.url %}
 
 {%- assign urlparts = purl | split: "/" %}
-
-{% if urlparts > 2 %}
+url {{ purl }}<br>
+{% if urlparts.size > 2 %}
 {%   assign parenturl = urlparts | pop | join: "/" %}
 {%   assign parenturl = "/" | append: parenturl | append: "/" %}
 Parent url {{parenturl}} - 
