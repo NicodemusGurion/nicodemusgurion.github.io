@@ -7,7 +7,13 @@ layout: default
   {%- if page.image -%}
     <img src="{{- page.image | absolute_url -}}" alt="" class="featured-image-post">
   {%- endif -%}
-  
+{%- assign purl = page.tocpath | default: age.url %}
+{%- urlparts = purl | split: "/" %}
+{% if urlparts > 2 %}
+{%   assign parenturl = urlparts | pop | join: "/" %}
+{%   assign parenturl = "/" | append: parenturl | append: "/" %}
+<b><a href="{{parenturl}}">&lt; Go back</a><b>
+{% endif %}
 {%- assign html = content | markdownify -%}
 {%- assign blocks = html | split: "<h" -%}
 {%- if blocks.size > 1 %}
