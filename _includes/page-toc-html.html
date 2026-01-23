@@ -1,0 +1,27 @@
+{%-     assign html = page.content -%}
+{%-     assign parts = html | split: "<h" -%}
+{%-     for part in parts -%}
+{%-       assign tag_start = part | slice: 0, 1 -%}
+{%-       if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" -%}
+{%-         assign level = tag_start 
+            | plus: 0 -%}
+{%-         assign text = part 
+            | split: "</h" 
+            | first 
+            | split: ">" 
+            | last %}
+{%-         if part contains 'id="' -%}
+{%-           assign id = part 
+              | split: 'id="' 
+              | last 
+              | split: '"' 
+              | first -%}
+{%-         else -%}
+{%-           assign id = text
+              | downcase
+              | replace: " ", "-"
+              | replace_regex: "[^a-z0-9\\-]", "" -%}
+{%-         endif -%}
+<p class="listitem" style="margin-left:{{ level | minus: 1 }}em"><a href="{{ page.url }}#{{ id }}">{{ text }}</a></p>
+{%-       endif -%}
+{%-     endfor -%}
