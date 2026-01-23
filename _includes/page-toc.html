@@ -24,7 +24,7 @@ Is HTML<br>
 is markdown<br>
   {%- assign normalized = content | replace: "\r\n", "\n" -%}
 {%- assign lines = normalized | split: "\n" -%}
-
+Line num {{ lines.size }}
 {%- for line in lines -%}
   {%- assign trimmed = line | lstrip -%}
   {%- assign firstchar = trimmed | slice: 0,1 -%}
