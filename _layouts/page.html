@@ -23,7 +23,7 @@ Toc/
 Num blocks: {{blocks.size}}<br>
 {%- if blocks.size > 1 %}
 {%- for b in blocks offset:1 -%}
-{{ assign db = b | slice: 0,5 %}
+{%- assign db = b | slice: 0,5 -%}
 {{db}}<br>
   {%- assign level = b | slice: 0,1 | plus: 0 -%}
   {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
