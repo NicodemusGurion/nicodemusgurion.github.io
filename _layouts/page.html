@@ -10,17 +10,15 @@ layout: default
 {%- assign purl = page.tocpath | default: page.url %}
 
 {%- assign urlparts = purl | split: "/" %}
-url {{ purl }}<br>
 {% if urlparts.size > 2 %}
 {%   assign parenturl = urlparts | pop | join: "/" %}
 {%   assign parenturl = "/" | append: parenturl | append: "/" %}
-Parent url {{parenturl}} - 
-<b><a href="{{parenturl}}">&lt; Go back</a><b>
+<p><b><a href="{{parenturl}}">&lt; Go back</a></b></p>
 {% endif %}
 {%- assign html = content | markdownify -%}
 {%- assign blocks = html | split: "<h" -%}
 {%- if blocks.size > 1 %}
-<div>
+<details><summary>Table of contents</summary>
 {%- for b in blocks offset:1 -%}
   {%- assign level = b | slice: 0,1 | plus: 0 -%}
   {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
@@ -29,7 +27,7 @@ Parent url {{parenturl}} -
   <a href="{{ page.url }}#{{ id }}">{{ title }}</a>
 </p>
 {%- endfor -%}
-</div>
+</details>
 {%- endif -%}
   {{ content }}
 </div>
