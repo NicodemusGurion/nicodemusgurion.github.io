@@ -27,7 +27,7 @@ Num blocks: {{blocks.size}}<br>
   {%- assign level = b | slice: 0,1 | plus: 0 -%}
   Level {{level}}<br>
   {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
-  Id {{id}<br>
+  Id {{id}}<br>
   {%- assign title = b | split: ">" | last | split: "<" | first | strip -%}
 Title: {{title}}<br>
  
