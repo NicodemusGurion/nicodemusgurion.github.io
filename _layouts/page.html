@@ -23,12 +23,12 @@ Toc/
 Num blocks: {{blocks.size}}<br>
 {%- if blocks.size > 1 %}
 {%- for b in blocks offset:1 -%}
-{%- assign db = b | slice: 0,5 -%}
   {%- assign level = b | slice: 0,1 | plus: 0 -%}
   Level {{level}}<br>
   {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
   Id {{id}}<br>
-  {%- assign title = b | split: ">" | last | split: "<" | first | strip -%}
+  {%- assign title = b | split: "</h" | first | strip -%}
+  
 Title: {{title}}<br>
  
 <p style="padding-left:{{ level }}em">
