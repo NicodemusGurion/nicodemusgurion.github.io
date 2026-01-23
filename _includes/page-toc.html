@@ -1,11 +1,11 @@
 {%- assign target_url = include.url | default: page.url -%}
 {%- assign target = site.pages | where: "url", target_url | first -%}
-
+Target  url {{ target.url }} <br>
 {%- if target -%}
 {%- assign content = target.content -%}
 
 {%- if content contains "<h" -%}
-  {# ================= HTML MODE ================= #}
+Is HTML<br>
 
   {%- assign blocks = content | split: "<h" -%}
   {%- for b in blocks offset:1 -%}
@@ -20,9 +20,8 @@
     {%- endif -%}
   {%- endfor -%}
 
-{%- elsif content contains "#" -%}
-  {# ================= MARKDOWN MODE ================= #}
-
+{%- elsif content contains "# " -%}
+is markdown<br>
   {%- assign lines = content | split: "\n" -%}
   {%- for line in lines -%}
     {%- assign trimmed = line | lstrip -%}
@@ -56,6 +55,7 @@
 
     {%- endif -%}
   {%- endfor -%}
-
+{%- else -%}
+Couldn't detect either html or markdown<br>
 {%- endif -%}
 {%- endif -%}
