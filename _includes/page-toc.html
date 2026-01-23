@@ -23,15 +23,16 @@ Is HTML<br>
 {%- elsif content contains "# " -%}
 is markdown<br>
   {%- assign lines = content | split: "\n" -%}
+  Num lines: {{ lines.size }}<br>
   {%- for line in lines -%}
     {%- assign trimmed = line | lstrip -%}
     {%- assign firstchar = trimmed | slice: 0,1 -%}
-
+{{ firstchar }}, 
     {%- if firstchar == "#" -%}
-
+Header. 
       {%- assign level = trimmed | split: " " | first | size -%}
       {%- assign text = trimmed | slice: level, trimmed.size | strip -%}
-
+Header text {{ text }}
       {%- if text contains "{#" -%}
         {%- assign parts = text | split: "{#" -%}
         {%- assign title = parts[0] | strip -%}
