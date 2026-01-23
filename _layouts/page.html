@@ -8,17 +8,23 @@ layout: default
     <img src="{{- page.image | absolute_url -}}" alt="" class="featured-image-post">
   {%- endif -%}
 {%- assign purl = page.tocpath | default: age.url %}
+URL {{purl}} - 
 {%- urlparts = purl | split: "/" %}
+Urlparts {{urlparts.size}} -
 {% if urlparts > 2 %}
 {%   assign parenturl = urlparts | pop | join: "/" %}
 {%   assign parenturl = "/" | append: parenturl | append: "/" %}
+Parent url {{parenturl}} - 
 <b><a href="{{parenturl}}">&lt; Go back</a><b>
 {% endif %}
+Toc/
 {%- assign html = content | markdownify -%}
 {%- assign blocks = html | split: "<h" -%}
 Num blocks: {{blocks.size}}<br>
 {%- if blocks.size > 1 %}
 {%- for b in blocks offset:1 -%}
+{{ assign db = b | slice: 0,5 %}
+{{db}}<br>
   {%- assign level = b | slice: 0,1 | plus: 0 -%}
   {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
   {%- assign title = b | split: ">" | last | split: "<" | first | strip -%}
@@ -30,6 +36,7 @@ Num blocks: {{blocks.size}}<br>
 
 {%- endfor -%}
 {%- endif -%}
+/toc
   {{ content }}
 </div>
  
