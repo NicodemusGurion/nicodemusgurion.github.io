@@ -7,7 +7,22 @@ layout: default
   {%- if page.image -%}
     <img src="{{- page.image | absolute_url -}}" alt="" class="featured-image-post">
   {%- endif -%}
-  {% include page-toc.html %}
+  
+{%- assign html = content | markdownify -%}
+{%- assign blocks = html | split: "<h" -%}
+{%- if blocks.size > 1 %}
+{%- for b in blocks offset:1 -%}
+  {%- assign level = b | slice: 0,1 | plus: 0 -%}
+  {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
+  {%- assign title = b | split: ">" | last | split: "<" | first | strip -%}
+
+ 
+<p style="padding-left:{{ level }}em">
+  <a href="{{ target.url }}#{{ id }}">{{ title }}</a>
+</p>
+
+{%- endfor -%}
+{%- endif -%}
   {{ content }}
 </div>
  
