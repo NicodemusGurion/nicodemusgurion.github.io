@@ -1,3 +1,4 @@
+{%- capture toc -%}
 {%-     assign html = page.content -%}
 {%-     assign parts = html | split: "<h" -%}
 {%-     for part in parts -%}
@@ -25,3 +26,8 @@
 <p class="listitem" style="margin-left:{{ level | minus: 1 }}em"><a href="{{ page.url }}#{{ id }}">{{ text }}</a></p>
 {%-       endif -%}
 {%-     endfor -%}
+{%- endcapture -%}
+{%- assign toc = toc | strip -%}
+{%- unless toc == "" -%}
+<div markdown="0"><details><summary>Table of contents</summary>{{ toc }}</details></div>
+{%- endunless -%}
