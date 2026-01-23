@@ -13,12 +13,12 @@ layout: default
 {% if urlparts.size > 2 %}
 {%   assign parenturl = urlparts | pop | join: "/" %}
 {%   assign parenturl = "/" | append: parenturl | append: "/" %}
-<p><b><a href="{{parenturl}}">&lt; Go back</a></b></p>
+<p style="font-size:2em; font-weight:bold;"><a href="{{parenturl}}">&lt; Go back</a></p>
 {% endif %}
 {%- assign html = content | markdownify -%}
 {%- assign blocks = html | split: "<h" -%}
 {%- if blocks.size > 1 %}
-<details><summary>Table of contents</summary>
+<details><summary style="font-size:2em; font-weight:bold;">Table of contents</summary>
 {%- for b in blocks offset:1 -%}
   {%- assign level = b | slice: 0,1 | plus: 0 -%}
   {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
