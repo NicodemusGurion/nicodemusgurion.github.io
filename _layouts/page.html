@@ -7,10 +7,10 @@ layout: default
   {%- if page.image -%}
     <img src="{{- page.image | absolute_url -}}" alt="" class="featured-image-post">
   {%- endif -%}
-{%- assign purl = page.tocpath | default: age.url %}
-URL {{purl}} - 
+{%- assign purl = page.tocpath | default: page.url %}
+
 {%- assign urlparts = purl | split: "/" %}
-Urlparts {{urlparts.size}} -
+
 {% if urlparts > 2 %}
 {%   assign parenturl = urlparts | pop | join: "/" %}
 {%   assign parenturl = "/" | append: parenturl | append: "/" %}
