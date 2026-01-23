@@ -22,40 +22,41 @@ Is HTML<br>
 
 {%- elsif content contains "# " -%}
 is markdown<br>
-  {%- assign lines = content | split: "\n" -%}
-  Num lines: {{ lines.size }}<br>
-  {%- for line in lines -%}
-    {%- assign trimmed = line | lstrip -%}
-    {%- assign firstchar = trimmed | slice: 0,1 -%}
-    {{ line }}, 
-    {%- if firstchar == "#" -%}
-Header. 
-      {%- assign level = trimmed | split: " " | first | size -%}
-      {%- assign text = trimmed | slice: level, trimmed.size | strip -%}
-Header text {{ text }}
-      {%- if text contains "{#" -%}
-        {%- assign parts = text | split: "{#" -%}
-        {%- assign title = parts[0] | strip -%}
-        {%- assign id = parts[1] | split: "}" | first -%}
-      {%- else -%}
-        {%- assign title = text -%}
-        {%- assign id = title
-          | downcase
-          | replace: " ", "-"
-          | replace: ".", ""
-          | replace: ",", ""
-          | replace: ":", ""
-          | replace: "'", ""
-          | replace: '"', ""
-        -%}
-      {%- endif -%}
+  {%- assign normalized = content | replace: "\r\n", "\n" -%}
+{%- assign lines = normalized | split: "\n" -%}
+
+{%- for line in lines -%}
+  {%- assign trimmed = line | lstrip -%}
+  {%- assign firstchar = trimmed | slice: 0,1 -%}
+
+  {%- if firstchar == "#" -%}
+
+    {%- assign level = trimmed | split: " " | first | size -%}
+    {%- assign text = trimmed | slice: level, trimmed.size | strip -%}
+
+    {%- if text contains "{#" -%}
+      {%- assign parts = text | split: "{#" -%}
+      {%- assign title = parts[0] | strip -%}
+      {%- assign id = parts[1] | split: "}" | first -%}
+    {%- else -%}
+      {%- assign title = text -%}
+      {%- assign id = title
+        | downcase
+        | replace: " ", "-"
+        | replace: ".", ""
+        | replace: ",", ""
+        | replace: ":", ""
+        | replace: "'", ""
+        | replace: '"', ""
+      -%}
+    {%- endif -%}
 
 <p style="padding-left:{{ level }}em">
   <a href="{{ target.url }}#{{ id }}">{{ title }}</a>
 </p>
 
-    {%- endif -%}
-  {%- endfor -%}
+  {%- endif -%}
+{%- endfor -%}
 {%- else -%}
 Couldn't detect either html or markdown<br>
 {%- endif -%}
