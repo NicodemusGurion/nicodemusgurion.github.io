@@ -1,6 +1,7 @@
 {%- capture toc -%}
 {%-     assign html = page.content -%}
 {%-     assign parts = html | split: "<h" -%}
+{{ parts.size }} parts<br>
 {%-     for part in parts -%}
 {%-       assign tag_start = part | slice: 0, 1 -%}
 {%-       if tag_start == "1" or tag_start == "2" or tag_start == "3" or tag_start == "4" or tag_start == "5" or tag_start == "6" -%}
