@@ -1,63 +1,21 @@
 {%- assign target_url = include.url | default: page.url -%}
 {%- assign target = site.pages | where: "url", target_url | first -%}
-Target  url {{ target.url }} <br>
+
 {%- if target -%}
-{%- assign content = target.content -%}
 
-{%- if content contains "<h" -%}
-Is HTML<br>
+{%- assign html = target.content | markdownify -%}
+{%- assign blocks = html | split: "<h" -%}
 
-  {%- assign blocks = content | split: "<h" -%}
-  {%- for b in blocks offset:1 -%}
-    {%- assign level = b | slice: 0,1 | plus: 0 -%}
-    {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
-    {%- assign title = b | split: ">" | last | split: "<" | first | strip -%}
+{%- for b in blocks offset:1 -%}
+  {%- assign level = b | slice: 0,1 | plus: 0 -%}
+  {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
+  {%- assign title = b | split: ">" | last | split: "<" | first | strip -%}
 
-    {%- if id != "" and title != "" -%}
+  {%- if id != "" and title != "" -%}
 <p style="padding-left:{{ level }}em">
   <a href="{{ target.url }}#{{ id }}">{{ title }}</a>
 </p>
-    {%- endif -%}
-  {%- endfor -%}
-
-{%- elsif content contains "# " -%}
-is markdown<br>
-  {%- assign normalized = content | replace: "\r\n", "\n" -%}
-{%- assign lines = normalized | split: "\n" -%}
-Line num {{ lines.size }}
-{%- for line in lines -%}
-  {%- assign trimmed = line | lstrip -%}
-  {%- assign firstchar = trimmed | slice: 0,1 -%}
-
-  {%- if firstchar == "#" -%}
-
-    {%- assign level = trimmed | split: " " | first | size -%}
-    {%- assign text = trimmed | slice: level, trimmed.size | strip -%}
-
-    {%- if text contains "{#" -%}
-      {%- assign parts = text | split: "{#" -%}
-      {%- assign title = parts[0] | strip -%}
-      {%- assign id = parts[1] | split: "}" | first -%}
-    {%- else -%}
-      {%- assign title = text -%}
-      {%- assign id = title
-        | downcase
-        | replace: " ", "-"
-        | replace: ".", ""
-        | replace: ",", ""
-        | replace: ":", ""
-        | replace: "'", ""
-        | replace: '"', ""
-      -%}
-    {%- endif -%}
-
-<p style="padding-left:{{ level }}em">
-  <a href="{{ target.url }}#{{ id }}">{{ title }}</a>
-</p>
-
   {%- endif -%}
 {%- endfor -%}
-{%- else -%}
-Couldn't detect either html or markdown<br>
-{%- endif -%}
+
 {%- endif -%}
