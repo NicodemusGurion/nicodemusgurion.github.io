@@ -19,14 +19,40 @@ layout: default
 {%- assign blocks = html | split: "<h" -%}
 {%- if blocks.size > 1 %}
 <details><summary style="font-size:1.2em; font-weight:bold;">Table of contents</summary>
-{%- for b in blocks offset:1 -%}
-  {%- assign level = b | slice: 0,1 | plus: 0 -%}
-  {%- assign id = b | split: 'id="' | last | split: '"' | first -%}
-  {%- assign title = b | split: "</h" | first | split: ">" | last | strip -%}
-<p class="listitem" style="padding-left:{{ level }}em">
-  <a href="{{ page.url }}#{{ id }}">{{ title }}</a>
-</p>
+<div id="toc">
+
+<{%- assign prev_level = 0 -%}
+{%- for block in blocks offset: 1 -%}
+{%- assign parts = block | split: ">" -%}
+{%- assign header = parts[0] -%}
+{%- assign level_str = header | slice: 0, 1 -%}
+{%- assign level = level_str | plus: 0 -%}
+{%- assign content_parts = parts[1] | split: "</h" -%}
+{%- assign title = content_parts[0] | strip_html -%}
+{%- assign id = title | slugify -%}
+
+{%- if forloop.first -%}
+{%- assign prev_level = level -%}
+<ul>
+{%- elsif level > prev_level -%}
+{%- assign diff = level | minus: prev_level -%}
+{%- for i in (1..diff) -%}<ul>{%- endfor -%}
+{%- elsif level < prev_level -%}
+{%- assign diff = prev_level | minus: level -%}
+{%- for i in (1..diff) -%}</li></ul>{%- endfor -%}
+</li>
+{%- else -%}
+</li>
+{%- endif -%}
+<li><a href="{{ page.url }}#{{ id }}">{{ title }}</a>
+{%- assign prev_level = level -%}
+{%- if forloop.last -%}
+{%- assign diff = level | minus: blocks.size | plus: blocks.size -%}
+</li>
+{%- for i in (1..prev_level) -%}</ul>{%- endfor -%}
+{%- endif -%}
 {%- endfor -%}
+</div>
 </details>
 <br>
 {%- endif -%}
