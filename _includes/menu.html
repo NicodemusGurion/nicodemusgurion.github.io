@@ -10,6 +10,8 @@
 {%-   assign page_path = page_path 
       | append: "/" -%}
 {%- endunless -%}
+{% comment %}
 <div markdown="0">
 {%- include menu_generator.html root=page_path open=open_path-%}
 </div>
+{% endcomment %}
