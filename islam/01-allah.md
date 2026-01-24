@@ -3,7 +3,7 @@ title: Allah
 permalink: /islam/allah/
 search: true
 toc: true
-image: https://i.ibb.co/gF78xybs/235562-CF-803-F-41-EF-86-D6-4-D123-E9-DF8-C3.jpg
+image: https://i.ibb.co/XrFM6tWw/IMG-0275.jpg
 ---
 
 
