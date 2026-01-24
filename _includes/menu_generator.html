@@ -73,7 +73,7 @@
 <summary><a href="{{ url }}">{{ title }}</a></summary>
 {%-   else -%}
 {%-     capture page_toc -%}
-{%-       include page-toc.html url=url -%}
+{%-       include page-toc.html url=url strip=true -%}
 {%-     endcapture -%}
 {%-     if page_toc.size > 0 %}
 {%-       assign is_open = false -%}

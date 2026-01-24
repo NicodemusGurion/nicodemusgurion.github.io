@@ -1,4 +1,5 @@
 {%- assign pt_target_url = include.url | default: page.url -%}
+{%- assign pt_strip = include.strip | default: false -%}
 {% for page in site.pages %}
 {%   if page.tocpath == pt_target_url or page.url == pt_target_url %}
 {%     assign pt_target = page %}
@@ -10,9 +11,9 @@
 {%-   assign pt_html = pt_target.content | markdownify -%}
 {%-   assign pt_blocks = pt_html | split: "<h" -%}
 {%-   if pt_blocks.size > 1 %}
-{%      if page.url == pt_target_url %}
+{%      unless pt_strip %}
 <details><summary style="font-size:1.2em; font-weight:bold;">Table of contents</summary>
-{%      endif %}
+{%      endunless %}
 {%-     assign pt_prev_level = 0 -%}
 {%-     for pt_block in pt_blocks offset: 1 -%}
 
@@ -56,9 +57,9 @@
 {%-       endif -%}
 
 {%-     endfor -%}
-{%      if page.url == pt_target_url %}
+{%      unless pt_strip %}
 </details>
-{%      endif %}
+{%      endunless %}
 {%-   endif -%}
 
 {%  endif %}
