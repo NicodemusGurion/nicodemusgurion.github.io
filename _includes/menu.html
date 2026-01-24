@@ -1,6 +1,6 @@
 {%- assign open_path = include.open | default: "" -%}
 {%- assign last_char = open_path | slice: -1, 1 -%}
-{%- if open_path != "" last_char != "/" -%}
+{%- if open_path != "" and last_char != "/" -%}
 {%-   assign open_path = open_path 
       | append: "/" -%}
 {%- endif -%}
