@@ -75,6 +75,7 @@
 {% comment %}
 {%-     capture page_toc -%}
 {%-       include page-toc.html url=url -%}
+{% endcomment %}
 {%-     endcapture -%}
 {%-     if page_toc.size > 0 %}
 {%-       assign is_open = false -%}
@@ -86,7 +87,7 @@
     <p class="listitem"><a href="{{ url }}">{{ title }}</a></p>
 
 {%-     endif -%} 
-{% endcomment %}
+
 {%-   endif -%}
 {%-   assign prev_depth = depth -%}
 
