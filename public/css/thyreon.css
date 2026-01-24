@@ -25,11 +25,13 @@ details > summary::-webkit-details-marker {
 }
 
 .toc-list ul {
-  padding-left:20px;
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
 }
 
-.toc-list li {
-  margin-left:20px;
+.toc-list ul li {
+  padding-left: 1em;
 }
 
 /* Add custom arrow */
