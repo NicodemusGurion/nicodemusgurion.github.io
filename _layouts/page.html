@@ -20,16 +20,11 @@ layout: default
 {%- if blocks.size > 1 %}
 <details><summary style="font-size:1.2em; font-weight:bold;">Table of contents</summary>
 <div id="toc">
-
-<{%- assign prev_level = 0 -%}
+{%- assign prev_level = 0 -%}
 {%- for block in blocks offset: 1 -%}
-{%- assign parts = block | split: ">" -%}
-{%- assign header = parts[0] -%}
-{%- assign level_str = header | slice: 0, 1 -%}
-{%- assign level = level_str | plus: 0 -%}
-{%- assign content_parts = parts[1] | split: "</h" -%}
-{%- assign title = content_parts[0] | strip_html -%}
-{%- assign id = title | slugify -%}
+  {%- assign level = block | slice: 0,1 | plus: 0 -%}
+  {%- assign id = block | split: 'id="' | last | split: '"' | first -%}
+  {%- assign title = block | split: ">" | last | split: "<" | first | strip -%}
 
 {%- if forloop.first -%}
 {%- assign prev_level = level -%}
