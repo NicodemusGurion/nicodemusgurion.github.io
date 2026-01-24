@@ -28,7 +28,7 @@
 {%- endfor -%}
 
 {%- assign sortable = sortable | sort -%}
-
+{% comment %}
 <div markdown="0">
 {%- assign prev_depth = 0 -%}
 
@@ -90,3 +90,4 @@
 </details>
 {%- endfor -%}
 </div>
+{% endcomment %}
