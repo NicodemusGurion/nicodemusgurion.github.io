@@ -26,12 +26,12 @@ details > summary::-webkit-details-marker {
 
 .toc-list ul {
   margin: 0;
-  padding: 0;
-  list-style-position: inside;
+  padding: 0.5em;
+  list-style-position: outside;
 }
 
 .toc-list ul li {
-  padding-left: 1em;
+  padding-left: 1.2em;
 }
 
 /* Add custom arrow */

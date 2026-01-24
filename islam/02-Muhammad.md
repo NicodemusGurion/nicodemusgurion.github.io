@@ -206,7 +206,7 @@ Coincidence? Or plagiarism?
 
 ### Muhammad copied Jesus' teachings 
 
-#### The workers if the vineyard
+#### The workers of the vineyard
 
 [Sahih al-Bukhari 2269](https://sunnah.com/bukhari:2269)
 
