@@ -24,6 +24,9 @@ details > summary::-webkit-details-marker {
   content: none;
 }
 
+.toc-list li {
+  padding-left:20px;
+}
 
 /* Add custom arrow */
 details > summary::before {
