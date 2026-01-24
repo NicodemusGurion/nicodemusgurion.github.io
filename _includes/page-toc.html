@@ -1,7 +1,7 @@
 {%- assign target_url = include.url | default: page.url -%}
 {% for page in site.pages %}
 {%   if page.tocpath == target_url or page.url == target_url %}
-{%     assign target = page
+{%     assign target = page %}
 {%   endif %}
 {% endfor %}
 
