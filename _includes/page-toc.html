@@ -10,7 +10,9 @@
 {%-   assign pt_html = pt_target.content | markdownify -%}
 {%-   assign pt_blocks = pt_html | split: "<h" -%}
 {%-   if pt_blocks.size > 1 %}
+{%      if page.url == pt_target_url %}
 <details><summary style="font-size:1.2em; font-weight:bold;">Table of contents</summary>
+{%      endif %}
 {%-     assign pt_prev_level = 0 -%}
 {%-     for pt_block in pt_blocks offset: 1 -%}
 
@@ -54,8 +56,9 @@
 {%-       endif -%}
 
 {%-     endfor -%}
+{%      if page.url == pt_target_url %}
 </details>
-
+{%      endif %}
 {%-   endif -%}
 
 {%  endif %}
