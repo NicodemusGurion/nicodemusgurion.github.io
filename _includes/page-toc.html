@@ -4,7 +4,7 @@
 {%     assign target = page %}
 {%   endif %}
 {% endfor %}
-
+{% comment %}
 {%- if target -%}
 
 {%- assign html = target.content | markdownify -%}
@@ -13,7 +13,7 @@
 <details><summary style="font-size:1.2em; font-weight:bold;">Table of contents</summary>
 {%-   assign prev_level = 0 -%}
 {%-   for block in blocks offset: 1 -%}
-{%      comment %}
+
 {%-     assign level = block 
         | slice: 0,1 
         | plus: 0 -%}
@@ -51,8 +51,9 @@
 </li>
 {%-       for i in (1..prev_level) -%}</ul>{%- endfor -%}
 {%-     endif -%}
-{%      endcomment %}
+
 {%-   endfor -%}
 </details>
 
 {%- endif -%}
+{%      endcomment %}
