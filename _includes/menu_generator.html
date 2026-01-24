@@ -72,11 +72,9 @@
 <details{% if is_open %} open{% endif %}>
 <summary><a href="{{ url }}">{{ title }}</a></summary>
 {%-   else -%}
-{% comment %}
 {%-     capture page_toc -%}
 {%-       include page-toc.html url=url -%}
 {%-     endcapture -%}
-{% endcomment %} 
 {%-     if page_toc.size > 0 %}
 {%-       assign is_open = false -%}
 {%-         if open_path == "*" or prefix == sortkey -%}

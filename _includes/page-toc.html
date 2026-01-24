@@ -11,33 +11,48 @@
 {%- assign blocks = html | split: "<h" -%}
 {%- if blocks.size > 1 %}
 <details><summary style="font-size:1.2em; font-weight:bold;">Table of contents</summary>
-{%- assign prev_level = 0 -%}
-{%- for block in blocks offset: 1 -%}
-  {%- assign level = block | slice: 0,1 | plus: 0 -%}
-  {%- assign id = block | split: 'id="' | last | split: '"' | first -%}
-  {%- assign title = block | split: "</h" | first | split: ">" | last | strip -%}
-
-{%- if forloop.first -%}
-{%- assign prev_level = level -%}
+{%-   assign prev_level = 0 -%}
+{%-   for block in blocks offset: 1 -%}
+{%      comment %}
+{%-     assign level = block 
+        | slice: 0,1 
+        | plus: 0 -%}
+{%-     assign id = block 
+        | split: 'id="' 
+        | last 
+        | split: '"' 
+        | first -%}
+{%-     assign title = block 
+        | split: "</h" 
+        | first 
+        | split: ">" 
+        | last 
+        | strip -%}
+        
+{%-     if forloop.first -%}
+{%-       assign prev_level = level -%}
 <ul>
-{%- elsif level > prev_level -%}
-{%- assign diff = level | minus: prev_level -%}
-{%- for i in (1..diff) -%}<ul>{%- endfor -%}
-{%- elsif level < prev_level -%}
-{%- assign diff = prev_level | minus: level -%}
-{%- for i in (1..diff) -%}</li></ul>{%- endfor -%}
+{%-     elsif level > prev_level -%}
+{%-       assign diff = level | minus: prev_level -%}
+{%-       for i in (1..diff) -%}<ul>{%- endfor -%}
+{%-     elsif level < prev_level -%}
+{%-       assign diff = prev_level | minus: level -%}
+{%-       for i in (1..diff) -%}</li></ul>{%- endfor -%}
 </li>
-{%- else -%}
+{%-     else -%}
 </li>
-{%- endif -%}
+{%-     endif -%}
 <li><a href="{{ target.url }}#{{ id }}">{{ title }}</a>
-{%- assign prev_level = level -%}
-{%- if forloop.last -%}
-{%- assign diff = level | minus: blocks.size | plus: blocks.size -%}
+{%-     assign prev_level = level -%}
+{%-     if forloop.last -%}
+{%-       assign diff = level 
+          | minus: blocks.size 
+          | plus: blocks.size -%}
 </li>
-{%- for i in (1..prev_level) -%}</ul>{%- endfor -%}
-{%- endif -%}
-{%- endfor -%}
+{%-       for i in (1..prev_level) -%}</ul>{%- endfor -%}
+{%-     endif -%}
+{%      endcomment %}
+{%-   endfor -%}
 </details>
 
 {%- endif -%}
