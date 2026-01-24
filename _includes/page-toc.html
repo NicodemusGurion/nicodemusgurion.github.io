@@ -1,29 +1,28 @@
-{%- assign target_url = include.url | default: page.url -%}
+{%- assign pt_target_url = include.url | default: page.url -%}
 {% for page in site.pages %}
-{%   if page.tocpath == target_url or page.url == target_url %}
-{%     assign target = page %}
+{%   if page.tocpath == pt_target_url or page.url == pt_target_url %}
+{%     assign pt_target = page %}
 {%   endif %}
 {% endfor %}
 
+{%- if pt_target -%}
 
-{%- if target -%}
-
-{%-   assign html = target.content | markdownify -%}
-{%-   assign blocks = html | split: "<h" -%}
-{%-   if blocks.size > 1 %}
+{%-   assign pt_html = pt_target.content | markdownify -%}
+{%-   assign pt_blocks = pt_html | split: "<h" -%}
+{%-   if pt_blocks.size > 1 %}
 <details><summary style="font-size:1.2em; font-weight:bold;">Table of contents</summary>
-{%-     assign prev_level = 0 -%}
-{%-     for block in blocks offset: 1 -%}
+{%-     assign pt_prev_level = 0 -%}
+{%-     for pt_block in pt_blocks offset: 1 -%}
 
-{%-       assign level = block 
+{%-       assign pt_level = pt_block 
           | slice: 0,1 
           | plus: 0 -%}
-{%-       assign id = block 
+{%-       assign pt_id = pt_block 
           | split: 'id="' 
           | last 
           | split: '"' 
           | first -%}
-{%-       assign title = block 
+{%-       assign pt_title = pt_block 
           | split: "</h" 
           | first 
           | split: ">" 
@@ -31,27 +30,27 @@
           | strip -%}
         
 {%-       if forloop.first -%}
-{%-         assign prev_level = level -%}
+{%-         assign pt_prev_level = pt_level -%}
 <ul>
-{%-       elsif level > prev_level -%}
-{%-         assign diff = level | minus: prev_level -%}
-{%-         for i in (1..diff) -%}<ul>{%- endfor -%}
-{%-       elsif level < prev_level -%}
-{%-         assign diff = prev_level 
-            | minus: level -%}
-{%-         for i in (1..diff) -%}</li></ul>{%- endfor -%}
+{%-       elsif pt_level > pt_prev_level -%}
+{%-         assign pt_diff = pt_level | minus: pt_prev_level -%}
+{%-         for i in (1..pt_diff) -%}<ul>{%- endfor -%}
+{%-       elsif pt_level < pt_prev_level -%}
+{%-         assign pt_diff = pt_prev_level 
+            | minus: pt_level -%}
+{%-         for i in (1..pt_diff) -%}</li></ul>{%- endfor -%}
 </li>
 {%-       else -%}
 </li>
 {%-       endif -%}
-<li><a href="{{ target.url }}#{{ id }}">{{ title }}</a>
-{%-       assign prev_level = level -%}
+<li><a href="{{ pt_target.url }}#{{ pt_id }}">{{ pt_title }}</a>
+{%-       assign pt_prev_level = pt_level -%}
 {%-       if forloop.last -%}
-{%-         assign diff = level 
-            | minus: blocks.size 
-            | plus: blocks.size -%}
+{%-         assign pt_diff = pt_level 
+            | minus: pt_blocks.size 
+            | plus: pt_blocks.size -%}
 </li>
-{%-         for i in (1..prev_level) -%}</ul>{%- endfor -%}
+{%-         for i in (1..pt_prev_level) -%}</ul>{%- endfor -%}
 {%-       endif -%}
 
 {%-     endfor -%}
