@@ -84,9 +84,9 @@
 <details{% if is_open %} open{% endif %}><summary><a href="{{ url }}">{{ title }}</a></summary>{{ page_toc }}</details>
 {%-     else -%}
     <p class="listitem"><a href="{{ url }}">{{ title }}</a></p>
-    {% endcomment %}
-{%-     endif -%} 
 
+{%-     endif -%} 
+{% endcomment %}
 {%-   endif -%}
 {%-   assign prev_depth = depth -%}
 
