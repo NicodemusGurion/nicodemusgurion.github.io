@@ -24,7 +24,7 @@ layout: default
 {%- for block in blocks offset: 1 -%}
   {%- assign level = block | slice: 0,1 | plus: 0 -%}
   {%- assign id = block | split: 'id="' | last | split: '"' | first -%}
-  {%- assign title = block | split: ">" | last | split: "<" | first | strip -%}
+  {%- assign title = block | split: "</h" | first | split: ">" | last | strip -%}
 
 {%- if forloop.first -%}
 {%- assign prev_level = level -%}
