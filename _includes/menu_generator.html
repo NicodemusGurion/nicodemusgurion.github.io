@@ -75,8 +75,8 @@
 {% comment %}
 {%-     capture page_toc -%}
 {%-       include page-toc.html url=url -%}
-{% endcomment %}
 {%-     endcapture -%}
+{% endcomment %} 
 {%-     if page_toc.size > 0 %}
 {%-       assign is_open = false -%}
 {%-         if open_path == "*" or prefix == sortkey -%}
