@@ -42,7 +42,7 @@
       | size 
       | minus: 2 -%}
 {%-   assign next_entry = sortable[forloop.index] -%}
-{% comment %}
+
 {%-   if next_entry -%}
 {%-     assign next_parts = next_entry | split: "|||" -%}
 {%-     assign next_sortkey = next_parts[0] | strip -%}
@@ -50,6 +50,7 @@
 {%-   else -%}
 {%-     assign next_depth = -1 -%}
 {%-   endif -%}
+{% comment %}
 {%-   if depth < prev_depth -%}
 {%-     for i in (depth..prev_depth-1) -%}
 </details>
