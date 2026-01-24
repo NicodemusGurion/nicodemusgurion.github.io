@@ -25,7 +25,7 @@ details > summary::-webkit-details-marker {
 }
 
 .toc-list li {
-  padding-left:20px;
+  margin-left:20px;
 }
 
 /* Add custom arrow */
