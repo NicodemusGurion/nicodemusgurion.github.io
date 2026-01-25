@@ -9,7 +9,7 @@
        | append: '">'
        | append: p.title 
        | append: "</a>" %}
-{%     include "page-toc.html" url=p.url text=link %}
+{%     include page-toc.html url=p.url text=link %}
 </li>
 {%   endif %}
 {% endfor %}
