@@ -4,9 +4,9 @@
 {%   assign prefix = path | slice: 0, page.url.size %}
 {%   if prefix == page.url and path.size > page.url.size %}
 <li>
-{%     assign link = "<a href=\"" 
+{%     assign link = '<a href="'
        | append: p.url 
-       | append: "\">" 
+       | append: '">'
        | append: p.title 
        | append: "</a>" %}
 {%     include "page-toc.html" url=p.url text=link %}
