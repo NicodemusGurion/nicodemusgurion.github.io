@@ -26,8 +26,8 @@ details > summary::-webkit-details-marker {
 
 .toc-list ul {
   margin: 0;
-  padding: 0.5em;
-  list-style-position: outside;
+  padding: 0.6em;
+  list-style-position: inside;
 }
 
 .toc-list ul li {
