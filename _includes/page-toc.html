@@ -1,4 +1,5 @@
 {%- assign pt_target_url = include.url | default: page.url -%}
+{%- assign pt_default_title = include.text | default: "Table of contents" -%}
 {%- assign pt_strip = include.strip | default: false -%}
 {% for page in site.pages %}
 {%   if page.tocpath == pt_target_url or page.url == pt_target_url %}
@@ -12,7 +13,7 @@
 {%-   assign pt_blocks = pt_html | split: "<h" -%}
 {%-   if pt_blocks.size > 1 %}
 {%      unless pt_strip %}
-<details><summary style="font-size:1.2em; font-weight:bold;">Table of contents</summary>
+<details><summary style="font-size:1.2em; font-weight:bold;">{{ pt_default_title }}</summary>
 {%      endunless %}
 <div class="toc-list">
 {%-     assign pt_prev_level = 0 -%}
