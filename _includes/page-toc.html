@@ -57,12 +57,11 @@
 </li>
 {%-         for i in (1..pt_prev_level) -%}</ul>{%- endfor -%}
 {%-       endif -%}
-
 {%-     endfor -%}
 </div>
-{%      unless pt_strip %}
+{%-      unless pt_strip -%}
 </details>
-{%      endunless %}
+{%-      endunless -%}
 {%-   endif -%}
 
-{%  endif %}
+{%- endif -%}
