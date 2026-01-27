@@ -456,8 +456,15 @@ See also:
 > By Allah, though I am the Apostle of Allah, yet I do not know what Allah will do to me,
 
 
+## Muhammad said the bodies of prophets do not decay, yet his body decayed
 
+[Sunan Abi Dawud 1047](https://sunnah.com/abudawud:1047)
 
+> Allah, the Exalted, has prohibited the earth from consuming the bodies of Prophets.
+
+Islam teaches that the Prophet Muhammad’s body was miraculously preserved and does not decay, yet this claim is deliberately unfalsifiable: no one may exhume or inspect his grave, so the claim cannot be tested, verified, or disproven. In principle, if his body were exhumed, it would either show decay—falsifying the hadith—or confirm preservation, but the restriction ensures it remains beyond empirical scrutiny. Christianity, by contrast, stakes its truth on the historical reality of Jesus’ empty tomb, which was publicly accessible: both Jews and Romans had every opportunity to produce his body to refute the resurrection claim, but they could not. The empty tomb therefore functions as a falsifiable, historically grounded event, making Christianity’s central claim uniquely verifiable and exposed to real-world testing, unlike Islam’s hidden-body assertion.
+
+Granted, even if Islam were to exhume Muhammad, it would not prove anything, since spontaneous mummification is 
 
 
 

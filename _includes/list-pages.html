@@ -2,6 +2,8 @@
 {% for p in site.pages %}
 {%   assign path = p.tocpath | default: p.url %}
 {%   assign prefix = path | slice: 0, page.url.size %}
+Prefix {{prefix}}<br>
+Page URLs {{page.url}}
 {%   if prefix == page.url and path.size > page.url.size %}
 <li>
 {%     assign link = '<a href="'
