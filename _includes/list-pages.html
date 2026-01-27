@@ -1,10 +1,15 @@
 <ul>
+{% assign prefixlength = page.url | size %}
+Prefix length {{ prefixlength }}<br>
 {% for p in site.pages %}
-{%   assign path = p.tocpath | default: p.url %}
-{%   assign prefix = path | slice: 0, page.url.size %}
+{% assign path = p.url %}
+{% if p.tocpath %}{% assign path = p.tocpath %}{% endif %}
+{%   assign prefix = path | slice: 0, prefixlength %}
+Processing page url {{ path }}<br>
 Prefix {{prefix}}<br>
-Page URLs {{page.url}}
-{%   if prefix == page.url and path.size > page.url.size %}
+
+Index Page URLs {{page.url}}<br>
+{%   if page.url == prefix and path != page.url %}
 <li>
 {%     assign link = '<a href="'
        | append: p.url 
