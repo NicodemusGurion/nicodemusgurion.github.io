@@ -55,12 +55,12 @@
             | minus: pt_blocks.size 
             | plus: pt_blocks.size -%}
 </li>
-{%-         for i in (1..pt_prev_level) -%}</ul>{%- endfor -%}
+{%-         for i in (1..pt_prev_level) -%}{% raw %}</ul>{% endraw %}{%- endfor -%}
 {%-       endif -%}
 {%-     endfor -%}
-</div>
+{% raw %}</div>{% endraw %}
 {%-      unless pt_strip -%}
-</details>
+{% raw %}</details>{% endraw %}
 {%-      endunless -%}
 {%-   endif -%}
 

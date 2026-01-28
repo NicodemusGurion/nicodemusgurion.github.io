@@ -6,6 +6,5 @@ toc: true
 ---
 
 <h1>Table of Contents</h1>
-{% raw %}
+
 {% include list-pages.html %}
-{% endraw %}
