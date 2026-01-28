@@ -5,7 +5,7 @@
 {% if p.tocpath %}{% assign path = p.tocpath %}{% endif %}
 {%   assign prefix = path | slice: 0, prefixlength %}
 {%   if page.url == prefix and path != page.url %}
-<li>
+<li markdown="0">
 {%     assign link = '<a href="'
        | append: p.url 
        | append: '">'
