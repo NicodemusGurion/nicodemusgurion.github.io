@@ -6,7 +6,7 @@ toc: true
 ---
 
 
-# Violence against women
+# Violence against women {#violence}
 
 ## Wife beating is allowed in Islam {#domestic-abuse}
 

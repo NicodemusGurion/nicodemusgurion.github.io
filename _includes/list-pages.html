@@ -5,13 +5,16 @@
 {% if p.tocpath %}{% assign path = p.tocpath %}{% endif %}
 {%   assign prefix = path | slice: 0, prefixlength %}
 {%   if page.url == prefix and path != page.url %}
-<li markdown="0">
-{%     assign link = '<a href="'
-       | append: p.url 
-       | append: '">'
-       | append: p.title 
-       | append: "</a>" %}
-{%     include page-toc.html url=p.url text=link %}
+<li >
+{%-     capture pagetoc -%}
+{%-       include page-toc.html url=p.url strip=true -%}
+{%      endcapture %}
+{%      assign pagetoc = pagetoc | strip %}
+{%      if pagetoc != "" %}
+<details><summary><a href="{{ p.url }}">{{ p.title }}</a></summary>{{ pagetoc }}<details>
+{%      else %}
+<a href="{{ p.url }}">{{ p.title }}</a>
+{%      endif %}
 </li>
 {%   endif %}
 {% endfor %}
