@@ -4,4 +4,4 @@ permalink: /dev/
 layout: null
 ---
 
-{%- include menu_generator.html -%}
+{%- include menu_generator.html root = "/" -%}
