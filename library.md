@@ -1,6 +1,8 @@
 ---
 title: Library
 permalink: /library/
+layout: page 
+toc: true
 ---
 
 Library of various academic articles.

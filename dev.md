@@ -1,5 +1,7 @@
 ---
 title: development
 permalink: /dev/
-layout: page
+layout: null
 ---
+
+{%- include menu_generator.html -%}
