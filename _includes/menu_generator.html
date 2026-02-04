@@ -1,97 +1,92 @@
-{%- assign open_path = include.open | default: "" -%}
-{%- assign last_char = open_path | slice: -1, 1 -%}
-{%- if open_path != "" and last_char != "/" -%}
-{%-   assign open_path = open_path 
-      | append: "/" -%}
+{%- assign mg_open_path = include.open | default: "" -%}
+{%- assign mg_last_char = mg_open_path | slice: -1, 1 -%}
+{%- if mg_open_path != "" and mg_last_char != "/" -%}
+{%-   assign mg_open_path = mg_open_path | append: "/" -%}
 {%- endif -%}
-{%- assign page_path = include.root | default: "/" -%}
-{%- assign last_char = page_path | slice: -1, 1 -%}
-{%- unless last_char == "/" -%}
-{%-   assign page_path = page_path 
-      | append: "/" -%}
+
+{%- assign mg_page_path = include.root | default: "/" -%}
+{%- assign mg_last_char = mg_page_path | slice: -1, 1 -%}
+{%- unless mg_last_char == "/" -%}
+{%-   assign mg_page_path = mg_page_path | append: "/" -%}
 {%- endunless -%}
-{%- assign sortable = "" | split: "" -%}
-{%- assign mypages = site.pages | where: "toc", "true" -%}
-{%- for p in mypages -%}
-{%-   if p.title -%}
-{%-     assign sortkey = p.tocpath | default: p.url -%}
-{%-     assign sortkey = sortkey | append: " " -%}
-{%-     assign prefix = sortkey 
-        | slice: 0, page_path.size -%}
-{%-     if prefix == page_path -%}
-{%-       capture line -%}
-{{ sortkey }}|||{{ p.url }}|||{{ p.title }}
+
+{%- assign mg_sortable = "" | split: "" -%}
+{%- assign mg_mypages = site.pages | where: "toc", "true" -%}
+
+{%- for mg_p in mg_mypages -%}
+{%-   if mg_p.title -%}
+{%-     assign mg_sortkey = mg_p.tocpath | default: mg_p.url -%}
+{%-     assign mg_sortkey = mg_sortkey | append: " " -%}
+{%-     assign mg_prefix = mg_sortkey | slice: 0, mg_page_path.size -%}
+{%-     if mg_prefix == mg_page_path -%}
+{%-       capture mg_line -%}
+{{ mg_sortkey }}|||{{ mg_p.url }}|||{{ mg_p.title }}
 {%-       endcapture -%}
-{%-       assign sortable = sortable | push: line -%}
+{%-       assign mg_sortable = mg_sortable | push: mg_line -%}
 {%-     endif -%}
 {%-   endif -%}
 {%- endfor -%}
 
-{%- assign sortable = sortable | sort -%}
+{%- assign mg_sortable = mg_sortable | sort -%}
 
 <div markdown="0">
-{%- assign prev_depth = 0 -%}
+{%- assign mg_prev_depth = 0 -%}
 
-{%- for entry in sortable -%}
-{%-   assign parts = entry | split: "|||" -%}
-{%-   assign sortkey = parts[0] | strip -%}
-{%-   assign url = parts[1] -%}
-{%-   assign title = parts[2] -%}
-{%-   assign depth = sortkey 
-      | split: "/" 
-      | size 
-      | minus: 2 -%}
-{%-   assign next_entry = sortable[forloop.index] -%}
+{%- for mg_entry in mg_sortable -%}
+{%-   assign mg_parts = mg_entry | split: "|||" -%}
+{%-   assign mg_sortkey = mg_parts[0] | strip -%}
+{%-   assign mg_url = mg_parts[1] -%}
+{%-   assign mg_title = mg_parts[2] -%}
+{%-   assign mg_depth = mg_sortkey | split: "/" | size | minus: 2 -%}
+{%-   assign mg_next_entry = mg_sortable[forloop.index] -%}
 
-{%-   if next_entry -%}
-{%-     assign next_parts = next_entry | split: "|||" -%}
-{%-     assign next_sortkey = next_parts[0] | strip -%}
-{%-     assign next_depth = next_sortkey | split: "/" | size | minus: 2 -%}
+{%-   if mg_next_entry -%}
+{%-     assign mg_next_parts = mg_next_entry | split: "|||" -%}
+{%-     assign mg_next_sortkey = mg_next_parts[0] | strip -%}
+{%-     assign mg_next_depth = mg_next_sortkey | split: "/" | size | minus: 2 -%}
 {%-   else -%}
-{%-     assign next_depth = -1 -%}
+{%-     assign mg_next_depth = -1 -%}
 {%-   endif -%}
 
-{%-   if depth < prev_depth -%}
-{%-     for i in (depth..prev_depth-1) -%}
+{%-   if mg_depth < mg_prev_depth -%}
+{%-     for mg_i in (mg_depth..mg_prev_depth-1) -%}
 </details>
 {%-     endfor -%}
 {%-   endif -%}
-{%-   assign prefix = open_path 
-        | slice: 0, sortkey.size -%}
-{%-   assign last_char = open_path 
-      | slice: -1, 1 -%}
-{%-   unless last_char == "/" -%}
-{%-     assign prefix = prefix 
-        | append: "/" -%}
+
+{%-   assign mg_prefix = mg_open_path | slice: 0, mg_sortkey.size -%}
+{%-   assign mg_last_char = mg_open_path | slice: -1, 1 -%}
+{%-   unless mg_last_char == "/" -%}
+{%-     assign mg_prefix = mg_prefix | append: "/" -%}
 {%-   endunless -%}
-{%-   if next_depth > depth -%}
-{%- assign is_open = false -%}
-{%- if open_path == "*" or prefix == sortkey -%}
-{%- assign is_open = true -%}
-{%- endif -%}
-<details{% if is_open %} open{% endif %}>
-<summary><a href="{{ url }}">{{ title }}</a></summary>
+
+{%-   if mg_next_depth > mg_depth -%}
+{%-     assign mg_is_open = false -%}
+{%-     if mg_open_path == "*" or mg_prefix == mg_sortkey -%}
+{%-       assign mg_is_open = true -%}
+{%-     endif -%}
+<details{% if mg_is_open %} open{% endif %}>
+<summary><a href="{{ mg_url }}">{{ mg_title }}</a></summary>
 {%-   else -%}
-{%-     capture page_toc -%}
-{%-       include page-toc.html url=url strip=true -%}
+{%-     capture mg_page_toc -%}
+{%-       include page-toc.html url=mg_url strip=true -%}
 {%-     endcapture -%}
-{%-     if page_toc.size > 0 %}
-{%-       assign is_open = false -%}
-{%-         if open_path == "*" or prefix == sortkey -%}
-{%-           assign is_open = true -%}
-{%-         endif -%}
-<details{% if is_open %} open{% endif %}><summary><a href="{{ url }}">{{ title }}</a></summary>{{ page_toc }}</details>
+{%-     if mg_page_toc.size > 0 -%}
+{%-       assign mg_is_open = false -%}
+{%-       if mg_open_path == "*" or mg_prefix == mg_sortkey -%}
+{%-         assign mg_is_open = true -%}
+{%-       endif -%}
+<details{% if mg_is_open %} open{% endif %}><summary><a href="{{ mg_url }}">{{ mg_title }}</a></summary>{{ mg_page_toc }}</details>
 {%-     else -%}
-    <p class="listitem"><a href="{{ url }}">{{ title }}</a></p>
-
-{%-     endif -%} 
-
+    <p class="listitem"><a href="{{ mg_url }}">{{ mg_title }}</a></p>
+{%-     endif -%}
 {%-   endif -%}
-{%-   assign prev_depth = depth -%}
 
+{%-   assign mg_prev_depth = mg_depth -%}
 {%- endfor -%}
-{%- assign close_count = prev_depth | minus: depth -%}
-{%- for i in (1..close_count) -%}
+
+{%- assign mg_close_count = mg_prev_depth | minus: mg_depth -%}
+{%- for mg_i in (1..mg_close_count) -%}
 </details>
 {%- endfor -%}
 </div>
