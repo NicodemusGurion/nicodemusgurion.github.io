@@ -19,6 +19,7 @@ layout: default
 {%- assign blocks = html | split: "<h" -%}
 {%- if blocks.size > 1 %}
 <details><summary style="font-size:1.2em; font-weight:bold;">Table of contents</summary>
+<div id="page_toc">
 {%- assign prev_level = 0 -%}
 {%- for block in blocks offset: 1 -%}
   {%- assign level = block | slice: 0,1 | plus: 0 -%}
@@ -46,6 +47,7 @@ layout: default
 {%- for i in (1..prev_level) -%}</ul>{%- endfor -%}
 {%- endif -%}
 {%- endfor -%}
+</div>
 </details>
 <br>
 {%- endif -%}
