@@ -69,7 +69,7 @@
 <summary><a href="{{ mg_url }}">{{ mg_title }}</a></summary>
 {%-   else -%}
 {%-     capture mg_page_toc -%}
-{%-       include page-toc.html url=mg_url strip=true -%}
+{%-       include page-toc-old.html url=mg_url strip=true -%}
 {%-     endcapture -%}
 {%-     if mg_page_toc.size > 0 -%}
 {%-       assign mg_is_open = false -%}
