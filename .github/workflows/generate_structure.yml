@@ -2,9 +2,10 @@ name: Generate Site Structure
 
 on:
   push:
-    branches: [master]  # ← Change here
+    branches: [master]
     paths-ignore:
       - '_data/site_structure.json'
+      - '_includes/sitemap_menu.html'
 
 permissions:
   contents: write
@@ -24,15 +25,18 @@ jobs:
       - name: Generate site structure
         run: ruby generate_structure.rb
       
+      - name: Generate sitemap menu
+        run: ruby generate_sitemap_menu.rb
+      
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add _data/site_structure.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update site structure [skip ci]"
+          git add _data/site_structure.json _includes/sitemap_menu.html
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update site structure and menu [skip ci]"
       
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master  # ← And here
+          branch: master
