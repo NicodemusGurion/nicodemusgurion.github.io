@@ -5,7 +5,6 @@ toc: true
 menu: true
 ---
 
-**[< Index](/dawah/)**
 
 
 Claim: There are thousands of Bible contradictions; therefore it cannot be God’s Word.
@@ -20,7 +19,6 @@ Lists circulated online often rely on:
 
 Most alleged contradictions dissolve under careful exegesis.
 
-{% include toc.md %}
 
 #Islam needs the Bible, the Bible does not need Islam
 

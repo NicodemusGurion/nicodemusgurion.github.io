@@ -5,7 +5,7 @@ menu: true
 toc: true
 ---
 
-**[< Index](/dawah/)**
+
 
 Claim: The Bible has been corrupted and is not the original revelation
 
@@ -17,7 +17,7 @@ Textual criticism (Christian, Jewish, secular, and even many Muslim scholars) af
 - The Dead Sea Scrolls show the Old Testament text was stable centuries before Christ. The “tahrif” concept in early Islam originally meant misinterpretation, not textual corruption.
 
 
-{% include toc.md %}
+
 
 # What logic shows
 

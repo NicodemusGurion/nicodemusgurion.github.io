@@ -5,7 +5,7 @@ toc: true
 menu: true
 ---
 
-**[< Index](/dawah/)**
+
 
 Claim: The Bible teaches abuse of women, therefore the abuse of women that Islam teaches is justified.
 
@@ -13,7 +13,6 @@ Why it’s false:
 
 While Islam directly commands its male followers to beat women, and teaches that women are deficient in intelligence, religion, and only worth half of a man in court, the Bible never commands anything remotely like it. The Bible may depict the sinful behavior of some humans who mistreated women, but every biblical law and command regarding how to treat women is loving and enlightened, and the Bible describes a God who loves, dignifies, respects, protects, and cherishes women. 
 
-{% include toc.md %}
 
 ### Paul said that women should be silent
 

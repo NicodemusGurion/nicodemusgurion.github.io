@@ -3,9 +3,10 @@ title: Rebekah was 3 years old when she married Isaac.
 search: true
 toc: true
 menu: true
+permalink: /dawah/rebekah/
 ---
 
-**[< Index](/dawah/)**
+
 
 
 Claim: Rebekah was 3 years old when she married Isaac.
@@ -13,9 +14,6 @@ Claim: Rebekah was 3 years old when she married Isaac.
 Why it’s false:
 
 This comes from a misuse of a Jewish midrashic interpretation that was never intended as literal history. The biblical text itself gives no age for Rebekah but describes her as a young woman (Heb. naʿarah), a word never used for toddlers. The narrative shows her performing adult tasks (drawing water for a caravan), unambiguously indicating maturity.
-
-
-{% include toc.md %}
 
 # Just a distraction from Muhammad's pedophilia
 

@@ -5,7 +5,7 @@ menu: true
 toc: true
 ---
 
-**[< Index](/dawah/)**
+
 
 
 Claim: The Gospels were written hundreds of years after Jesus.
@@ -19,4 +19,3 @@ Even very liberal scholars date:
 - John: 90–100 AD
 All within living memory of the eyewitnesses. Evidence indicate even earlier dates.
 
-{% include toc.md %}

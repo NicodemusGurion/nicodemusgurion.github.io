@@ -12,7 +12,6 @@ The Trinity Doctrine is probably the most misunderstood and attacked Christian d
  
 (This list will be continually expanded.)
 
-{% include toc.md %}
 
 [ ![](/public/img/Trinity-Shield-With-Legend.png) ](/public/img/Trinity-Shield-With-Legend-big.png)
 

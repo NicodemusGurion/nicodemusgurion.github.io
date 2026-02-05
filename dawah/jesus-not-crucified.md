@@ -5,7 +5,7 @@ menu: true
 toc: true
 ---
 
-**[< Index](/dawah/)**
+
 
 Claim: The Bible says Jesus didn’t die — Christians added that later.
 
@@ -15,4 +15,3 @@ All early sources — Christian, Jewish, Roman — agree that Jesus was crucifie
 This includes Tacitus, Josephus, Lucian, and the Talmud.
 No historian in mainstream scholarship denies the crucifixion.
 
-{% include toc.md %}

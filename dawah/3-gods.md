@@ -5,7 +5,7 @@ toc: true
 menu: true
 ---
 
-**[< Index](/dawah/)**
+
 
 
 Claim: Christians worship three gods — the Trinity is polytheism.
@@ -18,4 +18,3 @@ Christian monotheism is “complex monotheism”:
 
 This is misunderstood through the Islamic lens of tawhid, but philosophically and historically the doctrine is monotheistic, not polytheistic.
 
-{% include toc.md %}

@@ -5,7 +5,7 @@ toc: true
 menu: true
 ---
 
-**[< Index](/dawah/)**
+
 
 
 Claim: Islam is the fastest-growing religion in the world, implying that it is therefore true.
@@ -17,7 +17,7 @@ The most recent demographic research (Pew, Gordon-Conwell, etc.) generally shows
 
 Conversion data does not indicate Islam is the fastest-growing; global studies show Christianity gains more converts annually.
 
-{% include toc.md %}
+
 
 # Truth is not determined by popularity
 
