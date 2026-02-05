@@ -17,7 +17,8 @@
           }
         ],
         "children": {
-        }
+        },
+        "include_in_menu": false
       },
       "Jesus is Jehovah": {
         "title": "Jesus is jehovah",
@@ -26,7 +27,8 @@
 
         ],
         "children": {
-        }
+        },
+        "include_in_menu": false
       },
       "al-zutt": {
         "title": "When the men of Al-Zutt rode Muhammad all night long",
@@ -49,7 +51,8 @@
           }
         ],
         "children": {
-        }
+        },
+        "include_in_menu": false
       },
       "atheism": {
         "title": "Atheism",
@@ -114,7 +117,8 @@
               }
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           },
           "Extraordinary claims require extraordinary evidence": {
             "title": "Extraordinary claims require extraordinary evidence",
@@ -123,7 +127,8 @@
 
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           }
         }
       },
@@ -158,7 +163,8 @@
           }
         ],
         "children": {
-        }
+        },
+        "include_in_menu": true
       },
       "dawah": {
         "title": "Answers to Dawah script nonsense",
@@ -242,7 +248,8 @@
               }
             ],
             "children": {
-            }
+            },
+            "include_in_menu": true
           },
           "jesus-not-crucified": {
             "title": "Jesus Not Crucified",
@@ -251,7 +258,8 @@
 
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           },
           "late-gospels": {
             "title": "The Gospels were written hundreds of years after Jesus",
@@ -260,7 +268,8 @@
 
             ],
             "children": {
-            }
+            },
+            "include_in_menu": true
           },
           "nicaea-canon": {
             "title": "The Council of Nicaea chose the Biblical canon",
@@ -269,7 +278,8 @@
 
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           },
           "paul-invented-christianity": {
             "title": "Paul invented Christianity",
@@ -302,7 +312,8 @@
               }
             ],
             "children": {
-            }
+            },
+            "include_in_menu": true
           },
           "prophets-sinful": {
             "title": "The Bible portrays prophets committing terrible sins, proving it's corrupted",
@@ -311,7 +322,8 @@
 
             ],
             "children": {
-            }
+            },
+            "include_in_menu": true
           },
           "rebekah-3": {
             "title": "Rebekah was 3 years old when she married Isaac.",
@@ -339,7 +351,8 @@
               }
             ],
             "children": {
-            }
+            },
+            "include_in_menu": true
           },
           "trinity-invented-at-nicaea": {
             "title": "The Trinity is a later invention from the Council of Nicaea/by Constantine",
@@ -367,9 +380,11 @@
               }
             ],
             "children": {
-            }
+            },
+            "include_in_menu": true
           }
-        }
+        },
+        "include_in_menu": true
       },
       "dev": {
         "title": "development",
@@ -378,7 +393,8 @@
 
         ],
         "children": {
-        }
+        },
+        "include_in_menu": false
       },
       "hexapla": {
         "title": "Hexapla",
@@ -387,7 +403,8 @@
 
         ],
         "children": {
-        }
+        },
+        "include_in_menu": false
       },
       "index-old": {
         "title": "Home",
@@ -396,7 +413,8 @@
 
         ],
         "children": {
-        }
+        },
+        "include_in_menu": false
       },
       "islam": {
         "title": "Teachings of Islam",
@@ -405,7 +423,8 @@
 
         ],
         "children": {
-        }
+        },
+        "include_in_menu": false
       },
       "islamic-dilemma": {
         "title": "The Islamic Dilemma",
@@ -433,7 +452,8 @@
           }
         ],
         "children": {
-        }
+        },
+        "include_in_menu": false
       },
       "jw": {
         "title": "Jehovah's Witnesses",
@@ -442,7 +462,8 @@
 
         ],
         "children": {
-        }
+        },
+        "include_in_menu": true
       },
       "library": {
         "title": "Library",
@@ -470,7 +491,8 @@
           }
         ],
         "children": {
-        }
+        },
+        "include_in_menu": true
       },
       "qright": {
         "title": "The Qright",
@@ -498,7 +520,8 @@
           }
         ],
         "children": {
-        }
+        },
+        "include_in_menu": false
       },
       "quran": {
         "title": "Tafsīr al-Jāk",
@@ -514,9 +537,11 @@
 
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           }
-        }
+        },
+        "include_in_menu": false
       },
       "studies": {
         "title": "Studies, Statistics and Papers",
@@ -555,7 +580,8 @@
               }
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           },
           "physical-health-cancer-patients": {
             "title": "Religion, spirituality, and physical health in cancer patients: A meta-analysis",
@@ -568,7 +594,8 @@
               }
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           },
           "pro-environmental-behaviour": {
             "title": "Does religion promote pro-environmental behaviour? A cross-country investigation",
@@ -577,7 +604,8 @@
 
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           },
           "religious-schools-do-better": {
             "title": "The Effects of Catholic and Prostestant Schools",
@@ -590,7 +618,8 @@
               }
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           },
           "spiritual-factors-depression": {
             "title": "Religious and spiritual factors in depression: review and integration of the research",
@@ -603,9 +632,11 @@
               }
             ],
             "children": {
-            }
+            },
+            "include_in_menu": false
           }
-        }
+        },
+        "include_in_menu": false
       }
     }
   },
@@ -617,7 +648,8 @@
       "headers": [
 
       ],
-      "file": "index.html"
+      "file": "index.html",
+      "include_in_menu": true
     },
     {
       "url": "/Jesus is Jehovah/",
@@ -626,7 +658,8 @@
       "headers": [
 
       ],
-      "file": "Jesus is Jehovah.md"
+      "file": "Jesus is Jehovah.md",
+      "include_in_menu": false
     },
     {
       "url": "/al-zutt/",
@@ -649,7 +682,8 @@
           "anchor": "what-it-sounds-like"
         }
       ],
-      "file": "al-zutt.md"
+      "file": "al-zutt.md",
+      "include_in_menu": false
     },
     {
       "url": "/atheism/Atheism is incompatible with science/",
@@ -707,7 +741,8 @@
           "anchor": "conclusion"
         }
       ],
-      "file": "atheism/Atheism is incompatible with science.md"
+      "file": "atheism/Atheism is incompatible with science.md",
+      "include_in_menu": false
     },
     {
       "url": "/atheism/Extraordinary claims require extraordinary evidence/",
@@ -716,7 +751,8 @@
       "headers": [
 
       ],
-      "file": "atheism/Extraordinary claims require extraordinary evidence.md"
+      "file": "atheism/Extraordinary claims require extraordinary evidence.md",
+      "include_in_menu": false
     },
     {
       "url": "/christianity/",
@@ -749,7 +785,8 @@
           "anchor": "jehovahs-witnesses"
         }
       ],
-      "file": "christianity/index.md"
+      "file": "christianity/index.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/",
@@ -787,7 +824,8 @@
           "anchor": "trying-to-leech-authority"
         }
       ],
-      "file": "dawah/index.md"
+      "file": "dawah/index.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/3-gods/",
@@ -796,7 +834,8 @@
       "headers": [
 
       ],
-      "file": "dawah/3-gods.md"
+      "file": "dawah/3-gods.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/abusing-women/",
@@ -809,7 +848,8 @@
           "anchor": "paul-said-that-women-should-be-silent"
         }
       ],
-      "file": "dawah/abusing-women.md"
+      "file": "dawah/abusing-women.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/allah-vs-yahweh/",
@@ -872,7 +912,8 @@
           "anchor": "sexual-morality"
         }
       ],
-      "file": "dawah/allah-vs-yahweh.md"
+      "file": "dawah/allah-vs-yahweh.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/bible-contradictions/",
@@ -900,7 +941,8 @@
           "anchor": "the-dilemma"
         }
       ],
-      "file": "dawah/bible-contradictions.md"
+      "file": "dawah/bible-contradictions.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/bible-corrupted/",
@@ -943,7 +985,8 @@
           "anchor": "the-dilemma"
         }
       ],
-      "file": "dawah/bible-corrupted.md"
+      "file": "dawah/bible-corrupted.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/christianity-spread-by-force/",
@@ -952,7 +995,8 @@
       "headers": [
 
       ],
-      "file": "dawah/christianity-spread-by-force.md"
+      "file": "dawah/christianity-spread-by-force.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/disciples-not-worshiping-jesus/",
@@ -961,7 +1005,8 @@
       "headers": [
 
       ],
-      "file": "dawah/disciples-not-worshiping-jesus.md"
+      "file": "dawah/disciples-not-worshiping-jesus.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/fast-growth/",
@@ -984,7 +1029,8 @@
           "anchor": "increase-is-due-to-birth-rates-not-conversions"
         }
       ],
-      "file": "dawah/fast-growth.md"
+      "file": "dawah/fast-growth.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/gospel-of-barnabas/",
@@ -993,7 +1039,8 @@
       "headers": [
 
       ],
-      "file": "dawah/gospel-of-barnabas.md"
+      "file": "dawah/gospel-of-barnabas.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/jesus-never-claimed-to-be-god/",
@@ -1041,7 +1088,8 @@
           "anchor": "jesus-never-said-i-am-god-worship-me"
         }
       ],
-      "file": "dawah/jesus-never-claimed-to-be-god.md"
+      "file": "dawah/jesus-never-claimed-to-be-god.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/jesus-not-crucified/",
@@ -1050,7 +1098,8 @@
       "headers": [
 
       ],
-      "file": "dawah/jesus-not-crucified.md"
+      "file": "dawah/jesus-not-crucified.md",
+      "include_in_menu": false
     },
     {
       "url": "/dawah/late-gospels/",
@@ -1059,7 +1108,8 @@
       "headers": [
 
       ],
-      "file": "dawah/late-gospels.md"
+      "file": "dawah/late-gospels.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/nicaea-canon/",
@@ -1068,7 +1118,8 @@
       "headers": [
 
       ],
-      "file": "dawah/nicaea-canon.md"
+      "file": "dawah/nicaea-canon.md",
+      "include_in_menu": false
     },
     {
       "url": "/dawah/paul-invented-christianity/",
@@ -1101,7 +1152,8 @@
           "anchor": "a-problem-for-islam"
         }
       ],
-      "file": "dawah/paul-invented-christianity.md"
+      "file": "dawah/paul-invented-christianity.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/prophets-sinful/",
@@ -1110,7 +1162,8 @@
       "headers": [
 
       ],
-      "file": "dawah/prophets-sinful.md"
+      "file": "dawah/prophets-sinful.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/rebekah-3/",
@@ -1138,7 +1191,8 @@
           "anchor": "rebecca-was-an-adult"
         }
       ],
-      "file": "dawah/rebekah-3.md"
+      "file": "dawah/rebekah-3.md",
+      "include_in_menu": true
     },
     {
       "url": "/dawah/trinity-invented-at-nicaea/",
@@ -1166,7 +1220,8 @@
           "anchor": "church-fathers-were-trinitarians"
         }
       ],
-      "file": "dawah/trinity-invented-at-nicaea.md"
+      "file": "dawah/trinity-invented-at-nicaea.md",
+      "include_in_menu": true
     },
     {
       "url": "/dev/",
@@ -1175,7 +1230,8 @@
       "headers": [
 
       ],
-      "file": "dev.md"
+      "file": "dev.md",
+      "include_in_menu": false
     },
     {
       "url": "/hexapla/",
@@ -1184,7 +1240,8 @@
       "headers": [
 
       ],
-      "file": "hexapla.md"
+      "file": "hexapla.md",
+      "include_in_menu": false
     },
     {
       "url": "/index-old/",
@@ -1193,7 +1250,8 @@
       "headers": [
 
       ],
-      "file": "index-old.html"
+      "file": "index-old.html",
+      "include_in_menu": false
     },
     {
       "url": "/islam/",
@@ -1202,7 +1260,8 @@
       "headers": [
 
       ],
-      "file": "islam/index.md"
+      "file": "islam/index.md",
+      "include_in_menu": false
     },
     {
       "url": "/islam/allah/",
@@ -1515,7 +1574,8 @@
           "anchor": "allah-purchases-souls-from-people"
         }
       ],
-      "file": "islam/01-allah.md"
+      "file": "islam/01-allah.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/errors/",
@@ -1708,7 +1768,8 @@
           "anchor": "jinn-can-not-produce-something-like-the-quran-but-did-produce-a-whole-surah-of-the-quran"
         }
       ],
-      "file": "islam/05-errors.md"
+      "file": "islam/05-errors.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/featured/",
@@ -1731,7 +1792,8 @@
           "anchor": "quran-and-hadith-verses-promoting-violence"
         }
       ],
-      "file": "islam/00-featured.md"
+      "file": "islam/00-featured.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/fraud/",
@@ -1814,7 +1876,8 @@
           "anchor": "dont-talk-nonsense-with-muhammad"
         }
       ],
-      "file": "islam/04-obvious-fraud.md"
+      "file": "islam/04-obvious-fraud.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/holy-books/",
@@ -1977,7 +2040,8 @@
           "anchor": "verses-where-the-quran-affirms-the-bible"
         }
       ],
-      "file": "islam/07-holy-books.md"
+      "file": "islam/07-holy-books.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/life/",
@@ -2060,7 +2124,8 @@
           "anchor": "dont-eat-with-your-left-hand"
         }
       ],
-      "file": "islam/12-everyday-life.md"
+      "file": "islam/12-everyday-life.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/morals/",
@@ -2403,7 +2468,8 @@
           "anchor": "muslims-can-indiscriminately-kill-innocent-civilians"
         }
       ],
-      "file": "islam/10-morality.md"
+      "file": "islam/10-morality.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/muhammad/",
@@ -3046,7 +3112,8 @@
           "anchor": "last-actions"
         }
       ],
-      "file": "islam/02-Muhammad.md"
+      "file": "islam/02-Muhammad.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/religions/",
@@ -3234,7 +3301,8 @@
           "anchor": "allah-promised-that-christians-will-be-superior-until-judgment-day"
         }
       ],
-      "file": "islam/06-religions.md"
+      "file": "islam/06-religions.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/science/",
@@ -3402,7 +3470,8 @@
           "anchor": "7-dates-protects-against-poison"
         }
       ],
-      "file": "islam/08-science.md"
+      "file": "islam/08-science.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/theology/",
@@ -3740,7 +3809,8 @@
           "anchor": "but-muhammad-also-forgives-sins"
         }
       ],
-      "file": "islam/09-theology.md"
+      "file": "islam/09-theology.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/vip/",
@@ -3868,7 +3938,8 @@
           "anchor": "satan-water-throne"
         }
       ],
-      "file": "islam/03-other-characters.md"
+      "file": "islam/03-other-characters.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/weird/",
@@ -3926,7 +3997,8 @@
           "anchor": "muhammads-donkey-stinks"
         }
       ],
-      "file": "islam/13-weird.md"
+      "file": "islam/13-weird.md",
+      "include_in_menu": true
     },
     {
       "url": "/islam/women/",
@@ -4094,7 +4166,8 @@
           "anchor": "in-paradise-women-will-be-prostitutes"
         }
       ],
-      "file": "islam/11-women.md"
+      "file": "islam/11-women.md",
+      "include_in_menu": true
     },
     {
       "url": "/islamic-dilemma/",
@@ -4122,7 +4195,8 @@
           "anchor": "clear-quran"
         }
       ],
-      "file": "islamic-dilemma.md"
+      "file": "islamic-dilemma.md",
+      "include_in_menu": false
     },
     {
       "url": "/jesus-deity/",
@@ -4230,7 +4304,8 @@
           "anchor": "jesus-has-the-glory-of-god"
         }
       ],
-      "file": "christianity/List of scriptures proving the deity of Christ.md"
+      "file": "christianity/List of scriptures proving the deity of Christ.md",
+      "include_in_menu": true
     },
     {
       "url": "/jesus-is-jehovah/",
@@ -4239,7 +4314,8 @@
       "headers": [
 
       ],
-      "file": "christianity/Jesus is Jehovah.md"
+      "file": "christianity/Jesus is Jehovah.md",
+      "include_in_menu": true
     },
     {
       "url": "/jw/",
@@ -4248,7 +4324,8 @@
       "headers": [
 
       ],
-      "file": "jw/index.md"
+      "file": "jw/index.md",
+      "include_in_menu": true
     },
     {
       "url": "/library/",
@@ -4276,7 +4353,8 @@
           "anchor": "weird-and-miscellaneous"
         }
       ],
-      "file": "library.md"
+      "file": "library.md",
+      "include_in_menu": true
     },
     {
       "url": "/nwt/",
@@ -4499,7 +4577,8 @@
           "anchor": "revelation-5-10"
         }
       ],
-      "file": "jw/Changes in the New World Translation.md"
+      "file": "jw/Changes in the New World Translation.md",
+      "include_in_menu": true
     },
     {
       "url": "/qright/",
@@ -4527,7 +4606,8 @@
           "anchor": "4-gorgonzola"
         }
       ],
-      "file": "qright.md"
+      "file": "qright.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/",
@@ -4536,7 +4616,8 @@
       "headers": [
 
       ],
-      "file": "quran/index.md"
+      "file": "quran/index.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/1/",
@@ -4545,7 +4626,8 @@
       "headers": [
 
       ],
-      "file": "quran/001.md"
+      "file": "quran/001.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/10/",
@@ -4554,7 +4636,8 @@
       "headers": [
 
       ],
-      "file": "quran/010.md"
+      "file": "quran/010.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/100/",
@@ -4563,7 +4646,8 @@
       "headers": [
 
       ],
-      "file": "quran/100.md"
+      "file": "quran/100.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/101/",
@@ -4572,7 +4656,8 @@
       "headers": [
 
       ],
-      "file": "quran/101.md"
+      "file": "quran/101.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/102/",
@@ -4581,7 +4666,8 @@
       "headers": [
 
       ],
-      "file": "quran/102.md"
+      "file": "quran/102.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/103/",
@@ -4590,7 +4676,8 @@
       "headers": [
 
       ],
-      "file": "quran/103.md"
+      "file": "quran/103.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/104/",
@@ -4599,7 +4686,8 @@
       "headers": [
 
       ],
-      "file": "quran/104.md"
+      "file": "quran/104.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/105/",
@@ -4608,7 +4696,8 @@
       "headers": [
 
       ],
-      "file": "quran/105.md"
+      "file": "quran/105.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/106/",
@@ -4617,7 +4706,8 @@
       "headers": [
 
       ],
-      "file": "quran/106.md"
+      "file": "quran/106.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/107/",
@@ -4626,7 +4716,8 @@
       "headers": [
 
       ],
-      "file": "quran/107.md"
+      "file": "quran/107.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/108/",
@@ -4635,7 +4726,8 @@
       "headers": [
 
       ],
-      "file": "quran/108.md"
+      "file": "quran/108.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/109/",
@@ -4644,7 +4736,8 @@
       "headers": [
 
       ],
-      "file": "quran/109.md"
+      "file": "quran/109.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/11/",
@@ -4653,7 +4746,8 @@
       "headers": [
 
       ],
-      "file": "quran/011.md"
+      "file": "quran/011.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/110/",
@@ -4662,7 +4756,8 @@
       "headers": [
 
       ],
-      "file": "quran/110.md"
+      "file": "quran/110.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/111/",
@@ -4671,7 +4766,8 @@
       "headers": [
 
       ],
-      "file": "quran/111.md"
+      "file": "quran/111.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/112/",
@@ -4680,7 +4776,8 @@
       "headers": [
 
       ],
-      "file": "quran/112.md"
+      "file": "quran/112.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/113/",
@@ -4689,7 +4786,8 @@
       "headers": [
 
       ],
-      "file": "quran/113.md"
+      "file": "quran/113.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/114/",
@@ -4698,7 +4796,8 @@
       "headers": [
 
       ],
-      "file": "quran/114.md"
+      "file": "quran/114.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/12/",
@@ -4707,7 +4806,8 @@
       "headers": [
 
       ],
-      "file": "quran/012.md"
+      "file": "quran/012.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/13/",
@@ -4716,7 +4816,8 @@
       "headers": [
 
       ],
-      "file": "quran/013.md"
+      "file": "quran/013.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/14/",
@@ -4725,7 +4826,8 @@
       "headers": [
 
       ],
-      "file": "quran/014.md"
+      "file": "quran/014.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/15/",
@@ -4734,7 +4836,8 @@
       "headers": [
 
       ],
-      "file": "quran/015.md"
+      "file": "quran/015.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/16/",
@@ -4743,7 +4846,8 @@
       "headers": [
 
       ],
-      "file": "quran/016.md"
+      "file": "quran/016.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/17/",
@@ -4752,7 +4856,8 @@
       "headers": [
 
       ],
-      "file": "quran/017.md"
+      "file": "quran/017.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/18/",
@@ -4761,7 +4866,8 @@
       "headers": [
 
       ],
-      "file": "quran/018.md"
+      "file": "quran/018.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/19/",
@@ -4770,7 +4876,8 @@
       "headers": [
 
       ],
-      "file": "quran/019.md"
+      "file": "quran/019.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/2/",
@@ -4923,7 +5030,8 @@
           "anchor": "forgiveness"
         }
       ],
-      "file": "quran/002.md"
+      "file": "quran/002.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/20/",
@@ -4932,7 +5040,8 @@
       "headers": [
 
       ],
-      "file": "quran/020.md"
+      "file": "quran/020.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/21/",
@@ -4941,7 +5050,8 @@
       "headers": [
 
       ],
-      "file": "quran/021.md"
+      "file": "quran/021.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/22/",
@@ -4950,7 +5060,8 @@
       "headers": [
 
       ],
-      "file": "quran/022.md"
+      "file": "quran/022.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/23/",
@@ -4959,7 +5070,8 @@
       "headers": [
 
       ],
-      "file": "quran/023.md"
+      "file": "quran/023.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/24/",
@@ -4968,7 +5080,8 @@
       "headers": [
 
       ],
-      "file": "quran/024.md"
+      "file": "quran/024.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/25/",
@@ -4977,7 +5090,8 @@
       "headers": [
 
       ],
-      "file": "quran/025.md"
+      "file": "quran/025.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/26/",
@@ -4986,7 +5100,8 @@
       "headers": [
 
       ],
-      "file": "quran/026.md"
+      "file": "quran/026.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/27/",
@@ -4995,7 +5110,8 @@
       "headers": [
 
       ],
-      "file": "quran/027.md"
+      "file": "quran/027.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/28/",
@@ -5004,7 +5120,8 @@
       "headers": [
 
       ],
-      "file": "quran/028.md"
+      "file": "quran/028.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/29/",
@@ -5013,7 +5130,8 @@
       "headers": [
 
       ],
-      "file": "quran/029.md"
+      "file": "quran/029.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/3/",
@@ -5022,7 +5140,8 @@
       "headers": [
 
       ],
-      "file": "quran/003.md"
+      "file": "quran/003.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/30/",
@@ -5031,7 +5150,8 @@
       "headers": [
 
       ],
-      "file": "quran/030.md"
+      "file": "quran/030.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/31/",
@@ -5040,7 +5160,8 @@
       "headers": [
 
       ],
-      "file": "quran/031.md"
+      "file": "quran/031.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/32/",
@@ -5049,7 +5170,8 @@
       "headers": [
 
       ],
-      "file": "quran/032.md"
+      "file": "quran/032.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/33/",
@@ -5058,7 +5180,8 @@
       "headers": [
 
       ],
-      "file": "quran/033.md"
+      "file": "quran/033.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/34/",
@@ -5067,7 +5190,8 @@
       "headers": [
 
       ],
-      "file": "quran/034.md"
+      "file": "quran/034.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/35/",
@@ -5076,7 +5200,8 @@
       "headers": [
 
       ],
-      "file": "quran/035.md"
+      "file": "quran/035.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/36/",
@@ -5085,7 +5210,8 @@
       "headers": [
 
       ],
-      "file": "quran/036.md"
+      "file": "quran/036.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/37/",
@@ -5094,7 +5220,8 @@
       "headers": [
 
       ],
-      "file": "quran/037.md"
+      "file": "quran/037.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/38/",
@@ -5103,7 +5230,8 @@
       "headers": [
 
       ],
-      "file": "quran/038.md"
+      "file": "quran/038.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/39/",
@@ -5112,7 +5240,8 @@
       "headers": [
 
       ],
-      "file": "quran/039.md"
+      "file": "quran/039.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/4/",
@@ -5121,7 +5250,8 @@
       "headers": [
 
       ],
-      "file": "quran/004.md"
+      "file": "quran/004.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/40/",
@@ -5130,7 +5260,8 @@
       "headers": [
 
       ],
-      "file": "quran/040.md"
+      "file": "quran/040.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/41/",
@@ -5139,7 +5270,8 @@
       "headers": [
 
       ],
-      "file": "quran/041.md"
+      "file": "quran/041.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/42/",
@@ -5148,7 +5280,8 @@
       "headers": [
 
       ],
-      "file": "quran/042.md"
+      "file": "quran/042.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/43/",
@@ -5157,7 +5290,8 @@
       "headers": [
 
       ],
-      "file": "quran/043.md"
+      "file": "quran/043.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/44/",
@@ -5166,7 +5300,8 @@
       "headers": [
 
       ],
-      "file": "quran/044.md"
+      "file": "quran/044.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/45/",
@@ -5175,7 +5310,8 @@
       "headers": [
 
       ],
-      "file": "quran/045.md"
+      "file": "quran/045.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/46/",
@@ -5184,7 +5320,8 @@
       "headers": [
 
       ],
-      "file": "quran/046.md"
+      "file": "quran/046.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/47/",
@@ -5193,7 +5330,8 @@
       "headers": [
 
       ],
-      "file": "quran/047.md"
+      "file": "quran/047.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/48/",
@@ -5202,7 +5340,8 @@
       "headers": [
 
       ],
-      "file": "quran/048.md"
+      "file": "quran/048.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/49/",
@@ -5211,7 +5350,8 @@
       "headers": [
 
       ],
-      "file": "quran/049.md"
+      "file": "quran/049.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/5/",
@@ -5220,7 +5360,8 @@
       "headers": [
 
       ],
-      "file": "quran/005.md"
+      "file": "quran/005.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/50/",
@@ -5229,7 +5370,8 @@
       "headers": [
 
       ],
-      "file": "quran/050.md"
+      "file": "quran/050.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/51/",
@@ -5238,7 +5380,8 @@
       "headers": [
 
       ],
-      "file": "quran/051.md"
+      "file": "quran/051.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/52/",
@@ -5247,7 +5390,8 @@
       "headers": [
 
       ],
-      "file": "quran/052.md"
+      "file": "quran/052.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/53/",
@@ -5256,7 +5400,8 @@
       "headers": [
 
       ],
-      "file": "quran/053.md"
+      "file": "quran/053.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/54/",
@@ -5265,7 +5410,8 @@
       "headers": [
 
       ],
-      "file": "quran/054.md"
+      "file": "quran/054.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/55/",
@@ -5274,7 +5420,8 @@
       "headers": [
 
       ],
-      "file": "quran/055.md"
+      "file": "quran/055.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/56/",
@@ -5283,7 +5430,8 @@
       "headers": [
 
       ],
-      "file": "quran/056.md"
+      "file": "quran/056.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/57/",
@@ -5292,7 +5440,8 @@
       "headers": [
 
       ],
-      "file": "quran/057.md"
+      "file": "quran/057.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/58/",
@@ -5301,7 +5450,8 @@
       "headers": [
 
       ],
-      "file": "quran/058.md"
+      "file": "quran/058.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/59/",
@@ -5310,7 +5460,8 @@
       "headers": [
 
       ],
-      "file": "quran/059.md"
+      "file": "quran/059.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/6/",
@@ -5319,7 +5470,8 @@
       "headers": [
 
       ],
-      "file": "quran/006.md"
+      "file": "quran/006.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/60/",
@@ -5328,7 +5480,8 @@
       "headers": [
 
       ],
-      "file": "quran/060.md"
+      "file": "quran/060.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/61/",
@@ -5337,7 +5490,8 @@
       "headers": [
 
       ],
-      "file": "quran/061.md"
+      "file": "quran/061.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/62/",
@@ -5346,7 +5500,8 @@
       "headers": [
 
       ],
-      "file": "quran/062.md"
+      "file": "quran/062.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/63/",
@@ -5355,7 +5510,8 @@
       "headers": [
 
       ],
-      "file": "quran/063.md"
+      "file": "quran/063.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/64/",
@@ -5364,7 +5520,8 @@
       "headers": [
 
       ],
-      "file": "quran/064.md"
+      "file": "quran/064.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/65/",
@@ -5373,7 +5530,8 @@
       "headers": [
 
       ],
-      "file": "quran/065.md"
+      "file": "quran/065.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/66/",
@@ -5382,7 +5540,8 @@
       "headers": [
 
       ],
-      "file": "quran/066.md"
+      "file": "quran/066.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/67/",
@@ -5391,7 +5550,8 @@
       "headers": [
 
       ],
-      "file": "quran/067.md"
+      "file": "quran/067.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/68/",
@@ -5400,7 +5560,8 @@
       "headers": [
 
       ],
-      "file": "quran/068.md"
+      "file": "quran/068.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/69/",
@@ -5409,7 +5570,8 @@
       "headers": [
 
       ],
-      "file": "quran/069.md"
+      "file": "quran/069.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/7/",
@@ -5418,7 +5580,8 @@
       "headers": [
 
       ],
-      "file": "quran/007.md"
+      "file": "quran/007.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/70/",
@@ -5427,7 +5590,8 @@
       "headers": [
 
       ],
-      "file": "quran/070.md"
+      "file": "quran/070.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/71/",
@@ -5436,7 +5600,8 @@
       "headers": [
 
       ],
-      "file": "quran/071.md"
+      "file": "quran/071.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/72/",
@@ -5445,7 +5610,8 @@
       "headers": [
 
       ],
-      "file": "quran/072.md"
+      "file": "quran/072.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/73/",
@@ -5454,7 +5620,8 @@
       "headers": [
 
       ],
-      "file": "quran/073.md"
+      "file": "quran/073.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/74/",
@@ -5463,7 +5630,8 @@
       "headers": [
 
       ],
-      "file": "quran/074.md"
+      "file": "quran/074.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/75/",
@@ -5472,7 +5640,8 @@
       "headers": [
 
       ],
-      "file": "quran/075.md"
+      "file": "quran/075.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/76/",
@@ -5481,7 +5650,8 @@
       "headers": [
 
       ],
-      "file": "quran/076.md"
+      "file": "quran/076.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/77/",
@@ -5490,7 +5660,8 @@
       "headers": [
 
       ],
-      "file": "quran/077.md"
+      "file": "quran/077.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/78/",
@@ -5499,7 +5670,8 @@
       "headers": [
 
       ],
-      "file": "quran/078.md"
+      "file": "quran/078.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/79/",
@@ -5508,7 +5680,8 @@
       "headers": [
 
       ],
-      "file": "quran/079.md"
+      "file": "quran/079.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/8/",
@@ -5517,7 +5690,8 @@
       "headers": [
 
       ],
-      "file": "quran/008.md"
+      "file": "quran/008.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/80/",
@@ -5526,7 +5700,8 @@
       "headers": [
 
       ],
-      "file": "quran/080.md"
+      "file": "quran/080.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/81/",
@@ -5535,7 +5710,8 @@
       "headers": [
 
       ],
-      "file": "quran/081.md"
+      "file": "quran/081.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/82/",
@@ -5544,7 +5720,8 @@
       "headers": [
 
       ],
-      "file": "quran/082.md"
+      "file": "quran/082.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/83/",
@@ -5553,7 +5730,8 @@
       "headers": [
 
       ],
-      "file": "quran/083.md"
+      "file": "quran/083.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/84/",
@@ -5562,7 +5740,8 @@
       "headers": [
 
       ],
-      "file": "quran/084.md"
+      "file": "quran/084.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/85/",
@@ -5571,7 +5750,8 @@
       "headers": [
 
       ],
-      "file": "quran/085.md"
+      "file": "quran/085.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/86/",
@@ -5580,7 +5760,8 @@
       "headers": [
 
       ],
-      "file": "quran/086.md"
+      "file": "quran/086.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/87/",
@@ -5589,7 +5770,8 @@
       "headers": [
 
       ],
-      "file": "quran/087.md"
+      "file": "quran/087.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/88/",
@@ -5598,7 +5780,8 @@
       "headers": [
 
       ],
-      "file": "quran/088.md"
+      "file": "quran/088.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/89/",
@@ -5607,7 +5790,8 @@
       "headers": [
 
       ],
-      "file": "quran/089.md"
+      "file": "quran/089.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/9/",
@@ -5616,7 +5800,8 @@
       "headers": [
 
       ],
-      "file": "quran/009.md"
+      "file": "quran/009.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/90/",
@@ -5625,7 +5810,8 @@
       "headers": [
 
       ],
-      "file": "quran/090.md"
+      "file": "quran/090.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/91/",
@@ -5634,7 +5820,8 @@
       "headers": [
 
       ],
-      "file": "quran/091.md"
+      "file": "quran/091.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/92/",
@@ -5643,7 +5830,8 @@
       "headers": [
 
       ],
-      "file": "quran/092.md"
+      "file": "quran/092.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/93/",
@@ -5652,7 +5840,8 @@
       "headers": [
 
       ],
-      "file": "quran/093.md"
+      "file": "quran/093.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/94/",
@@ -5661,7 +5850,8 @@
       "headers": [
 
       ],
-      "file": "quran/094.md"
+      "file": "quran/094.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/95/",
@@ -5670,7 +5860,8 @@
       "headers": [
 
       ],
-      "file": "quran/095.md"
+      "file": "quran/095.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/96/",
@@ -5679,7 +5870,8 @@
       "headers": [
 
       ],
-      "file": "quran/096.md"
+      "file": "quran/096.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/97/",
@@ -5688,7 +5880,8 @@
       "headers": [
 
       ],
-      "file": "quran/097.md"
+      "file": "quran/097.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/98/",
@@ -5697,7 +5890,8 @@
       "headers": [
 
       ],
-      "file": "quran/098.md"
+      "file": "quran/098.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/99/",
@@ -5706,7 +5900,8 @@
       "headers": [
 
       ],
-      "file": "quran/099.md"
+      "file": "quran/099.md",
+      "include_in_menu": false
     },
     {
       "url": "/quran/topics/",
@@ -5715,7 +5910,8 @@
       "headers": [
 
       ],
-      "file": "quran/topics.md"
+      "file": "quran/topics.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/",
@@ -5743,7 +5939,8 @@
           "anchor": "other"
         }
       ],
-      "file": "studies/index.md"
+      "file": "studies/index.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/2023-08-05-Were ancient Jews illiterate?/",
@@ -5776,7 +5973,8 @@
           "anchor": "conclusion"
         }
       ],
-      "file": "studies/2023-08-05-Were ancient Jews illiterate?.md"
+      "file": "studies/2023-08-05-Were ancient Jews illiterate?.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/Delinquency-Drug-Use/",
@@ -5789,7 +5987,8 @@
           "anchor": "abstract"
         }
       ],
-      "file": "studies/Delinquency-Drug-Use.md"
+      "file": "studies/Delinquency-Drug-Use.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/Influence-on-Crime/",
@@ -5802,7 +6001,8 @@
           "anchor": "abstract"
         }
       ],
-      "file": "studies/Influence-on-Crime.md"
+      "file": "studies/Influence-on-Crime.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/Religion-and-Completed-Suicide/",
@@ -5815,7 +6015,8 @@
           "anchor": "abstract"
         }
       ],
-      "file": "studies/Religion-and-Completed-Suicide.md"
+      "file": "studies/Religion-and-Completed-Suicide.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/Self-Regulation-Self-Control/",
@@ -5828,7 +6029,8 @@
           "anchor": "abstract"
         }
       ],
-      "file": "studies/Self-Regulation-Self-Control.md"
+      "file": "studies/Self-Regulation-Self-Control.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/five-factors/",
@@ -5841,7 +6043,8 @@
           "anchor": "abstract"
         }
       ],
-      "file": "studies/five-factors.md"
+      "file": "studies/five-factors.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/jw-mental-health/",
@@ -5854,7 +6057,8 @@
           "anchor": "abstract"
         }
       ],
-      "file": "studies/jw-mental-health.md"
+      "file": "studies/jw-mental-health.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/physical-health-cancer-patients/",
@@ -5867,7 +6071,8 @@
           "anchor": "abstract"
         }
       ],
-      "file": "studies/physical-health-cancer-patients.md"
+      "file": "studies/physical-health-cancer-patients.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/pro-environmental-behaviour/",
@@ -5876,7 +6081,8 @@
       "headers": [
 
       ],
-      "file": "studies/pro-environmental-behaviour.md"
+      "file": "studies/pro-environmental-behaviour.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/religious-schools-do-better/",
@@ -5889,7 +6095,8 @@
           "anchor": "abstract"
         }
       ],
-      "file": "studies/religious-schools-do-better.md"
+      "file": "studies/religious-schools-do-better.md",
+      "include_in_menu": false
     },
     {
       "url": "/studies/spiritual-factors-depression/",
@@ -5902,7 +6109,8 @@
           "anchor": "abstract"
         }
       ],
-      "file": "studies/spiritual-factors-depression.md"
+      "file": "studies/spiritual-factors-depression.md",
+      "include_in_menu": false
     },
     {
       "url": "/trinity/",
@@ -6895,7 +7103,8 @@
           "anchor": "the-two-powers-in-heaven"
         }
       ],
-      "file": "christianity/The Trinity Doctrine in the Bible.md"
+      "file": "christianity/The Trinity Doctrine in the Bible.md",
+      "include_in_menu": true
     },
     {
       "url": "/watchtower/",
@@ -7253,7 +7462,8 @@
           "anchor": "miscellaneous"
         }
       ],
-      "file": "jw/Watchtower teachings.md"
+      "file": "jw/Watchtower teachings.md",
+      "include_in_menu": true
     },
     {
       "url": "404.html",
@@ -7266,7 +7476,8 @@
           "anchor": "404-you-got-lost"
         }
       ],
-      "file": "404.md"
+      "file": "404.md",
+      "include_in_menu": false
     }
   ]
 }
