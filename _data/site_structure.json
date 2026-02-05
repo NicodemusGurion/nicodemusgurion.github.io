@@ -233,8 +233,8 @@
           },
           {
             "level": 1,
-            "text": "Supposed errors {#errors}",
-            "anchor": "supposed-errors-errors"
+            "text": "Supposed errors",
+            "anchor": "errors"
           },
           {
             "level": 1,
@@ -503,23 +503,23 @@
         "headers": [
           {
             "level": 1,
-            "text": "The classic Islamic dilemma {#classic}",
-            "anchor": "the-classic-islamic-dilemma-classic"
+            "text": "The classic Islamic dilemma",
+            "anchor": "classic"
           },
           {
             "level": 1,
-            "text": "The Christian Islamic dilemma (or trilemma) {#christian}",
-            "anchor": "the-christian-islamic-dilemma-or-trilemma-christian"
+            "text": "The Christian Islamic dilemma (or trilemma)",
+            "anchor": "christian"
           },
           {
             "level": 1,
-            "text": "Allah's dilemma {#allah}",
-            "anchor": "allahs-dilemma-allah"
+            "text": "Allah's dilemma",
+            "anchor": "allah"
           },
           {
             "level": 1,
-            "text": "The clear Quran dilemma {#clear-quran}",
-            "anchor": "the-clear-quran-dilemma-clear-quran"
+            "text": "The clear Quran dilemma",
+            "anchor": "clear-quran"
           }
         ],
         "children": {
@@ -597,755 +597,6 @@
 
         ],
         "children": {
-          "old": {
-            "title": "Old",
-            "url": "/quran/old/",
-            "headers": [
-
-            ],
-            "children": {
-              "001": {
-                "title": "1 - Al-Fatihah",
-                "url": "/quran/old/001/",
-                "headers": [
-                  {
-                    "level": 6,
-                    "text": "1",
-                    "anchor": "1"
-                  },
-                  {
-                    "level": 6,
-                    "text": "2",
-                    "anchor": "2"
-                  },
-                  {
-                    "level": 6,
-                    "text": "3",
-                    "anchor": "3"
-                  },
-                  {
-                    "level": 6,
-                    "text": "4",
-                    "anchor": "4"
-                  },
-                  {
-                    "level": 6,
-                    "text": "5",
-                    "anchor": "5"
-                  },
-                  {
-                    "level": 6,
-                    "text": "6",
-                    "anchor": "6"
-                  },
-                  {
-                    "level": 6,
-                    "text": "7",
-                    "anchor": "7"
-                  }
-                ],
-                "children": {
-                }
-              },
-              "002": {
-                "title": "2 - Al-Baqara",
-                "url": "/quran/old/002/",
-                "headers": [
-                  {
-                    "level": 6,
-                    "text": "1",
-                    "anchor": "1"
-                  },
-                  {
-                    "level": 6,
-                    "text": "2",
-                    "anchor": "2"
-                  },
-                  {
-                    "level": 6,
-                    "text": "3",
-                    "anchor": "3"
-                  },
-                  {
-                    "level": 6,
-                    "text": "4",
-                    "anchor": "4"
-                  },
-                  {
-                    "level": 6,
-                    "text": "5",
-                    "anchor": "5"
-                  },
-                  {
-                    "level": 6,
-                    "text": "6",
-                    "anchor": "6"
-                  },
-                  {
-                    "level": 6,
-                    "text": "7",
-                    "anchor": "7"
-                  },
-                  {
-                    "level": 6,
-                    "text": "8",
-                    "anchor": "8"
-                  },
-                  {
-                    "level": 6,
-                    "text": "21",
-                    "anchor": "21"
-                  },
-                  {
-                    "level": 6,
-                    "text": "23",
-                    "anchor": "23"
-                  },
-                  {
-                    "level": 6,
-                    "text": "24",
-                    "anchor": "24"
-                  },
-                  {
-                    "level": 6,
-                    "text": "25",
-                    "anchor": "25"
-                  },
-                  {
-                    "level": 6,
-                    "text": "26",
-                    "anchor": "26"
-                  },
-                  {
-                    "level": 6,
-                    "text": "27",
-                    "anchor": "27"
-                  },
-                  {
-                    "level": 6,
-                    "text": "28",
-                    "anchor": "28"
-                  },
-                  {
-                    "level": 6,
-                    "text": "29",
-                    "anchor": "29"
-                  },
-                  {
-                    "level": 6,
-                    "text": "30",
-                    "anchor": "30"
-                  },
-                  {
-                    "level": 6,
-                    "text": "35",
-                    "anchor": "35"
-                  },
-                  {
-                    "level": 6,
-                    "text": "40",
-                    "anchor": "40"
-                  },
-                  {
-                    "level": 6,
-                    "text": "47",
-                    "anchor": "47"
-                  },
-                  {
-                    "level": 6,
-                    "text": "48",
-                    "anchor": "48"
-                  },
-                  {
-                    "level": 6,
-                    "text": "49",
-                    "anchor": "49"
-                  },
-                  {
-                    "level": 6,
-                    "text": "51",
-                    "anchor": "51"
-                  },
-                  {
-                    "level": 6,
-                    "text": "58",
-                    "anchor": "58"
-                  },
-                  {
-                    "level": 6,
-                    "text": "60",
-                    "anchor": "60"
-                  },
-                  {
-                    "level": 6,
-                    "text": "62",
-                    "anchor": "62"
-                  },
-                  {
-                    "level": 6,
-                    "text": "63",
-                    "anchor": "63"
-                  },
-                  {
-                    "level": 6,
-                    "text": "65",
-                    "anchor": "65"
-                  },
-                  {
-                    "level": 6,
-                    "text": "67",
-                    "anchor": "67"
-                  },
-                  {
-                    "level": 6,
-                    "text": "75",
-                    "anchor": "75"
-                  },
-                  {
-                    "level": 6,
-                    "text": "79",
-                    "anchor": "79"
-                  },
-                  {
-                    "level": 6,
-                    "text": "80",
-                    "anchor": "80"
-                  },
-                  {
-                    "level": 6,
-                    "text": "83",
-                    "anchor": "83"
-                  },
-                  {
-                    "level": 6,
-                    "text": "87",
-                    "anchor": "87"
-                  },
-                  {
-                    "level": 6,
-                    "text": "88",
-                    "anchor": "88"
-                  },
-                  {
-                    "level": 6,
-                    "text": "92",
-                    "anchor": "92"
-                  },
-                  {
-                    "level": 6,
-                    "text": "99",
-                    "anchor": "99"
-                  },
-                  {
-                    "level": 6,
-                    "text": "100",
-                    "anchor": "100"
-                  },
-                  {
-                    "level": 6,
-                    "text": "102",
-                    "anchor": "102"
-                  },
-                  {
-                    "level": 6,
-                    "text": "104",
-                    "anchor": "104"
-                  },
-                  {
-                    "level": 6,
-                    "text": "105",
-                    "anchor": "105"
-                  },
-                  {
-                    "level": 6,
-                    "text": "106",
-                    "anchor": "106"
-                  },
-                  {
-                    "level": 6,
-                    "text": "107",
-                    "anchor": "107"
-                  },
-                  {
-                    "level": 6,
-                    "text": "111",
-                    "anchor": "111"
-                  },
-                  {
-                    "level": 6,
-                    "text": "114",
-                    "anchor": "114"
-                  },
-                  {
-                    "level": 6,
-                    "text": "115",
-                    "anchor": "115"
-                  },
-                  {
-                    "level": 6,
-                    "text": "116",
-                    "anchor": "116"
-                  },
-                  {
-                    "level": 6,
-                    "text": "118",
-                    "anchor": "118"
-                  },
-                  {
-                    "level": 6,
-                    "text": "121",
-                    "anchor": "121"
-                  },
-                  {
-                    "level": 6,
-                    "text": "124",
-                    "anchor": "124"
-                  },
-                  {
-                    "level": 6,
-                    "text": "130",
-                    "anchor": "130"
-                  },
-                  {
-                    "level": 6,
-                    "text": "133",
-                    "anchor": "133"
-                  },
-                  {
-                    "level": 6,
-                    "text": "135",
-                    "anchor": "135"
-                  },
-                  {
-                    "level": 6,
-                    "text": "140",
-                    "anchor": "140"
-                  },
-                  {
-                    "level": 6,
-                    "text": "142",
-                    "anchor": "142"
-                  },
-                  {
-                    "level": 6,
-                    "text": "149",
-                    "anchor": "149"
-                  },
-                  {
-                    "level": 6,
-                    "text": "145",
-                    "anchor": "145"
-                  },
-                  {
-                    "level": 6,
-                    "text": "146",
-                    "anchor": "146"
-                  },
-                  {
-                    "level": 6,
-                    "text": "154",
-                    "anchor": "154"
-                  },
-                  {
-                    "level": 6,
-                    "text": "155",
-                    "anchor": "155"
-                  },
-                  {
-                    "level": 6,
-                    "text": "158",
-                    "anchor": "158"
-                  },
-                  {
-                    "level": 6,
-                    "text": "159",
-                    "anchor": "159"
-                  },
-                  {
-                    "level": 6,
-                    "text": "161",
-                    "anchor": "161"
-                  },
-                  {
-                    "level": 6,
-                    "text": "168",
-                    "anchor": "168"
-                  },
-                  {
-                    "level": 6,
-                    "text": "170",
-                    "anchor": "170"
-                  },
-                  {
-                    "level": 6,
-                    "text": "172",
-                    "anchor": "172"
-                  },
-                  {
-                    "level": 6,
-                    "text": "174",
-                    "anchor": "174"
-                  },
-                  {
-                    "level": 6,
-                    "text": "177",
-                    "anchor": "177"
-                  },
-                  {
-                    "level": 6,
-                    "text": "178",
-                    "anchor": "178"
-                  },
-                  {
-                    "level": 6,
-                    "text": "180",
-                    "anchor": "180"
-                  },
-                  {
-                    "level": 6,
-                    "text": "183",
-                    "anchor": "183"
-                  },
-                  {
-                    "level": 6,
-                    "text": "186",
-                    "anchor": "186"
-                  },
-                  {
-                    "level": 6,
-                    "text": "187",
-                    "anchor": "187"
-                  },
-                  {
-                    "level": 6,
-                    "text": "188",
-                    "anchor": "188"
-                  },
-                  {
-                    "level": 6,
-                    "text": "189",
-                    "anchor": "189"
-                  },
-                  {
-                    "level": 6,
-                    "text": "190",
-                    "anchor": "190"
-                  },
-                  {
-                    "level": 6,
-                    "text": "195",
-                    "anchor": "195"
-                  },
-                  {
-                    "level": 6,
-                    "text": "204",
-                    "anchor": "204"
-                  },
-                  {
-                    "level": 6,
-                    "text": "210",
-                    "anchor": "210"
-                  },
-                  {
-                    "level": 6,
-                    "text": "213",
-                    "anchor": "213"
-                  },
-                  {
-                    "level": 6,
-                    "text": "214",
-                    "anchor": "214"
-                  },
-                  {
-                    "level": 6,
-                    "text": "215",
-                    "anchor": "215"
-                  },
-                  {
-                    "level": 6,
-                    "text": "216",
-                    "anchor": "216"
-                  },
-                  {
-                    "level": 6,
-                    "text": "217",
-                    "anchor": "217"
-                  },
-                  {
-                    "level": 6,
-                    "text": "219",
-                    "anchor": "219"
-                  },
-                  {
-                    "level": 6,
-                    "text": "221",
-                    "anchor": "221"
-                  },
-                  {
-                    "level": 6,
-                    "text": "222",
-                    "anchor": "222"
-                  },
-                  {
-                    "level": 6,
-                    "text": "223",
-                    "anchor": "223"
-                  },
-                  {
-                    "level": 6,
-                    "text": "224",
-                    "anchor": "224"
-                  },
-                  {
-                    "level": 6,
-                    "text": "226",
-                    "anchor": "226"
-                  },
-                  {
-                    "level": 6,
-                    "text": "227",
-                    "anchor": "227"
-                  },
-                  {
-                    "level": 6,
-                    "text": "233",
-                    "anchor": "233"
-                  },
-                  {
-                    "level": 6,
-                    "text": "234",
-                    "anchor": "234"
-                  },
-                  {
-                    "level": 6,
-                    "text": "236",
-                    "anchor": "236"
-                  },
-                  {
-                    "level": 6,
-                    "text": "238",
-                    "anchor": "238"
-                  },
-                  {
-                    "level": 6,
-                    "text": "240",
-                    "anchor": "240"
-                  },
-                  {
-                    "level": 6,
-                    "text": "243",
-                    "anchor": "243"
-                  },
-                  {
-                    "level": 6,
-                    "text": "244",
-                    "anchor": "244"
-                  },
-                  {
-                    "level": 6,
-                    "text": "245",
-                    "anchor": "245"
-                  },
-                  {
-                    "level": 6,
-                    "text": "246",
-                    "anchor": "246"
-                  },
-                  {
-                    "level": 6,
-                    "text": "247",
-                    "anchor": "247"
-                  },
-                  {
-                    "level": 6,
-                    "text": "248",
-                    "anchor": "248"
-                  },
-                  {
-                    "level": 6,
-                    "text": "249",
-                    "anchor": "249"
-                  },
-                  {
-                    "level": 6,
-                    "text": "250",
-                    "anchor": "250"
-                  },
-                  {
-                    "level": 6,
-                    "text": "252",
-                    "anchor": "252"
-                  },
-                  {
-                    "level": 6,
-                    "text": "253",
-                    "anchor": "253"
-                  },
-                  {
-                    "level": 6,
-                    "text": "254",
-                    "anchor": "254"
-                  },
-                  {
-                    "level": 6,
-                    "text": "255",
-                    "anchor": "255"
-                  },
-                  {
-                    "level": 6,
-                    "text": "256",
-                    "anchor": "256"
-                  },
-                  {
-                    "level": 6,
-                    "text": "257",
-                    "anchor": "257"
-                  },
-                  {
-                    "level": 6,
-                    "text": "258",
-                    "anchor": "258"
-                  },
-                  {
-                    "level": 6,
-                    "text": "261",
-                    "anchor": "261"
-                  },
-                  {
-                    "level": 6,
-                    "text": "275",
-                    "anchor": "275"
-                  },
-                  {
-                    "level": 6,
-                    "text": "282",
-                    "anchor": "282"
-                  },
-                  {
-                    "level": 6,
-                    "text": "283",
-                    "anchor": "283"
-                  },
-                  {
-                    "level": 6,
-                    "text": "284",
-                    "anchor": "284"
-                  },
-                  {
-                    "level": 6,
-                    "text": "285",
-                    "anchor": "285"
-                  },
-                  {
-                    "level": 6,
-                    "text": "286",
-                    "anchor": "286"
-                  },
-                  {
-                    "level": 1,
-                    "text": "End notes",
-                    "anchor": "end-notes"
-                  }
-                ],
-                "children": {
-                }
-              },
-              "003": {
-                "title": "3 - Ali-Imran",
-                "url": "/quran/old/003/",
-                "headers": [
-                  {
-                    "level": 6,
-                    "text": "1",
-                    "anchor": "1"
-                  },
-                  {
-                    "level": 6,
-                    "text": "3",
-                    "anchor": "3"
-                  },
-                  {
-                    "level": 7,
-                    "text": "7",
-                    "anchor": "7"
-                  },
-                  {
-                    "level": 6,
-                    "text": "10",
-                    "anchor": "10"
-                  },
-                  {
-                    "level": 6,
-                    "text": "12",
-                    "anchor": "12"
-                  },
-                  {
-                    "level": 6,
-                    "text": "13",
-                    "anchor": "13"
-                  },
-                  {
-                    "level": 6,
-                    "text": "13",
-                    "anchor": "13"
-                  },
-                  {
-                    "level": 6,
-                    "text": "14",
-                    "anchor": "14"
-                  },
-                  {
-                    "level": 6,
-                    "text": "15",
-                    "anchor": "15"
-                  },
-                  {
-                    "level": 6,
-                    "text": "16",
-                    "anchor": "16"
-                  },
-                  {
-                    "level": 6,
-                    "text": "18",
-                    "anchor": "18"
-                  },
-                  {
-                    "level": 6,
-                    "text": "19",
-                    "anchor": "19"
-                  }
-                ],
-                "children": {
-                }
-              },
-              "004": {
-                "title": "4 - An-Nisa",
-                "url": "/quran/old/004/",
-                "headers": [
-                  {
-                    "level": 6,
-                    "text": "34",
-                    "anchor": "34"
-                  }
-                ],
-                "children": {
-                }
-              },
-              "009": {
-                "title": "9 - At-Tawbah",
-                "url": "/quran/old/009/",
-                "headers": [
-                  {
-                    "level": 6,
-                    "text": "31",
-                    "anchor": "31"
-                  }
-                ],
-                "children": {
-                }
-              }
-            }
-          },
           "topics": {
             "title": "Tafsir al-Jak topics index",
             "url": "/quran/topics/",
@@ -1652,8 +903,8 @@
         },
         {
           "level": 1,
-          "text": "Supposed errors {#errors}",
-          "anchor": "supposed-errors-errors"
+          "text": "Supposed errors",
+          "anchor": "errors"
         },
         {
           "level": 1,
@@ -2843,18 +2094,18 @@
         },
         {
           "level": 2,
-          "text": "God's essence and character {#essence}",
-          "anchor": "gods-essence-and-character-essence"
+          "text": "God's essence and character",
+          "anchor": "essence"
         },
         {
           "level": 2,
-          "text": "God's authority {#authority}",
-          "anchor": "gods-authority-authority"
+          "text": "God's authority",
+          "anchor": "authority"
         },
         {
           "level": 2,
-          "text": "God's relationship with humanity {#humanity}",
-          "anchor": "gods-relationship-with-humanity-humanity"
+          "text": "God's relationship with humanity",
+          "anchor": "humanity"
         },
         {
           "level": 2,
@@ -2868,8 +2119,8 @@
         },
         {
           "level": 2,
-          "text": "Sonship of Jesus Christ {#sonship}",
-          "anchor": "sonship-of-jesus-christ-sonship"
+          "text": "Sonship of Jesus Christ",
+          "anchor": "sonship"
         },
         {
           "level": 2,
@@ -2878,13 +2129,13 @@
         },
         {
           "level": 2,
-          "text": "Holy books {#books}",
-          "anchor": "holy-books-books"
+          "text": "Holy books",
+          "anchor": "books"
         },
         {
           "level": 2,
-          "text": "Muhammad v.s. Jesus {#founders}",
-          "anchor": "muhammad-vs-jesus-founders"
+          "text": "Muhammad v.s. Jesus",
+          "anchor": "founders"
         },
         {
           "level": 2,
@@ -3212,8 +2463,8 @@
       "headers": [
         {
           "level": 1,
-          "text": "Mohammed was a pedophile who married a 6 year old girl and \"consummated\" the marriage when she was 9 years old {#pedophile}",
-          "anchor": "mohammed-was-a-pedophile-who-married-a-6-year-old-girl-and-consummated-the-marriage-when-she-was-9-years-old-pedophile"
+          "text": "Mohammed was a pedophile who married a 6 year old girl and \"consummated\" the marriage when she was 9 years old",
+          "anchor": "pedophile"
         },
         {
           "level": 2,
@@ -3239,13 +2490,13 @@
         },
         {
           "level": 2,
-          "text": "Allah is a narcissist who praises himself {#narcissist}",
-          "anchor": "allah-is-a-narcissist-who-praises-himself-narcissist"
+          "text": "Allah is a narcissist who praises himself",
+          "anchor": "narcissist"
         },
         {
           "level": 2,
-          "text": "Allah is afraid people will insult him {#insults}",
-          "anchor": "allah-is-afraid-people-will-insult-him-insults"
+          "text": "Allah is afraid people will insult him",
+          "anchor": "insults"
         },
         {
           "level": 2,
@@ -3414,8 +2665,8 @@
         },
         {
           "level": 2,
-          "text": "Allah is ignorant - doesn't know who believes {#ignorant}",
-          "anchor": "allah-is-ignorant-doesnt-know-who-believes-ignorant"
+          "text": "Allah is ignorant - doesn't know who believes",
+          "anchor": "ignorant"
         },
         {
           "level": 1,
@@ -3429,18 +2680,18 @@
         },
         {
           "level": 2,
-          "text": "Allah is limited to one location {#not-omnipresent}",
-          "anchor": "allah-is-limited-to-one-location-not-omnipresent"
+          "text": "Allah is limited to one location",
+          "anchor": "not-omnipresent"
         },
         {
           "level": 2,
-          "text": "Allah's throne is upon water {#allah-water-throne}",
-          "anchor": "allahs-throne-is-upon-water-allah-water-throne"
+          "text": "Allah's throne is upon water",
+          "anchor": "allah-water-throne"
         },
         {
           "level": 2,
-          "text": "Allah's throne can be shaken by human affairs {#shaking-throne}",
-          "anchor": "allahs-throne-can-be-shaken-by-human-affairs-shaking-throne"
+          "text": "Allah's throne can be shaken by human affairs",
+          "anchor": "shaking-throne"
         },
         {
           "level": 1,
@@ -3454,8 +2705,8 @@
         },
         {
           "level": 2,
-          "text": "Allah comes down every night {#nightly-visits}",
-          "anchor": "allah-comes-down-every-night-nightly-visits"
+          "text": "Allah comes down every night",
+          "anchor": "nightly-visits"
         },
         {
           "level": 2,
@@ -3551,18 +2802,18 @@
         },
         {
           "level": 2,
-          "text": "Muhammad was very average looking {#average-looks}",
-          "anchor": "muhammad-was-very-average-looking-average-looks"
+          "text": "Muhammad was very average looking",
+          "anchor": "average-looks"
         },
         {
           "level": 2,
-          "text": "Muhammad had big hands {#big-hands}",
-          "anchor": "muhammad-had-big-hands-big-hands"
+          "text": "Muhammad had big hands",
+          "anchor": "big-hands"
         },
         {
           "level": 2,
-          "text": "Muhammad dyed his beard yellow {#yellow-beard}",
-          "anchor": "muhammad-dyed-his-beard-yellow-yellow-beard"
+          "text": "Muhammad dyed his beard yellow",
+          "anchor": "yellow-beard"
         },
         {
           "level": 2,
@@ -3576,8 +2827,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad used mascara and eyeliner {#make-up-tips}",
-          "anchor": "muhammad-used-mascara-and-eyeliner-make-up-tips"
+          "text": "Muhammad used mascara and eyeliner",
+          "anchor": "make-up-tips"
         },
         {
           "level": 2,
@@ -3601,8 +2852,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad was illiterate {#illiterate}",
-          "anchor": "muhammad-was-illiterate-illiterate"
+          "text": "Muhammad was illiterate",
+          "anchor": "illiterate"
         },
         {
           "level": 2,
@@ -3621,8 +2872,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad was a copycat {#copycat}",
-          "anchor": "muhammad-was-a-copycat-copycat"
+          "text": "Muhammad was a copycat",
+          "anchor": "copycat"
         },
         {
           "level": 3,
@@ -3651,8 +2902,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad cursed an orphan girl to die young {#cursed-orphan}",
-          "anchor": "muhammad-cursed-an-orphan-girl-to-die-young-cursed-orphan"
+          "text": "Muhammad cursed an orphan girl to die young",
+          "anchor": "cursed-orphan"
         },
         {
           "level": 2,
@@ -3661,23 +2912,23 @@
         },
         {
           "level": 2,
-          "text": "Muhammad did not like poetry {#philistine}",
-          "anchor": "muhammad-did-not-like-poetry-philistine"
+          "text": "Muhammad did not like poetry",
+          "anchor": "philistine"
         },
         {
           "level": 2,
-          "text": "Muhammad didn't practice what he preached {#hypocrite}",
-          "anchor": "muhammad-didnt-practice-what-he-preached-hypocrite"
+          "text": "Muhammad didn't practice what he preached",
+          "anchor": "hypocrite"
         },
         {
           "level": 2,
-          "text": "Muhammad almost caused a famine {#caused-famine}",
-          "anchor": "muhammad-almost-caused-a-famine-caused-famine"
+          "text": "Muhammad almost caused a famine",
+          "anchor": "caused-famine"
         },
         {
           "level": 2,
-          "text": "Muhammad probably stole a red velvet cloth {#red-velvet}",
-          "anchor": "muhammad-probably-stole-a-red-velvet-cloth-red-velvet"
+          "text": "Muhammad probably stole a red velvet cloth",
+          "anchor": "red-velvet"
         },
         {
           "level": 2,
@@ -3696,13 +2947,13 @@
         },
         {
           "level": 2,
-          "text": "Muhammad condoned murder {#murder}",
-          "anchor": "muhammad-condoned-murder-murder"
+          "text": "Muhammad condoned murder",
+          "anchor": "murder"
         },
         {
           "level": 1,
-          "text": "Muhammad's prophethood {#prophethood}",
-          "anchor": "muhammads-prophethood-prophethood"
+          "text": "Muhammad's prophethood",
+          "anchor": "prophethood"
         },
         {
           "level": 2,
@@ -3711,8 +2962,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad was the first Muslim {#first-muslim}",
-          "anchor": "muhammad-was-the-first-muslim-first-muslim"
+          "text": "Muhammad was the first Muslim",
+          "anchor": "first-muslim"
         },
         {
           "level": 2,
@@ -3741,8 +2992,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad ordered Muslims to cast spells {#cast-spells}",
-          "anchor": "muhammad-ordered-muslims-to-cast-spells-cast-spells"
+          "text": "Muhammad ordered Muslims to cast spells",
+          "anchor": "cast-spells"
         },
         {
           "level": 2,
@@ -3756,8 +3007,8 @@
         },
         {
           "level": 1,
-          "text": "Muhammad and hygiene {#muhammad-hygiene}",
-          "anchor": "muhammad-and-hygiene-muhammad-hygiene"
+          "text": "Muhammad and hygiene",
+          "anchor": "muhammad-hygiene"
         },
         {
           "level": 2,
@@ -3766,8 +3017,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad told his followers to drink sewer water {#sewer-water}",
-          "anchor": "muhammad-told-his-followers-to-drink-sewer-water-sewer-water"
+          "text": "Muhammad told his followers to drink sewer water",
+          "anchor": "sewer-water"
         },
         {
           "level": 2,
@@ -3776,18 +3027,18 @@
         },
         {
           "level": 2,
-          "text": "Muhammad gargled with dick water {#dick-water}",
-          "anchor": "muhammad-gargled-with-dick-water-dick-water"
+          "text": "Muhammad gargled with dick water",
+          "anchor": "dick-water"
         },
         {
           "level": 2,
-          "text": "Muhammad had sex with 11 wives but only took one bath {#unwashed-sex}",
-          "anchor": "muhammad-had-sex-with-11-wives-but-only-took-one-bath-unwashed-sex"
+          "text": "Muhammad had sex with 11 wives but only took one bath",
+          "anchor": "unwashed-sex"
         },
         {
           "level": 2,
-          "text": "Muhammad told his followers to lick each other's hands {#licking-hands}",
-          "anchor": "muhammad-told-his-followers-to-lick-each-others-hands-licking-hands"
+          "text": "Muhammad told his followers to lick each other's hands",
+          "anchor": "licking-hands"
         },
         {
           "level": 2,
@@ -3801,8 +3052,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad told his followers to drink his spit water {#drink-spit}",
-          "anchor": "muhammad-told-his-followers-to-drink-his-spit-water-drink-spit"
+          "text": "Muhammad told his followers to drink his spit water",
+          "anchor": "drink-spit"
         },
         {
           "level": 2,
@@ -3811,28 +3062,28 @@
         },
         {
           "level": 2,
-          "text": "Muhammad spit three times in a man's wound {#spitting-in-wounds}",
-          "anchor": "muhammad-spit-three-times-in-a-mans-wound-spitting-in-wounds"
+          "text": "Muhammad spit three times in a man's wound",
+          "anchor": "spitting-in-wounds"
         },
         {
           "level": 2,
-          "text": "Muhammad believed spit mixed with dirt could cure illnesses {#spit-and-dirt}",
-          "anchor": "muhammad-believed-spit-mixed-with-dirt-could-cure-illnesses-spit-and-dirt"
+          "text": "Muhammad believed spit mixed with dirt could cure illnesses",
+          "anchor": "spit-and-dirt"
         },
         {
           "level": 2,
-          "text": "Muhammad tried to heal himself by blowing raspberries {#blowing-raspberries}",
-          "anchor": "muhammad-tried-to-heal-himself-by-blowing-raspberries-blowing-raspberries"
+          "text": "Muhammad tried to heal himself by blowing raspberries",
+          "anchor": "blowing-raspberries"
         },
         {
           "level": 2,
-          "text": "Muhammad spat in the mouth of a newborn child {#spitting-in-mouth-of-child}",
-          "anchor": "muhammad-spat-in-the-mouth-of-a-newborn-child-spitting-in-mouth-of-child"
+          "text": "Muhammad spat in the mouth of a newborn child",
+          "anchor": "spitting-in-mouth-of-child"
         },
         {
           "level": 2,
-          "text": "Muhammad exhumed a dead man to spit in his mouth {#spitting-in-mouth-of-dead}",
-          "anchor": "muhammad-exhumed-a-dead-man-to-spit-in-his-mouth-spitting-in-mouth-of-dead"
+          "text": "Muhammad exhumed a dead man to spit in his mouth",
+          "anchor": "spitting-in-mouth-of-dead"
         },
         {
           "level": 2,
@@ -3856,23 +3107,23 @@
         },
         {
           "level": 2,
-          "text": "Muhammad peed toward the Qiblah {#peeing-qiblah}",
-          "anchor": "muhammad-peed-toward-the-qiblah-peeing-qiblah"
+          "text": "Muhammad peed toward the Qiblah",
+          "anchor": "peeing-qiblah"
         },
         {
           "level": 2,
-          "text": "Muhammad pooped facing the Qiblah {#poop-qiblah}",
-          "anchor": "muhammad-pooped-facing-the-qiblah-poop-qiblah"
+          "text": "Muhammad pooped facing the Qiblah",
+          "anchor": "poop-qiblah"
         },
         {
           "level": 2,
-          "text": "Muhammad told people to drink camel urine {#drinking-camel-urine}",
-          "anchor": "muhammad-told-people-to-drink-camel-urine-drinking-camel-urine"
+          "text": "Muhammad told people to drink camel urine",
+          "anchor": "drinking-camel-urine"
         },
         {
           "level": 2,
-          "text": "Muhammad wore semen encrusted clothes {#semen-clothes}",
-          "anchor": "muhammad-wore-semen-encrusted-clothes-semen-clothes"
+          "text": "Muhammad wore semen encrusted clothes",
+          "anchor": "semen-clothes"
         },
         {
           "level": 2,
@@ -3881,38 +3132,38 @@
         },
         {
           "level": 2,
-          "text": "Muhammad had lice {#lice}",
-          "anchor": "muhammad-had-lice-lice"
+          "text": "Muhammad had lice",
+          "anchor": "lice"
         },
         {
           "level": 1,
-          "text": "Muhammad's mental health {#mental-health}",
-          "anchor": "muhammads-mental-health-mental-health"
+          "text": "Muhammad's mental health",
+          "anchor": "mental-health"
         },
         {
           "level": 2,
-          "text": "Muhammad was bewitched {#bewitched}",
-          "anchor": "muhammad-was-bewitched-bewitched"
+          "text": "Muhammad was bewitched",
+          "anchor": "bewitched"
         },
         {
           "level": 2,
-          "text": "Muhammad was suicidal {#suicidal}",
-          "anchor": "muhammad-was-suicidal-suicidal"
+          "text": "Muhammad was suicidal",
+          "anchor": "suicidal"
         },
         {
           "level": 2,
-          "text": "Muhammad was paranoid, accusing a child of being a supervillain {#dajjal}",
-          "anchor": "muhammad-was-paranoid-accusing-a-child-of-being-a-supervillain-dajjal"
+          "text": "Muhammad was paranoid, accusing a child of being a supervillain",
+          "anchor": "dajjal"
         },
         {
           "level": 2,
-          "text": "Muhammad was posessed by Satan {#posessed-by-satan}",
-          "anchor": "muhammad-was-posessed-by-satan-posessed-by-satan"
+          "text": "Muhammad was posessed by Satan",
+          "anchor": "posessed-by-satan"
         },
         {
           "level": 2,
-          "text": "Muhammad believed he had a wrestling match with Satan {#wrestling-satan}",
-          "anchor": "muhammad-believed-he-had-a-wrestling-match-with-satan-wrestling-satan"
+          "text": "Muhammad believed he had a wrestling match with Satan",
+          "anchor": "wrestling-satan"
         },
         {
           "level": 2,
@@ -3921,18 +3172,18 @@
         },
         {
           "level": 1,
-          "text": "Muhammad's miracles {#muhammads-miracles}",
-          "anchor": "muhammads-miracles-muhammads-miracles"
+          "text": "Muhammad's miracles",
+          "anchor": "muhammads-miracles"
         },
         {
           "level": 2,
-          "text": "Muhammad did NOT perform miracles {#no-miracles}",
-          "anchor": "muhammad-did-not-perform-miracles-no-miracles"
+          "text": "Muhammad did NOT perform miracles",
+          "anchor": "no-miracles"
         },
         {
           "level": 2,
-          "text": "Muhammad DID perform miracles {#did-miracles}",
-          "anchor": "muhammad-did-perform-miracles-did-miracles"
+          "text": "Muhammad DID perform miracles",
+          "anchor": "did-miracles"
         },
         {
           "level": 1,
@@ -3941,13 +3192,13 @@
         },
         {
           "level": 2,
-          "text": "Muhammad was a pedophile {#pedophile}",
-          "anchor": "muhammad-was-a-pedophile-pedophile"
+          "text": "Muhammad was a pedophile",
+          "anchor": "pedophile"
         },
         {
           "level": 3,
-          "text": "Mohammed had sex with a 9 year old girl, Aisha {#child-sexual-abuse}",
-          "anchor": "mohammed-had-sex-with-a-9-year-old-girl-aisha-child-sexual-abuse"
+          "text": "Mohammed had sex with a 9 year old girl, Aisha",
+          "anchor": "child-sexual-abuse"
         },
         {
           "level": 3,
@@ -3961,13 +3212,13 @@
         },
         {
           "level": 2,
-          "text": "Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating {#crotch-talk}",
-          "anchor": "muhammed-used-to-put-his-face-into-aishas-crotch-and-recite-quran-verses-when-she-was-menstruating-crotch-talk"
+          "text": "Muhammed used to put his face into Aishas crotch and recite Quran verses when she was menstruating",
+          "anchor": "crotch-talk"
         },
         {
           "level": 2,
-          "text": "Muhammad used to fondle Aisha when she was menstruating {#fondling-aisha}",
-          "anchor": "muhammad-used-to-fondle-aisha-when-she-was-menstruating-fondling-aisha"
+          "text": "Muhammad used to fondle Aisha when she was menstruating",
+          "anchor": "fondling-aisha"
         },
         {
           "level": 2,
@@ -3976,8 +3227,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad believed a woman's silence means consent {#silence-is-consent}",
-          "anchor": "muhammad-believed-a-womans-silence-means-consent-silence-is-consent"
+          "text": "Muhammad believed a woman's silence means consent",
+          "anchor": "silence-is-consent"
         },
         {
           "level": 2,
@@ -3991,8 +3242,8 @@
         },
         {
           "level": 3,
-          "text": "Muhammad was \"ridden\" by tall black Pakistani men all night long {#al-zutt}",
-          "anchor": "muhammad-was-ridden-by-tall-black-pakistani-men-all-night-long-al-zutt"
+          "text": "Muhammad was \"ridden\" by tall black Pakistani men all night long",
+          "anchor": "al-zutt"
         },
         {
           "level": 3,
@@ -4006,38 +3257,38 @@
         },
         {
           "level": 1,
-          "text": "Muhammad and slavery {#muhammad-slavery}",
-          "anchor": "muhammad-and-slavery-muhammad-slavery"
+          "text": "Muhammad and slavery",
+          "anchor": "muhammad-slavery"
         },
         {
           "level": 2,
-          "text": "Muhammad owned slaves {#slave-owner}",
-          "anchor": "muhammad-owned-slaves-slave-owner"
+          "text": "Muhammad owned slaves",
+          "anchor": "slave-owner"
         },
         {
           "level": 2,
-          "text": "Muhammad had a sex slave {#muhammads-sex-slave}",
-          "anchor": "muhammad-had-a-sex-slave-muhammads-sex-slave"
+          "text": "Muhammad had a sex slave",
+          "anchor": "muhammads-sex-slave"
         },
         {
           "level": 2,
-          "text": "Muhammad sold slaves {#slave-trader}",
-          "anchor": "muhammad-sold-slaves-slave-trader"
+          "text": "Muhammad sold slaves",
+          "anchor": "slave-trader"
         },
         {
           "level": 2,
-          "text": "Muhammad traded black slaves {#black-slaves}",
-          "anchor": "muhammad-traded-black-slaves-black-slaves"
+          "text": "Muhammad traded black slaves",
+          "anchor": "black-slaves"
         },
         {
           "level": 1,
-          "text": "Muhammad and violence {#muhammad-violence}",
-          "anchor": "muhammad-and-violence-muhammad-violence"
+          "text": "Muhammad and violence",
+          "anchor": "muhammad-violence"
         },
         {
           "level": 2,
-          "text": "Muhammad physically abused Aisha {#abusing-aisha}",
-          "anchor": "muhammad-physically-abused-aisha-abusing-aisha"
+          "text": "Muhammad physically abused Aisha",
+          "anchor": "abusing-aisha"
         },
         {
           "level": 2,
@@ -4046,28 +3297,28 @@
         },
         {
           "level": 2,
-          "text": "Muhammad mutilated a woman {#muhammad-mutilated-woman}",
-          "anchor": "muhammad-mutilated-a-woman-muhammad-mutilated-woman"
+          "text": "Muhammad mutilated a woman",
+          "anchor": "muhammad-mutilated-woman"
         },
         {
           "level": 2,
-          "text": "Muhammad personally stoned a woman {#muhammad-stoned-woman}",
-          "anchor": "muhammad-personally-stoned-a-woman-muhammad-stoned-woman"
+          "text": "Muhammad personally stoned a woman",
+          "anchor": "muhammad-stoned-woman"
         },
         {
           "level": 2,
-          "text": "Muhammad was a terrorist {#muhammad-terrorist}",
-          "anchor": "muhammad-was-a-terrorist-muhammad-terrorist"
+          "text": "Muhammad was a terrorist",
+          "anchor": "muhammad-terrorist"
         },
         {
           "level": 2,
-          "text": "Muhammad tortured people to death {#muhammad-tortured}",
-          "anchor": "muhammad-tortured-people-to-death-muhammad-tortured"
+          "text": "Muhammad tortured people to death",
+          "anchor": "muhammad-tortured"
         },
         {
           "level": 2,
-          "text": "Muhammad killed children who had pubic hairs {#muhammad-killed-children}",
-          "anchor": "muhammad-killed-children-who-had-pubic-hairs-muhammad-killed-children"
+          "text": "Muhammad killed children who had pubic hairs",
+          "anchor": "muhammad-killed-children"
         },
         {
           "level": 2,
@@ -4076,38 +3327,38 @@
         },
         {
           "level": 1,
-          "text": "How Muhammad treated his family {#muhammads-family}",
-          "anchor": "how-muhammad-treated-his-family-muhammads-family"
+          "text": "How Muhammad treated his family",
+          "anchor": "muhammads-family"
         },
         {
           "level": 2,
-          "text": "Muhammad would not provide more than one garment each to his wives {#miserly-husband}",
-          "anchor": "muhammad-would-not-provide-more-than-one-garment-each-to-his-wives-miserly-husband"
+          "text": "Muhammad would not provide more than one garment each to his wives",
+          "anchor": "miserly-husband"
         },
         {
           "level": 2,
-          "text": "A wife of Muhammad used a dish to catch yellow menstrual discharge while praying {#discharge-dish}",
-          "anchor": "a-wife-of-muhammad-used-a-dish-to-catch-yellow-menstrual-discharge-while-praying-discharge-dish"
+          "text": "A wife of Muhammad used a dish to catch yellow menstrual discharge while praying",
+          "anchor": "discharge-dish"
         },
         {
           "level": 2,
-          "text": "Muhammad daughter Fatima was denied an inheritance {#daughter-no-inheritance}",
-          "anchor": "muhammad-daughter-fatima-was-denied-an-inheritance-daughter-no-inheritance"
+          "text": "Muhammad daughter Fatima was denied an inheritance",
+          "anchor": "daughter-no-inheritance"
         },
         {
           "level": 2,
-          "text": "The wives of Muhammad were also denied an inheritance. {#wives-no-inheritance}",
-          "anchor": "the-wives-of-muhammad-were-also-denied-an-inheritance-wives-no-inheritance"
+          "text": "The wives of Muhammad were also denied an inheritance.",
+          "anchor": "wives-no-inheritance"
         },
         {
           "level": 2,
-          "text": "The wives of Muhammad were denied remarriage {#no-remarriage}",
-          "anchor": "the-wives-of-muhammad-were-denied-remarriage-no-remarriage"
+          "text": "The wives of Muhammad were denied remarriage",
+          "anchor": "no-remarriage"
         },
         {
           "level": 2,
-          "text": "The parents of Muhammad are in hell {#parents-in-hell}",
-          "anchor": "the-parents-of-muhammad-are-in-hell-parents-in-hell"
+          "text": "The parents of Muhammad are in hell",
+          "anchor": "parents-in-hell"
         },
         {
           "level": 1,
@@ -4131,18 +3382,18 @@
         },
         {
           "level": 2,
-          "text": "Muhammad was worshipped by his contemporaries {#muhammad-worship}",
-          "anchor": "muhammad-was-worshipped-by-his-contemporaries-muhammad-worship"
+          "text": "Muhammad was worshipped by his contemporaries",
+          "anchor": "muhammad-worship"
         },
         {
           "level": 2,
-          "text": "Allah considered Muhammad the perfect example {#perfect-example}",
-          "anchor": "allah-considered-muhammad-the-perfect-example-perfect-example"
+          "text": "Allah considered Muhammad the perfect example",
+          "anchor": "perfect-example"
         },
         {
           "level": 1,
-          "text": "The death of Muhammad {#death-of-muhammad}",
-          "anchor": "the-death-of-muhammad-death-of-muhammad"
+          "text": "The death of Muhammad",
+          "anchor": "death-of-muhammad"
         },
         {
           "level": 2,
@@ -4151,33 +3402,33 @@
         },
         {
           "level": 2,
-          "text": "Allah promises to cut off his aorta if he tells a lie {#cutting-aorta}",
-          "anchor": "allah-promises-to-cut-off-his-aorta-if-he-tells-a-lie-cutting-aorta"
+          "text": "Allah promises to cut off his aorta if he tells a lie",
+          "anchor": "cutting-aorta"
         },
         {
           "level": 2,
-          "text": "Muhammad eats a poisoned lamb {#poisoned-lamb}",
-          "anchor": "muhammad-eats-a-poisoned-lamb-poisoned-lamb"
+          "text": "Muhammad eats a poisoned lamb",
+          "anchor": "poisoned-lamb"
         },
         {
           "level": 2,
-          "text": "Muhammad dies from having his aorta cut {#muhammad-dies}",
-          "anchor": "muhammad-dies-from-having-his-aorta-cut-muhammad-dies"
+          "text": "Muhammad dies from having his aorta cut",
+          "anchor": "muhammad-dies"
         },
         {
           "level": 2,
-          "text": "What was the last orders of Muhammad to his followers? {#last-orders}",
-          "anchor": "what-was-the-last-orders-of-muhammad-to-his-followers-last-orders"
+          "text": "What was the last orders of Muhammad to his followers?",
+          "anchor": "last-orders"
         },
         {
           "level": 2,
-          "text": "What was the last words of Muhammad? {#last-words}",
-          "anchor": "what-was-the-last-words-of-muhammad-last-words"
+          "text": "What was the last words of Muhammad?",
+          "anchor": "last-words"
         },
         {
           "level": 2,
-          "text": "What was the last action of Muhammad? {#last-actions}",
-          "anchor": "what-was-the-last-action-of-muhammad-last-actions"
+          "text": "What was the last action of Muhammad?",
+          "anchor": "last-actions"
         }
       ],
       "file": "islam/02-Muhammad.md"
@@ -4248,18 +3499,18 @@
         },
         {
           "level": 2,
-          "text": "Bells are Satanic {#satanic-bells}",
-          "anchor": "bells-are-satanic-satanic-bells"
+          "text": "Bells are Satanic",
+          "anchor": "satanic-bells"
         },
         {
           "level": 2,
-          "text": "Donkeys are Satan detectors {#donkeys-detect-satan}",
-          "anchor": "donkeys-are-satan-detectors-donkeys-detect-satan"
+          "text": "Donkeys are Satan detectors",
+          "anchor": "donkeys-detect-satan"
         },
         {
           "level": 2,
-          "text": "Satan farts to not hear the call to prayer {#satan-farts}",
-          "anchor": "satan-farts-to-not-hear-the-call-to-prayer-satan-farts"
+          "text": "Satan farts to not hear the call to prayer",
+          "anchor": "satan-farts"
         },
         {
           "level": 2,
@@ -4268,8 +3519,8 @@
         },
         {
           "level": 2,
-          "text": "Satan pisses in your ear {#satan-pisses}",
-          "anchor": "satan-pisses-in-your-ear-satan-pisses"
+          "text": "Satan pisses in your ear",
+          "anchor": "satan-pisses"
         },
         {
           "level": 2,
@@ -4288,8 +3539,8 @@
         },
         {
           "level": 2,
-          "text": "Yawning is Satanic {#satanic-yawning}",
-          "anchor": "yawning-is-satanic-satanic-yawning"
+          "text": "Yawning is Satanic",
+          "anchor": "satanic-yawning"
         },
         {
           "level": 2,
@@ -4303,8 +3554,8 @@
         },
         {
           "level": 2,
-          "text": "Satan's throne is upon the water {#satan-water-throne}",
-          "anchor": "satans-throne-is-upon-the-water-satan-water-throne"
+          "text": "Satan's throne is upon the water",
+          "anchor": "satan-water-throne"
         }
       ],
       "file": "islam/03-other-characters.md"
@@ -4315,8 +3566,8 @@
       "headers": [
         {
           "level": 1,
-          "text": "Allah pampers Muhammad {#allah-serves-muhammad}",
-          "anchor": "allah-pampers-muhammad-allah-serves-muhammad"
+          "text": "Allah pampers Muhammad",
+          "anchor": "allah-serves-muhammad"
         },
         {
           "level": 2,
@@ -4325,18 +3576,18 @@
         },
         {
           "level": 2,
-          "text": "Unlimited women for Muhammad {#unlimited-women}",
-          "anchor": "unlimited-women-for-muhammad-unlimited-women"
+          "text": "Unlimited women for Muhammad",
+          "anchor": "unlimited-women"
         },
         {
           "level": 2,
-          "text": "Free sex for Muhammad {#free-sex}",
-          "anchor": "free-sex-for-muhammad-free-sex"
+          "text": "Free sex for Muhammad",
+          "anchor": "free-sex"
         },
         {
           "level": 2,
-          "text": "Allah annulled adoption so Muhammad could marry his son's wife {#anulling-adoption}",
-          "anchor": "allah-annulled-adoption-so-muhammad-could-marry-his-sons-wife-anulling-adoption"
+          "text": "Allah annulled adoption so Muhammad could marry his son's wife",
+          "anchor": "anulling-adoption"
         },
         {
           "level": 1,
@@ -4380,8 +3631,8 @@
         },
         {
           "level": 2,
-          "text": "Don't slap your tongue {#slap-tongue}",
-          "anchor": "dont-slap-your-tongue-slap-tongue"
+          "text": "Don't slap your tongue",
+          "anchor": "slap-tongue"
         },
         {
           "level": 2,
@@ -4402,13 +3653,13 @@
         },
         {
           "level": 2,
-          "text": "Jews think Ezra is the son of Allah {#ezra-son-of-allah}",
-          "anchor": "jews-think-ezra-is-the-son-of-allah-ezra-son-of-allah"
+          "text": "Jews think Ezra is the son of Allah",
+          "anchor": "ezra-son-of-allah"
         },
         {
           "level": 2,
-          "text": "The Quran gets the trinity wrong {#trinity}",
-          "anchor": "the-quran-gets-the-trinity-wrong-trinity"
+          "text": "The Quran gets the trinity wrong",
+          "anchor": "trinity"
         },
         {
           "level": 2,
@@ -4417,33 +3668,33 @@
         },
         {
           "level": 2,
-          "text": "Christians worship Mary {#worshipping-mary}",
-          "anchor": "christians-worship-mary-worshipping-mary"
+          "text": "Christians worship Mary",
+          "anchor": "worshipping-mary"
         },
         {
           "level": 2,
-          "text": "Mary the mother of Jesus is the brother of Aaron {#who-is-mary}",
-          "anchor": "mary-the-mother-of-jesus-is-the-brother-of-aaron-who-is-mary"
+          "text": "Mary the mother of Jesus is the brother of Aaron",
+          "anchor": "who-is-mary"
         },
         {
           "level": 2,
-          "text": "Pharao ordered Haman to build the Tower of Babel {#pharao-haman-tower}",
-          "anchor": "pharao-ordered-haman-to-build-the-tower-of-babel-pharao-haman-tower"
+          "text": "Pharao ordered Haman to build the Tower of Babel",
+          "anchor": "pharao-haman-tower"
         },
         {
           "level": 2,
-          "text": "Pharao threatened people with crucifixion {#egyptian-crucifixion}",
-          "anchor": "pharao-threatened-people-with-crucifixion-egyptian-crucifixion"
+          "text": "Pharao threatened people with crucifixion",
+          "anchor": "egyptian-crucifixion"
         },
         {
           "level": 2,
-          "text": "The Israelites were misled by a Samaritan {#misled-by-samaritan}",
-          "anchor": "the-israelites-were-misled-by-a-samaritan-misled-by-samaritan"
+          "text": "The Israelites were misled by a Samaritan",
+          "anchor": "misled-by-samaritan"
         },
         {
           "level": 2,
-          "text": "Jesus was not crucified {#no-crucifixion}",
-          "anchor": "jesus-was-not-crucified-no-crucifixion"
+          "text": "Jesus was not crucified",
+          "anchor": "no-crucifixion"
         },
         {
           "level": 2,
@@ -4567,8 +3818,8 @@
         },
         {
           "level": 3,
-          "text": "Wine is from Satan but is served in paradise {#satanic-wine-in-paradise}",
-          "anchor": "wine-is-from-satan-but-is-served-in-paradise-satanic-wine-in-paradise"
+          "text": "Wine is from Satan but is served in paradise",
+          "anchor": "satanic-wine-in-paradise"
         },
         {
           "level": 3,
@@ -4599,8 +3850,8 @@
         },
         {
           "level": 2,
-          "text": "Punishment for apostasy is death {#apostasy-death-sentence}",
-          "anchor": "punishment-for-apostasy-is-death-apostasy-death-sentence"
+          "text": "Punishment for apostasy is death",
+          "anchor": "apostasy-death-sentence"
         },
         {
           "level": 2,
@@ -4619,8 +3870,8 @@
         },
         {
           "level": 2,
-          "text": "Islam is a strange serpent receding into its hole {#strange-serpent}",
-          "anchor": "islam-is-a-strange-serpent-receding-into-its-hole-strange-serpent"
+          "text": "Islam is a strange serpent receding into its hole",
+          "anchor": "strange-serpent"
         },
         {
           "level": 2,
@@ -4664,8 +3915,8 @@
         },
         {
           "level": 1,
-          "text": "Non-Muslims, Jews and Christians {#non-muslims}",
-          "anchor": "non-muslims-jews-and-christians-non-muslims"
+          "text": "Non-Muslims, Jews and Christians",
+          "anchor": "non-muslims"
         },
         {
           "level": 2,
@@ -4704,8 +3955,8 @@
         },
         {
           "level": 2,
-          "text": "Muslims should listen to and learn from Christians and Jews {#listen-to-christians}",
-          "anchor": "muslims-should-listen-to-and-learn-from-christians-and-jews-listen-to-christians"
+          "text": "Muslims should listen to and learn from Christians and Jews",
+          "anchor": "listen-to-christians"
         },
         {
           "level": 2,
@@ -4734,8 +3985,8 @@
         },
         {
           "level": 3,
-          "text": "A tribe of Israelites were turned into rats {#rats}",
-          "anchor": "a-tribe-of-israelites-were-turned-into-rats-rats"
+          "text": "A tribe of Israelites were turned into rats",
+          "anchor": "rats"
         },
         {
           "level": 3,
@@ -4744,13 +3995,13 @@
         },
         {
           "level": 3,
-          "text": "The verse Muslims use to lie that Islam is peaceful {#peaceful}",
-          "anchor": "the-verse-muslims-use-to-lie-that-islam-is-peaceful-peaceful"
+          "text": "The verse Muslims use to lie that Islam is peaceful",
+          "anchor": "peaceful"
         },
         {
           "level": 3,
-          "text": "Islam's Final Solution to the Jewish Question {#final-solution}",
-          "anchor": "islams-final-solution-to-the-jewish-question-final-solution"
+          "text": "Islam's Final Solution to the Jewish Question",
+          "anchor": "final-solution"
         },
         {
           "level": 2,
@@ -4781,8 +4032,8 @@
         },
         {
           "level": 2,
-          "text": "The Quran confirms the Bible {#bible-confirmed}",
-          "anchor": "the-quran-confirms-the-bible-bible-confirmed"
+          "text": "The Quran confirms the Bible",
+          "anchor": "bible-confirmed"
         },
         {
           "level": 2,
@@ -4796,8 +4047,8 @@
         },
         {
           "level": 2,
-          "text": "The Quran confirms the Bible {#confirms-bible}",
-          "anchor": "the-quran-confirms-the-bible-confirms-bible"
+          "text": "The Quran confirms the Bible",
+          "anchor": "confirms-bible"
         },
         {
           "level": 2,
@@ -4821,8 +4072,8 @@
         },
         {
           "level": 1,
-          "text": "The Quran {#quran}",
-          "anchor": "the-quran-quran"
+          "text": "The Quran",
+          "anchor": "quran"
         },
         {
           "level": 2,
@@ -4851,13 +4102,13 @@
         },
         {
           "level": 2,
-          "text": "Proof of inspiration {#proof-of-inspiration}",
-          "anchor": "proof-of-inspiration-proof-of-inspiration"
+          "text": "Proof of inspiration",
+          "anchor": "proof-of-inspiration"
         },
         {
           "level": 2,
-          "text": "No one can change the word of Allah {#unchanging-word}",
-          "anchor": "no-one-can-change-the-word-of-allah-unchanging-word"
+          "text": "No one can change the word of Allah",
+          "anchor": "unchanging-word"
         },
         {
           "level": 2,
@@ -4866,23 +4117,23 @@
         },
         {
           "level": 2,
-          "text": "The Quran is not perfectly preserved {#not-preserved}",
-          "anchor": "the-quran-is-not-perfectly-preserved-not-preserved"
+          "text": "The Quran is not perfectly preserved",
+          "anchor": "not-preserved"
         },
         {
           "level": 3,
-          "text": "Allah foretold that the Quran wouldn’t be perfectly preserved {#no-preservation}",
-          "anchor": "allah-foretold-that-the-quran-wouldnt-be-perfectly-preserved-no-preservation"
+          "text": "Allah foretold that the Quran wouldn’t be perfectly preserved",
+          "anchor": "no-preservation"
         },
         {
           "level": 3,
-          "text": "The Quran was corrupted even during Muhammad's lifetime {#early-corruption}",
-          "anchor": "the-quran-was-corrupted-even-during-muhammads-lifetime-early-corruption"
+          "text": "The Quran was corrupted even during Muhammad's lifetime",
+          "anchor": "early-corruption"
         },
         {
           "level": 3,
-          "text": "Two chapters of the Quran were forgotten {#surahs-forgotten}",
-          "anchor": "two-chapters-of-the-quran-were-forgotten-surahs-forgotten"
+          "text": "Two chapters of the Quran were forgotten",
+          "anchor": "surahs-forgotten"
         },
         {
           "level": 3,
@@ -4891,23 +4142,23 @@
         },
         {
           "level": 3,
-          "text": "Verses of the Quran were eaten by a sheep {#sheep-ate-verses}",
-          "anchor": "verses-of-the-quran-were-eaten-by-a-sheep-sheep-ate-verses"
+          "text": "Verses of the Quran were eaten by a sheep",
+          "anchor": "sheep-ate-verses"
         },
         {
           "level": 2,
-          "text": "Chapters of the Quran could be ordered on demand {#surah-on-demand}",
-          "anchor": "chapters-of-the-quran-could-be-ordered-on-demand-surah-on-demand"
+          "text": "Chapters of the Quran could be ordered on demand",
+          "anchor": "surah-on-demand"
         },
         {
           "level": 2,
-          "text": "Denying a Quran verse makes you a kafir {#denying-quran}",
-          "anchor": "denying-a-quran-verse-makes-you-a-kafir-denying-quran"
+          "text": "Denying a Quran verse makes you a kafir",
+          "anchor": "denying-quran"
         },
         {
           "level": 2,
-          "text": "Denying a Quran verse is a capital offense {#execute-kafir}",
-          "anchor": "denying-a-quran-verse-is-a-capital-offense-execute-kafir"
+          "text": "Denying a Quran verse is a capital offense",
+          "anchor": "execute-kafir"
         },
         {
           "level": 2,
@@ -4921,8 +4172,8 @@
         },
         {
           "level": 2,
-          "text": "The Quran is alive and will intercede on judgment day {#quran-intercession}",
-          "anchor": "the-quran-is-alive-and-will-intercede-on-judgment-day-quran-intercession"
+          "text": "The Quran is alive and will intercede on judgment day",
+          "anchor": "quran-intercession"
         },
         {
           "level": 1,
@@ -4943,8 +4194,8 @@
         },
         {
           "level": 2,
-          "text": "The Whale Nun {#nun}",
-          "anchor": "the-whale-nun-nun"
+          "text": "The Whale Nun",
+          "anchor": "nun"
         },
         {
           "level": 2,
@@ -4963,28 +4214,28 @@
         },
         {
           "level": 2,
-          "text": "Muslims aren’t allowed to urinate standing {#no-urinating-standing}",
-          "anchor": "muslims-arent-allowed-to-urinate-standing-no-urinating-standing"
+          "text": "Muslims aren’t allowed to urinate standing",
+          "anchor": "no-urinating-standing"
         },
         {
           "level": 2,
-          "text": "Muslims aren’t allowed to urinate in water {#no-urinating-in-water}",
-          "anchor": "muslims-arent-allowed-to-urinate-in-water-no-urinating-in-water"
+          "text": "Muslims aren’t allowed to urinate in water",
+          "anchor": "no-urinating-in-water"
         },
         {
           "level": 2,
-          "text": "Muslims aren’t allowed to urinate  in holes {#urinating-in-holes}",
-          "anchor": "muslims-arent-allowed-to-urinate-in-holes-urinating-in-holes"
+          "text": "Muslims aren’t allowed to urinate  in holes",
+          "anchor": "urinating-in-holes"
         },
         {
           "level": 2,
-          "text": "Muslims aren’t allowed to urinate towards the qibla {#urinating-toward-qibla}",
-          "anchor": "muslims-arent-allowed-to-urinate-towards-the-qibla-urinating-toward-qibla"
+          "text": "Muslims aren’t allowed to urinate towards the qibla",
+          "anchor": "urinating-toward-qibla"
         },
         {
           "level": 2,
-          "text": "Dogs would urinate in the mosque and no one would clean it up {#dogs-pissing-in-mosque}",
-          "anchor": "dogs-would-urinate-in-the-mosque-and-no-one-would-clean-it-up-dogs-pissing-in-mosque"
+          "text": "Dogs would urinate in the mosque and no one would clean it up",
+          "anchor": "dogs-pissing-in-mosque"
         },
         {
           "level": 2,
@@ -4993,8 +4244,8 @@
         },
         {
           "level": 2,
-          "text": "Don't come to mosque with garlic breath {#garlic}",
-          "anchor": "dont-come-to-mosque-with-garlic-breath-garlic"
+          "text": "Don't come to mosque with garlic breath",
+          "anchor": "garlic"
         },
         {
           "level": 2,
@@ -5003,8 +4254,8 @@
         },
         {
           "level": 2,
-          "text": "Wigs are forbidden {#no-wigs}",
-          "anchor": "wigs-are-forbidden-no-wigs"
+          "text": "Wigs are forbidden",
+          "anchor": "no-wigs"
         },
         {
           "level": 2,
@@ -5013,8 +4264,8 @@
         },
         {
           "level": 2,
-          "text": "Muslims should dip flies in their drinks {#dip-flies}",
-          "anchor": "muslims-should-dip-flies-in-their-drinks-dip-flies"
+          "text": "Muslims should dip flies in their drinks",
+          "anchor": "dip-flies"
         },
         {
           "level": 2,
@@ -5023,18 +4274,18 @@
         },
         {
           "level": 2,
-          "text": "The coccyx does not decay {#coccyx}",
-          "anchor": "the-coccyx-does-not-decay-coccyx"
+          "text": "The coccyx does not decay",
+          "anchor": "coccyx"
         },
         {
           "level": 2,
-          "text": "The earth existed before space {#earth-before-space}",
-          "anchor": "the-earth-existed-before-space-earth-before-space"
+          "text": "The earth existed before space",
+          "anchor": "earth-before-space"
         },
         {
           "level": 2,
-          "text": "The earth is flat {#flat-earth}",
-          "anchor": "the-earth-is-flat-flat-earth"
+          "text": "The earth is flat",
+          "anchor": "flat-earth"
         },
         {
           "level": 2,
@@ -5043,13 +4294,13 @@
         },
         {
           "level": 2,
-          "text": "Sperm comes from between the backbone and the ribs {#backbone-sperm}",
-          "anchor": "sperm-comes-from-between-the-backbone-and-the-ribs-backbone-sperm"
+          "text": "Sperm comes from between the backbone and the ribs",
+          "anchor": "backbone-sperm"
         },
         {
           "level": 2,
-          "text": "The sun sets in a muddy spring {#sun-sets-in-mud}",
-          "anchor": "the-sun-sets-in-a-muddy-spring-sun-sets-in-mud"
+          "text": "The sun sets in a muddy spring",
+          "anchor": "sun-sets-in-mud"
         },
         {
           "level": 2,
@@ -5058,18 +4309,18 @@
         },
         {
           "level": 2,
-          "text": "What determines if a child looks like its mother or father? {#whom-children-resemble}",
-          "anchor": "what-determines-if-a-child-looks-like-its-mother-or-father-whom-children-resemble"
+          "text": "What determines if a child looks like its mother or father?",
+          "anchor": "whom-children-resemble"
         },
         {
           "level": 2,
-          "text": "The urine of boys and girls are different {#different-urine}",
-          "anchor": "the-urine-of-boys-and-girls-are-different-different-urine"
+          "text": "The urine of boys and girls are different",
+          "anchor": "different-urine"
         },
         {
           "level": 2,
-          "text": "Non-Muslims eats in seven intestines, Muslims in one {#seven-intestines}",
-          "anchor": "non-muslims-eats-in-seven-intestines-muslims-in-one-seven-intestines"
+          "text": "Non-Muslims eats in seven intestines, Muslims in one",
+          "anchor": "seven-intestines"
         },
         {
           "level": 2,
@@ -5170,13 +4421,13 @@
         },
         {
           "level": 1,
-          "text": "The Kaaba and Qiblah {#kaaba}",
-          "anchor": "the-kaaba-and-qiblah-kaaba"
+          "text": "The Kaaba and Qiblah",
+          "anchor": "kaaba"
         },
         {
           "level": 3,
-          "text": "The Muslims used to pray toward Jerusalem {#jerusalem-qiblah}",
-          "anchor": "the-muslims-used-to-pray-toward-jerusalem-jerusalem-qiblah"
+          "text": "The Muslims used to pray toward Jerusalem",
+          "anchor": "jerusalem-qiblah"
         },
         {
           "level": 3,
@@ -5190,8 +4441,8 @@
         },
         {
           "level": 2,
-          "text": "The Black stone {#black-stone}",
-          "anchor": "the-black-stone-black-stone"
+          "text": "The Black stone",
+          "anchor": "black-stone"
         },
         {
           "level": 3,
@@ -5220,13 +4471,13 @@
         },
         {
           "level": 3,
-          "text": "Muslim men are rewarded with Houris {#houris}",
-          "anchor": "muslim-men-are-rewarded-with-houris-houris"
+          "text": "Muslim men are rewarded with Houris",
+          "anchor": "houris"
         },
         {
           "level": 3,
-          "text": "Houris have large, round, firm, swelling breasts {#breasts}",
-          "anchor": "houris-have-large-round-firm-swelling-breasts-breasts"
+          "text": "Houris have large, round, firm, swelling breasts",
+          "anchor": "breasts"
         },
         {
           "level": 3,
@@ -5255,13 +4506,13 @@
         },
         {
           "level": 2,
-          "text": "All fruit looks the same in paradise {#boring-fruit}",
-          "anchor": "all-fruit-looks-the-same-in-paradise-boring-fruit"
+          "text": "All fruit looks the same in paradise",
+          "anchor": "boring-fruit"
         },
         {
           "level": 2,
-          "text": "Paradise dwellers don't poop but belch and sweat musk {#belching-musk}",
-          "anchor": "paradise-dwellers-dont-poop-but-belch-and-sweat-musk-belching-musk"
+          "text": "Paradise dwellers don't poop but belch and sweat musk",
+          "anchor": "belching-musk"
         },
         {
           "level": 2,
@@ -5270,8 +4521,8 @@
         },
         {
           "level": 2,
-          "text": "Paradise dwellers will be 38 meters tall {#tall-people}",
-          "anchor": "paradise-dwellers-will-be-38-meters-tall-tall-people"
+          "text": "Paradise dwellers will be 38 meters tall",
+          "anchor": "tall-people"
         },
         {
           "level": 2,
@@ -5280,8 +4531,8 @@
         },
         {
           "level": 2,
-          "text": "There are 7 heavens {#seven-heavens}",
-          "anchor": "there-are-7-heavens-seven-heavens"
+          "text": "There are 7 heavens",
+          "anchor": "seven-heavens"
         },
         {
           "level": 2,
@@ -5300,18 +4551,18 @@
         },
         {
           "level": 2,
-          "text": "Looking up while praying makes you go blind {#praying-blind}",
-          "anchor": "looking-up-while-praying-makes-you-go-blind-praying-blind"
+          "text": "Looking up while praying makes you go blind",
+          "anchor": "praying-blind"
         },
         {
           "level": 2,
-          "text": "Raising your head before the Imam while praying turns it into a donkey head {#donkey-head}",
-          "anchor": "raising-your-head-before-the-imam-while-praying-turns-it-into-a-donkey-head-donkey-head"
+          "text": "Raising your head before the Imam while praying turns it into a donkey head",
+          "anchor": "donkey-head"
         },
         {
           "level": 2,
-          "text": "Prayer is nullified by donkeys, black dogs and women {#nullified-prayer}",
-          "anchor": "prayer-is-nullified-by-donkeys-black-dogs-and-women-nullified-prayer"
+          "text": "Prayer is nullified by donkeys, black dogs and women",
+          "anchor": "nullified-prayer"
         },
         {
           "level": 2,
@@ -5345,13 +4596,13 @@
         },
         {
           "level": 2,
-          "text": "No ransom will be accepted for another person {#no-ransom}",
-          "anchor": "no-ransom-will-be-accepted-for-another-person-no-ransom"
+          "text": "No ransom will be accepted for another person",
+          "anchor": "no-ransom"
         },
         {
           "level": 2,
-          "text": "Ransomed from hell by Jews and Christians {#ransomed-from-hell}",
-          "anchor": "ransomed-from-hell-by-jews-and-christians-ransomed-from-hell"
+          "text": "Ransomed from hell by Jews and Christians",
+          "anchor": "ransomed-from-hell"
         },
         {
           "level": 2,
@@ -5360,13 +4611,13 @@
         },
         {
           "level": 2,
-          "text": "Muhammad can save {#muhammad-saves}",
-          "anchor": "muhammad-can-save-muhammad-saves"
+          "text": "Muhammad can save",
+          "anchor": "muhammad-saves"
         },
         {
           "level": 2,
-          "text": "Muhammad can NOT save {#muhammad-saves-not}",
-          "anchor": "muhammad-can-not-save-muhammad-saves-not"
+          "text": "Muhammad can NOT save",
+          "anchor": "muhammad-saves-not"
         },
         {
           "level": 2,
@@ -5507,8 +4758,8 @@
         },
         {
           "level": 3,
-          "text": "Poetry is a sin {#poetry}",
-          "anchor": "poetry-is-a-sin-poetry"
+          "text": "Poetry is a sin",
+          "anchor": "poetry"
         },
         {
           "level": 2,
@@ -5527,38 +4778,38 @@
         },
         {
           "level": 2,
-          "text": "Black people were created for hell {#blacks-made-for-hell}",
-          "anchor": "black-people-were-created-for-hell-blacks-made-for-hell"
+          "text": "Black people were created for hell",
+          "anchor": "blacks-made-for-hell"
         },
         {
           "level": 2,
-          "text": "Those condemned by Allah turns black {#blackface-hell}",
-          "anchor": "those-condemned-by-allah-turns-black-blackface-hell"
+          "text": "Those condemned by Allah turns black",
+          "anchor": "blackface-hell"
         },
         {
           "level": 2,
-          "text": "Black people symbolize disease {#black-disease}",
-          "anchor": "black-people-symbolize-disease-black-disease"
+          "text": "Black people symbolize disease",
+          "anchor": "black-disease"
         },
         {
           "level": 2,
-          "text": "Turks look like their faces were hit with a hammer {#turks}",
-          "anchor": "turks-look-like-their-faces-were-hit-with-a-hammer-turks"
+          "text": "Turks look like their faces were hit with a hammer",
+          "anchor": "turks"
         },
         {
           "level": 2,
-          "text": "Ethiopians have heads like raisins {#raisin-heads}",
-          "anchor": "ethiopians-have-heads-like-raisins-raisin-heads"
+          "text": "Ethiopians have heads like raisins",
+          "anchor": "raisin-heads"
         },
         {
           "level": 2,
-          "text": "Use of racist slurs {#nword}",
-          "anchor": "use-of-racist-slurs-nword"
+          "text": "Use of racist slurs",
+          "anchor": "nword"
         },
         {
           "level": 2,
-          "text": "Muhammad didn't like black dogs {#black-dogs}",
-          "anchor": "muhammad-didnt-like-black-dogs-black-dogs"
+          "text": "Muhammad didn't like black dogs",
+          "anchor": "black-dogs"
         },
         {
           "level": 2,
@@ -5572,18 +4823,18 @@
         },
         {
           "level": 2,
-          "text": "Islam promotes pedophilia {#pedophilia}",
-          "anchor": "islam-promotes-pedophilia-pedophilia"
+          "text": "Islam promotes pedophilia",
+          "anchor": "pedophilia"
         },
         {
           "level": 3,
-          "text": "The Quran promotes child marriage {#child-marriage}",
-          "anchor": "the-quran-promotes-child-marriage-child-marriage"
+          "text": "The Quran promotes child marriage",
+          "anchor": "child-marriage"
         },
         {
           "level": 3,
-          "text": "Mohammed raped Aisha, a nine year old girl {#aisha}",
-          "anchor": "mohammed-raped-aisha-a-nine-year-old-girl-aisha"
+          "text": "Mohammed raped Aisha, a nine year old girl",
+          "anchor": "aisha"
         },
         {
           "level": 3,
@@ -5592,8 +4843,8 @@
         },
         {
           "level": 3,
-          "text": "Muhammad tongue-kissed a little boy {#tongue-kiss}",
-          "anchor": "muhammad-tongue-kissed-a-little-boy-tongue-kiss"
+          "text": "Muhammad tongue-kissed a little boy",
+          "anchor": "tongue-kiss"
         },
         {
           "level": 2,
@@ -5602,8 +4853,8 @@
         },
         {
           "level": 3,
-          "text": "Captured women may be freely raped {#raping-captives}",
-          "anchor": "captured-women-may-be-freely-raped-raping-captives"
+          "text": "Captured women may be freely raped",
+          "anchor": "raping-captives"
         },
         {
           "level": 3,
@@ -5637,13 +4888,13 @@
         },
         {
           "level": 2,
-          "text": "Black slaves are worth half of Arab slaves {#black-slaves-worth-less}",
-          "anchor": "black-slaves-are-worth-half-of-arab-slaves-black-slaves-worth-less"
+          "text": "Black slaves are worth half of Arab slaves",
+          "anchor": "black-slaves-worth-less"
         },
         {
           "level": 2,
-          "text": "You may flog your slaves (and your wife) {#flog-slaves}",
-          "anchor": "you-may-flog-your-slaves-and-your-wife-flog-slaves"
+          "text": "You may flog your slaves (and your wife)",
+          "anchor": "flog-slaves"
         },
         {
           "level": 2,
@@ -5672,8 +4923,8 @@
         },
         {
           "level": 3,
-          "text": "What triggered Jihad {#allah-allows-jihad}",
-          "anchor": "what-triggered-jihad-allah-allows-jihad"
+          "text": "What triggered Jihad",
+          "anchor": "allah-allows-jihad"
         },
         {
           "level": 3,
@@ -5784,18 +5035,18 @@
       "headers": [
         {
           "level": 1,
-          "text": "Violence against women {#violence}",
-          "anchor": "violence-against-women-violence"
+          "text": "Violence against women",
+          "anchor": "violence"
         },
         {
           "level": 2,
-          "text": "Wife beating is allowed in Islam {#domestic-abuse}",
-          "anchor": "wife-beating-is-allowed-in-islam-domestic-abuse"
+          "text": "Wife beating is allowed in Islam",
+          "anchor": "domestic-abuse"
         },
         {
           "level": 2,
-          "text": "Never ask why a man beats his wife  {#dont-question-wife-beater}",
-          "anchor": "never-ask-why-a-man-beats-his-wife-dont-question-wife-beater"
+          "text": "Never ask why a man beats his wife",
+          "anchor": "dont-question-wife-beater"
         },
         {
           "level": 2,
@@ -5819,8 +5070,8 @@
         },
         {
           "level": 2,
-          "text": "No women has it worse than Muslim women {#muslimas-treated-worst}",
-          "anchor": "no-women-has-it-worse-than-muslim-women-muslimas-treated-worst"
+          "text": "No women has it worse than Muslim women",
+          "anchor": "muslimas-treated-worst"
         },
         {
           "level": 1,
@@ -5834,8 +5085,8 @@
         },
         {
           "level": 2,
-          "text": "Women are to be plowed like a field {#plowing-women}",
-          "anchor": "women-are-to-be-plowed-like-a-field-plowing-women"
+          "text": "Women are to be plowed like a field",
+          "anchor": "plowing-women"
         },
         {
           "level": 2,
@@ -5849,13 +5100,13 @@
         },
         {
           "level": 2,
-          "text": "Islam allows child marriage {#pedophilia-ok}",
-          "anchor": "islam-allows-child-marriage-pedophilia-ok"
+          "text": "Islam allows child marriage",
+          "anchor": "pedophilia-ok"
         },
         {
           "level": 2,
-          "text": "Temporary marriages allowed {#muta}",
-          "anchor": "temporary-marriages-allowed-muta"
+          "text": "Temporary marriages allowed",
+          "anchor": "muta"
         },
         {
           "level": 2,
@@ -5879,8 +5130,8 @@
         },
         {
           "level": 1,
-          "text": "Wigs are forbidden {#no-wigs}",
-          "anchor": "wigs-are-forbidden-no-wigs"
+          "text": "Wigs are forbidden",
+          "anchor": "no-wigs"
         },
         {
           "level": 1,
@@ -5889,8 +5140,8 @@
         },
         {
           "level": 2,
-          "text": "Most people in hell are women {#most-in-hell-women}",
-          "anchor": "most-people-in-hell-are-women-most-in-hell-women"
+          "text": "Most people in hell are women",
+          "anchor": "most-in-hell-women"
         },
         {
           "level": 2,
@@ -5951,13 +5202,13 @@
       "headers": [
         {
           "level": 1,
-          "text": "How to treat animals {#animals}",
-          "anchor": "how-to-treat-animals-animals"
+          "text": "How to treat animals",
+          "anchor": "animals"
         },
         {
           "level": 2,
-          "text": "Owning a dog gives you minus points {#owning-a-dog}",
-          "anchor": "owning-a-dog-gives-you-minus-points-owning-a-dog"
+          "text": "Owning a dog gives you minus points",
+          "anchor": "owning-a-dog"
         },
         {
           "level": 2,
@@ -6058,8 +5309,8 @@
         },
         {
           "level": 1,
-          "text": "Snakes in houses may be demons who converted to islam {#snake-jinn}",
-          "anchor": "snakes-in-houses-may-be-demons-who-converted-to-islam-snake-jinn"
+          "text": "Snakes in houses may be demons who converted to islam",
+          "anchor": "snake-jinn"
         },
         {
           "level": 1,
@@ -6073,8 +5324,8 @@
         },
         {
           "level": 1,
-          "text": "Relieve sexual awkwardness by suckling breasts {#adult-suckling}",
-          "anchor": "relieve-sexual-awkwardness-by-suckling-breasts-adult-suckling"
+          "text": "Relieve sexual awkwardness by suckling breasts",
+          "anchor": "adult-suckling"
         },
         {
           "level": 1,
@@ -6090,23 +5341,23 @@
       "headers": [
         {
           "level": 1,
-          "text": "The classic Islamic dilemma {#classic}",
-          "anchor": "the-classic-islamic-dilemma-classic"
+          "text": "The classic Islamic dilemma",
+          "anchor": "classic"
         },
         {
           "level": 1,
-          "text": "The Christian Islamic dilemma (or trilemma) {#christian}",
-          "anchor": "the-christian-islamic-dilemma-or-trilemma-christian"
+          "text": "The Christian Islamic dilemma (or trilemma)",
+          "anchor": "christian"
         },
         {
           "level": 1,
-          "text": "Allah's dilemma {#allah}",
-          "anchor": "allahs-dilemma-allah"
+          "text": "Allah's dilemma",
+          "anchor": "allah"
         },
         {
           "level": 1,
-          "text": "The clear Quran dilemma {#clear-quran}",
-          "anchor": "the-clear-quran-dilemma-clear-quran"
+          "text": "The clear Quran dilemma",
+          "anchor": "clear-quran"
         }
       ],
       "file": "islamic-dilemma.md"
@@ -7815,741 +7066,6 @@
 
       ],
       "file": "quran/114.md"
-    },
-    {
-      "url": "/quran/old/001/",
-      "title": "1 - Al-Fatihah",
-      "headers": [
-        {
-          "level": 6,
-          "text": "1",
-          "anchor": "1"
-        },
-        {
-          "level": 6,
-          "text": "2",
-          "anchor": "2"
-        },
-        {
-          "level": 6,
-          "text": "3",
-          "anchor": "3"
-        },
-        {
-          "level": 6,
-          "text": "4",
-          "anchor": "4"
-        },
-        {
-          "level": 6,
-          "text": "5",
-          "anchor": "5"
-        },
-        {
-          "level": 6,
-          "text": "6",
-          "anchor": "6"
-        },
-        {
-          "level": 6,
-          "text": "7",
-          "anchor": "7"
-        }
-      ],
-      "file": "quran/old/001.md"
-    },
-    {
-      "url": "/quran/old/002/",
-      "title": "2 - Al-Baqara",
-      "headers": [
-        {
-          "level": 6,
-          "text": "1",
-          "anchor": "1"
-        },
-        {
-          "level": 6,
-          "text": "2",
-          "anchor": "2"
-        },
-        {
-          "level": 6,
-          "text": "3",
-          "anchor": "3"
-        },
-        {
-          "level": 6,
-          "text": "4",
-          "anchor": "4"
-        },
-        {
-          "level": 6,
-          "text": "5",
-          "anchor": "5"
-        },
-        {
-          "level": 6,
-          "text": "6",
-          "anchor": "6"
-        },
-        {
-          "level": 6,
-          "text": "7",
-          "anchor": "7"
-        },
-        {
-          "level": 6,
-          "text": "8",
-          "anchor": "8"
-        },
-        {
-          "level": 6,
-          "text": "21",
-          "anchor": "21"
-        },
-        {
-          "level": 6,
-          "text": "23",
-          "anchor": "23"
-        },
-        {
-          "level": 6,
-          "text": "24",
-          "anchor": "24"
-        },
-        {
-          "level": 6,
-          "text": "25",
-          "anchor": "25"
-        },
-        {
-          "level": 6,
-          "text": "26",
-          "anchor": "26"
-        },
-        {
-          "level": 6,
-          "text": "27",
-          "anchor": "27"
-        },
-        {
-          "level": 6,
-          "text": "28",
-          "anchor": "28"
-        },
-        {
-          "level": 6,
-          "text": "29",
-          "anchor": "29"
-        },
-        {
-          "level": 6,
-          "text": "30",
-          "anchor": "30"
-        },
-        {
-          "level": 6,
-          "text": "35",
-          "anchor": "35"
-        },
-        {
-          "level": 6,
-          "text": "40",
-          "anchor": "40"
-        },
-        {
-          "level": 6,
-          "text": "47",
-          "anchor": "47"
-        },
-        {
-          "level": 6,
-          "text": "48",
-          "anchor": "48"
-        },
-        {
-          "level": 6,
-          "text": "49",
-          "anchor": "49"
-        },
-        {
-          "level": 6,
-          "text": "51",
-          "anchor": "51"
-        },
-        {
-          "level": 6,
-          "text": "58",
-          "anchor": "58"
-        },
-        {
-          "level": 6,
-          "text": "60",
-          "anchor": "60"
-        },
-        {
-          "level": 6,
-          "text": "62",
-          "anchor": "62"
-        },
-        {
-          "level": 6,
-          "text": "63",
-          "anchor": "63"
-        },
-        {
-          "level": 6,
-          "text": "65",
-          "anchor": "65"
-        },
-        {
-          "level": 6,
-          "text": "67",
-          "anchor": "67"
-        },
-        {
-          "level": 6,
-          "text": "75",
-          "anchor": "75"
-        },
-        {
-          "level": 6,
-          "text": "79",
-          "anchor": "79"
-        },
-        {
-          "level": 6,
-          "text": "80",
-          "anchor": "80"
-        },
-        {
-          "level": 6,
-          "text": "83",
-          "anchor": "83"
-        },
-        {
-          "level": 6,
-          "text": "87",
-          "anchor": "87"
-        },
-        {
-          "level": 6,
-          "text": "88",
-          "anchor": "88"
-        },
-        {
-          "level": 6,
-          "text": "92",
-          "anchor": "92"
-        },
-        {
-          "level": 6,
-          "text": "99",
-          "anchor": "99"
-        },
-        {
-          "level": 6,
-          "text": "100",
-          "anchor": "100"
-        },
-        {
-          "level": 6,
-          "text": "102",
-          "anchor": "102"
-        },
-        {
-          "level": 6,
-          "text": "104",
-          "anchor": "104"
-        },
-        {
-          "level": 6,
-          "text": "105",
-          "anchor": "105"
-        },
-        {
-          "level": 6,
-          "text": "106",
-          "anchor": "106"
-        },
-        {
-          "level": 6,
-          "text": "107",
-          "anchor": "107"
-        },
-        {
-          "level": 6,
-          "text": "111",
-          "anchor": "111"
-        },
-        {
-          "level": 6,
-          "text": "114",
-          "anchor": "114"
-        },
-        {
-          "level": 6,
-          "text": "115",
-          "anchor": "115"
-        },
-        {
-          "level": 6,
-          "text": "116",
-          "anchor": "116"
-        },
-        {
-          "level": 6,
-          "text": "118",
-          "anchor": "118"
-        },
-        {
-          "level": 6,
-          "text": "121",
-          "anchor": "121"
-        },
-        {
-          "level": 6,
-          "text": "124",
-          "anchor": "124"
-        },
-        {
-          "level": 6,
-          "text": "130",
-          "anchor": "130"
-        },
-        {
-          "level": 6,
-          "text": "133",
-          "anchor": "133"
-        },
-        {
-          "level": 6,
-          "text": "135",
-          "anchor": "135"
-        },
-        {
-          "level": 6,
-          "text": "140",
-          "anchor": "140"
-        },
-        {
-          "level": 6,
-          "text": "142",
-          "anchor": "142"
-        },
-        {
-          "level": 6,
-          "text": "149",
-          "anchor": "149"
-        },
-        {
-          "level": 6,
-          "text": "145",
-          "anchor": "145"
-        },
-        {
-          "level": 6,
-          "text": "146",
-          "anchor": "146"
-        },
-        {
-          "level": 6,
-          "text": "154",
-          "anchor": "154"
-        },
-        {
-          "level": 6,
-          "text": "155",
-          "anchor": "155"
-        },
-        {
-          "level": 6,
-          "text": "158",
-          "anchor": "158"
-        },
-        {
-          "level": 6,
-          "text": "159",
-          "anchor": "159"
-        },
-        {
-          "level": 6,
-          "text": "161",
-          "anchor": "161"
-        },
-        {
-          "level": 6,
-          "text": "168",
-          "anchor": "168"
-        },
-        {
-          "level": 6,
-          "text": "170",
-          "anchor": "170"
-        },
-        {
-          "level": 6,
-          "text": "172",
-          "anchor": "172"
-        },
-        {
-          "level": 6,
-          "text": "174",
-          "anchor": "174"
-        },
-        {
-          "level": 6,
-          "text": "177",
-          "anchor": "177"
-        },
-        {
-          "level": 6,
-          "text": "178",
-          "anchor": "178"
-        },
-        {
-          "level": 6,
-          "text": "180",
-          "anchor": "180"
-        },
-        {
-          "level": 6,
-          "text": "183",
-          "anchor": "183"
-        },
-        {
-          "level": 6,
-          "text": "186",
-          "anchor": "186"
-        },
-        {
-          "level": 6,
-          "text": "187",
-          "anchor": "187"
-        },
-        {
-          "level": 6,
-          "text": "188",
-          "anchor": "188"
-        },
-        {
-          "level": 6,
-          "text": "189",
-          "anchor": "189"
-        },
-        {
-          "level": 6,
-          "text": "190",
-          "anchor": "190"
-        },
-        {
-          "level": 6,
-          "text": "195",
-          "anchor": "195"
-        },
-        {
-          "level": 6,
-          "text": "204",
-          "anchor": "204"
-        },
-        {
-          "level": 6,
-          "text": "210",
-          "anchor": "210"
-        },
-        {
-          "level": 6,
-          "text": "213",
-          "anchor": "213"
-        },
-        {
-          "level": 6,
-          "text": "214",
-          "anchor": "214"
-        },
-        {
-          "level": 6,
-          "text": "215",
-          "anchor": "215"
-        },
-        {
-          "level": 6,
-          "text": "216",
-          "anchor": "216"
-        },
-        {
-          "level": 6,
-          "text": "217",
-          "anchor": "217"
-        },
-        {
-          "level": 6,
-          "text": "219",
-          "anchor": "219"
-        },
-        {
-          "level": 6,
-          "text": "221",
-          "anchor": "221"
-        },
-        {
-          "level": 6,
-          "text": "222",
-          "anchor": "222"
-        },
-        {
-          "level": 6,
-          "text": "223",
-          "anchor": "223"
-        },
-        {
-          "level": 6,
-          "text": "224",
-          "anchor": "224"
-        },
-        {
-          "level": 6,
-          "text": "226",
-          "anchor": "226"
-        },
-        {
-          "level": 6,
-          "text": "227",
-          "anchor": "227"
-        },
-        {
-          "level": 6,
-          "text": "233",
-          "anchor": "233"
-        },
-        {
-          "level": 6,
-          "text": "234",
-          "anchor": "234"
-        },
-        {
-          "level": 6,
-          "text": "236",
-          "anchor": "236"
-        },
-        {
-          "level": 6,
-          "text": "238",
-          "anchor": "238"
-        },
-        {
-          "level": 6,
-          "text": "240",
-          "anchor": "240"
-        },
-        {
-          "level": 6,
-          "text": "243",
-          "anchor": "243"
-        },
-        {
-          "level": 6,
-          "text": "244",
-          "anchor": "244"
-        },
-        {
-          "level": 6,
-          "text": "245",
-          "anchor": "245"
-        },
-        {
-          "level": 6,
-          "text": "246",
-          "anchor": "246"
-        },
-        {
-          "level": 6,
-          "text": "247",
-          "anchor": "247"
-        },
-        {
-          "level": 6,
-          "text": "248",
-          "anchor": "248"
-        },
-        {
-          "level": 6,
-          "text": "249",
-          "anchor": "249"
-        },
-        {
-          "level": 6,
-          "text": "250",
-          "anchor": "250"
-        },
-        {
-          "level": 6,
-          "text": "252",
-          "anchor": "252"
-        },
-        {
-          "level": 6,
-          "text": "253",
-          "anchor": "253"
-        },
-        {
-          "level": 6,
-          "text": "254",
-          "anchor": "254"
-        },
-        {
-          "level": 6,
-          "text": "255",
-          "anchor": "255"
-        },
-        {
-          "level": 6,
-          "text": "256",
-          "anchor": "256"
-        },
-        {
-          "level": 6,
-          "text": "257",
-          "anchor": "257"
-        },
-        {
-          "level": 6,
-          "text": "258",
-          "anchor": "258"
-        },
-        {
-          "level": 6,
-          "text": "261",
-          "anchor": "261"
-        },
-        {
-          "level": 6,
-          "text": "275",
-          "anchor": "275"
-        },
-        {
-          "level": 6,
-          "text": "282",
-          "anchor": "282"
-        },
-        {
-          "level": 6,
-          "text": "283",
-          "anchor": "283"
-        },
-        {
-          "level": 6,
-          "text": "284",
-          "anchor": "284"
-        },
-        {
-          "level": 6,
-          "text": "285",
-          "anchor": "285"
-        },
-        {
-          "level": 6,
-          "text": "286",
-          "anchor": "286"
-        },
-        {
-          "level": 1,
-          "text": "End notes",
-          "anchor": "end-notes"
-        }
-      ],
-      "file": "quran/old/002.md"
-    },
-    {
-      "url": "/quran/old/003/",
-      "title": "3 - Ali-Imran",
-      "headers": [
-        {
-          "level": 6,
-          "text": "1",
-          "anchor": "1"
-        },
-        {
-          "level": 6,
-          "text": "3",
-          "anchor": "3"
-        },
-        {
-          "level": 7,
-          "text": "7",
-          "anchor": "7"
-        },
-        {
-          "level": 6,
-          "text": "10",
-          "anchor": "10"
-        },
-        {
-          "level": 6,
-          "text": "12",
-          "anchor": "12"
-        },
-        {
-          "level": 6,
-          "text": "13",
-          "anchor": "13"
-        },
-        {
-          "level": 6,
-          "text": "13",
-          "anchor": "13"
-        },
-        {
-          "level": 6,
-          "text": "14",
-          "anchor": "14"
-        },
-        {
-          "level": 6,
-          "text": "15",
-          "anchor": "15"
-        },
-        {
-          "level": 6,
-          "text": "16",
-          "anchor": "16"
-        },
-        {
-          "level": 6,
-          "text": "18",
-          "anchor": "18"
-        },
-        {
-          "level": 6,
-          "text": "19",
-          "anchor": "19"
-        }
-      ],
-      "file": "quran/old/003.md"
-    },
-    {
-      "url": "/quran/old/004/",
-      "title": "4 - An-Nisa",
-      "headers": [
-        {
-          "level": 6,
-          "text": "34",
-          "anchor": "34"
-        }
-      ],
-      "file": "quran/old/004.md"
-    },
-    {
-      "url": "/quran/old/009/",
-      "title": "9 - At-Tawbah",
-      "headers": [
-        {
-          "level": 6,
-          "text": "31",
-          "anchor": "31"
-        }
-      ],
-      "file": "quran/old/009.md"
     },
     {
       "url": "/quran/topics/",
