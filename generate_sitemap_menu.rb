@@ -58,7 +58,7 @@ def generate_sitemap_menu
   # Start building HTML
   html = <<~HTML
     <!-- Auto-generated sitemap menu - DO NOT EDIT MANUALLY -->
-    <!-- Generated: #{Time.now.utc.iso8601} -->
+   
     <nav class="sitemap-menu">
       <ul>
   HTML
