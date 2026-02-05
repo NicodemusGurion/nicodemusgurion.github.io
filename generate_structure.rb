@@ -5,27 +5,29 @@ require 'yaml'
 # Parse markdown headers
 def extract_headers(content)
   headers = []
-  # Define the pattern outside to avoid interpolation issues
-  header_pattern = /^(#{1,6})\s+(.+)$/
   
-  content.scan(header_pattern) do |match|
-    level = match[0].length
-    text = match[1].strip
-    # GitHub-style anchor generation
-    anchor = text.downcase
-      .gsub(/[^\w\s-]/, '')
-      .gsub(/\s+/, '-')
-      .gsub(/-+/, '-')
-      .gsub(/^-|-$/, '')
-    
-    headers << {
-      'level' => level,
-      'text' => text,
-      'anchor' => anchor
-    }
+  content.each_line do |line|
+    # Match markdown headers (# through ######)
+    if line =~ /^(#+)\s+(.+)$/
+      level = $1.length
+      text = $2.strip
+      # GitHub-style anchor generation
+      anchor = text.downcase
+        .gsub(/[^\w\s-]/, '')
+        .gsub(/\s+/, '-')
+        .gsub(/-+/, '-')
+        .gsub(/^-|-$/, '')
+      
+      headers << {
+        'level' => level,
+        'text' => text,
+        'anchor' => anchor
+      }
+    end
   end
   headers
 end
+
 
 
 
