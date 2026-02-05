@@ -6,15 +6,11 @@
 
     ],
     "children": {
-      "404.html": {
+      "404": {
         "title": "404: Page not found",
-        "url": "404.html",
+        "url": "/404.html",
         "headers": [
-          {
-            "level": 1,
-            "text": "404: You got lost",
-            "anchor": "404-you-got-lost"
-          }
+
         ],
         "children": {
         },
@@ -22,7 +18,7 @@
       },
       "Jesus is Jehovah": {
         "title": "Jesus is jehovah",
-        "url": "/Jesus is Jehovah/",
+        "url": "/Jesus is Jehovah",
         "headers": [
 
         ],
@@ -63,7 +59,7 @@
         "children": {
           "Atheism is incompatible with science": {
             "title": "Atheism is incompatible with science",
-            "url": "/atheism/Atheism is incompatible with science/",
+            "url": "/atheism/Atheism is incompatible with science",
             "headers": [
               {
                 "level": 1,
@@ -122,7 +118,7 @@
           },
           "Extraordinary claims require extraordinary evidence": {
             "title": "Extraordinary claims require extraordinary evidence",
-            "url": "/atheism/Extraordinary claims require extraordinary evidence/",
+            "url": "/atheism/Extraordinary claims require extraordinary evidence",
             "headers": [
 
             ],
@@ -130,7 +126,8 @@
             },
             "include_in_menu": false
           }
-        }
+        },
+        "include_in_menu": false
       },
       "christianity": {
         "title": "Christianity",
@@ -204,7 +201,7 @@
         "children": {
           "jesus-never-claimed-to-be-god": {
             "title": "Jesus never claimed to be God",
-            "url": "/dawah/jesus-never-claimed-to-be-god/",
+            "url": "/dawah/jesus-never-claimed-to-be-god",
             "headers": [
               {
                 "level": 1,
@@ -253,7 +250,7 @@
           },
           "jesus-not-crucified": {
             "title": "Jesus Not Crucified",
-            "url": "/dawah/jesus-not-crucified/",
+            "url": "/dawah/jesus-not-crucified",
             "headers": [
 
             ],
@@ -263,7 +260,7 @@
           },
           "late-gospels": {
             "title": "The Gospels were written hundreds of years after Jesus",
-            "url": "/dawah/late-gospels/",
+            "url": "/dawah/late-gospels",
             "headers": [
 
             ],
@@ -273,7 +270,7 @@
           },
           "nicaea-canon": {
             "title": "The Council of Nicaea chose the Biblical canon",
-            "url": "/dawah/nicaea-canon/",
+            "url": "/dawah/nicaea-canon",
             "headers": [
 
             ],
@@ -283,7 +280,7 @@
           },
           "paul-invented-christianity": {
             "title": "Paul invented Christianity",
-            "url": "/dawah/paul-invented-christianity/",
+            "url": "/dawah/paul-invented-christianity",
             "headers": [
               {
                 "level": 1,
@@ -317,7 +314,7 @@
           },
           "prophets-sinful": {
             "title": "The Bible portrays prophets committing terrible sins, proving it's corrupted",
-            "url": "/dawah/prophets-sinful/",
+            "url": "/dawah/prophets-sinful",
             "headers": [
 
             ],
@@ -325,7 +322,7 @@
             },
             "include_in_menu": true
           },
-          "rebekah": {
+          "rebekah-3": {
             "title": "Rebekah was 3 years old when she married Isaac.",
             "url": "/dawah/rebekah/",
             "headers": [
@@ -356,7 +353,7 @@
           },
           "trinity-invented-at-nicaea": {
             "title": "The Trinity is a later invention from the Council of Nicaea/by Constantine",
-            "url": "/dawah/trinity-invented-at-nicaea/",
+            "url": "/dawah/trinity-invented-at-nicaea",
             "headers": [
               {
                 "level": 1,
@@ -398,7 +395,7 @@
       },
       "hexapla": {
         "title": "Hexapla",
-        "url": "/hexapla/",
+        "url": "/hexapla",
         "headers": [
 
         ],
@@ -408,13 +405,23 @@
       },
       "index-old": {
         "title": "Home",
-        "url": "/index-old/",
+        "url": "/index-old",
         "headers": [
 
         ],
         "children": {
         },
         "include_in_menu": false
+      },
+      "index": {
+        "title": "Index",
+        "url": "/",
+        "headers": [
+
+        ],
+        "children": {
+        },
+        "include_in_menu": true
       },
       "islam": {
         "title": "Teachings of Islam",
@@ -571,7 +578,7 @@
         "children": {
           "jw-mental-health": {
             "title": "The mental health of Jehovah's Witnesses",
-            "url": "/studies/jw-mental-health/",
+            "url": "/studies/jw-mental-health",
             "headers": [
               {
                 "level": 2,
@@ -585,7 +592,7 @@
           },
           "physical-health-cancer-patients": {
             "title": "Religion, spirituality, and physical health in cancer patients: A meta-analysis",
-            "url": "/studies/physical-health-cancer-patients/",
+            "url": "/studies/physical-health-cancer-patients",
             "headers": [
               {
                 "level": 1,
@@ -599,7 +606,7 @@
           },
           "pro-environmental-behaviour": {
             "title": "Does religion promote pro-environmental behaviour? A cross-country investigation",
-            "url": "/studies/pro-environmental-behaviour/",
+            "url": "/studies/pro-environmental-behaviour",
             "headers": [
 
             ],
@@ -609,7 +616,7 @@
           },
           "religious-schools-do-better": {
             "title": "The Effects of Catholic and Prostestant Schools",
-            "url": "/studies/religious-schools-do-better/",
+            "url": "/studies/religious-schools-do-better",
             "headers": [
               {
                 "level": 1,
@@ -623,7 +630,7 @@
           },
           "spiritual-factors-depression": {
             "title": "Religious and spiritual factors in depression: review and integration of the research",
-            "url": "/studies/spiritual-factors-depression/",
+            "url": "/studies/spiritual-factors-depression",
             "headers": [
               {
                 "level": 2,
@@ -638,7 +645,8 @@
         },
         "include_in_menu": false
       }
-    }
+    },
+    "include_in_menu": true
   },
   "flat": [
     {
@@ -652,7 +660,17 @@
       "include_in_menu": true
     },
     {
-      "url": "/Jesus is Jehovah/",
+      "url": "/404.html",
+      "tocpath": null,
+      "title": "404: Page not found",
+      "headers": [
+
+      ],
+      "file": "404.md",
+      "include_in_menu": false
+    },
+    {
+      "url": "/Jesus is Jehovah",
       "tocpath": null,
       "title": "Jesus is jehovah",
       "headers": [
@@ -686,7 +704,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/atheism/Atheism is incompatible with science/",
+      "url": "/atheism/Atheism is incompatible with science",
       "tocpath": null,
       "title": "Atheism is incompatible with science",
       "headers": [
@@ -745,7 +763,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/atheism/Extraordinary claims require extraordinary evidence/",
+      "url": "/atheism/Extraordinary claims require extraordinary evidence",
       "tocpath": null,
       "title": "Extraordinary claims require extraordinary evidence",
       "headers": [
@@ -828,7 +846,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/3-gods/",
+      "url": "/dawah/3-gods",
       "tocpath": null,
       "title": "Christians worship 3 gods",
       "headers": [
@@ -838,7 +856,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/abusing-women/",
+      "url": "/dawah/abusing-women",
       "tocpath": null,
       "title": "The Bible promotes abuse of women",
       "headers": [
@@ -916,7 +934,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/bible-contradictions/",
+      "url": "/dawah/bible-contradictions",
       "tocpath": null,
       "title": "The Bible has contradictions",
       "headers": [
@@ -945,7 +963,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/bible-corrupted/",
+      "url": "/dawah/bible-corrupted",
       "tocpath": null,
       "title": "The Bible has been corrupted",
       "headers": [
@@ -989,7 +1007,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/christianity-spread-by-force/",
+      "url": "/dawah/christianity-spread-by-force",
       "tocpath": null,
       "title": "Christianity was spread by force",
       "headers": [
@@ -999,7 +1017,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/disciples-not-worshiping-jesus/",
+      "url": "/dawah/disciples-not-worshiping-jesus",
       "tocpath": null,
       "title": "Jesus’ disciples never believed he was divine",
       "headers": [
@@ -1009,7 +1027,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/fast-growth/",
+      "url": "/dawah/fast-growth",
       "tocpath": null,
       "title": "Fastest growing religion",
       "headers": [
@@ -1033,7 +1051,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/gospel-of-barnabas/",
+      "url": "/dawah/gospel-of-barnabas",
       "tocpath": null,
       "title": "Gospel of Barnabas",
       "headers": [
@@ -1043,7 +1061,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/jesus-never-claimed-to-be-god/",
+      "url": "/dawah/jesus-never-claimed-to-be-god",
       "tocpath": null,
       "title": "Jesus never claimed to be God",
       "headers": [
@@ -1092,7 +1110,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/jesus-not-crucified/",
+      "url": "/dawah/jesus-not-crucified",
       "tocpath": null,
       "title": "Jesus Not Crucified",
       "headers": [
@@ -1102,7 +1120,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/dawah/late-gospels/",
+      "url": "/dawah/late-gospels",
       "tocpath": null,
       "title": "The Gospels were written hundreds of years after Jesus",
       "headers": [
@@ -1112,7 +1130,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/nicaea-canon/",
+      "url": "/dawah/nicaea-canon",
       "tocpath": null,
       "title": "The Council of Nicaea chose the Biblical canon",
       "headers": [
@@ -1122,7 +1140,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/dawah/paul-invented-christianity/",
+      "url": "/dawah/paul-invented-christianity",
       "tocpath": null,
       "title": "Paul invented Christianity",
       "headers": [
@@ -1156,7 +1174,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/prophets-sinful/",
+      "url": "/dawah/prophets-sinful",
       "tocpath": null,
       "title": "The Bible portrays prophets committing terrible sins, proving it's corrupted",
       "headers": [
@@ -1195,7 +1213,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/trinity-invented-at-nicaea/",
+      "url": "/dawah/trinity-invented-at-nicaea",
       "tocpath": null,
       "title": "The Trinity is a later invention from the Council of Nicaea/by Constantine",
       "headers": [
@@ -1234,7 +1252,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/hexapla/",
+      "url": "/hexapla",
       "tocpath": null,
       "title": "Hexapla",
       "headers": [
@@ -1244,7 +1262,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/index-old/",
+      "url": "/index-old",
       "tocpath": null,
       "title": "Home",
       "headers": [
@@ -5943,7 +5961,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/2023-08-05-Were ancient Jews illiterate?/",
+      "url": "/studies/2023-08-05-Were ancient Jews illiterate?",
       "tocpath": null,
       "title": "Were ancient Jews illiterate?",
       "headers": [
@@ -5977,7 +5995,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/Delinquency-Drug-Use/",
+      "url": "/studies/Delinquency-Drug-Use",
       "tocpath": null,
       "title": "Religion, delinquency and drug use.",
       "headers": [
@@ -5991,7 +6009,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/Influence-on-Crime/",
+      "url": "/studies/Influence-on-Crime",
       "tocpath": null,
       "title": "Does Religion Suppress, Socialize, Soothe, or Support? Exploring Religiosity's Influence on Crime",
       "headers": [
@@ -6005,7 +6023,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/Religion-and-Completed-Suicide/",
+      "url": "/studies/Religion-and-Completed-Suicide",
       "tocpath": null,
       "title": "Religion and Completed Suicide",
       "headers": [
@@ -6019,7 +6037,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/Self-Regulation-Self-Control/",
+      "url": "/studies/Self-Regulation-Self-Control",
       "tocpath": null,
       "title": "Religion, Self-Regulation, and Self-Control: Associations, Explanations, and Implications",
       "headers": [
@@ -6033,7 +6051,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/five-factors/",
+      "url": "/studies/five-factors",
       "tocpath": null,
       "title": "Religion and the five factors of personality - A meta-analytic review",
       "headers": [
@@ -6047,7 +6065,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/jw-mental-health/",
+      "url": "/studies/jw-mental-health",
       "tocpath": null,
       "title": "The mental health of Jehovah's Witnesses",
       "headers": [
@@ -6061,7 +6079,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/physical-health-cancer-patients/",
+      "url": "/studies/physical-health-cancer-patients",
       "tocpath": null,
       "title": "Religion, spirituality, and physical health in cancer patients: A meta-analysis",
       "headers": [
@@ -6075,7 +6093,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/pro-environmental-behaviour/",
+      "url": "/studies/pro-environmental-behaviour",
       "tocpath": null,
       "title": "Does religion promote pro-environmental behaviour? A cross-country investigation",
       "headers": [
@@ -6085,7 +6103,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/religious-schools-do-better/",
+      "url": "/studies/religious-schools-do-better",
       "tocpath": null,
       "title": "The Effects of Catholic and Prostestant Schools",
       "headers": [
@@ -6099,7 +6117,7 @@
       "include_in_menu": false
     },
     {
-      "url": "/studies/spiritual-factors-depression/",
+      "url": "/studies/spiritual-factors-depression",
       "tocpath": null,
       "title": "Religious and spiritual factors in depression: review and integration of the research",
       "headers": [
@@ -7464,20 +7482,6 @@
       ],
       "file": "jw/Watchtower teachings.md",
       "include_in_menu": true
-    },
-    {
-      "url": "404.html",
-      "tocpath": null,
-      "title": "404: Page not found",
-      "headers": [
-        {
-          "level": 1,
-          "text": "404: You got lost",
-          "anchor": "404-you-got-lost"
-        }
-      ],
-      "file": "404.md",
-      "include_in_menu": false
     }
   ]
 }
