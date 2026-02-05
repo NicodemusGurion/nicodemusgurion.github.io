@@ -2,6 +2,7 @@
 layout: page
 title: Islam and Christianity worship the same God
 toc: true
+menu: true
 search: true
 permalink: /dawah/allah-vs-yahweh/
 ---

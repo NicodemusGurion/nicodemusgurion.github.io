@@ -2,6 +2,7 @@
 title: Rebekah was 3 years old when she married Isaac. 
 search: true
 toc: true
+menu: true
 ---
 
 **[< Index](/dawah/)**

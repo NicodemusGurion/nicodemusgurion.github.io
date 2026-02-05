@@ -2,6 +2,7 @@
 title: Christians worship 3 gods
 search: true
 toc: true
+menu: true
 ---
 
 **[< Index](/dawah/)**

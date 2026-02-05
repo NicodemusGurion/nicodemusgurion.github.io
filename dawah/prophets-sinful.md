@@ -1,6 +1,7 @@
 ---
 title: The Bible portrays prophets committing terrible sins, proving it's corrupted
 search: true
+menu: true
 toc: true
 ---
 

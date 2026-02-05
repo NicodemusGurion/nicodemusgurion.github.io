@@ -6,6 +6,7 @@ thumb: https://i.ibb.co/48LL3w0/7-Lf9-Geg1-o.jpg
 tocpath: /jw/nwt/
 permalink: /nwt/
 search: true
+menu: true
 toc: true
 ---
 

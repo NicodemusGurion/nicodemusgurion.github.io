@@ -2,6 +2,7 @@
 title: The Bible promotes abuse of women
 search: true
 toc: true
+menu: true
 ---
 
 **[< Index](/dawah/)**

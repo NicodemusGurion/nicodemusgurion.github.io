@@ -1,6 +1,7 @@
 ---
 title: Paul invented Christianity
 search: true
+menu: true
 toc: true
 ---
 

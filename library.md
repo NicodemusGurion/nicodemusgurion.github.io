@@ -3,6 +3,7 @@ title: Library
 permalink: /library/
 layout: page 
 toc: true
+menu: true
 ---
 
 Library of various academic articles.

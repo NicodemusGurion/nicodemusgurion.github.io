@@ -2,6 +2,7 @@
 layout: page
 title: "Jehovah's Witnesses"
 ￼search: true
+menu: true
 toc: true
 permalink: /jw/
 ---

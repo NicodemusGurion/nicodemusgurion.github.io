@@ -2,6 +2,7 @@
 title: Jesus’ disciples never believed he was divine
 search: true
 toc: true
+menu: true
 ---
 
 **[< Index](/dawah/)**

@@ -3,6 +3,7 @@ title: Other important persons
 permalink: /islam/vip/
 search: true
 toc: true
+menu: true
 ---
 
 # Jesus

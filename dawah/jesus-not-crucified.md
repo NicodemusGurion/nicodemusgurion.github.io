@@ -1,6 +1,7 @@
 ￼---
 title: "Jesus wasn't crucified"
 search: true
+menu: true
 toc: true
 ---
 

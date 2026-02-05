@@ -6,6 +6,7 @@ permalink: /jesus-deity/
 tocpath: /christianity/jesus-deity/
 search: true
 toc: true
+menu: true
 ---
 
 The trinity doctrine is nothing but a summary of what the Bible teaches about the being of God. It describes one God existing in three divine persons: God the Father, God the Son (Jesus Christ) and God the Holy Spirit, three distinct persons sharing one _homoousion_ (essence).

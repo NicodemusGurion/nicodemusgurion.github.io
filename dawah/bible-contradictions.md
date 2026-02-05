@@ -2,6 +2,7 @@
 title: The Bible has contradictions
 search: true
 toc: true
+menu: true
 ---
 
 **[< Index](/dawah/)**

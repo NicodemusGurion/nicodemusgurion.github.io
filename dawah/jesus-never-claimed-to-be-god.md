@@ -2,6 +2,7 @@
 title: Jesus never claimed to be God
 search: true
 toc: true
+menu: true
 ---
 
 **[< Index](/dawah/)**

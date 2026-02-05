@@ -4,13 +4,18 @@ require 'json'
 # Recursively build the sitemap HTML
 def build_menu_html(node, indent_level = 0)
   return '' if node.nil?
+  return '' unless node['include_in_menu']
   
   html = ''
   indent = '  ' * indent_level
   
   children = node['children'] || {}
   headers = node['headers'] || []
-  has_children = !children.empty?
+  
+  # Filter children to only those with include_in_menu
+  menu_children = children.select { |key, child| child['include_in_menu'] }
+  
+  has_children = !menu_children.empty?
   has_headers = !headers.empty?
   
   # If this node has children or headers, wrap in details
@@ -26,8 +31,8 @@ def build_menu_html(node, indent_level = 0)
     end
     
     # Then add child pages
-    children.keys.sort.each do |child_key|
-      child = children[child_key]
+    menu_children.keys.sort.each do |child_key|
+      child = menu_children[child_key]
       html << build_menu_html(child, indent_level + 3)
     end
     
@@ -57,14 +62,12 @@ def generate_sitemap_menu
   
   # Start building HTML
   html = <<~HTML
-    <!-- Auto-generated sitemap menu - DO NOT EDIT MANUALLY -->
-   
     <nav class="sitemap-menu">
       <ul>
   HTML
   
   # Add root page if it exists and has meaningful content
-  if hierarchy['url'] && hierarchy['url'] != '/'
+  if hierarchy['url'] && hierarchy['url'] != '/' && hierarchy['include_in_menu']
     html << "    <li><a href=\"#{hierarchy['url']}\">#{hierarchy['title']}</a></li>\n"
   end
   

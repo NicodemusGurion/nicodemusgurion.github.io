@@ -6,6 +6,7 @@ permalink: /trinity/
 tocpath: /christianity/trinity/
 search: true
 toc: true
+menu: true
 ---
 The Trinity Doctrine is probably the most misunderstood and attacked Christian doctrine though it is firmly rooted in the Bible and is really nothing but a summary of what the Bible teaches about the nature of God. This article explains key concepts and presents an extensive list of scriptures along with explanations that prove or support the trinity doctrine.
  

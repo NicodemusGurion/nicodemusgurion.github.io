@@ -2,6 +2,7 @@
 title: Fastest growing religion
 search: true
 toc: true
+menu: true
 ---
 
 **[< Index](/dawah/)**

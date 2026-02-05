@@ -4,6 +4,7 @@ title: Jesus is Jehovah
 permalink: /jesus-is-jehovah/
 tocpath: /christianity/jesus-is-jehovah/
 search: true
+menu: true
 toc: true
 ---
 In the New Testament, the Bible applies attributes and titles to Jesus that the Old Testament applies to Jehovah. Many of these are unique attributes and titles that only God could have. 

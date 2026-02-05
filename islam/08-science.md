@@ -3,6 +3,7 @@ title: Islam and Science
 permalink: /islam/science/
 search: true
 toc: true
+menu: true
 ---
 
 # Cosmology

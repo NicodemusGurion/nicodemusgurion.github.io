@@ -2,6 +2,7 @@
 title: Holy books
 permalink: /islam/holy-books/
 search: true
+menu: true
 toc: true
 ---
 

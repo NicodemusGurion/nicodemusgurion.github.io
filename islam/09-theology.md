@@ -2,6 +2,7 @@
 title: General Islamic Theology
 permalink: /islam/theology/
 search: true
+menu: true
 toc: true
 ---
 

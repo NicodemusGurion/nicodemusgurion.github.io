@@ -1,6 +1,7 @@
 ---
 title: Christianity was spread by force
 search: true
+menu: true
 toc: true
 ---
 

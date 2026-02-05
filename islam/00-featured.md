@@ -3,6 +3,7 @@ title: Featured verses
 permalink: /islam/featured/
 search: true
 toc: true
+menu: true
 ---
 
 

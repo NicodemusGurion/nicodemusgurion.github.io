@@ -1,6 +1,7 @@
 ---
 title: Gospel of Barnabas
 search: true
+menu: true
 toc: true
 ---
 
