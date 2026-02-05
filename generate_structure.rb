@@ -2,7 +2,7 @@
 require 'json'
 require 'yaml'
 
-# Parse markdown headers
+## Parse markdown headers
 def extract_headers(content)
   headers = []
   content.scan(/^(#{1,6})\s+(.+)$/) do |match|
@@ -23,6 +23,7 @@ def extract_headers(content)
   end
   headers
 end
+
 
 # Build hierarchical structure from flat list
 def build_hierarchy(pages)
