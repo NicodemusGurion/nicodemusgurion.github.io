@@ -2,10 +2,13 @@
 require 'json'
 require 'yaml'
 
-## Parse markdown headers
+# Parse markdown headers
 def extract_headers(content)
   headers = []
-  content.scan(/^(#{1,6})\s+(.+)$/) do |match|
+  # Define the pattern outside to avoid interpolation issues
+  header_pattern = /^(#{1,6})\s+(.+)$/
+  
+  content.scan(header_pattern) do |match|
     level = match[0].length
     text = match[1].strip
     # GitHub-style anchor generation
@@ -23,6 +26,7 @@ def extract_headers(content)
   end
   headers
 end
+
 
 
 # Build hierarchical structure from flat list
