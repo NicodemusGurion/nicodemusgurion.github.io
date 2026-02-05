@@ -325,9 +325,9 @@
             },
             "include_in_menu": true
           },
-          "rebekah-3": {
+          "rebekah": {
             "title": "Rebekah was 3 years old when she married Isaac.",
-            "url": "/dawah/rebekah-3/",
+            "url": "/dawah/rebekah/",
             "headers": [
               {
                 "level": 1,
@@ -1166,7 +1166,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/dawah/rebekah-3/",
+      "url": "/dawah/rebekah/",
       "tocpath": null,
       "title": "Rebekah was 3 years old when she married Isaac.",
       "headers": [
