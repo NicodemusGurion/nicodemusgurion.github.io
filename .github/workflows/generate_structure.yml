@@ -2,7 +2,7 @@ name: Generate Site Structure
 
 on:
   push:
-    branches: [main]
+    branches: [master]  # ← Change here
     paths-ignore:
       - '_data/site_structure.json'
 
@@ -35,4 +35,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
+          branch: master  # ← And here
