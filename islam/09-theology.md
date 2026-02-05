@@ -164,6 +164,59 @@ Even Umar recognized that kissing the black stone was a pointless act of idolatr
 
 The Islamic paradise is a very physical place where people will have sex, and eat food. But the food all tastes the same, and they will not poop, but belch out the excrement as musk.
 
+## Paradise is a brothel
+
+### Muslim men are rewarded with Houris {#houris}
+
+“Indeed, We have produced the women of Paradise in a [new] creation. And made them virgins, devoted [to their husbands] and of equal age.” (Quran 56:35-37)
+
+“Fair ones reserved in pavilions. Untouched before by any man or jinn.” (Quran 55:72-74)
+
+
+### Houris have large, round, firm, swelling breasts {#breasts}
+
+“Indeed, for the pious there is a triumph… full-breasted companions of equal age.” (Quran 78:31-33)
+
+The Arabic term kawa‘ib in 78:33 literally means “firm, swelling breasts.”
+
+### Houris have big eyes
+
+[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
+
+> ...their wives will be large-eyed maidens...
+
+
+Big, lustrous eyes:“They will have maidens with intensely white skin and large black eyes, as if they were hidden pearls.” (Quran 52:20)
+
+### Houris are hairless 
+
+Glowing, hairless, smooth skin:“If one of the women of paradise were to appear to the people of the earth, she would fill the space between heaven and earth with light and fragrance.” (Tirmidhi, 2538)
+
+“They will be hairless except for their eyebrows and eyelashes.” (Tirmidhi, 2536)
+
+### Houris don’t need to poop, pee, or sweat, they exist for one purpose: eternal male pleasure.
+
+“They will neither urinate, defecate, nor suffer from phlegm or mucus. Their sweat will be musk.” (Muslim, 2834)
+
+### Endless sex 
+
+The Prophet was asked, “O Messenger of Allah, do we have sexual intercourse in Paradise?” He replied: “Yes, by the One in Whose Hand is my soul, a man will have sexual intercourse with a hundred virgins in one morning.” (Ibn Majah, 4337)
+
+Men will be given the strength of 100 men in sexual performance. (Tirmidhi, 2536)
+
+“The believer will be given such and such strength in paradise for intercourse… A single intercourse with one of the virgins of paradise will last seventy thousand years.” (Al-Suyuti, Al-Haba’ik fi Akhbar al-Mala’ik)
+
+### 72 virgins
+
+“A martyr will have 72 virgins.” (Tirmidhi, 1663)
+
+“The lowest rank of a person in paradise will have 80,000 servants and 72 wives.” (Ibn Majah, 4337)
+
+[Mishkat al-Masabih 5648](https://sunnah.com/mishkat:
+
+> Abu Sa'id reported God's messenger as saying, "The lowliest of the inhabitants of paradise will be he who has eighty thousand servants, seventy-two wives,...
+
+
 ## All fruit looks the same in paradise {#boring-fruit}
 
 [Quran 2:25](https://quran.com/2/25)
@@ -179,17 +232,7 @@ Also:
 - [Riyad as-Salihin 1880](https://sunnah.com/riyadussalihin:1880)
 - [Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
 
-## Paradise dwellers will have 72 wives
 
-[Mishkat al-Masabih 5648](https://sunnah.com/mishkat:5648)
-
-> Abu Sa'id reported God's messenger as saying, "The lowliest of the inhabitants of paradise will be he who has eighty thousand servants, seventy-two wives,...
-
-## Paradise dwellers will have large-eyed houris {#houris}
-
-[Sahih Muslim 2834 c](https://sunnah.com/muslim:2834c)
-
-> ...their wives will be large-eyed maidens...
 
 ## Paradise dwellers will be about 30 years old 
 

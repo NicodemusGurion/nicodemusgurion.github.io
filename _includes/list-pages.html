@@ -5,9 +5,12 @@
 
 <a href="{{ p.url }}">{{ p.title }}</a>
 {%- assign lp_html = p.content | markdownify -%}
-{%- assign lp_page_toc = lp_html | split: '<div id="page_toc">' | last | split: '</div>' | first -%}
-{%- if lp_page_toc.size > 0 -%}
+{%- assign lp_page_toc = lp_html | split: '<div id="page_toc">' -%}
+{%- if lp_page_toc.size > 1 %}
+{%- assign lp_page_toc = lp_page_toc | last | split: '</div' | first -%}
+{%-   if lp_page_toc.size > 0 -%}
 {{ lp_page_toc }}
+{%-   endif -%}
 {%- endif -%}
 </li>
 {%   endif %}

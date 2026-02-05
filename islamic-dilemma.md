@@ -98,6 +98,34 @@ If the Gospel is corrupted, Allah is commanding me to judge by something unrelia
 
 No matter which option I choose, both obedience and disobedience to Surah 5:47 results in rejecting Islam.
 
+# Allah's dilemma {#allah}
+
+Surah 6:125 says:
+
+> Whoever Allah wills to guide, He opens their heart to Islam.1 But whoever He wills to leave astray, He makes their chest tight and constricted as if they were climbing up into the sky. This is how Allah dooms those who disbelieve.
+
+In short, it is Allah who decides who will and will not accept Islam.
+
+Surah 3:85 says:
+
+> Whoever seeks a way other than Islam,1 it will never be accepted from them, and in the Hereafter they will be among the losers.
+
+Here is is the person that chooses whether he will or will not accept Islam.
+
+If Allah wants to guide a person to Islam, He opens that person’s heart. If He wants a person to go astray, He constricts and closes his heart to Islam. Yet at the same time, the Qur’an warns people for choosing any religion other than Islam.
+
+This creates what can rightly be called Allah’s dilemma.
+
+**Either:**
+
+Allah alone determines guidance and misguidance, leaving human beings with no real choice — making divine warnings and punishment unjust;
+
+**Or:**
+
+Human beings genuinely choose their beliefs — meaning Allah’s claim of controlling guidance is merely rhetorical.
+
+Both options cannot be true at the same time, so at least one of them is false. And if one of them is false, then the Quran is false, and thus Islam is false.
+
 # The clear Quran dilemma {#clear-quran}
 
 The Quran claims to be clear and understandable, but that leads to the following dilemma:
