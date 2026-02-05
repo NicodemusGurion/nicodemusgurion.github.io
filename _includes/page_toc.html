@@ -7,11 +7,13 @@
 
 {%- comment -%} Find current page in the flat list {%- endcomment -%}
 {%- for page_data in site.data.site_structure.flat -%}
+{{ page_data.url }}<br>
   {%- if page_data.url == page.url -%}
     {%- assign current_page_data = page_data -%}
     {%- break -%}
   {%- endif -%}
 {%- endfor -%}
+Toc<br>
 
 {%- if current_page_data and current_page_data.headers.size > 0 -%}
 <details class="page-toc">
@@ -48,3 +50,4 @@
   </ul>
 </details>
 {%- endif -%}
+End toc

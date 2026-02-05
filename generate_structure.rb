@@ -11,8 +11,17 @@ def extract_headers(content)
     if line =~ /^(#+)\s+(.+)$/
       level = $1.length
       text = $2.strip
-      # GitHub-style anchor generation
-      anchor = text.downcase
+      
+      # Check for custom ID in format {#custom-id}
+      custom_id = nil
+      if text =~ /\{#([a-zA-Z0-9_-]+)\}\s*$/
+        custom_id = $1
+        # Remove the {#custom-id} part from the text
+        text = text.sub(/\s*\{#[a-zA-Z0-9_-]+\}\s*$/, '').strip
+      end
+      
+      # Use custom ID if provided, otherwise generate GitHub-style anchor
+      anchor = custom_id || text.downcase
         .gsub(/[^\w\s-]/, '')
         .gsub(/\s+/, '-')
         .gsub(/-+/, '-')
@@ -27,7 +36,6 @@ def extract_headers(content)
   end
   headers
 end
-
 
 
 
