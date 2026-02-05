@@ -43,12 +43,25 @@ def build_hierarchy(pages)
     'title' => 'Root',
     'url' => '/',
     'headers' => [],
-    'children' => {}
+    'children' => {},
+    'include_in_menu' => false
   }
   
   pages.each do |page|
-    # Use tocpath for hierarchy if defined, otherwise use URL
-    path_for_structure = page['tocpath'] || page['url']
+    # Use tocpath for hierarchy if defined, otherwise infer from file path
+    if page['tocpath']
+      path_for_structure = page['tocpath']
+    else
+      # Infer hierarchy from file path, not URL
+      # This way /topic/subtopic1.md gets organized under /topic/
+      file_path = page['file']
+      # Remove file extension
+      path_for_structure = file_path.sub(/\.(md|markdown|html)$/, '')
+      # Remove index from path for structure
+      path_for_structure = path_for_structure.sub(/\/index$/, '/')
+      # Ensure starts with /
+      path_for_structure = '/' + path_for_structure unless path_for_structure.start_with?('/')
+    end
     
     # Split path into segments
     segments = path_for_structure.split('/').reject(&:empty?)
@@ -67,30 +80,34 @@ def build_hierarchy(pages)
           'children' => {},
           'include_in_menu' => page['include_in_menu']
         }
-
       else
         # Intermediate segment - create if needed
-        current['children'][segment] ||= {
-          'title' => segment.split('-').map(&:capitalize).join(' '),
-          'url' => '/' + segments[0..index].join('/') + '/',
-          'headers' => [],
-          'children' => {}
-        }
+        unless current['children'][segment]
+          current['children'][segment] = {
+            'title' => segment.split('-').map(&:capitalize).join(' '),
+            'url' => '/' + segments[0..index].join('/') + '/',
+            'headers' => [],
+            'children' => {},
+            'include_in_menu' => false
+          }
+        end
         current = current['children'][segment]
       end
     end
   end
   
   # Handle root index page
-  root_page = pages.find { |p| (p['tocpath'] || p['url']) == '/' || (p['tocpath'] || p['url']) == '/index.html' }
+  root_page = pages.find { |p| p['file'] == 'index.md' || p['file'] == 'index.html' }
   if root_page
     root['title'] = root_page['title']
     root['headers'] = root_page['headers']
     root['url'] = root_page['url']
+    root['include_in_menu'] = root_page['include_in_menu']
   end
   
   root
 end
+
 
 # Main processing
 def generate_site_structure
@@ -115,15 +132,27 @@ def generate_site_structure
     # Skip if excluded
     next if front_matter['exclude_from_sitemap']
     
-    # Use permalink if specified, otherwise generate from file path
+    # Use permalink if specified, otherwise generate from file path matching Jekyll's logic
     if front_matter['permalink']
       url = front_matter['permalink']
+      # Ensure it starts with /
+      url = '/' + url unless url.start_with?('/')
     else
+      # Generate URL from file path, matching Jekyll's defaults
       url = file.sub(/\.(md|markdown|html)$/, '')
       url = '/' + url unless url.start_with?('/')
-      url += '/' unless url.end_with?('/') || url.end_with?('.html')
-      url.gsub!('/index/', '/')
+      
+      # Remove /index from the end (index.md becomes just the directory)
+      url = url.sub(/\/index$/, '/')
+      
+      # For non-index files, remove trailing slash that we might have added
+      # unless it's a directory-style URL
+      unless url.end_with?('/')
+        # Check if original file was index - if not, no trailing slash
+        url = url # already correct
+      end
     end
+
     
     # Get tocpath if specified (for hierarchical organization)
     tocpath = front_matter['tocpath']
