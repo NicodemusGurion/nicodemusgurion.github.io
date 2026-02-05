@@ -64,8 +64,10 @@ def build_hierarchy(pages)
           'title' => page['title'],
           'url' => page['url'],  # Use actual permalink for URL
           'headers' => page['headers'],
-          'children' => {}
+          'children' => {},
+          'include_in_menu' => page['include_in_menu']
         }
+
       else
         # Intermediate segment - create if needed
         current['children'][segment] ||= {
@@ -126,8 +128,11 @@ def generate_site_structure
     # Get tocpath if specified (for hierarchical organization)
     tocpath = front_matter['tocpath']
     
-    # Get title
+        # Get title
     title = front_matter['title'] || front_matter['name'] || File.basename(file, '.*').split('-').map(&:capitalize).join(' ')
+    
+    # Check if page should be in menu
+    include_in_menu = front_matter['menu'] == true
     
     # Extract headers
     headers = extract_headers(body)
@@ -137,7 +142,8 @@ def generate_site_structure
       'tocpath' => tocpath,
       'title' => title,
       'headers' => headers,
-      'file' => file
+      'file' => file,
+      'include_in_menu' => include_in_menu
     }
   end
   
