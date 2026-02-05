@@ -424,7 +424,7 @@
         ],
         "children": {
         },
-        "include_in_menu": false
+        "include_in_menu": true
       },
       "islamic-dilemma": {
         "title": "The Islamic Dilemma",
@@ -1261,7 +1261,7 @@
 
       ],
       "file": "islam/index.md",
-      "include_in_menu": false
+      "include_in_menu": true
     },
     {
       "url": "/islam/allah/",
