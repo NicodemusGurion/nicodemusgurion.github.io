@@ -8,14 +8,11 @@
     | markdownify -%}
 {%- assign lp_page_toc = lp_html 
     | split: 'div id="page_toc">' -%}
-Split: {{ lp_page_toc.size }}<br>
 {%- if lp_page_toc.size > 1 %}
 {%-   assign lp_page_toc = lp_page_toc 
       | last 
       | split: '/div' 
-      | first 
-      | remove: '&lt;' 
-      | remove: '&gt;' -%}
+      | first -%}
 {%-   if lp_page_toc.size > 0 -%}
 {{ lp_page_toc }}
 {%-   endif -%}
