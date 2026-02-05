@@ -37,8 +37,6 @@ def extract_headers(content)
   headers
 end
 
-
-
 # Build hierarchical structure from flat list
 def build_hierarchy(pages)
   root = {
@@ -49,8 +47,11 @@ def build_hierarchy(pages)
   }
   
   pages.each do |page|
-    # Split URL into segments
-    segments = page['url'].split('/').reject(&:empty?)
+    # Use tocpath for hierarchy if defined, otherwise use URL
+    path_for_structure = page['tocpath'] || page['url']
+    
+    # Split path into segments
+    segments = path_for_structure.split('/').reject(&:empty?)
     
     # Navigate/create the hierarchy
     current = root
@@ -61,7 +62,7 @@ def build_hierarchy(pages)
         # Last segment - this is the page itself
         current['children'][segment] = {
           'title' => page['title'],
-          'url' => page['url'],
+          'url' => page['url'],  # Use actual permalink for URL
           'headers' => page['headers'],
           'children' => {}
         }
@@ -79,10 +80,11 @@ def build_hierarchy(pages)
   end
   
   # Handle root index page
-  root_page = pages.find { |p| p['url'] == '/' || p['url'] == '/index.html' }
+  root_page = pages.find { |p| (p['tocpath'] || p['url']) == '/' || (p['tocpath'] || p['url']) == '/index.html' }
   if root_page
     root['title'] = root_page['title']
     root['headers'] = root_page['headers']
+    root['url'] = root_page['url']
   end
   
   root
@@ -95,7 +97,7 @@ def generate_site_structure
   # Find all markdown and HTML files
   Dir.glob('**/*.{md,markdown,html}').each do |file|
     # Skip files in certain directories
-    next if file.start_with?('_site/', '_data/', '_includes/', 'vendor/', 'node_modules/')
+    next if file.start_with?('_site/', '_data/', '_includes/', '_layouts/', 'vendor/', 'node_modules/')
     
     content = File.read(file)
     
@@ -111,11 +113,18 @@ def generate_site_structure
     # Skip if excluded
     next if front_matter['exclude_from_sitemap']
     
-    # Determine URL
-    url = file.sub(/\.(md|markdown|html)$/, '')
-    url = '/' + url unless url.start_with?('/')
-    url += '/' unless url.end_with?('/') || url.end_with?('.html')
-    url.gsub!('/index/', '/')
+    # Use permalink if specified, otherwise generate from file path
+    if front_matter['permalink']
+      url = front_matter['permalink']
+    else
+      url = file.sub(/\.(md|markdown|html)$/, '')
+      url = '/' + url unless url.start_with?('/')
+      url += '/' unless url.end_with?('/') || url.end_with?('.html')
+      url.gsub!('/index/', '/')
+    end
+    
+    # Get tocpath if specified (for hierarchical organization)
+    tocpath = front_matter['tocpath']
     
     # Get title
     title = front_matter['title'] || front_matter['name'] || File.basename(file, '.*').split('-').map(&:capitalize).join(' ')
@@ -125,6 +134,7 @@ def generate_site_structure
     
     pages << {
       'url' => url,
+      'tocpath' => tocpath,
       'title' => title,
       'headers' => headers,
       'file' => file
