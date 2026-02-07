@@ -5,7 +5,6 @@
 {%- endcomment -%}
 
 {%- assign current_page_data = nil -%}
-{%- assign current_node = nil -%}
 
 {%- comment -%} Find current page in the flat list {%- endcomment -%}
 {%- for page_data in site.data.site_structure.flat -%}
@@ -15,80 +14,71 @@
   {%- endif -%}
 {%- endfor -%}
 
-{%- comment -%} Now find this page in the hierarchy to get its children {%- endcomment -%}
+{%- comment -%} Find child pages by comparing file paths {%- endcomment -%}
 {%- if current_page_data -%}
-  {%- comment -%} Use tocpath if available, otherwise use URL {%- endcomment -%}
-  {%- if current_page_data.tocpath -%}
-    {%- assign path_to_find = current_page_data.tocpath -%}
-  {%- else -%}
-    {%- assign path_to_find = current_page_data.url -%}
-  {%- endif -%}
+  {%- comment -%} Get the directory of the current page {%- endcomment -%}
+  {%- assign my_dir = current_page_data.file | split: '/' | pop | join: '/' | append: '/' -%}
   
-  {%- comment -%} Navigate the hierarchy to find this node {%- endcomment -%}
-  {%- assign segments = path_to_find | split: '/' | compact -%}
-  {%- assign current_node = site.data.site_structure.hierarchy -%}
+  {%- assign child_pages = '' | split: '' -%}
   
-  {%- for segment in segments -%}
-    {%- if segment != '' -%}
-      {%- assign current_node = current_node.children[segment] -%}
-      {%- if current_node == nil -%}
-        {%- break -%}
-      {%- endif -%}
+  {%- for page_data in site.data.site_structure.flat -%}
+    {%- comment -%} Skip self {%- endcomment -%}
+    {%- if page_data.url == page.url -%}
+      {%- continue -%}
+    {%- endif -%}
+    
+    {%- comment -%} Check if file is in the same directory {%- endcomment -%}
+    {%- assign page_dir = page_data.file | split: '/' | pop | join: '/' | append: '/' -%}
+    
+    {%- if page_dir == my_dir and page_data.include_in_menu -%}
+      {%- assign child_pages = child_pages | push: page_data -%}
     {%- endif -%}
   {%- endfor -%}
-{%- endif -%}
-
-{%- comment -%} Render child pages if they exist {%- endcomment -%}
-{%- if current_node and current_node.children.size > 0 -%}
+  
+  {%- if child_pages.size > 0 -%}
 <nav class="child-pages-toc">
   <h2>Pages in this section</h2>
   <ul>
-    {%- assign sorted_children = current_node.children | sort -%}
-    {%- for child_item in sorted_children -%}
-      {%- assign child = child_item[1] -%}
-      {%- if child.include_in_menu -%}
-        <li>
-          <a href="{{ child.url }}">{{ child.title }}</a>
+    {%- for child in child_pages -%}
+      <li>
+        <a href="{{ child.url }}">{{ child.title }}</a>
+        
+        {%- if child.headers.size > 0 -%}
+          {%- assign top_headers = '' | split: '' -%}
+          {%- assign deep_headers = '' | split: '' -%}
           
-          {%- if child.headers.size > 0 -%}
-            {%- comment -%} Separate headers into top-level and deeper levels {%- endcomment -%}
-            {%- assign top_headers = '' | split: '' -%}
-            {%- assign deep_headers = '' | split: '' -%}
-            
-            {%- for header in child.headers -%}
-              {%- if header.level == 2 -%}
-                {%- assign top_headers = top_headers | push: header -%}
-              {%- else -%}
-                {%- assign deep_headers = deep_headers | push: header -%}
-              {%- endif -%}
-            {%- endfor -%}
-            
-            {%- if top_headers.size > 0 or deep_headers.size > 0 -%}
-              <ul>
-                {%- comment -%} Show top-level headers directly {%- endcomment -%}
-                {%- for header in top_headers -%}
-                  <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
-                {%- endfor -%}
-                
-                {%- comment -%} Show deeper headers in collapsible details {%- endcomment -%}
-                {%- if deep_headers.size > 0 -%}
-                  <li>
-                    <details>
-                      <summary>More sections...</summary>
-                      <ul>
-                        {%- for header in deep_headers -%}
-                          <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
-                        {%- endfor -%}
-                      </ul>
-                    </details>
-                  </li>
-                {%- endif -%}
-              </ul>
+          {%- for header in child.headers -%}
+            {%- if header.level == 2 -%}
+              {%- assign top_headers = top_headers | push: header -%}
+            {%- else -%}
+              {%- assign deep_headers = deep_headers | push: header -%}
             {%- endif -%}
+          {%- endfor -%}
+          
+          {%- if top_headers.size > 0 or deep_headers.size > 0 -%}
+            <ul>
+              {%- for header in top_headers -%}
+                <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
+              {%- endfor -%}
+              
+              {%- if deep_headers.size > 0 -%}
+                <li>
+                  <details>
+                    <summary>More sections...</summary>
+                    <ul>
+                      {%- for header in deep_headers -%}
+                        <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
+                      {%- endfor -%}
+                    </ul>
+                  </details>
+                </li>
+              {%- endif -%}
+            </ul>
           {%- endif -%}
-        </li>
-      {%- endif -%}
+        {%- endif -%}
+      </li>
     {%- endfor -%}
   </ul>
 </nav>
+  {%- endif -%}
 {%- endif -%}
