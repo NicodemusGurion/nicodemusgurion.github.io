@@ -48,23 +48,14 @@ def build_hierarchy(pages)
   }
   
   pages.each do |page|
-    # Use tocpath for hierarchy if defined, otherwise infer from file path
-    if page['tocpath']
-      path_for_structure = page['tocpath']
-    else
-      # Infer hierarchy from file path, not URL
-      # This way /topic/subtopic1.md gets organized under /topic/
-      file_path = page['file']
-      # Remove file extension
-      path_for_structure = file_path.sub(/\.(md|markdown|html)$/, '')
-      # Remove index from path for structure
-      path_for_structure = path_for_structure.sub(/\/index$/, '/')
-      # Ensure starts with /
-      path_for_structure = '/' + path_for_structure unless path_for_structure.start_with?('/')
-    end
+    # Use tocpath if defined, otherwise use the actual URL for hierarchy
+    path_for_structure = page['tocpath'] || page['url']
     
     # Split path into segments
     segments = path_for_structure.split('/').reject(&:empty?)
+    
+    # Skip if no segments (root page)
+    next if segments.empty?
     
     # Navigate/create the hierarchy
     current = root
@@ -75,13 +66,13 @@ def build_hierarchy(pages)
         # Last segment - this is the page itself
         current['children'][segment] = {
           'title' => page['title'],
-          'url' => page['url'],  # Use actual permalink for URL
+          'url' => page['url'],
           'headers' => page['headers'],
           'children' => {},
           'include_in_menu' => page['include_in_menu']
         }
       else
-        # Intermediate segment - create if needed
+        # Intermediate segment - create if doesn't exist
         unless current['children'][segment]
           current['children'][segment] = {
             'title' => segment.split('-').map(&:capitalize).join(' '),
@@ -95,6 +86,19 @@ def build_hierarchy(pages)
       end
     end
   end
+  
+  # Handle root index page
+  root_page = pages.find { |p| p['url'] == '/' }
+  if root_page
+    root['title'] = root_page['title']
+    root['headers'] = root_page['headers']
+    root['url'] = root_page['url']
+    root['include_in_menu'] = root_page['include_in_menu']
+  end
+  
+  root
+end
+
   
   # Handle root index page
   root_page = pages.find { |p| p['file'] == 'index.md' || p['file'] == 'index.html' }
