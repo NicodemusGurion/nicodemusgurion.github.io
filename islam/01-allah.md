@@ -1,6 +1,5 @@
 ---
 title: Allah
-permalink: /islam/allah/
 search: true
 menu: true
 toc: true

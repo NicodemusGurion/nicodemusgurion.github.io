@@ -1,4 +1,7 @@
 ---
+layout: page
+menu: true
+toc: true
 title: Atheism is incompatible with science
 image: https://i.ibb.co/L9hL0vg/IMG-1890.jpg
 thumb: https://i.ibb.co/1RJD0bX/IMG-1890.jpg

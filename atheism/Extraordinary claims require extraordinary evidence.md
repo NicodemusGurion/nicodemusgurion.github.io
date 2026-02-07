@@ -1,6 +1,7 @@
 ---
 title: Extraordinary claims require extraordinary evidence
-tags: [Criticism, Scepticism, Apologetics]
+layout: page
+menu: true
 thumb: https://i.ibb.co/d0GKSTn/3-ED4-DAF1-A323-4-DE0-932-F-640-F7-FEAE3-FE.jpg
 image: https://i.ibb.co/Fnf1Z7W/6-EAEADA0-723-B-4-C57-9-BD6-CC8-EE748-D83-E.jpg
 ---
