@@ -397,7 +397,11 @@
         "title": "Jehovah's Witnesses",
         "url": "/jw/",
         "headers": [
-
+          {
+            "level": 1,
+            "text": "test",
+            "anchor": "test"
+          }
         ],
         "children": {
         },
@@ -4281,7 +4285,11 @@
       "tocpath": null,
       "title": "Jehovah's Witnesses",
       "headers": [
-
+        {
+          "level": 1,
+          "text": "test",
+          "anchor": "test"
+        }
       ],
       "file": "jw/index.md",
       "include_in_menu": true
