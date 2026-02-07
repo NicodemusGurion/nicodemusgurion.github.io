@@ -24,27 +24,29 @@
       {%- comment -%} Close lists if going back up levels {%- endcomment -%}
       {%- if level < prev_level -%}
         {%- assign level_diff = prev_level | minus: level -%}
-        {%- for i in (1..level_diff) -%}</ul></li>{%- endfor -%}
-      {%- endif -%}
-      
-      {%- comment -%} Open new nested list if going deeper {%- endcomment -%}
-      {%- if level > prev_level -%}
-        {%- assign level_diff = level | minus: prev_level -%}
-        {%- for i in (1..level_diff) -%}<li><ul>{%- endfor -%}
+        {%- for i in (1..level_diff) -%}</ul>{%- endfor -%}
       {%- endif -%}
       
       {%- comment -%} Close previous item if at same level {%- endcomment -%}
       {%- if level == prev_level and forloop.index > 1 -%}</li>{%- endif -%}
       
+      {%- comment -%} Open new nested list if going deeper (inside parent li) {%- endcomment -%}
+      {%- if level > prev_level -%}
+        {%- assign level_diff = level | minus: prev_level -%}
+        {%- for i in (1..level_diff) -%}<ul>{%- endfor -%}
+      {%- endif -%}
+      
       <li><a href="#{{ header.anchor }}">{{ header.text }}</a>
       
       {%- assign prev_level = level -%}
+      
+      {%- comment -%} Close last item's li tag if this is the last iteration {%- endcomment -%}
+      {%- if forloop.last -%}
+        </li>
+        {%- assign close_count = prev_level | minus: 2 -%}
+        {%- for i in (1..close_count) -%}</ul>{%- endfor -%}
+      {%- endif -%}
     {%- endfor -%}
-    
-    {%- comment -%} Close remaining open tags {%- endcomment -%}
-    </li>
-    {%- assign close_count = prev_level | minus: 2 -%}
-    {%- for i in (1..close_count) -%}</ul></li>{%- endfor -%}
   </ul>
 </details>
 {%- endif -%}
