@@ -57,77 +57,8 @@
 
         ],
         "children": {
-          "Atheism is incompatible with science": {
-            "title": "Atheism is incompatible with science",
-            "url": "/atheism/Atheism is incompatible with science",
-            "headers": [
-              {
-                "level": 1,
-                "text": "Uniformity of nature",
-                "anchor": "uniformity-of-nature"
-              },
-              {
-                "level": 1,
-                "text": "Laws of logic",
-                "anchor": "laws-of-logic"
-              },
-              {
-                "level": 1,
-                "text": "Accurate sense data",
-                "anchor": "accurate-sense-data"
-              },
-              {
-                "level": 1,
-                "text": "Ability to reason",
-                "anchor": "ability-to-reason"
-              },
-              {
-                "level": 1,
-                "text": "Other assumptions",
-                "anchor": "other-assumptions"
-              },
-              {
-                "level": 1,
-                "text": "Why atheism is not compatible with belief in “uniformity of nature”",
-                "anchor": "why-atheism-is-not-compatible-with-belief-in-uniformity-of-nature"
-              },
-              {
-                "level": 1,
-                "text": "Why atheism is not compatible with belief in the “laws of logic”",
-                "anchor": "why-atheism-is-not-compatible-with-belief-in-the-laws-of-logic"
-              },
-              {
-                "level": 1,
-                "text": "Why atheism is not compatible with the belief that humans have accurate sense data",
-                "anchor": "why-atheism-is-not-compatible-with-the-belief-that-humans-have-accurate-sense-data"
-              },
-              {
-                "level": 1,
-                "text": "Why atheism is not compatible with the belief that humans have the ability to soundly reason",
-                "anchor": "why-atheism-is-not-compatible-with-the-belief-that-humans-have-the-ability-to-soundly-reason"
-              },
-              {
-                "level": 1,
-                "text": "Conclusion",
-                "anchor": "conclusion"
-              }
-            ],
-            "children": {
-            },
-            "include_in_menu": false
-          },
-          "Extraordinary claims require extraordinary evidence": {
-            "title": "Extraordinary claims require extraordinary evidence",
-            "url": "/atheism/Extraordinary claims require extraordinary evidence",
-            "headers": [
-
-            ],
-            "children": {
-            },
-            "include_in_menu": false
-          }
         },
-        "include_in_menu": false
+        "include_in_menu": true
       },
       "christianity": {
         "title": "Christianity",
@@ -702,6 +633,16 @@
       ],
       "file": "al-zutt.md",
       "include_in_menu": false
+    },
+    {
+      "url": "/atheism/",
+      "tocpath": null,
+      "title": "Atheism",
+      "headers": [
+
+      ],
+      "file": "atheism/index.md",
+      "include_in_menu": true
     },
     {
       "url": "/atheism/Atheism is incompatible with science",
