@@ -709,7 +709,7 @@
         }
       ],
       "file": "atheism/Atheism is incompatible with science.md",
-      "include_in_menu": false
+      "include_in_menu": true
     },
     {
       "url": "/atheism/Extraordinary claims require extraordinary evidence",
@@ -719,7 +719,7 @@
 
       ],
       "file": "atheism/Extraordinary claims require extraordinary evidence.md",
-      "include_in_menu": false
+      "include_in_menu": true
     },
     {
       "url": "/christianity/",
@@ -1235,7 +1235,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/allah/",
+      "url": "/islam/01-allah",
       "tocpath": null,
       "title": "Allah",
       "headers": [
