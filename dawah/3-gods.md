@@ -3,6 +3,7 @@ title: Christians worship 3 gods
 search: true
 toc: true
 menu: true
+permalink: /dawah/3-gods
 ---
 
 

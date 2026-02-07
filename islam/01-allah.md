@@ -4,7 +4,7 @@ search: true
 menu: true
 toc: true
 image: https://i.ibb.co/XrFM6tWw/IMG-0275.jpg
-Foo: bar
+permalink: /islam/allah
 ---
 
 

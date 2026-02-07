@@ -1,6 +1,6 @@
 ---
 title: Obvious fraud
-permalink: /islam/fraud/
+permalink: /islam/fraud
 search: true
 toc: true
 menu: true

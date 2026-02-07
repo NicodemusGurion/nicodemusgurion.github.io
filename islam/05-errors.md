@@ -1,6 +1,6 @@
 ---
 title: Errors and contradictions
-permalink: /islam/errors/
+permalink: /islam/errors
 search: true
 toc: true
 menu: true

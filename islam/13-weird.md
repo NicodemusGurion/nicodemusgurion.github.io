@@ -1,6 +1,6 @@
 ---
 title: Weird stuff
-permalink: /islam/weird/
+permalink: /islam/weird
 search: true
 menu: true
 toc: true

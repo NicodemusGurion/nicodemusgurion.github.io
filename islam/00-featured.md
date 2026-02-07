@@ -1,6 +1,6 @@
 ---
 title: Featured verses 
-permalink: /islam/featured/
+permalink: /islam/featured
 search: true
 toc: true
 menu: true

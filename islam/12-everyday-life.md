@@ -1,6 +1,6 @@
 ---
 title: Everyday life as a muslim
-permalink: /islam/life/
+permalink: /islam/life
 search: true
 toc: true
 menu: true

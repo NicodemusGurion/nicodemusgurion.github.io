@@ -5,6 +5,7 @@ toc: true
 title: Atheism is incompatible with science
 image: https://i.ibb.co/L9hL0vg/IMG-1890.jpg
 thumb: https://i.ibb.co/1RJD0bX/IMG-1890.jpg
+permalink: /atheism/unscientific
 ---
 
 [Adapted with permission from this X-thread by Daniel (@darwintojesus).](https://twitter.com/darwintojesus/status/1748485972545683962)

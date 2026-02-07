@@ -1,6 +1,6 @@
 ---
 title: Other important persons
-permalink: /islam/vip/
+permalink: /islam/vip
 search: true
 toc: true
 menu: true

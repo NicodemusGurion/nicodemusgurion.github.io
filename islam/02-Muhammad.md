@@ -1,6 +1,6 @@
 ---
 title: Muhammad 
-permalink: /islam/muhammad/
+permalink: /islam/muhammad
 search: true
 menu: true
 toc: true
