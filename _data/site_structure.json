@@ -358,7 +358,11 @@
         "title": "Teachings of Islam",
         "url": "/islam/",
         "headers": [
-
+          {
+            "level": 1,
+            "text": "test header",
+            "anchor": "test-header"
+          }
         ],
         "children": {
         },
@@ -1221,7 +1225,11 @@
       "tocpath": null,
       "title": "Teachings of Islam",
       "headers": [
-
+        {
+          "level": 1,
+          "text": "test header",
+          "anchor": "test-header"
+        }
       ],
       "file": "islam/index.md",
       "include_in_menu": true
