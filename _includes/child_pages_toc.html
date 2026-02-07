@@ -1,7 +1,7 @@
 {%- comment -%}
   Child Pages TOC
   Shows all child pages under the current page with their headers
-  Top-level headers shown, deeper headers in collapsible details
+  Uses tocpath for hierarchy, URL for links
 {%- endcomment -%}
 
 {%- assign current_page_data = nil -%}
@@ -14,10 +14,20 @@
   {%- endif -%}
 {%- endfor -%}
 
-{%- comment -%} Find child pages by comparing file paths {%- endcomment -%}
+{%- comment -%} Find child pages based on URL/tocpath hierarchy {%- endcomment -%}
 {%- if current_page_data -%}
-  {%- comment -%} Get the directory of the current page {%- endcomment -%}
-  {%- assign my_dir = current_page_data.file | split: '/' | pop | join: '/' | append: '/' -%}
+  {%- comment -%} Determine the path to use for finding children {%- endcomment -%}
+  {%- assign my_path = current_page_data.tocpath | default: current_page_data.url -%}
+  
+  {%- comment -%} Normalize path - ensure ends with / {%- endcomment -%}
+  {%- unless my_path contains '/' -%}
+    {%- assign my_path = my_path | append: '/' -%}
+  {%- endunless -%}
+  {%- unless my_path == '/' -%}
+    {%- unless my_path contains '/' at -1 -%}
+      {%- assign my_path = my_path | append: '/' -%}
+    {%- endunless -%}
+  {%- endunless -%}
   
   {%- assign child_pages = '' | split: '' -%}
   
@@ -27,11 +37,19 @@
       {%- continue -%}
     {%- endif -%}
     
-    {%- comment -%} Check if file is in the same directory {%- endcomment -%}
-    {%- assign page_dir = page_data.file | split: '/' | pop | join: '/' | append: '/' -%}
+    {%- comment -%} Get the page's organizational path {%- endcomment -%}
+    {%- assign page_path = page_data.tocpath | default: page_data.url -%}
     
-    {%- if page_dir == my_dir and page_data.include_in_menu -%}
-      {%- assign child_pages = child_pages | push: page_data -%}
+    {%- comment -%} Check if this page is a direct child {%- endcomment -%}
+    {%- if page_path contains my_path -%}
+      {%- comment -%} Remove parent path to see what's left {%- endcomment -%}
+      {%- assign remainder = page_path | remove_first: my_path -%}
+      
+      {%- comment -%} Count slashes - if 0 or 1, it's a direct child {%- endcomment -%}
+      {%- assign slash_count = remainder | split: '/' | size -%}
+      {%- if slash_count <= 2 and page_data.include_in_menu -%}
+        {%- assign child_pages = child_pages | push: page_data -%}
+      {%- endif -%}
     {%- endif -%}
   {%- endfor -%}
   
