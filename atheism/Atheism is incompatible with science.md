@@ -1,9 +1,7 @@
 ---
 title: Atheism is incompatible with science
-tags: [Atheism, Science]
 image: https://i.ibb.co/L9hL0vg/IMG-1890.jpg
 thumb: https://i.ibb.co/1RJD0bX/IMG-1890.jpg
-excerpt: The vast majority of atheists have no idea whatsoever that science is based on assumptions. But doing science actually assumes theistic beliefs, not atheist beliefs, so when atheists do science they are actually stealing from theism. Within their atheism they have no justification for doing science. 
 ---
 
 [Adapted with permission from this X-thread by Daniel (@darwintojesus).](https://twitter.com/darwintojesus/status/1748485972545683962)

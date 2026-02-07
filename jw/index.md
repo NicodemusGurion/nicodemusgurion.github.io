@@ -10,3 +10,5 @@ permalink: /jw/
 
 - [Changes in the New World Translation](/jw/nwt/)
 - [List of Watchtower teachings](/jw/watchtower/)
+
+# test
