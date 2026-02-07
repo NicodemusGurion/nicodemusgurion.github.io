@@ -653,7 +653,17 @@
       "include_in_menu": true
     },
     {
-      "url": "/atheism/Atheism is incompatible with science",
+      "url": "/atheism/evidence",
+      "tocpath": null,
+      "title": "Extraordinary claims require extraordinary evidence",
+      "headers": [
+
+      ],
+      "file": "atheism/Extraordinary claims require extraordinary evidence.md",
+      "include_in_menu": true
+    },
+    {
+      "url": "/atheism/unscientific",
       "tocpath": null,
       "title": "Atheism is incompatible with science",
       "headers": [
@@ -709,16 +719,6 @@
         }
       ],
       "file": "atheism/Atheism is incompatible with science.md",
-      "include_in_menu": true
-    },
-    {
-      "url": "/atheism/Extraordinary claims require extraordinary evidence",
-      "tocpath": null,
-      "title": "Extraordinary claims require extraordinary evidence",
-      "headers": [
-
-      ],
-      "file": "atheism/Extraordinary claims require extraordinary evidence.md",
       "include_in_menu": true
     },
     {
@@ -1235,7 +1235,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/01-allah",
+      "url": "/islam/allah",
       "tocpath": null,
       "title": "Allah",
       "headers": [
@@ -1549,7 +1549,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/errors/",
+      "url": "/islam/errors",
       "tocpath": null,
       "title": "Errors and contradictions",
       "headers": [
@@ -1743,7 +1743,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/featured/",
+      "url": "/islam/featured",
       "tocpath": null,
       "title": "Featured verses",
       "headers": [
@@ -1767,7 +1767,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/fraud/",
+      "url": "/islam/fraud",
       "tocpath": null,
       "title": "Obvious fraud",
       "headers": [
@@ -1851,7 +1851,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/holy-books/",
+      "url": "/islam/holy-books",
       "tocpath": null,
       "title": "Holy books",
       "headers": [
@@ -2015,7 +2015,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/life/",
+      "url": "/islam/life",
       "tocpath": null,
       "title": "Everyday life as a muslim",
       "headers": [
@@ -2099,7 +2099,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/morals/",
+      "url": "/islam/morals",
       "tocpath": null,
       "title": "Islam's morality",
       "headers": [
@@ -2443,7 +2443,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/muhammad/",
+      "url": "/islam/muhammad",
       "tocpath": null,
       "title": "Muhammad",
       "headers": [
@@ -3087,7 +3087,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/religions/",
+      "url": "/islam/religions",
       "tocpath": null,
       "title": "Islam's view on religions",
       "headers": [
@@ -3276,7 +3276,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/science/",
+      "url": "/islam/science",
       "tocpath": null,
       "title": "Islam and Science",
       "headers": [
@@ -3445,7 +3445,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/theology/",
+      "url": "/islam/theology",
       "tocpath": null,
       "title": "General Islamic Theology",
       "headers": [
@@ -3784,7 +3784,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/vip/",
+      "url": "/islam/vip",
       "tocpath": null,
       "title": "Other important persons",
       "headers": [
@@ -3913,7 +3913,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/weird/",
+      "url": "/islam/weird",
       "tocpath": null,
       "title": "Weird stuff",
       "headers": [
@@ -3972,7 +3972,7 @@
       "include_in_menu": true
     },
     {
-      "url": "/islam/women/",
+      "url": "/islam/women",
       "tocpath": null,
       "title": "Islam's view of women",
       "headers": [
