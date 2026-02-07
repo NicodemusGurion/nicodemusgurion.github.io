@@ -8,4 +8,4 @@ menu: true
 
 <h1>Table of Contents</h1>
 
-{% include list-pages.html %}
+{% include child_pages_toc.html %}
