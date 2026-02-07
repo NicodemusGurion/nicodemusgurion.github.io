@@ -7,6 +7,7 @@ menu: true
 permalink: /islam/
 ---
 
-<h1>Table of Contents</h1>
-
 {% include child_pages_toc.html %}
+
+
+# test header
