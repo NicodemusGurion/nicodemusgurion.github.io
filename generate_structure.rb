@@ -37,6 +37,7 @@ def extract_headers(content)
   headers
 end
 
+
 # Build hierarchical structure from flat list
 def build_hierarchy(pages)
   root = {
@@ -99,18 +100,7 @@ def build_hierarchy(pages)
   root
 end
 
-  
-  # Handle root index page
-  root_page = pages.find { |p| p['file'] == 'index.md' || p['file'] == 'index.html' }
-  if root_page
-    root['title'] = root_page['title']
-    root['headers'] = root_page['headers']
-    root['url'] = root_page['url']
-    root['include_in_menu'] = root_page['include_in_menu']
-  end
-  
-  root
-end
+          
 
 
 # Main processing
