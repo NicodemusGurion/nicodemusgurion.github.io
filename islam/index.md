@@ -8,6 +8,3 @@ permalink: /islam/
 ---
 
 {% include child_pages_toc.html %}
-
-
-# test header
