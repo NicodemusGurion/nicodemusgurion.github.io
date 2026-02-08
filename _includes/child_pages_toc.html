@@ -51,33 +51,24 @@ Display table of contents for child pages of the current page
   <h2>Child Pages</h2>
   <ul>
     {% for child in children %}
-    <li>
-      <a href="{{ child.url }}">{{ child.title }}</a>
       {% if child.headers.size > 0 %}
-        {% comment %}Separate top-level (h2) from deeper headers{% endcomment %}
-        {% assign top_headers = child.headers | where: "level", 2 %}
-        {% assign deeper_headers = child.headers | where_exp: "h", "h.level > 2" %}
-        
-        {% if top_headers.size > 0 %}
-          <ul>
-            {% for header in top_headers %}
-              <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
-            {% endfor %}
-          </ul>
-        {% endif %}
-        
-        {% if deeper_headers.size > 0 %}
-          <details>
-            <summary>More sections...</summary>
+        <li>
+          {% if forloop.first %}
+            <details open>
+          {% else %}
+            <details>
+          {% endif %}
+            <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
             <ul>
-              {% for header in deeper_headers %}
+              {% for header in child.headers %}
                 <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
               {% endfor %}
             </ul>
           </details>
-        {% endif %}
+        </li>
+      {% else %}
+        <li><a href="{{ child.url }}">{{ child.title }}</a></li>
       {% endif %}
-    </li>
     {% endfor %}
   </ul>
 </nav>
