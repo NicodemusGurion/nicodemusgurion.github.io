@@ -1745,11 +1745,7 @@
         "title": "Teachings of Islam",
         "url": "/islam/",
         "headers": [
-          {
-            "level": 1,
-            "text": "test header",
-            "anchor": "test-header"
-          }
+
         ],
         "children": {
           "featured": {
@@ -4694,11 +4690,7 @@
         "title": "Jehovah's Witnesses",
         "url": "/jw/",
         "headers": [
-          {
-            "level": 1,
-            "text": "test",
-            "anchor": "test"
-          }
+
         ],
         "children": {
           "nwt": {
@@ -7489,11 +7481,7 @@
       "tocpath": null,
       "title": "Teachings of Islam",
       "headers": [
-        {
-          "level": 1,
-          "text": "test header",
-          "anchor": "test-header"
-        }
+
       ],
       "file": "islam/index.md",
       "include_in_menu": true
@@ -10557,11 +10545,7 @@
       "tocpath": null,
       "title": "Jehovah's Witnesses",
       "headers": [
-        {
-          "level": 1,
-          "text": "test",
-          "anchor": "test"
-        }
+
       ],
       "file": "jw/index.md",
       "include_in_menu": true
