@@ -52,10 +52,13 @@ def build_hierarchy(pages)
     # Use tocpath if defined, otherwise use the actual URL for hierarchy
     path_for_structure = page['tocpath'] || page['url']
     
-    # Split path into segments
+    # Normalize: remove trailing slash for splitting (except root "/")
+    path_for_structure = path_for_structure.chomp('/') unless path_for_structure == '/'
+    
+    # Split path into segments, removing empty strings
     segments = path_for_structure.split('/').reject(&:empty?)
     
-    # Skip if no segments (root page)
+    # Skip root page, handle it separately
     next if segments.empty?
     
     # Navigate/create the hierarchy
@@ -64,17 +67,28 @@ def build_hierarchy(pages)
       current['children'] ||= {}
       
       if index == segments.length - 1
-        # Last segment - this is the page itself
-        current['children'][segment] = {
-          'title' => page['title'],
-          'url' => page['url'],
-          'headers' => page['headers'],
-          'children' => {},
-          'include_in_menu' => page['include_in_menu']
-        }
+        # Last segment - this is the actual page
+        # Check if this node already exists (from an index page)
+        if current['children'][segment]
+          # Node exists - update it with page data
+          current['children'][segment]['title'] = page['title']
+          current['children'][segment]['url'] = page['url']
+          current['children'][segment]['headers'] = page['headers']
+          current['children'][segment]['include_in_menu'] = page['include_in_menu']
+        else
+          # Create new node
+          current['children'][segment] = {
+            'title' => page['title'],
+            'url' => page['url'],
+            'headers' => page['headers'],
+            'children' => {},
+            'include_in_menu' => page['include_in_menu']
+          }
+        end
       else
-        # Intermediate segment - create if doesn't exist
+        # Intermediate segment - ensure node exists
         unless current['children'][segment]
+          # Create placeholder node
           current['children'][segment] = {
             'title' => segment.split('-').map(&:capitalize).join(' '),
             'url' => '/' + segments[0..index].join('/') + '/',
@@ -93,14 +107,11 @@ def build_hierarchy(pages)
   if root_page
     root['title'] = root_page['title']
     root['headers'] = root_page['headers']
-    root['url'] = root_page['url']
     root['include_in_menu'] = root_page['include_in_menu']
   end
   
   root
 end
-
-          
 
 
 # Main processing
