@@ -11,13 +11,15 @@ def generate_html(node, level = 0)
   # Generate link for this node (skip root)
   if node['url'] != '/'
     indent = "  " * level
-    has_children = node['children'] && node['children'].length > 0
+    
+    # Check if children should be excluded
+    should_show_children = !node['exclude_children'] && node['children'] && node['children'].length > 0
     has_headers = node['headers'] && node['headers'].length > 0
     
     html += "#{indent}<li>\n"
     
     # If there are children or headers, wrap in details/summary
-    if has_children || has_headers
+    if should_show_children || has_headers
       html += "#{indent}  <details>\n"
       html += "#{indent}    <summary><a href=\"#{node['url']}\">#{node['title']}</a></summary>\n"
       
@@ -30,8 +32,8 @@ def generate_html(node, level = 0)
         html += "#{indent}    </ul>\n"
       end
       
-      # Add children if present
-      if has_children
+      # Add children if present and not excluded
+      if should_show_children
         html += "#{indent}    <ul>\n"
         node['children'].sort.each do |key, child|
           html += generate_html(child, level + 3)

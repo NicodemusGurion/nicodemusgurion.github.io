@@ -1,42 +1,91 @@
 #!/usr/bin/env ruby
-require 'json'
 require 'yaml'
+require 'json'
 
-# Parse markdown headers
+# Parse front matter and content from a file
+def parse_file(filepath)
+  content = File.read(filepath)
+  
+  # Match front matter
+  if content =~ /\A---\s*\n(.*?\n)---\s*\n(.*)/m
+    front_matter = YAML.load($1) || {}
+    body = $2
+  else
+    front_matter = {}
+    body = content
+  end
+  
+  [front_matter, body]
+end
+
+# Extract headers from markdown content
 def extract_headers(content)
   headers = []
-  
-  content.each_line do |line|
-    # Match markdown headers (# through ######)
-    if line =~ /^(#+)\s+(.+)$/
-      level = $1.length
-      text = $2.strip
-      
-      # Check for custom ID in format {#custom-id}
-      custom_id = nil
-      if text =~ /\{#([a-zA-Z0-9_-]+)\}\s*$/
-        custom_id = $1
-        # Remove the {#custom-id} part from the text
-        text = text.sub(/\s*\{#[a-zA-Z0-9_-]+\}\s*$/, '').strip
-      end
-      
-      # Use custom ID if provided, otherwise generate GitHub-style anchor
-      anchor = custom_id || text.downcase
-        .gsub(/[^\w\s-]/, '')
-        .gsub(/\s+/, '-')
-        .gsub(/-+/, '-')
-        .gsub(/^-|-$/, '')
-      
-      headers << {
-        'level' => level,
-        'text' => text,
-        'anchor' => anchor
-      }
+  content.scan(/^(#+)\s+(.+?)(?:\s+\{#([a-z0-9\-]+)\})?$/) do |match|
+    level = match[0].length
+    text = match[1].strip
+    custom_id = match[2]
+    
+    # Generate GitHub-style anchor if no custom ID
+    if custom_id
+      anchor = custom_id
+    else
+      anchor = text.downcase
+                   .gsub(/[^\w\s-]/, '')
+                   .gsub(/\s+/, '-')
     end
+    
+    headers << {
+      'level' => level,
+      'text' => text,
+      'anchor' => anchor
+    }
   end
   headers
 end
 
+# Scan all markdown and HTML files
+pages = []
+Dir.glob('**/*.{md,markdown,html}').each do |file|
+  # Skip files in certain directories
+  next if file.start_with?('_site/', 'vendor/', '.bundle/', 'node_modules/')
+  
+  front_matter, body = parse_file(file)
+  
+  # Skip if explicitly excluded from navigation
+  next if front_matter['exclude_from_nav']
+  
+  # Extract headers
+  headers = extract_headers(body)
+  
+  # Determine URL
+  if front_matter['permalink']
+    url = front_matter['permalink']
+    url = '/' + url unless url.start_with?('/')
+    url = url.chomp('/') unless url == '/'
+  else
+    url = file.sub(/\.(md|markdown|html)$/, '')
+    url = '/' + url unless url.start_with?('/')
+    if url.end_with?('/index')
+      url = url.sub(/\/index$/, '/')
+    else
+      url = url.chomp('/')
+    end
+  end
+  
+  pages << {
+    'url' => url,
+    'tocpath' => front_matter['tocpath'],
+    'title' => front_matter['title'] || 'Untitled',
+    'headers' => headers,
+    'file' => file,
+    'include_in_menu' => front_matter['menu'] == true,
+    'exclude_children' => front_matter['exclude_children'] == true
+  }
+end
+
+# Sort pages by URL for consistency
+pages.sort_by! { |p| p['url'] }
 
 # Build hierarchical structure from flat list
 def build_hierarchy(pages)
@@ -45,56 +94,47 @@ def build_hierarchy(pages)
     'url' => '/',
     'headers' => [],
     'children' => {},
-    'include_in_menu' => false
+    'include_in_menu' => false,
+    'exclude_children' => false
   }
   
   pages.each do |page|
-    # Use tocpath if defined, otherwise use the actual URL for hierarchy
     path_for_structure = page['tocpath'] || page['url']
-    
-    # Normalize: remove trailing slash for splitting (except root "/")
     path_for_structure = path_for_structure.chomp('/') unless path_for_structure == '/'
-    
-    # Split path into segments, removing empty strings
     segments = path_for_structure.split('/').reject(&:empty?)
     
-    # Skip root page, handle it separately
     next if segments.empty?
     
-    # Navigate/create the hierarchy
     current = root
     segments.each_with_index do |segment, index|
       current['children'] ||= {}
       
       if index == segments.length - 1
-        # Last segment - this is the actual page
-        # Check if this node already exists (from an index page)
         if current['children'][segment]
-          # Node exists - update it with page data
           current['children'][segment]['title'] = page['title']
           current['children'][segment]['url'] = page['url']
           current['children'][segment]['headers'] = page['headers']
           current['children'][segment]['include_in_menu'] = page['include_in_menu']
+          current['children'][segment]['exclude_children'] = page['exclude_children']
         else
-          # Create new node
           current['children'][segment] = {
             'title' => page['title'],
             'url' => page['url'],
             'headers' => page['headers'],
             'children' => {},
-            'include_in_menu' => page['include_in_menu']
+            'include_in_menu' => page['include_in_menu'],
+            'exclude_children' => page['exclude_children']
           }
         end
       else
-        # Intermediate segment - ensure node exists
         unless current['children'][segment]
-          # Create placeholder node
           current['children'][segment] = {
             'title' => segment.split('-').map(&:capitalize).join(' '),
             'url' => '/' + segments[0..index].join('/') + '/',
             'headers' => [],
             'children' => {},
-            'include_in_menu' => false
+            'include_in_menu' => false,
+            'exclude_children' => false
           }
         end
         current = current['children'][segment]
@@ -102,105 +142,24 @@ def build_hierarchy(pages)
     end
   end
   
-  # Handle root index page
   root_page = pages.find { |p| p['url'] == '/' }
   if root_page
     root['title'] = root_page['title']
     root['headers'] = root_page['headers']
     root['include_in_menu'] = root_page['include_in_menu']
+    root['exclude_children'] = root_page['exclude_children']
   end
   
   root
 end
 
+hierarchy = build_hierarchy(pages)
 
-# Main processing
-def generate_site_structure
-  pages = []
-  
-  # Find all markdown and HTML files
-  Dir.glob('**/*.{md,markdown,html}').each do |file|
-    # Skip files in certain directories
-    next if file.start_with?('_site/', '_data/', '_includes/', '_layouts/', 'vendor/', 'node_modules/')
-    
-    content = File.read(file)
-    
-    # Extract front matter
-    if content =~ /\A(---\s*\n.*?\n?)^((---|\.\.\.)\s*$\n?)/m
-      front_matter = YAML.load($1)
-      body = content[$1.length + $2.length..-1]
-    else
-      front_matter = {}
-      body = content
-    end
-    
-    # Skip if excluded
-    next if front_matter['exclude_from_sitemap']
-    
-    # Use permalink if specified, otherwise generate from file path matching Jekyll's logic
-    if front_matter['permalink']
-      url = front_matter['permalink']
-      # Ensure it starts with /
-      url = '/' + url unless url.start_with?('/')
-    else
-      # Generate URL from file path, matching Jekyll's defaults
-      url = file.sub(/\.(md|markdown|html)$/, '')
-      url = '/' + url unless url.start_with?('/')
-      
-      # Remove /index from the end (index.md becomes just the directory)
-      url = url.sub(/\/index$/, '/')
-      
-      # For non-index files, remove trailing slash that we might have added
-      # unless it's a directory-style URL
-      unless url.end_with?('/')
-        # Check if original file was index - if not, no trailing slash
-        url = url # already correct
-      end
-    end
+# Output JSON
+output = {
+  'hierarchy' => hierarchy,
+  'flat' => pages
+}
 
-    
-    # Get tocpath if specified (for hierarchical organization)
-    tocpath = front_matter['tocpath']
-    
-        # Get title
-    title = front_matter['title'] || front_matter['name'] || File.basename(file, '.*').split('-').map(&:capitalize).join(' ')
-    
-    # Check if page should be in menu
-    include_in_menu = front_matter['menu'] == true
-    
-    # Extract headers
-    headers = extract_headers(body)
-    
-    pages << {
-      'url' => url,
-      'tocpath' => tocpath,
-      'title' => title,
-      'headers' => headers,
-      'file' => file,
-      'include_in_menu' => include_in_menu
-    }
-  end
-  
-  # Build hierarchy
-  hierarchy = build_hierarchy(pages)
-  
-  # Also create a flat sorted list for simpler use cases
-  flat_list = pages.sort_by { |p| p['url'] }
-  
-  # Output both structures
-  output = {
-    'hierarchy' => hierarchy,
-    'flat' => flat_list
-  }
-  
-  # Ensure _data directory exists
-  Dir.mkdir('_data') unless Dir.exist?('_data')
-  
-  # Write to file
-  File.write('_data/site_structure.json', JSON.pretty_generate(output))
-  
-  puts "Generated _data/site_structure.json with #{pages.length} pages"
-end
-
-# Run it
-generate_site_structure
+File.write('_data/site_structure.json', JSON.pretty_generate(output))
+puts "Generated structure with #{pages.length} pages"
