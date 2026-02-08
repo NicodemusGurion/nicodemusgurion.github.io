@@ -1,102 +1,84 @@
-{%- comment -%}
-  Child Pages TOC
-  Shows all child pages under the current page with their headers
-  Uses tocpath for hierarchy, URL for links
-{%- endcomment -%}
+{% comment %}
+Display table of contents for child pages of the current page
+{% endcomment %}
 
-{%- assign current_page_data = nil -%}
+{% assign current_url = page.url %}
+{% assign current_tocpath = page.tocpath | default: current_url %}
 
-{%- comment -%} Find current page in the flat list {%- endcomment -%}
-{%- for page_data in site.data.site_structure.flat -%}
-  {%- if page_data.url == page.url -%}
-    {%- assign current_page_data = page_data -%}
-    {%- break -%}
-  {%- endif -%}
-{%- endfor -%}
+{% comment %}Normalize current path - remove trailing slash unless it's root{% endcomment %}
+{% if current_tocpath == "/" %}
+  {% assign normalized_current = "/" %}
+{% else %}
+  {% assign normalized_current = current_tocpath | remove_first: "/" | remove: "/" %}
+{% endif %}
 
-{%- comment -%} Find child pages based on URL/tocpath hierarchy {%- endcomment -%}
-{%- if current_page_data -%}
-  {%- comment -%} Determine the path to use for finding children {%- endcomment -%}
-  {%- assign my_path = current_page_data.tocpath | default: current_page_data.url -%}
+{% comment %}Find child pages{% endcomment %}
+{% assign child_pages = site.data.site_structure.flat | where_exp: "item", "item.url != current_url" %}
+
+{% comment %}Filter to only direct children{% endcomment %}
+{% assign children = "" | split: "" %}
+{% for item in child_pages %}
+  {% assign item_tocpath = item.tocpath | default: item.url %}
   
-  {%- comment -%} Normalize path - ensure ends with / {%- endcomment -%}
-  {%- unless my_path contains '/' -%}
-    {%- assign my_path = my_path | append: '/' -%}
-  {%- endunless -%}
-  {%- unless my_path == '/' -%}
-    {%- unless my_path contains '/' at -1 -%}
-      {%- assign my_path = my_path | append: '/' -%}
-    {%- endunless -%}
-  {%- endunless -%}
+  {% comment %}Normalize item path{% endcomment %}
+  {% if item_tocpath == "/" %}
+    {% assign normalized_item = "/" %}
+  {% else %}
+    {% assign normalized_item = item_tocpath | remove_first: "/" | remove: "/" %}
+  {% endif %}
   
-  {%- assign child_pages = '' | split: '' -%}
-  
-  {%- for page_data in site.data.site_structure.flat -%}
-    {%- comment -%} Skip self {%- endcomment -%}
-    {%- if page_data.url == page.url -%}
-      {%- continue -%}
-    {%- endif -%}
-    
-    {%- comment -%} Get the page's organizational path {%- endcomment -%}
-    {%- assign page_path = page_data.tocpath | default: page_data.url -%}
-    
-    {%- comment -%} Check if this page is a direct child {%- endcomment -%}
-    {%- if page_path contains my_path -%}
-      {%- comment -%} Remove parent path to see what's left {%- endcomment -%}
-      {%- assign remainder = page_path | remove_first: my_path -%}
-      
-      {%- comment -%} Count slashes - if 0 or 1, it's a direct child {%- endcomment -%}
-      {%- assign slash_count = remainder | split: '/' | size -%}
-      {%- if slash_count <= 2 and page_data.include_in_menu -%}
-        {%- assign child_pages = child_pages | push: page_data -%}
-      {%- endif -%}
-    {%- endif -%}
-  {%- endfor -%}
-  
-  {%- if child_pages.size > 0 -%}
+  {% comment %}Check if this item is a direct child{% endcomment %}
+  {% if normalized_current == "/" %}
+    {% comment %}Root level - children have exactly one segment{% endcomment %}
+    {% assign segments = normalized_item | split: "/" %}
+    {% if segments.size == 1 %}
+      {% assign children = children | push: item %}
+    {% endif %}
+  {% else %}
+    {% comment %}Check if item starts with current path{% endcomment %}
+    {% if normalized_item contains normalized_current %}
+      {% assign item_remainder = normalized_item | remove_first: normalized_current | remove_first: "/" %}
+      {% assign remainder_segments = item_remainder | split: "/" %}
+      {% if remainder_segments.size == 1 and item_remainder != "" %}
+        {% assign children = children | push: item %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{% if children.size > 0 %}
 <nav class="child-pages-toc">
-  <h2>Pages in this section</h2>
+  <h2>Child Pages</h2>
   <ul>
-    {%- for child in child_pages -%}
-      <li>
-        <a href="{{ child.url }}">{{ child.title }}</a>
+    {% for child in children %}
+    <li>
+      <a href="{{ child.url }}">{{ child.title }}</a>
+      {% if child.headers.size > 0 %}
+        {% comment %}Separate top-level (h2) from deeper headers{% endcomment %}
+        {% assign top_headers = child.headers | where: "level", 2 %}
+        {% assign deeper_headers = child.headers | where_exp: "h", "h.level > 2" %}
         
-        {%- if child.headers.size > 0 -%}
-          {%- assign top_headers = '' | split: '' -%}
-          {%- assign deep_headers = '' | split: '' -%}
-          
-          {%- for header in child.headers -%}
-            {%- if header.level == 2 -%}
-              {%- assign top_headers = top_headers | push: header -%}
-            {%- else -%}
-              {%- assign deep_headers = deep_headers | push: header -%}
-            {%- endif -%}
-          {%- endfor -%}
-          
-          {%- if top_headers.size > 0 or deep_headers.size > 0 -%}
+        {% if top_headers.size > 0 %}
+          <ul>
+            {% for header in top_headers %}
+              <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+        
+        {% if deeper_headers.size > 0 %}
+          <details>
+            <summary>More sections...</summary>
             <ul>
-              {%- for header in top_headers -%}
+              {% for header in deeper_headers %}
                 <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
-              {%- endfor -%}
-              
-              {%- if deep_headers.size > 0 -%}
-                <li>
-                  <details>
-                    <summary>More sections...</summary>
-                    <ul>
-                      {%- for header in deep_headers -%}
-                        <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
-                      {%- endfor -%}
-                    </ul>
-                  </details>
-                </li>
-              {%- endif -%}
+              {% endfor %}
             </ul>
-          {%- endif -%}
-        {%- endif -%}
-      </li>
-    {%- endfor -%}
+          </details>
+        {% endif %}
+      {% endif %}
+    </li>
+    {% endfor %}
   </ul>
 </nav>
-  {%- endif -%}
-{%- endif -%}
+{% endif %}
