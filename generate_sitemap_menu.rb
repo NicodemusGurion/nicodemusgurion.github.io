@@ -16,7 +16,7 @@ def generate_html(node, level = 0)
     should_show_children = !node['exclude_children'] && node['children'] && node['children'].length > 0
     has_headers = node['headers'] && node['headers'].length > 0
     
-    html += "#{indent}<li>\n"
+    #html += "#{indent}<li>\n"
     
     # If there are children or headers, wrap in details/summary
     if should_show_children || has_headers
@@ -25,29 +25,29 @@ def generate_html(node, level = 0)
       
       # Add headers if present
       if has_headers
-        html += "#{indent}    <ul class=\"headers\">\n"
+        #html += "#{indent}    <ul class=\"headers\">\n"
         node['headers'].each do |header|
-          html += "#{indent}      <li class=\"sitemap-headers\"><a href=\"#{node['url']}##{header['anchor']}\">#{header['text']}</a></li>\n"
+          html += "#{indent}      <p class=\"listitem sitemap-headers\"><a href=\"#{node['url']}##{header['anchor']}\">#{header['text']}</a></p>\n"
         end
-        html += "#{indent}    </ul>\n"
+        #html += "#{indent}    </ul>\n"
       end
       
       # Add children if present and not excluded
       if should_show_children
-        html += "#{indent}    <ul>\n"
+        #html += "#{indent}    <ul>\n"
         node['children'].sort.each do |key, child|
           html += generate_html(child, level + 3)
         end
-        html += "#{indent}    </ul>\n"
+        #html += "#{indent}    </ul>\n"
       end
       
       html += "#{indent}  </details>\n"
     else
       # Just a simple link
-      html += "#{indent}  <a href=\"#{node['url']}\">#{node['title']}</a>\n"
+      html += "#{indent}  <p class="listitem"><a href=\"#{node['url']}\">#{node['title']}</a></p>\n"
     end
     
-    html += "#{indent}</li>\n"
+    #html += "#{indent}</li>\n"
   else
     # For root, just process children
     if node['children'] && node['children'].length > 0
