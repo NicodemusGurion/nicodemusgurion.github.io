@@ -27,7 +27,7 @@ def generate_html(node, level = 0)
       if has_headers
         html += "#{indent}    <ul class=\"headers\">\n"
         node['headers'].each do |header|
-          html += "#{indent}      <li><a href=\"#{node['url']}##{header['anchor']}\"><strong>#{header['text']}</strong></a></li>\n"
+          html += "#{indent}      <li class="sitemap-headers"><a href=\"#{node['url']}##{header['anchor']}\">#{header['text']}</a></li>\n"
         end
         html += "#{indent}    </ul>\n"
       end

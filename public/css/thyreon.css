@@ -31,6 +31,16 @@
 }
 
 
+.sitemap-menu li {
+  list-style-type: none
+}
+
+.sitemap-headers
+{
+  list-style-type: circle;
+}
+
+
 /* Collapsible TOC/menu list items */
 
 details details {
