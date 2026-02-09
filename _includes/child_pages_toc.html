@@ -51,14 +51,12 @@ Display table of contents for child pages of the current page
 
 {% for child in children %}
   {% if child.headers.size > 0 %}
-    {% if forloop.first %}
       <details open>
-    {% else %}
-      <details>
-    {% endif %}
         <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
     {% for header in child.headers %}
+        {% if header.level == 1 %}
           <p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
+        {% endif %}
     {% endfor %}
       </details>
   {% else %}
