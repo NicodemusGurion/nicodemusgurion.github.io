@@ -48,27 +48,22 @@ Display table of contents for child pages of the current page
 
 {% if children.size > 0 %}
 <nav class="child-pages-toc">
-  <ul>
+
 {% for child in children %}
   {% if child.headers.size > 0 %}
-    <li>
     {% if forloop.first %}
       <details open>
     {% else %}
       <details>
     {% endif %}
         <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
-        <ul>
     {% for header in child.headers %}
-          <li class="level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
+          <p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
     {% endfor %}
-        </ul>
       </details>
-    </li>
   {% else %}
-    <li><a href="{{ child.url }}">{{ child.title }}</a></li>
+    <p class="listitem"><a href="{{ child.url }}">{{ child.title }}</a></p>
   {% endif %}
 {% endfor %}
-  </ul>
 </nav>
 {% endif %}
