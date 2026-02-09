@@ -32,8 +32,13 @@
 
 
 .sitemap-menu li {
-  list-style-type: none
+  list-style-type: none;
 }
+
+.sitemap-menu ul {
+  list-style-position: inside;
+}
+
 
 .sitemap-headers
 {
@@ -47,7 +52,6 @@ details details {
   margin-left: 1em;
 }
 .listitem {
-  margin:0;
   padding-left: 1.25em;
   line-height: 1.1;
   margin-bottom: 0px;
