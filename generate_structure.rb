@@ -50,6 +50,10 @@ Dir.glob('**/*.{md,markdown,html}').each do |file|
   # Skip files in certain directories
   next if file.start_with?('_site/', 'vendor/', '.bundle/', 'node_modules/')
   
+  # Skip any file that has a path component starting with underscore
+  path_parts = file.split('/')
+  next if path_parts.any? { |part| part.start_with?('_') || part.start_with?('.') }
+  
   front_matter, body = parse_file(file)
   
   # Skip if explicitly excluded from navigation
