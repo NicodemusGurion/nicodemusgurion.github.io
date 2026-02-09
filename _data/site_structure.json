@@ -6,17 +6,6 @@
 
     ],
     "children": {
-      "Jesus is Jehovah": {
-        "title": "Untitled",
-        "url": "/Jesus is Jehovah",
-        "headers": [
-
-        ],
-        "children": {
-        },
-        "include_in_menu": false,
-        "exclude_children": false
-      },
       "_includes": {
         "title": "_includes",
         "url": "/_includes/",
@@ -1979,39 +1968,6 @@
           }
         },
         "include_in_menu": true,
-        "exclude_children": false
-      },
-      "dev": {
-        "title": "development",
-        "url": "/dev",
-        "headers": [
-
-        ],
-        "children": {
-        },
-        "include_in_menu": false,
-        "exclude_children": false
-      },
-      "hexapla": {
-        "title": "Untitled",
-        "url": "/hexapla",
-        "headers": [
-
-        ],
-        "children": {
-        },
-        "include_in_menu": false,
-        "exclude_children": false
-      },
-      "index-old": {
-        "title": "Home",
-        "url": "/index-old",
-        "headers": [
-
-        ],
-        "children": {
-        },
-        "include_in_menu": false,
         "exclude_children": false
       },
       "islam": {
@@ -7279,17 +7235,6 @@
       "exclude_children": false
     },
     {
-      "url": "/Jesus is Jehovah",
-      "tocpath": null,
-      "title": "Untitled",
-      "headers": [
-
-      ],
-      "file": "Jesus is Jehovah.md",
-      "include_in_menu": false,
-      "exclude_children": false
-    },
-    {
       "url": "/_includes/child_pages_toc",
       "tocpath": null,
       "title": "Untitled",
@@ -8124,39 +8069,6 @@
       ],
       "file": "dawah/trinity-invented-at-nicaea.md",
       "include_in_menu": true,
-      "exclude_children": false
-    },
-    {
-      "url": "/dev",
-      "tocpath": null,
-      "title": "development",
-      "headers": [
-
-      ],
-      "file": "dev.md",
-      "include_in_menu": false,
-      "exclude_children": false
-    },
-    {
-      "url": "/hexapla",
-      "tocpath": null,
-      "title": "Untitled",
-      "headers": [
-
-      ],
-      "file": "hexapla.md",
-      "include_in_menu": false,
-      "exclude_children": false
-    },
-    {
-      "url": "/index-old",
-      "tocpath": null,
-      "title": "Home",
-      "headers": [
-
-      ],
-      "file": "index-old.html",
-      "include_in_menu": false,
       "exclude_children": false
     },
     {
