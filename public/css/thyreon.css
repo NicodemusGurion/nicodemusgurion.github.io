@@ -40,6 +40,7 @@ details details {
   margin:0;
   padding-left: 1.25em;
   line-height: 1.1;
+  margin-bottom: 0px;
 }
 .listitem::before {
   content: "●";
