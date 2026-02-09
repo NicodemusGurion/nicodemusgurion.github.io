@@ -53,54 +53,39 @@ Display table of contents for child pages of the current page
     {% for child in children %}
       {% if child.headers.size > 0 %}
         <li>
-          {% if forloop.first %}
-          <details open>
-          {% else %}
-          <details>
-          {% endif %}
+          {% if forloop.first %}<details open>{% else %}<details>{% endif %}
             <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
-            {% assign stack = "" | split: "" %}
+            <ul>
+            {% assign prev_level = 2 %}
             {% for header in child.headers %}
-              {% if forloop.first %}
-                {% assign stack = stack | push: header.level %}
-<ul>
-  <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a>
-              {% else %}
-                {% assign current_level = header.level %}
-                {% assign last_level = stack | last %}
-                
-                {% if current_level > last_level %}
-                  {% comment %}Going deeper{% endcomment %}
-                  {% assign stack = stack | push: current_level %}
-<ul>
-  <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a>
-                {% elsif current_level == last_level %}
-                  {% comment %}Same level{% endcomment %}
-</li>
-  <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a>
-                {% else %}
-                  {% comment %}Going up - close lists{% endcomment %}
-                  {% assign diff = last_level | minus: current_level %}
-                  {% for i in (1..diff) %}
-                    {% assign stack = stack | pop %}
-</li>
-</ul>
-                  {% endfor %}
-</li>
-  <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a>
-                {% endif %}
-                
-                {% if forloop.last %}
-                  {% comment %}Close all remaining lists{% endcomment %}
-                  {% for level in stack %}
-</li>
-                  {% endfor %}
-                  {% for level in stack %}
-</ul>
-                  {% endfor %}
-                {% endif %}
+              {% assign current_level = header.level %}
+              
+              {% if current_level > prev_level %}
+                {% comment %}Going deeper - open new ul{% endcomment %}
+                {% assign diff = current_level | minus: prev_level %}
+                {% for i in (1..diff) %}<ul>{% endfor %}
+              {% elsif current_level < prev_level %}
+                {% comment %}Going up - close uls and li{% endcomment %}
+                {% assign diff = prev_level | minus: current_level %}
+                {% for i in (1..diff) %}</li></ul>{% endfor %}
+                </li>
+              {% elsif forloop.first == false %}
+                {% comment %}Same level - close previous li{% endcomment %}
+                </li>
+              {% endif %}
+              
+              <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a>
+              
+              {% assign prev_level = current_level %}
+              
+              {% if forloop.last %}
+                {% comment %}Close all remaining lists{% endcomment %}
+                </li>
+                {% assign levels_to_close = current_level | minus: 2 %}
+                {% for i in (1..levels_to_close) %}</ul></li>{% endfor %}
               {% endif %}
             {% endfor %}
+            </ul>
           </details>
         </li>
       {% else %}
