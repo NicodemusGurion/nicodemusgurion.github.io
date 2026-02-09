@@ -24,13 +24,13 @@ def generate_html(node, level = 0)
       html += "#{indent}    <summary><a href=\"#{node['url']}\">#{node['title']}</a></summary>\n"
       
       # Add headers if present
-      #if has_headers
+      if has_headers
         #html += "#{indent}    <ul class=\"headers\">\n"
-        #node['headers'].each do |header|
-          #html += "#{indent}      <p class=\"listitem sitemap-headers\"><a href=\"#{node['url']}##{header['anchor']}\">#{header['text']}</a></p>\n"
-        #end
+        node['headers'].each do |header|
+          html += "#{indent}      <p class=\"listitem sitemap-headers level-#{header['level']}\"><a href=\"#{node['url']}##{header['anchor']}\">#{header['text']}</a></p>\n"
+        end
         #html += "#{indent}    </ul>\n"
-      #end
+      end
       
       # Add children if present and not excluded
       if should_show_children
@@ -44,7 +44,7 @@ def generate_html(node, level = 0)
       html += "#{indent}  </details>\n"
     else
       # Just a simple link
-      html += "#{indent}  <p class=\"listitem level-#{level}\"><a href=\"#{node['url']}\">#{node['title']}</a></p>\n"
+      html += "#{indent}  <p class=\"listitem\"><a href=\"#{node['url']}\">#{node['title']}</a></p>\n"
     end
     
     #html += "#{indent}</li>\n"
