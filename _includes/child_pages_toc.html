@@ -50,48 +50,26 @@ Display table of contents for child pages of the current page
 <nav class="child-pages-toc">
   <h2>Child Pages</h2>
   <ul>
-    {% for child in children %}
-      {% if child.headers.size > 0 %}
-        <li>
-          {% if forloop.first %}<details open>{% else %}<details>{% endif %}
-            <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
-            <ul>
-            {% assign prev_level = 2 %}
-            {% for header in child.headers %}
-              {% assign current_level = header.level %}
-              
-              {% if current_level > prev_level %}
-                {% comment %}Going deeper - open new ul{% endcomment %}
-                {% assign diff = current_level | minus: prev_level %}
-                {% for i in (1..diff) %}<ul>{% endfor %}
-              {% elsif current_level < prev_level %}
-                {% comment %}Going up - close uls and li{% endcomment %}
-                {% assign diff = prev_level | minus: current_level %}
-                {% for i in (1..diff) %}</li></ul>{% endfor %}
-                </li>
-              {% elsif forloop.first == false %}
-                {% comment %}Same level - close previous li{% endcomment %}
-                </li>
-              {% endif %}
-              
-              <li><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a>
-              
-              {% assign prev_level = current_level %}
-              
-              {% if forloop.last %}
-                {% comment %}Close all remaining lists{% endcomment %}
-                </li>
-                {% assign levels_to_close = current_level | minus: 2 %}
-                {% for i in (1..levels_to_close) %}</ul></li>{% endfor %}
-              {% endif %}
-            {% endfor %}
-            </ul>
-          </details>
-        </li>
-      {% else %}
-        <li><a href="{{ child.url }}">{{ child.title }}</a></li>
-      {% endif %}
+{% for child in children %}
+  {% if child.headers.size > 0 %}
+    <li>
+    {% if forloop.first %}
+      <details open>
+    {% else %}
+      <details>
+    {% endif %}
+        <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
+        <ul>
+    {% for header in child.headers %}
+          <li class="level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></li>
     {% endfor %}
+        </ul>
+      </details>
+    </li>
+  {% else %}
+    <li><a href="{{ child.url }}">{{ child.title }}</a></li>
+  {% endif %}
+{% endfor %}
   </ul>
 </nav>
 {% endif %}
