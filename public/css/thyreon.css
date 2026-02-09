@@ -1,20 +1,20 @@
-.child-pages-toc .level-2 {
+.child-pages-toc, .page-toc .level-2 {
   margin-left: 0;
 }
 
-.child-pages-toc .level-3 {
+.child-pages-toc, .page-toc .level-3 {
   margin-left: 1.5em;
 }
 
-.child-pages-toc .level-4 {
+.child-pages-toc, .page-toc .level-4 {
   margin-left: 3em;
 }
 
-.child-pages-toc .level-5 {
+.child-pages-toc, .page-toc .level-5 {
   margin-left: 4.5em;
 }
 
-.child-pages-toc .level-6 {
+.child-pages-toc, .page-toc .level-6 {
   margin-left: 6em;
 }
 

@@ -48,7 +48,6 @@ Display table of contents for child pages of the current page
 
 {% if children.size > 0 %}
 <nav class="child-pages-toc">
-  <h2>Child Pages</h2>
   <ul>
 {% for child in children %}
   {% if child.headers.size > 0 %}

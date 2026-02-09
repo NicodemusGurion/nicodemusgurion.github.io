@@ -1,52 +1,27 @@
-{%- comment -%}
-  On-page Table of Contents
-  Finds the current page in site_structure and builds a TOC from its headers
-{%- endcomment -%}
+{% comment %}
+Display table of contents for the current page based on its headers
+{% endcomment %}
 
-{%- assign current_page_data = nil -%}
+{% assign current_url = page.url %}
 
-{%- comment -%} Find current page in the flat list {%- endcomment -%}
-{%- for page_data in site.data.site_structure.flat -%}
-  {%- if page_data.url == page.url -%}
-    {%- assign current_page_data = page_data -%}
-    {%- break -%}
-  {%- endif -%}
-{%- endfor -%}
+{% comment %}Find the current page in the flat structure{% endcomment %}
+{% assign current_page = null %}
+{% for item in site.data.site_structure.flat %}
+  {% if item.url == current_url %}
+    {% assign current_page = item %}
+    {% break %}
+  {% endif %}
+{% endfor %}
 
-{%- if current_page_data and current_page_data.headers.size > 0 -%}
-<details class="page-toc">
-  <summary>Table of Contents</summary>
-  <ul>
-    {%- assign prev_level = 2 -%}
-    {%- for header in current_page_data.headers -%}
-      {%- assign level = header.level -%}
-      
-      {%- comment -%} Close lists if going back up levels {%- endcomment -%}
-      {%- if level < prev_level -%}
-        {%- assign level_diff = prev_level | minus: level -%}
-        {%- for i in (1..level_diff) -%}</ul>{%- endfor -%}
-      {%- endif -%}
-      
-      {%- comment -%} Close previous item if at same level {%- endcomment -%}
-      {%- if level == prev_level and forloop.index > 1 -%}</li>{%- endif -%}
-      
-      {%- comment -%} Open new nested list if going deeper (inside parent li) {%- endcomment -%}
-      {%- if level > prev_level -%}
-        {%- assign level_diff = level | minus: prev_level -%}
-        {%- for i in (1..level_diff) -%}<ul>{%- endfor -%}
-      {%- endif -%}
-      
-      <li><a href="#{{ header.anchor }}">{{ header.text }}</a>
-      
-      {%- assign prev_level = level -%}
-      
-      {%- comment -%} Close last item's li tag if this is the last iteration {%- endcomment -%}
-      {%- if forloop.last -%}
-        </li>
-        {%- assign close_count = prev_level | minus: 2 -%}
-        {%- for i in (1..close_count) -%}</ul>{%- endfor -%}
-      {%- endif -%}
-    {%- endfor -%}
-  </ul>
-</details>
-{%- endif -%}
+{% if current_page and current_page.headers.size > 0 %}
+<nav class="page-toc">
+  <details open>
+    <summary>Table of contents...</summary>
+    <ul>
+{% for header in current_page.headers %}
+      <li class="level-{{ header.level }}"><a href="#{{ header.anchor }}">{{ header.text }}</a></li>
+{% endfor %}
+    </ul>
+  </details>
+</nav>
+{% endif %}
