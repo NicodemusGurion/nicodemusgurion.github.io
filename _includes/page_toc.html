@@ -14,7 +14,7 @@ Display table of contents for the current page based on its headers
 {% endfor %}
 
 {% if current_page and current_page.headers.size > 0 %}
-  <details open>
+  <details>
     <summary>Table of contents...</summary>
 {% for header in current_page.headers %}
       <p class="listitem level-{{ header.level }}"><a href="#{{ header.anchor }}">{{ header.text }}</a></p>
