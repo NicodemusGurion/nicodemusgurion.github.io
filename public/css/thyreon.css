@@ -1,33 +1,25 @@
 .level-1 {
-  margin-left: 1em;
+  padding-left: 1em;
 }
 
 .level-2 {
-  margin-left: 2em;
+  padding-left: 2em;
 }
 
 .level-3 {
-  margin-left: 3em;
+  padding-left: 3em;
 }
 
 .level-4 {
-  margin-left: 4em;
+  padding-left: 4em;
 }
 
 .level-5 {
-  margin-left: 5em;
+  padding-left: 5em;
 }
 
 .level-6 {
-  margin-left: 6em;
-}
-
-.level-1::before, .level-2::before, .level-3::before, .level-4::before, .level-5::before, .level-6::before
-{
-  content: "●";
-  position: relative;
-  left:-5px;
-  font-size: 1.2em; 
+  padding-left: 6em;
 }
 
 
@@ -42,14 +34,14 @@
 
 .sitemap-headers
 {
-  list-style-type: circle;
+  list-style-type: square;
 }
 
 
 /* Collapsible TOC/menu list items */
 
 details details {
-  margin-left: 1em;
+  margin-left: 0em;
 }
 .listitem {
   padding-left: 1.25em;

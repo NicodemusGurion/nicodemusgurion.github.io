@@ -330,7 +330,7 @@ Whom is Allah praying to?
 
 Apparently there are things that surprise Allah. How could someone supposedly all-knowing wonder about anything?
 
-## Allah can not count (1 + 1 =2 4?)
+## Allah can not count (1 + 1 = 4?)
 
 [Surah 6:143](https://quran.com/6/143)
 

@@ -111,7 +111,7 @@ Just label an oath "thoughtless" and you don't have to hold your word. Otherwise
 
 
 
-# Art and entertainment is prohibited
+# Art and entertainment
 
 
 ## Music and singing is a sin
