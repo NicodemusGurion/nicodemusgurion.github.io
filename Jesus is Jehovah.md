@@ -1,5 +1,6 @@
 ---
 noindex: true
+exclude_from_nav: true
 ---
 
 https://jesusisyhwh.blogspot.com/2012/12/jesus-is-jehovah.html

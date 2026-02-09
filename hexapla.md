@@ -1,5 +1,6 @@
 ---
 layout: none
+exclude_from_nav: true
 ---
 
 <html lang="en">
