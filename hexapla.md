@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: none 
 exclude_from_nav: true
 ---
 
