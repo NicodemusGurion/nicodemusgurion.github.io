@@ -13,7 +13,7 @@ Display table of contents for child pages of the current page
 {% endif %}
 
 {% comment %}Find child pages{% endcomment %}
-{% assign child_pages = site.data.site_structure.flat | where_exp: "item", "item.url != current_url" %}
+{% assign child_pages = site.data.site_structure.flat | where_exp: "item", "item.url != current_url" | sort: "item.file" %}
 
 {% comment %}Filter to only direct children{% endcomment %}
 {% assign children = "" | split: "" %}
