@@ -17,11 +17,9 @@ Display table of contents for the current page based on its headers
 <nav class="page-toc">
   <details open>
     <summary>Table of contents...</summary>
-    <ul>
 {% for header in current_page.headers %}
-      <li class="level-{{ header.level }}"><a href="#{{ header.anchor }}">{{ header.text }}</a></li>
+      <p class="listitem level-{{ header.level }}"><a href="#{{ header.anchor }}">{{ header.text }}</a></p>
 {% endfor %}
-    </ul>
   </details>
 </nav>
 {% endif %}
