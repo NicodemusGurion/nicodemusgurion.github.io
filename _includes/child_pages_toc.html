@@ -58,11 +58,11 @@ Display table of contents for child pages of the current page
     {% endif %}
         <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
     {% for header in child.headers %}
-          <p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
+          <p class="level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
     {% endfor %}
       </details>
   {% else %}
-    <p class="listitem"><a href="{{ child.url }}">{{ child.title }}</a></p>
+    <p class="level-1"><a href="{{ child.url }}">{{ child.title }}</a></p>
   {% endif %}
 {% endfor %}
 </nav>
