@@ -44,7 +44,7 @@ def generate_html(node, level = 0)
       html += "#{indent}  </details>\n"
     else
       # Just a simple link
-      html += "#{indent}  <p class=\"listitem\"><a href=\"#{node['url']}\">#{node['title']}</a></p>\n"
+      html += "#{indent}  <p class=\"listitem level-#{level}\"><a href=\"#{node['url']}\">#{node['title']}</a></p>\n"
     end
     
     #html += "#{indent}</li>\n"
