@@ -1575,14 +1575,14 @@
             "exclude_children": false
           },
           "jesus-not-crucified": {
-            "title": "Untitled",
+            "title": "Jesus wasn't crucified",
             "url": "/dawah/jesus-not-crucified",
             "headers": [
 
             ],
             "children": {
             },
-            "include_in_menu": false,
+            "include_in_menu": true,
             "exclude_children": false
           },
           "late-gospels": {
@@ -7440,12 +7440,12 @@
     {
       "url": "/dawah/jesus-not-crucified",
       "tocpath": null,
-      "title": "Untitled",
+      "title": "Jesus wasn't crucified",
       "headers": [
 
       ],
       "file": "dawah/jesus-not-crucified.md",
-      "include_in_menu": false,
+      "include_in_menu": true,
       "exclude_children": false
     },
     {
