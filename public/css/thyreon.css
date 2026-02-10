@@ -41,7 +41,7 @@
 /* Collapsible TOC/menu list items */
 
 details details {
-  padding-left: 2em;
+  padding-left: 1.5em;
 }
 .listitem {
   padding-left: 2em;
@@ -51,7 +51,7 @@ details details {
 .listitem::before {
   content: "●";
   position: relative;
-  left:-5px;
+  left:-0.5em;
   font-size: 1.2em; 
 }
 
