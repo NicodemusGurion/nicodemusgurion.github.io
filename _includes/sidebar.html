@@ -14,6 +14,31 @@
     {% include sitemap_menu.html %}
 
   </nav>
+  <script>
+(function() {
+  // Get current page path (use tocpath if available, otherwise URL)
+  var currentPath = '{{ page.tocpath | default: page.url }}';
+  
+  // Remove trailing slash unless it's root
+  if (currentPath !== '/' && currentPath.endsWith('/')) {
+    currentPath = currentPath.slice(0, -1);
+  }
+  
+  // Split path into segments
+  var segments = currentPath.split('/').filter(function(s) { return s.length > 0; });
+  
+  // Build cumulative IDs and open them
+  var cumulativePath = '';
+  segments.forEach(function(segment) {
+    cumulativePath += '-' + segment;
+    var id = 'menu' + cumulativePath;
+    var element = document.getElementById(id);
+    if (element) {
+      element.setAttribute('open', '');
+    }
+  });
+})();
+</script>
 
   <div class="sidebar-item">
     <p>

@@ -1,42 +1,3 @@
-.level-1 {
-  padding-left: 1em;
-}
-
-.level-2 {
-  padding-left: 2em;
-}
-
-.level-3 {
-  padding-left: 3em;
-}
-
-.level-4 {
-  padding-left: 4em;
-}
-
-.level-5 {
-  padding-left: 5em;
-}
-
-.level-6 {
-  padding-left: 6em;
-}
-
-
-.sitemap-menu li {
-  list-style-type: none;
-}
-
-.sitemap-menu ul {
-  list-style-position: inside;
-}
-
-
-.sitemap-headers
-{
-  list-style-type: square;
-}
-
 
 /* Collapsible TOC/menu list items */
 
@@ -44,7 +5,7 @@ details details {
   padding-left: 1em;
 }
 .listitem {
-  padding-left: 2em;
+  padding-left: 2.2em;
   line-height: 1.1;
   margin-bottom: 0px;
 }
