@@ -50,7 +50,7 @@ Display table of contents for child pages of the current page
 {% for child in children %}
   <details open>
     <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>{% if child.headers.size > 0 %}{% assign output = "" %}{% assign level_stack = "" | split: "" %}{% for header in child.headers %}{% assign current_level = header.level %}{% assign last_level = level_stack | last | default: 0 %}{% if current_level > last_level %}{% assign level_stack = level_stack | push: current_level %}{% elsif current_level < last_level %}{% assign diff = last_level | minus: current_level %}{% for i in (1..diff) %}{% capture closing %}</details>{% endcapture %}{% assign output = output | append: closing %}{% assign level_stack = level_stack | pop %}{% endfor %}{% endif %}{% assign next_index = forloop.index %}{% assign next_header = child.headers[next_index] %}{% if next_header and next_header.level > current_level %}{% capture node %}<details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>{% endcapture %}{% assign output = output | append: node %}{% else %}{% capture node %}<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>{% endcapture %}{% assign output = output | append: node %}{% endif %}{% if forloop.last %}{% for level in level_stack %}{% capture closing %}</details>{% endcapture %}{% assign output = output | append: closing %}{% endfor %}{% endif %}{% endfor %}{{ output }}{% endif %}
-  </details>
+
 {% endfor %}
 </nav>
 {% endif %}
