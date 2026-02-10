@@ -41,9 +41,11 @@ def build_tree(pages)
   root
 end
 
-# Generate ID from URL
-def url_to_id(url)
-  'menu' + url.gsub('/', '-').sub(/-$/, '')
+# Generate ID from URL and optional anchor
+def url_to_id(url, anchor = nil)
+  id = 'menu' + url.gsub('/', '-').sub(/-$/, '')
+  id += '-' + anchor if anchor
+  id
 end
 
 # Build header tree with parent-child relationships
@@ -81,12 +83,14 @@ def generate_header_html(header, page_url, indent_level)
   html = ""
   indent = "  " * indent_level
   
+  header_id = url_to_id(page_url, header['anchor'])
+  
   if header['children'].empty?
     # Leaf node - use p.listitem
-    html += "#{indent}<p class=\"listitem\"><a href=\"#{page_url}##{header['anchor']}\">#{header['text']}</a></p>\n"
+    html += "#{indent}<p class=\"listitem\" id=\"#{header_id}\"><a href=\"#{page_url}##{header['anchor']}\">#{header['text']}</a></p>\n"
   else
     # Has children - use details/summary
-    html += "#{indent}<details>\n"
+    html += "#{indent}<details id=\"#{header_id}\">\n"
     html += "#{indent}  <summary><a href=\"#{page_url}##{header['anchor']}\">#{header['text']}</a></summary>\n"
     header['children'].each do |child|
       html += generate_header_html(child, page_url, indent_level + 1)
@@ -111,12 +115,13 @@ def generate_page_html(node, level = 0)
   # Don't show children if exclude_children is set
   has_children = false if node['exclude_children']
   
+  page_id = url_to_id(node['url'])
+  
   if !has_children && !has_headers
     # Leaf node - no children, no headers - use p.listitem
-    html += "#{indent}<p class=\"listitem\"><a href=\"#{node['url']}\">#{node['title']}</a></p>\n"
+    html += "#{indent}<p class=\"listitem\" id=\"#{page_id}\"><a href=\"#{node['url']}\">#{node['title']}</a></p>\n"
   else
     # Has children or headers - use details/summary
-    page_id = url_to_id(node['tocpath'] || node['url'])
     html += "#{indent}<details id=\"#{page_id}\">\n"
     html += "#{indent}  <summary><a href=\"#{node['url']}\">#{node['title']}</a></summary>\n"
     
@@ -154,6 +159,76 @@ if tree['children']
 end
 
 menu_html += "</nav>\n"
+
+# Add dynamic JavaScript
+menu_html += <<~JAVASCRIPT
+<style>
+  .sitemap-menu .current-page > summary > a,
+  .sitemap-menu .current-page > a {
+    text-decoration: underline;
+    font-weight: bold;
+  }
+</style>
+
+<script>
+(function() {
+  function updateMenuState() {
+    // Get current URL and hash
+    var currentPath = window.location.pathname;
+    var currentHash = window.location.hash.slice(1); // Remove the #
+    
+    // Remove trailing slash unless it's root
+    if (currentPath !== '/' && currentPath.endsWith('/')) {
+      currentPath = currentPath.slice(0, -1);
+    }
+    
+    // Build the menu ID
+    var menuId = 'menu' + currentPath.replace(/\\//g, '-');
+    if (currentHash) {
+      menuId += '-' + currentHash;
+    }
+    
+    // Remove previous current-page highlights
+    var previousCurrent = document.querySelectorAll('.sitemap-menu .current-page');
+    previousCurrent.forEach(function(el) {
+      el.classList.remove('current-page');
+    });
+    
+    // Find and highlight the current element
+    var currentElement = document.getElementById(menuId);
+    if (currentElement) {
+      currentElement.classList.add('current-page');
+      
+      // Open all parent details elements
+      var parent = currentElement.parentElement;
+      while (parent) {
+        if (parent.tagName === 'DETAILS') {
+          parent.setAttribute('open', '');
+        }
+        parent = parent.parentElement;
+      }
+      
+      // Scroll into view (optional)
+      // currentElement.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+  }
+  
+  // Update on page load
+  updateMenuState();
+  
+  // Update when hash changes (user clicks anchor links)
+  window.addEventListener('hashchange', updateMenuState);
+  
+  // Also listen to clicks on the page TOC
+  document.addEventListener('click', function(e) {
+    if (e.target.tagName === 'A' && e.target.hash) {
+      // Small delay to let the hash change
+      setTimeout(updateMenuState, 10);
+    }
+  });
+})();
+</script>
+JAVASCRIPT
 
 # Write to file
 File.write('_includes/sitemap_menu.html', menu_html)

@@ -4,6 +4,7 @@ permalink: /islam/errors
 search: true
 toc: true
 menu: true
+image: https://i.ibb.co/mrZr9FVR/errors-and-contradictions.png
 ---
 
 
