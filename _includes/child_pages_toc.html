@@ -48,31 +48,10 @@ Display table of contents for child pages of the current page
 <nav class="child-pages-toc">
   <h2>Child Pages</h2>
 {% for child in children %}
-  {% if forloop.first %}
   <details open>
-  {% else %}
-  <details>
-  {% endif %}
     <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
   {% if child.headers.size > 0 %}
-    {% assign header_stack = "" | split: "" %}
-    {% for header in child.headers %}
-      {% assign header_node = header | merge: "children", "" | split: "" %}
-      
-      {% comment %}Build tree structure{% endcomment %}
-      {% assign current_level = header.level %}
-      
-      {% comment %}Pop stack to find parent{% endcomment %}
-      {% assign new_stack = "" | split: "" %}
-      {% for stack_item in header_stack %}
-        {% if stack_item.level < current_level %}
-          {% assign new_stack = new_stack | push: stack_item %}
-        {% endif %}
-      {% endfor %}
-      {% assign header_stack = new_stack | push: header %}
-    {% endfor %}
-    
-    {% comment %}Now output the tree{% endcomment %}
+    {% assign output = "" %}
     {% assign level_stack = "" | split: "" %}
     {% for header in child.headers %}
       {% assign current_level = header.level %}
@@ -85,8 +64,9 @@ Display table of contents for child pages of the current page
         {% comment %}Going up - close details{% endcomment %}
         {% assign diff = last_level | minus: current_level %}
         {% for i in (1..diff) %}
-    </details>
-        {% assign level_stack = level_stack | pop %}
+          {% capture closing %}</details>{% endcapture %}
+          {% assign output = output | append: closing %}
+          {% assign level_stack = level_stack | pop %}
         {% endfor %}
       {% endif %}
       
@@ -95,20 +75,23 @@ Display table of contents for child pages of the current page
       {% assign next_header = child.headers[next_index] %}
       {% if next_header and next_header.level > current_level %}
         {% comment %}Has children - use details{% endcomment %}
-    <details>
-      <summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>
+        {% capture node %}<details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>{% endcapture %}
+        {% assign output = output | append: node %}
       {% else %}
         {% comment %}Leaf node - use p.listitem{% endcomment %}
-    <p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
+        {% capture node %}<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>{% endcapture %}
+        {% assign output = output | append: node %}
       {% endif %}
       
       {% if forloop.last %}
         {% comment %}Close all remaining details{% endcomment %}
         {% for level in level_stack %}
-    </details>
+          {% capture closing %}</details>{% endcapture %}
+          {% assign output = output | append: closing %}
         {% endfor %}
       {% endif %}
     {% endfor %}
+    {{ output }}
   {% endif %}
   </details>
 {% endfor %}
