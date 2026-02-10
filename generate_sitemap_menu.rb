@@ -83,11 +83,11 @@ def generate_header_html(header, page_url, indent_level)
   
   if header['children'].empty?
     # Leaf node - use p.listitem
-    html += "#{indent}<p class=\"listitem\"><a href=\"#{page_url}##{header['anchor']}\"><strong>#{header['text']}</strong></a></p>\n"
+    html += "#{indent}<p class=\"listitem\"><a href=\"#{page_url}##{header['anchor']}\">#{header['text']}</a></p>\n"
   else
     # Has children - use details/summary
     html += "#{indent}<details>\n"
-    html += "#{indent}  <summary><a href=\"#{page_url}##{header['anchor']}\"><strong>#{header['text']}</strong></a></summary>\n"
+    html += "#{indent}  <summary><a href=\"#{page_url}##{header['anchor']}\">#{header['text']}</a></summary>\n"
     header['children'].each do |child|
       html += generate_header_html(child, page_url, indent_level + 1)
     end
