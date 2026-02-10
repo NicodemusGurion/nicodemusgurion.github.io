@@ -16,7 +16,7 @@ Display table of contents for the current page
 {% if current_page and current_page.headers.size > 0 %}
 <nav class="page-toc">
   <details>
-    <summary>Table of contents...</summary>
+    <summary>Table of contents</summary>
 {% assign level_stack = "" | split: "" %}
 {% for header in current_page.headers %}
   {% assign current_level = header.level %}
