@@ -1,12 +1,12 @@
 {% comment %}
-Display table of contents for the current page based on its headers
+Display table of contents for the current page
 {% endcomment %}
 
 {% assign current_url = page.url %}
 
-{% comment %}Find the current page in the flat structure{% endcomment %}
+{% comment %}Find the current page{% endcomment %}
 {% assign current_page = null %}
-{% for item in site.data.site_structure.flat %}
+{% for item in site.data.site_structure.pages %}
   {% if item.url == current_url %}
     {% assign current_page = item %}
     {% break %}
@@ -14,10 +14,45 @@ Display table of contents for the current page based on its headers
 {% endfor %}
 
 {% if current_page and current_page.headers.size > 0 %}
+<nav class="page-toc">
   <details>
     <summary>Table of contents...</summary>
+{% assign level_stack = "" | split: "" %}
 {% for header in current_page.headers %}
-      <p class="listitem level-{{ header.level }}"><a href="#{{ header.anchor }}">{{ header.text }}</a></p>
+  {% assign current_level = header.level %}
+  {% assign last_level = level_stack | last | default: 0 %}
+  
+  {% if current_level > last_level %}
+    {% comment %}Going deeper{% endcomment %}
+    {% assign level_stack = level_stack | push: current_level %}
+  {% elsif current_level < last_level %}
+    {% comment %}Going up - close details{% endcomment %}
+    {% assign diff = last_level | minus: current_level %}
+    {% for i in (1..diff) %}
+    </details>
+    {% assign level_stack = level_stack | pop %}
+    {% endfor %}
+  {% endif %}
+  
+  {% comment %}Check if next header is deeper (has children){% endcomment %}
+  {% assign next_index = forloop.index %}
+  {% assign next_header = current_page.headers[next_index] %}
+  {% if next_header and next_header.level > current_level %}
+    {% comment %}Has children - use details{% endcomment %}
+    <details>
+      <summary><a href="#{{ header.anchor }}">{{ header.text }}</a></summary>
+  {% else %}
+    {% comment %}Leaf node - use p.listitem{% endcomment %}
+    <p class="listitem level-{{ header.level }}"><a href="#{{ header.anchor }}">{{ header.text }}</a></p>
+  {% endif %}
+  
+  {% if forloop.last %}
+    {% comment %}Close all remaining details{% endcomment %}
+    {% for level in level_stack %}
+    </details>
+    {% endfor %}
+  {% endif %}
 {% endfor %}
   </details>
+</nav>
 {% endif %}

@@ -3,70 +3,158 @@ require 'json'
 
 # Read the site structure
 data = JSON.parse(File.read('_data/site_structure.json'))
+pages = data['pages']
 
-# Generate HTML for a node and its children recursively
-def generate_html(node, level = 0)
-  html = ""
+# Build a tree structure from pages
+def build_tree(pages)
+  root = { 'url' => '/', 'children' => {} }
   
-  # Generate link for this node (skip root)
-  if node['url'] != '/'
-    indent = "  " * level
+  pages.each do |page|
+    path = page['tocpath'] || page['url']
+    path = path.chomp('/') unless path == '/'
+    segments = path.split('/').reject(&:empty?)
     
-    # Check if children should be excluded
-    should_show_children = !node['exclude_children'] && node['children'] && node['children'].length > 0
-    has_headers = node['headers'] && node['headers'].length > 0
-    
-    #html += "#{indent}<li>\n"
-    
-    # If there are children or headers, wrap in details/summary
-    if should_show_children #|| has_headers
-      html += "#{indent}  <details>\n"
-      html += "#{indent}    <summary><a href=\"#{node['url']}\">#{node['title']}</a></summary>\n"
+    current = root
+    segments.each_with_index do |segment, index|
+      current['children'] ||= {}
       
-      # Add headers if present
-      if has_headers
-        #html += "#{indent}    <ul class=\"headers\">\n"
-        node['headers'].each do |header|
-          html += "#{indent}      <p class=\"listitem sitemap-headers level-#{header['level']}\"><a href=\"#{node['url']}##{header['anchor']}\">#{header['text']}</a></p>\n"
-        end
-        #html += "#{indent}    </ul>\n"
+      unless current['children'][segment]
+        current['children'][segment] = {
+          'segment' => segment,
+          'children' => {}
+        }
       end
       
-      # Add children if present and not excluded
-      if should_show_children
-        #html += "#{indent}    <ul>\n"
-        node['children'].sort.each do |key, child|
-          html += generate_html(child, level + 3)
-        end
-        #html += "#{indent}    </ul>\n"
+      if index == segments.length - 1
+        # This is the actual page
+        current['children'][segment].merge!(page)
       end
       
-      html += "#{indent}  </details>\n"
+      current = current['children'][segment]
+    end
+  end
+  
+  # Add root page data
+  root_page = pages.find { |p| p['url'] == '/' }
+  root.merge!(root_page) if root_page
+  
+  root
+end
+
+# Generate ID from URL
+def url_to_id(url)
+  'menu' + url.gsub('/', '-').sub(/-$/, '')
+end
+
+# Build header tree with parent-child relationships
+def build_header_tree(headers)
+  return [] if headers.empty?
+  
+  result = []
+  stack = []
+  
+  headers.each do |header|
+    node = header.dup
+    node['children'] = []
+    
+    # Pop stack until we find a parent with lower level
+    while stack.any? && stack.last['level'] >= header['level']
+      stack.pop
+    end
+    
+    if stack.empty?
+      # Top level header
+      result << node
     else
-      # Just a simple link
-      html += "#{indent}  <p class=\"listitem\"><a href=\"#{node['url']}\">#{node['title']}</a></p>\n"
+      # Child of previous header
+      stack.last['children'] << node
     end
     
-    #html += "#{indent}</li>\n"
+    stack << node
+  end
+  
+  result
+end
+
+# Generate HTML for headers recursively
+def generate_header_html(header, page_url, indent_level)
+  html = ""
+  indent = "  " * indent_level
+  
+  if header['children'].empty?
+    # Leaf node - use p.listitem
+    html += "#{indent}<p class=\"listitem\"><a href=\"#{page_url}##{header['anchor']}\"><strong>#{header['text']}</strong></a></p>\n"
   else
-    # For root, just process children
-    if node['children'] && node['children'].length > 0
-      node['children'].sort.each do |key, child|
-        html += generate_html(child, level)
-      end
+    # Has children - use details/summary
+    html += "#{indent}<details>\n"
+    html += "#{indent}  <summary><a href=\"#{page_url}##{header['anchor']}\"><strong>#{header['text']}</strong></a></summary>\n"
+    header['children'].each do |child|
+      html += generate_header_html(child, page_url, indent_level + 1)
     end
+    html += "#{indent}</details>\n"
   end
   
   html
 end
 
-# Generate the complete menu
+# Generate HTML for a page node recursively
+def generate_page_html(node, level = 0)
+  return "" if node['url'].nil? # Skip nodes without pages
+  return "" if node['exclude_from_nav'] # Skip excluded pages
+  
+  html = ""
+  indent = "  " * level
+  
+  has_children = node['children'] && node['children'].any? { |k, v| v['url'] && !v['exclude_from_nav'] }
+  has_headers = node['headers'] && node['headers'].any?
+  
+  # Don't show children if exclude_children is set
+  has_children = false if node['exclude_children']
+  
+  if !has_children && !has_headers
+    # Leaf node - no children, no headers - use p.listitem
+    html += "#{indent}<p class=\"listitem\"><a href=\"#{node['url']}\">#{node['title']}</a></p>\n"
+  else
+    # Has children or headers - use details/summary
+    page_id = url_to_id(node['tocpath'] || node['url'])
+    html += "#{indent}<details id=\"#{page_id}\">\n"
+    html += "#{indent}  <summary><a href=\"#{node['url']}\">#{node['title']}</a></summary>\n"
+    
+    # Add headers if present
+    if has_headers
+      header_tree = build_header_tree(node['headers'])
+      header_tree.each do |header|
+        html += generate_header_html(header, node['url'], level + 1)
+      end
+    end
+    
+    # Add child pages if present
+    if has_children
+      node['children'].sort.each do |key, child|
+        html += generate_page_html(child, level + 1)
+      end
+    end
+    
+    html += "#{indent}</details>\n"
+  end
+  
+  html
+end
+
+# Build the tree and generate HTML
+tree = build_tree(pages)
+
 menu_html = "<nav class=\"sitemap-menu\">\n"
-menu_html += "  <ul>\n"
-menu_html += generate_html(data['hierarchy'], 1)
-menu_html += "  </ul>\n"
+
+# Process root's children
+if tree['children']
+  tree['children'].sort.each do |key, child|
+    menu_html += generate_page_html(child, 1)
+  end
+end
+
 menu_html += "</nav>\n"
 
 # Write to file
 File.write('_includes/sitemap_menu.html', menu_html)
-puts "Generated sitemap menu with #{data['flat'].length} pages"
+puts "Generated sitemap menu"

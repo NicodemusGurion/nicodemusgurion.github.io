@@ -50,7 +50,7 @@ Dir.glob('**/*.{md,markdown,html}').each do |file|
   # Skip files in certain directories
   next if file.start_with?('_site/', 'vendor/', '.bundle/', 'node_modules/')
   
-  # Skip any file that has a path component starting with underscore
+  # Skip any file that has a path component starting with underscore or dot
   path_parts = file.split('/')
   next if path_parts.any? { |part| part.start_with?('_') || part.start_with?('.') }
   
@@ -91,78 +91,9 @@ end
 # Sort pages by URL for consistency
 pages.sort_by! { |p| p['url'] }
 
-# Build hierarchical structure from flat list
-def build_hierarchy(pages)
-  root = {
-    'title' => 'Root',
-    'url' => '/',
-    'headers' => [],
-    'children' => {},
-    'include_in_menu' => false,
-    'exclude_children' => false
-  }
-  
-  pages.each do |page|
-    path_for_structure = page['tocpath'] || page['url']
-    path_for_structure = path_for_structure.chomp('/') unless path_for_structure == '/'
-    segments = path_for_structure.split('/').reject(&:empty?)
-    
-    next if segments.empty?
-    
-    current = root
-    segments.each_with_index do |segment, index|
-      current['children'] ||= {}
-      
-      if index == segments.length - 1
-        if current['children'][segment]
-          current['children'][segment]['title'] = page['title']
-          current['children'][segment]['url'] = page['url']
-          current['children'][segment]['headers'] = page['headers']
-          current['children'][segment]['include_in_menu'] = page['include_in_menu']
-          current['children'][segment]['exclude_children'] = page['exclude_children']
-        else
-          current['children'][segment] = {
-            'title' => page['title'],
-            'url' => page['url'],
-            'headers' => page['headers'],
-            'children' => {},
-            'include_in_menu' => page['include_in_menu'],
-            'exclude_children' => page['exclude_children']
-          }
-        end
-      else
-        unless current['children'][segment]
-          current['children'][segment] = {
-            'title' => segment.split('-').map(&:capitalize).join(' '),
-            'url' => '/' + segments[0..index].join('/') + '/',
-            'headers' => [],
-            'children' => {},
-            'include_in_menu' => false,
-            'exclude_children' => false
-          }
-        end
-        current = current['children'][segment]
-      end
-    end
-  end
-  
-  root_page = pages.find { |p| p['url'] == '/' }
-  if root_page
-    root['title'] = root_page['title']
-    root['headers'] = root_page['headers']
-    root['include_in_menu'] = root_page['include_in_menu']
-    root['exclude_children'] = root_page['exclude_children']
-  end
-  
-  root
-end
-
-hierarchy = build_hierarchy(pages)
-
-# Output JSON
+# Output JSON (just flat data)
 output = {
-  'hierarchy' => hierarchy,
-  'flat' => pages
+  'pages' => pages
 }
 
 File.write('_data/site_structure.json', JSON.pretty_generate(output))
