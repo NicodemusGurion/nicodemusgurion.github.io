@@ -156,6 +156,9 @@ See also: [Jami` at-Tirmidhi 877](https://sunnah.com/tirmidhi:877)
 
 Even Umar recognized that kissing the black stone was a pointless act of idolatry, but he only did so because Muhammad did so.
 
+## foo 
+
+# bar
 
 # Paradise
 
