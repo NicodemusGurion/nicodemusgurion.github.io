@@ -1,56 +1,117 @@
-{%- comment -%}
+{% comment %}
 Display table of contents for child pages of the current page
-{%- endcomment -%}
+{% endcomment %}
 
-{%- assign current_url = page.url -%}
-{%- assign current_tocpath = page.tocpath | default: current_url -%}
+{% assign current_url = page.url %}
+{% assign current_tocpath = page.tocpath | default: current_url %}
 
-{%- comment -%}Normalize current path{%- endcomment -%}
-{%- if current_tocpath == "/" -%}
-  {%- assign normalized_current = "/" -%}
-{%- else -%}
-  {%- assign normalized_current = current_tocpath | remove_first: "/" | remove: "/" -%}
-{%- endif -%}
+{% comment %}Normalize current path{% endcomment %}
+{% if current_tocpath == "/" %}
+  {% assign normalized_current = "/" %}
+{% else %}
+  {% assign normalized_current = current_tocpath | remove_first: "/" | remove: "/" %}
+{% endif %}
 
-{%- comment -%}Find child pages{%- endcomment -%}
-{%- assign child_pages = site.data.site_structure.pages | where_exp: "item", "item.url != current_url" -%}
+{% comment %}Find child pages{% endcomment %}
+{% assign child_pages = site.data.site_structure.pages | where_exp: "item", "item.url != current_url" %}
 
-{%- comment -%}Filter to only direct children{%- endcomment -%}
-{%- assign children = "" | split: "" -%}
-{%- for item in child_pages -%}
-  {%- assign item_tocpath = item.tocpath | default: item.url -%}
+{% comment %}Filter to only direct children{% endcomment %}
+{% assign children = "" | split: "" %}
+{% for item in child_pages %}
+  {% assign item_tocpath = item.tocpath | default: item.url %}
   
-  {%- comment -%}Normalize item path{%- endcomment -%}
-  {%- if item_tocpath == "/" -%}
-    {%- assign normalized_item = "/" -%}
-  {%- else -%}
-    {%- assign normalized_item = item_tocpath | remove_first: "/" | remove: "/" -%}
-  {%- endif -%}
+  {% comment %}Normalize item path{% endcomment %}
+  {% if item_tocpath == "/" %}
+    {% assign normalized_item = "/" %}
+  {% else %}
+    {% assign normalized_item = item_tocpath | remove_first: "/" | remove: "/" %}
+  {% endif %}
   
-  {%- comment -%}Check if this item is a direct child{%- endcomment -%}
-  {%- if normalized_current == "/" -%}
-    {%- assign segments = normalized_item | split: "/" -%}
-    {%- if segments.size == 1 -%}
-      {%- assign children = children | push: item -%}
-    {%- endif -%}
-  {%- else -%}
-    {%- if normalized_item contains normalized_current -%}
-      {%- assign item_remainder = normalized_item | remove_first: normalized_current | remove_first: "/" -%}
-      {%- assign remainder_segments = item_remainder | split: "/" -%}
-      {%- if remainder_segments.size == 1 and item_remainder != "" -%}
-        {%- assign children = children | push: item -%}
-      {%- endif -%}
-    {%- endif -%}
-  {%- endif -%}
-{%- endfor -%}
+  {% comment %}Check if this item is a direct child{% endcomment %}
+  {% if normalized_current == "/" %}
+    {% assign segments = normalized_item | split: "/" %}
+    {% if segments.size == 1 %}
+      {% assign children = children | push: item %}
+    {% endif %}
+  {% else %}
+    {% if normalized_item contains normalized_current %}
+      {% assign item_remainder = normalized_item | remove_first: normalized_current | remove_first: "/" %}
+      {% assign remainder_segments = item_remainder | split: "/" %}
+      {% if remainder_segments.size == 1 and item_remainder != "" %}
+        {% assign children = children | push: item %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
 
-{%- if children.size > 0 -%}
+{% if children.size > 0 %}
 <nav class="child-pages-toc">
   <h2>Child Pages</h2>
-{%- for child in children -%}
+{% for child in children %}
   <details open>
-    <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>{%- if child.headers.size > 0 -%}{%- assign output = "" -%}{%- assign level_stack = "" | split: "" -%}{%- for header in child.headers -%}{%- assign current_level = header.level -%}{%- assign last_level = level_stack | last | default: 0 -%}{%- if current_level > last_level -%}{%- assign level_stack = level_stack | push: current_level -%}{%- elsif current_level < last_level -%}{%- assign diff = last_level | minus: current_level -%}{%- for i in (1..diff) -%}{%- capture closing -%}</details>{%- endcapture -%}{%- assign output = output | append: closing -%}{%- assign level_stack = level_stack | pop -%}{%- endfor -%}{%- endif -%}{%- assign next_index = forloop.index -%}{%- assign next_header = child.headers[next_index] -%}{%- if next_header and next_header.level > current_level -%}{%- capture node -%}<details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>{%- endcapture -%}{%- assign output = output | append: node -%}{%- else -%}{%- capture node -%}<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>{%- endcapture -%}{%- assign output = output | append: node -%}{%- endif -%}{%- if forloop.last -%}{%- for level in level_stack -%}{%- capture closing -%}</details>{%- endcapture -%}{%- assign output = output | append: closing -%}{%- endfor -%}{%- endif -%}{%- endfor -%}{{ output }}{%- endif -%}
+    <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
+  {% if child.headers.size > 0 %}
+    {% comment %}Build the header tree structure first{% endcomment %}
+    {% assign header_tree = "" | split: "" %}
+    {% assign stack = "" | split: "" %}
+    
+    {% for header in child.headers %}
+      {% assign node = header %}
+      
+      {% comment %}Pop stack until we find a parent with lower level{% endcomment %}
+      {% assign new_stack = "" | split: "" %}
+      {% for stack_item in stack %}
+        {% if stack_item.level < header.level %}
+          {% assign new_stack = new_stack | push: stack_item %}
+        {% endif %}
+      {% endfor %}
+      {% assign stack = new_stack %}
+      
+      {% comment %}Add depth information{% endcomment %}
+      {% assign depth = stack.size %}
+      {% assign header_with_depth = header | merge: "depth", depth %}
+      {% assign header_tree = header_tree | push: header_with_depth %}
+      
+      {% comment %}Push current to stack{% endcomment %}
+      {% assign stack = stack | push: header %}
+    {% endfor %}
+    
+    {% comment %}Now render the tree{% endcomment %}
+    {% assign current_depth = 0 %}
+    {% for header in header_tree %}
+      {% if header.depth > current_depth %}
+        {% comment %}Going deeper{% endcomment %}
+        {% assign diff = header.depth | minus: current_depth %}
+        {% for i in (1..diff) %}<details>{% endfor %}
+      {% elsif header.depth < current_depth %}
+        {% comment %}Going up{% endcomment %}
+        {% assign diff = current_depth | minus: header.depth %}
+        {% for i in (1..diff) %}</details>{% endfor %}
+      {% endif %}
+      
+      {% comment %}Check if next header is deeper{% endcomment %}
+      {% assign next_index = forloop.index %}
+      {% if next_index < header_tree.size %}
+        {% assign next_header = header_tree[next_index] %}
+        {% if next_header.depth > header.depth %}
+<summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>
+        {% else %}
+<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
+        {% endif %}
+      {% else %}
+        {% comment %}Last header - it's a leaf{% endcomment %}
+<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
+      {% endif %}
+      
+      {% assign current_depth = header.depth %}
+      
+      {% if forloop.last %}
+        {% comment %}Close all remaining details{% endcomment %}
+        {% for i in (1..current_depth) %}</details>{% endfor %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
   </details>
-{%- endfor -%}
+{% endfor %}
 </nav>
-{%- endif -%}
+{% endif %}
