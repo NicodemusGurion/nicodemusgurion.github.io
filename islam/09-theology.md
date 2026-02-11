@@ -158,9 +158,7 @@ Even Umar recognized that kissing the black stone was a pointless act of idolatr
 
 ## foo 
 
-# bar
-
-# Paradise
+# bar Paradise
 
 The Islamic paradise is a very physical place where people will have sex, and eat food. But the food all tastes the same, and they will not poop, but belch out the excrement as musk.
 
