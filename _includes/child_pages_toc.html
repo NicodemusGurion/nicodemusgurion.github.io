@@ -1,3 +1,5 @@
+{::nomarkdown}
+
 {% comment %}
 Display table of contents for child pages of the current page
 {% endcomment %}
@@ -45,7 +47,7 @@ Display table of contents for child pages of the current page
 {% endfor %}
 
 {% if children.size > 0 %}
-{::nomarkdown}
+
 <nav class="child-pages-toc">
  
 {%   for child in children %}
@@ -101,5 +103,7 @@ Display table of contents for child pages of the current page
    
 
 </nav>
-{:/nomarkdown}
+
 {% endif %}
+
+{:/nomarkdown}
