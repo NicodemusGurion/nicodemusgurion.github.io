@@ -51,51 +51,29 @@ Display table of contents for child pages of the current page
   <details open>
     <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
   {% if child.headers.size > 0 %}
-    {% comment %}Build the header tree structure first{% endcomment %}
-    {% assign header_tree = "" | split: "" %}
-    {% assign stack = "" | split: "" %}
-    
+    {% assign prev_level = 0 %}
     {% for header in child.headers %}
-      {% assign node = header %}
+      {% assign current_level = header.level %}
       
-      {% comment %}Pop stack until we find a parent with lower level{% endcomment %}
-      {% assign new_stack = "" | split: "" %}
-      {% for stack_item in stack %}
-        {% if stack_item.level < header.level %}
-          {% assign new_stack = new_stack | push: stack_item %}
-        {% endif %}
-      {% endfor %}
-      {% assign stack = new_stack %}
-      
-      {% comment %}Add depth information{% endcomment %}
-      {% assign depth = stack.size %}
-      {% assign header_with_depth = header | merge: "depth", depth %}
-      {% assign header_tree = header_tree | push: header_with_depth %}
-      
-      {% comment %}Push current to stack{% endcomment %}
-      {% assign stack = stack | push: header %}
-    {% endfor %}
-    
-    {% comment %}Now render the tree{% endcomment %}
-    {% assign current_depth = 0 %}
-    {% for header in header_tree %}
-      {% if header.depth > current_depth %}
+      {% if current_level > prev_level %}
         {% comment %}Going deeper{% endcomment %}
-        {% assign diff = header.depth | minus: current_depth %}
+        {% assign diff = current_level | minus: prev_level %}
         {% for i in (1..diff) %}<details>{% endfor %}
-      {% elsif header.depth < current_depth %}
-        {% comment %}Going up{% endcomment %}
-        {% assign diff = current_depth | minus: header.depth %}
+      {% elsif current_level < prev_level %}
+        {% comment %}Going up - close details tags{% endcomment %}
+        {% assign diff = prev_level | minus: current_level %}
         {% for i in (1..diff) %}</details>{% endfor %}
       {% endif %}
       
-      {% comment %}Check if next header is deeper{% endcomment %}
+      {% comment %}Check if next header is at a deeper level{% endcomment %}
       {% assign next_index = forloop.index %}
-      {% if next_index < header_tree.size %}
-        {% assign next_header = header_tree[next_index] %}
-        {% if next_header.depth > header.depth %}
+      {% if next_index < child.headers.size %}
+        {% assign next_header = child.headers[next_index] %}
+        {% if next_header.level > current_level %}
+          {% comment %}Has children - use summary{% endcomment %}
 <summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>
         {% else %}
+          {% comment %}No children - use p.listitem{% endcomment %}
 <p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
         {% endif %}
       {% else %}
@@ -103,11 +81,11 @@ Display table of contents for child pages of the current page
 <p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
       {% endif %}
       
-      {% assign current_depth = header.depth %}
+      {% assign prev_level = current_level %}
       
       {% if forloop.last %}
         {% comment %}Close all remaining details{% endcomment %}
-        {% for i in (1..current_depth) %}</details>{% endfor %}
+        {% for i in (1..prev_level) %}</details>{% endfor %}
       {% endif %}
     {% endfor %}
   {% endif %}
