@@ -53,15 +53,17 @@ Display table of contents for child pages of the current page
     <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
   {% if child.headers.size > 0 %}
     {% assign prev_level = 0 %}
+    {% assign open_details_count = 0 %}
     {% for header in child.headers %}
       {% assign current_level = header.level %}
       
-      {% comment %}Close details when going up levels{% endcomment %}
-      {% if current_level < prev_level %}
-        {% assign diff = prev_level | minus: current_level %}
-        {% for i in (1..diff) %}
+      {% comment %}Close details when going up levels or staying same{% endcomment %}
+      {% if current_level <= prev_level and open_details_count > 0 %}
+        {% comment %}Close all open details{% endcomment %}
+        {% for i in (1..open_details_count) %}
   </details>
         {% endfor %}
+        {% assign open_details_count = 0 %}
       {% endif %}
       
       {% comment %}Check if next header is at a deeper level{% endcomment %}
@@ -78,6 +80,7 @@ Display table of contents for child pages of the current page
         {% comment %}Has children - open details with this header as summary{% endcomment %}
   <details>
     <summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>
+        {% assign open_details_count = open_details_count | plus: 1 %}
       {% else %}
         {% comment %}No children - use p.listitem{% endcomment %}
   <p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
@@ -87,7 +90,7 @@ Display table of contents for child pages of the current page
       
       {% if forloop.last %}
         {% comment %}Close all remaining details{% endcomment %}
-        {% for i in (1..prev_level) %}
+        {% for i in (1..open_details_count) %}
   </details>
         {% endfor %}
       {% endif %}
