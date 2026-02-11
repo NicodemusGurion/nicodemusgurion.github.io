@@ -2948,6 +2948,16 @@
           "anchor": "kissing-the-stone-is-idolatry"
         },
         {
+          "level": 2,
+          "text": "foo",
+          "anchor": "foo"
+        },
+        {
+          "level": 1,
+          "text": "bar",
+          "anchor": "bar"
+        },
+        {
           "level": 1,
           "text": "Paradise",
           "anchor": "paradise"
