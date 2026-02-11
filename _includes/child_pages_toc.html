@@ -1,4 +1,4 @@
-{::nomarkdown}
+
 
 {% comment %}
 Display table of contents for child pages of the current page
@@ -47,13 +47,15 @@ Display table of contents for child pages of the current page
 {% endfor %}
 
 {% if children.size > 0 %}
-
+{::nomarkdown}
 <nav class="child-pages-toc">
- 
+{::/nomarkdown}
 {%   for child in children %}
 {%     if child.headers.size > 0 %}
+{::nomarkdown}
   <details open>
-    <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
+    <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>{::/nomarkdown}
+
 {%       assign prev_level = 0 %}
 {%       assign current_level = 0 %}
 {%       for header in child.headers %}
@@ -61,7 +63,7 @@ Display table of contents for child pages of the current page
 {%         if current_level < prev_level %}
 {%           assign difference = prev_level | minus: current_level %}
 {%           for i in (1..difference) %}
-</details>
+{::nomarkdown}</details>{::nomarkdown}
 {%           endfor %}
 {%         endif %}
 
@@ -74,13 +76,13 @@ Display table of contents for child pages of the current page
 {%         endif %}
 
 {%         if has_children %}
-
+{::nomarkdown}
 <details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary> 
-
+{::/nomarkdown}
 {%         else %}
-
+{::nomarkdown}
 <p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
-
+{::/nomarkdown}
 {%         endif %}
 {%           assign prev_level = current_level %}
 
@@ -89,22 +91,23 @@ Display table of contents for child pages of the current page
 
 {%       if current_level > 0 %}
 {%         for i in (1..current_level) %}
+{::nomarkdown}
 </details> 
+{::/nomarkdown}
 {%         endfor %}
 {%       endif %}
-
+{::nomarkdown}
 </details>
-
+{::/nomarkdown}
 {%     else %}
-
+{::nomarkdown}
 <p class="listitem"><a href="{{ child.url }}">{{ child.title }}</a></p>
-
+{::/nomarkdown}
 {%     endif %}
 {%   endfor %}
    
-
+{::nomarkdown}
 </nav>
-
+{::/nomarkdown}
 {% endif %}
 
-{:/nomarkdown}
