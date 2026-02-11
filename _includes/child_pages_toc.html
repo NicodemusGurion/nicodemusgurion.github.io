@@ -58,11 +58,11 @@ Display table of contents for child pages of the current page
 {%       assign current_level = 0 %}
 {%       for header in child.headers %}
 {%         assign current_level = header.level %}
-Current level: {{ current_level }}<br>
+
 {%         if current_level < prev_level %}
 {%           assign difference = prev_level | minus: current_level %}
 {%           for i in (1..difference) %}
-</details>Going down one level<br>
+</details>
 {%           endfor %}
 {%         endif %}
 
@@ -76,21 +76,21 @@ Current level: {{ current_level }}<br>
 
 {%         if has_children %}
 
-<details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a>Current level: {{ current_level }}<br></summary> 
+<details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary> 
 
 {%         else %}
 
-<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a>Current level: {{ current_level }}<br></p>
+<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
 
 {%         endif %}
 {%           assign prev_level = current_level %}
-Prev level: {{ prev_level }}<br>
+
 {%       endfor %}
 
 
 {%       if current_level > 0 %}
 {%         for i in (1..current_level) %}
-</details> Going down one level (final)
+</details> 
 {%         endfor %}
 {%       endif %}
 
@@ -98,7 +98,7 @@ Prev level: {{ prev_level }}<br>
 
 {%     else %}
 
-<p class="listitem"><a href="{{ child.url }}">{{ child.title }}</a>Current level: {{ current_level }}</p>
+<p class="listitem"><a href="{{ child.url }}">{{ child.title }}</a></p>
 
 {%     endif %}
 {%   endfor %}
