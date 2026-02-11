@@ -47,48 +47,7 @@ Display table of contents for child pages of the current page
 {% if children.size > 0 %}
 <nav class="child-pages-toc">
   <h2>Child Pages</h2>
-{% for child in children %}
-  <details open>
-    <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
-  {% if child.headers.size > 0 %}
-    {% assign prev_level = 0 %}
-    {% for header in child.headers %}
-      {% assign current_level = header.level %}
-      
-      {% comment %}Close details when going up levels{% endcomment %}
-      {% if current_level < prev_level %}
-        {% assign diff = prev_level | minus: current_level %}
-        {% for i in (1..diff) %}</details>{% endfor %}
-      {% endif %}
-      
-      {% comment %}Check if next header is at a deeper level{% endcomment %}
-      {% assign next_index = forloop.index %}
-      {% assign has_children = false %}
-      {% if next_index < child.headers.size %}
-        {% assign next_header = child.headers[next_index] %}
-        {% if next_header.level > current_level %}
-          {% assign has_children = true %}
-        {% endif %}
-      {% endif %}
-      
-      {% if has_children %}
-        {% comment %}Has children - open details with this header as summary{% endcomment %}
-<details>
-<summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>
-      {% else %}
-        {% comment %}No children - use p.listitem{% endcomment %}
-<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
-      {% endif %}
-      
-      {% assign prev_level = current_level %}
-      
-      {% if forloop.last %}
-        {% comment %}Close all remaining details{% endcomment %}
-        {% for i in (1..prev_level) %}</details>{% endfor %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
-  </details>
+{% for child in children %}<details open><summary><a href="{{ child.url }}">{{ child.title }}</a></summary>{% if child.headers.size > 0 %}{% assign html_output = "" %}{% assign prev_level = 0 %}{% for header in child.headers %}{% assign current_level = header.level %}{% if current_level < prev_level %}{% assign diff = prev_level | minus: current_level %}{% for i in (1..diff) %}{% capture close_tag %}</details>{% endcapture %}{% assign html_output = html_output | append: close_tag %}{% endfor %}{% endif %}{% assign next_index = forloop.index %}{% assign has_children = false %}{% if next_index < child.headers.size %}{% assign next_header = child.headers[next_index] %}{% if next_header.level > current_level %}{% assign has_children = true %}{% endif %}{% endif %}{% if has_children %}{% capture open_details %}<details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>{% endcapture %}{% assign html_output = html_output | append: open_details %}{% else %}{% capture list_item %}<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>{% endcapture %}{% assign html_output = html_output | append: list_item %}{% endif %}{% assign prev_level = current_level %}{% if forloop.last %}{% for i in (1..prev_level) %}{% capture close_tag %}</details>{% endcapture %}{% assign html_output = html_output | append: close_tag %}{% endfor %}{% endif %}{% endfor %}{{ html_output }}{% endif %}</details>
 {% endfor %}
 </nav>
 {% endif %}
