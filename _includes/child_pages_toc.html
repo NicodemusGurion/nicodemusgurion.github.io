@@ -47,13 +47,13 @@ Display table of contents for child pages of the current page
 
 {% if children.size > 0 %}
 
-\<nav class="child-pages-toc"\>
+<nav class="child-pages-toc">
 
 {%   for child in children %}
 {%     if child.headers.size > 0 %}
 
-  \<details open\>
-    \<summary\>\<a href="{{ child.url }}"\>{{ child.title }}\</a\>\</summary\>
+  <details open>
+    <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
 
 {%       assign prev_level = 0 %}
 {%       assign current_level = 0 %}
@@ -62,7 +62,7 @@ Display table of contents for child pages of the current page
 {%         if current_level < prev_level %}
 {%           assign difference = prev_level | minus: current_level %}
 {%           for i in (1..difference) %}
-\</details\>
+</details>
 {%           endfor %}
 {%         endif %}
 
@@ -76,11 +76,11 @@ Display table of contents for child pages of the current page
 
 {%         if has_children %}
 
-\<details\>\<summary\>\<a href="{{ child.url }}#{{ header.anchor }}"\>{{ header.text }}\</a\>\</summary\> 
+<details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary> 
 
 {%         else %}
 
-\<p class="listitem level-{{ header.level }}"\>\<a href="{{ child.url }}#{{ header.anchor }}"\>{{ header.text }}\</a\>\</p\>
+<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
 
 {%         endif %}
 {%           assign prev_level = current_level %}
@@ -91,22 +91,22 @@ Display table of contents for child pages of the current page
 {%       if current_level > 0 %}
 {%         for i in (1..current_level) %}
 
-\</details\> 
+</details> 
 
 {%         endfor %}
 {%       endif %}
 
-\</details\>
+</details>
 
 {%     else %}
 
-\<p class="listitem"\>\<a href="{{ child.url }}"\>{{ child.title }}\</a\>\</p\>
+<p class="listitem"><a href="{{ child.url }}">{{ child.title }}</a></p>
 
 {%     endif %}
 {%   endfor %}
    
 
-\</nav\>
+</nav>
 
 {% endif %}
 
