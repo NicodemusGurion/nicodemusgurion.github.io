@@ -2954,13 +2954,8 @@
         },
         {
           "level": 1,
-          "text": "bar",
-          "anchor": "bar"
-        },
-        {
-          "level": 1,
-          "text": "Paradise",
-          "anchor": "paradise"
+          "text": "bar Paradise",
+          "anchor": "bar-paradise"
         },
         {
           "level": 2,
