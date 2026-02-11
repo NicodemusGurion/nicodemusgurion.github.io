@@ -53,12 +53,11 @@ Display table of contents for child pages of the current page
 {%   for child in children %}
 {%     if child.headers.size > 0 %}
   <details open>
-    <summary><a href="{{ child.url }}">{{ child.title }}</a> has children </summary>
+    <summary><a href="{{ child.url }}">{{ child.title }}</a></summary>
 {%       assign prev_level = 0 %}
 {%       assign current_level = 0 %}
 {%       for header in child.headers %}
 {%         assign current_level = header.level %}
-
 {%         if current_level < prev_level %}
 {%           assign difference = prev_level | minus: current_level %}
 {%           for i in (1..difference) %}
