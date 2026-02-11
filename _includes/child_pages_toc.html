@@ -55,29 +55,28 @@ Display table of contents for child pages of the current page
     {% for header in child.headers %}
       {% assign current_level = header.level %}
       
-      {% if current_level > prev_level %}
-        {% comment %}Going deeper{% endcomment %}
-        {% assign diff = current_level | minus: prev_level %}
-        {% for i in (1..diff) %}<details>{% endfor %}
-      {% elsif current_level < prev_level %}
-        {% comment %}Going up - close details tags{% endcomment %}
+      {% comment %}Close details when going up levels{% endcomment %}
+      {% if current_level < prev_level %}
         {% assign diff = prev_level | minus: current_level %}
         {% for i in (1..diff) %}</details>{% endfor %}
       {% endif %}
       
       {% comment %}Check if next header is at a deeper level{% endcomment %}
       {% assign next_index = forloop.index %}
+      {% assign has_children = false %}
       {% if next_index < child.headers.size %}
         {% assign next_header = child.headers[next_index] %}
         {% if next_header.level > current_level %}
-          {% comment %}Has children - use summary{% endcomment %}
-<summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>
-        {% else %}
-          {% comment %}No children - use p.listitem{% endcomment %}
-<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
+          {% assign has_children = true %}
         {% endif %}
+      {% endif %}
+      
+      {% if has_children %}
+        {% comment %}Has children - open details with this header as summary{% endcomment %}
+<details>
+<summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>
       {% else %}
-        {% comment %}Last header - it's a leaf{% endcomment %}
+        {% comment %}No children - use p.listitem{% endcomment %}
 <p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
       {% endif %}
       
