@@ -7,4 +7,6 @@ menu: true
 permalink: /islam/
 ---
 
+
 {% include child_pages_toc.html %}
+

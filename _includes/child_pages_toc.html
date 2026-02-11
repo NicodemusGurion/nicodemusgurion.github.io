@@ -1,53 +1,18 @@
-{% comment %}
-Display table of contents for child pages of the current page
-{% endcomment %}
+{% comment %} Display table of contents for child pages of the current page {% endcomment %} {% assign current_url = page.url %} {% assign current_tocpath = page.tocpath | default: current_url %} {% comment %}Normalize current path{% endcomment %} {% if current_tocpath == "/" %}\n {% assign normalized_current = "/" %} {% else %}\n {% assign normalized_current = current_tocpath | remove_first: "/" | remove: "/" %} {% endif %} {% comment %}Find child pages{% endcomment %} {% assign child_pages = site.data.site_structure.pages | where_exp: "item", "item.url != current_url" %} {% comment %}Filter to only direct children{% endcomment %} {% assign children = "" | split: "" %} {% for item in child_pages %}\n {% assign item_tocpath = item.tocpath | default: item.url %}\n \n {% comment %}Normalize item path{% endcomment %}\n {% if item_tocpath == "/" %}\n   {% assign normalized_item = "/" %}\n {% else %}\n   {% assign normalized_item = item_tocpath | remove_first: "/" | remove: "/" %}\n {% endif %}\n \n {% comment %}Check if this item is a direct child{% endcomment %}\n {% if normalized_current == "/" %}\n   {% assign segments = normalized_item | split: "/" %}\n   {% if segments.size == 1 %}\n     {% assign children = children | push: item %}\n   {% endif %}\n {% else %}\n   {% if normalized_item contains normalized_current %}\n     {% assign item_remainder = normalized_item | remove_first: normalized_current | remove_first: "/" %}\n     {% assign remainder_segments = item_remainder | split: "/" %}\n     {% if remainder_segments.size == 1 and item_remainder != "" %}\n       {% assign children = children | push: item %}\n     {% endif %}\n   {% endif %}\n {% endif %} {% endfor %}  {% if children.size > 0 %} <nav class="child-pages-toc">   {% for child in children %}  <details open><summary><a href="{{ child.url }}">{{ child.title }}</a></summary>  {% if child.headers.size > 0 %}{% assign html_output = "" %}{% assign prev_level = 0 %}{% for header in child.headers %}{% assign current_level = header.level %}{% if current_level < prev_level %}{% assign diff = prev_level | minus: current_level %}{% for i in (1..diff) %}{% capture close_tag %}</details>{% endcapture %}{% assign html_output = html_output | append: close_tag %}{% endfor %}{% endif %}{% assign next_index = forloop.index %}{% assign has_children = false %}{% if next_index < child.headers.size %}{% assign next_header = child.headers[next_index] %}{% if next_header.level > current_level %}{% assign has_children = true %}{% endif %}{% endif %}{% if has_children %}{% capture open_details %}
 
-{% assign current_url = page.url %}
-{% assign current_tocpath = page.tocpath | default: current_url %}
+<details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>
 
-{% comment %}Normalize current path{% endcomment %}
-{% if current_tocpath == "/" %}
-  {% assign normalized_current = "/" %}
-{% else %}
-  {% assign normalized_current = current_tocpath | remove_first: "/" | remove: "/" %}
-{% endif %}
+{% endcapture %}{% assign html_output = html_output | append: open_details %}{% else %}{% capture list_item %}
 
-{% comment %}Find child pages{% endcomment %}
-{% assign child_pages = site.data.site_structure.pages | where_exp: "item", "item.url != current_url" %}
+<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>
 
-{% comment %}Filter to only direct children{% endcomment %}
-{% assign children = "" | split: "" %}
-{% for item in child_pages %}
-  {% assign item_tocpath = item.tocpath | default: item.url %}
-  
-  {% comment %}Normalize item path{% endcomment %}
-  {% if item_tocpath == "/" %}
-    {% assign normalized_item = "/" %}
-  {% else %}
-    {% assign normalized_item = item_tocpath | remove_first: "/" | remove: "/" %}
-  {% endif %}
-  
-  {% comment %}Check if this item is a direct child{% endcomment %}
-  {% if normalized_current == "/" %}
-    {% assign segments = normalized_item | split: "/" %}
-    {% if segments.size == 1 %}
-      {% assign children = children | push: item %}
-    {% endif %}
-  {% else %}
-    {% if normalized_item contains normalized_current %}
-      {% assign item_remainder = normalized_item | remove_first: normalized_current | remove_first: "/" %}
-      {% assign remainder_segments = item_remainder | split: "/" %}
-      {% if remainder_segments.size == 1 and item_remainder != "" %}
-        {% assign children = children | push: item %}
-      {% endif %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
+{% endcapture %}{% assign html_output = html_output | append: list_item %}{% endif %}{% assign prev_level = current_level %}{% if forloop.last %}{% for i in (1..prev_level) %}{% capture close_tag %}
 
-{% if children.size > 0 %}
-<nav class="child-pages-toc">
-  <h2>Child Pages</h2>
-{% for child in children %}<details open><summary><a href="{{ child.url }}">{{ child.title }}</a></summary>{% if child.headers.size > 0 %}{% assign html_output = "" %}{% assign prev_level = 0 %}{% for header in child.headers %}{% assign current_level = header.level %}{% if current_level < prev_level %}{% assign diff = prev_level | minus: current_level %}{% for i in (1..diff) %}{% capture close_tag %}</details>{% endcapture %}{% assign html_output = html_output | append: close_tag %}{% endfor %}{% endif %}{% assign next_index = forloop.index %}{% assign has_children = false %}{% if next_index < child.headers.size %}{% assign next_header = child.headers[next_index] %}{% if next_header.level > current_level %}{% assign has_children = true %}{% endif %}{% endif %}{% if has_children %}{% capture open_details %}<details><summary><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></summary>{% endcapture %}{% assign html_output = html_output | append: open_details %}{% else %}{% capture list_item %}<p class="listitem level-{{ header.level }}"><a href="{{ child.url }}#{{ header.anchor }}">{{ header.text }}</a></p>{% endcapture %}{% assign html_output = html_output | append: list_item %}{% endif %}{% assign prev_level = current_level %}{% if forloop.last %}{% for i in (1..prev_level) %}{% capture close_tag %}</details>{% endcapture %}{% assign html_output = html_output | append: close_tag %}{% endfor %}{% endif %}{% endfor %}{{ html_output }}{% endif %}
-{% endfor %}
+</details>
+
+{% endcapture %}{% assign html_output = html_output | append: close_tag %}{% endfor %}{% endif %}{% endfor %}{{ html_output }}{% endif %} {% endfor %} 
+
 </nav>
-{% endif %}
+
+
+ {% endif %} 
