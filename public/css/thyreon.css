@@ -45,6 +45,10 @@ summary::after {
   content: " ...";
 }
 
+details[open] > summary::after {
+  content: "";
+}
+
 
 .searchResults 
 {
