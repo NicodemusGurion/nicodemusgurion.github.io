@@ -95,9 +95,9 @@ Display table of contents for child pages of the current page
 {::/}
 {%         endfor %}
 {%       endif %}
-
+{::nomarkdown}
 </details>
-
+{::/nomarkdown}
 {%     else %}
 
 <p class="listitem"><a href="{{ child.url }}">{{ child.title }}</a></p>
