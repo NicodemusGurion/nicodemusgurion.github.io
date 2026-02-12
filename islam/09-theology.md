@@ -102,7 +102,7 @@ If demons wants you to follow Islam, that should be enough for you to understand
 
 The Kaaba is a black cubic temple in Mecca towards which Muslims turn to pray. It used to be a pagan temple with 360 idols in it, until Muhammad conquered Mecca in 630AD and emptied it. In one of the corners of the building sits a big black stone (or actually the fragments of a stone glued together) which Muslims reverently touch and kiss thinking that it erases their sins. This is of course blatant idolatry.
 
-### The Muslims used to pray toward Jerusalem {#jerusalem-qiblah}
+## The Muslims used to pray toward Jerusalem {#jerusalem-qiblah}
 
 [Sunan an-Nasa'i 488](https://sunnah.com/nasai:488)
 
@@ -123,18 +123,18 @@ See also:
 - [Sahih al-Bukhari 4492](https://sunnah.com/bukhari:4492)
 - [Sunan Ibn Majah 1010](https://sunnah.com/ibnmajah:1010)
 
-### Peeing towards the Qiblah 
+## Peeing towards the Qiblah 
 
 [Muhammad peed facing the Qiblah]{#peeing-qiblah}
 
-### Pooping toward the Qiblah
+## Pooping toward the Qiblah
 
 [Muhammad pooped facing the Qiblah]{#pooping-qiblah}
 
 
-## The Black stone {#black-stone}
+# The Black stone {#black-stone}
 
-### The black stone absorbs sins
+## The black stone absorbs sins
 
 [Mishkat al-Masabih 2577](https://sunnah.com/mishkat:2577)
 
@@ -142,13 +142,13 @@ See also:
 
 See also: [Jami` at-Tirmidhi 877](https://sunnah.com/tirmidhi:877)
 
-### Muhammad touched the black stone
+## Muhammad touched the black stone
 
 [Sunan Ibn Majah 2946](https://sunnah.com/ibnmajah:2946)
 
 > “The Messenger of Allah did not touch the corners of the Ka’bah apart from the Black Corner (i.e., the corner where the Black Stone is) and the one that is next to it facing the houses of Banu Jumah (i.e., the Yemenite Corner).”
 
-### Kissing the stone is idolatry
+## Kissing the stone is idolatry
 
 [Sahih al-Bukhari 1597](https://sunnah.com/bukhari:1597)
 
