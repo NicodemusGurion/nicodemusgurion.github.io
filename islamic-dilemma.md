@@ -174,3 +174,5 @@ Adding such explanations means the Quran is not clear after all. Which means its
 Any attempt to escape [the classic Islamic dilemma](#classic) or the [christian Islamic dilemma](#christian) proves the Quran is not clear. And if the Quran is not clear, Islam is false.
 
 The Clear Quran dilemma acts as a guardian, or *muhaymin*, over the [classic](#classic) and [Christian Islamic dilemmas](#christian), neutralising any and all attempts at solving, clarifying, or explaining them away. If the Quran needs explanation by Muslims then it is not clear and thus false.
+
+![Islamic dilemma chart](https://i.ibb.co/4ZG3fS5M/IMG-0348.png)
