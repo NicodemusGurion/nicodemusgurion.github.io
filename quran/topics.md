@@ -2,6 +2,7 @@
 layout: page
 title: "Tafsir al-Jak topics index"
 permalink: /quran/topics/
+nav_order: 1
 ---
 
 <style>
