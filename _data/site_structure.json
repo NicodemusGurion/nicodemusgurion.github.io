@@ -1,16 +1,88 @@
 {
   "pages": [
     {
-      "url": "/",
+      "url": "/islam",
       "tocpath": null,
-      "title": "Untitled",
+      "title": "Teachings of Islam",
       "headers": [
 
       ],
-      "file": "index.html",
+      "file": "islam/index.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 1
+    },
+    {
+      "url": "/islamic-dilemma",
+      "tocpath": null,
+      "title": "The Islamic Dilemma",
+      "headers": [
+        {
+          "level": 1,
+          "text": "The classic Islamic dilemma",
+          "anchor": "classic"
+        },
+        {
+          "level": 1,
+          "text": "The Christian Islamic dilemma (or trilemma)",
+          "anchor": "christian"
+        },
+        {
+          "level": 1,
+          "text": "Allah's dilemma",
+          "anchor": "allah"
+        },
+        {
+          "level": 1,
+          "text": "The clear Quran dilemma",
+          "anchor": "clear-quran"
+        }
+      ],
+      "file": "islamic-dilemma.md",
       "include_in_menu": false,
       "exclude_children": false,
-      "nav_order": 999999
+      "nav_order": 2
+    },
+    {
+      "url": "/dawah",
+      "tocpath": null,
+      "title": "Answers to Dawah script nonsense",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Popular nonsense",
+          "anchor": "popular-nonsense"
+        },
+        {
+          "level": 1,
+          "text": "Attacking the Bible",
+          "anchor": "attacking-the-bible"
+        },
+        {
+          "level": 1,
+          "text": "Attacking Christianity",
+          "anchor": "attacking-christianity"
+        },
+        {
+          "level": 1,
+          "text": "Attacking the trinity doctrine",
+          "anchor": "attacking-the-trinity-doctrine"
+        },
+        {
+          "level": 1,
+          "text": "Promoting or defending pedophilia and other vile sins",
+          "anchor": "promoting-or-defending-pedophilia-and-other-vile-sins"
+        },
+        {
+          "level": 1,
+          "text": "Trying to leech authority",
+          "anchor": "trying-to-leech-authority"
+        }
+      ],
+      "file": "dawah/index.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 3
     },
     {
       "url": "/al-zutt",
@@ -34,6 +106,171 @@
         }
       ],
       "file": "al-zutt.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 4
+    },
+    {
+      "url": "/quran/",
+      "tocpath": null,
+      "title": "Tafsīr al-Jāk",
+      "headers": [
+
+      ],
+      "file": "quran/index.md",
+      "include_in_menu": false,
+      "exclude_children": true,
+      "nav_order": 5
+    },
+    {
+      "url": "/qright",
+      "tocpath": null,
+      "title": "The Qright",
+      "headers": [
+        {
+          "level": 1,
+          "text": "1: The big cheese",
+          "anchor": "1-the-big-cheese"
+        },
+        {
+          "level": 1,
+          "text": "2: The Grape",
+          "anchor": "2-the-grape"
+        },
+        {
+          "level": 1,
+          "text": "3: Rock, Paper, Scissors",
+          "anchor": "3-rock-paper-scissors"
+        },
+        {
+          "level": 1,
+          "text": "4: Gorgonzola",
+          "anchor": "4-gorgonzola"
+        }
+      ],
+      "file": "qright.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 6
+    },
+    {
+      "url": "/christianity",
+      "tocpath": null,
+      "title": "Christianity",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Featured",
+          "anchor": "featured"
+        },
+        {
+          "level": 1,
+          "text": "Theology",
+          "anchor": "theology"
+        },
+        {
+          "level": 1,
+          "text": "Supposed errors",
+          "anchor": "errors"
+        },
+        {
+          "level": 1,
+          "text": "Replies to accusations",
+          "anchor": "replies-to-accusations"
+        },
+        {
+          "level": 1,
+          "text": "Jehovah's witnesses",
+          "anchor": "jehovahs-witnesses"
+        }
+      ],
+      "file": "christianity/index.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 7
+    },
+    {
+      "url": "/jw",
+      "tocpath": null,
+      "title": "Jehovah's Witnesses",
+      "headers": [
+
+      ],
+      "file": "jw/index.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 8
+    },
+    {
+      "url": "/studies/",
+      "tocpath": null,
+      "title": "Studies, Statistics and Papers",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Studies",
+          "anchor": "studies"
+        },
+        {
+          "level": 1,
+          "text": "Statistics",
+          "anchor": "statistics"
+        },
+        {
+          "level": 1,
+          "text": "Papers",
+          "anchor": "papers"
+        },
+        {
+          "level": 1,
+          "text": "Other",
+          "anchor": "other"
+        }
+      ],
+      "file": "studies/index.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 9
+    },
+    {
+      "url": "/library",
+      "tocpath": null,
+      "title": "Library",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Life and death in the ancient Near East",
+          "anchor": "life-and-death-in-the-ancient-near-east"
+        },
+        {
+          "level": 1,
+          "text": "The Bible",
+          "anchor": "the-bible"
+        },
+        {
+          "level": 1,
+          "text": "Statistics",
+          "anchor": "statistics"
+        },
+        {
+          "level": 1,
+          "text": "Weird and miscellaneous",
+          "anchor": "weird-and-miscellaneous"
+        }
+      ],
+      "file": "library.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 10
+    },
+    {
+      "url": "/",
+      "tocpath": null,
+      "title": "Untitled",
+      "headers": [
+
+      ],
+      "file": "index.html",
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 999999
@@ -119,83 +356,6 @@
         }
       ],
       "file": "atheism/Atheism is incompatible with science.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/christianity",
-      "tocpath": null,
-      "title": "Christianity",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Featured",
-          "anchor": "featured"
-        },
-        {
-          "level": 1,
-          "text": "Theology",
-          "anchor": "theology"
-        },
-        {
-          "level": 1,
-          "text": "Supposed errors",
-          "anchor": "errors"
-        },
-        {
-          "level": 1,
-          "text": "Replies to accusations",
-          "anchor": "replies-to-accusations"
-        },
-        {
-          "level": 1,
-          "text": "Jehovah's witnesses",
-          "anchor": "jehovahs-witnesses"
-        }
-      ],
-      "file": "christianity/index.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/dawah",
-      "tocpath": null,
-      "title": "Answers to Dawah script nonsense",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Popular nonsense",
-          "anchor": "popular-nonsense"
-        },
-        {
-          "level": 1,
-          "text": "Attacking the Bible",
-          "anchor": "attacking-the-bible"
-        },
-        {
-          "level": 1,
-          "text": "Attacking Christianity",
-          "anchor": "attacking-christianity"
-        },
-        {
-          "level": 1,
-          "text": "Attacking the trinity doctrine",
-          "anchor": "attacking-the-trinity-doctrine"
-        },
-        {
-          "level": 1,
-          "text": "Promoting or defending pedophilia and other vile sins",
-          "anchor": "promoting-or-defending-pedophilia-and-other-vile-sins"
-        },
-        {
-          "level": 1,
-          "text": "Trying to leech authority",
-          "anchor": "trying-to-leech-authority"
-        }
-      ],
-      "file": "dawah/index.md",
       "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 999999
@@ -626,18 +786,6 @@
         }
       ],
       "file": "dawah/trinity-invented-at-nicaea.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam",
-      "tocpath": null,
-      "title": "Teachings of Islam",
-      "headers": [
-
-      ],
-      "file": "islam/index.md",
       "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 999999
@@ -3577,37 +3725,6 @@
       "nav_order": 999999
     },
     {
-      "url": "/islamic-dilemma",
-      "tocpath": null,
-      "title": "The Islamic Dilemma",
-      "headers": [
-        {
-          "level": 1,
-          "text": "The classic Islamic dilemma",
-          "anchor": "classic"
-        },
-        {
-          "level": 1,
-          "text": "The Christian Islamic dilemma (or trilemma)",
-          "anchor": "christian"
-        },
-        {
-          "level": 1,
-          "text": "Allah's dilemma",
-          "anchor": "allah"
-        },
-        {
-          "level": 1,
-          "text": "The clear Quran dilemma",
-          "anchor": "clear-quran"
-        }
-      ],
-      "file": "islamic-dilemma.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
       "url": "/jesus-deity",
       "tocpath": "/christianity/jesus-deity/",
       "title": "List of scriptures proving the Deity of Christ",
@@ -3726,49 +3843,6 @@
 
       ],
       "file": "christianity/Jesus is Jehovah.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/jw",
-      "tocpath": null,
-      "title": "Jehovah's Witnesses",
-      "headers": [
-
-      ],
-      "file": "jw/index.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/library",
-      "tocpath": null,
-      "title": "Library",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Life and death in the ancient Near East",
-          "anchor": "life-and-death-in-the-ancient-near-east"
-        },
-        {
-          "level": 1,
-          "text": "The Bible",
-          "anchor": "the-bible"
-        },
-        {
-          "level": 1,
-          "text": "Statistics",
-          "anchor": "statistics"
-        },
-        {
-          "level": 1,
-          "text": "Weird and miscellaneous",
-          "anchor": "weird-and-miscellaneous"
-        }
-      ],
-      "file": "library.md",
       "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 999999
@@ -3997,49 +4071,6 @@
       "file": "jw/Changes in the New World Translation.md",
       "include_in_menu": true,
       "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/qright",
-      "tocpath": null,
-      "title": "The Qright",
-      "headers": [
-        {
-          "level": 1,
-          "text": "1: The big cheese",
-          "anchor": "1-the-big-cheese"
-        },
-        {
-          "level": 1,
-          "text": "2: The Grape",
-          "anchor": "2-the-grape"
-        },
-        {
-          "level": 1,
-          "text": "3: Rock, Paper, Scissors",
-          "anchor": "3-rock-paper-scissors"
-        },
-        {
-          "level": 1,
-          "text": "4: Gorgonzola",
-          "anchor": "4-gorgonzola"
-        }
-      ],
-      "file": "qright.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/",
-      "tocpath": null,
-      "title": "Tafsīr al-Jāk",
-      "headers": [
-
-      ],
-      "file": "quran/index.md",
-      "include_in_menu": false,
-      "exclude_children": true,
       "nav_order": 999999
     },
     {
@@ -5562,37 +5593,6 @@
 
       ],
       "file": "quran/topics.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/studies/",
-      "tocpath": null,
-      "title": "Studies, Statistics and Papers",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Studies",
-          "anchor": "studies"
-        },
-        {
-          "level": 1,
-          "text": "Statistics",
-          "anchor": "statistics"
-        },
-        {
-          "level": 1,
-          "text": "Papers",
-          "anchor": "papers"
-        },
-        {
-          "level": 1,
-          "text": "Other",
-          "anchor": "other"
-        }
-      ],
-      "file": "studies/index.md",
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 999999
