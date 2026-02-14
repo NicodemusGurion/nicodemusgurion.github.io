@@ -21,7 +21,8 @@ def build_tree(pages)
       unless current['children'][segment]
         current['children'][segment] = {
           'segment' => segment,
-          'children' => {}
+          'children' => {},
+          'nav_order' => 999999
         }
       end
       
@@ -87,11 +88,11 @@ def generate_header_html(header, page_url, indent_level)
   
   if header['children'].empty?
     # Leaf node - use p.listitem
-    html += "#{indent}<p class=\"listitem\" id=\"#{header_id}\"><a href=\"#{page_url}##{header['anchor']}\">#{header['text']}</a></p>\n"
+    html += "#{indent}<p class=\"listitem\" id=\"#{header_id}\"><a href=\"#{page_url}##{header['anchor']}\"><strong>#{header['text']}</strong></a></p>\n"
   else
     # Has children - use details/summary
     html += "#{indent}<details id=\"#{header_id}\">\n"
-    html += "#{indent}  <summary><a href=\"#{page_url}##{header['anchor']}\">#{header['text']}</a></summary>\n"
+    html += "#{indent}  <summary><a href=\"#{page_url}##{header['anchor']}\"><strong>#{header['text']}</strong></a></summary>\n"
     header['children'].each do |child|
       html += generate_header_html(child, page_url, indent_level + 1)
     end
@@ -133,9 +134,10 @@ def generate_page_html(node, level = 0)
       end
     end
     
-    # Add child pages if present
+    # Add child pages if present - SORT BY nav_order
     if has_children
-      node['children'].sort.each do |key, child|
+      sorted_children = node['children'].sort_by { |k, v| [v['nav_order'] || 999999, k] }
+      sorted_children.each do |key, child|
         html += generate_page_html(child, level + 1)
       end
     end
@@ -151,9 +153,10 @@ tree = build_tree(pages)
 
 menu_html = "<nav class=\"sitemap-menu\">\n"
 
-# Process root's children
+# Process root's children - SORT BY nav_order
 if tree['children']
-  tree['children'].sort.each do |key, child|
+  sorted_children = tree['children'].sort_by { |k, v| [v['nav_order'] || 999999, k] }
+  sorted_children.each do |key, child|
     menu_html += generate_page_html(child, 1)
   end
 end

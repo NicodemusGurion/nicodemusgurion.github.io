@@ -84,12 +84,13 @@ Dir.glob('**/*.{md,markdown,html}').each do |file|
     'headers' => headers,
     'file' => file,
     'include_in_menu' => front_matter['menu'] == true,
-    'exclude_children' => front_matter['exclude_children'] == true
+    'exclude_children' => front_matter['exclude_children'] == true,
+    'nav_order' => front_matter['nav_order'] || front_matter['order'] || 999999
   }
 end
 
-# Sort pages by URL for consistency
-pages.sort_by! { |p| p['url'] }
+# Sort pages by nav_order, then by URL
+pages.sort_by! { |p| [p['nav_order'], p['url']] }
 
 # Output JSON (just flat data)
 output = {
