@@ -4,6 +4,7 @@ permalink: /library/
 layout: page 
 toc: true
 menu: true
+nav_order: 10
 ---
 
 Library of various academic articles.

@@ -3,6 +3,7 @@ title: "When the men of Al-Zutt rode Muhammad all night long"
 layout: page
 permalink: /al-zutt/
 image: https://i.ibb.co/8LSDn1s6/34-EB7-F36-C230-4-ADB-81-A8-C05-B3289-B2-CE.png
+nav_order: 4
 ---
 
 In Hadiths such as [Musnad Ahmad ibn Hanbal 3778](https://www-islamweb-net.translate.goog/ar/library/content/6/3599/%D9%85%D8%B3%D9%86%D8%AF-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%86-%D9%85%D8%B3%D8%B9%D9%88%D8%AF-%D8%B1%D8%B6%D9%8A-%D8%A7%D9%84%D9%84%D9%87-%D8%AA%D8%B9%D8%A7%D9%84%D9%89-%D8%B9%D9%86%D9%87?_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp) and [3688](https://hadithportal-com.translate.goog/index.php?show=hadith&h_id=3688&book=35&_x_tr_sl=ar&_x_tr_tl=en&_x_tr_hl=sv&_x_tr_pto=wapp) mention a strange story of a night excursion Muhammad took with a certain Abdullah ibn Masoud. You can read the linked Hadiths in Arabic with the help of Google translate. The first half ignore hadith is the interesting bit. You can read the full text on the linked websites. Here are translations in English without repetitive and unnecessary words:

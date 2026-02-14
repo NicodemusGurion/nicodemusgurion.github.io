@@ -6,6 +6,7 @@ image: https://i.ibb.co/HLDhZQCy/B3-A17-B5-A-239-E-4-E4-C-A491-2059078-F6283.jpg
 toc: true
 menu: true
 permalink: /christianity/
+nav_order: 7
 ---
 
 # Featured

@@ -5,6 +5,7 @@ title: "Jehovah's Witnesses"
 menu: true
 toc: true
 permalink: /jw/
+nav_order: 8
 ---
 
 
