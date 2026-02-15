@@ -118,3 +118,12 @@ So her slave boy is becoming an adult, and her husband is bothered that a young 
 [Sahih Muslim 1799](https://sunnah.com/muslim:1799)
 
 > It was said to the Prophet: Would that you approached Abdullah b. Ubayy (to persuade him to accept Islam). The Prophet (accordingly) went to him, riding a donkey, and (a party of) Muslims also went (with him). … When the Prophet approached him, he said: Do not come near me. By Allah, the obnoxious smell of your donkey has offended me. (As a rejoinder to this remark), a man from the Ansar said: By God, the smell of the donkey of the Messenger of Allah is better than your smell. (At this), a man from the tribe of 'Abdullah got furious. Then people from both sides got furious and exchanged blows with sticks, hands and shoes.
+
+# Stoning is monkey business 
+
+[Sahih al-Bukhari 3849](https://sunnah.com/bukhari:3849)
+
+> During the pre-lslamic period of ignorance I saw a she-monkey surrounded by a number of monkeys. They were all stoning it, because it had committed illegal sexual intercourse. I too, stoned it along with them.
+
+Seems like monkeys and Muslims are allies in woman hating.
+

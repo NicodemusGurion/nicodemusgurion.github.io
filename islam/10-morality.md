@@ -304,6 +304,14 @@ Muhammad's list for children was not limited to little girls. Little boys were n
 > …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, **opened his mouth and put his mouth in his mouth**. Then he said, O Allah, I love him, so love him and the one who loves him!'"
 
 
+# Adult Muslim men should suckle the breasts if adult Muslim women {#adult-suckling}
+
+>  A'isha (Allah be pleased with her) reported that Salim, the freed slave of Abu Hadhaifa, lived with him and his family in their house. She (i. e. the daughter of Suhail came to Allah's Apostle and said: Salim has attained (puberty) as men attain, and he understands what they understand, and he enters our house freely, I, however, perceive that something (rankles) in the heart of Abu Hudhaifa, whereupon Allah's Apostle said to her: Suckle him and you would become unlawful for him, and (the rankling) which Abu Hudhaifa feels in his heart will disappear. She returned and said: So I suckled him, and what (was there) in the heart of Abu Hudhaifa disappeared.
+
+So her slave boy is becoming an adult, and her husband is bothered that a young man is spending time with his wife because of the sexual awkwardness. She asks Muhammad what to do. So what is the solution proposed by Muhammad? "Let the horny young boy suck on your breasts, and that will make the situation less sexually awkward."
+
+
+
 ## Rape
 
 ### Captured women may be freely raped {#raping-captives}

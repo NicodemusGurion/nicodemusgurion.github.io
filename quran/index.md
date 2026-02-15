@@ -2,7 +2,6 @@
 layout: page
 title: "Tafsīr al-Jāk"
 image: https://i.ibb.co/K8vVWM6/IMG-0177.png
-exclude_children: false
 nav_order: 5
 ---
 

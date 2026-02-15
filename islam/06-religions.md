@@ -8,11 +8,11 @@ toc: true
 
 # Islam
 
-## Apostasy
+## Apostasy and hypocrisy
 
 How to deal with those who leave islam.
 
-## Punishment for apostasy is death {#apostasy-death-sentence}
+### Punishment for apostasy is death {#apostasy-death-sentence}
 
 [Surah 4:89](https://quran.com/4/89)
 
@@ -30,7 +30,7 @@ See also:
 
 - [Sunan Ibn Majah 2535](https://sunnah.com/ibnmajah:2535)
 
-## Give apostates a chance to repent, and if they don't, kill them
+### Give apostates a chance to repent, and if they don't, kill them
 
 
 [Muwatta Malik 36:15](https://sunnah.com/urn/514180)
@@ -52,13 +52,99 @@ See also:
 - [Sunan an-Nasa'i 4065](https://sunnah.com/nasai:4065)
 - [Bulug al Maram 9:46](https://sunnah.com/bulugh/9/46)
 
-## A man was beheaded for apostasy
+## Leaving Islam
+
+[Sunan an-Nasa'i 4061](https://sunnah.com/nasai:4061)
+
+> "The Messenger of Allah said: 'Whoever changes his religion, kill him.'"
+
+
+### A man was beheaded for apostasy
 
 [Sunan Abi Dawud 4356](https://sunnah.com/abudawud:4356)
 
 > Abu Burdah said: A man who turned back from Islam was brought to Abu Musa. He invited him to repent for twenty days or about so. Muadh then came and invited him (to embrace Islam) but he refused. So he was beheaded.
 
-## End time fake Muslims foretold
+### Kill hypocrites
+
+[Sahih Muslim 1066 a](https://sunnah.com/muslim:1066)
+
+> I heard the Messenger of Allah as saying: There would arise at the end of the age a people who would be young in age and immature in thought, but they would talk (in such a manner) as if their words are the best among the creatures. They would recite the Qur'an, but it would not go beyond their throats, and they would pass through the religion as an arrow goes through the prey. So when you meet them, kill them, for in their killing you would get a reward with Allah on the Day of Judgement.
+
+Muslims should kill false Muslims.
+
+
+[Sunan an-Nasa'i 4102](https://sunnah.com/nasai:4102)
+
+> It was narrated that 'Ali said: "I heard the Messenger of Allah say: 'At the end of time there will appear young people with foolish minds. Their faith will not pass through their throats, and they will go out of Islam as an arrow goes through the target. If you meet them, then kill them, for **killing them will bring reward to the one who killed them** on the Day of Resurrection.'"
+
+Killing hypocrite Muslims brings a reward.
+
+See also:
+
+- [Jami` at-Tirmidhi 1458](https://sunnah.com/tirmidhi:1458)
+
+## Muslims may not resemble Jews or Christians
+
+[Jami` at-Tirmidhi 2695](https://sunnah.com/tirmidhi:2695)
+
+> the Messenger of Allah said: "He is not one of us who resembles other than us, no who resembles the Jews nor the Christians. For indeed greeting of the Jews is pointing the finger, and the greeting of the Christians is waving with the hand."
+
+
+So if you point with your finger, wave with your hand, or do anything else that the Jews and Christians are doing, such as praying prostrate, you are not a Muslim.
+
+
+## Islamic worship
+
+### Islam means following Muhammad 
+
+[Surah 4:65](https://quran.com/4/65)
+
+> But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.
+
+### Muslims must love Muhammad more than anyone else
+
+[Sunan Ibn Majah 67](https://sunnah.com/ibnmajah:67)
+
+> It was narrated that Anas bin Malik said: "The Messenger of Allah said: 'None of you truly believes until I am more beloved to him than his child, his father and all the people.'"
+
+### Don't come to mosque with garlic breath {#garlic}
+
+[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
+
+> Narrated Abdul Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
+
+
+## The future of Islam
+
+
+### The goal of Islam is world domination
+
+[Mishkat al-Masabih 42](https://sunnah.com/mishkat:42)
+
+> Miqdad reported that he heard God’s messenger say, “There will not remain on the face of the earth a mud-brick house or a camel’s hair tent which God will not cause the confession of Islam to enter bringing both mighty honour and abject abasement. God will either honour the occupants and put them among its adherents, or will humiliate them and they will be subject to it.” Miqdad said, “God will then receive complete obedience.”
+
+### Islam will split into 73 sects
+
+[Sunan Ibn Majah 3992](https://sunnah.com/ibnmajah:3992)
+
+>  the Messenger of Allah said: “The Jews split into seventy-one sects, one of which will be in Paradise and seventy in Hell. The Christians split into seventy-two sects, seventy-one of which will be in Hell and one in Paradise. I swear by the One Whose Hand is the soul of Muhammad, my nation will split into seventy-three sects, one of which will be in Paradise and seventy-two in Hell.” It was said: “O Messenger of Allah, who are they?” He said: “The main body.”
+
+See also:
+
+- [Jami` at-Tirmidhi 2640](https://sunnah.com/tirmidhi:2640)
+
+
+## Islam is a strange serpent receding into its hole {#strange-serpent}
+
+[Sahih Muslim 146](https://sunnah.com/muslim:146)
+
+> the Messenger of Allah observed: Verily Islam started as something strange and it would again revert (to its old position) of being strange just as it started, and it would recede between the two mosques just as the serpent crawls back into its hole.
+
+If he was a prophet then let's hope this prophecy comes true at least.
+
+
+### End time fake Muslims foretold
 
 [Sahih Muslim 1066 a](https://sunnah.com/muslim:1066)
 
@@ -71,30 +157,13 @@ So there would be Muslims who falsely claim to be Muslims. And muslims should ki
 
 > It was narrated that 'Ali said: "I heard the Messenger of Allah say: 'At the end of time there will appear young people with foolish minds. Their faith will not pass through their throats, and they will go out of Islam as an arrow goes through the target. If you meet them, then kill them, for **killing them will bring reward to the one who killed them** on the Day of Resurrection.'"
 
-
 See also:
 
 - [Jami` at-Tirmidhi 1458](https://sunnah.com/tirmidhi:1458)
 
-## Islam is a strange serpent receding into its hole {#strange-serpent}
 
-[Sahih Muslim 146](https://sunnah.com/muslim:146)
 
-> the Messenger of Allah observed: Verily Islam started as something strange and it would again revert (to its old position) of being strange just as it started, and it would recede between the two mosques just as the serpent crawls back into its hole.
-
-If he was a prophet then let's hope this prophecy comes true at least.
-
-## Islam means following Muhammad 
-
-[Surah 4:65](https://quran.com/4/65)
-
-> But no! By your Lord, they will never be ˹true˺ believers until they accept you ˹O Prophet˺ as the judge in their disputes, and find no resistance within themselves against your decision and submit wholeheartedly.
-
-## Muslims must love Muhammad more than anyone else
-
-[Sunan Ibn Majah 67](https://sunnah.com/ibnmajah:67)
-
-> It was narrated that Anas bin Malik said: "The Messenger of Allah said: 'None of you truly believes until I am more beloved to him than his child, his father and all the people.'"
+# Non-Muslims, Jews and Christians {#non-muslims}
 
 ## View of non-Muslims
 
@@ -104,55 +173,6 @@ If he was a prophet then let's hope this prophecy comes true at least.
 
 Islam views non-Muslims as the worst of all beings.
 
-## Leaving Islam
-
-[Sunan an-Nasa'i 4061](https://sunnah.com/nasai:4061)
-
-> "The Messenger of Allah said: 'Whoever changes his religion, kill him.'"
-
-
-
-
-## Stoning is monkey business 
-
-[Sahih al-Bukhari 3849](https://sunnah.com/bukhari:3849)
-
-> During the pre-lslamic period of ignorance I saw a she-monkey surrounded by a number of monkeys. They were all stoning it, because it had committed illegal sexual intercourse. I too, stoned it along with them.
-
-Seems like monkeys and Muslims are allies in woman hating.
-
-
-
-## Who resembles a Jew or Christian can not be a Muslim 
-
-[Jami` at-Tirmidhi 2695](https://sunnah.com/tirmidhi:2695)
-
-> the Messenger of Allah said: "He is not one of us who resembles other than us, no who resembles the Jews nor the Christians. For indeed greeting of the Jews is pointing the finger, and the greeting of the Christians is waving with the hand."
-
-
-So if you point with your finger, wave with your hand, or do anything else that the Jews and Christians are doing, such as praying prostrate, you are not a Muslim.
-
-
-
-
-## Islam will split into 73 sects
-
-[Sunan Ibn Majah 3992](https://sunnah.com/ibnmajah:3992)
-
->  the Messenger of Allah said: “The Jews split into seventy-one sects, one of which will be in Paradise and seventy in Hell. The Christians split into seventy-two sects, seventy-one of which will be in Hell and one in Paradise. I swear by the One Whose Hand is the soul of Muhammad, my nation will split into seventy-three sects, one of which will be in Paradise and seventy-two in Hell.” It was said: “O Messenger of Allah, who are they?” He said: “The main body.”
-
-See also:
-
-- [Jami` at-Tirmidhi 2640](https://sunnah.com/tirmidhi:2640)
-
-## The goal of Islam is world domination
-
-[Mishkat al-Masabih 42](https://sunnah.com/mishkat:42)
-
-> Miqdad reported that he heard God’s messenger say, “There will not remain on the face of the earth a mud-brick house or a camel’s hair tent which God will not cause the confession of Islam to enter bringing both mighty honour and abject abasement. God will either honour the occupants and put them among its adherents, or will humiliate them and they will be subject to it.” Miqdad said, “God will then receive complete obedience.”
-
-
-# Non-Muslims, Jews and Christians {#non-muslims}
 
 ## Do not befriend non-muslims 
 

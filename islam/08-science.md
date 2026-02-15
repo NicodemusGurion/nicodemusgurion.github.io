@@ -10,6 +10,25 @@ menu: true
 
 In Islamic cosmology, there are 7 heavens, and 7 flat earths, stacked on top of one another like flapjacks on a plate. These earths rest on the back of a [the cosmic whale Nun.](https://wikiislam.net/wiki/The_Islamic_Whale) The whale is on top of the cosmic Bull Bahamut. (Or sometimes the other way around. Bahamut stands on rock, and under the rock is dust. And I guess after that it's dust all the way down...
 
+## The earth existed before space {#earth-before-space}
+
+[Surah 2:29](https://quran.com/2/29)
+
+> He is the One Who created everything in the earth for you. Then He turned towards the heaven, forming it into seven heavens. 
+
+## The earth is flat {#flat-earth}
+
+[Quran 18:86](https://quran.com/71/19?translations=207)
+
+> Allah has laid the earth out as a carpet for you,
+
+## The sky can fall down
+
+[Surah 23:65](https://quran.com/23/65)
+
+> He keeps the heavens from falling down on the earth without His permission
+
+
 ## The Whale Nun {#nun}
 
 [Surah 68:1](https://quran.com/68/1)
@@ -31,12 +50,88 @@ The commentary [Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs](https://www.altafs
 
 [Surah 2:22](https://quran.com/2/22)[;15:19](https://quran.com/15/19)[;20:53](https://quran.com/20/53)[;43:10](https://quran.com/43/10)[;50:7](https://quran.com/50/7)[;51:48](https://quran.com/51/48)[;71:19](https://quran.com/71/19)[;78:6-7](https://quran.com/78/6-7)[;79:30](https://quran.com/79/30)[;88:20](https://quran.com/88/20)[;91:6](https://quran.com/91/6)
 
+## The sun sets in a muddy spring {#sun-sets-in-mud}
+
+[Surah 18:86](https://quran.com/18/86?translations=17)
+
+> Until, when he reached the setting of the sun, he found it setting in a muddy spring, and he found a people at it. We said, "O Thulqarnayn, either you will torment them or you will take to yourself towards them a fair way."
+
+## The sun might rise from the west
+
+[Sahih al-Bukhari 7424](https://sunnah.com/bukhari:7424)
+
+> the Prophet said, "O Abu Dharr! Do you know where this (sun) goes?" I said, "Allah and His Apostle know best." He said, "It goes and asks permission to prostrate, and it is allowed, and (one day) it, as if being ordered to return whence it came, then it will rise from the west."
+
+
+# Embryology 
+
+Scientific errors concerning human reproduction.
+
+## Sperm comes from between the backbone and the ribs {#backbone-sperm}
+
+[Surah 86:6-7](https://quran.com/86/6-7)
+
+> ˹They were˺ created from a spurting fluid, stemming from between the backbone and the ribcage.
+
+This is scientifically false. Semen is produced in the testicles.
+
+## Semen remains in the womb 40 days
+
+[Sahih Muslim 2644](https://sunnah.com/muslim:2644)
+
+> Hudhaifa b. Usaid reported directly from Allah's Messenger that he said: When the drop of (semen) remains in the womb for forty or forty five nights, the angel comes and says: My Lord, 
+
+This is scientifically false. Semen does not remain in the womb for 40 days. 
+
+## What determines the sex of a child?
+
+[Sahih Muslim 2644](https://sunnah.com/muslim:2644)
+
+> Hudhaifa b. Usaid reported directly from Allah's Messenger that he said: When the drop of (semen) remains in the womb for forty or forty five nights, the angel comes and says: My Lord, will he be good or evil? And both these things would be written. Then the angel says: My Lord, would he be male or female? And both these things are written.
+
+This is scientifically false. The sex of the child is not determined 40 days after conception, but by the presence or lack of a Y chromosome in the sperm.
+
+
+## What determines if a child looks like its mother or father? {#whom-children-resemble}
+
+[Sahih al Bukhari 3329](https://sunnah.com/bukhari:3329)
+
+> If a man has sexual intercourse with his wife and gets discharge first, the child will resemble the father, and if the woman gets discharge first, the child will resemble her.
+
+[Sunan an-Nasa'i 200](https://sunnah.com/nasai:200)
+
+
+> 'The man's water is thick and white, and the woman's water is thin and yellow. Whichever of them comes first, the child will resemble (that parent).'"
+
+This is scientifically false. Whom the child resembles most is determined by what genetic makeup it gets from the mother and father, not by who climaxed first.
+
 
 # Hygiene, health and food
 
 There's a surprising amount of rules about urinating. If your religion micromanages how you piss, you're in a cult.
 
 See also [Muhammad and hygiene](/islam/muhammad/#muhammad-hygiene).
+
+## Muslims should dip flies in their drinks {#dip-flies}
+
+[Sahih al-Bukhari 3320](https://sunnah.com/bukhari:3320)
+
+> The Prophet said "If a house fly falls in the drink of anyone of you, he should dip it (in the drink) and take it out, for one of its wings has a disease and the other has the cure for the disease."
+
+🤮
+
+
+## Eat food from the ground and lick your fingers 
+
+[Riyad as-Salihin 751](https://sunnah.com/riyadussalihin:751)
+
+> The Messenger of Allah said, "Satan appears at every thing done by you; he appears even at one's dinner. **When a morsel of any of you falls, he should pick it up and remove any dirt on it, and then eat it.** He should not leave it for Satan, nor should he wipe his hand with the towel until he has **licked his fingers**, for he does not know in what portion of the food the blessing lies."
+
+
+See also: 
+
+- [Riyad as-Salihin 752](https://sunnah.com/riyadussalihin:752)
+- [Sunan Ibn Majah 3278](https://sunnah.com/ibnmajah:3278)
 
 ## Muslims aren’t allowed to urinate standing {#no-urinating-standing}
 
@@ -89,12 +184,6 @@ See also:
 
 
 
-## Don't come to mosque with garlic breath {#garlic}
-
-[Sahih al Bukhari 5451](https://sunnah.com/bukhari:5451)
-
-> Narrated Abdul Aziz: It was said to Anas "What did you hear the Prophet  saying about garlic?" Anas replied, "Whoever has eaten (garlic) should not approach our mosque."
-
 ## Don't sleep on your stomach
 
 [Sunan Ibn Majah 3723](https://sunnah.com/ibnmajah:3723)
@@ -119,26 +208,7 @@ See also:
 
 > "Do not revile fever, for it cleanses out the sins of the sons of Adam in the same way that a furnace removes the dirt of iron."
 
-## Muslims should dip flies in their drinks {#dip-flies}
 
-[Sahih al-Bukhari 3320](https://sunnah.com/bukhari:3320)
-
-> The Prophet said "If a house fly falls in the drink of anyone of you, he should dip it (in the drink) and take it out, for one of its wings has a disease and the other has the cure for the disease."
-
-🤮
-
-
-## Eat food from the ground and lick your fingers 
-
-[Riyad as-Salihin 751](https://sunnah.com/riyadussalihin:751)
-
-> The Messenger of Allah said, "Satan appears at every thing done by you; he appears even at one's dinner. **When a morsel of any of you falls, he should pick it up and remove any dirt on it, and then eat it.** He should not leave it for Satan, nor should he wipe his hand with the towel until he has **licked his fingers**, for he does not know in what portion of the food the blessing lies."
-
-
-See also: 
-
-- [Riyad as-Salihin 752](https://sunnah.com/riyadussalihin:752)
-- [Sunan Ibn Majah 3278](https://sunnah.com/ibnmajah:3278)
 
 ## The coccyx does not decay {#coccyx}
 
@@ -152,54 +222,12 @@ See also:
 - [Sahih Muslim 2955c](https://sunnah.com/muslim:2955c)
 
 
-## The earth existed before space {#earth-before-space}
-
-[Surah 2:29](https://quran.com/2/29)
-
-> He is the One Who created everything in the earth for you. Then He turned towards the heaven, forming it into seven heavens. 
-
-## The earth is flat {#flat-earth}
-
-[Quran 18:86](https://quran.com/71/19?translations=207)
-
-> Allah has laid the earth out as a carpet for you,
-
-## The sky can fall down
-
-[Surah 23:65](https://quran.com/23/65)
-
-> He keeps the heavens from falling down on the earth without His permission
-
-
-## Sperm comes from between the backbone and the ribs {#backbone-sperm}
-
-[Surah 86:6-7](https://quran.com/86/6-7)
-
-> ˹They were˺ created from a spurting fluid, stemming from between the backbone and the ribcage.
-
-## The sun sets in a muddy spring {#sun-sets-in-mud}
-
-[Surah 18:86](https://quran.com/18/86?translations=17)
-
-> Until, when he reached the setting of the sun, he found it setting in a muddy spring, and he found a people at it. We said, "O Thulqarnayn, either you will torment them or you will take to yourself towards them a fair way."
-
-## The sun might rise from the west
-
-[Sahih al-Bukhari 7424](https://sunnah.com/bukhari:7424)
-
-> the Prophet said, "O Abu Dharr! Do you know where this (sun) goes?" I said, "Allah and His Apostle know best." He said, "It goes and asks permission to prostrate, and it is allowed, and (one day) it, as if being ordered to return whence it came, then it will rise from the west."
 
 
 
-## What determines if a child looks like its mother or father? {#whom-children-resemble}
 
-[Sahih al Bukhari 3329](https://sunnah.com/bukhari:3329)
 
-> If a man has sexual intercourse with his wife and gets discharge first, the child will resemble the father, and if the woman gets discharge first, the child will resemble her.
 
-[Sunan an-Nasa'i 200](https://sunnah.com/nasai:200)
-
-> 'The man's water is thick and white, and the woman's water is thin and yellow. Whichever of them comes first, the child will resemble (that parent).'"
 
 ## The urine of boys and girls are different {#different-urine}
 
