@@ -1,6 +1,18 @@
 {
   "pages": [
     {
+      "url": "/quran/topics",
+      "tocpath": null,
+      "title": "Tafsir al-Jak topics index",
+      "headers": [
+
+      ],
+      "file": "quran/topics.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 0
+    },
+    {
       "url": "/islam",
       "tocpath": null,
       "title": "Teachings of Islam",
@@ -13,13 +25,13 @@
       "nav_order": 1
     },
     {
-      "url": "/quran/topics",
+      "url": "/quran/1",
       "tocpath": null,
-      "title": "Tafsir al-Jak topics index",
+      "title": "Surah 1 — Al-Fatihah",
       "headers": [
 
       ],
-      "file": "quran/topics.md",
+      "file": "quran/001.md",
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 1
@@ -51,6 +63,162 @@
         }
       ],
       "file": "islamic-dilemma.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 2
+    },
+    {
+      "url": "/quran/2",
+      "tocpath": null,
+      "title": "Surah 2 — Al-Baqara",
+      "headers": [
+        {
+          "level": 2,
+          "text": "Introductory nonsense",
+          "anchor": "introductory-nonsense"
+        },
+        {
+          "level": 2,
+          "text": "Self glazing",
+          "anchor": "self-glazing"
+        },
+        {
+          "level": 2,
+          "text": "False believers",
+          "anchor": "false-believers"
+        },
+        {
+          "level": 2,
+          "text": "Encouraging worship",
+          "anchor": "encouraging-worship"
+        },
+        {
+          "level": 2,
+          "text": "Literary excellence as a test for authenticity.",
+          "anchor": "literary-excellence-as-a-test-for-authenticity"
+        },
+        {
+          "level": 2,
+          "text": "Paradise",
+          "anchor": "paradise"
+        },
+        {
+          "level": 2,
+          "text": "Allah misleads",
+          "anchor": "allah-misleads"
+        },
+        {
+          "level": 2,
+          "text": "Life and death",
+          "anchor": "life-and-death"
+        },
+        {
+          "level": 2,
+          "text": "Creation of Heaven and Earth",
+          "anchor": "creation-of-heaven-and-earth"
+        },
+        {
+          "level": 2,
+          "text": "Adam and Satan shenanigans",
+          "anchor": "adam-and-satan-shenanigans"
+        },
+        {
+          "level": 2,
+          "text": "Laws on divorce",
+          "anchor": "laws-on-divorce"
+        },
+        {
+          "level": 2,
+          "text": "Laws about weaning children",
+          "anchor": "laws-about-weaning-children"
+        },
+        {
+          "level": 2,
+          "text": "Laws on widowhood",
+          "anchor": "laws-on-widowhood"
+        },
+        {
+          "level": 2,
+          "text": "Laws on divorce, again",
+          "anchor": "laws-on-divorce-again"
+        },
+        {
+          "level": 2,
+          "text": "Prayer against danger",
+          "anchor": "prayer-against-danger"
+        },
+        {
+          "level": 2,
+          "text": "Laws on widowhood and divorce",
+          "anchor": "laws-on-widowhood-and-divorce"
+        },
+        {
+          "level": 2,
+          "text": "Violence",
+          "anchor": "violence"
+        },
+        {
+          "level": 2,
+          "text": "Donations",
+          "anchor": "donations"
+        },
+        {
+          "level": 2,
+          "text": "Pseudo-history",
+          "anchor": "pseudo-history"
+        },
+        {
+          "level": 2,
+          "text": "Affirming the prophethood of Muhammad",
+          "anchor": "affirming-the-prophethood-of-muhammad"
+        },
+        {
+          "level": 2,
+          "text": "Donations again",
+          "anchor": "donations-again"
+        },
+        {
+          "level": 2,
+          "text": "Nature of Allah",
+          "anchor": "nature-of-allah"
+        },
+        {
+          "level": 2,
+          "text": "Freedom of religion",
+          "anchor": "freedom-of-religion"
+        },
+        {
+          "level": 2,
+          "text": "Regular warnings and threats",
+          "anchor": "regular-warnings-and-threats"
+        },
+        {
+          "level": 2,
+          "text": "More pseudo-history",
+          "anchor": "more-pseudo-history"
+        },
+        {
+          "level": 2,
+          "text": "Charity",
+          "anchor": "charity"
+        },
+        {
+          "level": 2,
+          "text": "Interest and usury",
+          "anchor": "interest-and-usury"
+        },
+        {
+          "level": 2,
+          "text": "Contract law",
+          "anchor": "contract-law"
+        },
+        {
+          "level": 2,
+          "text": "Forgiveness",
+          "anchor": "forgiveness"
+        }
+      ],
+      "file": "quran/002.md",
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 2
@@ -97,6 +265,18 @@
       "nav_order": 3
     },
     {
+      "url": "/quran/3",
+      "tocpath": null,
+      "title": "Surah 3",
+      "headers": [
+
+      ],
+      "file": "quran/003.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 3
+    },
+    {
       "url": "/al-zutt",
       "tocpath": null,
       "title": "When the men of Al-Zutt rode Muhammad all night long",
@@ -123,6 +303,18 @@
       "nav_order": 4
     },
     {
+      "url": "/quran/4",
+      "tocpath": null,
+      "title": "Surah 4",
+      "headers": [
+
+      ],
+      "file": "quran/004.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 4
+    },
+    {
       "url": "/quran/",
       "tocpath": null,
       "title": "Tafsīr al-Jāk",
@@ -130,6 +322,18 @@
 
       ],
       "file": "quran/index.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 5
+    },
+    {
+      "url": "/quran/5",
+      "tocpath": null,
+      "title": "Surah 5",
+      "headers": [
+
+      ],
+      "file": "quran/005.md",
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 5
@@ -161,6 +365,18 @@
         }
       ],
       "file": "qright.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 6
+    },
+    {
+      "url": "/quran/6",
+      "tocpath": null,
+      "title": "Surah 6",
+      "headers": [
+
+      ],
+      "file": "quran/006.md",
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 6
@@ -202,6 +418,18 @@
       "nav_order": 7
     },
     {
+      "url": "/quran/7",
+      "tocpath": null,
+      "title": "Surah 7",
+      "headers": [
+
+      ],
+      "file": "quran/007.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 7
+    },
+    {
       "url": "/jw",
       "tocpath": null,
       "title": "Jehovah's Witnesses",
@@ -212,6 +440,30 @@
       "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 8
+    },
+    {
+      "url": "/quran/8",
+      "tocpath": null,
+      "title": "Surah 8",
+      "headers": [
+
+      ],
+      "file": "quran/008.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 8
+    },
+    {
+      "url": "/quran/9",
+      "tocpath": null,
+      "title": "Surah 9",
+      "headers": [
+
+      ],
+      "file": "quran/009.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 9
     },
     {
       "url": "/studies/",
@@ -274,6 +526,618 @@
       "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 10
+    },
+    {
+      "url": "/quran/10",
+      "tocpath": null,
+      "title": "Surah 10",
+      "headers": [
+
+      ],
+      "file": "quran/010.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 10
+    },
+    {
+      "url": "/quran/11",
+      "tocpath": null,
+      "title": "Surah 11",
+      "headers": [
+
+      ],
+      "file": "quran/011.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 11
+    },
+    {
+      "url": "/quran/12",
+      "tocpath": null,
+      "title": "Surah 12",
+      "headers": [
+
+      ],
+      "file": "quran/012.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 12
+    },
+    {
+      "url": "/quran/13",
+      "tocpath": null,
+      "title": "Surah 13",
+      "headers": [
+
+      ],
+      "file": "quran/013.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 13
+    },
+    {
+      "url": "/quran/14",
+      "tocpath": null,
+      "title": "Surah 14",
+      "headers": [
+
+      ],
+      "file": "quran/014.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 14
+    },
+    {
+      "url": "/quran/15",
+      "tocpath": null,
+      "title": "Surah 15",
+      "headers": [
+
+      ],
+      "file": "quran/015.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 15
+    },
+    {
+      "url": "/quran/16",
+      "tocpath": null,
+      "title": "Surah 16",
+      "headers": [
+
+      ],
+      "file": "quran/016.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 16
+    },
+    {
+      "url": "/quran/17",
+      "tocpath": null,
+      "title": "Surah 17",
+      "headers": [
+
+      ],
+      "file": "quran/017.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 17
+    },
+    {
+      "url": "/quran/18",
+      "tocpath": null,
+      "title": "Surah 18",
+      "headers": [
+
+      ],
+      "file": "quran/018.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 18
+    },
+    {
+      "url": "/quran/19",
+      "tocpath": null,
+      "title": "Surah 19",
+      "headers": [
+
+      ],
+      "file": "quran/019.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 19
+    },
+    {
+      "url": "/quran/20",
+      "tocpath": null,
+      "title": "Surah 20",
+      "headers": [
+
+      ],
+      "file": "quran/020.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 20
+    },
+    {
+      "url": "/quran/21",
+      "tocpath": null,
+      "title": "Surah 21",
+      "headers": [
+
+      ],
+      "file": "quran/021.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 21
+    },
+    {
+      "url": "/quran/22",
+      "tocpath": null,
+      "title": "Surah 22",
+      "headers": [
+
+      ],
+      "file": "quran/022.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 22
+    },
+    {
+      "url": "/quran/23",
+      "tocpath": null,
+      "title": "Surah 23",
+      "headers": [
+
+      ],
+      "file": "quran/023.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 23
+    },
+    {
+      "url": "/quran/24",
+      "tocpath": null,
+      "title": "Surah 24",
+      "headers": [
+
+      ],
+      "file": "quran/024.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 24
+    },
+    {
+      "url": "/quran/25",
+      "tocpath": null,
+      "title": "Surah 25",
+      "headers": [
+
+      ],
+      "file": "quran/025.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 25
+    },
+    {
+      "url": "/quran/26",
+      "tocpath": null,
+      "title": "Surah 26",
+      "headers": [
+
+      ],
+      "file": "quran/026.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 26
+    },
+    {
+      "url": "/quran/27",
+      "tocpath": null,
+      "title": "Surah 27",
+      "headers": [
+
+      ],
+      "file": "quran/027.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 27
+    },
+    {
+      "url": "/quran/28",
+      "tocpath": null,
+      "title": "Surah 28",
+      "headers": [
+
+      ],
+      "file": "quran/028.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 28
+    },
+    {
+      "url": "/quran/29",
+      "tocpath": null,
+      "title": "Surah 29",
+      "headers": [
+
+      ],
+      "file": "quran/029.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 29
+    },
+    {
+      "url": "/quran/30",
+      "tocpath": null,
+      "title": "Surah 30",
+      "headers": [
+
+      ],
+      "file": "quran/030.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 30
+    },
+    {
+      "url": "/quran/31",
+      "tocpath": null,
+      "title": "Surah 31",
+      "headers": [
+
+      ],
+      "file": "quran/031.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 31
+    },
+    {
+      "url": "/quran/32",
+      "tocpath": null,
+      "title": "Surah 32",
+      "headers": [
+
+      ],
+      "file": "quran/032.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 32
+    },
+    {
+      "url": "/quran/33",
+      "tocpath": null,
+      "title": "Surah 33",
+      "headers": [
+
+      ],
+      "file": "quran/033.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 33
+    },
+    {
+      "url": "/quran/34",
+      "tocpath": null,
+      "title": "Surah 34",
+      "headers": [
+
+      ],
+      "file": "quran/034.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 34
+    },
+    {
+      "url": "/quran/35",
+      "tocpath": null,
+      "title": "Surah 35",
+      "headers": [
+
+      ],
+      "file": "quran/035.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 35
+    },
+    {
+      "url": "/quran/36",
+      "tocpath": null,
+      "title": "Surah 36",
+      "headers": [
+
+      ],
+      "file": "quran/036.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 36
+    },
+    {
+      "url": "/quran/37",
+      "tocpath": null,
+      "title": "Surah 37",
+      "headers": [
+
+      ],
+      "file": "quran/037.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 37
+    },
+    {
+      "url": "/quran/38",
+      "tocpath": null,
+      "title": "Surah 38",
+      "headers": [
+
+      ],
+      "file": "quran/038.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 38
+    },
+    {
+      "url": "/quran/39",
+      "tocpath": null,
+      "title": "Surah 39",
+      "headers": [
+
+      ],
+      "file": "quran/039.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 39
+    },
+    {
+      "url": "/quran/40",
+      "tocpath": null,
+      "title": "Surah 40",
+      "headers": [
+
+      ],
+      "file": "quran/040.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 40
+    },
+    {
+      "url": "/quran/41",
+      "tocpath": null,
+      "title": "Surah 41",
+      "headers": [
+
+      ],
+      "file": "quran/041.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 41
+    },
+    {
+      "url": "/quran/42",
+      "tocpath": null,
+      "title": "Surah 42",
+      "headers": [
+
+      ],
+      "file": "quran/042.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 42
+    },
+    {
+      "url": "/quran/43",
+      "tocpath": null,
+      "title": "Surah 43",
+      "headers": [
+
+      ],
+      "file": "quran/043.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 43
+    },
+    {
+      "url": "/quran/44",
+      "tocpath": null,
+      "title": "Surah 44",
+      "headers": [
+
+      ],
+      "file": "quran/044.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 44
+    },
+    {
+      "url": "/quran/45",
+      "tocpath": null,
+      "title": "Surah 45",
+      "headers": [
+
+      ],
+      "file": "quran/045.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 45
+    },
+    {
+      "url": "/quran/46",
+      "tocpath": null,
+      "title": "Surah 46",
+      "headers": [
+
+      ],
+      "file": "quran/046.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 46
+    },
+    {
+      "url": "/quran/47",
+      "tocpath": null,
+      "title": "Surah 47",
+      "headers": [
+
+      ],
+      "file": "quran/047.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 47
+    },
+    {
+      "url": "/quran/48",
+      "tocpath": null,
+      "title": "Surah 48",
+      "headers": [
+
+      ],
+      "file": "quran/048.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 48
+    },
+    {
+      "url": "/quran/49",
+      "tocpath": null,
+      "title": "Surah 49",
+      "headers": [
+
+      ],
+      "file": "quran/049.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 49
+    },
+    {
+      "url": "/quran/50",
+      "tocpath": null,
+      "title": "Surah 50",
+      "headers": [
+
+      ],
+      "file": "quran/050.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 50
+    },
+    {
+      "url": "/quran/51",
+      "tocpath": null,
+      "title": "Surah 51",
+      "headers": [
+
+      ],
+      "file": "quran/051.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 51
+    },
+    {
+      "url": "/quran/52",
+      "tocpath": null,
+      "title": "Surah 52",
+      "headers": [
+
+      ],
+      "file": "quran/052.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 52
+    },
+    {
+      "url": "/quran/53",
+      "tocpath": null,
+      "title": "Surah 53",
+      "headers": [
+
+      ],
+      "file": "quran/053.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 53
+    },
+    {
+      "url": "/quran/54",
+      "tocpath": null,
+      "title": "Surah 54",
+      "headers": [
+
+      ],
+      "file": "quran/054.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 54
+    },
+    {
+      "url": "/quran/55",
+      "tocpath": null,
+      "title": "Surah 55",
+      "headers": [
+
+      ],
+      "file": "quran/055.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 55
+    },
+    {
+      "url": "/quran/56",
+      "tocpath": null,
+      "title": "Surah 56",
+      "headers": [
+
+      ],
+      "file": "quran/056.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 56
+    },
+    {
+      "url": "/quran/57",
+      "tocpath": null,
+      "title": "Surah 57",
+      "headers": [
+
+      ],
+      "file": "quran/057.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 57
+    },
+    {
+      "url": "/quran/58",
+      "tocpath": null,
+      "title": "Surah 58",
+      "headers": [
+
+      ],
+      "file": "quran/058.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 58
+    },
+    {
+      "url": "/quran/59",
+      "tocpath": null,
+      "title": "Surah 59",
+      "headers": [
+
+      ],
+      "file": "quran/059.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 59
+    },
+    {
+      "url": "/quran/60",
+      "tocpath": null,
+      "title": "Surah 60",
+      "headers": [
+
+      ],
+      "file": "quran/060.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 60
     },
     {
       "url": "/",
@@ -1839,6 +2703,11 @@
           "anchor": "tongue-kiss"
         },
         {
+          "level": 1,
+          "text": "Adult Muslim men should suckle the breasts if adult Muslim women",
+          "anchor": "adult-suckling"
+        },
+        {
           "level": 2,
           "text": "Rape",
           "anchor": "rape"
@@ -2682,48 +3551,18 @@
         },
         {
           "level": 2,
-          "text": "Apostasy",
-          "anchor": "apostasy"
+          "text": "Apostasy and hypocrisy",
+          "anchor": "apostasy-and-hypocrisy"
         },
         {
-          "level": 2,
+          "level": 3,
           "text": "Punishment for apostasy is death",
           "anchor": "apostasy-death-sentence"
         },
         {
-          "level": 2,
+          "level": 3,
           "text": "Give apostates a chance to repent, and if they don't, kill them",
           "anchor": "give-apostates-a-chance-to-repent-and-if-they-dont-kill-them"
-        },
-        {
-          "level": 2,
-          "text": "A man was beheaded for apostasy",
-          "anchor": "a-man-was-beheaded-for-apostasy"
-        },
-        {
-          "level": 2,
-          "text": "End time fake Muslims foretold",
-          "anchor": "end-time-fake-muslims-foretold"
-        },
-        {
-          "level": 2,
-          "text": "Islam is a strange serpent receding into its hole",
-          "anchor": "strange-serpent"
-        },
-        {
-          "level": 2,
-          "text": "Islam means following Muhammad",
-          "anchor": "islam-means-following-muhammad"
-        },
-        {
-          "level": 2,
-          "text": "Muslims must love Muhammad more than anyone else",
-          "anchor": "muslims-must-love-muhammad-more-than-anyone-else"
-        },
-        {
-          "level": 2,
-          "text": "View of non-Muslims",
-          "anchor": "view-of-non-muslims"
         },
         {
           "level": 2,
@@ -2731,29 +3570,74 @@
           "anchor": "leaving-islam"
         },
         {
-          "level": 2,
-          "text": "Stoning is monkey business",
-          "anchor": "stoning-is-monkey-business"
+          "level": 3,
+          "text": "A man was beheaded for apostasy",
+          "anchor": "a-man-was-beheaded-for-apostasy"
+        },
+        {
+          "level": 3,
+          "text": "Kill hypocrites",
+          "anchor": "kill-hypocrites"
         },
         {
           "level": 2,
-          "text": "Who resembles a Jew or Christian can not be a Muslim",
-          "anchor": "who-resembles-a-jew-or-christian-can-not-be-a-muslim"
+          "text": "Muslims may not resemble Jews or Christians",
+          "anchor": "muslims-may-not-resemble-jews-or-christians"
         },
         {
           "level": 2,
+          "text": "Islamic worship",
+          "anchor": "islamic-worship"
+        },
+        {
+          "level": 3,
+          "text": "Islam means following Muhammad",
+          "anchor": "islam-means-following-muhammad"
+        },
+        {
+          "level": 3,
+          "text": "Muslims must love Muhammad more than anyone else",
+          "anchor": "muslims-must-love-muhammad-more-than-anyone-else"
+        },
+        {
+          "level": 3,
+          "text": "Don't come to mosque with garlic breath",
+          "anchor": "garlic"
+        },
+        {
+          "level": 2,
+          "text": "The future of Islam",
+          "anchor": "the-future-of-islam"
+        },
+        {
+          "level": 3,
+          "text": "The goal of Islam is world domination",
+          "anchor": "the-goal-of-islam-is-world-domination"
+        },
+        {
+          "level": 3,
           "text": "Islam will split into 73 sects",
           "anchor": "islam-will-split-into-73-sects"
         },
         {
           "level": 2,
-          "text": "The goal of Islam is world domination",
-          "anchor": "the-goal-of-islam-is-world-domination"
+          "text": "Islam is a strange serpent receding into its hole",
+          "anchor": "strange-serpent"
+        },
+        {
+          "level": 3,
+          "text": "End time fake Muslims foretold",
+          "anchor": "end-time-fake-muslims-foretold"
         },
         {
           "level": 1,
           "text": "Non-Muslims, Jews and Christians",
           "anchor": "non-muslims"
+        },
+        {
+          "level": 2,
+          "text": "View of non-Muslims",
+          "anchor": "view-of-non-muslims"
         },
         {
           "level": 2,
@@ -2873,6 +3757,21 @@
         },
         {
           "level": 2,
+          "text": "The earth existed before space",
+          "anchor": "earth-before-space"
+        },
+        {
+          "level": 2,
+          "text": "The earth is flat",
+          "anchor": "flat-earth"
+        },
+        {
+          "level": 2,
+          "text": "The sky can fall down",
+          "anchor": "the-sky-can-fall-down"
+        },
+        {
+          "level": 2,
           "text": "The Whale Nun",
           "anchor": "nun"
         },
@@ -2887,9 +3786,54 @@
           "anchor": "earth-is-flat"
         },
         {
+          "level": 2,
+          "text": "The sun sets in a muddy spring",
+          "anchor": "sun-sets-in-mud"
+        },
+        {
+          "level": 2,
+          "text": "The sun might rise from the west",
+          "anchor": "the-sun-might-rise-from-the-west"
+        },
+        {
+          "level": 1,
+          "text": "Embryology",
+          "anchor": "embryology"
+        },
+        {
+          "level": 2,
+          "text": "Sperm comes from between the backbone and the ribs",
+          "anchor": "backbone-sperm"
+        },
+        {
+          "level": 2,
+          "text": "Semen remains in the womb 40 days",
+          "anchor": "semen-remains-in-the-womb-40-days"
+        },
+        {
+          "level": 2,
+          "text": "What determines the sex of a child?",
+          "anchor": "what-determines-the-sex-of-a-child"
+        },
+        {
+          "level": 2,
+          "text": "What determines if a child looks like its mother or father?",
+          "anchor": "whom-children-resemble"
+        },
+        {
           "level": 1,
           "text": "Hygiene, health and food",
           "anchor": "hygiene-health-and-food"
+        },
+        {
+          "level": 2,
+          "text": "Muslims should dip flies in their drinks",
+          "anchor": "dip-flies"
+        },
+        {
+          "level": 2,
+          "text": "Eat food from the ground and lick your fingers",
+          "anchor": "eat-food-from-the-ground-and-lick-your-fingers"
         },
         {
           "level": 2,
@@ -2923,11 +3867,6 @@
         },
         {
           "level": 2,
-          "text": "Don't come to mosque with garlic breath",
-          "anchor": "garlic"
-        },
-        {
-          "level": 2,
           "text": "Don't sleep on your stomach",
           "anchor": "dont-sleep-on-your-stomach"
         },
@@ -2943,53 +3882,8 @@
         },
         {
           "level": 2,
-          "text": "Muslims should dip flies in their drinks",
-          "anchor": "dip-flies"
-        },
-        {
-          "level": 2,
-          "text": "Eat food from the ground and lick your fingers",
-          "anchor": "eat-food-from-the-ground-and-lick-your-fingers"
-        },
-        {
-          "level": 2,
           "text": "The coccyx does not decay",
           "anchor": "coccyx"
-        },
-        {
-          "level": 2,
-          "text": "The earth existed before space",
-          "anchor": "earth-before-space"
-        },
-        {
-          "level": 2,
-          "text": "The earth is flat",
-          "anchor": "flat-earth"
-        },
-        {
-          "level": 2,
-          "text": "The sky can fall down",
-          "anchor": "the-sky-can-fall-down"
-        },
-        {
-          "level": 2,
-          "text": "Sperm comes from between the backbone and the ribs",
-          "anchor": "backbone-sperm"
-        },
-        {
-          "level": 2,
-          "text": "The sun sets in a muddy spring",
-          "anchor": "sun-sets-in-mud"
-        },
-        {
-          "level": 2,
-          "text": "The sun might rise from the west",
-          "anchor": "the-sun-might-rise-from-the-west"
-        },
-        {
-          "level": 2,
-          "text": "What determines if a child looks like its mother or father?",
-          "anchor": "whom-children-resemble"
         },
         {
           "level": 2,
@@ -3558,6 +4452,11 @@
           "level": 1,
           "text": "Muhammad's donkey stinks",
           "anchor": "muhammads-donkey-stinks"
+        },
+        {
+          "level": 1,
+          "text": "Stoning is monkey business",
+          "anchor": "stoning-is-monkey-business"
         }
       ],
       "file": "islam/13-weird.md",
@@ -4086,30 +4985,6 @@
       "nav_order": 999999
     },
     {
-      "url": "/quran/1",
-      "tocpath": null,
-      "title": "Surah 1 — Al-Fatihah",
-      "headers": [
-
-      ],
-      "file": "quran/001.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/10",
-      "tocpath": null,
-      "title": "Surah 10",
-      "headers": [
-
-      ],
-      "file": "quran/010.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
       "url": "/quran/100",
       "tocpath": null,
       "title": "Surah 100",
@@ -4148,7 +5023,7 @@
     {
       "url": "/quran/103",
       "tocpath": null,
-      "title": "Surah 103",
+      "title": "Surah 103 - Al-Asr (The declining day)",
       "headers": [
 
       ],
@@ -4230,18 +5105,6 @@
       "nav_order": 999999
     },
     {
-      "url": "/quran/11",
-      "tocpath": null,
-      "title": "Surah 11",
-      "headers": [
-
-      ],
-      "file": "quran/011.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
       "url": "/quran/110",
       "tocpath": null,
       "title": "Surah 110 - An-Nasr (The Help)",
@@ -4297,798 +5160,6 @@
 
       ],
       "file": "quran/114.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/12",
-      "tocpath": null,
-      "title": "Surah 12",
-      "headers": [
-
-      ],
-      "file": "quran/012.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/13",
-      "tocpath": null,
-      "title": "Surah 13",
-      "headers": [
-
-      ],
-      "file": "quran/013.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/14",
-      "tocpath": null,
-      "title": "Surah 14",
-      "headers": [
-
-      ],
-      "file": "quran/014.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/15",
-      "tocpath": null,
-      "title": "Surah 15",
-      "headers": [
-
-      ],
-      "file": "quran/015.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/16",
-      "tocpath": null,
-      "title": "Surah 16",
-      "headers": [
-
-      ],
-      "file": "quran/016.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/17",
-      "tocpath": null,
-      "title": "Surah 17",
-      "headers": [
-
-      ],
-      "file": "quran/017.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/18",
-      "tocpath": null,
-      "title": "Surah 18",
-      "headers": [
-
-      ],
-      "file": "quran/018.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/19",
-      "tocpath": null,
-      "title": "Surah 19",
-      "headers": [
-
-      ],
-      "file": "quran/019.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/2",
-      "tocpath": null,
-      "title": "Surah 2 — Al-Baqara",
-      "headers": [
-        {
-          "level": 2,
-          "text": "Introductory nonsense",
-          "anchor": "introductory-nonsense"
-        },
-        {
-          "level": 2,
-          "text": "Self glazing",
-          "anchor": "self-glazing"
-        },
-        {
-          "level": 2,
-          "text": "False believers",
-          "anchor": "false-believers"
-        },
-        {
-          "level": 2,
-          "text": "Encouraging worship",
-          "anchor": "encouraging-worship"
-        },
-        {
-          "level": 2,
-          "text": "Literary excellence as a test for authenticity.",
-          "anchor": "literary-excellence-as-a-test-for-authenticity"
-        },
-        {
-          "level": 2,
-          "text": "Paradise",
-          "anchor": "paradise"
-        },
-        {
-          "level": 2,
-          "text": "Allah misleads",
-          "anchor": "allah-misleads"
-        },
-        {
-          "level": 2,
-          "text": "Life and death",
-          "anchor": "life-and-death"
-        },
-        {
-          "level": 2,
-          "text": "Creation of Heaven and Earth",
-          "anchor": "creation-of-heaven-and-earth"
-        },
-        {
-          "level": 2,
-          "text": "Adam and Satan shenanigans",
-          "anchor": "adam-and-satan-shenanigans"
-        },
-        {
-          "level": 2,
-          "text": "Laws on divorce",
-          "anchor": "laws-on-divorce"
-        },
-        {
-          "level": 2,
-          "text": "Laws about weaning children",
-          "anchor": "laws-about-weaning-children"
-        },
-        {
-          "level": 2,
-          "text": "Laws on widowhood",
-          "anchor": "laws-on-widowhood"
-        },
-        {
-          "level": 2,
-          "text": "Laws on divorce, again",
-          "anchor": "laws-on-divorce-again"
-        },
-        {
-          "level": 2,
-          "text": "Prayer against danger",
-          "anchor": "prayer-against-danger"
-        },
-        {
-          "level": 2,
-          "text": "Laws on widowhood and divorce",
-          "anchor": "laws-on-widowhood-and-divorce"
-        },
-        {
-          "level": 2,
-          "text": "Violence",
-          "anchor": "violence"
-        },
-        {
-          "level": 2,
-          "text": "Donations",
-          "anchor": "donations"
-        },
-        {
-          "level": 2,
-          "text": "Pseudo-history",
-          "anchor": "pseudo-history"
-        },
-        {
-          "level": 2,
-          "text": "Affirming the prophethood of Muhammad",
-          "anchor": "affirming-the-prophethood-of-muhammad"
-        },
-        {
-          "level": 2,
-          "text": "Donations again",
-          "anchor": "donations-again"
-        },
-        {
-          "level": 2,
-          "text": "Nature of Allah",
-          "anchor": "nature-of-allah"
-        },
-        {
-          "level": 2,
-          "text": "Freedom of religion",
-          "anchor": "freedom-of-religion"
-        },
-        {
-          "level": 2,
-          "text": "Regular warnings and threats",
-          "anchor": "regular-warnings-and-threats"
-        },
-        {
-          "level": 2,
-          "text": "More pseudo-history",
-          "anchor": "more-pseudo-history"
-        },
-        {
-          "level": 2,
-          "text": "Charity",
-          "anchor": "charity"
-        },
-        {
-          "level": 2,
-          "text": "Interest and usury",
-          "anchor": "interest-and-usury"
-        },
-        {
-          "level": 2,
-          "text": "Contract law",
-          "anchor": "contract-law"
-        },
-        {
-          "level": 2,
-          "text": "Forgiveness",
-          "anchor": "forgiveness"
-        }
-      ],
-      "file": "quran/002.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/20",
-      "tocpath": null,
-      "title": "Surah 20",
-      "headers": [
-
-      ],
-      "file": "quran/020.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/21",
-      "tocpath": null,
-      "title": "Surah 21",
-      "headers": [
-
-      ],
-      "file": "quran/021.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/22",
-      "tocpath": null,
-      "title": "Surah 22",
-      "headers": [
-
-      ],
-      "file": "quran/022.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/23",
-      "tocpath": null,
-      "title": "Surah 23",
-      "headers": [
-
-      ],
-      "file": "quran/023.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/24",
-      "tocpath": null,
-      "title": "Surah 24",
-      "headers": [
-
-      ],
-      "file": "quran/024.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/25",
-      "tocpath": null,
-      "title": "Surah 25",
-      "headers": [
-
-      ],
-      "file": "quran/025.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/26",
-      "tocpath": null,
-      "title": "Surah 26",
-      "headers": [
-
-      ],
-      "file": "quran/026.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/27",
-      "tocpath": null,
-      "title": "Surah 27",
-      "headers": [
-
-      ],
-      "file": "quran/027.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/28",
-      "tocpath": null,
-      "title": "Surah 28",
-      "headers": [
-
-      ],
-      "file": "quran/028.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/29",
-      "tocpath": null,
-      "title": "Surah 29",
-      "headers": [
-
-      ],
-      "file": "quran/029.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/3",
-      "tocpath": null,
-      "title": "Surah 3",
-      "headers": [
-
-      ],
-      "file": "quran/003.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/30",
-      "tocpath": null,
-      "title": "Surah 30",
-      "headers": [
-
-      ],
-      "file": "quran/030.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/31",
-      "tocpath": null,
-      "title": "Surah 31",
-      "headers": [
-
-      ],
-      "file": "quran/031.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/32",
-      "tocpath": null,
-      "title": "Surah 32",
-      "headers": [
-
-      ],
-      "file": "quran/032.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/33",
-      "tocpath": null,
-      "title": "Surah 33",
-      "headers": [
-
-      ],
-      "file": "quran/033.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/34",
-      "tocpath": null,
-      "title": "Surah 34",
-      "headers": [
-
-      ],
-      "file": "quran/034.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/35",
-      "tocpath": null,
-      "title": "Surah 35",
-      "headers": [
-
-      ],
-      "file": "quran/035.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/36",
-      "tocpath": null,
-      "title": "Surah 36",
-      "headers": [
-
-      ],
-      "file": "quran/036.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/37",
-      "tocpath": null,
-      "title": "Surah 37",
-      "headers": [
-
-      ],
-      "file": "quran/037.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/38",
-      "tocpath": null,
-      "title": "Surah 38",
-      "headers": [
-
-      ],
-      "file": "quran/038.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/39",
-      "tocpath": null,
-      "title": "Surah 39",
-      "headers": [
-
-      ],
-      "file": "quran/039.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/4",
-      "tocpath": null,
-      "title": "Surah 4",
-      "headers": [
-
-      ],
-      "file": "quran/004.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/40",
-      "tocpath": null,
-      "title": "Surah 40",
-      "headers": [
-
-      ],
-      "file": "quran/040.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/41",
-      "tocpath": null,
-      "title": "Surah 41",
-      "headers": [
-
-      ],
-      "file": "quran/041.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/42",
-      "tocpath": null,
-      "title": "Surah 42",
-      "headers": [
-
-      ],
-      "file": "quran/042.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/43",
-      "tocpath": null,
-      "title": "Surah 43",
-      "headers": [
-
-      ],
-      "file": "quran/043.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/44",
-      "tocpath": null,
-      "title": "Surah 44",
-      "headers": [
-
-      ],
-      "file": "quran/044.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/45",
-      "tocpath": null,
-      "title": "Surah 45",
-      "headers": [
-
-      ],
-      "file": "quran/045.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/46",
-      "tocpath": null,
-      "title": "Surah 46",
-      "headers": [
-
-      ],
-      "file": "quran/046.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/47",
-      "tocpath": null,
-      "title": "Surah 47",
-      "headers": [
-
-      ],
-      "file": "quran/047.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/48",
-      "tocpath": null,
-      "title": "Surah 48",
-      "headers": [
-
-      ],
-      "file": "quran/048.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/49",
-      "tocpath": null,
-      "title": "Surah 49",
-      "headers": [
-
-      ],
-      "file": "quran/049.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/5",
-      "tocpath": null,
-      "title": "Surah 5",
-      "headers": [
-
-      ],
-      "file": "quran/005.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/50",
-      "tocpath": null,
-      "title": "Surah 50",
-      "headers": [
-
-      ],
-      "file": "quran/050.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/51",
-      "tocpath": null,
-      "title": "Surah 51",
-      "headers": [
-
-      ],
-      "file": "quran/051.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/52",
-      "tocpath": null,
-      "title": "Surah 52",
-      "headers": [
-
-      ],
-      "file": "quran/052.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/53",
-      "tocpath": null,
-      "title": "Surah 53",
-      "headers": [
-
-      ],
-      "file": "quran/053.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/54",
-      "tocpath": null,
-      "title": "Surah 54",
-      "headers": [
-
-      ],
-      "file": "quran/054.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/55",
-      "tocpath": null,
-      "title": "Surah 55",
-      "headers": [
-
-      ],
-      "file": "quran/055.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/56",
-      "tocpath": null,
-      "title": "Surah 56",
-      "headers": [
-
-      ],
-      "file": "quran/056.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/57",
-      "tocpath": null,
-      "title": "Surah 57",
-      "headers": [
-
-      ],
-      "file": "quran/057.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/58",
-      "tocpath": null,
-      "title": "Surah 58",
-      "headers": [
-
-      ],
-      "file": "quran/058.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/59",
-      "tocpath": null,
-      "title": "Surah 59",
-      "headers": [
-
-      ],
-      "file": "quran/059.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/6",
-      "tocpath": null,
-      "title": "Surah 6",
-      "headers": [
-
-      ],
-      "file": "quran/006.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/60",
-      "tocpath": null,
-      "title": "Surah 60",
-      "headers": [
-
-      ],
-      "file": "quran/060.md",
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 999999
@@ -5197,18 +5268,6 @@
 
       ],
       "file": "quran/069.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/7",
-      "tocpath": null,
-      "title": "Surah 7",
-      "headers": [
-
-      ],
-      "file": "quran/007.md",
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 999999
@@ -5334,18 +5393,6 @@
       "nav_order": 999999
     },
     {
-      "url": "/quran/8",
-      "tocpath": null,
-      "title": "Surah 8",
-      "headers": [
-
-      ],
-      "file": "quran/008.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
       "url": "/quran/80",
       "tocpath": null,
       "title": "Surah 80",
@@ -5461,18 +5508,6 @@
 
       ],
       "file": "quran/089.md",
-      "include_in_menu": false,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/quran/9",
-      "tocpath": null,
-      "title": "Surah 9",
-      "headers": [
-
-      ],
-      "file": "quran/009.md",
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 999999
