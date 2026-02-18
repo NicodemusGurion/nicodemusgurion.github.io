@@ -1783,13 +1783,23 @@
         },
         {
           "level": 2,
+          "text": "Allah is not omnipotent",
+          "anchor": "omnipotence"
+        },
+        {
+          "level": 3,
+          "text": "Allah is dependent on human women to be a father",
+          "anchor": "allah-is-dependent-on-human-women-to-be-a-father"
+        },
+        {
+          "level": 2,
           "text": "Allah is unlike anything else",
           "anchor": "allah-is-unlike-anything-else"
         },
         {
           "level": 2,
           "text": "Allah is not the only creator",
-          "anchor": "allah-is-not-the-only-creator"
+          "anchor": "creator"
         },
         {
           "level": 2,
@@ -1804,7 +1814,7 @@
         {
           "level": 1,
           "text": "Allah's religion",
-          "anchor": "allahs-religion"
+          "anchor": "religion"
         },
         {
           "level": 2,
@@ -3965,6 +3975,21 @@
           "level": 2,
           "text": "Grieving tortures the deceased",
           "anchor": "grieving-tortures-the-deceased"
+        },
+        {
+          "level": 1,
+          "text": "Free will",
+          "anchor": "free-will"
+        },
+        {
+          "level": 2,
+          "text": "Belief is predetermined",
+          "anchor": "belief-is-predetermined"
+        },
+        {
+          "level": 2,
+          "text": "Adultery is predetermined",
+          "anchor": "adultery-is-predetermined"
         },
         {
           "level": 1,
