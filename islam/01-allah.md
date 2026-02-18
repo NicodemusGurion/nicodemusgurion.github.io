@@ -143,6 +143,7 @@ No wonder Muslims live such a nihilistic existence.
 
 > Once Allah's Messenger became sick and could not offer his night prayer (Tahajjud) for two or three nights. Then a lady (the wife of Abu Lahab) came and said, "O Muhammad! I think that **your Satan has forsaken you**, for I have not seen him with you for two or three nights!" On that Allah revealed: 'By the fore-noon, and by the night when it darkens, **your Lord (O Muhammad) has neither forsaken you**, nor hated you.' (93.1-3)
 
+Notice that Allah never contradicts the accusation that he is Satan, rather he affirms it by assuring Muhammad that "**your Lord has neither forsaken you**".
 
 # Allah's fatherhood
 
@@ -157,7 +158,7 @@ The Quran admits Jews and Christians consider God to be their father.
 
 ## Allah is not a father
 
-[Surah 112:4](https://quran.com/112/4)[; 18:4](https://quran.com/18/4)[; 19:35,](https://quran.com/19/35,) 88-93
+[Surah 112:4](https://quran.com/112/4)[; 18:4](https://quran.com/18/4)[; 19:35,](https://quran.com/19/35,) [88-93](https://quran.com/19/88-93)
 
 > He neither begets nor is born,
 
@@ -192,13 +193,22 @@ So on the one hand Allah could just "choose" a creation as his offspring, but on
 
 # Allah's Godship 
 
+## Allah is not omnipotent {#omnipotence}
+
+### Allah is dependent on human women to be a father
+
+[Surah 6:101](https://quran.com/6/101)
+
+> the Creator of the heavens and earth! How could He have children when He has no spouse
+
+
 ## Allah is unlike anything else
 
 [Surah 42:12](https://quran.com/42/12)
 
 > There is nothing like Him, for He ˹alone˺ is the All-Hearing, All-Seeing.
 
-## Allah is not the only creator
+## Allah is not the only creator {#creator}
 
 [Surah 23:14](https://quran.com/23/14)
 
@@ -237,7 +247,8 @@ However not everyone will be able to bow before Allah, showing that he is not th
 It seems Allah is unable to receive prayers when the earth and sun are at a specific angle with one another. Perhaps the position of the sun affects the reception? Or is his Office closed during those hours? And how does that work, since the sun is rising or setting somewhere in the world all the time?
 
 
-# Allah's religion
+# Allah's religion {#religion}
+
 
 ## Allah takes the Shahada and is therefore a muslim 
 

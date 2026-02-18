@@ -78,7 +78,27 @@ See also:
 > The Prophet said, "The deceased is tortured in his grave for bewailing over him."
 
 
+# Free will
 
+Islam teaches predestination, that humans don't have free will.
+
+## Belief is predetermined 
+
+[Surah 2:7](https://quran.com/2/7)
+
+> Allah has set a seal on their hearts and on their hearing, and over their sight is a veil; for for them is a great punishment.
+
+It is Allah's fault if someone does not believe.
+
+## Adultery is predetermined
+
+[Sahih al-Bukhari 6612](http://web.archive.org/web/20240208033843/https://sunnah.com/bukhari:6612)
+
+> Allah has written for the son of Adam his inevitable share of adultery whether he is aware of it or not
+
+[Sahih Muslim 2657 b](https://web.archive.org/web/20240325212822/https://sunnah.com/muslim:2657b)
+
+> Allah has fixed the very portion of adultery which a man will indulge in, and which he of necessity **must** commit.
 
 
 # Hell
