@@ -40,6 +40,12 @@ Muslims however understand it not as that you shouldn't fight or hurt others, bu
 
 > A'isha reported that Gabriel (peace be upon him) made a promise with Allah's Messenger to come at a definite hour; that hour came but he did not visit him. And there was in his hand (in the hand of Allah's Apostle) a staff. He threw it from his hand and said: Never has Allah or His messengers (angels) ever broken their promise. Then he cast a glance (and by chance) found a puppy under his cot and said: 'A'isha, when did this dog enter here? She said: By Allah, I don't know He then commanded and it was turned out. Then Gabriel came and Allah's Messenger said to him: You promised me and I waited for you, but you did not come, whereupon he said: It was the dog in your house which prevented me (to come), for **we (angels) do not enter a house in which there is a dog or a picture.**
 
+[Sunan Abi Dawud 4158](https://sunnah.com/abudawud:4158)
+
+> The Messenger of Allah said: Gabriel came to me and said: I came to you last night and was prevented from entering simply because there were images at the door, for there was a decorated curtain with images on it in the house, and there was a dog in the house. So order the head of the image which is in the house to be cut off so that it resembles the form of a tree; order the curtain to be cut up and made into two cushions spread out on which people may tread; and order the dog to be turned out.
+> The Messenger of Allah then did so. The dog belonged to al-Hasan or al-Husayn and was under their couch. So he ordered it to be turned out.
+
+
 [Mishkat al-Masabih 3894](https://sunnah.com/mishkat:3894)
 
 > The angels do not go along with a travelling company in which there is a dog or a bell.
