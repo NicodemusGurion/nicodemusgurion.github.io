@@ -30,12 +30,32 @@ Muslims however understand it not as that you shouldn't fight or hurt others, bu
 
 # Angels
 
-## Angels are afraid of dogs and pictures
+## Angels are afraid of dogs, pictures, and bells {#angels-dogs}
 
 [Sahih al-Bukhari 4002](https://sunnah.com/bukhari:4002)
 
 > Allah's Messenger said. "Angels do not enter a house in which there is a dog or a picture"
 
+[Sahih Muslim 2104](https://sunnah.com/muslim:2104a)
+
+> A'isha reported that Gabriel (peace be upon him) made a promise with Allah's Messenger to come at a definite hour; that hour came but he did not visit him. And there was in his hand (in the hand of Allah's Apostle) a staff. He threw it from his hand and said: Never has Allah or His messengers (angels) ever broken their promise. Then he cast a glance (and by chance) found a puppy under his cot and said: 'A'isha, when did this dog enter here? She said: By Allah, I don't know He then commanded and it was turned out. Then Gabriel came and Allah's Messenger said to him: You promised me and I waited for you, but you did not come, whereupon he said: It was the dog in your house which prevented me (to come), for **we (angels) do not enter a house in which there is a dog or a picture.**
+
+[Mishkat al-Masabih 3894](https://sunnah.com/mishkat:3894)
+
+> The angels do not go along with a travelling company in which there is a dog or a bell.
+
+See also:
+
+- [Sahih al-Bukhari 5949](https://sunnah.com/bukhari:5949)
+- [Sahih al-Bukhari 3322](https://sunnah.com/bukhari:3322)
+- [Sunan Ibn Majah 3649](https://sunnah.com/ibnmajah:3649)
+- [Sunan an-Nasa'i 4282](https://sunnah.com/nasai:4282)
+- [Sunan an-Nasa'i 5347](https://sunnah.com/nasai:5347)
+- [Mishkat al-Masabih 4489](https://sunnah.com/mishkat:4489)
+- [Sunan an-Nasa'i 261](https://sunnah.com/nasai:261)
+- [Sunan Ibn Majah 3650](https://sunnah.com/ibnmajah:3650)
+
+[Everyday life as a Muslim - Kill all dogs](https://thyreon.com/islam/life#kill-all-dogs)
 
 
 # Death
