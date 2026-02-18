@@ -26,6 +26,8 @@ See also:
 - [Sunan an-Nasa'i 336](https://sunnah.com/nasai:336)
 - [Sunan an-Nasa'i 337](https://sunnah.com/nasai:337)
 
+A possible explanation is that [angels are afraid of dogs.](/islam/theology#angels-dogs)
+
 ## Kill all lizards
 
 [Sunan Ibn Majah 3231](https://sunnah.com/ibnmajah:3231)
