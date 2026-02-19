@@ -890,6 +890,13 @@ See also:
 - [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
 - [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
+### Muhammad raped Aisha while she was mourning the death of her father
+
+[Sahih al-Bukhari 4001](https://sunnah.com/bukhari:4001)
+
+> The Prophet came to me the night my marriage was consummated and sat down on my bed as you (the sub-narrator) are sitting now, and small girls were beating the tambourine and singing in lamentation of my father who had been killed on the day of the battle of Badr. 
+
+
 ### Muhammad French-kissed a little boy
 
 [Al-Adab Al-Mufrad 1183](https://sunnah.com/adab:1183)
@@ -1154,6 +1161,16 @@ These people had stolen some camels so Muhammad **had their hands and feet cut o
 
 > the Prophet had suddenly attacked Bani Mustaliq without warning while they were heedless and their cattle were being watered at the places of water. Their fighting men were killed and their women and children were taken as slaves
 
+## Muhammad ordered the killing of all Meccans who did not convert
+
+[Sunan Abi Dawud 3024](https://sunnah.com/abudawud:3024)
+
+
+> Abu Hurairah said “When the Prophet entered Makkah he left Al Zubair bin Al Awwam, Abu ‘Ubaidah bin Al Jarrah and Khalid bin Al Walid on the horses and he said “Abu Hurairah call the helpers.” He said”Go this way. Whoever appears before you kill him”. A man called “the Quraish will be no more after today.” The Apostle of Allaah said “he who entered house is safe, he who throws the weapon is safe. The chiefs of the Quraish intended (to have a resort in the Ka’bah), they entered the Ka’bah and it was full of them. The Prophet took rounds of Ka’bah and prayed behind the station. He then held the sides of the gate (of the Ka’bah). They (the people) came out and took the oath of allegiance (at the hands) of the Prophet on Islam.
+> Abu Dawud said “I heard Ahmad bin Hanbal (say) when he was asked by a man “Was Makkah captured by force?” He said “What harms you whatever it was? He said “Then by peace?” He said, No.
+
+
+Mecca was not captured by peaceful means but by force, and Muhammad ordered that the Meccans who would not convert to Islam would be killed.
 
 
 
