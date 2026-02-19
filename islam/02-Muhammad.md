@@ -5,12 +5,13 @@ search: true
 menu: true
 toc: true
 image: https://i.ibb.co/9H5GWT83/IMG-0248.jpg
+nav_order: 
 ---
 
 
 Everything you wanted to know about Muhammad but were afraid to ask.
 
-# Muhammad's appearance
+# Muhammad's appearance {#appearance}
 
 What did he look like?
 
@@ -37,13 +38,13 @@ An average looking fellow, neither tall nor short, with wavy hair, silver white 
 
 > I saw the Messenger of Allah dyeing his beard yellow
 
-## Muhammad had a gap tooth
+## Muhammad had gap teeth {#gap-teeth}
 
 [Ash-Shama'il Al-Muhammadiyah 15](https://sunnah.com/shamail:15)
 
 > Allah’s Messenger had a gap between the medial pair of teeth. When he spoke, it seemed as if light were emerging from between his middle teeth."
 
-## Muhammad was white 
+## Muhammad was white {#white}
 
 [Sunan Abu Dawud 4864](https://sunnah.com/abudawud:4864)
 
@@ -80,17 +81,23 @@ See also:
 - [Ash-Shama'il Al-Muhammadiyah 51](https://sunnah.com/shamail:51), [52](https://sunnah.com/shamail:52), [53](https://sunnah.com/shamail:53), [54](https://sunnah.com/shamail:54)
 - [Jami` at-Tirmidhi 2048](https://sunnah.com/tirmidhi:2048)
 
-## Muhammad liked his own face
+## Muhammad wore red {#red-clothes}
+
+[Ash-Shama'il Al-Muhammadiyah 3](https://sunnah.com/shamail:3)
+
+> "Allah’s Messenger(Allah bless him and give him peace) was neither curly nor lank-haired, of medium height, broad-shouldered, with luxuriant hair reaching the lobes of his ears, wearing a red suit of clothes. I have never seen anything more beautiful than him!”
+
+## Muhammad liked his own face {#narcissist}
 
 [Sunan an-Nasa'i 1126](https://sunnah.com/nasai:1126)
 
 > My face has prostrated to the One Who created it and shaped it and shaped it well
 
-## Muhammad had a tooth knocked out
+## Muhammad had a tooth knocked out {#toothless}
 
 > The face of the Prophet [was] wounded and one of his front teeth [wa]s broken
 
-## Muhammad dressed in drag
+## Muhammad dressed in drag {#drag-queen}
 
 [Sahih al-Bukhari 2581](https://sunnah.com/bukhari:2581) tells a story about how people only came with gifts and requesting revelations of Muhammad on the days he was staying in Alisha's house. They did this because they knew Aisha was his favorite wife and perhaps he was in a good mood while he was sexually assaulting his child bride. In any case his other wives complained that Aisha was favoured and wanted people to come with gifts when Muhammad was with them too. But Muhammad explains the reason why people only come to him in Aishas house:
 
@@ -111,7 +118,7 @@ Deuteronomy 22:5 says “A woman shall not wear a man’s garment, nor shall a m
 So here Muhammad is wearing the clothes of Aisha, and even entertaining guests, namely Abu Bakr and Umar. However when Uthman shows up, Muhammad quickly takes off Aishas clothes, and the reason is that Uthman was considered a "modest man" and Muhammad didn't wish to offend him. So Muhammad knew that him wearing these clothes was something offensive and shameful. But as long as he is with his buddies who don't really care about his various perversions, it's all ok.
 
 
-# Muhammad's character
+# Muhammad's character {#character}
 
 ## Muhammad was illiterate {#illiterate}
 
@@ -121,7 +128,7 @@ So here Muhammad is wearing the clothes of Aisha, and even entertaining guests, 
 
 Muslims brag about this for some strange reason. Being illiterate is nothing to brag about. Muhammad wasn't poor, so the only reason  he would not learn to read or write would be because he was either incredibly lazy or a moron.
 
-## Muhammad was gullible
+## Muhammad was gullible {#gullible}
 
 [Surah 9:61](https://quran.com/9/61)
 
@@ -129,7 +136,7 @@ Muslims brag about this for some strange reason. Being illiterate is nothing to 
 
 Muhammad was well known among his people as a gullible person who just listened and believed in anything people said.
 
-## Muhammad was a sinner
+## Muhammad was a sinner {#sinner}
 
 [Surah 40:55](https://quran.com/40/55)[; 47:19](https://quran.com/47/19)
 
@@ -147,7 +154,7 @@ Muhammad was well known among his people as a gullible person who just listened 
 
 > The Prophet used to say, "O Allah! I seek refuge with You … from all kinds of sins … O Allah! Wash away my sins with the water of snow and hail, and cleanse my heart from all the sins as a white garment is cleansed from the filth, and let there be a long distance between me and my sins, as You made East and West far from each other."
 
-## Muhammad randomly beat people for no reason
+## Muhammad randomly beat people for no reason {#bully}
 
 [Sunan Abi Dawud 4536](https://sunnah.com/abudawud:4536)
 
@@ -182,7 +189,7 @@ His followers being ignorant didn't notice, but the Jews and Christians did and 
 Here are some of the things he copied:
 
 
-### Muhammad copied the Lord's Prayer
+### Muhammad copied the Lord's Prayer {#lords-prayer}
 
 [Sunan Abi Dawud 3892](https://sunnah.com/abudawud:3892)
 
@@ -205,9 +212,9 @@ Apart from Jesus' supplication for daily bread this prayer is suspiciously simil
 
 Coincidence? Or plagiarism?
 
-### Muhammad copied Jesus' teachings 
+### Muhammad copied Jesus' teachings {#copied-jesus}
 
-#### The workers of the vineyard
+#### The workers of the vineyard {#workers-of-vineyard}
 
 [Sahih al-Bukhari 2269](https://sunnah.com/bukhari:2269)
 
@@ -222,7 +229,7 @@ See also:
 - [Sahih al-Bukhari 5021](https://sunnah.com/bukhari:5021)
 - [Jami` at-Tirmidhi 2871](https://sunnah.com/tirmidhi:2871)
 
-#### Final judgment
+#### Final judgment {#final-judgment}
 
 [Sahih Muslim 2569](https://sunnah.com/muslim:2569)
 
@@ -231,7 +238,7 @@ See also:
 
 This matches Jesus teaching in Matthew 25:31-46, with the difference that Allah is judging a "son of Adam" or "son of Man", whereas in Jesus' version, Jesus **is** the Son of Man, judging humanity.  So by copying this story from the Christians, and saying that the judge is Allah when it is Jesus, Muhammad is admitting that Jesus **is** Allah/God.
 
-### Muhammad copied Paul's writings
+### Muhammad copied Paul's writings {#copied-paul}
 
 [Sahih al-Bukhari 7498](https://sunnah.com/bukhari:7498)
 
@@ -256,7 +263,7 @@ Even [Surah 93:9](https://quran.com/93/9) says "so as for the orphan, do not opp
 Exodus 22:22 says "You shall not mistreat any widow or fatherless child."
 
 
-## Muhammad disdained a blind man
+## Muhammad disdained a blind man {#mistreated-blind}
 
 [Surah 80:1,2](https://quran.com/80/1,2)
 
@@ -283,8 +290,11 @@ See also:
 
 ## Muhammad didn't practice what he preached {#hypocrite}
 
-[Muhammad said to not pee towards the Qiblah but did so himself](#peeing-qiblah)
+[Sunnan Ibn Majah 325](https://sunnah.com/ibnmajah:325)
 
+> "The Messenger of Allah forbade facing the Qiblah when urinating. But I saw him, one year before he died, facing the Qiblah (while urinating)."
+
+Muhammad didn't practice what he preached.
 
 
 ## Muhammad almost caused a famine {#caused-famine}
@@ -324,14 +334,14 @@ I guess Abdullah Ibn Abbas had his suspicions, since he told both stories of how
 
 Also [Ash-Shama'il Al-Muhammadiyah 3](https://sunnah.com/shamail:3) says Muhammad liked to dress in red, so there's that.
 
-## Muhammad killed puppies
+## Muhammad was a puppy-killer {#puppy-killer}
 
 [Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
 
 > the Messenger of Allah commanded that all dogs be killed, even small dogs.
 
 
-## Muhammad was a tough guy
+## Muhammad was a tough guy {#tough-guy}
 
 [Sahih al-Bukhari 36](https://sunnah.com/bukhari:36)
 
@@ -344,21 +354,6 @@ See also:
 - [Sunan an-Nasa'i 3098](https://sunnah.com/nasai:3098)
 
 
-
-## Muhammad slapped a lady
-
-[Sahih al-Bukhari 5255](https://sunnah.com/bukhari:5255)
-
-> We went out with the Prophet to a garden called Ash-Shaut till we reached two walls between which we sat down. The Prophet said, "Sit here," and went in (the garden). The Jauniyya (a lady from Bani Jaun) had been brought and lodged in a house in a date-palm garden in the home of Umaima bint An- Numan bin Sharahil, and her wet nurse was with her. When the Prophet entered upon her, he said to her, "Give me yourself (in marriage) as a gift." She said, "Can a princess give herself in marriage to an ordinary man?" The Prophet **raised his hand to pat her so that she might become tranquil**. She said, "I seek refuge with Allah from you." He said, "You have sought refuge with One Who gives refuge. Then the Prophet came out to us and said, "O Abu Usaid! Give her two white linen dresses to wear and let her go back to her family."
-
-
-So Muhammad goes to propose marriage to a lady, and she rejects him, saying he is not worthy. Sunnah.com says that he then "raised his hand to pat her so that she might become tranquil", which is a lie.
-
-The Arabic says "يَضَعُ يَدَهُ عَلَيْهَا" which means "he laid hands upon her". The meaning is not entirely clear, but to "lay hands on someone" usually indicates striking them or grasping them roughly.
-
-Since her immediate reaction to his action was to appeal to Allah for protection, "*I seek refuge with Allah from you*", we can surmise that he wasn't exactly "petting" her like a kitten to make her "tranquil". That is a deception by the translators at sunnah.com.
-
-Given what we know about Muhammad, what most likely happened is that the proud piss ant got so offended that he couldn't score another trophy wife that he immediately resorted to violence and slapped her in the face. 
 
 
 
@@ -373,9 +368,14 @@ Given what we know about Muhammad, what most likely happened is that the proud p
 She was a good wife, and he murdered her because he was brainwashed by his cult leader, and his cult leader condoned and approves of this.
 
 
+
+
+
+
+
 # Muhammad's prophethood {#prophethood}
 
-## Muhammad sacrificed to pagan gods
+## Muhammad sacrificed to pagan gods {#pagan}
 
 [Sahih al-Bukhari 5499](https://sunnah.com/bukhari:5499)
 
@@ -392,7 +392,7 @@ She was a good wife, and he murdered her because he was brainwashed by his cult 
 
 When Muslims lie about people in the Bible being Muslims, remind them that Muhammad was the first ever Muslim. 
 
-## Muhammad can not save you
+## Muhammad can not save you {#no-salvation}
 
 [Sahih al-Bukhari 2753](https://sunnah.com/bukhari:2753)
 
@@ -401,16 +401,16 @@ When Muslims lie about people in the Bible being Muslims, remind them that Muham
 Jesus, however, can.
 
 
-## Muhammad couldn't predict technological advances 
+## Muhammad couldn't predict technological advances {#predict-technology}
 
 [Sahih al-Bukhari 1039](https://sunnah.com/bukhari:1039)
 
-> Allah's Messenger (ﷺ) (p.b.u.h) said, "Keys of the unseen knowledge are five which nobody knows but Allah . . . nobody knows what will happen tomorrow; nobody knows what is in the womb; nobody knows what he will gain tomorrow; nobody knows at what place he will die; and nobody knows when it will rain."
+> Allah's Messenger said, "Keys of the unseen knowledge are five which nobody knows but Allah . . . nobody knows what will happen tomorrow; nobody knows what is in the womb; nobody knows what he will gain tomorrow; nobody knows at what place he will die; and nobody knows when it will rain."
 
 Yes, we can know what is in the womb, and also when it will rain.
 
 
-## Muhammad couldn't predict Covid-19 
+## Muhammad couldn't predict Covid-19 {#predict-covid}
 
 [Sahih al-Bukhari 1880](https://sunnah.com/bukhari:1880)
 
@@ -1078,9 +1078,25 @@ See also:
 
 
 
-# Muhammad and violence {#muhammad-violence}
+# Muhammad and violence {#violence}
 
-See also [Jihad](#jihad), and [Violence](#violence)
+See also [Islamic morality - Violence and Jihad](/islam/morals#violence)
+
+## Muhammad slapped a lady {#woman-abuser}
+
+[Sahih al-Bukhari 5255](https://sunnah.com/bukhari:5255)
+
+> We went out with the Prophet to a garden called Ash-Shaut till we reached two walls between which we sat down. The Prophet said, "Sit here," and went in (the garden). The Jauniyya (a lady from Bani Jaun) had been brought and lodged in a house in a date-palm garden in the home of Umaima bint An- Numan bin Sharahil, and her wet nurse was with her. When the Prophet entered upon her, he said to her, "Give me yourself (in marriage) as a gift." She said, "Can a princess give herself in marriage to an ordinary man?" The Prophet **raised his hand to pat her so that she might become tranquil**. She said, "I seek refuge with Allah from you." He said, "You have sought refuge with One Who gives refuge. Then the Prophet came out to us and said, "O Abu Usaid! Give her two white linen dresses to wear and let her go back to her family."
+
+
+So Muhammad goes to propose marriage to a lady, and she rejects him, saying he is not worthy. Sunnah.com says that he then "raised his hand to pat her so that she might become tranquil", which is a lie.
+
+The Arabic says "يَضَعُ يَدَهُ عَلَيْهَا" which means "he laid hands upon her". The meaning is not entirely clear, but to "lay hands on someone" usually indicates striking them or grasping them roughly.
+
+Since her immediate reaction to his action was to appeal to Allah for protection, "*I seek refuge with Allah from you*", we can surmise that he wasn't exactly "petting" her like a kitten to make her "tranquil". That is a deception by the translators at sunnah.com.
+
+Given what we know about Muhammad, what most likely happened is that the proud piss ant got so offended that he couldn't score another trophy wife that he immediately resorted to violence and slapped her in the face. 
+
 
 
 ## Muhammad physically abused Aisha {#abusing-aisha}

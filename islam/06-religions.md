@@ -4,6 +4,7 @@ permalink: /islam/religions
 search: true
 menu: true
 toc: true
+nav_order: 6
 ---
 
 # Islam

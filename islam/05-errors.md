@@ -5,6 +5,7 @@ search: true
 toc: true
 menu: true
 image: https://i.ibb.co/mrZr9FVR/errors-and-contradictions.png
+nav_order: 5
 ---
 
 

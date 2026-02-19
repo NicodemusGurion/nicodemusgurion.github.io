@@ -4,6 +4,7 @@ permalink: /islam/science
 search: true
 toc: true
 menu: true
+nav_order: 8
 ---
 
 # Cosmology

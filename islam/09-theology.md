@@ -4,6 +4,7 @@ permalink: /islam/theology
 search: true
 menu: true
 toc: true
+nav_order: 9
 ---
 
 # Adam
@@ -62,6 +63,7 @@ See also:
 - [Sunan Ibn Majah 3650](https://sunnah.com/ibnmajah:3650)
 
 [Everyday life as a Muslim - Kill all dogs](https://thyreon.com/islam/life#kill-all-dogs)
+
 
 
 # Death

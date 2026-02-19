@@ -4,10 +4,15 @@ permalink: /islam/women
 search: true
 toc: true
 menu: true
+nav_order: 11
 ---
 
 
 # Violence against women {#violence}
+
+## Muhammad abused women {#muhammad-abused-women}
+
+See: [Muhammad slapped a lady](/islam/muhammad#woman-abuser)
 
 ## Wife beating is allowed in Islam {#domestic-abuse}
 

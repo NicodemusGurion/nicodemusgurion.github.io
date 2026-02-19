@@ -4,6 +4,7 @@ permalink: /islam/life
 search: true
 toc: true
 menu: true
+nav_order: 12
 ---
 
 
@@ -15,7 +16,7 @@ menu: true
 
 > "Whoever keeps a (pet) dog which is neither a watch dog nor a hunting dog, will get a daily deduction of two Qirat from his good deeds."
 
-## Kill all dogs 
+## Kill all dogs {#kill-dogs}
 
 [Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
 
@@ -27,6 +28,13 @@ See also:
 - [Sunan an-Nasa'i 337](https://sunnah.com/nasai:337)
 
 A possible explanation is that [angels are afraid of dogs.](/islam/theology#angels-dogs)
+
+## Kill puppies too {#puppy-killers}
+
+[Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
+
+> the Messenger of Allah commanded that all dogs be killed, even small dogs.
+
 
 ## Kill all lizards
 

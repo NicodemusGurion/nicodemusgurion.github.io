@@ -4,6 +4,7 @@ permalink: /islam/holy-books
 search: true
 menu: true
 toc: true
+nav_order: 7
 ---
 
 # The Bible 

@@ -4,6 +4,7 @@ permalink: /islam/morals
 search: true
 toc: true
 menu: true
+nav_order: 10
 ---
 
 
@@ -452,10 +453,12 @@ So plundering only makes a Muslim a nonbeliever under the condition that they do
 
 
 
-# Violence and Jihad 
+# Violence and Jihad {#violence}
 
 
-See also [Muhammad and violence](/islam/muhammad/#muhammad-violence).
+See also:
+- [Muhammad and violence](/islam/muhammad#muhammad-violence).
+- [Muhammad condoned murder](/islam/muhammad#murder)
 
 ## Standing orders to fight the world
 

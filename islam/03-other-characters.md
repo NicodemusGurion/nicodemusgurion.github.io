@@ -4,6 +4,7 @@ permalink: /islam/vip
 search: true
 toc: true
 menu: true
+nav_order: 3
 ---
 
 # Jesus

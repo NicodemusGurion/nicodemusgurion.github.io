@@ -4,6 +4,7 @@ permalink: /islam/weird
 search: true
 menu: true
 toc: true
+nav_order: 13
 ---
 
 # "The eyes are the leather strap of the anus"

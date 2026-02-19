@@ -13,6 +13,7 @@ Display table of contents for the current page
   {% endif %}
 {% endfor %}
 {% if current_page and current_page.headers.size > 0 %}
+<p>
 <nav class="page-toc">
   <details>
     <summary>Table of contents</summary>
@@ -53,5 +54,5 @@ Display table of contents for the current page
   {% endif %}
 {% endfor %}
   </details>
-</nav>
+</nav></p>
 {% endif %}

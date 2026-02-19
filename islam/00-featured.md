@@ -4,6 +4,7 @@ permalink: /islam/featured
 search: true
 toc: true
 menu: true
+nav_order: 0
 ---
 
 
