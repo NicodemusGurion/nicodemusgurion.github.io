@@ -1,6 +1,32 @@
 {
   "pages": [
     {
+      "url": "/islam/featured",
+      "tocpath": null,
+      "title": "Featured verses",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Mohammed was a pedophile who married a 6 year old girl and \"consummated\" the marriage when she was 9 years old",
+          "anchor": "pedophile"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad was flabbergasted that other men were not pedophiles",
+          "anchor": "muhammad-was-flabbergasted-that-other-men-were-not-pedophiles"
+        },
+        {
+          "level": 1,
+          "text": "Quran and Hadith verses promoting violence",
+          "anchor": "quran-and-hadith-verses-promoting-violence"
+        }
+      ],
+      "file": "islam/00-featured.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 0
+    },
+    {
       "url": "/quran/topics",
       "tocpath": null,
       "title": "Tafsir al-Jak topics index",
@@ -20,6 +46,342 @@
 
       ],
       "file": "islam/index.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 1
+    },
+    {
+      "url": "/islam/allah",
+      "tocpath": null,
+      "title": "Allah",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Allah's personality traits",
+          "anchor": "personality"
+        },
+        {
+          "level": 2,
+          "text": "Allah is a narcissist who praises himself",
+          "anchor": "narcissist"
+        },
+        {
+          "level": 2,
+          "text": "Allah is afraid people will insult him",
+          "anchor": "insults"
+        },
+        {
+          "level": 2,
+          "text": "Allah is a liar",
+          "anchor": "liar"
+        },
+        {
+          "level": 3,
+          "text": "Allah lied to Muhammad to fool him to go to battle",
+          "anchor": "lied-to-muhammad"
+        },
+        {
+          "level": 3,
+          "text": "Allah deceived the world to think Jesus died and to start Christianity.",
+          "anchor": "lied-about-jesus"
+        },
+        {
+          "level": 2,
+          "text": "Allah leads people astray",
+          "anchor": "leads-astray"
+        },
+        {
+          "level": 2,
+          "text": "Allah blinds people to the truth",
+          "anchor": "blinds"
+        },
+        {
+          "level": 2,
+          "text": "Allah hates deaf and dumb people",
+          "anchor": "hates-deaf"
+        },
+        {
+          "level": 2,
+          "text": "Allah wants people to sin - would otherwise wipe them out",
+          "anchor": "wants-sin"
+        },
+        {
+          "level": 2,
+          "text": "Allah has predestined adultery - No free will",
+          "anchor": "predestined-adultery"
+        },
+        {
+          "level": 2,
+          "text": "Allah wants contention between people",
+          "anchor": "wants-contention"
+        },
+        {
+          "level": 2,
+          "text": "Allah tortures the dead if their relatives grieve",
+          "anchor": "tortures-dead"
+        },
+        {
+          "level": 2,
+          "text": "Allah is a fickle and arbitrary judge",
+          "anchor": "fickle"
+        },
+        {
+          "level": 2,
+          "text": "To Allah, the world is less valuable than the carcass of a defective lamb",
+          "anchor": "uncaring"
+        },
+        {
+          "level": 2,
+          "text": "Allah admits that he is Satan",
+          "anchor": "is-satan"
+        },
+        {
+          "level": 1,
+          "text": "Allah's fatherhood",
+          "anchor": "fatherhood"
+        },
+        {
+          "level": 2,
+          "text": "Jews and Christians have a familial relationship with God",
+          "anchor": "children"
+        },
+        {
+          "level": 2,
+          "text": "Allah is not a father",
+          "anchor": "not-father"
+        },
+        {
+          "level": 2,
+          "text": "The best Muslims can hope for is to be slaves",
+          "anchor": "muslims-slaves"
+        },
+        {
+          "level": 2,
+          "text": "Allah would need a wife to become a father",
+          "anchor": "needs-wife"
+        },
+        {
+          "level": 1,
+          "text": "Allah's Godship",
+          "anchor": "godship"
+        },
+        {
+          "level": 2,
+          "text": "Allah is not omnipotent",
+          "anchor": "omnipotence"
+        },
+        {
+          "level": 3,
+          "text": "Allah is dependent on human women to be a father",
+          "anchor": "dependent-on-women"
+        },
+        {
+          "level": 2,
+          "text": "Allah is not omniscient",
+          "anchor": "omniscience"
+        },
+        {
+          "level": 3,
+          "text": "Allah wonders",
+          "anchor": "wonders"
+        },
+        {
+          "level": 3,
+          "text": "Allah don't know",
+          "anchor": "ignorant"
+        },
+        {
+          "level": 2,
+          "text": "Allah is not omnipresent",
+          "anchor": "omnipresence"
+        },
+        {
+          "level": 3,
+          "text": "Allah has a location",
+          "anchor": "location"
+        },
+        {
+          "level": 2,
+          "text": "Allah is unlike anything else",
+          "anchor": "unlike-anything"
+        },
+        {
+          "level": 2,
+          "text": "Allah is not the only creator",
+          "anchor": "creator"
+        },
+        {
+          "level": 2,
+          "text": "Not everyone will bow before Allah",
+          "anchor": "not-bow"
+        },
+        {
+          "level": 2,
+          "text": "Allah is unable to receive prayers at certain times",
+          "anchor": "office-hours"
+        },
+        {
+          "level": 1,
+          "text": "Allah's religion",
+          "anchor": "religion"
+        },
+        {
+          "level": 2,
+          "text": "Allah takes the Shahada and is therefore a muslim",
+          "anchor": "shahada"
+        },
+        {
+          "level": 2,
+          "text": "Allah swears by creation, because creation is greater than Allah",
+          "anchor": "swears"
+        },
+        {
+          "level": 3,
+          "text": "Allah swears by the moon",
+          "anchor": "swears-moon"
+        },
+        {
+          "level": 3,
+          "text": "Allah swears by the fore-noon and night",
+          "anchor": "swears-night"
+        },
+        {
+          "level": 3,
+          "text": "Allah swears by the Lord of the East and West",
+          "anchor": "swears-east-west"
+        },
+        {
+          "level": 2,
+          "text": "Allah prays",
+          "anchor": "prays"
+        },
+        {
+          "level": 1,
+          "text": "Allah's mental abilities and disabilities",
+          "anchor": "mental-abilities"
+        },
+        {
+          "level": 2,
+          "text": "Allah can not count (1 + 1 = 4?)",
+          "anchor": "dyscalculia"
+        },
+        {
+          "level": 1,
+          "text": "Allah's Throne",
+          "anchor": "throne"
+        },
+        {
+          "level": 2,
+          "text": "The Throne of Allah ejaculates semen",
+          "anchor": "semen-throne"
+        },
+        {
+          "level": 2,
+          "text": "Allah's throne is upon water",
+          "anchor": "allah-water-throne"
+        },
+        {
+          "level": 2,
+          "text": "Allah's throne can be shaken by human affairs",
+          "anchor": "shaking-throne"
+        },
+        {
+          "level": 1,
+          "text": "Allah is manifested",
+          "anchor": "manifestation"
+        },
+        {
+          "level": 2,
+          "text": "Allah manifests himself to creation",
+          "anchor": "manifests"
+        },
+        {
+          "level": 2,
+          "text": "Allah comes down every night",
+          "anchor": "nightly-visits"
+        },
+        {
+          "level": 2,
+          "text": "Allah is visible",
+          "anchor": "visible"
+        },
+        {
+          "level": 1,
+          "text": "Allah has body parts",
+          "anchor": "body-parts"
+        },
+        {
+          "level": 2,
+          "text": "Allah has hands",
+          "anchor": "hands"
+        },
+        {
+          "level": 2,
+          "text": "Allah shakes hands",
+          "anchor": "shakes-hands"
+        },
+        {
+          "level": 2,
+          "text": "How many hands does Allah have?",
+          "anchor": "three-hands"
+        },
+        {
+          "level": 3,
+          "text": "Allah has a right and left hand",
+          "anchor": "left-right-hand"
+        },
+        {
+          "level": 3,
+          "text": "Allah also has two right hands",
+          "anchor": "two-right-hands"
+        },
+        {
+          "level": 2,
+          "text": "Allah has a face",
+          "anchor": "face"
+        },
+        {
+          "level": 2,
+          "text": "Allah has eyes",
+          "anchor": "eyes"
+        },
+        {
+          "level": 2,
+          "text": "Allah has a shin",
+          "anchor": "shin"
+        },
+        {
+          "level": 2,
+          "text": "Allah has a foot",
+          "anchor": "foot"
+        },
+        {
+          "level": 2,
+          "text": "Allah was grabbed by the balls",
+          "anchor": "loin"
+        },
+        {
+          "level": 1,
+          "text": "Allah's economy",
+          "anchor": "economy"
+        },
+        {
+          "level": 2,
+          "text": "Allah needs your money",
+          "anchor": "broke"
+        },
+        {
+          "level": 2,
+          "text": "Allah inherits",
+          "anchor": "inherits"
+        },
+        {
+          "level": 2,
+          "text": "Allah purchases souls from people",
+          "anchor": "buys-souls"
+        }
+      ],
+      "file": "islam/01-allah.md",
       "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 1
@@ -265,6 +627,137 @@
       "nav_order": 3
     },
     {
+      "url": "/islam/vip",
+      "tocpath": null,
+      "title": "Other important persons",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Jesus",
+          "anchor": "jesus"
+        },
+        {
+          "level": 2,
+          "text": "Jesus is free of sin",
+          "anchor": "jesus-is-free-of-sin"
+        },
+        {
+          "level": 2,
+          "text": "Jesus was not crucified",
+          "anchor": "jesus-was-not-crucified"
+        },
+        {
+          "level": 2,
+          "text": "Jesus is Lord along with Allah",
+          "anchor": "jesus-is-lord-along-with-allah"
+        },
+        {
+          "level": 2,
+          "text": "The First and the Last",
+          "anchor": "the-first-and-the-last"
+        },
+        {
+          "level": 2,
+          "text": "King of kings",
+          "anchor": "king-of-kings"
+        },
+        {
+          "level": 2,
+          "text": "King of the Kingdom of Heaven and Earth",
+          "anchor": "king-of-the-kingdom-of-heaven-and-earth"
+        },
+        {
+          "level": 2,
+          "text": "Will judge mankind",
+          "anchor": "will-judge-mankind"
+        },
+        {
+          "level": 2,
+          "text": "Is alive in heaven with Allah",
+          "anchor": "is-alive-in-heaven-with-allah"
+        },
+        {
+          "level": 2,
+          "text": "Jesus is the Word of Allah and a spirit from him",
+          "anchor": "jesus-is-the-word-of-allah-and-a-spirit-from-him"
+        },
+        {
+          "level": 2,
+          "text": "Jesus has the divine powers of Allah",
+          "anchor": "jesus-has-the-divine-powers-of-allah"
+        },
+        {
+          "level": 1,
+          "text": "Satan",
+          "anchor": "satan"
+        },
+        {
+          "level": 2,
+          "text": "Bells are Satanic",
+          "anchor": "satanic-bells"
+        },
+        {
+          "level": 2,
+          "text": "Donkeys are Satan detectors",
+          "anchor": "donkeys-detect-satan"
+        },
+        {
+          "level": 2,
+          "text": "Satan farts to not hear the call to prayer",
+          "anchor": "satan-farts"
+        },
+        {
+          "level": 2,
+          "text": "Satan sleeps in your nostrils",
+          "anchor": "satan-sleeps-in-your-nostrils"
+        },
+        {
+          "level": 2,
+          "text": "Satan pisses in your ear",
+          "anchor": "satan-pisses"
+        },
+        {
+          "level": 2,
+          "text": "Satan blows air into your butt",
+          "anchor": "satan-blows-air-into-your-butt"
+        },
+        {
+          "level": 2,
+          "text": "Satan eats poop",
+          "anchor": "satan-eats-poop"
+        },
+        {
+          "level": 2,
+          "text": "Satan eats with his left hand",
+          "anchor": "satan-eats-with-his-left-hand"
+        },
+        {
+          "level": 2,
+          "text": "Yawning is Satanic",
+          "anchor": "satanic-yawning"
+        },
+        {
+          "level": 2,
+          "text": "Night prayers ensures satanic possession",
+          "anchor": "night-prayers-ensures-satanic-possession"
+        },
+        {
+          "level": 2,
+          "text": "Satan can't open lids",
+          "anchor": "satan-cant-open-lids"
+        },
+        {
+          "level": 2,
+          "text": "Satan's throne is upon the water",
+          "anchor": "satan-water-throne"
+        }
+      ],
+      "file": "islam/03-other-characters.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 3
+    },
+    {
       "url": "/quran/3",
       "tocpath": null,
       "title": "Surah 3",
@@ -303,6 +796,92 @@
       "nav_order": 4
     },
     {
+      "url": "/islam/fraud",
+      "tocpath": null,
+      "title": "Obvious fraud",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Allah pampers Muhammad",
+          "anchor": "allah-serves-muhammad"
+        },
+        {
+          "level": 2,
+          "text": "Islam is all about loving Muhammad",
+          "anchor": "islam-is-all-about-loving-muhammad"
+        },
+        {
+          "level": 2,
+          "text": "Unlimited women for Muhammad",
+          "anchor": "unlimited-women"
+        },
+        {
+          "level": 2,
+          "text": "Free sex for Muhammad",
+          "anchor": "free-sex"
+        },
+        {
+          "level": 2,
+          "text": "Allah annulled adoption so Muhammad could marry his son's wife",
+          "anchor": "anulling-adoption"
+        },
+        {
+          "level": 1,
+          "text": "Allah follows Muhammad's will",
+          "anchor": "allah-follows-muhammads-will"
+        },
+        {
+          "level": 2,
+          "text": "Allah allows Muhammad to attack his enemies",
+          "anchor": "allah-allows-muhammad-to-attack-his-enemies"
+        },
+        {
+          "level": 2,
+          "text": "Allah changed the Qiblah for Muhammad",
+          "anchor": "allah-changed-the-qiblah-for-muhammad"
+        },
+        {
+          "level": 1,
+          "text": "Allah protects Muhammad",
+          "anchor": "allah-protects-muhammad"
+        },
+        {
+          "level": 2,
+          "text": "Allah gets Muhammads wives off his back for cheating",
+          "anchor": "allah-gets-muhammads-wives-off-his-back-for-cheating"
+        },
+        {
+          "level": 2,
+          "text": "Allah defends Muhammad against accusations of theft",
+          "anchor": "allah-defends-muhammad-against-accusations-of-theft"
+        },
+        {
+          "level": 1,
+          "text": "Allah protects Muhammad from minor nuisances",
+          "anchor": "allah-protects-muhammad-from-minor-nuisances"
+        },
+        {
+          "level": 2,
+          "text": "Dinner instructions",
+          "anchor": "dinner-instructions"
+        },
+        {
+          "level": 2,
+          "text": "Don't slap your tongue",
+          "anchor": "slap-tongue"
+        },
+        {
+          "level": 2,
+          "text": "Don't talk nonsense with Muhammad",
+          "anchor": "dont-talk-nonsense-with-muhammad"
+        }
+      ],
+      "file": "islam/04-obvious-fraud.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 4
+    },
+    {
       "url": "/quran/4",
       "tocpath": null,
       "title": "Surah 4",
@@ -313,6 +892,202 @@
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 4
+    },
+    {
+      "url": "/islam/errors",
+      "tocpath": null,
+      "title": "Errors and contradictions",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Errors",
+          "anchor": "errors"
+        },
+        {
+          "level": 2,
+          "text": "Jews think Ezra is the son of Allah",
+          "anchor": "ezra-son-of-allah"
+        },
+        {
+          "level": 2,
+          "text": "The Quran gets the trinity wrong",
+          "anchor": "trinity"
+        },
+        {
+          "level": 2,
+          "text": "The Quran confuses the Holy Spirit with the Angel Gabriel",
+          "anchor": "the-quran-confuses-the-holy-spirit-with-the-angel-gabriel"
+        },
+        {
+          "level": 2,
+          "text": "Christians worship Mary",
+          "anchor": "worshipping-mary"
+        },
+        {
+          "level": 2,
+          "text": "Mary the mother of Jesus is the brother of Aaron",
+          "anchor": "who-is-mary"
+        },
+        {
+          "level": 2,
+          "text": "Pharao ordered Haman to build the Tower of Babel",
+          "anchor": "pharao-haman-tower"
+        },
+        {
+          "level": 2,
+          "text": "Pharao threatened people with crucifixion",
+          "anchor": "egyptian-crucifixion"
+        },
+        {
+          "level": 2,
+          "text": "The Israelites were misled by a Samaritan",
+          "anchor": "misled-by-samaritan"
+        },
+        {
+          "level": 2,
+          "text": "Jesus was not crucified",
+          "anchor": "no-crucifixion"
+        },
+        {
+          "level": 2,
+          "text": "No one was named John before John the Baptist",
+          "anchor": "no-one-was-named-john-before-john-the-baptist"
+        },
+        {
+          "level": 1,
+          "text": "Contradictions",
+          "anchor": "contradictions"
+        },
+        {
+          "level": 2,
+          "text": "Contradicting the Bible",
+          "anchor": "contradicting-the-bible"
+        },
+        {
+          "level": 3,
+          "text": "Jesus was not crucified",
+          "anchor": "jesus-was-not-crucified"
+        },
+        {
+          "level": 3,
+          "text": "Who named the animals?",
+          "anchor": "who-named-the-animals"
+        },
+        {
+          "level": 3,
+          "text": "The affliction in Egypt",
+          "anchor": "the-affliction-in-egypt"
+        },
+        {
+          "level": 3,
+          "text": "Seeing God",
+          "anchor": "seeing-god"
+        },
+        {
+          "level": 3,
+          "text": "How many springs?",
+          "anchor": "how-many-springs"
+        },
+        {
+          "level": 3,
+          "text": "Breaking the sabbath",
+          "anchor": "breaking-the-sabbath"
+        },
+        {
+          "level": 3,
+          "text": "Raising dead using cow parts",
+          "anchor": "raising-dead-using-cow-parts"
+        },
+        {
+          "level": 2,
+          "text": "Contradicting the Quran",
+          "anchor": "contradicting-the-quran"
+        },
+        {
+          "level": 3,
+          "text": "The Quran is both clear and unclear",
+          "anchor": "the-quran-is-both-clear-and-unclear"
+        },
+        {
+          "level": 3,
+          "text": "Allah forgives all sins / does not forgive all sins",
+          "anchor": "allah-forgives-all-sins-does-not-forgive-all-sins"
+        },
+        {
+          "level": 3,
+          "text": "Jesus is the Word of Allah, but not Allah",
+          "anchor": "jesus-is-the-word-of-allah-but-not-allah"
+        },
+        {
+          "level": 3,
+          "text": "Did Allah create the heavens or the earth first?",
+          "anchor": "did-allah-create-the-heavens-or-the-earth-first"
+        },
+        {
+          "level": 4,
+          "text": "Allah created the heavens before the earth",
+          "anchor": "allah-created-the-heavens-before-the-earth"
+        },
+        {
+          "level": 4,
+          "text": "Allah created the earth before the heavens",
+          "anchor": "allah-created-the-earth-before-the-heavens"
+        },
+        {
+          "level": 3,
+          "text": "The word of Allah both can't and can be changed",
+          "anchor": "the-word-of-allah-both-cant-and-can-be-changed"
+        },
+        {
+          "level": 3,
+          "text": "Allah both could and could not have offspring",
+          "anchor": "allah-both-could-and-could-not-have-offspring"
+        },
+        {
+          "level": 3,
+          "text": "Who forgives sins?",
+          "anchor": "who-forgives-sins"
+        },
+        {
+          "level": 3,
+          "text": "How long did it take Allah to create the world?",
+          "anchor": "how-long-did-it-take-allah-to-create-the-world"
+        },
+        {
+          "level": 3,
+          "text": "Muhammad did and did not do miracles",
+          "anchor": "muhammad-did-and-did-not-do-miracles"
+        },
+        {
+          "level": 3,
+          "text": "Are people ransomed from hell or not.",
+          "anchor": "are-people-ransomed-from-hell-or-not"
+        },
+        {
+          "level": 3,
+          "text": "Jews are both favoured and not",
+          "anchor": "jews-are-both-favoured-and-not"
+        },
+        {
+          "level": 3,
+          "text": "Wine is from Satan but is served in paradise",
+          "anchor": "satanic-wine-in-paradise"
+        },
+        {
+          "level": 3,
+          "text": "Noah's sons all survived the flood or not",
+          "anchor": "noahs-sons-all-survived-the-flood-or-not"
+        },
+        {
+          "level": 3,
+          "text": "Jinn can not produce something like the Quran, but did produce a whole Surah of the Quran",
+          "anchor": "jinn-can-not-produce-something-like-the-quran-but-did-produce-a-whole-surah-of-the-quran"
+        }
+      ],
+      "file": "islam/05-errors.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 5
     },
     {
       "url": "/quran/",
@@ -337,6 +1112,212 @@
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 5
+    },
+    {
+      "url": "/islam/religions",
+      "tocpath": null,
+      "title": "Islam's view on religions",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Islam",
+          "anchor": "islam"
+        },
+        {
+          "level": 2,
+          "text": "Apostasy and hypocrisy",
+          "anchor": "apostasy-and-hypocrisy"
+        },
+        {
+          "level": 3,
+          "text": "Punishment for apostasy is death",
+          "anchor": "apostasy-death-sentence"
+        },
+        {
+          "level": 3,
+          "text": "Give apostates a chance to repent, and if they don't, kill them",
+          "anchor": "give-apostates-a-chance-to-repent-and-if-they-dont-kill-them"
+        },
+        {
+          "level": 2,
+          "text": "Leaving Islam",
+          "anchor": "leaving-islam"
+        },
+        {
+          "level": 3,
+          "text": "A man was beheaded for apostasy",
+          "anchor": "a-man-was-beheaded-for-apostasy"
+        },
+        {
+          "level": 3,
+          "text": "Kill hypocrites",
+          "anchor": "kill-hypocrites"
+        },
+        {
+          "level": 2,
+          "text": "Muslims may not resemble Jews or Christians",
+          "anchor": "muslims-may-not-resemble-jews-or-christians"
+        },
+        {
+          "level": 2,
+          "text": "Islamic worship",
+          "anchor": "islamic-worship"
+        },
+        {
+          "level": 3,
+          "text": "Islam means following Muhammad",
+          "anchor": "islam-means-following-muhammad"
+        },
+        {
+          "level": 3,
+          "text": "Muslims must love Muhammad more than anyone else",
+          "anchor": "muslims-must-love-muhammad-more-than-anyone-else"
+        },
+        {
+          "level": 3,
+          "text": "Don't come to mosque with garlic breath",
+          "anchor": "garlic"
+        },
+        {
+          "level": 2,
+          "text": "The future of Islam",
+          "anchor": "the-future-of-islam"
+        },
+        {
+          "level": 3,
+          "text": "The goal of Islam is world domination",
+          "anchor": "the-goal-of-islam-is-world-domination"
+        },
+        {
+          "level": 3,
+          "text": "Islam will split into 73 sects",
+          "anchor": "islam-will-split-into-73-sects"
+        },
+        {
+          "level": 2,
+          "text": "Islam is a strange serpent receding into its hole",
+          "anchor": "strange-serpent"
+        },
+        {
+          "level": 3,
+          "text": "End time fake Muslims foretold",
+          "anchor": "end-time-fake-muslims-foretold"
+        },
+        {
+          "level": 1,
+          "text": "Non-Muslims, Jews and Christians",
+          "anchor": "non-muslims"
+        },
+        {
+          "level": 2,
+          "text": "View of non-Muslims",
+          "anchor": "view-of-non-muslims"
+        },
+        {
+          "level": 2,
+          "text": "Do not befriend non-muslims",
+          "anchor": "do-not-befriend-non-muslims"
+        },
+        {
+          "level": 2,
+          "text": "Do not insult unbelievers or they will insult Allah",
+          "anchor": "do-not-insult-unbelievers-or-they-will-insult-allah"
+        },
+        {
+          "level": 2,
+          "text": "Non-Muslims are the worst of creatures",
+          "anchor": "non-muslims-are-the-worst-of-creatures"
+        },
+        {
+          "level": 2,
+          "text": "Do not greet Jews and Christians but bully them",
+          "anchor": "do-not-greet-jews-and-christians-but-bully-them"
+        },
+        {
+          "level": 2,
+          "text": "Jews and Christians to be expelled from Arabia",
+          "anchor": "jews-and-christians-to-be-expelled-from-arabia"
+        },
+        {
+          "level": 2,
+          "text": "Jews and Christians who don't accept Islam go to hell",
+          "anchor": "jews-and-christians-who-dont-accept-islam-go-to-hell"
+        },
+        {
+          "level": 2,
+          "text": "Jews and Christians are worth half as much as Muslims",
+          "anchor": "jews-and-christians-are-worth-half-as-much-as-muslims"
+        },
+        {
+          "level": 2,
+          "text": "Muslims should listen to and learn from Christians and Jews",
+          "anchor": "listen-to-christians"
+        },
+        {
+          "level": 2,
+          "text": "The Jews and Christians did have the uncorrupted scriptures in the days of Muhammad",
+          "anchor": "the-jews-and-christians-did-have-the-uncorrupted-scriptures-in-the-days-of-muhammad"
+        },
+        {
+          "level": 2,
+          "text": "Jizya",
+          "anchor": "jizya"
+        },
+        {
+          "level": 2,
+          "text": "Jews",
+          "anchor": "jews"
+        },
+        {
+          "level": 3,
+          "text": "Allah favors Jews",
+          "anchor": "allah-favors-jews"
+        },
+        {
+          "level": 3,
+          "text": "Allah ordained that Israel would live in the holy land",
+          "anchor": "allah-ordained-that-israel-would-live-in-the-holy-land"
+        },
+        {
+          "level": 3,
+          "text": "A tribe of Israelites were turned into rats",
+          "anchor": "rats"
+        },
+        {
+          "level": 3,
+          "text": "Jews are equal to asses and pigs",
+          "anchor": "jews-are-equal-to-asses-and-pigs"
+        },
+        {
+          "level": 3,
+          "text": "The verse Muslims use to lie that Islam is peaceful",
+          "anchor": "peaceful"
+        },
+        {
+          "level": 3,
+          "text": "Islam's Final Solution to the Jewish Question",
+          "anchor": "final-solution"
+        },
+        {
+          "level": 2,
+          "text": "Christians",
+          "anchor": "christians"
+        },
+        {
+          "level": 3,
+          "text": "Christians must judge by the Gospel",
+          "anchor": "christians-must-judge-by-the-gospel"
+        },
+        {
+          "level": 3,
+          "text": "Allah promised that Christians will be superior until judgment day",
+          "anchor": "allah-promised-that-christians-will-be-superior-until-judgment-day"
+        }
+      ],
+      "file": "islam/06-religions.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 6
     },
     {
       "url": "/qright",
@@ -418,6 +1399,172 @@
       "nav_order": 7
     },
     {
+      "url": "/islam/holy-books",
+      "tocpath": null,
+      "title": "Holy books",
+      "headers": [
+        {
+          "level": 1,
+          "text": "The Bible",
+          "anchor": "the-bible"
+        },
+        {
+          "level": 2,
+          "text": "The Quran confirms the Bible",
+          "anchor": "bible-confirmed"
+        },
+        {
+          "level": 2,
+          "text": "The Torah is the word of Allah",
+          "anchor": "the-torah-is-the-word-of-allah"
+        },
+        {
+          "level": 2,
+          "text": "The Quran says the Gospel confirms the Torah",
+          "anchor": "the-quran-says-the-gospel-confirms-the-torah"
+        },
+        {
+          "level": 2,
+          "text": "The Quran confirms the Bible",
+          "anchor": "confirms-bible"
+        },
+        {
+          "level": 2,
+          "text": "Christians and Jews must observe the Bible",
+          "anchor": "christians-and-jews-must-observe-the-bible"
+        },
+        {
+          "level": 2,
+          "text": "Christians must judge by the gospel",
+          "anchor": "christians-must-judge-by-the-gospel"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad is ordered to consult the Jews and Christians if he is in doubt",
+          "anchor": "muhammad-is-ordered-to-consult-the-jews-and-christians-if-he-is-in-doubt"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad says the Jews and Christians do have the Torah and Gospel",
+          "anchor": "muhammad-says-the-jews-and-christians-do-have-the-torah-and-gospel"
+        },
+        {
+          "level": 1,
+          "text": "The Quran",
+          "anchor": "quran"
+        },
+        {
+          "level": 2,
+          "text": "Clear and unclear",
+          "anchor": "clear-and-unclear"
+        },
+        {
+          "level": 2,
+          "text": "The Quran is only meant for the Arabs",
+          "anchor": "the-quran-is-only-meant-for-the-arabs"
+        },
+        {
+          "level": 2,
+          "text": "Non-arabs predicted to not believe",
+          "anchor": "non-arabs-predicted-to-not-believe"
+        },
+        {
+          "level": 2,
+          "text": "The original Quranic manuscripts were burned",
+          "anchor": "the-original-quranic-manuscripts-were-burned"
+        },
+        {
+          "level": 2,
+          "text": "The Quran was foretold in the Bible",
+          "anchor": "the-quran-was-foretold-in-the-bible"
+        },
+        {
+          "level": 2,
+          "text": "Proof of inspiration",
+          "anchor": "proof-of-inspiration"
+        },
+        {
+          "level": 2,
+          "text": "No one can change the word of Allah",
+          "anchor": "unchanging-word"
+        },
+        {
+          "level": 2,
+          "text": "The word of Allah CAN be changed",
+          "anchor": "the-word-of-allah-can-be-changed"
+        },
+        {
+          "level": 2,
+          "text": "The Quran is not perfectly preserved",
+          "anchor": "not-preserved"
+        },
+        {
+          "level": 3,
+          "text": "Allah foretold that the Quran wouldn’t be perfectly preserved",
+          "anchor": "no-preservation"
+        },
+        {
+          "level": 3,
+          "text": "The Quran was corrupted even during Muhammad's lifetime",
+          "anchor": "early-corruption"
+        },
+        {
+          "level": 3,
+          "text": "Two chapters of the Quran were forgotten",
+          "anchor": "surahs-forgotten"
+        },
+        {
+          "level": 3,
+          "text": "Even Muhammad forgot what the Quran said",
+          "anchor": "even-muhammad-forgot-what-the-quran-said"
+        },
+        {
+          "level": 3,
+          "text": "Verses of the Quran were eaten by a sheep",
+          "anchor": "sheep-ate-verses"
+        },
+        {
+          "level": 2,
+          "text": "Chapters of the Quran could be ordered on demand",
+          "anchor": "surah-on-demand"
+        },
+        {
+          "level": 2,
+          "text": "Denying a Quran verse makes you a kafir",
+          "anchor": "denying-quran"
+        },
+        {
+          "level": 2,
+          "text": "Denying a Quran verse is a capital offense",
+          "anchor": "execute-kafir"
+        },
+        {
+          "level": 2,
+          "text": "Muslims shouldn't bring the Quran to enemy lands",
+          "anchor": "muslims-shouldnt-bring-the-quran-to-enemy-lands"
+        },
+        {
+          "level": 2,
+          "text": "A Christian wrote the Quran",
+          "anchor": "a-christian-wrote-the-quran"
+        },
+        {
+          "level": 2,
+          "text": "The Quran is alive and will intercede on judgment day",
+          "anchor": "quran-intercession"
+        },
+        {
+          "level": 1,
+          "text": "Verses where the Quran affirms the Bible",
+          "anchor": "verses-where-the-quran-affirms-the-bible"
+        }
+      ],
+      "file": "islam/07-holy-books.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 7
+    },
+    {
       "url": "/quran/7",
       "tocpath": null,
       "title": "Surah 7",
@@ -428,6 +1575,187 @@
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 7
+    },
+    {
+      "url": "/islam/science",
+      "tocpath": null,
+      "title": "Islam and Science",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Cosmology",
+          "anchor": "cosmology"
+        },
+        {
+          "level": 2,
+          "text": "The earth existed before space",
+          "anchor": "earth-before-space"
+        },
+        {
+          "level": 2,
+          "text": "The earth is flat",
+          "anchor": "flat-earth"
+        },
+        {
+          "level": 2,
+          "text": "The sky can fall down",
+          "anchor": "the-sky-can-fall-down"
+        },
+        {
+          "level": 2,
+          "text": "The Whale Nun",
+          "anchor": "nun"
+        },
+        {
+          "level": 2,
+          "text": "There are 7 heavens and 7 earths",
+          "anchor": "there-are-7-heavens-and-7-earths"
+        },
+        {
+          "level": 2,
+          "text": "Earth is flat",
+          "anchor": "earth-is-flat"
+        },
+        {
+          "level": 2,
+          "text": "The sun sets in a muddy spring",
+          "anchor": "sun-sets-in-mud"
+        },
+        {
+          "level": 2,
+          "text": "The sun might rise from the west",
+          "anchor": "the-sun-might-rise-from-the-west"
+        },
+        {
+          "level": 1,
+          "text": "Embryology",
+          "anchor": "embryology"
+        },
+        {
+          "level": 2,
+          "text": "Sperm comes from between the backbone and the ribs",
+          "anchor": "backbone-sperm"
+        },
+        {
+          "level": 2,
+          "text": "Semen remains in the womb 40 days",
+          "anchor": "semen-remains-in-the-womb-40-days"
+        },
+        {
+          "level": 2,
+          "text": "What determines the sex of a child?",
+          "anchor": "what-determines-the-sex-of-a-child"
+        },
+        {
+          "level": 2,
+          "text": "What determines if a child looks like its mother or father?",
+          "anchor": "whom-children-resemble"
+        },
+        {
+          "level": 1,
+          "text": "Hygiene, health and food",
+          "anchor": "hygiene-health-and-food"
+        },
+        {
+          "level": 2,
+          "text": "Muslims should dip flies in their drinks",
+          "anchor": "dip-flies"
+        },
+        {
+          "level": 2,
+          "text": "Eat food from the ground and lick your fingers",
+          "anchor": "eat-food-from-the-ground-and-lick-your-fingers"
+        },
+        {
+          "level": 2,
+          "text": "Muslims aren’t allowed to urinate standing",
+          "anchor": "no-urinating-standing"
+        },
+        {
+          "level": 2,
+          "text": "Muslims aren’t allowed to urinate in water",
+          "anchor": "no-urinating-in-water"
+        },
+        {
+          "level": 2,
+          "text": "Muslims aren’t allowed to urinate  in holes",
+          "anchor": "urinating-in-holes"
+        },
+        {
+          "level": 2,
+          "text": "Muslims aren’t allowed to urinate towards the qibla",
+          "anchor": "urinating-toward-qibla"
+        },
+        {
+          "level": 2,
+          "text": "Dogs would urinate in the mosque and no one would clean it up",
+          "anchor": "dogs-pissing-in-mosque"
+        },
+        {
+          "level": 2,
+          "text": "People used to urinate in the mosque",
+          "anchor": "people-used-to-urinate-in-the-mosque"
+        },
+        {
+          "level": 2,
+          "text": "Don't sleep on your stomach",
+          "anchor": "dont-sleep-on-your-stomach"
+        },
+        {
+          "level": 2,
+          "text": "Wigs are forbidden",
+          "anchor": "no-wigs"
+        },
+        {
+          "level": 2,
+          "text": "Fevers cleanses sins",
+          "anchor": "fevers-cleanses-sins"
+        },
+        {
+          "level": 2,
+          "text": "The coccyx does not decay",
+          "anchor": "coccyx"
+        },
+        {
+          "level": 2,
+          "text": "The urine of boys and girls are different",
+          "anchor": "different-urine"
+        },
+        {
+          "level": 2,
+          "text": "Non-Muslims eats in seven intestines, Muslims in one",
+          "anchor": "seven-intestines"
+        },
+        {
+          "level": 2,
+          "text": "Gestation",
+          "anchor": "gestation"
+        },
+        {
+          "level": 2,
+          "text": "Mosquito wings carry both diseases and cures",
+          "anchor": "mosquito-wings-carry-both-diseases-and-cures"
+        },
+        {
+          "level": 2,
+          "text": "The cure for sciatica is sheep's fat",
+          "anchor": "the-cure-for-sciatica-is-sheeps-fat"
+        },
+        {
+          "level": 2,
+          "text": "Repeating an incantation 7 times can cure anything except death",
+          "anchor": "repeating-an-incantation-7-times-can-cure-anything-except-death"
+        },
+        {
+          "level": 2,
+          "text": "7 dates protects against poison",
+          "anchor": "7-dates-protects-against-poison"
+        }
+      ],
+      "file": "islam/08-science.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 8
     },
     {
       "url": "/jw",
@@ -452,6 +1780,362 @@
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 8
+    },
+    {
+      "url": "/islam/theology",
+      "tocpath": null,
+      "title": "General Islamic Theology",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Adam",
+          "anchor": "adam"
+        },
+        {
+          "level": 2,
+          "text": "Adam was 60 cubits tall",
+          "anchor": "adam-was-60-cubits-tall"
+        },
+        {
+          "level": 2,
+          "text": "Adam was created in Allahs image",
+          "anchor": "adam-was-created-in-allahs-image"
+        },
+        {
+          "level": 1,
+          "text": "Angels",
+          "anchor": "angels"
+        },
+        {
+          "level": 2,
+          "text": "Angels are afraid of dogs, pictures, and bells",
+          "anchor": "angels-dogs"
+        },
+        {
+          "level": 1,
+          "text": "Death",
+          "anchor": "death"
+        },
+        {
+          "level": 2,
+          "text": "Grieving tortures the deceased",
+          "anchor": "grieving-tortures-the-deceased"
+        },
+        {
+          "level": 1,
+          "text": "Free will",
+          "anchor": "free-will"
+        },
+        {
+          "level": 2,
+          "text": "Belief is predetermined",
+          "anchor": "belief-is-predetermined"
+        },
+        {
+          "level": 2,
+          "text": "Adultery is predetermined",
+          "anchor": "adultery-is-predetermined"
+        },
+        {
+          "level": 1,
+          "text": "Hell",
+          "anchor": "hell"
+        },
+        {
+          "level": 2,
+          "text": "Murder victims go to hell",
+          "anchor": "murder-victims-go-to-hell"
+        },
+        {
+          "level": 2,
+          "text": "All people go to hell",
+          "anchor": "all-people-go-to-hell"
+        },
+        {
+          "level": 2,
+          "text": "Hell can think and speak",
+          "anchor": "hell-can-think-and-speak"
+        },
+        {
+          "level": 1,
+          "text": "Jinn",
+          "anchor": "jinn"
+        },
+        {
+          "level": 2,
+          "text": "Jinn can be Muslims",
+          "anchor": "jinn-can-be-muslims"
+        },
+        {
+          "level": 1,
+          "text": "The Kaaba and Qiblah",
+          "anchor": "kaaba"
+        },
+        {
+          "level": 2,
+          "text": "The Muslims used to pray toward Jerusalem",
+          "anchor": "jerusalem-qiblah"
+        },
+        {
+          "level": 2,
+          "text": "Peeing towards the Qiblah",
+          "anchor": "peeing-towards-the-qiblah"
+        },
+        {
+          "level": 2,
+          "text": "Pooping toward the Qiblah",
+          "anchor": "pooping-toward-the-qiblah"
+        },
+        {
+          "level": 1,
+          "text": "The Black stone",
+          "anchor": "black-stone"
+        },
+        {
+          "level": 2,
+          "text": "The black stone absorbs sins",
+          "anchor": "the-black-stone-absorbs-sins"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad touched the black stone",
+          "anchor": "muhammad-touched-the-black-stone"
+        },
+        {
+          "level": 2,
+          "text": "Kissing the stone is idolatry",
+          "anchor": "kissing-the-stone-is-idolatry"
+        },
+        {
+          "level": 1,
+          "text": "Paradise",
+          "anchor": "paradise"
+        },
+        {
+          "level": 2,
+          "text": "Paradise is a brothel",
+          "anchor": "paradise-is-a-brothel"
+        },
+        {
+          "level": 3,
+          "text": "Muslim men are rewarded with Houris",
+          "anchor": "houris"
+        },
+        {
+          "level": 3,
+          "text": "Houris have large, round, firm, swelling breasts",
+          "anchor": "breasts"
+        },
+        {
+          "level": 2,
+          "text": "Houris have big eyes",
+          "anchor": "houris-have-big-eyes"
+        },
+        {
+          "level": 3,
+          "text": "Houris are hairless",
+          "anchor": "houris-are-hairless"
+        },
+        {
+          "level": 3,
+          "text": "Houris don’t need to poop, pee, or sweat, they exist for one purpose: eternal male pleasure.",
+          "anchor": "houris-dont-need-to-poop-pee-or-sweat-they-exist-for-one-purpose-eternal-male-pleasure"
+        },
+        {
+          "level": 3,
+          "text": "Endless sex",
+          "anchor": "endless-sex"
+        },
+        {
+          "level": 3,
+          "text": "72 virgins",
+          "anchor": "72-virgins"
+        },
+        {
+          "level": 2,
+          "text": "All fruit looks the same in paradise",
+          "anchor": "boring-fruit"
+        },
+        {
+          "level": 2,
+          "text": "Paradise dwellers don't poop but belch and sweat musk",
+          "anchor": "belching-musk"
+        },
+        {
+          "level": 2,
+          "text": "Paradise dwellers will be about 30 years old",
+          "anchor": "paradise-dwellers-will-be-about-30-years-old"
+        },
+        {
+          "level": 2,
+          "text": "Paradise dwellers will be 38 meters tall",
+          "anchor": "tall-people"
+        },
+        {
+          "level": 2,
+          "text": "Huge tree",
+          "anchor": "huge-tree"
+        },
+        {
+          "level": 2,
+          "text": "There are 7 heavens",
+          "anchor": "seven-heavens"
+        },
+        {
+          "level": 2,
+          "text": "Paradise can think and speak",
+          "anchor": "paradise-can-think-and-speak"
+        },
+        {
+          "level": 2,
+          "text": "Paradise for women",
+          "anchor": "paradise-for-women"
+        },
+        {
+          "level": 1,
+          "text": "Prayer",
+          "anchor": "prayer"
+        },
+        {
+          "level": 2,
+          "text": "Looking up while praying makes you go blind",
+          "anchor": "praying-blind"
+        },
+        {
+          "level": 2,
+          "text": "Raising your head before the Imam while praying turns it into a donkey head",
+          "anchor": "donkey-head"
+        },
+        {
+          "level": 2,
+          "text": "Prayer is nullified by donkeys, black dogs and women",
+          "anchor": "nullified-prayer"
+        },
+        {
+          "level": 2,
+          "text": "Muslims pray to Muhammad",
+          "anchor": "muslims-pray-to-muhammad"
+        },
+        {
+          "level": 1,
+          "text": "Resurrection",
+          "anchor": "resurrection"
+        },
+        {
+          "level": 2,
+          "text": "The hour of resurrection",
+          "anchor": "the-hour-of-resurrection"
+        },
+        {
+          "level": 1,
+          "text": "Salvation",
+          "anchor": "salvation"
+        },
+        {
+          "level": 2,
+          "text": "Muslims are saved by works",
+          "anchor": "muslims-are-saved-by-works"
+        },
+        {
+          "level": 2,
+          "text": "Jews and Christians are also saved",
+          "anchor": "jews-and-christians-are-also-saved"
+        },
+        {
+          "level": 2,
+          "text": "No ransom will be accepted for another person",
+          "anchor": "no-ransom"
+        },
+        {
+          "level": 2,
+          "text": "Ransomed from hell by Jews and Christians",
+          "anchor": "ransomed-from-hell"
+        },
+        {
+          "level": 2,
+          "text": "The Quran will come and intercede",
+          "anchor": "the-quran-will-come-and-intercede"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad can save",
+          "anchor": "muhammad-saves"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad can NOT save",
+          "anchor": "muhammad-saves-not"
+        },
+        {
+          "level": 2,
+          "text": "The black stone will intercede",
+          "anchor": "the-black-stone-will-intercede"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad will intercede for those dying in Medina",
+          "anchor": "muhammad-will-intercede-for-those-dying-in-medina"
+        },
+        {
+          "level": 2,
+          "text": "Invading India or being Christian ensures salvation",
+          "anchor": "invading-india-or-being-christian-ensures-salvation"
+        },
+        {
+          "level": 2,
+          "text": "Memorising the 99 names of Allah ensures salvation",
+          "anchor": "memorising-the-99-names-of-allah-ensures-salvation"
+        },
+        {
+          "level": 2,
+          "text": "Being sick or injured cleanses from sins",
+          "anchor": "being-sick-or-injured-cleanses-from-sins"
+        },
+        {
+          "level": 2,
+          "text": "Having three dead children saves",
+          "anchor": "having-three-dead-children-saves"
+        },
+        {
+          "level": 2,
+          "text": "Paradise and hell can intercede",
+          "anchor": "paradise-and-hell-can-intercede"
+        },
+        {
+          "level": 1,
+          "text": "Sin",
+          "anchor": "sin"
+        },
+        {
+          "level": 2,
+          "text": "Confessing sins is bad",
+          "anchor": "confessing-sins-is-bad"
+        },
+        {
+          "level": 2,
+          "text": "Allah predetermines adultery",
+          "anchor": "allah-predetermines-adultery"
+        },
+        {
+          "level": 2,
+          "text": "Who forgives sins?",
+          "anchor": "who-forgives-sins"
+        },
+        {
+          "level": 3,
+          "text": "Only Allah forgives sins",
+          "anchor": "only-allah-forgives-sins"
+        },
+        {
+          "level": 3,
+          "text": "But Muhammad also forgives sins",
+          "anchor": "but-muhammad-also-forgives-sins"
+        }
+      ],
+      "file": "islam/09-theology.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 9
     },
     {
       "url": "/quran/9",
@@ -497,6 +2181,357 @@
       "nav_order": 9
     },
     {
+      "url": "/islam/morals",
+      "tocpath": null,
+      "title": "Islam's morality",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Divorce",
+          "anchor": "divorce"
+        },
+        {
+          "level": 1,
+          "text": "Intoxicants",
+          "anchor": "intoxicants"
+        },
+        {
+          "level": 2,
+          "text": "Intoxicants (wine) is one of the blessings of Allah",
+          "anchor": "intoxicants-wine-is-one-of-the-blessings-of-allah"
+        },
+        {
+          "level": 2,
+          "text": "Wine is from Satan",
+          "anchor": "wine-is-from-satan"
+        },
+        {
+          "level": 2,
+          "text": "Allah serves wine in Paradise",
+          "anchor": "allah-serves-wine-in-paradise"
+        },
+        {
+          "level": 2,
+          "text": "If someone drinks wine they should be flogged to death",
+          "anchor": "if-someone-drinks-wine-they-should-be-flogged-to-death"
+        },
+        {
+          "level": 1,
+          "text": "Lying",
+          "anchor": "lying"
+        },
+        {
+          "level": 2,
+          "text": "Three situations in which you can lie",
+          "anchor": "three-situations-in-which-you-can-lie"
+        },
+        {
+          "level": 2,
+          "text": "You can break an oath if you have a better alternative",
+          "anchor": "you-can-break-an-oath-if-you-have-a-better-alternative"
+        },
+        {
+          "level": 2,
+          "text": "Allah has ordained for the breaking of oaths",
+          "anchor": "allah-has-ordained-for-the-breaking-of-oaths"
+        },
+        {
+          "level": 2,
+          "text": "Breaking an oath comes with ridiculously trivial consequences",
+          "anchor": "breaking-an-oath-comes-with-ridiculously-trivial-consequences"
+        },
+        {
+          "level": 1,
+          "text": "Art and entertainment",
+          "anchor": "art-and-entertainment"
+        },
+        {
+          "level": 2,
+          "text": "Music and singing is a sin",
+          "anchor": "music-and-singing-is-a-sin"
+        },
+        {
+          "level": 3,
+          "text": "Poetry is a sin",
+          "anchor": "poetry"
+        },
+        {
+          "level": 2,
+          "text": "Backgammon is forbidden",
+          "anchor": "backgammon-is-forbidden"
+        },
+        {
+          "level": 1,
+          "text": "Racism",
+          "anchor": "racism"
+        },
+        {
+          "level": 2,
+          "text": "Blacks are worth half as much",
+          "anchor": "blacks-are-worth-half-as-much"
+        },
+        {
+          "level": 2,
+          "text": "Black people were created for hell",
+          "anchor": "blacks-made-for-hell"
+        },
+        {
+          "level": 2,
+          "text": "Those condemned by Allah turns black",
+          "anchor": "blackface-hell"
+        },
+        {
+          "level": 2,
+          "text": "Black people symbolize disease",
+          "anchor": "black-disease"
+        },
+        {
+          "level": 2,
+          "text": "Turks look like their faces were hit with a hammer",
+          "anchor": "turks"
+        },
+        {
+          "level": 2,
+          "text": "Ethiopians have heads like raisins",
+          "anchor": "raisin-heads"
+        },
+        {
+          "level": 2,
+          "text": "Use of racist slurs",
+          "anchor": "nword"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad didn't like black dogs",
+          "anchor": "black-dogs"
+        },
+        {
+          "level": 2,
+          "text": "Black dogs are satanic",
+          "anchor": "black-dogs-are-satanic"
+        },
+        {
+          "level": 1,
+          "text": "Sexuality",
+          "anchor": "sexuality"
+        },
+        {
+          "level": 2,
+          "text": "Islam promotes pedophilia",
+          "anchor": "pedophilia"
+        },
+        {
+          "level": 3,
+          "text": "The Quran promotes child marriage",
+          "anchor": "child-marriage"
+        },
+        {
+          "level": 3,
+          "text": "Mohammed raped Aisha, a nine year old girl",
+          "anchor": "aisha"
+        },
+        {
+          "level": 3,
+          "text": "Muhammad was flabbergasted that other men were not pedophiles",
+          "anchor": "muhammad-was-flabbergasted-that-other-men-were-not-pedophiles"
+        },
+        {
+          "level": 3,
+          "text": "Muhammad tongue-kissed a little boy",
+          "anchor": "tongue-kiss"
+        },
+        {
+          "level": 1,
+          "text": "Adult Muslim men should suckle the breasts if adult Muslim women",
+          "anchor": "adult-suckling"
+        },
+        {
+          "level": 2,
+          "text": "Rape",
+          "anchor": "rape"
+        },
+        {
+          "level": 3,
+          "text": "Captured women may be freely raped",
+          "anchor": "raping-captives"
+        },
+        {
+          "level": 3,
+          "text": "Impregnating rape victims is of no concern",
+          "anchor": "impregnating-rape-victims-is-of-no-concern"
+        },
+        {
+          "level": 2,
+          "text": "Muslims men can have sex slaves",
+          "anchor": "muslims-men-can-have-sex-slaves"
+        },
+        {
+          "level": 1,
+          "text": "Slavery",
+          "anchor": "slavery"
+        },
+        {
+          "level": 2,
+          "text": "Runaway slaves lack protection",
+          "anchor": "runaway-slaves-lack-protection"
+        },
+        {
+          "level": 2,
+          "text": "Gifting slaves is better than freeing them",
+          "anchor": "gifting-slaves-is-better-than-freeing-them"
+        },
+        {
+          "level": 2,
+          "text": "Value of slaves",
+          "anchor": "value-of-slaves"
+        },
+        {
+          "level": 2,
+          "text": "Black slaves are worth half of Arab slaves",
+          "anchor": "black-slaves-worth-less"
+        },
+        {
+          "level": 2,
+          "text": "You may flog your slaves (and your wife)",
+          "anchor": "flog-slaves"
+        },
+        {
+          "level": 2,
+          "text": "Slaves should be flogged for sins",
+          "anchor": "slaves-should-be-flogged-for-sins"
+        },
+        {
+          "level": 1,
+          "text": "Theft",
+          "anchor": "theft"
+        },
+        {
+          "level": 2,
+          "text": "Plundering is ok if no one is watching",
+          "anchor": "plundering-is-ok-if-no-one-is-watching"
+        },
+        {
+          "level": 1,
+          "text": "Violence and Jihad",
+          "anchor": "violence"
+        },
+        {
+          "level": 2,
+          "text": "Standing orders to fight the world",
+          "anchor": "standing-orders-to-fight-the-world"
+        },
+        {
+          "level": 3,
+          "text": "What triggered Jihad",
+          "anchor": "allah-allows-jihad"
+        },
+        {
+          "level": 3,
+          "text": "Fight the unbelievers until they convert",
+          "anchor": "fight-the-unbelievers-until-they-convert"
+        },
+        {
+          "level": 3,
+          "text": "\"Kill unbelievers wherever you find them\"",
+          "anchor": "kill-unbelievers-wherever-you-find-them"
+        },
+        {
+          "level": 3,
+          "text": "Behead enemies",
+          "anchor": "behead-enemies"
+        },
+        {
+          "level": 3,
+          "text": "Behead unbelievers",
+          "anchor": "behead-unbelievers"
+        },
+        {
+          "level": 3,
+          "text": "Terrorizing and killing unbelievers",
+          "anchor": "terrorizing-and-killing-unbelievers"
+        },
+        {
+          "level": 2,
+          "text": "View on violence and terrorism",
+          "anchor": "view-on-violence-and-terrorism"
+        },
+        {
+          "level": 3,
+          "text": "Fighting is the second best deed in Islam",
+          "anchor": "fighting-is-the-second-best-deed-in-islam"
+        },
+        {
+          "level": 3,
+          "text": "Jihadis are rewarded with booty and paradise",
+          "anchor": "jihadis-are-rewarded-with-booty-and-paradise"
+        },
+        {
+          "level": 3,
+          "text": "Those who die for Allah are the best of people",
+          "anchor": "those-who-die-for-allah-are-the-best-of-people"
+        },
+        {
+          "level": 3,
+          "text": "The best jihad is where blood is shed",
+          "anchor": "the-best-jihad-is-where-blood-is-shed"
+        },
+        {
+          "level": 3,
+          "text": "Allah likes terrorists more than peaceful Muslims",
+          "anchor": "allah-likes-terrorists-more-than-peaceful-muslims"
+        },
+        {
+          "level": 3,
+          "text": "Fighting is obligatory for Muslims",
+          "anchor": "fighting-is-obligatory-for-muslims"
+        },
+        {
+          "level": 3,
+          "text": "Muslims \"kill and are killed\" for Allah",
+          "anchor": "muslims-kill-and-are-killed-for-allah"
+        },
+        {
+          "level": 3,
+          "text": "Muslims not fighting are hypocrites",
+          "anchor": "muslims-not-fighting-are-hypocrites"
+        },
+        {
+          "level": 3,
+          "text": "Muslims not fighting for Islam are punished with hell",
+          "anchor": "muslims-not-fighting-for-islam-are-punished-with-hell"
+        },
+        {
+          "level": 3,
+          "text": "Killing disbelievers guarantees immunity from hell",
+          "anchor": "killing-disbelievers-guarantees-immunity-from-hell"
+        },
+        {
+          "level": 2,
+          "text": "View on those who resist Islamic violence",
+          "anchor": "view-on-those-who-resist-islamic-violence"
+        },
+        {
+          "level": 3,
+          "text": "Resisting Islam is severely punished",
+          "anchor": "resisting-islam-is-severely-punished"
+        },
+        {
+          "level": 3,
+          "text": "Even stones will help jihadists to kill Jews",
+          "anchor": "even-stones-will-help-jihadists-to-kill-jews"
+        },
+        {
+          "level": 2,
+          "text": "Muslims can indiscriminately kill innocent civilians",
+          "anchor": "muslims-can-indiscriminately-kill-innocent-civilians"
+        }
+      ],
+      "file": "islam/10-morality.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 10
+    },
+    {
       "url": "/library",
       "tocpath": null,
       "title": "Library",
@@ -540,6 +2575,182 @@
       "nav_order": 10
     },
     {
+      "url": "/islam/women",
+      "tocpath": null,
+      "title": "Islam's view of women",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Violence against women",
+          "anchor": "violence"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad abused women",
+          "anchor": "muhammad-abused-women"
+        },
+        {
+          "level": 2,
+          "text": "Wife beating is allowed in Islam",
+          "anchor": "domestic-abuse"
+        },
+        {
+          "level": 2,
+          "text": "Never ask why a man beats his wife",
+          "anchor": "dont-question-wife-beater"
+        },
+        {
+          "level": 2,
+          "text": "Flogging your wife is ok as long as you don't have sex with her afterwards",
+          "anchor": "flogging-your-wife-is-ok-as-long-as-you-dont-have-sex-with-her-afterwards"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad insults victims of domestic abuse",
+          "anchor": "muhammad-insults-victims-of-domestic-abuse"
+        },
+        {
+          "level": 2,
+          "text": "Abu Bakr hit Aisha",
+          "anchor": "abu-bakr-hit-aisha"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad hit Aisha",
+          "anchor": "muhammad-hit-aisha"
+        },
+        {
+          "level": 2,
+          "text": "No women has it worse than Muslim women",
+          "anchor": "muslimas-treated-worst"
+        },
+        {
+          "level": 1,
+          "text": "Sexual abuse",
+          "anchor": "sexual-abuse"
+        },
+        {
+          "level": 2,
+          "text": "Women should be circumcised",
+          "anchor": "women-should-be-circumcised"
+        },
+        {
+          "level": 2,
+          "text": "Women are to be plowed like a field",
+          "anchor": "plowing-women"
+        },
+        {
+          "level": 2,
+          "text": "Wives must always be ready to please their husbands",
+          "anchor": "wives-must-always-be-ready-to-please-their-husbands"
+        },
+        {
+          "level": 2,
+          "text": "Allah curses women who don't sleep with their husbands",
+          "anchor": "allah-curses-women-who-dont-sleep-with-their-husbands"
+        },
+        {
+          "level": 2,
+          "text": "Islam allows child marriage",
+          "anchor": "pedophilia-ok"
+        },
+        {
+          "level": 2,
+          "text": "Temporary marriages allowed",
+          "anchor": "muta"
+        },
+        {
+          "level": 2,
+          "text": "Captured women's marriage annulled",
+          "anchor": "captured-womens-marriage-annulled"
+        },
+        {
+          "level": 1,
+          "text": "Opresive rules",
+          "anchor": "opresive-rules"
+        },
+        {
+          "level": 2,
+          "text": "Women wearing perfume are adulteresses",
+          "anchor": "women-wearing-perfume-are-adulteresses"
+        },
+        {
+          "level": 2,
+          "text": "Women are cursed for plucking their eyebrows, getting tattoos, or orthodontics",
+          "anchor": "women-are-cursed-for-plucking-their-eyebrows-getting-tattoos-or-orthodontics"
+        },
+        {
+          "level": 1,
+          "text": "Wigs are forbidden",
+          "anchor": "no-wigs"
+        },
+        {
+          "level": 1,
+          "text": "General view on women",
+          "anchor": "general-view-on-women"
+        },
+        {
+          "level": 2,
+          "text": "Most people in hell are women",
+          "anchor": "most-in-hell-women"
+        },
+        {
+          "level": 2,
+          "text": "Women in hell for dressing wrong",
+          "anchor": "women-in-hell-for-dressing-wrong"
+        },
+        {
+          "level": 2,
+          "text": "Women are \"deficient in intelligence\"",
+          "anchor": "women-are-deficient-in-intelligence"
+        },
+        {
+          "level": 2,
+          "text": "The testimony of a woman is worth half that of a man",
+          "anchor": "the-testimony-of-a-woman-is-worth-half-that-of-a-man"
+        },
+        {
+          "level": 2,
+          "text": "Women are \"deficient in religion\"",
+          "anchor": "women-are-deficient-in-religion"
+        },
+        {
+          "level": 2,
+          "text": "Women are equal to donkeys, dogs and pigs",
+          "anchor": "women-are-equal-to-donkeys-dogs-and-pigs"
+        },
+        {
+          "level": 2,
+          "text": "Women are a source of trouble",
+          "anchor": "women-are-a-source-of-trouble"
+        },
+        {
+          "level": 2,
+          "text": "Women are devils",
+          "anchor": "women-are-devils"
+        },
+        {
+          "level": 2,
+          "text": "Men are not allowed to wash themselves with the same water a woman has used",
+          "anchor": "men-are-not-allowed-to-wash-themselves-with-the-same-water-a-woman-has-used"
+        },
+        {
+          "level": 2,
+          "text": "Women must cover everything but their faces and hands",
+          "anchor": "women-must-cover-everything-but-their-faces-and-hands"
+        },
+        {
+          "level": 2,
+          "text": "In paradise, women will be prostitutes",
+          "anchor": "in-paradise-women-will-be-prostitutes"
+        }
+      ],
+      "file": "islam/11-women.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 11
+    },
+    {
       "url": "/quran/11",
       "tocpath": null,
       "title": "Surah 11",
@@ -552,6 +2763,97 @@
       "nav_order": 11
     },
     {
+      "url": "/islam/life",
+      "tocpath": null,
+      "title": "Everyday life as a muslim",
+      "headers": [
+        {
+          "level": 1,
+          "text": "How to treat animals",
+          "anchor": "animals"
+        },
+        {
+          "level": 2,
+          "text": "Owning a dog gives you minus points",
+          "anchor": "owning-a-dog"
+        },
+        {
+          "level": 2,
+          "text": "Kill all dogs",
+          "anchor": "kill-dogs"
+        },
+        {
+          "level": 2,
+          "text": "Kill puppies too",
+          "anchor": "puppy-killers"
+        },
+        {
+          "level": 2,
+          "text": "Kill all lizards",
+          "anchor": "kill-all-lizards"
+        },
+        {
+          "level": 1,
+          "text": "Minutiae",
+          "anchor": "minutiae"
+        },
+        {
+          "level": 2,
+          "text": "How to breathe while drinking",
+          "anchor": "how-to-breathe-while-drinking"
+        },
+        {
+          "level": 2,
+          "text": "Don't hold your penis with the right hand",
+          "anchor": "dont-hold-your-penis-with-the-right-hand"
+        },
+        {
+          "level": 2,
+          "text": "Don't wear only one shoe",
+          "anchor": "dont-wear-only-one-shoe"
+        },
+        {
+          "level": 2,
+          "text": "Don't tie your shoe while standing",
+          "anchor": "dont-tie-your-shoe-while-standing"
+        },
+        {
+          "level": 2,
+          "text": "Don't make pictures",
+          "anchor": "dont-make-pictures"
+        },
+        {
+          "level": 2,
+          "text": "Don't throw pebbles",
+          "anchor": "dont-throw-pebbles"
+        },
+        {
+          "level": 2,
+          "text": "How to do your toilet",
+          "anchor": "how-to-do-your-toilet"
+        },
+        {
+          "level": 2,
+          "text": "Muslims must dye their hair",
+          "anchor": "muslims-must-dye-their-hair"
+        },
+        {
+          "level": 2,
+          "text": "Don't drink or eat while standing, or you have to vomit",
+          "anchor": "dont-drink-or-eat-while-standing-or-you-have-to-vomit"
+        },
+        {
+          "level": 2,
+          "text": "Don't eat with your left hand",
+          "anchor": "dont-eat-with-your-left-hand"
+        }
+      ],
+      "file": "islam/12-everyday-life.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 12
+    },
+    {
       "url": "/quran/12",
       "tocpath": null,
       "title": "Surah 12",
@@ -562,6 +2864,72 @@
       "include_in_menu": false,
       "exclude_children": false,
       "nav_order": 12
+    },
+    {
+      "url": "/islam/weird",
+      "tocpath": null,
+      "title": "Weird stuff",
+      "headers": [
+        {
+          "level": 1,
+          "text": "\"The eyes are the leather strap of the anus\"",
+          "anchor": "the-eyes-are-the-leather-strap-of-the-anus"
+        },
+        {
+          "level": 1,
+          "text": "Muhammad comforted a crying date palm",
+          "anchor": "muhammad-comforted-a-crying-date-palm"
+        },
+        {
+          "level": 1,
+          "text": "Moses had his clothes stolen by a stone",
+          "anchor": "moses-had-his-clothes-stolen-by-a-stone"
+        },
+        {
+          "level": 1,
+          "text": "Unbelievers visiting a mosque will go to hell",
+          "anchor": "unbelievers-visiting-a-mosque-will-go-to-hell"
+        },
+        {
+          "level": 1,
+          "text": "Muslims living abroad goes to hell",
+          "anchor": "muslims-living-abroad-goes-to-hell"
+        },
+        {
+          "level": 1,
+          "text": "Snakes in houses may be demons who converted to islam",
+          "anchor": "snake-jinn"
+        },
+        {
+          "level": 1,
+          "text": "A deathbed convert couldn't be buried",
+          "anchor": "a-deathbed-convert-couldnt-be-buried"
+        },
+        {
+          "level": 1,
+          "text": "Don't sit between the sun and shade",
+          "anchor": "dont-sit-between-the-sun-and-shade"
+        },
+        {
+          "level": 1,
+          "text": "Relieve sexual awkwardness by suckling breasts",
+          "anchor": "adult-suckling"
+        },
+        {
+          "level": 1,
+          "text": "Muhammad's donkey stinks",
+          "anchor": "muhammads-donkey-stinks"
+        },
+        {
+          "level": 1,
+          "text": "Stoning is monkey business",
+          "anchor": "stoning-is-monkey-business"
+        }
+      ],
+      "file": "islam/13-weird.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 13
     },
     {
       "url": "/quran/13",
@@ -1679,1243 +4047,6 @@
       "nav_order": 999999
     },
     {
-      "url": "/islam/allah",
-      "tocpath": null,
-      "title": "Allah",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Allah's personality traits",
-          "anchor": "allahs-personality-traits"
-        },
-        {
-          "level": 2,
-          "text": "Allah is a narcissist who praises himself",
-          "anchor": "narcissist"
-        },
-        {
-          "level": 2,
-          "text": "Allah is afraid people will insult him",
-          "anchor": "insults"
-        },
-        {
-          "level": 2,
-          "text": "Allah is a liar",
-          "anchor": "allah-is-a-liar"
-        },
-        {
-          "level": 3,
-          "text": "Allah lied to Muhammad to fool him to go to battle",
-          "anchor": "allah-lied-to-muhammad-to-fool-him-to-go-to-battle"
-        },
-        {
-          "level": 3,
-          "text": "Allah deceived the world to think Jesus died and to start Christianity.",
-          "anchor": "allah-deceived-the-world-to-think-jesus-died-and-to-start-christianity"
-        },
-        {
-          "level": 2,
-          "text": "Allah leads people astray",
-          "anchor": "allah-leads-people-astray"
-        },
-        {
-          "level": 2,
-          "text": "Allah blinds people to the truth",
-          "anchor": "allah-blinds-people-to-the-truth"
-        },
-        {
-          "level": 2,
-          "text": "Allah hates deaf and dumb people",
-          "anchor": "allah-hates-deaf-and-dumb-people"
-        },
-        {
-          "level": 2,
-          "text": "Allah wants people to sin - would otherwise wipe them out",
-          "anchor": "allah-wants-people-to-sin---would-otherwise-wipe-them-out"
-        },
-        {
-          "level": 2,
-          "text": "Allah has predestined adultery - No free will",
-          "anchor": "allah-has-predestined-adultery---no-free-will"
-        },
-        {
-          "level": 2,
-          "text": "Allah wants contention between people",
-          "anchor": "allah-wants-contention-between-people"
-        },
-        {
-          "level": 2,
-          "text": "Allah tortures the dead if their relatives grieve",
-          "anchor": "allah-tortures-the-dead-if-their-relatives-grieve"
-        },
-        {
-          "level": 2,
-          "text": "Allah is a fickle and arbitrary judge",
-          "anchor": "allah-is-a-fickle-and-arbitrary-judge"
-        },
-        {
-          "level": 2,
-          "text": "To Allah, the world is less valuable than the carcass of a defective lamb",
-          "anchor": "to-allah-the-world-is-less-valuable-than-the-carcass-of-a-defective-lamb"
-        },
-        {
-          "level": 2,
-          "text": "Allah admits that he is Satan",
-          "anchor": "allah-admits-that-he-is-satan"
-        },
-        {
-          "level": 1,
-          "text": "Allah's fatherhood",
-          "anchor": "allahs-fatherhood"
-        },
-        {
-          "level": 2,
-          "text": "Jews and Christians have a familial relationship with God",
-          "anchor": "jews-and-christians-have-a-familial-relationship-with-god"
-        },
-        {
-          "level": 2,
-          "text": "Allah is not a father",
-          "anchor": "allah-is-not-a-father"
-        },
-        {
-          "level": 2,
-          "text": "The best Muslims can hope for is to be slaves",
-          "anchor": "the-best-muslims-can-hope-for-is-to-be-slaves"
-        },
-        {
-          "level": 2,
-          "text": "Allah would need a wife to become a father",
-          "anchor": "allah-would-need-a-wife-to-become-a-father"
-        },
-        {
-          "level": 1,
-          "text": "Allah's Godship",
-          "anchor": "allahs-godship"
-        },
-        {
-          "level": 2,
-          "text": "Allah is not omnipotent",
-          "anchor": "omnipotence"
-        },
-        {
-          "level": 3,
-          "text": "Allah is dependent on human women to be a father",
-          "anchor": "allah-is-dependent-on-human-women-to-be-a-father"
-        },
-        {
-          "level": 2,
-          "text": "Allah is unlike anything else",
-          "anchor": "allah-is-unlike-anything-else"
-        },
-        {
-          "level": 2,
-          "text": "Allah is not the only creator",
-          "anchor": "creator"
-        },
-        {
-          "level": 2,
-          "text": "Not everyone will bow before Allah",
-          "anchor": "not-everyone-will-bow-before-allah"
-        },
-        {
-          "level": 2,
-          "text": "Allah is unable to receive prayers at certain times",
-          "anchor": "allah-is-unable-to-receive-prayers-at-certain-times"
-        },
-        {
-          "level": 1,
-          "text": "Allah's religion",
-          "anchor": "religion"
-        },
-        {
-          "level": 2,
-          "text": "Allah takes the Shahada and is therefore a muslim",
-          "anchor": "allah-takes-the-shahada-and-is-therefore-a-muslim"
-        },
-        {
-          "level": 2,
-          "text": "Allah swears by creation, because creation is greater than Allah",
-          "anchor": "allah-swears-by-creation-because-creation-is-greater-than-allah"
-        },
-        {
-          "level": 3,
-          "text": "Allah swears by the moon",
-          "anchor": "allah-swears-by-the-moon"
-        },
-        {
-          "level": 3,
-          "text": "Allah swears by the fore-noon and night",
-          "anchor": "allah-swears-by-the-fore-noon-and-night"
-        },
-        {
-          "level": 3,
-          "text": "Allah swears by the Lord of the East and West",
-          "anchor": "allah-swears-by-the-lord-of-the-east-and-west"
-        },
-        {
-          "level": 2,
-          "text": "Allah prays",
-          "anchor": "allah-prays"
-        },
-        {
-          "level": 1,
-          "text": "Allah's mental abilities and disabilities",
-          "anchor": "allahs-mental-abilities-and-disabilities"
-        },
-        {
-          "level": 2,
-          "text": "Allah wonders over things - not omniscient",
-          "anchor": "allah-wonders-over-things---not-omniscient"
-        },
-        {
-          "level": 2,
-          "text": "Allah can not count (1 + 1 = 4?)",
-          "anchor": "allah-can-not-count-1-1-4"
-        },
-        {
-          "level": 2,
-          "text": "Allah is ignorant - doesn't know who believes",
-          "anchor": "ignorant"
-        },
-        {
-          "level": 1,
-          "text": "Allah's Throne",
-          "anchor": "allahs-throne"
-        },
-        {
-          "level": 2,
-          "text": "The Throne of Allah ejaculates semen",
-          "anchor": "the-throne-of-allah-ejaculates-semen"
-        },
-        {
-          "level": 2,
-          "text": "Allah is limited to one location",
-          "anchor": "not-omnipresent"
-        },
-        {
-          "level": 2,
-          "text": "Allah's throne is upon water",
-          "anchor": "allah-water-throne"
-        },
-        {
-          "level": 2,
-          "text": "Allah's throne can be shaken by human affairs",
-          "anchor": "shaking-throne"
-        },
-        {
-          "level": 1,
-          "text": "Allah is manifested",
-          "anchor": "allah-is-manifested"
-        },
-        {
-          "level": 2,
-          "text": "Allah manifests himself to creation",
-          "anchor": "allah-manifests-himself-to-creation"
-        },
-        {
-          "level": 2,
-          "text": "Allah comes down every night",
-          "anchor": "nightly-visits"
-        },
-        {
-          "level": 2,
-          "text": "Allah is visible",
-          "anchor": "allah-is-visible"
-        },
-        {
-          "level": 1,
-          "text": "Allah has body parts",
-          "anchor": "allah-has-body-parts"
-        },
-        {
-          "level": 2,
-          "text": "Allah has hands",
-          "anchor": "allah-has-hands"
-        },
-        {
-          "level": 2,
-          "text": "Allah shakes hands",
-          "anchor": "allah-shakes-hands"
-        },
-        {
-          "level": 2,
-          "text": "How many hands does Allah have?",
-          "anchor": "how-many-hands-does-allah-have"
-        },
-        {
-          "level": 3,
-          "text": "Allah has a right and left hand",
-          "anchor": "allah-has-a-right-and-left-hand"
-        },
-        {
-          "level": 3,
-          "text": "Allah also has two right hands",
-          "anchor": "allah-also-has-two-right-hands"
-        },
-        {
-          "level": 2,
-          "text": "Allah has a face",
-          "anchor": "allah-has-a-face"
-        },
-        {
-          "level": 2,
-          "text": "Allah has eyes",
-          "anchor": "allah-has-eyes"
-        },
-        {
-          "level": 2,
-          "text": "Allah has a shin",
-          "anchor": "allah-has-a-shin"
-        },
-        {
-          "level": 2,
-          "text": "Allah has a foot",
-          "anchor": "allah-has-a-foot"
-        },
-        {
-          "level": 2,
-          "text": "Allah was grabbed by the balls",
-          "anchor": "allah-was-grabbed-by-the-balls"
-        },
-        {
-          "level": 1,
-          "text": "Allah's economy",
-          "anchor": "allahs-economy"
-        },
-        {
-          "level": 2,
-          "text": "Allah needs your money",
-          "anchor": "allah-needs-your-money"
-        },
-        {
-          "level": 2,
-          "text": "Allah inherits",
-          "anchor": "allah-inherits"
-        },
-        {
-          "level": 2,
-          "text": "Allah purchases souls from people",
-          "anchor": "allah-purchases-souls-from-people"
-        }
-      ],
-      "file": "islam/01-allah.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/errors",
-      "tocpath": null,
-      "title": "Errors and contradictions",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Errors",
-          "anchor": "errors"
-        },
-        {
-          "level": 2,
-          "text": "Jews think Ezra is the son of Allah",
-          "anchor": "ezra-son-of-allah"
-        },
-        {
-          "level": 2,
-          "text": "The Quran gets the trinity wrong",
-          "anchor": "trinity"
-        },
-        {
-          "level": 2,
-          "text": "The Quran confuses the Holy Spirit with the Angel Gabriel",
-          "anchor": "the-quran-confuses-the-holy-spirit-with-the-angel-gabriel"
-        },
-        {
-          "level": 2,
-          "text": "Christians worship Mary",
-          "anchor": "worshipping-mary"
-        },
-        {
-          "level": 2,
-          "text": "Mary the mother of Jesus is the brother of Aaron",
-          "anchor": "who-is-mary"
-        },
-        {
-          "level": 2,
-          "text": "Pharao ordered Haman to build the Tower of Babel",
-          "anchor": "pharao-haman-tower"
-        },
-        {
-          "level": 2,
-          "text": "Pharao threatened people with crucifixion",
-          "anchor": "egyptian-crucifixion"
-        },
-        {
-          "level": 2,
-          "text": "The Israelites were misled by a Samaritan",
-          "anchor": "misled-by-samaritan"
-        },
-        {
-          "level": 2,
-          "text": "Jesus was not crucified",
-          "anchor": "no-crucifixion"
-        },
-        {
-          "level": 2,
-          "text": "No one was named John before John the Baptist",
-          "anchor": "no-one-was-named-john-before-john-the-baptist"
-        },
-        {
-          "level": 1,
-          "text": "Contradictions",
-          "anchor": "contradictions"
-        },
-        {
-          "level": 2,
-          "text": "Contradicting the Bible",
-          "anchor": "contradicting-the-bible"
-        },
-        {
-          "level": 3,
-          "text": "Jesus was not crucified",
-          "anchor": "jesus-was-not-crucified"
-        },
-        {
-          "level": 3,
-          "text": "Who named the animals?",
-          "anchor": "who-named-the-animals"
-        },
-        {
-          "level": 3,
-          "text": "The affliction in Egypt",
-          "anchor": "the-affliction-in-egypt"
-        },
-        {
-          "level": 3,
-          "text": "Seeing God",
-          "anchor": "seeing-god"
-        },
-        {
-          "level": 3,
-          "text": "How many springs?",
-          "anchor": "how-many-springs"
-        },
-        {
-          "level": 3,
-          "text": "Breaking the sabbath",
-          "anchor": "breaking-the-sabbath"
-        },
-        {
-          "level": 3,
-          "text": "Raising dead using cow parts",
-          "anchor": "raising-dead-using-cow-parts"
-        },
-        {
-          "level": 2,
-          "text": "Contradicting the Quran",
-          "anchor": "contradicting-the-quran"
-        },
-        {
-          "level": 3,
-          "text": "The Quran is both clear and unclear",
-          "anchor": "the-quran-is-both-clear-and-unclear"
-        },
-        {
-          "level": 3,
-          "text": "Allah forgives all sins / does not forgive all sins",
-          "anchor": "allah-forgives-all-sins-does-not-forgive-all-sins"
-        },
-        {
-          "level": 3,
-          "text": "Jesus is the Word of Allah, but not Allah",
-          "anchor": "jesus-is-the-word-of-allah-but-not-allah"
-        },
-        {
-          "level": 3,
-          "text": "Did Allah create the heavens or the earth first?",
-          "anchor": "did-allah-create-the-heavens-or-the-earth-first"
-        },
-        {
-          "level": 4,
-          "text": "Allah created the heavens before the earth",
-          "anchor": "allah-created-the-heavens-before-the-earth"
-        },
-        {
-          "level": 4,
-          "text": "Allah created the earth before the heavens",
-          "anchor": "allah-created-the-earth-before-the-heavens"
-        },
-        {
-          "level": 3,
-          "text": "The word of Allah both can't and can be changed",
-          "anchor": "the-word-of-allah-both-cant-and-can-be-changed"
-        },
-        {
-          "level": 3,
-          "text": "Allah both could and could not have offspring",
-          "anchor": "allah-both-could-and-could-not-have-offspring"
-        },
-        {
-          "level": 3,
-          "text": "Who forgives sins?",
-          "anchor": "who-forgives-sins"
-        },
-        {
-          "level": 3,
-          "text": "How long did it take Allah to create the world?",
-          "anchor": "how-long-did-it-take-allah-to-create-the-world"
-        },
-        {
-          "level": 3,
-          "text": "Muhammad did and did not do miracles",
-          "anchor": "muhammad-did-and-did-not-do-miracles"
-        },
-        {
-          "level": 3,
-          "text": "Are people ransomed from hell or not.",
-          "anchor": "are-people-ransomed-from-hell-or-not"
-        },
-        {
-          "level": 3,
-          "text": "Jews are both favoured and not",
-          "anchor": "jews-are-both-favoured-and-not"
-        },
-        {
-          "level": 3,
-          "text": "Wine is from Satan but is served in paradise",
-          "anchor": "satanic-wine-in-paradise"
-        },
-        {
-          "level": 3,
-          "text": "Noah's sons all survived the flood or not",
-          "anchor": "noahs-sons-all-survived-the-flood-or-not"
-        },
-        {
-          "level": 3,
-          "text": "Jinn can not produce something like the Quran, but did produce a whole Surah of the Quran",
-          "anchor": "jinn-can-not-produce-something-like-the-quran-but-did-produce-a-whole-surah-of-the-quran"
-        }
-      ],
-      "file": "islam/05-errors.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/featured",
-      "tocpath": null,
-      "title": "Featured verses",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Mohammed was a pedophile who married a 6 year old girl and \"consummated\" the marriage when she was 9 years old",
-          "anchor": "pedophile"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad was flabbergasted that other men were not pedophiles",
-          "anchor": "muhammad-was-flabbergasted-that-other-men-were-not-pedophiles"
-        },
-        {
-          "level": 1,
-          "text": "Quran and Hadith verses promoting violence",
-          "anchor": "quran-and-hadith-verses-promoting-violence"
-        }
-      ],
-      "file": "islam/00-featured.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/fraud",
-      "tocpath": null,
-      "title": "Obvious fraud",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Allah pampers Muhammad",
-          "anchor": "allah-serves-muhammad"
-        },
-        {
-          "level": 2,
-          "text": "Islam is all about loving Muhammad",
-          "anchor": "islam-is-all-about-loving-muhammad"
-        },
-        {
-          "level": 2,
-          "text": "Unlimited women for Muhammad",
-          "anchor": "unlimited-women"
-        },
-        {
-          "level": 2,
-          "text": "Free sex for Muhammad",
-          "anchor": "free-sex"
-        },
-        {
-          "level": 2,
-          "text": "Allah annulled adoption so Muhammad could marry his son's wife",
-          "anchor": "anulling-adoption"
-        },
-        {
-          "level": 1,
-          "text": "Allah follows Muhammad's will",
-          "anchor": "allah-follows-muhammads-will"
-        },
-        {
-          "level": 2,
-          "text": "Allah allows Muhammad to attack his enemies",
-          "anchor": "allah-allows-muhammad-to-attack-his-enemies"
-        },
-        {
-          "level": 2,
-          "text": "Allah changed the Qiblah for Muhammad",
-          "anchor": "allah-changed-the-qiblah-for-muhammad"
-        },
-        {
-          "level": 1,
-          "text": "Allah protects Muhammad",
-          "anchor": "allah-protects-muhammad"
-        },
-        {
-          "level": 2,
-          "text": "Allah gets Muhammads wives off his back for cheating",
-          "anchor": "allah-gets-muhammads-wives-off-his-back-for-cheating"
-        },
-        {
-          "level": 2,
-          "text": "Allah defends Muhammad against accusations of theft",
-          "anchor": "allah-defends-muhammad-against-accusations-of-theft"
-        },
-        {
-          "level": 1,
-          "text": "Allah protects Muhammad from minor nuisances",
-          "anchor": "allah-protects-muhammad-from-minor-nuisances"
-        },
-        {
-          "level": 2,
-          "text": "Dinner instructions",
-          "anchor": "dinner-instructions"
-        },
-        {
-          "level": 2,
-          "text": "Don't slap your tongue",
-          "anchor": "slap-tongue"
-        },
-        {
-          "level": 2,
-          "text": "Don't talk nonsense with Muhammad",
-          "anchor": "dont-talk-nonsense-with-muhammad"
-        }
-      ],
-      "file": "islam/04-obvious-fraud.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/holy-books",
-      "tocpath": null,
-      "title": "Holy books",
-      "headers": [
-        {
-          "level": 1,
-          "text": "The Bible",
-          "anchor": "the-bible"
-        },
-        {
-          "level": 2,
-          "text": "The Quran confirms the Bible",
-          "anchor": "bible-confirmed"
-        },
-        {
-          "level": 2,
-          "text": "The Torah is the word of Allah",
-          "anchor": "the-torah-is-the-word-of-allah"
-        },
-        {
-          "level": 2,
-          "text": "The Quran says the Gospel confirms the Torah",
-          "anchor": "the-quran-says-the-gospel-confirms-the-torah"
-        },
-        {
-          "level": 2,
-          "text": "The Quran confirms the Bible",
-          "anchor": "confirms-bible"
-        },
-        {
-          "level": 2,
-          "text": "Christians and Jews must observe the Bible",
-          "anchor": "christians-and-jews-must-observe-the-bible"
-        },
-        {
-          "level": 2,
-          "text": "Christians must judge by the gospel",
-          "anchor": "christians-must-judge-by-the-gospel"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad is ordered to consult the Jews and Christians if he is in doubt",
-          "anchor": "muhammad-is-ordered-to-consult-the-jews-and-christians-if-he-is-in-doubt"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad says the Jews and Christians do have the Torah and Gospel",
-          "anchor": "muhammad-says-the-jews-and-christians-do-have-the-torah-and-gospel"
-        },
-        {
-          "level": 1,
-          "text": "The Quran",
-          "anchor": "quran"
-        },
-        {
-          "level": 2,
-          "text": "Clear and unclear",
-          "anchor": "clear-and-unclear"
-        },
-        {
-          "level": 2,
-          "text": "The Quran is only meant for the Arabs",
-          "anchor": "the-quran-is-only-meant-for-the-arabs"
-        },
-        {
-          "level": 2,
-          "text": "Non-arabs predicted to not believe",
-          "anchor": "non-arabs-predicted-to-not-believe"
-        },
-        {
-          "level": 2,
-          "text": "The original Quranic manuscripts were burned",
-          "anchor": "the-original-quranic-manuscripts-were-burned"
-        },
-        {
-          "level": 2,
-          "text": "The Quran was foretold in the Bible",
-          "anchor": "the-quran-was-foretold-in-the-bible"
-        },
-        {
-          "level": 2,
-          "text": "Proof of inspiration",
-          "anchor": "proof-of-inspiration"
-        },
-        {
-          "level": 2,
-          "text": "No one can change the word of Allah",
-          "anchor": "unchanging-word"
-        },
-        {
-          "level": 2,
-          "text": "The word of Allah CAN be changed",
-          "anchor": "the-word-of-allah-can-be-changed"
-        },
-        {
-          "level": 2,
-          "text": "The Quran is not perfectly preserved",
-          "anchor": "not-preserved"
-        },
-        {
-          "level": 3,
-          "text": "Allah foretold that the Quran wouldn’t be perfectly preserved",
-          "anchor": "no-preservation"
-        },
-        {
-          "level": 3,
-          "text": "The Quran was corrupted even during Muhammad's lifetime",
-          "anchor": "early-corruption"
-        },
-        {
-          "level": 3,
-          "text": "Two chapters of the Quran were forgotten",
-          "anchor": "surahs-forgotten"
-        },
-        {
-          "level": 3,
-          "text": "Even Muhammad forgot what the Quran said",
-          "anchor": "even-muhammad-forgot-what-the-quran-said"
-        },
-        {
-          "level": 3,
-          "text": "Verses of the Quran were eaten by a sheep",
-          "anchor": "sheep-ate-verses"
-        },
-        {
-          "level": 2,
-          "text": "Chapters of the Quran could be ordered on demand",
-          "anchor": "surah-on-demand"
-        },
-        {
-          "level": 2,
-          "text": "Denying a Quran verse makes you a kafir",
-          "anchor": "denying-quran"
-        },
-        {
-          "level": 2,
-          "text": "Denying a Quran verse is a capital offense",
-          "anchor": "execute-kafir"
-        },
-        {
-          "level": 2,
-          "text": "Muslims shouldn't bring the Quran to enemy lands",
-          "anchor": "muslims-shouldnt-bring-the-quran-to-enemy-lands"
-        },
-        {
-          "level": 2,
-          "text": "A Christian wrote the Quran",
-          "anchor": "a-christian-wrote-the-quran"
-        },
-        {
-          "level": 2,
-          "text": "The Quran is alive and will intercede on judgment day",
-          "anchor": "quran-intercession"
-        },
-        {
-          "level": 1,
-          "text": "Verses where the Quran affirms the Bible",
-          "anchor": "verses-where-the-quran-affirms-the-bible"
-        }
-      ],
-      "file": "islam/07-holy-books.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/life",
-      "tocpath": null,
-      "title": "Everyday life as a muslim",
-      "headers": [
-        {
-          "level": 1,
-          "text": "How to treat animals",
-          "anchor": "animals"
-        },
-        {
-          "level": 2,
-          "text": "Owning a dog gives you minus points",
-          "anchor": "owning-a-dog"
-        },
-        {
-          "level": 2,
-          "text": "Kill all dogs",
-          "anchor": "kill-all-dogs"
-        },
-        {
-          "level": 2,
-          "text": "Kill all lizards",
-          "anchor": "kill-all-lizards"
-        },
-        {
-          "level": 1,
-          "text": "Minutiae",
-          "anchor": "minutiae"
-        },
-        {
-          "level": 2,
-          "text": "How to breathe while drinking",
-          "anchor": "how-to-breathe-while-drinking"
-        },
-        {
-          "level": 2,
-          "text": "Don't hold your penis with the right hand",
-          "anchor": "dont-hold-your-penis-with-the-right-hand"
-        },
-        {
-          "level": 2,
-          "text": "Don't wear only one shoe",
-          "anchor": "dont-wear-only-one-shoe"
-        },
-        {
-          "level": 2,
-          "text": "Don't tie your shoe while standing",
-          "anchor": "dont-tie-your-shoe-while-standing"
-        },
-        {
-          "level": 2,
-          "text": "Don't make pictures",
-          "anchor": "dont-make-pictures"
-        },
-        {
-          "level": 2,
-          "text": "Don't throw pebbles",
-          "anchor": "dont-throw-pebbles"
-        },
-        {
-          "level": 2,
-          "text": "How to do your toilet",
-          "anchor": "how-to-do-your-toilet"
-        },
-        {
-          "level": 2,
-          "text": "Muslims must dye their hair",
-          "anchor": "muslims-must-dye-their-hair"
-        },
-        {
-          "level": 2,
-          "text": "Don't drink or eat while standing, or you have to vomit",
-          "anchor": "dont-drink-or-eat-while-standing-or-you-have-to-vomit"
-        },
-        {
-          "level": 2,
-          "text": "Don't eat with your left hand",
-          "anchor": "dont-eat-with-your-left-hand"
-        }
-      ],
-      "file": "islam/12-everyday-life.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/morals",
-      "tocpath": null,
-      "title": "Islam's morality",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Divorce",
-          "anchor": "divorce"
-        },
-        {
-          "level": 1,
-          "text": "Intoxicants",
-          "anchor": "intoxicants"
-        },
-        {
-          "level": 2,
-          "text": "Intoxicants (wine) is one of the blessings of Allah",
-          "anchor": "intoxicants-wine-is-one-of-the-blessings-of-allah"
-        },
-        {
-          "level": 2,
-          "text": "Wine is from Satan",
-          "anchor": "wine-is-from-satan"
-        },
-        {
-          "level": 2,
-          "text": "Allah serves wine in Paradise",
-          "anchor": "allah-serves-wine-in-paradise"
-        },
-        {
-          "level": 2,
-          "text": "If someone drinks wine they should be flogged to death",
-          "anchor": "if-someone-drinks-wine-they-should-be-flogged-to-death"
-        },
-        {
-          "level": 1,
-          "text": "Lying",
-          "anchor": "lying"
-        },
-        {
-          "level": 2,
-          "text": "Three situations in which you can lie",
-          "anchor": "three-situations-in-which-you-can-lie"
-        },
-        {
-          "level": 2,
-          "text": "You can break an oath if you have a better alternative",
-          "anchor": "you-can-break-an-oath-if-you-have-a-better-alternative"
-        },
-        {
-          "level": 2,
-          "text": "Allah has ordained for the breaking of oaths",
-          "anchor": "allah-has-ordained-for-the-breaking-of-oaths"
-        },
-        {
-          "level": 2,
-          "text": "Breaking an oath comes with ridiculously trivial consequences",
-          "anchor": "breaking-an-oath-comes-with-ridiculously-trivial-consequences"
-        },
-        {
-          "level": 1,
-          "text": "Art and entertainment",
-          "anchor": "art-and-entertainment"
-        },
-        {
-          "level": 2,
-          "text": "Music and singing is a sin",
-          "anchor": "music-and-singing-is-a-sin"
-        },
-        {
-          "level": 3,
-          "text": "Poetry is a sin",
-          "anchor": "poetry"
-        },
-        {
-          "level": 2,
-          "text": "Backgammon is forbidden",
-          "anchor": "backgammon-is-forbidden"
-        },
-        {
-          "level": 1,
-          "text": "Racism",
-          "anchor": "racism"
-        },
-        {
-          "level": 2,
-          "text": "Blacks are worth half as much",
-          "anchor": "blacks-are-worth-half-as-much"
-        },
-        {
-          "level": 2,
-          "text": "Black people were created for hell",
-          "anchor": "blacks-made-for-hell"
-        },
-        {
-          "level": 2,
-          "text": "Those condemned by Allah turns black",
-          "anchor": "blackface-hell"
-        },
-        {
-          "level": 2,
-          "text": "Black people symbolize disease",
-          "anchor": "black-disease"
-        },
-        {
-          "level": 2,
-          "text": "Turks look like their faces were hit with a hammer",
-          "anchor": "turks"
-        },
-        {
-          "level": 2,
-          "text": "Ethiopians have heads like raisins",
-          "anchor": "raisin-heads"
-        },
-        {
-          "level": 2,
-          "text": "Use of racist slurs",
-          "anchor": "nword"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad didn't like black dogs",
-          "anchor": "black-dogs"
-        },
-        {
-          "level": 2,
-          "text": "Black dogs are satanic",
-          "anchor": "black-dogs-are-satanic"
-        },
-        {
-          "level": 1,
-          "text": "Sexuality",
-          "anchor": "sexuality"
-        },
-        {
-          "level": 2,
-          "text": "Islam promotes pedophilia",
-          "anchor": "pedophilia"
-        },
-        {
-          "level": 3,
-          "text": "The Quran promotes child marriage",
-          "anchor": "child-marriage"
-        },
-        {
-          "level": 3,
-          "text": "Mohammed raped Aisha, a nine year old girl",
-          "anchor": "aisha"
-        },
-        {
-          "level": 3,
-          "text": "Muhammad was flabbergasted that other men were not pedophiles",
-          "anchor": "muhammad-was-flabbergasted-that-other-men-were-not-pedophiles"
-        },
-        {
-          "level": 3,
-          "text": "Muhammad tongue-kissed a little boy",
-          "anchor": "tongue-kiss"
-        },
-        {
-          "level": 1,
-          "text": "Adult Muslim men should suckle the breasts if adult Muslim women",
-          "anchor": "adult-suckling"
-        },
-        {
-          "level": 2,
-          "text": "Rape",
-          "anchor": "rape"
-        },
-        {
-          "level": 3,
-          "text": "Captured women may be freely raped",
-          "anchor": "raping-captives"
-        },
-        {
-          "level": 3,
-          "text": "Impregnating rape victims is of no concern",
-          "anchor": "impregnating-rape-victims-is-of-no-concern"
-        },
-        {
-          "level": 2,
-          "text": "Muslims men can have sex slaves",
-          "anchor": "muslims-men-can-have-sex-slaves"
-        },
-        {
-          "level": 1,
-          "text": "Slavery",
-          "anchor": "slavery"
-        },
-        {
-          "level": 2,
-          "text": "Runaway slaves lack protection",
-          "anchor": "runaway-slaves-lack-protection"
-        },
-        {
-          "level": 2,
-          "text": "Gifting slaves is better than freeing them",
-          "anchor": "gifting-slaves-is-better-than-freeing-them"
-        },
-        {
-          "level": 2,
-          "text": "Value of slaves",
-          "anchor": "value-of-slaves"
-        },
-        {
-          "level": 2,
-          "text": "Black slaves are worth half of Arab slaves",
-          "anchor": "black-slaves-worth-less"
-        },
-        {
-          "level": 2,
-          "text": "You may flog your slaves (and your wife)",
-          "anchor": "flog-slaves"
-        },
-        {
-          "level": 2,
-          "text": "Slaves should be flogged for sins",
-          "anchor": "slaves-should-be-flogged-for-sins"
-        },
-        {
-          "level": 1,
-          "text": "Theft",
-          "anchor": "theft"
-        },
-        {
-          "level": 2,
-          "text": "Plundering is ok if no one is watching",
-          "anchor": "plundering-is-ok-if-no-one-is-watching"
-        },
-        {
-          "level": 1,
-          "text": "Violence and Jihad",
-          "anchor": "violence-and-jihad"
-        },
-        {
-          "level": 2,
-          "text": "Standing orders to fight the world",
-          "anchor": "standing-orders-to-fight-the-world"
-        },
-        {
-          "level": 3,
-          "text": "What triggered Jihad",
-          "anchor": "allah-allows-jihad"
-        },
-        {
-          "level": 3,
-          "text": "Fight the unbelievers until they convert",
-          "anchor": "fight-the-unbelievers-until-they-convert"
-        },
-        {
-          "level": 3,
-          "text": "\"Kill unbelievers wherever you find them\"",
-          "anchor": "kill-unbelievers-wherever-you-find-them"
-        },
-        {
-          "level": 3,
-          "text": "Behead enemies",
-          "anchor": "behead-enemies"
-        },
-        {
-          "level": 3,
-          "text": "Behead unbelievers",
-          "anchor": "behead-unbelievers"
-        },
-        {
-          "level": 3,
-          "text": "Terrorizing and killing unbelievers",
-          "anchor": "terrorizing-and-killing-unbelievers"
-        },
-        {
-          "level": 2,
-          "text": "View on violence and terrorism",
-          "anchor": "view-on-violence-and-terrorism"
-        },
-        {
-          "level": 3,
-          "text": "Fighting is the second best deed in Islam",
-          "anchor": "fighting-is-the-second-best-deed-in-islam"
-        },
-        {
-          "level": 3,
-          "text": "Jihadis are rewarded with booty and paradise",
-          "anchor": "jihadis-are-rewarded-with-booty-and-paradise"
-        },
-        {
-          "level": 3,
-          "text": "Those who die for Allah are the best of people",
-          "anchor": "those-who-die-for-allah-are-the-best-of-people"
-        },
-        {
-          "level": 3,
-          "text": "The best jihad is where blood is shed",
-          "anchor": "the-best-jihad-is-where-blood-is-shed"
-        },
-        {
-          "level": 3,
-          "text": "Allah likes terrorists more than peaceful Muslims",
-          "anchor": "allah-likes-terrorists-more-than-peaceful-muslims"
-        },
-        {
-          "level": 3,
-          "text": "Fighting is obligatory for Muslims",
-          "anchor": "fighting-is-obligatory-for-muslims"
-        },
-        {
-          "level": 3,
-          "text": "Muslims \"kill and are killed\" for Allah",
-          "anchor": "muslims-kill-and-are-killed-for-allah"
-        },
-        {
-          "level": 3,
-          "text": "Muslims not fighting are hypocrites",
-          "anchor": "muslims-not-fighting-are-hypocrites"
-        },
-        {
-          "level": 3,
-          "text": "Muslims not fighting for Islam are punished with hell",
-          "anchor": "muslims-not-fighting-for-islam-are-punished-with-hell"
-        },
-        {
-          "level": 3,
-          "text": "Killing disbelievers guarantees immunity from hell",
-          "anchor": "killing-disbelievers-guarantees-immunity-from-hell"
-        },
-        {
-          "level": 2,
-          "text": "View on those who resist Islamic violence",
-          "anchor": "view-on-those-who-resist-islamic-violence"
-        },
-        {
-          "level": 3,
-          "text": "Resisting Islam is severely punished",
-          "anchor": "resisting-islam-is-severely-punished"
-        },
-        {
-          "level": 3,
-          "text": "Even stones will help jihadists to kill Jews",
-          "anchor": "even-stones-will-help-jihadists-to-kill-jews"
-        },
-        {
-          "level": 2,
-          "text": "Muslims can indiscriminately kill innocent civilians",
-          "anchor": "muslims-can-indiscriminately-kill-innocent-civilians"
-        }
-      ],
-      "file": "islam/10-morality.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
       "url": "/islam/muhammad",
       "tocpath": null,
       "title": "Muhammad",
@@ -2923,7 +4054,7 @@
         {
           "level": 1,
           "text": "Muhammad's appearance",
-          "anchor": "muhammads-appearance"
+          "anchor": "appearance"
         },
         {
           "level": 2,
@@ -2942,13 +4073,13 @@
         },
         {
           "level": 2,
-          "text": "Muhammad had a gap tooth",
-          "anchor": "muhammad-had-a-gap-tooth"
+          "text": "Muhammad had gap teeth",
+          "anchor": "gap-teeth"
         },
         {
           "level": 2,
           "text": "Muhammad was white",
-          "anchor": "muhammad-was-white"
+          "anchor": "white"
         },
         {
           "level": 2,
@@ -2957,23 +4088,28 @@
         },
         {
           "level": 2,
+          "text": "Muhammad wore red",
+          "anchor": "red-clothes"
+        },
+        {
+          "level": 2,
           "text": "Muhammad liked his own face",
-          "anchor": "muhammad-liked-his-own-face"
+          "anchor": "narcissist"
         },
         {
           "level": 2,
           "text": "Muhammad had a tooth knocked out",
-          "anchor": "muhammad-had-a-tooth-knocked-out"
+          "anchor": "toothless"
         },
         {
           "level": 2,
           "text": "Muhammad dressed in drag",
-          "anchor": "muhammad-dressed-in-drag"
+          "anchor": "drag-queen"
         },
         {
           "level": 1,
           "text": "Muhammad's character",
-          "anchor": "muhammads-character"
+          "anchor": "character"
         },
         {
           "level": 2,
@@ -2983,17 +4119,17 @@
         {
           "level": 2,
           "text": "Muhammad was gullible",
-          "anchor": "muhammad-was-gullible"
+          "anchor": "gullible"
         },
         {
           "level": 2,
           "text": "Muhammad was a sinner",
-          "anchor": "muhammad-was-a-sinner"
+          "anchor": "sinner"
         },
         {
           "level": 2,
           "text": "Muhammad randomly beat people for no reason",
-          "anchor": "muhammad-randomly-beat-people-for-no-reason"
+          "anchor": "bully"
         },
         {
           "level": 2,
@@ -3003,17 +4139,17 @@
         {
           "level": 3,
           "text": "Muhammad copied the Lord's Prayer",
-          "anchor": "muhammad-copied-the-lords-prayer"
+          "anchor": "lords-prayer"
         },
         {
           "level": 3,
           "text": "Muhammad copied Jesus' teachings",
-          "anchor": "muhammad-copied-jesus-teachings"
+          "anchor": "copied-jesus"
         },
         {
           "level": 4,
           "text": "The workers of the vineyard",
-          "anchor": "the-workers-of-the-vineyard"
+          "anchor": "workers-of-vineyard"
         },
         {
           "level": 4,
@@ -3023,7 +4159,7 @@
         {
           "level": 3,
           "text": "Muhammad copied Paul's writings",
-          "anchor": "muhammad-copied-pauls-writings"
+          "anchor": "copied-paul"
         },
         {
           "level": 2,
@@ -3033,7 +4169,7 @@
         {
           "level": 2,
           "text": "Muhammad disdained a blind man",
-          "anchor": "muhammad-disdained-a-blind-man"
+          "anchor": "mistreated-blind"
         },
         {
           "level": 2,
@@ -3057,18 +4193,13 @@
         },
         {
           "level": 2,
-          "text": "Muhammad killed puppies",
-          "anchor": "muhammad-killed-puppies"
+          "text": "Muhammad was a puppy-killer",
+          "anchor": "puppy-killer"
         },
         {
           "level": 2,
           "text": "Muhammad was a tough guy",
-          "anchor": "muhammad-was-a-tough-guy"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad slapped a lady",
-          "anchor": "muhammad-slapped-a-lady"
+          "anchor": "tough-guy"
         },
         {
           "level": 2,
@@ -3083,7 +4214,7 @@
         {
           "level": 2,
           "text": "Muhammad sacrificed to pagan gods",
-          "anchor": "muhammad-sacrificed-to-pagan-gods"
+          "anchor": "pagan"
         },
         {
           "level": 2,
@@ -3093,17 +4224,17 @@
         {
           "level": 2,
           "text": "Muhammad can not save you",
-          "anchor": "muhammad-can-not-save-you"
+          "anchor": "no-salvation"
         },
         {
           "level": 2,
           "text": "Muhammad couldn't predict technological advances",
-          "anchor": "muhammad-couldnt-predict-technological-advances"
+          "anchor": "predict-technology"
         },
         {
           "level": 2,
           "text": "Muhammad couldn't predict Covid-19",
-          "anchor": "muhammad-couldnt-predict-covid-19"
+          "anchor": "predict-covid"
         },
         {
           "level": 2,
@@ -3413,7 +4544,12 @@
         {
           "level": 1,
           "text": "Muhammad and violence",
-          "anchor": "muhammad-violence"
+          "anchor": "violence"
+        },
+        {
+          "level": 2,
+          "text": "Muhammad slapped a lady",
+          "anchor": "woman-abuser"
         },
         {
           "level": 2,
@@ -3567,1117 +4703,6 @@
         }
       ],
       "file": "islam/02-Muhammad.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/religions",
-      "tocpath": null,
-      "title": "Islam's view on religions",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Islam",
-          "anchor": "islam"
-        },
-        {
-          "level": 2,
-          "text": "Apostasy and hypocrisy",
-          "anchor": "apostasy-and-hypocrisy"
-        },
-        {
-          "level": 3,
-          "text": "Punishment for apostasy is death",
-          "anchor": "apostasy-death-sentence"
-        },
-        {
-          "level": 3,
-          "text": "Give apostates a chance to repent, and if they don't, kill them",
-          "anchor": "give-apostates-a-chance-to-repent-and-if-they-dont-kill-them"
-        },
-        {
-          "level": 2,
-          "text": "Leaving Islam",
-          "anchor": "leaving-islam"
-        },
-        {
-          "level": 3,
-          "text": "A man was beheaded for apostasy",
-          "anchor": "a-man-was-beheaded-for-apostasy"
-        },
-        {
-          "level": 3,
-          "text": "Kill hypocrites",
-          "anchor": "kill-hypocrites"
-        },
-        {
-          "level": 2,
-          "text": "Muslims may not resemble Jews or Christians",
-          "anchor": "muslims-may-not-resemble-jews-or-christians"
-        },
-        {
-          "level": 2,
-          "text": "Islamic worship",
-          "anchor": "islamic-worship"
-        },
-        {
-          "level": 3,
-          "text": "Islam means following Muhammad",
-          "anchor": "islam-means-following-muhammad"
-        },
-        {
-          "level": 3,
-          "text": "Muslims must love Muhammad more than anyone else",
-          "anchor": "muslims-must-love-muhammad-more-than-anyone-else"
-        },
-        {
-          "level": 3,
-          "text": "Don't come to mosque with garlic breath",
-          "anchor": "garlic"
-        },
-        {
-          "level": 2,
-          "text": "The future of Islam",
-          "anchor": "the-future-of-islam"
-        },
-        {
-          "level": 3,
-          "text": "The goal of Islam is world domination",
-          "anchor": "the-goal-of-islam-is-world-domination"
-        },
-        {
-          "level": 3,
-          "text": "Islam will split into 73 sects",
-          "anchor": "islam-will-split-into-73-sects"
-        },
-        {
-          "level": 2,
-          "text": "Islam is a strange serpent receding into its hole",
-          "anchor": "strange-serpent"
-        },
-        {
-          "level": 3,
-          "text": "End time fake Muslims foretold",
-          "anchor": "end-time-fake-muslims-foretold"
-        },
-        {
-          "level": 1,
-          "text": "Non-Muslims, Jews and Christians",
-          "anchor": "non-muslims"
-        },
-        {
-          "level": 2,
-          "text": "View of non-Muslims",
-          "anchor": "view-of-non-muslims"
-        },
-        {
-          "level": 2,
-          "text": "Do not befriend non-muslims",
-          "anchor": "do-not-befriend-non-muslims"
-        },
-        {
-          "level": 2,
-          "text": "Do not insult unbelievers or they will insult Allah",
-          "anchor": "do-not-insult-unbelievers-or-they-will-insult-allah"
-        },
-        {
-          "level": 2,
-          "text": "Non-Muslims are the worst of creatures",
-          "anchor": "non-muslims-are-the-worst-of-creatures"
-        },
-        {
-          "level": 2,
-          "text": "Do not greet Jews and Christians but bully them",
-          "anchor": "do-not-greet-jews-and-christians-but-bully-them"
-        },
-        {
-          "level": 2,
-          "text": "Jews and Christians to be expelled from Arabia",
-          "anchor": "jews-and-christians-to-be-expelled-from-arabia"
-        },
-        {
-          "level": 2,
-          "text": "Jews and Christians who don't accept Islam go to hell",
-          "anchor": "jews-and-christians-who-dont-accept-islam-go-to-hell"
-        },
-        {
-          "level": 2,
-          "text": "Jews and Christians are worth half as much as Muslims",
-          "anchor": "jews-and-christians-are-worth-half-as-much-as-muslims"
-        },
-        {
-          "level": 2,
-          "text": "Muslims should listen to and learn from Christians and Jews",
-          "anchor": "listen-to-christians"
-        },
-        {
-          "level": 2,
-          "text": "The Jews and Christians did have the uncorrupted scriptures in the days of Muhammad",
-          "anchor": "the-jews-and-christians-did-have-the-uncorrupted-scriptures-in-the-days-of-muhammad"
-        },
-        {
-          "level": 2,
-          "text": "Jizya",
-          "anchor": "jizya"
-        },
-        {
-          "level": 2,
-          "text": "Jews",
-          "anchor": "jews"
-        },
-        {
-          "level": 3,
-          "text": "Allah favors Jews",
-          "anchor": "allah-favors-jews"
-        },
-        {
-          "level": 3,
-          "text": "Allah ordained that Israel would live in the holy land",
-          "anchor": "allah-ordained-that-israel-would-live-in-the-holy-land"
-        },
-        {
-          "level": 3,
-          "text": "A tribe of Israelites were turned into rats",
-          "anchor": "rats"
-        },
-        {
-          "level": 3,
-          "text": "Jews are equal to asses and pigs",
-          "anchor": "jews-are-equal-to-asses-and-pigs"
-        },
-        {
-          "level": 3,
-          "text": "The verse Muslims use to lie that Islam is peaceful",
-          "anchor": "peaceful"
-        },
-        {
-          "level": 3,
-          "text": "Islam's Final Solution to the Jewish Question",
-          "anchor": "final-solution"
-        },
-        {
-          "level": 2,
-          "text": "Christians",
-          "anchor": "christians"
-        },
-        {
-          "level": 3,
-          "text": "Christians must judge by the Gospel",
-          "anchor": "christians-must-judge-by-the-gospel"
-        },
-        {
-          "level": 3,
-          "text": "Allah promised that Christians will be superior until judgment day",
-          "anchor": "allah-promised-that-christians-will-be-superior-until-judgment-day"
-        }
-      ],
-      "file": "islam/06-religions.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/science",
-      "tocpath": null,
-      "title": "Islam and Science",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Cosmology",
-          "anchor": "cosmology"
-        },
-        {
-          "level": 2,
-          "text": "The earth existed before space",
-          "anchor": "earth-before-space"
-        },
-        {
-          "level": 2,
-          "text": "The earth is flat",
-          "anchor": "flat-earth"
-        },
-        {
-          "level": 2,
-          "text": "The sky can fall down",
-          "anchor": "the-sky-can-fall-down"
-        },
-        {
-          "level": 2,
-          "text": "The Whale Nun",
-          "anchor": "nun"
-        },
-        {
-          "level": 2,
-          "text": "There are 7 heavens and 7 earths",
-          "anchor": "there-are-7-heavens-and-7-earths"
-        },
-        {
-          "level": 2,
-          "text": "Earth is flat",
-          "anchor": "earth-is-flat"
-        },
-        {
-          "level": 2,
-          "text": "The sun sets in a muddy spring",
-          "anchor": "sun-sets-in-mud"
-        },
-        {
-          "level": 2,
-          "text": "The sun might rise from the west",
-          "anchor": "the-sun-might-rise-from-the-west"
-        },
-        {
-          "level": 1,
-          "text": "Embryology",
-          "anchor": "embryology"
-        },
-        {
-          "level": 2,
-          "text": "Sperm comes from between the backbone and the ribs",
-          "anchor": "backbone-sperm"
-        },
-        {
-          "level": 2,
-          "text": "Semen remains in the womb 40 days",
-          "anchor": "semen-remains-in-the-womb-40-days"
-        },
-        {
-          "level": 2,
-          "text": "What determines the sex of a child?",
-          "anchor": "what-determines-the-sex-of-a-child"
-        },
-        {
-          "level": 2,
-          "text": "What determines if a child looks like its mother or father?",
-          "anchor": "whom-children-resemble"
-        },
-        {
-          "level": 1,
-          "text": "Hygiene, health and food",
-          "anchor": "hygiene-health-and-food"
-        },
-        {
-          "level": 2,
-          "text": "Muslims should dip flies in their drinks",
-          "anchor": "dip-flies"
-        },
-        {
-          "level": 2,
-          "text": "Eat food from the ground and lick your fingers",
-          "anchor": "eat-food-from-the-ground-and-lick-your-fingers"
-        },
-        {
-          "level": 2,
-          "text": "Muslims aren’t allowed to urinate standing",
-          "anchor": "no-urinating-standing"
-        },
-        {
-          "level": 2,
-          "text": "Muslims aren’t allowed to urinate in water",
-          "anchor": "no-urinating-in-water"
-        },
-        {
-          "level": 2,
-          "text": "Muslims aren’t allowed to urinate  in holes",
-          "anchor": "urinating-in-holes"
-        },
-        {
-          "level": 2,
-          "text": "Muslims aren’t allowed to urinate towards the qibla",
-          "anchor": "urinating-toward-qibla"
-        },
-        {
-          "level": 2,
-          "text": "Dogs would urinate in the mosque and no one would clean it up",
-          "anchor": "dogs-pissing-in-mosque"
-        },
-        {
-          "level": 2,
-          "text": "People used to urinate in the mosque",
-          "anchor": "people-used-to-urinate-in-the-mosque"
-        },
-        {
-          "level": 2,
-          "text": "Don't sleep on your stomach",
-          "anchor": "dont-sleep-on-your-stomach"
-        },
-        {
-          "level": 2,
-          "text": "Wigs are forbidden",
-          "anchor": "no-wigs"
-        },
-        {
-          "level": 2,
-          "text": "Fevers cleanses sins",
-          "anchor": "fevers-cleanses-sins"
-        },
-        {
-          "level": 2,
-          "text": "The coccyx does not decay",
-          "anchor": "coccyx"
-        },
-        {
-          "level": 2,
-          "text": "The urine of boys and girls are different",
-          "anchor": "different-urine"
-        },
-        {
-          "level": 2,
-          "text": "Non-Muslims eats in seven intestines, Muslims in one",
-          "anchor": "seven-intestines"
-        },
-        {
-          "level": 2,
-          "text": "Gestation",
-          "anchor": "gestation"
-        },
-        {
-          "level": 2,
-          "text": "Mosquito wings carry both diseases and cures",
-          "anchor": "mosquito-wings-carry-both-diseases-and-cures"
-        },
-        {
-          "level": 2,
-          "text": "The cure for sciatica is sheep's fat",
-          "anchor": "the-cure-for-sciatica-is-sheeps-fat"
-        },
-        {
-          "level": 2,
-          "text": "Repeating an incantation 7 times can cure anything except death",
-          "anchor": "repeating-an-incantation-7-times-can-cure-anything-except-death"
-        },
-        {
-          "level": 2,
-          "text": "7 dates protects against poison",
-          "anchor": "7-dates-protects-against-poison"
-        }
-      ],
-      "file": "islam/08-science.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/theology",
-      "tocpath": null,
-      "title": "General Islamic Theology",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Adam",
-          "anchor": "adam"
-        },
-        {
-          "level": 2,
-          "text": "Adam was 60 cubits tall",
-          "anchor": "adam-was-60-cubits-tall"
-        },
-        {
-          "level": 2,
-          "text": "Adam was created in Allahs image",
-          "anchor": "adam-was-created-in-allahs-image"
-        },
-        {
-          "level": 1,
-          "text": "Angels",
-          "anchor": "angels"
-        },
-        {
-          "level": 2,
-          "text": "Angels are afraid of dogs, pictures, and bells",
-          "anchor": "angels-dogs"
-        },
-        {
-          "level": 1,
-          "text": "Death",
-          "anchor": "death"
-        },
-        {
-          "level": 2,
-          "text": "Grieving tortures the deceased",
-          "anchor": "grieving-tortures-the-deceased"
-        },
-        {
-          "level": 1,
-          "text": "Free will",
-          "anchor": "free-will"
-        },
-        {
-          "level": 2,
-          "text": "Belief is predetermined",
-          "anchor": "belief-is-predetermined"
-        },
-        {
-          "level": 2,
-          "text": "Adultery is predetermined",
-          "anchor": "adultery-is-predetermined"
-        },
-        {
-          "level": 1,
-          "text": "Hell",
-          "anchor": "hell"
-        },
-        {
-          "level": 2,
-          "text": "Murder victims go to hell",
-          "anchor": "murder-victims-go-to-hell"
-        },
-        {
-          "level": 2,
-          "text": "All people go to hell",
-          "anchor": "all-people-go-to-hell"
-        },
-        {
-          "level": 2,
-          "text": "Hell can think and speak",
-          "anchor": "hell-can-think-and-speak"
-        },
-        {
-          "level": 1,
-          "text": "Jinn",
-          "anchor": "jinn"
-        },
-        {
-          "level": 2,
-          "text": "Jinn can be Muslims",
-          "anchor": "jinn-can-be-muslims"
-        },
-        {
-          "level": 1,
-          "text": "The Kaaba and Qiblah",
-          "anchor": "kaaba"
-        },
-        {
-          "level": 2,
-          "text": "The Muslims used to pray toward Jerusalem",
-          "anchor": "jerusalem-qiblah"
-        },
-        {
-          "level": 2,
-          "text": "Peeing towards the Qiblah",
-          "anchor": "peeing-towards-the-qiblah"
-        },
-        {
-          "level": 2,
-          "text": "Pooping toward the Qiblah",
-          "anchor": "pooping-toward-the-qiblah"
-        },
-        {
-          "level": 1,
-          "text": "The Black stone",
-          "anchor": "black-stone"
-        },
-        {
-          "level": 2,
-          "text": "The black stone absorbs sins",
-          "anchor": "the-black-stone-absorbs-sins"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad touched the black stone",
-          "anchor": "muhammad-touched-the-black-stone"
-        },
-        {
-          "level": 2,
-          "text": "Kissing the stone is idolatry",
-          "anchor": "kissing-the-stone-is-idolatry"
-        },
-        {
-          "level": 1,
-          "text": "Paradise",
-          "anchor": "paradise"
-        },
-        {
-          "level": 2,
-          "text": "Paradise is a brothel",
-          "anchor": "paradise-is-a-brothel"
-        },
-        {
-          "level": 3,
-          "text": "Muslim men are rewarded with Houris",
-          "anchor": "houris"
-        },
-        {
-          "level": 3,
-          "text": "Houris have large, round, firm, swelling breasts",
-          "anchor": "breasts"
-        },
-        {
-          "level": 2,
-          "text": "Houris have big eyes",
-          "anchor": "houris-have-big-eyes"
-        },
-        {
-          "level": 3,
-          "text": "Houris are hairless",
-          "anchor": "houris-are-hairless"
-        },
-        {
-          "level": 3,
-          "text": "Houris don’t need to poop, pee, or sweat, they exist for one purpose: eternal male pleasure.",
-          "anchor": "houris-dont-need-to-poop-pee-or-sweat-they-exist-for-one-purpose-eternal-male-pleasure"
-        },
-        {
-          "level": 3,
-          "text": "Endless sex",
-          "anchor": "endless-sex"
-        },
-        {
-          "level": 3,
-          "text": "72 virgins",
-          "anchor": "72-virgins"
-        },
-        {
-          "level": 2,
-          "text": "All fruit looks the same in paradise",
-          "anchor": "boring-fruit"
-        },
-        {
-          "level": 2,
-          "text": "Paradise dwellers don't poop but belch and sweat musk",
-          "anchor": "belching-musk"
-        },
-        {
-          "level": 2,
-          "text": "Paradise dwellers will be about 30 years old",
-          "anchor": "paradise-dwellers-will-be-about-30-years-old"
-        },
-        {
-          "level": 2,
-          "text": "Paradise dwellers will be 38 meters tall",
-          "anchor": "tall-people"
-        },
-        {
-          "level": 2,
-          "text": "Huge tree",
-          "anchor": "huge-tree"
-        },
-        {
-          "level": 2,
-          "text": "There are 7 heavens",
-          "anchor": "seven-heavens"
-        },
-        {
-          "level": 2,
-          "text": "Paradise can think and speak",
-          "anchor": "paradise-can-think-and-speak"
-        },
-        {
-          "level": 2,
-          "text": "Paradise for women",
-          "anchor": "paradise-for-women"
-        },
-        {
-          "level": 1,
-          "text": "Prayer",
-          "anchor": "prayer"
-        },
-        {
-          "level": 2,
-          "text": "Looking up while praying makes you go blind",
-          "anchor": "praying-blind"
-        },
-        {
-          "level": 2,
-          "text": "Raising your head before the Imam while praying turns it into a donkey head",
-          "anchor": "donkey-head"
-        },
-        {
-          "level": 2,
-          "text": "Prayer is nullified by donkeys, black dogs and women",
-          "anchor": "nullified-prayer"
-        },
-        {
-          "level": 2,
-          "text": "Muslims pray to Muhammad",
-          "anchor": "muslims-pray-to-muhammad"
-        },
-        {
-          "level": 1,
-          "text": "Resurrection",
-          "anchor": "resurrection"
-        },
-        {
-          "level": 2,
-          "text": "The hour of resurrection",
-          "anchor": "the-hour-of-resurrection"
-        },
-        {
-          "level": 1,
-          "text": "Salvation",
-          "anchor": "salvation"
-        },
-        {
-          "level": 2,
-          "text": "Muslims are saved by works",
-          "anchor": "muslims-are-saved-by-works"
-        },
-        {
-          "level": 2,
-          "text": "Jews and Christians are also saved",
-          "anchor": "jews-and-christians-are-also-saved"
-        },
-        {
-          "level": 2,
-          "text": "No ransom will be accepted for another person",
-          "anchor": "no-ransom"
-        },
-        {
-          "level": 2,
-          "text": "Ransomed from hell by Jews and Christians",
-          "anchor": "ransomed-from-hell"
-        },
-        {
-          "level": 2,
-          "text": "The Quran will come and intercede",
-          "anchor": "the-quran-will-come-and-intercede"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad can save",
-          "anchor": "muhammad-saves"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad can NOT save",
-          "anchor": "muhammad-saves-not"
-        },
-        {
-          "level": 2,
-          "text": "The black stone will intercede",
-          "anchor": "the-black-stone-will-intercede"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad will intercede for those dying in Medina",
-          "anchor": "muhammad-will-intercede-for-those-dying-in-medina"
-        },
-        {
-          "level": 2,
-          "text": "Invading India or being Christian ensures salvation",
-          "anchor": "invading-india-or-being-christian-ensures-salvation"
-        },
-        {
-          "level": 2,
-          "text": "Memorising the 99 names of Allah ensures salvation",
-          "anchor": "memorising-the-99-names-of-allah-ensures-salvation"
-        },
-        {
-          "level": 2,
-          "text": "Being sick or injured cleanses from sins",
-          "anchor": "being-sick-or-injured-cleanses-from-sins"
-        },
-        {
-          "level": 2,
-          "text": "Having three dead children saves",
-          "anchor": "having-three-dead-children-saves"
-        },
-        {
-          "level": 2,
-          "text": "Paradise and hell can intercede",
-          "anchor": "paradise-and-hell-can-intercede"
-        },
-        {
-          "level": 1,
-          "text": "Sin",
-          "anchor": "sin"
-        },
-        {
-          "level": 2,
-          "text": "Confessing sins is bad",
-          "anchor": "confessing-sins-is-bad"
-        },
-        {
-          "level": 2,
-          "text": "Allah predetermines adultery",
-          "anchor": "allah-predetermines-adultery"
-        },
-        {
-          "level": 2,
-          "text": "Who forgives sins?",
-          "anchor": "who-forgives-sins"
-        },
-        {
-          "level": 3,
-          "text": "Only Allah forgives sins",
-          "anchor": "only-allah-forgives-sins"
-        },
-        {
-          "level": 3,
-          "text": "But Muhammad also forgives sins",
-          "anchor": "but-muhammad-also-forgives-sins"
-        }
-      ],
-      "file": "islam/09-theology.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/vip",
-      "tocpath": null,
-      "title": "Other important persons",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Jesus",
-          "anchor": "jesus"
-        },
-        {
-          "level": 2,
-          "text": "Jesus is free of sin",
-          "anchor": "jesus-is-free-of-sin"
-        },
-        {
-          "level": 2,
-          "text": "Jesus was not crucified",
-          "anchor": "jesus-was-not-crucified"
-        },
-        {
-          "level": 2,
-          "text": "Jesus is Lord along with Allah",
-          "anchor": "jesus-is-lord-along-with-allah"
-        },
-        {
-          "level": 2,
-          "text": "The First and the Last",
-          "anchor": "the-first-and-the-last"
-        },
-        {
-          "level": 2,
-          "text": "King of kings",
-          "anchor": "king-of-kings"
-        },
-        {
-          "level": 2,
-          "text": "King of the Kingdom of Heaven and Earth",
-          "anchor": "king-of-the-kingdom-of-heaven-and-earth"
-        },
-        {
-          "level": 2,
-          "text": "Will judge mankind",
-          "anchor": "will-judge-mankind"
-        },
-        {
-          "level": 2,
-          "text": "Is alive in heaven with Allah",
-          "anchor": "is-alive-in-heaven-with-allah"
-        },
-        {
-          "level": 2,
-          "text": "Jesus is the Word of Allah and a spirit from him",
-          "anchor": "jesus-is-the-word-of-allah-and-a-spirit-from-him"
-        },
-        {
-          "level": 2,
-          "text": "Jesus has the divine powers of Allah",
-          "anchor": "jesus-has-the-divine-powers-of-allah"
-        },
-        {
-          "level": 1,
-          "text": "Satan",
-          "anchor": "satan"
-        },
-        {
-          "level": 2,
-          "text": "Bells are Satanic",
-          "anchor": "satanic-bells"
-        },
-        {
-          "level": 2,
-          "text": "Donkeys are Satan detectors",
-          "anchor": "donkeys-detect-satan"
-        },
-        {
-          "level": 2,
-          "text": "Satan farts to not hear the call to prayer",
-          "anchor": "satan-farts"
-        },
-        {
-          "level": 2,
-          "text": "Satan sleeps in your nostrils",
-          "anchor": "satan-sleeps-in-your-nostrils"
-        },
-        {
-          "level": 2,
-          "text": "Satan pisses in your ear",
-          "anchor": "satan-pisses"
-        },
-        {
-          "level": 2,
-          "text": "Satan blows air into your butt",
-          "anchor": "satan-blows-air-into-your-butt"
-        },
-        {
-          "level": 2,
-          "text": "Satan eats poop",
-          "anchor": "satan-eats-poop"
-        },
-        {
-          "level": 2,
-          "text": "Satan eats with his left hand",
-          "anchor": "satan-eats-with-his-left-hand"
-        },
-        {
-          "level": 2,
-          "text": "Yawning is Satanic",
-          "anchor": "satanic-yawning"
-        },
-        {
-          "level": 2,
-          "text": "Night prayers ensures satanic possession",
-          "anchor": "night-prayers-ensures-satanic-possession"
-        },
-        {
-          "level": 2,
-          "text": "Satan can't open lids",
-          "anchor": "satan-cant-open-lids"
-        },
-        {
-          "level": 2,
-          "text": "Satan's throne is upon the water",
-          "anchor": "satan-water-throne"
-        }
-      ],
-      "file": "islam/03-other-characters.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/weird",
-      "tocpath": null,
-      "title": "Weird stuff",
-      "headers": [
-        {
-          "level": 1,
-          "text": "\"The eyes are the leather strap of the anus\"",
-          "anchor": "the-eyes-are-the-leather-strap-of-the-anus"
-        },
-        {
-          "level": 1,
-          "text": "Muhammad comforted a crying date palm",
-          "anchor": "muhammad-comforted-a-crying-date-palm"
-        },
-        {
-          "level": 1,
-          "text": "Moses had his clothes stolen by a stone",
-          "anchor": "moses-had-his-clothes-stolen-by-a-stone"
-        },
-        {
-          "level": 1,
-          "text": "Unbelievers visiting a mosque will go to hell",
-          "anchor": "unbelievers-visiting-a-mosque-will-go-to-hell"
-        },
-        {
-          "level": 1,
-          "text": "Muslims living abroad goes to hell",
-          "anchor": "muslims-living-abroad-goes-to-hell"
-        },
-        {
-          "level": 1,
-          "text": "Snakes in houses may be demons who converted to islam",
-          "anchor": "snake-jinn"
-        },
-        {
-          "level": 1,
-          "text": "A deathbed convert couldn't be buried",
-          "anchor": "a-deathbed-convert-couldnt-be-buried"
-        },
-        {
-          "level": 1,
-          "text": "Don't sit between the sun and shade",
-          "anchor": "dont-sit-between-the-sun-and-shade"
-        },
-        {
-          "level": 1,
-          "text": "Relieve sexual awkwardness by suckling breasts",
-          "anchor": "adult-suckling"
-        },
-        {
-          "level": 1,
-          "text": "Muhammad's donkey stinks",
-          "anchor": "muhammads-donkey-stinks"
-        },
-        {
-          "level": 1,
-          "text": "Stoning is monkey business",
-          "anchor": "stoning-is-monkey-business"
-        }
-      ],
-      "file": "islam/13-weird.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 999999
-    },
-    {
-      "url": "/islam/women",
-      "tocpath": null,
-      "title": "Islam's view of women",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Violence against women",
-          "anchor": "violence"
-        },
-        {
-          "level": 2,
-          "text": "Wife beating is allowed in Islam",
-          "anchor": "domestic-abuse"
-        },
-        {
-          "level": 2,
-          "text": "Never ask why a man beats his wife",
-          "anchor": "dont-question-wife-beater"
-        },
-        {
-          "level": 2,
-          "text": "Flogging your wife is ok as long as you don't have sex with her afterwards",
-          "anchor": "flogging-your-wife-is-ok-as-long-as-you-dont-have-sex-with-her-afterwards"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad insults victims of domestic abuse",
-          "anchor": "muhammad-insults-victims-of-domestic-abuse"
-        },
-        {
-          "level": 2,
-          "text": "Abu Bakr hit Aisha",
-          "anchor": "abu-bakr-hit-aisha"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad hit Aisha",
-          "anchor": "muhammad-hit-aisha"
-        },
-        {
-          "level": 2,
-          "text": "No women has it worse than Muslim women",
-          "anchor": "muslimas-treated-worst"
-        },
-        {
-          "level": 1,
-          "text": "Sexual abuse",
-          "anchor": "sexual-abuse"
-        },
-        {
-          "level": 2,
-          "text": "Women should be circumcised",
-          "anchor": "women-should-be-circumcised"
-        },
-        {
-          "level": 2,
-          "text": "Women are to be plowed like a field",
-          "anchor": "plowing-women"
-        },
-        {
-          "level": 2,
-          "text": "Wives must always be ready to please their husbands",
-          "anchor": "wives-must-always-be-ready-to-please-their-husbands"
-        },
-        {
-          "level": 2,
-          "text": "Allah curses women who don't sleep with their husbands",
-          "anchor": "allah-curses-women-who-dont-sleep-with-their-husbands"
-        },
-        {
-          "level": 2,
-          "text": "Islam allows child marriage",
-          "anchor": "pedophilia-ok"
-        },
-        {
-          "level": 2,
-          "text": "Temporary marriages allowed",
-          "anchor": "muta"
-        },
-        {
-          "level": 2,
-          "text": "Captured women's marriage annulled",
-          "anchor": "captured-womens-marriage-annulled"
-        },
-        {
-          "level": 1,
-          "text": "Opresive rules",
-          "anchor": "opresive-rules"
-        },
-        {
-          "level": 2,
-          "text": "Women wearing perfume are adulteresses",
-          "anchor": "women-wearing-perfume-are-adulteresses"
-        },
-        {
-          "level": 2,
-          "text": "Women are cursed for plucking their eyebrows, getting tattoos, or orthodontics",
-          "anchor": "women-are-cursed-for-plucking-their-eyebrows-getting-tattoos-or-orthodontics"
-        },
-        {
-          "level": 1,
-          "text": "Wigs are forbidden",
-          "anchor": "no-wigs"
-        },
-        {
-          "level": 1,
-          "text": "General view on women",
-          "anchor": "general-view-on-women"
-        },
-        {
-          "level": 2,
-          "text": "Most people in hell are women",
-          "anchor": "most-in-hell-women"
-        },
-        {
-          "level": 2,
-          "text": "Women in hell for dressing wrong",
-          "anchor": "women-in-hell-for-dressing-wrong"
-        },
-        {
-          "level": 2,
-          "text": "Women are \"deficient in intelligence\"",
-          "anchor": "women-are-deficient-in-intelligence"
-        },
-        {
-          "level": 2,
-          "text": "The testimony of a woman is worth half that of a man",
-          "anchor": "the-testimony-of-a-woman-is-worth-half-that-of-a-man"
-        },
-        {
-          "level": 2,
-          "text": "Women are \"deficient in religion\"",
-          "anchor": "women-are-deficient-in-religion"
-        },
-        {
-          "level": 2,
-          "text": "Women are equal to donkeys, dogs and pigs",
-          "anchor": "women-are-equal-to-donkeys-dogs-and-pigs"
-        },
-        {
-          "level": 2,
-          "text": "Women are a source of trouble",
-          "anchor": "women-are-a-source-of-trouble"
-        },
-        {
-          "level": 2,
-          "text": "Women are devils",
-          "anchor": "women-are-devils"
-        },
-        {
-          "level": 2,
-          "text": "Men are not allowed to wash themselves with the same water a woman has used",
-          "anchor": "men-are-not-allowed-to-wash-themselves-with-the-same-water-a-woman-has-used"
-        },
-        {
-          "level": 2,
-          "text": "Women must cover everything but their faces and hands",
-          "anchor": "women-must-cover-everything-but-their-faces-and-hands"
-        },
-        {
-          "level": 2,
-          "text": "In paradise, women will be prostitutes",
-          "anchor": "in-paradise-women-will-be-prostitutes"
-        }
-      ],
-      "file": "islam/11-women.md",
       "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 999999
