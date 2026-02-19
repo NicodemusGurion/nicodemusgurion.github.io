@@ -1249,6 +1249,18 @@
       "nav_order": 999999
     },
     {
+      "url": "/dawah/Jesus-spoke-aramaic",
+      "tocpath": null,
+      "title": "Jesus spoke Aramaic",
+      "headers": [
+
+      ],
+      "file": "dawah/Jesus-spoke-aramaic.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 999999
+    },
+    {
       "url": "/dawah/abusing-women",
       "tocpath": null,
       "title": "The Bible promotes abuse of women",
