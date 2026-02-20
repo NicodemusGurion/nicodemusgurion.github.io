@@ -164,7 +164,7 @@ See also:
 
 
 
-# Non-Muslims in general {#non-muslims}
+# All Non-Muslims {#non-muslims}
 
 ## View of non-Muslims
 
