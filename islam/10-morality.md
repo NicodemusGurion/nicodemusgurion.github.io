@@ -368,6 +368,11 @@ They're not allowed to have sex with married women **except** if these **married
 
 
 
+## Muslim women should suckle adult men {#adult-suckling}
+
+>  A'isha (Allah be pleased with her) reported that Salim, the freed slave of Abu Hadhaifa, lived with him and his family in their house. She (i. e. the daughter of Suhail came to Allah's Apostle and said: Salim has attained (puberty) as men attain, and he understands what they understand, and he enters our house freely, I, however, perceive that something (rankles) in the heart of Abu Hudhaifa, whereupon Allah's Apostle said to her: Suckle him and you would become unlawful for him, and (the rankling) which Abu Hudhaifa feels in his heart will disappear. She returned and said: So I suckled him, and what (was there) in the heart of Abu Hudhaifa disappeared.
+
+So her slave boy is becoming an adult, and her husband is bothered that a young man is spending time with his wife because of the sexual awkwardness. She asks Muhammad what to do. So what is the solution proposed by Muhammad? "Let the horny young boy suck on your breasts, and that will make the situation *less* sexually awkward."
 
 
 
