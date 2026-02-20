@@ -1866,7 +1866,7 @@
         },
         {
           "level": 1,
-          "text": "Non-Muslims, Jews and Christians",
+          "text": "Non-Muslims in general",
           "anchor": "non-muslims"
         },
         {
@@ -1890,6 +1890,11 @@
           "anchor": "non-muslims-are-the-worst-of-creatures"
         },
         {
+          "level": 1,
+          "text": "Jews and Christians",
+          "anchor": "people-of-the-book"
+        },
+        {
           "level": 2,
           "text": "Do not greet Jews and Christians but bully them",
           "anchor": "do-not-greet-jews-and-christians-but-bully-them"
@@ -1907,7 +1912,7 @@
         {
           "level": 2,
           "text": "Jews and Christians are worth half as much as Muslims",
-          "anchor": "jews-and-christians-are-worth-half-as-much-as-muslims"
+          "anchor": "worth-half"
         },
         {
           "level": 2,
@@ -1925,52 +1930,47 @@
           "anchor": "jizya"
         },
         {
-          "level": 2,
+          "level": 1,
           "text": "Jews",
           "anchor": "jews"
         },
         {
-          "level": 3,
+          "level": 2,
           "text": "Allah favors Jews",
           "anchor": "allah-favors-jews"
         },
         {
-          "level": 3,
+          "level": 2,
           "text": "Allah ordained that Israel would live in the holy land",
-          "anchor": "allah-ordained-that-israel-would-live-in-the-holy-land"
+          "anchor": "holy-land"
         },
         {
-          "level": 3,
+          "level": 2,
           "text": "A tribe of Israelites were turned into rats",
           "anchor": "rats"
         },
         {
-          "level": 3,
+          "level": 2,
           "text": "Jews are equal to asses and pigs",
-          "anchor": "jews-are-equal-to-asses-and-pigs"
+          "anchor": "pigs"
         },
         {
-          "level": 3,
-          "text": "The verse Muslims use to lie that Islam is peaceful",
-          "anchor": "peaceful"
-        },
-        {
-          "level": 3,
+          "level": 2,
           "text": "Islam's Final Solution to the Jewish Question",
           "anchor": "final-solution"
         },
         {
-          "level": 2,
+          "level": 1,
           "text": "Christians",
           "anchor": "christians"
         },
         {
-          "level": 3,
+          "level": 2,
           "text": "Christians must judge by the Gospel",
-          "anchor": "christians-must-judge-by-the-gospel"
+          "anchor": "judge-by-gospel"
         },
         {
-          "level": 3,
+          "level": 2,
           "text": "Allah promised that Christians will be superior until judgment day",
           "anchor": "allah-promised-that-christians-will-be-superior-until-judgment-day"
         }
@@ -3120,6 +3120,11 @@
           "level": 2,
           "text": "View on violence and terrorism",
           "anchor": "view-on-violence-and-terrorism"
+        },
+        {
+          "level": 3,
+          "text": "The verse Muslims use to lie that Islam is peaceful",
+          "anchor": "peaceful"
         },
         {
           "level": 3,
