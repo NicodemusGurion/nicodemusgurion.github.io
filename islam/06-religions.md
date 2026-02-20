@@ -164,7 +164,7 @@ See also:
 
 
 
-# Non-Muslims, Jews and Christians {#non-muslims}
+# Non-Muslims in general {#non-muslims}
 
 ## View of non-Muslims
 
@@ -199,6 +199,8 @@ Think you have a Muslim friend? Think again. Muslims are not allowed to be your 
 [Surah 98:6](https://quran.com/98/6)
 
 > Those who reject (Truth), among the People of the Book and among the Polytheists, will be in Hell-Fire, to dwell therein. They are the worst of creatures
+
+# Jews and Christians {#people-of-the-book}
 
 ## Do not greet Jews and Christians but bully them
 
@@ -235,7 +237,7 @@ See also:
 - [Mishkat al-Masabih 10](https://sunnah.com/mishkat:10)
 
 
-## Jews and Christians are worth half as much as Muslims 
+## Jews and Christians are worth half as much as Muslims {#worth-half}
 
 [Sunan Ibn Majah 2644](https://sunnah.com/ibnmajah:2644)
 
@@ -286,60 +288,38 @@ This is the future of your country if you invite Islam: They will sooner or late
 
 
 
-## Jews
+# Jews
 
 
-### Allah favors Jews
+## Allah favors Jews
 
 [Surah 45:16](https://quran.com/45/16)
 
 > Indeed, We gave the Children of Israel the Scripture, wisdom, and prophethood; granted them good, lawful provisions; and favoured them above the others.
 
-### Allah ordained that Israel would live in the holy land
+## Allah ordained that Israel would live in the holy land {#holy-land}
 
 [Surah 5:21](https://quran.com/5/21)
 
 > O my people! Go into the holy land which Allah hath ordained for you. Turn not in flight, for surely ye turn back as losers:
 
 
-### A tribe of Israelites were turned into rats {#rats}
+## A tribe of Israelites were turned into rats {#rats}
 
 [Sahih al-Bukhari 3305](https://sunnah.com/bukhari:3305)
 
 > The Prophet said, "A group of Israelites were lost. Nobody knows what they did. But I do not see them except that they were cursed and changed into rats, for if you put the milk of a she-camel in front of a rat, it will not drink it, but if the milk of a sheep is put in front of it, it will drink it."
 
 
-### Jews are equal to asses and pigs
+## Jews are equal to asses and pigs {#pigs}
 
 [Mishkat al-Masabih 789](https://sunnah.com/mishkat:789)
 
 > When one of you prays without a sutra, an ass, a pig, a Jew, a Magian, and a woman cut off his prayer.
 
-### The verse Muslims use to lie that Islam is peaceful {#peaceful}
 
-[Surah 5:32](https://quran.com/5/32)
 
-> That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
-
-This verse is often quoted by Muslims doing taqiyya to say that Islam is peaceful. But as you can see, it is a command directed to the people of Israel, not Muslims. 
-
-It is a quotation from the Talmud. So the Quran is actually saying that the commentary by a rabbi in the Talmud is "revelation from Allah."
-
-Also notice that this command has the stipulation "unless as a punishment for murder or mischief in the land", meaning that Jews had the right of capital punishment for those spreading mischief in the land. But in other cases, killing one person would be like killing all of humanity.
-
-And what "land" is it talking about? Well, the land of the Jews, Israel, or Palestine as it was later renamed. 
-
-*So according to the Quran, the Jews has the right to execute capital punishment on those spreading mischief in the land of Israel.*
-
-But wait, it gets better. The next verse is what applies to Muslims:
-
-[Surah 5:33](https://quran.com/5/33)
-
-> Indeed, the penalty **for those who wage war against Allah and His Messenger** and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land.** This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous **punishment in the Hereafter.**
-
-This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
-
-### Islam's Final Solution to the Jewish Question {#final-solution}
+## Islam's Final Solution to the Jewish Question {#final-solution}
 
 [Sahih al-Bukhari 2926](https://sunnah.com/bukhari:2926)
 
@@ -359,15 +339,15 @@ See also:
 
 
 
-## Christians
+# Christians
 
-### Christians must judge by the Gospel
+## Christians must judge by the Gospel {#judge-by-gospel}
 
 [Surah 5:47](https://quran.com/5/47)
 
 > So let the people of the Gospel judge by what Allah has revealed in it. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
 
-### Allah promised that Christians will be superior until judgment day 
+## Allah promised that Christians will be superior until judgment day 
 
 [Surah 3:55](https://quran.com/3/55)
 

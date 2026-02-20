@@ -534,6 +534,30 @@ Allah will use **terror** against unbelievers. By what method? By Muslims **kill
 ## View on violence and terrorism
 
 
+### The verse Muslims use to lie that Islam is peaceful {#peaceful}
+
+[Surah 5:32](https://quran.com/5/32)
+
+> That is why We ordained **for the Children of Israel** that whoever takes a life—**unless as a punishment for murder or mischief in the land**—it will be as if they killed all of humanity; and whoever saves a life, it will be as if they saved all of humanity. ˹Although˺ Our messengers already came to them with clear proofs, many of them still transgressed afterwards through the land.
+
+This verse is often quoted by Muslims doing taqiyya to say that Islam is peaceful. But as you can see, it is a command directed to the people of Israel, not Muslims. 
+
+It is a quotation from the Talmud. So the Quran is actually saying that the commentary by a rabbi in the Talmud is "revelation from Allah."
+
+Also notice that this command has the stipulation "unless as a punishment for murder or mischief in the land", meaning that Jews had the right of capital punishment for those spreading mischief in the land. But in other cases, killing one person would be like killing all of humanity.
+
+And what "land" is it talking about? Well, the land of the Jews, Israel, or Palestine as it was later renamed. 
+
+*So according to the Quran, the Jews has the right to execute capital punishment on those spreading mischief in the land of Israel.*
+
+But wait, it gets better. The next verse is what applies to Muslims:
+
+[Surah 5:33](https://quran.com/5/33)
+
+> Indeed, the penalty **for those who wage war against Allah and His Messenger** and spread mischief in the land is **death, crucifixion, cutting off their hands and feet on opposite sides, or exile from the land.** This ˹penalty˺ is a disgrace for them in this world, and they will suffer a tremendous **punishment in the Hereafter.**
+
+This is directed to Muslims, how to deal with those who "who wage war against Allah and His Messenger and spread mischief in the land". The Muslims are to kill, crucify, dismember and exile people. And after they die, Allah sends them to hell."
+
 ### Fighting is the second best deed in Islam
 
 [Sahih al-Bukhari 26](https://sunnah.com/bukhari:26)
