@@ -1,4 +1,3 @@
- 
 {% comment %}
 Display table of contents for child pages of the current page
 {% endcomment %}
@@ -47,11 +46,14 @@ Display table of contents for child pages of the current page
   {% endif %}
 {% endfor %}
 
-{% if children.size > 0 %}
+{% comment %}Sort children by nav_order{% endcomment %}
+{% assign sorted_children = children | sort: "nav_order" %}
+
+{% if sorted_children.size > 0 %}
 
 <nav class="child-pages-toc">
 
-{%   for child in children %}
+{%   for child in sorted_children %}
 {%     if child.headers.size > 0 %}
 
   <details open>
@@ -100,10 +102,10 @@ Display table of contents for child pages of the current page
 <p class="listitem"><a href="{{ child.url }}">{{ child.title }}</a></p>
 
 {%     endif %}
+<br>
 {%   endfor %}
    
 
 </nav>
 
 {% endif %}
-

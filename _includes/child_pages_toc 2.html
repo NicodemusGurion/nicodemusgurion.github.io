@@ -25,6 +25,7 @@ Display table of contents for child pages of the current page
   {% if item_tocpath == "/" %}
     {% assign normalized_item = "/" %}
   {% else %}
+  {% assign compare_normalized_item = item_tocpath | remove_first: "/" %}
     {% assign normalized_item = item_tocpath | remove_first: "/" | remove: "/" %}
   {% endif %}
   
@@ -35,7 +36,8 @@ Display table of contents for child pages of the current page
       {% assign children = children | push: item %}
     {% endif %}
   {% else %}
-    {% if normalized_item contains normalized_current %}
+  {% assign compare_normalized_current = normalized_current | append: "/" %}
+    {% if compare_normalized_item contains compare_normalized_current %}
       {% assign item_remainder = normalized_item | remove_first: normalized_current | remove_first: "/" %}
       {% assign remainder_segments = item_remainder | split: "/" %}
       {% if remainder_segments.size == 1 and item_remainder != "" %}
@@ -98,6 +100,7 @@ Display table of contents for child pages of the current page
 <p class="listitem"><a href="{{ child.url }}">{{ child.title }}</a></p>
 
 {%     endif %}
+<br>
 {%   endfor %}
    
 
