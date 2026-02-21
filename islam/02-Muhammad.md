@@ -949,7 +949,7 @@ See also [Islamic morals - Rape](/islam/morals#rape).
 
 > The Prophet used to go round (have sexual relations with) all his wives in one night, and he had nine wives.
 
-## Muhammad was gay (#gay)
+## Muhammad was gay {#gay}
 
 ### Muhammad was "ridden" by tall black Pakistani men all night long {#al-zutt}
 

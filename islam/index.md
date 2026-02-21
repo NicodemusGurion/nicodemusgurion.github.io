@@ -8,6 +8,12 @@ permalink: /islam/
 nav_order: 1
 ---
 
+** Quick links to featured Hadiths **
+
+- [Muhammad was a pedophile](/islam/muhammad#pedophile)
+  - [Islam promotes pedophilia](/islam/morals#pedophilia)
+- [Muhammad was gay](/islam/muhammad#gay)
+- [Fighting unbelievers](/islam/morals#jihad)
 
 {% include child_pages_toc.html %}
 
