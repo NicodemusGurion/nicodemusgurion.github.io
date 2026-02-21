@@ -50,6 +50,10 @@ details[open] > summary::after {
 }
 
 
+.child-pages-toc summary {
+  font-size: 1.2em;  
+}
+
 .searchResults 
 {
   display:none;
