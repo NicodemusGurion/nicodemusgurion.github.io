@@ -1,32 +1,6 @@
 {
   "pages": [
     {
-      "url": "/islam/featured",
-      "tocpath": null,
-      "title": "Featured verses",
-      "headers": [
-        {
-          "level": 1,
-          "text": "Mohammed was a pedophile who married a 6 year old girl and \"consummated\" the marriage when she was 9 years old",
-          "anchor": "pedophile"
-        },
-        {
-          "level": 2,
-          "text": "Muhammad was flabbergasted that other men were not pedophiles",
-          "anchor": "muhammad-was-flabbergasted-that-other-men-were-not-pedophiles"
-        },
-        {
-          "level": 1,
-          "text": "Quran and Hadith verses promoting violence",
-          "anchor": "quran-and-hadith-verses-promoting-violence"
-        }
-      ],
-      "file": "islam/00-featured.md",
-      "include_in_menu": true,
-      "exclude_children": false,
-      "nav_order": 0
-    },
-    {
       "url": "/quran/topics",
       "tocpath": null,
       "title": "Tafsir al-Jak topics index",
@@ -1299,38 +1273,18 @@
         },
         {
           "level": 2,
-          "text": "Jesus is free of sin",
-          "anchor": "jesus-is-free-of-sin"
-        },
-        {
-          "level": 2,
           "text": "Jesus was not crucified",
           "anchor": "jesus-was-not-crucified"
         },
         {
           "level": 2,
-          "text": "Jesus is Lord along with Allah",
-          "anchor": "jesus-is-lord-along-with-allah"
+          "text": "Jesus is free of sin",
+          "anchor": "jesus-is-free-of-sin"
         },
         {
           "level": 2,
-          "text": "The First and the Last",
-          "anchor": "the-first-and-the-last"
-        },
-        {
-          "level": 2,
-          "text": "King of kings",
-          "anchor": "king-of-kings"
-        },
-        {
-          "level": 2,
-          "text": "King of the Kingdom of Heaven and Earth",
-          "anchor": "king-of-the-kingdom-of-heaven-and-earth"
-        },
-        {
-          "level": 2,
-          "text": "Will judge mankind",
-          "anchor": "will-judge-mankind"
+          "text": "Jesus is reddish-white",
+          "anchor": "jesus-is-reddish-white"
         },
         {
           "level": 2,
@@ -1339,13 +1293,48 @@
         },
         {
           "level": 2,
+          "text": "Jesus is Lord along with Allah",
+          "anchor": "jesus-is-lord-along-with-allah"
+        },
+        {
+          "level": 2,
+          "text": "Jesus is God",
+          "anchor": "jesus-is-god"
+        },
+        {
+          "level": 3,
+          "text": "The First and the Last",
+          "anchor": "the-first-and-the-last"
+        },
+        {
+          "level": 3,
+          "text": "King of kings",
+          "anchor": "king-of-kings"
+        },
+        {
+          "level": 3,
+          "text": "King of the Kingdom of Heaven and Earth",
+          "anchor": "king-of-the-kingdom-of-heaven-and-earth"
+        },
+        {
+          "level": 3,
+          "text": "Will judge mankind",
+          "anchor": "will-judge-mankind"
+        },
+        {
+          "level": 3,
           "text": "Jesus is the Word of Allah and a spirit from him",
           "anchor": "jesus-is-the-word-of-allah-and-a-spirit-from-him"
         },
         {
-          "level": 2,
+          "level": 3,
           "text": "Jesus has the divine powers of Allah",
           "anchor": "jesus-has-the-divine-powers-of-allah"
+        },
+        {
+          "level": 3,
+          "text": "Jesus creates life",
+          "anchor": "jesus-creates-life"
         },
         {
           "level": 1,
