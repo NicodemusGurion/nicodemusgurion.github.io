@@ -11,8 +11,6 @@ nav_order: 5
 
 Islamic theology based on the Quran and Hadiths is full of errors and contradictions.
 
-
-
 # Errors 
 
 Historical and factual errors 
@@ -27,11 +25,25 @@ This is false. No Jews have ever claimed that Ezra is the son of God. Is it Alla
 
 ## The Quran gets the trinity wrong {#trinity}
 
+As would be expected if written by an ignorant illiterate Arab, the Quran gets the trinity doctrine wrong. If it was really from God, then it wouldn't get it wrong.
+
+**Note:** It doesn't matter whether the trinity doctrine is true or not, what matters is that even if it is false, Allah **should** be able to at least express what it actually teaches. Even humans who don't believe in it can express what the doctrine teaches, so why is Allah unable to do what humans can do?
+
+### Tritheism
+
 [Surah 5:73](https://quran.com/5/73)
 
 > They do blaspheme who say: Allah is one of three in a Trinity: for there is no god except One Allah.
 
-This is an obvious reference to the trinity doctrine. However the trinity doctrine doesn't say that God or Allah is "one of three". That would be tritheism. It says that God is one in essence and three in persons. The Quran is wrong. 
+This is an obvious reference to the trinity doctrine. However the trinity doctrine doesn't say that Allah is "one of three". That would be tritheism, or maybe partialism. It says that God is one in essence and three in persons. The Quran is wrong about what the trinity doctrine teaches.
+
+### Father, Son, and Mother? {#worshipping-mary}
+
+[Surah 5:116](https://quran.com/5/116)
+
+> And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?”...
+
+The Quran describes the trinity doctrine as Allah, Jesus, and Mary being three distinct gods. First of all it doesn't teach three distinct gods. Secondly, Mary has absolutely nothing to do with the trinity doctrine, nor has any Christians ever worshipped her as a deity.
 
 ## The Quran confuses the Holy Spirit with the Angel Gabriel 
 
@@ -41,17 +53,9 @@ When Mary is visited by Gabriel:
 
 > And had chosen seclusion from them. Then We sent unto her **Our Spirit** and it assumed for her the likeness of a perfect man.
 
-The spirit of Allah, i.e. the Holy Spirit comes in the shape of a man (see Ezekiel 8) to Mary. But it was the Angel Gabriel who came to Mary.
+The angel Gabriel came to Mary to announce her election as the mother of Jesus, but it was the Holy Spirit who made her conceive. The Quran conflates these and says that the Angel Gabriel is the Holy Spirit.
 
-## Christians worship Mary {#worshipping-mary}
-
-[Surah 5:116](https://quran.com/5/116)
-
-> And ˹on Judgment Day˺ Allah will say, “O Jesus, son of Mary! Did you ever ask the people to worship you and your mother as gods besides Allah?”...
-
-Christians don't worship Mary. But Allah doesn't know this.
-
-## Mary the mother of Jesus is the brother of Aaron {#who-is-mary}
+## Mary the mother of Jesus is the brother of Aaron {#mary-mariam}
 
 [Surah 19:27-28](https://quran.com/19/27-28)
 
@@ -63,16 +67,14 @@ Christians don't worship Mary. But Allah doesn't know this.
 
 See also [Surah 3:35-36](https://quran.com/3/35-36).
 
-- Mary the mother of Jesus lived Judaea/Galilee. 
-- Mariam the sister of Aaron and daughter of Imran (Amram) lived in Egypt/Sinai.
-- Mary lived ca 1st century B.C./A.D.
-- Mariam lived ca 1400-1500 B.C. one and a half millenium earlier.
-- Mary was of the tribe of Judah.
-- Mariam was of the tribe of Levi.
-- Mary's father was probably named Joachim.
-- Mariam father was named Amram.
+| Mary | Mariam |
+| --- | --- |
+| Mary the mother of Jesus lived Judaea/Galilee. | Mariam the sister of Aaron and daughter of Imran (Amram) lived in Egypt/Sinai. |
+| Mary lived ca 1st century B.C./A.D. | Mariam lived ca 1400-1500 B.C. one and a half millenium earlier. |
+| Mary was of the tribe of Judah. | Mariam was of the tribe of Levi. |
+| Mary's father was probably named Joachim. | Mariam father was named Amram. |
 
-These are two totally different people, and the author of the Quran is so ignorant that he mixes them up and thinks they're the same people. 
+These are two totally different people, and the author of the Quran is so ignorant that he mixes them up and thinks they're the same people. It shows that the Quran was not written by Allah.
 
 ## Pharao ordered Haman to build the Tower of Babel {#pharao-haman-tower}
 
@@ -93,7 +95,7 @@ Crucifixion was never used by ancient Egypt, and did not become a common form of
 See also:
 
 - [Surah 20:71](https://quran.com/20/71)
-- [Surah 25:49](https://quran.com/25/49)
+- [Surah 26:49](https://quran.com/26/49)
 
 ## The Israelites were misled by a Samaritan {#misled-by-samaritan}
 
@@ -216,6 +218,41 @@ See [The Clear Quran dilemma](/islamic-dilemma/#clear-quran)
 
 > Surely Allah does **not** forgive associating ˹others˺ with Him ˹in worship˺,
 
+### Allah can / can not forgive worshipping other gods
+
+[Surah 4:48](https://quran.com/4/48)
+
+> Surely, Allah does not forgive that a partner is ascribed to Him, and He forgives anything short of that for whomsoever He wills. Whoever ascribes a partner to Allah commits a terrible sin.
+
+[Surah 4:153](https://quran.com/4/153)
+
+> ...Even after clear revelations had come down to them, they took the calf as an object of worship, yet We pardoned this, and gave Moses clear authority;
+
+Allah can not forgive worshipping other gods than him, but when the Israelites did this, he forgave them.
+
+### Idolaters will be resurrected blind yet still be able to see
+
+[Surah 20:114](https://quran.com/20/124)
+
+> As for the one who turns away from My message, he shall have a straitened life, and We shall raise him blind on the Day of Judgment.”
+
+[Surah 16:86](https://quran.com/16/86)
+
+> And when those who associated others with Allāh see their "partners," they will say, "Our Lord, these are our partners [to You] whom we used to invoke [in worship] besides You.
+
+So those who worship other gods than Allah will be resurrected blind, but somehow they will still be able to see the deities that they worshiped?
+
+### It's both possible and impossible to deal justly with wives
+
+[Surah 4:3](https://quran.com/4/3)
+
+> And if you fear that you shall not be able to deal justly with the orphan-girls then marry (other) women of your choice, two or three, or four; but **if you fear that you shall not be able to deal justly (with them),** then only one or (the slaves) that your right hands possess. That is nearer to prevent you from doing injustice.
+
+[Surah 4:129](https://quran.com/4/129)
+
+> You will never be able to do perfect justice between wives even if it is your ardent desire
+
+So one verse instructs Muslims how to do to deal justly with multiple wives and the other verse says that it is impossible to deal justly with multiple wives.
 
 ### Jesus is the Word of Allah, but not Allah
 

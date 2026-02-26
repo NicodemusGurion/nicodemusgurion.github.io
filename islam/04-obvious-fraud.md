@@ -8,10 +8,10 @@ nav_order: 4
 ---
 
 
-As most liars and cult leaders, Muhammad could not keep his lies straight, and many of the things he said made it obvious that he was defrauding people. Here are some examples.
+As most liars and cult leaders, Muhammad could not keep his lies straight, and many of the things he said made it obvious that he was just using Allah as an excuse to defraud people and get personal benefits. Here are some examples.
 
 
-# Allah pampers Muhammad {#allah-serves-muhammad}
+# Allah serves Muhammad {#allah-serves-muhammad}
 
 [Sahih al Bukhari 4788](https://sunnah.com/bukhari:4788)
 
@@ -20,7 +20,7 @@ As most liars and cult leaders, Muhammad could not keep his lies straight, and m
 Even Aisha noticed that the "revelations" that Muhammad got from Allah were suspiciously self-serving. Any time Muhammad had any wish, Allah came with a convenient revelation permitting him to go ahead. Why would the creator of the universe put in so much effort to make sure one man had every wish fulfilled? It's almost like Muhammad only used Allah as a puppet to convince people to fulfill his desires.
 
 
-## Islam is all about loving Muhammad
+## Islam is all about loving Muhammad {#loving-muhammad}
 
 [Sahih al-Bukhari 14](https://sunnah.com/bukhari:14)
 
@@ -54,9 +54,9 @@ Horndog that he was, Muhammad [was not satisfied with 11 wives](#eleven-wives) b
 
 See: [The time Muhammad stole his son's wife](/The-time-Muhammad-stole-his-sons-wife)
 
-# Allah follows Muhammad's will
+# Allah obeys Muhammad's will {#allah-obeys-muhamnad}
 
-## Allah allows Muhammad to attack his enemies
+## Allah allows Muhammad to attack his enemies {#attack-enemies}
 
 [Sunan an-Nasa’i 3085](https://sunnah.com/nasai:3085)
 
@@ -65,7 +65,7 @@ See: [The time Muhammad stole his son's wife](/The-time-Muhammad-stole-his-sons-
 
 When Muhammad and his tiny band of followers were kicked out of Mecca for being a nuisance, Muhammad suddenly had a convenient revelation ([Surah 23:39](https://quran.com/23/39)) where Allah gave him permission to convert his cult into the death machine that has plagued mankind since.
 
-## Allah changed the Qiblah for Muhammad 
+## Allah changed the Qiblah for Muhammad {#qiblah}
 
 [Allah changed the direction all Muslims must pray just because Muhammad wanted it.](#jerusalem-qiblah)
 
@@ -76,9 +76,11 @@ When Muhammad and his tiny band of followers were kicked out of Mecca for being 
 Allah surely did everything to please Muhammad's most frivolous whims, even changing one of the most fundamental rituals of Islam.
 
 
-# Allah protects Muhammad 
+# Allah helps Muhammad to sin {#sins}
 
-## Allah gets Muhammads wives off his back for cheating
+Allah steps in to defend and promote Muhammad's sins.
+
+## Allah gets Muhammads wives off his back for cheating {#adultery}
 
 [Sunan an-Nasa'i 3959](https://sunnah.com/nasai:3959)
 
@@ -90,7 +92,7 @@ The verse revealed was [Surah 66:1-6](https://quran.com/66/1-6). [Tafsir al-Jala
 
 Muhammad was raping with his sex slave Maria the Copt in the house of his wife Hansa, and quite understandably his wives complained. But then Allah conveniently revealed [Surah 66:1-6,](https://quran.com/66/1-6,) that Muhammad can do that if he wishes, and if his wives complain, he should divorce them and they can literally go to hell. 
 
-## Allah defends Muhammad against accusations of theft
+## Allah defends Muhammad against accusations of theft {#theft}
 
 [Sunan Abi Dawud 3971](https://sunnah.com/abudawud:3971)
 
@@ -110,9 +112,11 @@ So essentially "Allah" says "No, Muhammad is innocent. Trust me bro." But the sa
 
 
 
-# Allah protects Muhammad from minor nuisances 
+# Allah obsesses over minor annoyances {#annoyances}
 
-## Dinner instructions 
+The creator of the universe is oddly obsessed with minor annoyances that bother Muhammad.
+
+## Dinner instructions {#shy}
 
 [Surah 33:53](https://quran.com/33/53)
 
@@ -120,7 +124,7 @@ So essentially "Allah" says "No, Muhammad is innocent. Trust me bro." But the sa
 
 Apparently Allah is even concerned about Muhammad not having to suffer the awkwardness of dismissing his dinner guests. This is obviously made up by Muhammad because he felt it too awkward to do, so he uses Allah as his puppet to order people around. 
 
-## Don't slap your tongue {#slap-tongue}
+## Don't slap your tongue {#smacking}
 
 [Jami` at-Tirmidhi 2853](https://sunnah.com/tirmidhi:2853)
 
@@ -128,7 +132,7 @@ Apparently Allah is even concerned about Muhammad not having to suffer the awkwa
 
 Why would the creator of the universe be concerned with how someone moves their tongue? This is obviously Muhammad being annoyed and using Allah as an excuse to have people stop smacking their tongues while eating.
 
-## Don't talk nonsense with Muhammad 
+## Don't talk nonsense with Muhammad {#yapping}
 
 Surah 2: 104
 

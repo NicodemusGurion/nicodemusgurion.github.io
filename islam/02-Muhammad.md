@@ -117,6 +117,14 @@ Deuteronomy 22:5 says “A woman shall not wear a man’s garment, nor shall a m
 
 So here Muhammad is wearing the clothes of Aisha, and even entertaining guests, namely Abu Bakr and Umar. However when Uthman shows up, Muhammad quickly takes off Aishas clothes, and the reason is that Uthman was considered a "modest man" and Muhammad didn't wish to offend him. So Muhammad knew that him wearing these clothes was something offensive and shameful. But as long as he is with his buddies who don't really care about his various perversions, it's all ok.
 
+## Muhammad was a metrosexual {#metrosexual}
+
+[Sahih al-Bukhari 5891](https://sunnah.com/bukhari:5891)
+
+> I heard the Prophet saying. "Five practices are characteristics of the Fitra: circumcision, shaving the pubic hair, cutting the moustaches short, clipping the nails, and depilating the hair of the armpits."
+
+The metrosexual Muhammad shaved his public hair and armpit hair. This is also a command for all Muslim men.
+
 
 # His character {#character}
 
