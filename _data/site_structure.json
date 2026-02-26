@@ -824,8 +824,8 @@
         },
         {
           "level": 2,
-          "text": "Muhammad was gay (#gay)",
-          "anchor": "muhammad-was-gay-gay"
+          "text": "Muhammad was gay",
+          "anchor": "gay"
         },
         {
           "level": 3,
@@ -2833,7 +2833,7 @@
     {
       "url": "/islam/morals",
       "tocpath": null,
-      "title": "Islam's morality",
+      "title": "Islamic morals",
       "headers": [
         {
           "level": 1,
@@ -2991,8 +2991,8 @@
           "anchor": "tongue-kiss"
         },
         {
-          "level": 1,
-          "text": "Adult Muslim men should suckle the breasts if adult Muslim women",
+          "level": 2,
+          "text": "Adult Muslim men should suckle the breasts of adult Muslim women",
           "anchor": "adult-suckling"
         },
         {
@@ -3072,8 +3072,8 @@
         },
         {
           "level": 2,
-          "text": "Standing orders to fight the world",
-          "anchor": "standing-orders-to-fight-the-world"
+          "text": "Jihad against unbelievers",
+          "anchor": "jihad"
         },
         {
           "level": 3,
@@ -3186,7 +3186,7 @@
           "anchor": "muslims-can-indiscriminately-kill-innocent-civilians"
         }
       ],
-      "file": "islam/10-morality.md",
+      "file": "islam/10-morals.md",
       "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 10
