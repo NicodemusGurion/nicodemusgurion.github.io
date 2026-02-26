@@ -433,6 +433,11 @@
           "anchor": "drag-queen"
         },
         {
+          "level": 2,
+          "text": "Muhammad was a metrosexual",
+          "anchor": "metrosexual"
+        },
+        {
           "level": 1,
           "text": "His character",
           "anchor": "character"
@@ -1452,13 +1457,13 @@
       "headers": [
         {
           "level": 1,
-          "text": "Allah pampers Muhammad",
+          "text": "Allah serves Muhammad",
           "anchor": "allah-serves-muhammad"
         },
         {
           "level": 2,
           "text": "Islam is all about loving Muhammad",
-          "anchor": "islam-is-all-about-loving-muhammad"
+          "anchor": "loving-muhammad"
         },
         {
           "level": 2,
@@ -1477,53 +1482,53 @@
         },
         {
           "level": 1,
-          "text": "Allah follows Muhammad's will",
-          "anchor": "allah-follows-muhammads-will"
+          "text": "Allah obeys Muhammad's will",
+          "anchor": "allah-obeys-muhamnad"
         },
         {
           "level": 2,
           "text": "Allah allows Muhammad to attack his enemies",
-          "anchor": "allah-allows-muhammad-to-attack-his-enemies"
+          "anchor": "attack-enemies"
         },
         {
           "level": 2,
           "text": "Allah changed the Qiblah for Muhammad",
-          "anchor": "allah-changed-the-qiblah-for-muhammad"
+          "anchor": "qiblah"
         },
         {
           "level": 1,
-          "text": "Allah protects Muhammad",
-          "anchor": "allah-protects-muhammad"
+          "text": "Allah helps Muhammad to sin",
+          "anchor": "sins"
         },
         {
           "level": 2,
           "text": "Allah gets Muhammads wives off his back for cheating",
-          "anchor": "allah-gets-muhammads-wives-off-his-back-for-cheating"
+          "anchor": "adultery"
         },
         {
           "level": 2,
           "text": "Allah defends Muhammad against accusations of theft",
-          "anchor": "allah-defends-muhammad-against-accusations-of-theft"
+          "anchor": "theft"
         },
         {
           "level": 1,
-          "text": "Allah protects Muhammad from minor nuisances",
-          "anchor": "allah-protects-muhammad-from-minor-nuisances"
+          "text": "Allah obsesses over minor annoyances",
+          "anchor": "annoyances"
         },
         {
           "level": 2,
           "text": "Dinner instructions",
-          "anchor": "dinner-instructions"
+          "anchor": "shy"
         },
         {
           "level": 2,
           "text": "Don't slap your tongue",
-          "anchor": "slap-tongue"
+          "anchor": "smacking"
         },
         {
           "level": 2,
           "text": "Don't talk nonsense with Muhammad",
-          "anchor": "dont-talk-nonsense-with-muhammad"
+          "anchor": "yapping"
         }
       ],
       "file": "islam/04-obvious-fraud.md",
@@ -1564,19 +1569,24 @@
           "anchor": "trinity"
         },
         {
+          "level": 3,
+          "text": "Tritheism",
+          "anchor": "tritheism"
+        },
+        {
+          "level": 3,
+          "text": "Father, Son, and Mother?",
+          "anchor": "worshipping-mary"
+        },
+        {
           "level": 2,
           "text": "The Quran confuses the Holy Spirit with the Angel Gabriel",
           "anchor": "the-quran-confuses-the-holy-spirit-with-the-angel-gabriel"
         },
         {
           "level": 2,
-          "text": "Christians worship Mary",
-          "anchor": "worshipping-mary"
-        },
-        {
-          "level": 2,
           "text": "Mary the mother of Jesus is the brother of Aaron",
-          "anchor": "who-is-mary"
+          "anchor": "mary-mariam"
         },
         {
           "level": 2,
@@ -1662,6 +1672,21 @@
           "level": 3,
           "text": "Allah forgives all sins / does not forgive all sins",
           "anchor": "allah-forgives-all-sins-does-not-forgive-all-sins"
+        },
+        {
+          "level": 3,
+          "text": "Allah can / can not forgive worshipping other gods",
+          "anchor": "allah-can-can-not-forgive-worshipping-other-gods"
+        },
+        {
+          "level": 3,
+          "text": "Idolaters will be resurrected blind yet still be able to see",
+          "anchor": "idolaters-will-be-resurrected-blind-yet-still-be-able-to-see"
+        },
+        {
+          "level": 3,
+          "text": "It's both possible and impossible to deal justly with wives",
+          "anchor": "its-both-possible-and-impossible-to-deal-justly-with-wives"
         },
         {
           "level": 3,
