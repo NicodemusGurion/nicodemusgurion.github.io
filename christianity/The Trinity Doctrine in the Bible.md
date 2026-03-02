@@ -9,8 +9,6 @@ toc: true
 menu: true
 ---
 The Trinity Doctrine is probably the most misunderstood and attacked Christian doctrine though it is firmly rooted in the Bible and is really nothing but a summary of what the Bible teaches about the nature of God. This article explains key concepts and presents an extensive list of scriptures along with explanations that prove or support the trinity doctrine.
- 
-(This list will be continually expanded.)
 
 
 [ ![](/public/img/Trinity-Shield-With-Legend.png) ](/public/img/Trinity-Shield-With-Legend-big.png)
@@ -24,7 +22,7 @@ Here is a list of scriptures that harmonize with or prove the trinity doctrine, 
 
 > In the beginning, God created the heavens and the earth. 2 The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters. 3 And God said, “Let there be light,” and there was light.
 
-The cery first sentences in the Bible are ripe with trinity concepts. It says **God created the heavens and the earth**, that is, everything that exists. Later in [John 1:3](#john-1-3), [Colossians 1:15](#colossians-1-15) and [Hebrews 1:3](#hebrews-1-3) it shows that Jesus created everything that exists. 
+The very first sentences in the Bible are ripe with trinity concepts. It says **God created the heavens and the earth**, that is, everything that exists. Later in [John 1:3](#john-1-3), [Colossians 1:15](#colossians-1-15) and [Hebrews 1:3](#hebrews-1-3) it shows that Jesus created everything that exists. 
 
 In this passage the **Spirit of God was hovering over the face of the waters** presenting it as a separate agent with a location, meaning it must somehow be corporeal[^corporeal]. This is mirrored in the Gospel account of Jesus' baptism, where the Holy Spirit comes down from heaven in physical form as a dove, hovering over the waters, signalling the new creation. ([Matthew 3:16](#matthew-3-16); [Mark 1:10](#mark-1-10); [Luke 3:2](#luke-3-2); [John 1:32](#john-1-32))This is the Third Person of God going forth to prepare this shapeless wilderness for being shaped.
 
