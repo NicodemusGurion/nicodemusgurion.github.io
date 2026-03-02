@@ -11,7 +11,7 @@ menu: true
 The Trinity Doctrine is probably the most misunderstood and attacked Christian doctrine though it is firmly rooted in the Bible and is really nothing but a summary of what the Bible teaches about the nature of God. This article explains key concepts and presents an extensive list of scriptures along with explanations that prove or support the trinity doctrine.
 
 
-[ ![](/public/img/Trinity-Shield-With-Legend.png) ](/public/img/Trinity-Shield-With-Legend-big.png)
+[ ![](https://i.ibb.co/s9CJC47B/Trinity-Shield-With-Legend.png) ](https://i.ibb.co/wh7r7qtv/Trinity-Shield-With-Legend.png)
 
 
 Here is a list of scriptures that harmonize with or prove the trinity doctrine, along with explanations as to what part of the doctrine they touch on.
