@@ -48,7 +48,7 @@ This proves and illustrates the plurality of God.
 
 **"God was talking to the angels"**
 
-The angels have no part in the creation process. The only one who has part in the creation, the only creator, is God himself. So saying "Let us create" to someone who has no ability to create anything would be pointless and taunting.
+The angels have no part in the creation process. The only one who has part in the creation, the only creator, is God himself. So saying "Let us create" to someone who lacks the ability to create anything would be pointless.
 
 ## Genesis 2: 23-24 
 
