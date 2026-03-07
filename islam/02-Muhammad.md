@@ -662,6 +662,13 @@ See also:
 
 It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and that [Muhammad didn't practice what he taught](#no-urinating-standing) and [other Hadiths also contradict.](#muhammad-urinated-standing)
 
+## Sometimes he did not wash his hands after urinating
+
+[Sunan Abi Dawud 42](https://sunnah.com/abudawud:42)
+
+
+> The Prophet urinated and Umar was standing behind him with a jug of water. He said: What is this, Umar? He replied: Water for you to perform ablution with. He said: I have not been commanded to perform ablution every time I urinate. If I were to do so, it would become a sunnah.
+
 ## He urinated weirdly 
 
 [Sunan Ibn Majah 341](https://sunnah.com/ibnmajah:341)
