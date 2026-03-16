@@ -259,9 +259,18 @@ Men will be given the strength of 100 men in sexual performance. (Tirmidhi, 2536
 
 ### 72 virgins
 
-“A martyr will have 72 virgins.” (Tirmidhi, 1663)
+[Jami` at-Tirmidhi 1663](https://sunnah.com/tirmidhi:1663)
 
-“The lowest rank of a person in paradise will have 80,000 servants and 72 wives.” (Ibn Majah, 4337)
+> the Messenger of Allah said: "There are six things with Allah for the martyr. He is forgiven with the first flow of blood (he suffers), he is shown his place in Paradise, he is protected from punishment in the grave, secured from the greatest terror, the crown of dignity is placed upon his head - and its gems are better than the world and what is in it - he is married to seventy two wives along Al-Huril-'Ayn of Paradise, and he may intercede for seventy of his close relatives."
+
+[Sunan Ibn Majah 4337](https://sunnah.com/ibnmajah:4337)
+
+> There is no one whom Allah will admit to Paradise but Allah will marry him to seventy-two wives, two from houris and seventy from his inheritance from the people of Hell, all of whom will have desirable vagina and he will have a penis that never becomes flaccid (i.e., soft and limp).’” (Hishām ibn Khālid said: ‘From their inheritance from the people of the Fire — meaning men who entered the Fire — the people of Paradise inherited their women, just as the wife of Pharaoh was inherited.’)
+
+So of the 72 virgins, 2 will be [houris](#houris), and the rest will be women whose men went to hell. (That's a lot of men who went to hell.)
+
+Also the Muslims will have eternally erect penises. 
+
 
 [Mishkat al-Masabih 5648](https://sunnah.com/mishkat:5648)
 
