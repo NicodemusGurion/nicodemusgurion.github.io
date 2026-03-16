@@ -263,7 +263,7 @@ Men will be given the strength of 100 men in sexual performance. (Tirmidhi, 2536
 
 “The lowest rank of a person in paradise will have 80,000 servants and 72 wives.” (Ibn Majah, 4337)
 
-[Mishkat al-Masabih 5648](https://sunnah.com/mishkat:
+[Mishkat al-Masabih 5648](https://sunnah.com/mishkat:5648)
 
 > Abu Sa'id reported God's messenger as saying, "The lowliest of the inhabitants of paradise will be he who has eighty thousand servants, seventy-two wives,...
 
