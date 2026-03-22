@@ -237,25 +237,32 @@ The Arabic term kawa‘ib in 78:33 literally means “firm, swelling breasts.”
 > ...their wives will be large-eyed maidens...
 
 
-Big, lustrous eyes:“They will have maidens with intensely white skin and large black eyes, as if they were hidden pearls.” (Quran 52:20)
+[Surah 52:20](https://quran.com/52/20)
+
+> And We will marry them with big-eyed houris.
+
 
 ### Houris are hairless 
 
-Glowing, hairless, smooth skin:“If one of the women of paradise were to appear to the people of the earth, she would fill the space between heaven and earth with light and fragrance.” (Tirmidhi, 2538)
 
-“They will be hairless except for their eyebrows and eyelashes.” (Tirmidhi, 2536)
+[Mishkat al-Masabih 5639](https://sunnah.com/mishkat:5639)
 
-### Houris don’t need to poop, pee, or sweat, they exist for one purpose: eternal male pleasure.
+> Mu'adh b. Jabal reported the Prophet as saying, "The inhabitants of paradise will enter paradise hairless, beardless with their eyes anointed with collyrium, aged thirty or thirty-three years."
 
-“They will neither urinate, defecate, nor suffer from phlegm or mucus. Their sweat will be musk.” (Muslim, 2834)
+### Houris shine bright and smells good
+
+[Jami` at-Tirmidhi 1651](https://sunnah.com/tirmidhi:1651)
+
+> if a woman among the women inhabiting Paradise were to appear to the people of the earth, then she would illuminate what is between the ( the heavens and the earth), and a pleasant scent would fill up what is between them, and the scarf on her head is better than the world and what is in it.
+
 
 ### Endless sex 
 
-The Prophet was asked, “O Messenger of Allah, do we have sexual intercourse in Paradise?” He replied: “Yes, by the One in Whose Hand is my soul, a man will have sexual intercourse with a hundred virgins in one morning.” (Ibn Majah, 4337)
+[Jami` at-Tirmidhi 2536](https://sunnah.com/tirmidhi:2536)
 
-Men will be given the strength of 100 men in sexual performance. (Tirmidhi, 2536)
 
-“The believer will be given such and such strength in paradise for intercourse… A single intercourse with one of the virgins of paradise will last seventy thousand years.” (Al-Suyuti, Al-Haba’ik fi Akhbar al-Mala’ik)
+> "The believer shall be given in paradise such and such strength in intercourse ." it was said: "O Messenger of Allah! And will he able to do that?" He said: "He will be given the strength of a hundred."
+
 
 ### 72 virgins
 
