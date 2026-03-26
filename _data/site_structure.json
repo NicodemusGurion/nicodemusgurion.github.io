@@ -6917,6 +6917,18 @@
       "nav_order": 999999
     },
     {
+      "url": "/trinity-quiz",
+      "tocpath": null,
+      "title": "Untitled",
+      "headers": [
+
+      ],
+      "file": "trinity-quiz.html",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 999999
+    },
+    {
       "url": "/watchtower",
       "tocpath": "/jw/watchtower/",
       "title": "What does the Watchtower teach about...",
