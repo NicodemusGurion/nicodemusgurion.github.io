@@ -1,0 +1,630 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Trinity — Understanding Check</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+–gold: #c9a84c;
+–gold-light: #e8c97a;
+–cream: #f5f0e8;
+–parchment: #ede4d0;
+–ink: #1a1410;
+–ink-soft: #3d2f1e;
+–red-wrong: #8b1a1a;
+–green-right: #1a4a2e;
+–shadow: rgba(26,20,16,0.35);
+}
+
+body {
+background-color: #0f0b08;
+background-image:
+radial-gradient(ellipse at 20% 20%, rgba(80,50,10,0.3) 0%, transparent 60%),
+radial-gradient(ellipse at 80% 80%, rgba(60,30,5,0.25) 0%, transparent 60%);
+min-height: 100vh;
+display: flex;
+align-items: flex-start;
+justify-content: center;
+padding: 2rem 1rem 4rem;
+font-family: ‘EB Garamond’, Georgia, serif;
+color: var(–ink);
+}
+
+.container {
+width: 100%;
+max-width: 700px;
+}
+
+header {
+text-align: center;
+margin-bottom: 2.5rem;
+animation: fadeDown 0.9s ease both;
+}
+
+.ornament {
+color: var(–gold);
+font-size: 1.5rem;
+letter-spacing: 0.6em;
+margin-bottom: 0.5rem;
+opacity: 0.8;
+}
+
+h1 {
+font-family: ‘Cinzel’, serif;
+font-size: clamp(1.6rem, 5vw, 2.6rem);
+font-weight: 700;
+color: var(–gold-light);
+letter-spacing: 0.06em;
+line-height: 1.2;
+text-shadow: 0 2px 18px rgba(201,168,76,0.4);
+margin-bottom: 0.6rem;
+}
+
+.subtitle {
+color: #a89070;
+font-style: italic;
+font-size: 1.1rem;
+letter-spacing: 0.02em;
+}
+
+.divider {
+display: flex;
+align-items: center;
+gap: 1rem;
+margin: 1.2rem 0 2rem;
+color: var(–gold);
+opacity: 0.5;
+font-size: 1rem;
+letter-spacing: 0.4em;
+}
+.divider::before, .divider::after {
+content: ‘’;
+flex: 1;
+height: 1px;
+background: linear-gradient(to right, transparent, var(–gold), transparent);
+}
+
+/* Progress */
+.progress-bar-wrap {
+background: rgba(255,255,255,0.07);
+border-radius: 100px;
+height: 5px;
+margin-bottom: 2rem;
+overflow: hidden;
+}
+.progress-bar {
+height: 100%;
+background: linear-gradient(90deg, var(–gold), var(–gold-light));
+border-radius: 100px;
+transition: width 0.5s cubic-bezier(0.4,0,0.2,1);
+}
+
+/* Card */
+.card {
+background: var(–parchment);
+background-image:
+url(“data:image/svg+xml,%3Csvg xmlns=‘http://www.w3.org/2000/svg’ width=‘200’ height=‘200’%3E%3Cfilter id=‘n’%3E%3CfeTurbulence type=‘fractalNoise’ baseFrequency=‘0.75’ numOctaves=‘4’ stitchTiles=‘stitch’/%3E%3CfeColorMatrix type=‘saturate’ values=‘0’/%3E%3C/filter%3E%3Crect width=‘200’ height=‘200’ filter=‘url(%23n)’ opacity=‘0.04’/%3E%3C/svg%3E”);
+border-radius: 4px;
+padding: 2.2rem 2.4rem 2rem;
+box-shadow: 0 8px 40px var(–shadow), 0 1px 0 var(–gold) inset;
+border: 1px solid rgba(201,168,76,0.3);
+animation: fadeUp 0.5s ease both;
+position: relative;
+overflow: hidden;
+}
+
+.card::before {
+content: ‘’;
+position: absolute;
+top: 0; left: 0; right: 0;
+height: 3px;
+background: linear-gradient(90deg, transparent, var(–gold), transparent);
+}
+
+.question-num {
+font-family: ‘Cinzel’, serif;
+font-size: 0.72rem;
+letter-spacing: 0.2em;
+color: var(–gold);
+text-transform: uppercase;
+margin-bottom: 0.9rem;
+}
+
+.question-text {
+font-size: 1.22rem;
+line-height: 1.6;
+color: var(–ink);
+margin-bottom: 1.6rem;
+font-weight: 500;
+}
+
+/* Options */
+.options { display: flex; flex-direction: column; gap: 0.7rem; }
+
+.option {
+display: flex;
+align-items: flex-start;
+gap: 0.85rem;
+padding: 0.85rem 1rem;
+border: 1.5px solid rgba(26,20,16,0.2);
+border-radius: 3px;
+cursor: pointer;
+background: rgba(255,255,255,0.45);
+transition: all 0.18s ease;
+font-size: 1.05rem;
+color: var(–ink-soft);
+line-height: 1.45;
+user-select: none;
+}
+
+.option:hover:not(.disabled) {
+background: rgba(201,168,76,0.12);
+border-color: var(–gold);
+color: var(–ink);
+transform: translateX(3px);
+}
+
+.option.selected { border-color: #6a5010; background: rgba(201,168,76,0.18); }
+
+.option.correct {
+background: rgba(26,74,46,0.12);
+border-color: #2d7a4f;
+color: var(–green-right);
+font-weight: 500;
+}
+
+.option.wrong {
+background: rgba(139,26,26,0.09);
+border-color: #a03030;
+color: var(–red-wrong);
+}
+
+.option.disabled { cursor: default; }
+
+.option-letter {
+font-family: ‘Cinzel’, serif;
+font-size: 0.78rem;
+font-weight: 700;
+color: var(–gold);
+min-width: 1.3rem;
+margin-top: 0.15rem;
+flex-shrink: 0;
+}
+
+.option.correct .option-letter { color: #2d7a4f; }
+.option.wrong .option-letter { color: var(–red-wrong); }
+
+/* Feedback */
+.feedback {
+margin-top: 1.5rem;
+padding: 1.2rem 1.3rem;
+border-radius: 3px;
+font-size: 0.98rem;
+line-height: 1.65;
+display: none;
+animation: fadeUp 0.35s ease;
+border-left: 3px solid;
+}
+
+.feedback.show { display: block; }
+.feedback.correct-fb { background: rgba(26,74,46,0.08); border-color: #2d7a4f; color: #1a3d28; }
+.feedback.wrong-fb { background: rgba(139,26,26,0.07); border-color: #a03030; color: #5a1010; }
+
+.feedback-title {
+font-family: ‘Cinzel’, serif;
+font-size: 0.78rem;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+margin-bottom: 0.5rem;
+display: flex;
+align-items: center;
+gap: 0.4rem;
+}
+
+.refs {
+margin-top: 0.75rem;
+padding-top: 0.6rem;
+border-top: 1px solid rgba(0,0,0,0.1);
+font-size: 0.92rem;
+}
+
+.refs strong {
+font-family: ‘Cinzel’, serif;
+font-size: 0.72rem;
+letter-spacing: 0.15em;
+text-transform: uppercase;
+opacity: 0.75;
+}
+
+.ref-verse {
+margin-top: 0.3rem;
+font-style: italic;
+opacity: 0.85;
+}
+
+/* Buttons */
+.btn {
+display: inline-block;
+margin-top: 1.6rem;
+padding: 0.75rem 2rem;
+font-family: ‘Cinzel’, serif;
+font-size: 0.82rem;
+letter-spacing: 0.18em;
+text-transform: uppercase;
+background: linear-gradient(135deg, #b8902a, var(–gold-light));
+color: #1a1000;
+border: none;
+border-radius: 2px;
+cursor: pointer;
+transition: opacity 0.2s, transform 0.15s;
+box-shadow: 0 2px 12px rgba(201,168,76,0.3);
+}
+.btn:hover { opacity: 0.88; transform: translateY(-1px); }
+.btn:active { transform: translateY(0); }
+.btn:disabled { opacity: 0.4; cursor: default; transform: none; }
+
+/* Results */
+.results {
+text-align: center;
+animation: fadeUp 0.5s ease;
+}
+
+.score-ring {
+width: 120px;
+height: 120px;
+margin: 0 auto 1.5rem;
+position: relative;
+}
+
+.score-ring svg { transform: rotate(-90deg); }
+
+.score-ring .ring-bg { fill: none; stroke: rgba(201,168,76,0.15); stroke-width: 8; }
+.score-ring .ring-fg { fill: none; stroke: url(#gold-grad); stroke-width: 8; stroke-linecap: round; transition: stroke-dashoffset 1s cubic-bezier(0.4,0,0.2,1); }
+
+.score-num {
+position: absolute;
+top: 50%; left: 50%;
+transform: translate(-50%,-50%);
+font-family: ‘Cinzel’, serif;
+font-size: 1.9rem;
+font-weight: 700;
+color: var(–gold-light);
+}
+
+.result-title {
+font-family: ‘Cinzel’, serif;
+font-size: 1.4rem;
+color: var(–gold-light);
+margin-bottom: 0.5rem;
+}
+
+.result-desc {
+color: #a89070;
+font-style: italic;
+font-size: 1.05rem;
+max-width: 400px;
+margin: 0 auto 1.5rem;
+line-height: 1.6;
+}
+
+.restart-btn {
+font-family: ‘Cinzel’, serif;
+font-size: 0.8rem;
+letter-spacing: 0.18em;
+text-transform: uppercase;
+background: transparent;
+color: var(–gold);
+border: 1.5px solid var(–gold);
+padding: 0.7rem 1.8rem;
+border-radius: 2px;
+cursor: pointer;
+transition: all 0.2s;
+}
+.restart-btn:hover { background: rgba(201,168,76,0.1); }
+
+@keyframes fadeUp {
+from { opacity: 0; transform: translateY(18px); }
+to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeDown {
+from { opacity: 0; transform: translateY(-14px); }
+to   { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 500px) {
+.card { padding: 1.5rem 1.2rem; }
+}
+</style>
+
+</head>
+<body>
+<div class="container">
+  <header>
+    <div class="ornament">✦ ✦ ✦</div>
+    <h1>The Holy Trinity</h1>
+    <p class="subtitle">A short understanding check</p>
+    <div class="divider">✦</div>
+  </header>
+
+  <div class="progress-bar-wrap">
+    <div class="progress-bar" id="progress" style="width:0%"></div>
+  </div>
+
+  <div id="quiz-area"></div>
+</div>
+
+<script>
+const questions = [
+  {
+    q: "How many Gods does the doctrine of the Trinity affirm?",
+    options: [
+      "Three Gods — Father, Son, and Holy Spirit each being a separate God",
+      "One God existing in three distinct Persons",
+      "One God who appears in different modes or roles at different times",
+      "A divine council of celestial beings led by the Father"
+    ],
+    correct: 1,
+    correctFeedback: "Exactly right. The Trinity teaches one God (monotheism) in three co-equal, co-eternal Persons — not three gods, and not one Person wearing different masks.",
+    wrongFeedback: {
+      0: "This view is called Tritheism — believing in three separate Gods. The Trinity explicitly rejects this; all three Persons share one divine essence (ousia).",
+      2: "This is Modalism (also called Sabellianism or Oneness theology) — the idea that Father, Son, and Spirit are simply different modes of one Person. The Trinity teaches three distinct Persons simultaneously, not sequentially.",
+      3: "This describes a form of polytheism or some LDS-adjacent views. Classical Christian doctrine is strictly monotheistic."
+    },
+    refs: [
+      { verse: "Deuteronomy 6:4", text: "\"Hear, O Israel: The LORD our God, the LORD is one.\" — The foundation of monotheism affirmed throughout the New Testament." },
+      { verse: "Matthew 28:19", text: "\"Baptizing them in the name [singular] of the Father and of the Son and of the Holy Spirit\" — One name, three Persons." },
+      { verse: "2 Corinthians 13:14", text: "The Apostolic blessing names all three Persons as distinct sources of divine grace." }
+    ]
+  },
+  {
+    q: "What does the Trinity teach about the relationship between Jesus (the Son) and God the Father?",
+    options: [
+      "Jesus is the Father — they are the same Person",
+      "Jesus is a created being, subordinate and not fully divine",
+      "Jesus is fully God and fully equal in nature to the Father, yet a distinct Person",
+      "Jesus became divine at his baptism or resurrection"
+    ],
+    correct: 2,
+    correctFeedback: "Correct. The Son is homoousios — of the same substance — with the Father (Nicene Creed, 325 AD). He is not a lesser god, not a creature, and not a different role of the same Person.",
+    wrongFeedback: {
+      0: "Identifying Jesus as the Father is Patripassianism or Modalism. Jesus prays to the Father (John 17), distinguishing them as separate Persons.",
+      1: "This is Arianism, condemned at the Council of Nicaea (325 AD). Scripture describes Jesus as the Creator of all things, leaving no room for him to be a created being.",
+      3: "This is Adoptionism — the belief that Jesus was a human 'adopted' into divine status. But Colossians 1:17 says he existed before all things, and John 1:1 pre-dates creation."
+    },
+    refs: [
+      { verse: "John 1:1", text: "\"In the beginning was the Word, and the Word was with God, and the Word was God.\" — Both distinction and full deity in one verse." },
+      { verse: "John 10:30", text: "\"I and the Father are one\" — Unity of essence." },
+      { verse: "Colossians 2:9", text: "\"In Christ all the fullness of the Deity lives in bodily form.\"" },
+      { verse: "John 17:5", text: "Jesus asks the Father to restore the glory they shared \"before the world began\" — pre-existence and distinction." }
+    ]
+  },
+  {
+    q: "Which of the following best describes the Holy Spirit according to Trinitarian doctrine?",
+    options: [
+      "An impersonal force or divine energy emanating from God",
+      "An angel or high-ranking created spirit",
+      "Simply another name for the presence of Jesus after the resurrection",
+      "A fully divine, personal Being — the third Person of the Trinity"
+    ],
+    correct: 3,
+    correctFeedback: "Well done. The Spirit is not a force, not a creature, and not merely Jesus in a different form. He is personal (uses the pronoun 'he', grieves, speaks, intercedes) and fully God.",
+    wrongFeedback: {
+      0: "Some groups (e.g. Jehovah's Witnesses) describe the Spirit as an impersonal force. But the Spirit has personal attributes: he speaks (Acts 13:2), can be grieved (Eph. 4:30), and intercedes with groanings (Rom. 8:26).",
+      1: "The Spirit is never described as a created angel. He is called God directly (Acts 5:3–4) and performs works only God can do.",
+      2: "Identifying the Spirit with Christ alone is Modalism. Jesus himself sends the Spirit as 'another Helper' (John 14:16) — not as himself."
+    },
+    refs: [
+      { verse: "Acts 5:3–4", text: "Lying to the Holy Spirit is equated with lying to God — direct identification of the Spirit as God." },
+      { verse: "John 14:16–17", text: "Jesus calls the Spirit 'another Helper' (allos paraklete — another of the same kind) whom he will send — a distinct Person." },
+      { verse: "Romans 8:26–27", text: "The Spirit intercedes with groanings and the Father knows the mind of the Spirit — personal, relational, distinct." },
+      { verse: "Ephesians 4:30", text: "\"Do not grieve the Holy Spirit of God\" — only a person can be grieved." }
+    ]
+  },
+  {
+    q: "The Council of Nicaea (AD 325) was convened primarily to address which false teaching about the Trinity?",
+    options: [
+      "Modalism — the belief that Father, Son, and Spirit are sequential roles of one Person",
+      "Tritheism — the belief in three completely separate Gods",
+      "Arianism — the belief that the Son was the first and greatest created being",
+      "Gnosticism — the belief that the material world was created by an inferior god"
+    ],
+    correct: 2,
+    correctFeedback: "Correct. Arius taught that the Son was the first creation of the Father — 'there was a time when he was not.' The Council rejected this and affirmed the Son is homoousios (same substance) with the Father.",
+    wrongFeedback: {
+      0: "Modalism (Sabellianism) was addressed earlier, in the 3rd century. While important, Nicaea's central agenda was the Arian controversy.",
+      1: "Tritheism has never been a widespread organised movement requiring a council. It is an accusation sometimes made against Trinitarians, not an actual historical party at Nicaea.",
+      3: "Gnosticism was a concern of 2nd-century theologians like Irenaeus. By 325 AD, the pressing issue was Arianism."
+    },
+    refs: [
+      { verse: "Nicene Creed (325)", text: "\"[We believe in] one Lord Jesus Christ, the Son of God… of the same substance as the Father [homoousios tō Patri].\" — The Council's defining statement against Arius." },
+      { verse: "John 8:58", text: "\"Before Abraham was, I am\" — Jesus claims the divine name and eternal existence, which Arius's view could not accommodate." },
+      { verse: "Hebrews 1:2–3", text: "The Son made the universe and is the exact imprint of God's nature — impossible if he were himself created." }
+    ]
+  },
+  {
+    q: "Which statement most accurately summarises the orthodox Trinitarian position?",
+    options: [
+      "God is one Person who reveals himself in three different ways depending on the situation",
+      "God is one Being in three Persons — co-equal, co-eternal, and consubstantial — yet undivided in essence",
+      "The Father alone is truly God; the Son and Spirit are divine but in a lesser or derived sense",
+      "The Trinity is a fourth-century invention with no basis in the New Testament itself"
+    ],
+    correct: 1,
+    correctFeedback: "That's the heart of it. One Being (ousia), three Persons (hypostases) — fully God, fully distinct, fully unified. The formula summarises centuries of careful biblical reflection.",
+    wrongFeedback: {
+      0: "This describes Modalism. Trinitarian doctrine insists the three Persons are simultaneously and eternally distinct — not roles adopted at different times.",
+      2: "This is a form of Subordinationism or Arianism. Orthodox theology holds that while the Son is functionally obedient to the Father in the incarnation, all three Persons are ontologically equal in divinity.",
+      3: "The Trinitarian pattern is embedded in the New Testament itself — in the baptism of Jesus (three Persons present, Matt. 3:16–17), the Great Commission (Matt. 28:19), and the Apostolic blessing (2 Cor. 13:14), before any council formalized the terminology."
+    },
+    refs: [
+      { verse: "Matthew 3:16–17", text: "At Jesus's baptism: the Son is baptized, the Spirit descends as a dove, and the Father speaks from heaven — all three simultaneously present." },
+      { verse: "John 14–16", text: "Jesus's farewell discourse is saturated with Trinitarian relationships: the Father sends the Son, the Son sends the Spirit, the Spirit glorifies the Son." },
+      { verse: "1 Corinthians 8:6 + Colossians 1:16", text: "Paul applies the Shema ('one God') to the Father while also applying the role of Creator to the Son — embedding Christ within the divine identity." }
+    ]
+  }
+];
+
+let current = 0;
+let answered = false;
+let score = 0;
+const letters = ['A','B','C','D'];
+
+function render() {
+  const area = document.getElementById('quiz-area');
+  const pct = (current / questions.length) * 100;
+  document.getElementById('progress').style.width = pct + '%';
+
+  if (current >= questions.length) {
+    renderResults(area);
+    return;
+  }
+
+  answered = false;
+  const q = questions[current];
+  area.innerHTML = '';
+
+  const card = document.createElement('div');
+  card.className = 'card';
+
+  card.innerHTML = `
+    <div class="question-num">Question ${current + 1} of ${questions.length}</div>
+    <div class="question-text">${q.q}</div>
+    <div class="options" id="options"></div>
+    <div class="feedback" id="feedback"></div>
+    <button class="btn" id="next-btn" style="display:none" onclick="nextQuestion()">
+      ${current + 1 < questions.length ? 'Next Question →' : 'See Results →'}
+    </button>
+  `;
+
+  area.appendChild(card);
+
+  const optContainer = card.querySelector('#options');
+  q.options.forEach((opt, i) => {
+    const el = document.createElement('div');
+    el.className = 'option';
+    el.innerHTML = `<span class="option-letter">${letters[i]}</span><span>${opt}</span>`;
+    el.onclick = () => selectAnswer(i);
+    optContainer.appendChild(el);
+  });
+}
+
+function selectAnswer(chosen) {
+  if (answered) return;
+  answered = true;
+
+  const q = questions[current];
+  const opts = document.querySelectorAll('.option');
+  opts.forEach(o => o.classList.add('disabled'));
+
+  const isCorrect = chosen === q.correct;
+  if (isCorrect) score++;
+
+  opts[chosen].classList.add(isCorrect ? 'correct' : 'wrong');
+  opts[q.correct].classList.add('correct');
+
+  const fb = document.getElementById('feedback');
+  fb.classList.add('show');
+
+  if (isCorrect) {
+    fb.classList.add('correct-fb');
+    fb.innerHTML = `
+      <div class="feedback-title">✓ Correct</div>
+      <div>${q.correctFeedback}</div>
+      ${refsHTML(q.refs)}
+    `;
+  } else {
+    fb.classList.add('wrong-fb');
+    const explanation = q.wrongFeedback[chosen] || "That's not the orthodox Trinitarian answer.";
+    fb.innerHTML = `
+      <div class="feedback-title">✗ Not quite</div>
+      <div>${explanation}</div>
+      <div style="margin-top:0.7rem"><strong style="font-family:'Cinzel',serif;font-size:0.78rem;letter-spacing:0.15em;text-transform:uppercase;opacity:0.7;">The correct answer is ${letters[q.correct]}:</strong><br>
+      <em style="opacity:0.9">${q.options[q.correct]}</em></div>
+      ${refsHTML(q.refs)}
+    `;
+  }
+
+  document.getElementById('next-btn').style.display = 'inline-block';
+}
+
+function refsHTML(refs) {
+  if (!refs || !refs.length) return '';
+  const items = refs.map(r => `<div class="ref-verse"><strong style="font-style:normal;opacity:0.7">${r.verse}:</strong> ${r.text}</div>`).join('');
+  return `<div class="refs"><strong>Biblical References</strong>${items}</div>`;
+}
+
+function nextQuestion() {
+  current++;
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function renderResults(area) {
+  document.getElementById('progress').style.width = '100%';
+  const pct = Math.round((score / questions.length) * 100);
+  const circumference = 2 * Math.PI * 46;
+  const offset = circumference * (1 - score / questions.length);
+
+  let title, desc;
+  if (score === questions.length) {
+    title = "Excellent Understanding";
+    desc = "You demonstrate a thorough grasp of Trinitarian doctrine — the distinction of Persons, unity of essence, and historical context.";
+  } else if (score >= 3) {
+    title = "Good Foundation";
+    desc = "You have a solid understanding with a few areas worth revisiting. Review the feedback above to sharpen the details.";
+  } else if (score >= 2) {
+    title = "Some Understanding";
+    desc = "You have a partial grasp of the Trinity. The doctrine has many nuances — the feedback and scripture references above are a great starting point.";
+  } else {
+    title = "Needs More Study";
+    desc = "The Trinity is one of Christianity's most demanding doctrines. Read through the explanations and references above — they'll clarify the key distinctions.";
+  }
+
+  area.innerHTML = `
+    <div class="card results">
+      <div class="score-ring">
+        <svg viewBox="0 0 100 100" width="120" height="120">
+          <defs>
+            <linearGradient id="gold-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+              <stop offset="0%" stop-color="#b8902a"/>
+              <stop offset="100%" stop-color="#e8c97a"/>
+            </linearGradient>
+          </defs>
+          <circle class="ring-bg" cx="50" cy="50" r="46"/>
+          <circle class="ring-fg" cx="50" cy="50" r="46"
+            stroke-dasharray="${circumference}"
+            stroke-dashoffset="${circumference}"
+            id="ring-anim"/>
+        </svg>
+        <div class="score-num">${score}/${questions.length}</div>
+      </div>
+      <div class="result-title">${title}</div>
+      <p class="result-desc">${desc}</p>
+      <button class="restart-btn" onclick="restart()">Try Again</button>
+    </div>
+  `;
+
+  setTimeout(() => {
+    const ring = document.getElementById('ring-anim');
+    if (ring) ring.style.strokeDashoffset = offset;
+  }, 100);
+}
+
+function restart() {
+  current = 0;
+  score = 0;
+  render();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+render();
+</script>
+
+</body>
+</html>
