@@ -105,6 +105,15 @@ It is Allah's fault if someone does not believe.
 
 # Hell
 
+## Allah predestines innocent children to go to hell {#hell-predestined}
+
+[Sahih Muslim 2662 c](https://sunnah.com/muslim:2662c)
+
+>'A'isha, the mother of the believers, said that Allah's Messenger was called to lead the funeral prayer of a child of the Ansar. I said:
+> Allah's Messenger, there is happiness for this child who is a bird from the birds of Paradise for it committed no sin nor has he reached the age when one can commit sin. He said: 'A'isha, per adventure, it may be otherwise, because God created for Paradise those who are fit for it while they were yet in their father's loins and created for Hell those who are to go to Hell. He created them for Hell while they were yet in their father's loins.
+
+Allah predestines people to hell before they are even conceived, and it doesn't matter how innocent they may be.
+
 ## Murder victims go to hell
 
 [Sahih al-Bukhari 31](https://sunnah.com/bukhari:31)
