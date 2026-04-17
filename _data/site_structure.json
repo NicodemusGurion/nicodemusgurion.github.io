@@ -4706,6 +4706,22 @@
       "nav_order": 999999
     },
     {
+      "url": "/dawah/scientific claims",
+      "tocpath": null,
+      "title": "Untitled",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Creation from Water",
+          "anchor": "creation-from-water"
+        }
+      ],
+      "file": "dawah/scientific claims.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 999999
+    },
+    {
       "url": "/dawah/trinity-invented-at-nicaea",
       "tocpath": null,
       "title": "The Trinity is a later invention from the Council of Nicaea/by Constantine",
