@@ -1499,11 +1499,6 @@
         },
         {
           "level": 2,
-          "text": "Conclusion",
-          "anchor": "conclusion"
-        },
-        {
-          "level": 2,
           "text": "Apparent Contradictions in the Uthmanic Text — and the معيار (Criterion) of the Injil",
           "anchor": "apparent-contradictions-in-the-uthmanic-text-and-the-criterion-of-the-injil"
         },
@@ -1559,13 +1554,8 @@
         },
         {
           "level": 2,
-          "text": "Our Conclusion",
-          "anchor": "our-conclusion"
-        },
-        {
-          "level": 2,
-          "text": "A Final Reflection",
-          "anchor": "a-final-reflection"
+          "text": "Conclusion",
+          "anchor": "conclusion"
         }
       ],
       "file": "oqo/index.md",
