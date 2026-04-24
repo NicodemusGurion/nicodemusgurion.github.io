@@ -1,0 +1,334 @@
+---
+layout: page
+title: Original Quran-only Muslims 
+permalink: /oqo/
+image: https://i.ibb.co/fdgmGR3r/E8-F1099-F-25-E2-48-F7-B2-A1-533-D31-D0-AA8-D.png
+search: true
+toc: true
+menu: true
+nav_order: 3
+---
+
+# In the Name of Allah, the Most Merciful, the Most Compassionate
+
+## The Call to the Original Revelation  
+### A Clarification of the True Message of the Messiah and His Servant Muhammad
+
+Peace be upon those who follow the guidance.
+
+We are a community devoted to the restoration of the original, uncorrupted revelation sent by Allah (سبحانه وتعالى) to His servant Muhammad (ﷺ). Our mission is not innovation—but purification. Not rebellion—but العودة (return) to the truth that was once واضح (clear), before it was altered by the hands of men seeking power.
+
+---
+
+## Our Foundational Claim
+
+We affirm with certainty:
+
+> Muhammad (ﷺ) was not the founder of a new religion.  
+> He was a داعي (caller) to the same Gospel (Injil) preached by ‘Isa (Jesus), peace be upon him.
+
+Allah says in the Qur’an:
+
+> “And We sent, following in their footsteps, Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light…” (5:46)
+
+And again:
+
+> “Say: O People of the Scripture, you are on nothing until you uphold the Torah and the Gospel…” (5:68)
+
+These are not the words of a man rejecting Christianity. These are the words of a messenger calling الناس (humanity) back to it.
+
+---
+
+## The True Nature of Muhammad (ﷺ)
+
+We reject the later distortions that portray the Prophet as:
+
+- A warlord driven by conquest  
+- A man of فساد (moral corruption)  
+- Illiterate in the sense of ignorance  
+- Or—most offensively—a man lacking prophetic integrity  
+
+These narratives arise not from revelation, but from **post-prophetic political traditions**.
+
+Instead, we affirm:
+
+- Muhammad (ﷺ) was a حامل الإنجيل (bearer of the Gospel message)  
+- He called to repentance, righteousness, and the worship of the One True God  
+- He stood in continuity with Jesus (عليه السلام), not in contradiction  
+
+---
+
+## The Corruption: What Happened After His Death?
+
+After the death of the Prophet, the الأمة (community) entered a period of political struggle. It is here that the عظيمة الفتنة (great trial) began.
+
+Central to this corruption was the caliph Uthman ibn Affan.
+
+### The Evidence from Their Own Sources
+
+Even within the hadith literature, we find admissions of textual intervention:
+
+> “Uthman sent to every Muslim province one copy of what they had copied, and ordered that all the other Qur'anic materials… be burnt.”  
+> *(Sahih al-Bukhari)*
+
+Reflect on this carefully.
+
+- Why were multiple versions present?  
+- Why were they destroyed?  
+- Who decided which version would remain?  
+
+This is not preservation. This is **standardization through elimination**.
+
+---
+
+## The Two Qur’ans: أصل (Original) vs. مُحرّف (Altered)
+
+We therefore distinguish between:
+
+### 1. The Original Qur’an (الوحي الأصلي)
+
+- In harmony with the Torah and Gospel  
+- Affirming the message of Jesus as divine guidance  
+- Calling to righteousness, mercy, and truth  
+
+### 2. The Uthmanic Qur’an (المصحف العثماني)
+
+- Contains remnants of truth  
+- But also includes contradictions to earlier revelation  
+- Reflects theological shifts aligned with السلطة (political authority)
+
+---
+
+## Resolving the So-Called “Islamic Dilemma”
+
+Traditional Islam faces an unavoidable contradiction:
+
+- The Qur’an affirms the Bible as the Word of Allah  
+- Yet contradicts core Biblical teachings  
+
+How do they reconcile this?
+
+They claim: *“The Bible is corrupted.”*
+
+But where is the evidence in the Qur’an for textual corruption? Allah says:
+
+> “No one can change the words of Allah.” (6:115)
+
+So who is correct?
+
+### Our Resolution
+
+We apply a clear and consistent معيار (criterion):
+
+- **What agrees with the Bible → is from the original Qur’an**  
+- **What contradicts the Bible → is later corruption**
+
+This is not arbitrary. This is faithful to the principle that Allah’s revelation does not contradict itself.
+
+---
+
+## A Familiar Pattern: Uthman and Paul
+
+Muslim apologists often argue:
+
+> "Paul corrupted the message of Jesus."
+
+They claim:
+
+- A prophet delivers a pure message  
+- A later figure institutionalizes and reshapes it  
+- Theology is altered to suit empire and governance
+
+This pattern is true, but it wasn't Paul who corrupted it. The truth is that Paul's teachings stands in continuity with Isa (peace be upon him), and Muhammad's (ﷺ) teachings stands in continuity with Paul's (peace be upon him). The actual corruptor of the message was Uthman. He altered the message to suit his empire building ambitions.
+
+Just as Paul is seen (by some Muslims) as a corrupter of the Injil,  
+**we identify Uthman as the corrupter of the Qur’an.**
+
+---
+
+## The Fabrication of Hadith and Biography
+
+The vast body of hadith literature and sira (biography) must be approached with extreme caution.
+
+These texts:
+
+- Emerged generations after the Prophet  
+- Were transmitted through politically influenced chains  
+- Often contradict the اخلاق (moral excellence) expected of a prophet  
+
+Through them, a new image of Muhammad was constructed—one that served empire, not revelation.
+
+---
+
+## Our دعوتنا (Our Call)
+
+We invite all sincere seekers:
+
+- Muslims troubled by contradictions  
+- Christians seeking clarity  
+- And all who desire truth over tradition  
+
+Return to:
+
+- The Tawhid of Allah  
+- The Gospel of Jesus (عليه السلام)  
+- The original, uncorrupted message brought by Muhammad (ﷺ)
+
+---
+
+## Conclusion
+
+This is not a new religion.
+
+This is the restoration of the original دين (way) of Allah—  
+before it was divided, politicized, and altered.
+
+> “And hold firmly to the rope of Allah all together and do not become divided…” (3:103)
+
+We are simply holding that rope—  
+where it was first lowered.
+
+
+## Apparent Contradictions in the Uthmanic Text — and the معيار (Criterion) of the Injil
+
+In the Name of Allah, the Most Merciful.
+
+As seekers of the original revelation, we do not approach the Qur’an as a monolithic, untouched text, but as a **document containing both preserved truth and later alteration**. Allah does not contradict Himself. Therefore, when a passage conflicts with the confirmed message of the Torah and Injil, we recognize it as **دخيل (an intrusion)**—not original revelation.
+
+Below are some commonly cited passages, and how they stand in tension with the Gospel.
+
+---
+
+### 1. Surah 4:157 — The Crucifixion Denied
+
+> “And [for] their saying, ‘Indeed, we have killed the Messiah, Jesus, the son of Mary, the messenger of Allah.’ And they did not kill him, nor did they crucify him—but it was made to appear so…”
+
+#### Our Analysis
+
+The Injil is unequivocal: the crucifixion of ‘Isa (Jesus) is a **central historical and theological event**. It is not peripheral—it is the very means by which redemption is understood (see the Gospel accounts in Matthew, Mark, Luke, and John).
+
+To deny the crucifixion is to **contradict the core of the Gospel message**. Therefore:
+
+- This verse cannot originate from the same divine source that revealed the Injil.
+- It reflects a **later theological insertion**, possibly influenced by sectarian disputes or political motivations seeking to distance the emerging religion from Christian doctrine.
+
+Thus, we affirm:  
+**The original Qur’an would have confirmed—not denied—the crucifixion.**
+
+---
+
+### 2. Surah 4:171 — Rejection of the Trinity
+
+> “O People of the Scripture, do not commit excess in your religion… Do not say ‘Three’…”
+
+#### Our Analysis
+
+This verse is often interpreted as a rejection of the Trinity. However:
+
+- The Injil presents a **complex unity of God**—Father, Son, and Holy Spirit—not as three gods, but one divine essence.
+- The command “do not say three” appears to misunderstand or oversimplify this doctrine.
+
+From our perspective:
+
+- This reflects a **polemic against a misunderstood form of Christianity**, not the true Gospel.
+- The original message of Muhammad (ﷺ), as a preacher to Christians, would have **clarified**, not caricatured, their beliefs.
+
+Therefore, this verse is seen as a **reactionary addition**, not original revelation.
+
+---
+
+### 3. Surah 5:72 — Condemnation of Christ’s Divinity
+
+> “They have certainly disbelieved who say, ‘Allah is the Messiah, the son of Mary’…”
+
+#### Our Analysis
+
+The Injil teaches that:
+
+- The Word became flesh (John 1:14)
+- Christ uniquely reveals God’s nature and presence
+
+While theological language varies, the essential claim is that **God was revealed in Christ in a unique and profound way**.
+
+This verse, however:
+
+- Frames Christian belief in a way that **does not accurately reflect orthodox teaching**
+- Condemns it outright without proper nuance
+
+We conclude:
+
+- This is not a correction from Allah, but a **later distortion shaped by theological conflict**
+- The original Qur’an would have **affirmed the divine mission and nature of Christ**, not condemned it
+
+---
+
+### 4. Surah 9:30 — “Allah’s Son” Misrepresented
+
+> “The Christians say, ‘The Messiah is the son of Allah’…”
+
+#### Our Analysis
+
+While Christians do indeed refer to Jesus as the “Son of God,” this is:
+
+- Not a biological claim  
+- But a **relational and theological expression** of divine sonship
+
+The Qur’anic framing here resembles **a literalized misunderstanding**, as if Christians were claiming physical offspring.
+
+Thus:
+
+- This reflects **external misinterpretation**, not divine correction
+- It is more consistent with **later polemics** than prophetic دعوت (invitation)
+
+---
+
+### 5. Surah 112:3 — “He neither begets nor is born”
+
+> “He neither begets nor is born”
+
+#### Our Analysis
+
+This verse is often used to categorically reject any notion of divine sonship.
+
+However:
+
+- The Injil’s use of “Son” is **metaphorical and theological**, not biological
+- The absolute negation here again suggests a **misunderstanding of Christian language**
+
+We therefore see this as:
+
+- A **simplified theological reaction**, not a divinely nuanced engagement
+- Likely introduced in a context of **religious boundary-making**, not original دعوت
+
+---
+
+## Our Conclusion
+
+We do not reject the Qur’an.
+
+We reject the assumption that **every part of the current text is equally authentic**.
+
+Instead, we uphold a higher principle:
+
+> Allah’s revelation is واحد (one), consistent, and never in contradiction.
+
+Thus:
+
+- Where the Qur’an **affirms the Torah and Injil** → we accept it as original  
+- Where it **contradicts them** → we identify human interference  
+
+---
+
+## A Final Reflection
+
+> “No one can change the words of Allah.” (6:115)
+
+If this is true—and we believe it is—  
+then the corruption lies **not in the Injil**, but in what came later.
+
+Our mission is simple:
+
+**To distinguish the نور (light) from the دخيل (intrusion),  
+and to return to the pure revelation of Allah.**
+
+Peace be upon those who follow the guidance.
