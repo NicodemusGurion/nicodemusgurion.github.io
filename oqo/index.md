@@ -156,7 +156,9 @@ These texts:
 - Were transmitted through politically influenced chains  
 - Often contradict the اخلاق (moral excellence) expected of a prophet  
 
-Through them, a new image of Muhammad was constructed—one that served empire, not revelation.
+These cast doubts about the Prophet's mental sanity, moral character, and intellect. Stories claiming that he married a child, committed genocide, was a sexual fiend, abused women, cursed orphans, and tortured people serves to erase his righteous walk as a follower of Isa (peace be upon him) and make him a pawn used by a political empire built on the promotion of ungodly vices.
+
+Through these, a new unflattering image of Muhammad was constructed—one that served empire, not revelation.
 
 ---
 
@@ -170,23 +172,9 @@ We invite all sincere seekers:
 
 Return to:
 
-- The Tawhid of Allah  
+- The Trinitarian Tawhid of Allah  
 - The Gospel of Jesus (عليه السلام)  
 - The original, uncorrupted message brought by Muhammad (ﷺ)
-
----
-
-## Conclusion
-
-This is not a new religion.
-
-This is the restoration of the original دين (way) of Allah—  
-before it was divided, politicized, and altered.
-
-> “And hold firmly to the rope of Allah all together and do not become divided…” (3:103)
-
-We are simply holding that rope—  
-where it was first lowered.
 
 
 ## Apparent Contradictions in the Uthmanic Text — and the معيار (Criterion) of the Injil
@@ -300,26 +288,7 @@ We therefore see this as:
 - A **simplified theological reaction**, not a divinely nuanced engagement
 - Likely introduced in a context of **religious boundary-making**, not original دعوت
 
----
-
-## Our Conclusion
-
-We do not reject the Qur’an.
-
-We reject the assumption that **every part of the current text is equally authentic**.
-
-Instead, we uphold a higher principle:
-
-> Allah’s revelation is واحد (one), consistent, and never in contradiction.
-
-Thus:
-
-- Where the Qur’an **affirms the Torah and Injil** → we accept it as original  
-- Where it **contradicts them** → we identify human interference  
-
----
-
-## A Final Reflection
+## Conclusion 
 
 > “No one can change the words of Allah.” (6:115)
 
@@ -330,5 +299,16 @@ Our mission is simple:
 
 **To distinguish the نور (light) from the دخيل (intrusion),  
 and to return to the pure revelation of Allah.**
+
+
+This is not a new religion.
+
+This is the restoration of the original دين (way) of Allah—  
+before it was divided, politicized, and altered.
+
+> “And hold firmly to the rope of Allah all together and do not become divided…” (3:103)
+
+We are simply holding that rope—  
+where it was first lowered.
 
 Peace be upon those who follow the guidance.
