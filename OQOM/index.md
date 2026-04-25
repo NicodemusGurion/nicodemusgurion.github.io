@@ -25,15 +25,15 @@ We are a community devoted to the restoration of the original, uncorrupted revel
 We affirm with certainty:
 
 > Muhammad (ﷺ) was not the founder of a new religion.  
-> He was a داعي (caller) to the same Gospel (Injil) preached by ‘Isa (Jesus), peace be upon him.
+> He was a داعي (caller) to the same Injil (Injil) preached by ‘Isa (Jesus), peace be upon him.
 
 Allah says in the Qur’an:
 
-> “And We sent, following in their footsteps, Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Gospel, in which was guidance and light…” (5:46)
+> “And We sent, following in their footsteps, Jesus, the son of Mary, confirming that which came before him in the Torah; and We gave him the Injil, in which was guidance and light…” (5:46)
 
 And again:
 
-> “Say: O People of the Scripture, you are on nothing until you uphold the Torah and the Gospel…” (5:68)
+> “Say: O People of the Scripture, you are on nothing until you uphold the Torah and the Injil…” (5:68)
 
 These are not the words of a man rejecting Christianity. These are the words of a messenger calling الناس (humanity) back to it.
 
@@ -52,7 +52,7 @@ These narratives arise not from revelation, but from **post-prophetic political 
 
 Instead, we affirm:
 
-- Muhammad (ﷺ) was a حامل الإنجيل (bearer of the Gospel message)  
+- Muhammad (ﷺ) was a حامل الإنجيل (bearer of the Injil message)  
 - He called to repentance, righteousness, and the worship of the One True God  
 - He stood in continuity with Jesus (عليه السلام), not in contradiction  
 
@@ -89,7 +89,7 @@ We therefore distinguish between:
 
 ### 1. The Original Qur’an (الوحي الأصلي)
 
-- In harmony with the Torah and Gospel  
+- In harmony with the Torah and Injil  
 - Affirming the message of Jesus as divine guidance  
 - Calling to righteousness, mercy, and truth  
 
@@ -174,17 +174,15 @@ We invite all sincere seekers:
 Return to:
 
 - The Trinitarian Tawhid of Allah  
-- The Gospel of Jesus (عليه السلام)  
+- The Injil of Jesus (عليه السلام)  
 - The original, uncorrupted message brought by Muhammad (ﷺ)
 
 
 ## Apparent Contradictions in the Uthmanic Text — and the معيار (Criterion) of the Injil
 
-In the Name of Allah, the Most Merciful.
-
 As seekers of the original revelation, we do not approach the Qur’an as a monolithic, untouched text, but as a **document containing both preserved truth and later alteration**. Allah does not contradict Himself. Therefore, when a passage conflicts with the confirmed message of the Torah and Injil, we recognize it as **دخيل (an intrusion)**—not original revelation.
 
-Below are some commonly cited passages, and how they stand in tension with the Gospel.
+Below are some commonly cited passages, and how they stand in tension with the Injil.
 
 ---
 
@@ -194,9 +192,9 @@ Below are some commonly cited passages, and how they stand in tension with the G
 
 #### Our Analysis
 
-The Injil is unequivocal: the crucifixion of ‘Isa (Jesus) is a **central historical and theological event**. It is not peripheral—it is the very means by which redemption is understood (see the Gospel accounts in Matthew, Mark, Luke, and John).
+The Injil is unequivocal: the crucifixion of ‘Isa (Jesus) is a **central historical and theological event**. It is not peripheral—it is the very means by which redemption is understood (see the Injil accounts in Matthew, Mark, Luke, and John).
 
-To deny the crucifixion is to **contradict the core of the Gospel message**. Therefore:
+To deny the crucifixion is to **contradict the core of the Injil message**. Therefore:
 
 - This verse cannot originate from the same divine source that revealed the Injil.
 - It reflects a **later theological insertion**, possibly influenced by sectarian disputes or political motivations seeking to distance the emerging religion from Christian doctrine.
@@ -219,7 +217,7 @@ This verse is often interpreted as a rejection of the Trinity. However:
 
 From our perspective:
 
-- This reflects a **polemic against a misunderstood form of Christianity**, not the true Gospel.
+- This reflects a **polemic against a misunderstood form of Christianity**, not the true Injil.
 - The original message of Muhammad (ﷺ), as a preacher to Christians, would have **clarified**, not caricatured, their beliefs.
 
 Therefore, this verse is seen as a **reactionary addition**, not original revelation.
@@ -288,6 +286,8 @@ We therefore see this as:
 
 - A **simplified theological reaction**, not a divinely nuanced engagement
 - Likely introduced in a context of **religious boundary-making**, not original دعوت
+
+---
 
 ## Conclusion 
 
