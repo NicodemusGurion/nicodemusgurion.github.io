@@ -143,8 +143,7 @@ They claim:
 
 This pattern is true, but it wasn't Paul who corrupted it. The truth is that Paul's teachings stands in continuity with Isa (peace be upon him), and Muhammad's (ﷺ) teachings stands in continuity with Paul's (peace be upon him). The actual corruptor of the message was Uthman. He altered the message to suit his empire building ambitions.
 
-Just as Paul is seen (by some Muslims) as a corrupter of the Injil,  
-**we identify Uthman as the corrupter of the Qur’an.**
+Just as Paul is seen (by some Muslims) as a corrupter of the Injil, **we identify Uthman as the corrupter of the Qur’an.**
 
 ---
 
