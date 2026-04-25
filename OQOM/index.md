@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Original Quran-only Muslims 
+title: Original Quran only Muslims 
 permalink: /OQOM/
 image: https://i.ibb.co/zhNd6CKP/IMG-0998.png
 search: true
