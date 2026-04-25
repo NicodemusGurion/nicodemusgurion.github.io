@@ -293,8 +293,7 @@ We therefore see this as:
 
 > “No one can change the words of Allah.” (6:115)
 
-If this is true—and we believe it is—  
-then the corruption lies **not in the Injil**, but in what came later.
+If this is true — and we believe it is —   then the corruption lies **not in the Injil**, but in what came later.
 
 Our mission is simple:
 
