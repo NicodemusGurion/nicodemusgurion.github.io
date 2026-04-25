@@ -2,7 +2,7 @@
 layout: page
 title: Original Quran-only Muslims 
 permalink: /oqo/
-image: https://i.ibb.co/fdgmGR3r/E8-F1099-F-25-E2-48-F7-B2-A1-533-D31-D0-AA8-D.png
+image: https://i.ibb.co/zhNd6CKP/IMG-0998.png
 search: true
 toc: true
 menu: true
