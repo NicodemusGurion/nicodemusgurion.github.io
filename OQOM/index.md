@@ -16,7 +16,7 @@ nav_order: 3
 
 Peace be upon those who follow the guidance.
 
-We are a community devoted to the restoration of the original, uncorrupted revelation sent by Allah (سبحانه وتعالى) to His servant Muhammad (ﷺ). Our mission is not innovation—but purification. Not rebellion—but العودة (return) to the truth that was once واضح (clear), before it was altered by the hands of men seeking power.
+We are a community devoted to the restoration of the original, uncorrupted revelation sent by Allah (سبحانه وتعالى) to His servant Muhammad (ﷺ). Our mission is not innovation—but purification. Not rebellion — but العودة (return) to the truth that was once واضح (clear), before it was altered by the hands of men seeking power.
 
 ---
 
@@ -159,7 +159,7 @@ These texts:
 
 These cast doubts about the Prophet's mental sanity, moral character, and intellect. Stories claiming that he married a child, committed genocide, was a sexual fiend, abused women, cursed orphans, and tortured people serves to erase his righteous walk as a follower of Isa (peace be upon him) and make him a pawn used by a political empire built on the promotion of ungodly vices.
 
-Through these, a new unflattering image of Muhammad was constructed—one that served empire, not revelation.
+Through these, a new unflattering image of Muhammad was constructed — one that served empire, not revelation.
 
 ---
 
@@ -188,19 +188,21 @@ Below are some commonly cited passages, and how they stand in tension with the I
 
 ### 1. Surah 4:157 — The Crucifixion Denied
 
-> “And [for] their saying, ‘Indeed, we have killed the Messiah, Jesus, the son of Mary, the messenger of Allah.’ And they did not kill him, nor did they crucify him—but it was made to appear so…”
+> “And [for] their saying, ‘Indeed, we have killed the Messiah, Jesus, the son of Mary, the messenger of Allah.’ And they did not kill him, nor did they crucify him — but it was made to appear so…”
 
 #### Our Analysis
 
-The Injil is unequivocal: the crucifixion of ‘Isa (Jesus) is a **central historical and theological event**. It is not peripheral—it is the very means by which redemption is understood (see the Injil accounts in Matthew, Mark, Luke, and John).
+The Injil is unequivocal: the crucifixion of ‘Isa (Jesus) is a **central historical and theological event**. It is not peripheral — it is the very means by which redemption is understood (see the Injil accounts of Matthew, Mark, Luke, and John).
 
-To deny the crucifixion is to **contradict the core of the Injil message**. Therefore:
+To deny the crucifixion is to **contradict the core of the Injil message**. 
+
+Therefore:
 
 - This verse cannot originate from the same divine source that revealed the Injil.
 - It reflects a **later theological insertion**, possibly influenced by sectarian disputes or political motivations seeking to distance the emerging religion from Christian doctrine.
 
 Thus, we affirm:  
-**The original Qur’an would have confirmed—not denied—the crucifixion.**
+**The original Qur’an would have confirmed — not denied—the crucifixion.**
 
 ---
 
@@ -212,8 +214,8 @@ Thus, we affirm:
 
 This verse is often interpreted as a rejection of the Trinity. However:
 
-- The Injil presents a **complex unity of God**—Father, Son, and Holy Spirit—not as three gods, but one divine essence.
-- The command “do not say three” appears to misunderstand or oversimplify this doctrine.
+- The Injil presents a **complex unity of God** — Father, Son, and Holy Spirit — not as three gods, but one divine essence.
+- The command “do not say three” appears to misunderstand or oversimplify this doctrine. Possibly rejecting tritheism or some other heretical aberration of the trinity doctrine. The author was not familiar with Christian doctrine and thus it can not come from Allah.
 
 From our perspective:
 
@@ -232,8 +234,9 @@ Therefore, this verse is seen as a **reactionary addition**, not original revela
 
 The Injil teaches that:
 
+- The Word is God in essence (John 1:1)
 - The Word became flesh (John 1:14)
-- Christ uniquely reveals God’s nature and presence
+- Christ uniquely reveals God’s nature and presence (John 1:18; Colossians 2:9)
 
 While theological language varies, the essential claim is that **God was revealed in Christ in a unique and profound way**.
 
@@ -297,18 +300,15 @@ If this is true — and we believe it is —   then the corruption lies **not in
 
 Our mission is simple:
 
-**To distinguish the نور (light) from the دخيل (intrusion),  
-and to return to the pure revelation of Allah.**
+**To distinguish the نور (light) from the دخيل (intrusion), and to return to the pure revelation of Allah.**
 
 
 This is not a new religion.
 
-This is the restoration of the original دين (way) of Allah—  
-before it was divided, politicized, and altered.
+This is the restoration of the original دين (way) of Allah — before it was divided, politicized, and altered.
 
 > “And hold firmly to the rope of Allah all together and do not become divided…” (3:103)
 
-We are simply holding that rope—  
-where it was first lowered.
+We are simply holding that rope — where it was first lowered.
 
 Peace be upon those who follow the guidance.
