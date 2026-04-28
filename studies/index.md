@@ -29,7 +29,7 @@ nav_order: 9
 
 [The average lifespan in the first century](/public/pdf/average-lifespan-in-first-century-35-years.pdf)
 
-[CIA: Analysis and Assessment of Gateway process](/public/pdf/Analysis and Assessment of Gateway process cia-rdp96-00788r001700210016-5 (including missing page 25).pdf)
+[CIA: Analysis and Assessment of Gateway process](/public/pdf/Gateway-process-complete.pdf)
 
 # Other
 
