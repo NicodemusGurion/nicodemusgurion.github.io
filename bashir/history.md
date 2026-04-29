@@ -44,7 +44,7 @@ Unlike later narratives that isolate Muhammad from Christian teaching, we affirm
 
 Through this exposure:
 
-- Muhammad (ﷺ) came to understand the message of tawhid (the oneness of God) as preached by ‘Isa (عليه السلام)
+- Muhammad (ﷺ) came to understand the message of [tawhid](/bashir/tawhid/) (the oneness of God) as preached by ‘Isa (عليه السلام)
 - He absorbed the ethical and spiritual teachings of the Gospel—mercy, repentance, humility, and righteousness
 
 ---

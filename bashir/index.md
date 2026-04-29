@@ -179,7 +179,7 @@ We invite all sincere seekers:
 
 Return to:
 
-- The Trinitarian Tawhid of Allah  
+- [The original Tawhid of Allah](/bashir/tawhid/)
 - The Injil of Jesus (عليه السلام)  
 - The original, uncorrupted message brought by Muhammad (ﷺ)
 
