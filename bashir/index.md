@@ -22,6 +22,7 @@ We are a community devoted to the restoration of the original, uncorrupted revel
 
 * [The Creed of Ummatu al-Bashir](/bashir/creed/)
 * [The true history of Muhammad (ﷺ)](/bashir/history)
+* [Tawhid explained](/bashir/tawhid/)
 
 ---
 
