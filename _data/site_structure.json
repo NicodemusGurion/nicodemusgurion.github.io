@@ -13,6 +13,72 @@
       "nav_order": 0
     },
     {
+      "url": "/OQOM/history",
+      "tocpath": null,
+      "title": "The true history of Muhammad (ﷺ)",
+      "headers": [
+        {
+          "level": 2,
+          "text": "A Brief Historical Account of the Life of Muhammad (ﷺ)",
+          "anchor": "a-brief-historical-account-of-the-life-of-muhammad-"
+        },
+        {
+          "level": 3,
+          "text": "According to the Understanding of the Original Revelation",
+          "anchor": "according-to-the-understanding-of-the-original-revelation"
+        },
+        {
+          "level": 2,
+          "text": "1. Early Life: A Seeker Among His People",
+          "anchor": "1-early-life-a-seeker-among-his-people"
+        },
+        {
+          "level": 2,
+          "text": "2. Exposure to the Gospel (Injil)",
+          "anchor": "2-exposure-to-the-gospel-injil"
+        },
+        {
+          "level": 2,
+          "text": "3. His Calling: A Warner, Not an Innovator",
+          "anchor": "3-his-calling-a-warner-not-an-innovator"
+        },
+        {
+          "level": 2,
+          "text": "4. His Ministry: دعوت (Calling) to the Gospel",
+          "anchor": "4-his-ministry-calling-to-the-gospel"
+        },
+        {
+          "level": 2,
+          "text": "5. His Personal Life: A Model of Faithfulness",
+          "anchor": "5-his-personal-life-a-model-of-faithfulness"
+        },
+        {
+          "level": 2,
+          "text": "6. His Relationship with Christians",
+          "anchor": "6-his-relationship-with-christians"
+        },
+        {
+          "level": 2,
+          "text": "7. His Final Years and Death",
+          "anchor": "7-his-final-years-and-death"
+        },
+        {
+          "level": 2,
+          "text": "8. What Came After",
+          "anchor": "8-what-came-after"
+        },
+        {
+          "level": 2,
+          "text": "Conclusion",
+          "anchor": "conclusion"
+        }
+      ],
+      "file": "bashir/history.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 1
+    },
+    {
       "url": "/islam",
       "tocpath": null,
       "title": "Teachings of Islam",
@@ -1231,9 +1297,9 @@
       "nav_order": 2
     },
     {
-      "url": "/OQOM",
+      "url": "/bashir",
       "tocpath": null,
-      "title": "Original Quran only Muslims",
+      "title": "Ummatu al-Bashir",
       "headers": [
         {
           "level": 1,
@@ -1371,7 +1437,7 @@
           "anchor": "conclusion"
         }
       ],
-      "file": "OQOM/index.md",
+      "file": "bashir/index.md",
       "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 3
