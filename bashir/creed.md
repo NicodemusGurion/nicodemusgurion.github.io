@@ -13,7 +13,7 @@ nav_order: 1
 
 In the Name of Allah, the Most Merciful, the Most Compassionate.
 
-We bear witness that there is no god but Allah, the One, the Living, the Unchanging—  whose word does not contradict itself, and whose revelation is نور (light) and هدى (guidance) for all mankind.
+We bear witness that there is no god but Allah, the One, the Living, the Unchanging—  whose word does not contradict itself, and whose revelation is نور (light) and هدى (guidance) for all mankind. And we affirm that Muhammad is a preacher of the Injil of Isa.
 
 ---
 
