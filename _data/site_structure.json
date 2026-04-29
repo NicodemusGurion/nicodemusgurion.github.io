@@ -1499,6 +1499,72 @@
       "nav_order": 3
     },
     {
+      "url": "/bashir/tawhid",
+      "tocpath": null,
+      "title": "Tawhid",
+      "headers": [
+        {
+          "level": 2,
+          "text": "Tawḥīd Reconsidered: The Oneness of Allah in His Word and His Spirit",
+          "anchor": "tawd-reconsidered-the-oneness-of-allah-in-his-word-and-his-spirit"
+        },
+        {
+          "level": 2,
+          "text": "1. The Oneness of Allah Is Not a Limitation",
+          "anchor": "1-the-oneness-of-allah-is-not-a-limitation"
+        },
+        {
+          "level": 2,
+          "text": "2. The Word of Allah: Eternal and Divine",
+          "anchor": "2-the-word-of-allah-eternal-and-divine"
+        },
+        {
+          "level": 3,
+          "text": "What is its nature?",
+          "anchor": "what-is-its-nature"
+        },
+        {
+          "level": 2,
+          "text": "3. The Spirit of Allah: Living and Active",
+          "anchor": "3-the-spirit-of-allah-living-and-active"
+        },
+        {
+          "level": 2,
+          "text": "4. The Manifestation of the Word",
+          "anchor": "4-the-manifestation-of-the-word"
+        },
+        {
+          "level": 2,
+          "text": "5. Can the Unlimited Be Limited?",
+          "anchor": "5-can-the-unlimited-be-limited"
+        },
+        {
+          "level": 2,
+          "text": "6. Allah and Relationship",
+          "anchor": "6-allah-and-relationship"
+        },
+        {
+          "level": 2,
+          "text": "7. Tawḥīd in Its Fullness",
+          "anchor": "7-tawd-in-its-fullness"
+        },
+        {
+          "level": 2,
+          "text": "8. The Error of Reduction",
+          "anchor": "8-the-error-of-reduction"
+        },
+        {
+          "level": 2,
+          "text": "Conclusion",
+          "anchor": "conclusion"
+        }
+      ],
+      "file": "bashir/tawhid.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 3
+    },
+    {
       "url": "/dawah",
       "tocpath": null,
       "title": "Answers to Dawah script nonsense",
