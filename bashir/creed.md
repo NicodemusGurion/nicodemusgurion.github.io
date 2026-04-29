@@ -70,11 +70,10 @@ We reject all portrayals of him that contradict the اخلاق (moral character)
 
 We affirm:
 
-
 - He is the eternal divine Word of Allah cast down into the womb of Mariam (Mary) and clothed in flesh by her. Sharing fully in the humanity of Mariam yet also sharing fully in the divinity of Allah.
 	- Our brothers and sisters regard the Quran as the eternal word of Allah, eternal yet existing in physical form as a book of paper and ink. We affirm that the Word of Allah also came in the form of a man of flesh and blood - Isa.
 - He is the Masih (Messiah)
-	- The Masih, according to the Word of Allah, is the One who will save humanity from sin and hell by sacrificing himself, regain his glory, and rule as king forever.
+	- The Masih, according to the revealed Word of Allah, is the One who will save humanity from sin and hell by sacrificing himself, regain his glory, and rule as king forever.
 - He is sign and mercy to all mankind
 	- His Injil spread to all the world, including the Arabic tribes through His messenger Muhammad (ﷺ), praise be to Allah!
 
