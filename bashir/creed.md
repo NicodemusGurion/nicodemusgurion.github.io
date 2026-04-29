@@ -2,6 +2,7 @@
 layout: page
 title: Our Creed
 permalink: /bashir/creed/
+image: https://i.ibb.co/1fF1fr45/0-B1-E1-BE5-EF3-F-4-A8-C-8-F0-D-9110188-E6-BCB.jpg
 search: true
 toc: true
 menu: true
