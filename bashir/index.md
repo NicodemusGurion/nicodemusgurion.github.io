@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Original Quran only Muslims 
-permalink: /OQOM/
+title: Ummatu al-Bashir
+permalink: /bashir/
 image: https://i.ibb.co/zhNd6CKP/IMG-0998.png
 search: true
 toc: true
