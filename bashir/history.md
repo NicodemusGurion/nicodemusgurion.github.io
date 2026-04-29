@@ -1,12 +1,11 @@
 ---
 layout: page
 title: The true history of Muhammad (ﷺ) 
-permalink: /OQOM/history/
-image: https://i.ibb.co/zhNd6CKP/IMG-0998.png
+permalink: /bashir/history/
 search: true
 toc: true
 menu: true
-nav_order: 1
+nav_order: 2
 ---
 
 ## A Brief Historical Account of the Life of Muhammad (ﷺ)  

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ummatu al-Bashir
+title: Ummatu al-Bashir 
 permalink: /bashir/
 image: https://i.ibb.co/zhNd6CKP/IMG-0998.png
 search: true
@@ -16,7 +16,12 @@ nav_order: 3
 
 Peace be upon those who follow the guidance.
 
+Welcome to Ummatu al-Bashir (أمة البشير), the Community of the Bearer of Good News.
+
 We are a community devoted to the restoration of the original, uncorrupted revelation sent by Allah (سبحانه وتعالى) to His servant Muhammad (ﷺ). Our mission is not innovation—but purification. Not rebellion — but العودة (return) to the truth that was once واضح (clear), before it was altered by the hands of men seeking power.
+
+* [The Creed of Ummatu al-Bashir](/bashir/creed/)
+* [The true history of Muhammad (ﷺ)](/bashir/history)
 
 ---
 
