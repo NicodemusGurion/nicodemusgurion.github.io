@@ -1,12 +1,12 @@
 ---
+layout: page
 title: Rebekah was 3 years old when she married Isaac. 
 search: true
+image: https://i.ibb.co/nNn11fbP/322-D7590-BEB8-4-CDE-8-E6-C-9034-B9586-CB9.png
 toc: true
 menu: true
 permalink: /dawah/rebekah/
 ---
-
-
 
 
 Claim: Rebekah was 3 years old when she married Isaac.
