@@ -123,7 +123,7 @@ So here Muhammad is wearing the clothes of Aisha, and even entertaining guests, 
 
 > I heard the Prophet saying. "Five practices are characteristics of the Fitra: circumcision, shaving the pubic hair, cutting the moustaches short, clipping the nails, and depilating the hair of the armpits."
 
-The metrosexual Muhammad shaved his public hair and armpit hair. This is also a command for all Muslim men.
+The metrosexual Muhammad shaved his pubic hair and armpit hair. This is also a command for all Muslim men.
 
 
 # His character {#character}
