@@ -271,6 +271,36 @@ So the Quran is denying tritheism, which is a form of polytheism. That leaves us
 
 [Surah 3:45](https://quran.com/3/45) also says Jesus is a Word from Allah, honored in this world and the hereafter, and one closest to Allah. The question is only, how close? So close in fact that he is one in essence with Allah.
 
+### Who is the first muslim?
+
+#### Muhammad is the first muslim
+
+Surah 6:163
+
+> "He has no partner. And of this I have been commanded, and I am the first of the Muslims."
+
+Surah 39:12 
+
+> "And I am commanded (this) in order that I may be the first of those who submit themselves to Allâh (in Islâm) as Muslims."
+
+#### Moses is the first Muslim.
+
+Surah 7:143
+
+> When Moses came at the appointed time and his Lord spoke to him, he asked, “My Lord! Reveal Yourself to me so I may see You.” Allah answered, “You cannot see Me! But look at the mountain. If it remains firm in its place, only then will you see Me.” When his Lord appeared to the mountain, He levelled it to dust and Moses collapsed unconscious. When he recovered, he cried, “Glory be to You! I turn to You in repentance and I am the first of the believers.”
+
+#### Abraham was the first Muslim
+
+Surah 2:132
+
+> And Abraham instructed his sons [to do the same] and [so did] Jacob, [saying], "O my sons, indeed Allāh has chosen for you this religion, so do not die except while you are Muslims."
+
+#### Adam was the first Muslim
+
+Surah 20:115
+
+> We had given a directive to ’Ādam earlier, then he forgot, and We did not find in him a firm resolve.
+
 
 
 ### Did Allah create the heavens or the earth first?
