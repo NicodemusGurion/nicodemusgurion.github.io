@@ -15,6 +15,8 @@ nav_order: 9
 
 [Religiosity survey from Iran](/public/pdf/GAMAAN-Iran-Religion-Survey-2020-English.pdf)
 
+[A Whole-Population Study of National Trends in Child Abuse and Neglect by Sex, Race, and Ethnicity in the US](https://pubmed.ncbi.nlm.nih.gov/41212569/)
+
 # Papers
 
 [The physical death of Jesus](/public/pdf/The_Physical_Death_of_Jesus.pdf)
