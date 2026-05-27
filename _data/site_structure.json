@@ -2034,6 +2034,31 @@
         },
         {
           "level": 3,
+          "text": "Who is the first muslim?",
+          "anchor": "who-is-the-first-muslim"
+        },
+        {
+          "level": 4,
+          "text": "Muhammad is the first muslim",
+          "anchor": "muhammad-is-the-first-muslim"
+        },
+        {
+          "level": 4,
+          "text": "Moses is the first Muslim.",
+          "anchor": "moses-is-the-first-muslim"
+        },
+        {
+          "level": 4,
+          "text": "Abraham was the first Muslim",
+          "anchor": "abraham-was-the-first-muslim"
+        },
+        {
+          "level": 4,
+          "text": "Adam was the first Muslim",
+          "anchor": "adam-was-the-first-muslim"
+        },
+        {
+          "level": 3,
           "text": "Did Allah create the heavens or the earth first?",
           "anchor": "did-allah-create-the-heavens-or-the-earth-first"
         },
