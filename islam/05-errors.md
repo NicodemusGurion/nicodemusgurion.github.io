@@ -55,7 +55,7 @@ When Mary is visited by Gabriel:
 
 The angel Gabriel came to Mary to announce her election as the mother of Jesus, but it was the Holy Spirit who made her conceive. The Quran conflates these and says that the Angel Gabriel is the Holy Spirit.
 
-## Mary the mother of Jesus is the brother of Aaron {#mary-mariam}
+## Mary the mother of Jesus is the sister of Aaron {#mary-mariam}
 
 [Surah 19:27-28](https://quran.com/19/27-28)
 
