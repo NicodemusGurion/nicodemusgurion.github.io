@@ -66,18 +66,19 @@ details[open] > summary::after {
 .featured-thumbnail-mini {width:1.4em;height:1.4em;float:left;margin-right:0.5em;border:thin black solid;}
 .featured-image-post{width:100%;object-fit:cover;object-position: center;}
 
-/* Collapsing tables on small device screens */
+/* Scrolling tables on small device screens */
+
 
 table {
-  width: 100vw;
-  border-collapse: collapse;
-  -webkit-overflow-scrolling: touch;
-  overflow-x: auto;
+    display: block;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
 }
 
-th, td {
-  border: 1px solid #ddd;
-  padding: 8px;
+table th,
+table td {
+    white-space: nowrap;
 }
-
 
