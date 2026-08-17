@@ -4899,6 +4899,27 @@
       "nav_order": 999999
     },
     {
+      "url": "/dawah/islamic-jesus",
+      "tocpath": null,
+      "title": "What Islam teaches about Jesus",
+      "headers": [
+        {
+          "level": 1,
+          "text": "What the Quran teaches about Jesus",
+          "anchor": "what-the-quran-teaches-about-jesus"
+        },
+        {
+          "level": 1,
+          "text": "Every Quran verse about Jesus",
+          "anchor": "every-quran-verse-about-jesus"
+        }
+      ],
+      "file": "dawah/islam-about-jesus.md",
+      "include_in_menu": true,
+      "exclude_children": false,
+      "nav_order": 999999
+    },
+    {
       "url": "/dawah/jesus-never-claimed-to-be-god",
       "tocpath": null,
       "title": "Jesus never claimed to be God",
