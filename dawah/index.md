@@ -58,3 +58,5 @@ Attacking the character of Christianity or Christians is a red herring tactic to
 Islam has no authority. It's literally nothing but an illiterate caveman asking us to believe his stories with no evidence just because he said so. So therefore Muslims often try to leech authority from the Bible, Christians or Jews, while at the same time attacking these.
 
 - ["We worship the same God as the Christians and Jews"](allah-vs-yahweh)
+- ["We respect Jesus"](islamic-jesus)
+
