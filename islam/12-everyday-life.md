@@ -104,6 +104,14 @@ See also:
 
 > God’s messenger forbade us to face the qibla when easing ourselves or passing water, or to wipe ourselves with the right hand, or to wipe ourselves with less than three stones, or to wipe ourselves with dung or bone.
 
+## Don't pray or poop in the middle of the road
+
+[Sunan Ibn Majah 330](https://sunnah.com/ibnmajah:330) (Daif)
+
+> The Prophet forbade praying in the middle of the road, or defecating there, or urinating.
+
+
+
 ## Muslims must dye their hair
 
 [Sahih al-Bukhari 3462](https://sunnah.com/bukhari:3462)

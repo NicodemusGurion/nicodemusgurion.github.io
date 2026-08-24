@@ -400,6 +400,13 @@ She was a good wife, and he murdered her because he was brainwashed by his cult 
 
 When Muslims lie about people in the Bible being Muslims, remind them that Muhammad was the first ever Muslim. 
 
+
+## Muhammad agrees Moses is greater than him
+
+[Sahih al-Bukhari 6917](https://sunnah.com/bukhari:6917)
+
+> A Jew whose face had been slapped (by someone), came to the Prophet and said, "O Muhammad! A man from your Ansari companions slapped me. " The Prophet said, "Call him". They called him and the Prophet asked him, "Why did you slap his face?" He said, "O Allah's Messenger! While I was passing by the Jews, I heard him saying, 'By Him Who chose Moses above all the human beings.' I said (protestingly), 'Even above Muhammad?' So I became furious and slapped him." The Prophet said, "Do not give me preference to other prophets, for the people will become unconscious on the Day of Resurrection and I will be the first to gain conscious, and behold, I will Find Moses holding one of the pillars of the Throne (of Allah). Then I will not know whether he has become conscious before me or he has been exempted because of his unconsciousness at the mountain (during his worldly life) which he received."
+
 ## He can not save you {#no-salvation}
 
 [Sahih al-Bukhari 2753](https://sunnah.com/bukhari:2753)

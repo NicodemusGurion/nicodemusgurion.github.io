@@ -232,6 +232,18 @@ Surah 55:72-74
 
 “Fair ones reserved in pavilions. Untouched before by any man or jinn.” 
 
+### Eternal erections, desirable front passages, women from hell {#eternal-erections}
+
+
+
+[Sunan Ibn Majah 4337](https://sunnah.com/ibnmajah:4337)
+
+> There is no one whom Allah will admit to Paradise but Allah will marry him to seventy-two wives, two from houris and seventy from his inheritance from the people of Hell, all of whom will have desirable front passages and he will have a male member that never becomes flaccid (i.e., soft and limp).’
+
+The Islamic paradise is just a sex club. Notice that of the 72 wives, this are houris, and the rest are women (I suppose) from hell. So the hell punishment of a woman could include having sex with a Muslim man for all eternity. 
+
+Notice that the man's own wife or wives are not mentioned, but rather only specialized prostitutes and convicted felons.
+
 
 ### Houris have large, round, firm, swelling breasts {#breasts}
 
@@ -383,6 +395,12 @@ However Muhammed looked up to heaven while praying.
 [Sahih al-Bukhari 511](https://sunnah.com/bukhari:511)
 
 > Narrated Aisha: The things which annul the prayers were mentioned before me. They said, "Prayer is annulled by a dog, a donkey and a woman (if they pass in front of the praying people)."
+
+## Prayer is not accepted if you fart {#fart-prayer}
+
+[Sahih al-Bukhari 135](https://sunnah.com/bukhari:135)
+
+> Allah's Messenger said, "The prayer of a person who does Hadath (passes urine, stool or wind) is not accepted till he performs the ablution."
 
 ## Muslims pray to Muhammad 
 

@@ -31,6 +31,21 @@ See also:
 
 - [Sunan Ibn Majah 2535](https://sunnah.com/ibnmajah:2535)
 
+### Apostate was chained and executed
+
+
+[Sahih al-Bukhari 6923](https://sunnah.com/bukhari:6923)
+
+> Behold: There was a fettered man beside Abu Muisa. Mu'adh asked, "Who is this (man)?" Abu Muisa said, "He was a Jew and became a Muslim and then reverted back to Judaism." Then Abu Muisa requested Mu'adh to sit down but Mu'adh said, "I will not sit down till he has been killed. This is the judgment of Allah and His Apostle (for such cases) and repeated it thrice. Then Abu Musa ordered that the man be killed, and he was killed.
+
+
+### Atheists burned alive
+
+[Sahih al-Bukhari 6922](https://sunnah.com/bukhari:6922)
+
+> Some Zanadiqa (atheists) were brought to 'Ali and he burnt them. The news of this event, reached Ibn 'Abbas who said, "If I had been in his place, I would not have burnt them, as Allah's Messenger forbade it, saying, 'Do not punish anybody with Allah's punishment (fire).' I would have killed them according to the statement of Allah's Messenger, 'Whoever changed his Islamic religion, then kill him.'"
+
+
 ### Give apostates a chance to repent, and if they don't, kill them
 
 
@@ -317,6 +332,12 @@ This is the future of your country if you invite Islam: They will sooner or late
 
 > When one of you prays without a sutra, an ass, a pig, a Jew, a Magian, and a woman cut off his prayer.
 
+
+## Jews allegedly wish death upon Muslims 
+
+[Sahih al-Bukhari 6928](https://sunnah.com/bukhari:6928)
+
+> Allah's Messenger said, "When the Jews greet anyone of you they say: 'Sam'Alaika (death be upon you); so you should say; 'Wa 'Alaika (and upon you).'"
 
 
 ## Islam's Final Solution to the Jewish Question {#final-solution}
