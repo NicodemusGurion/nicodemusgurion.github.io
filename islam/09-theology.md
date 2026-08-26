@@ -368,6 +368,13 @@ I don't know how a pearl could have corners, but apparently at the corners of th
 
 # Prayer
 
+## Don't pray in the middle of the street
+
+[Sunan Ibn Majah 330](https://sunnah.com/ibnmajah:330) (Daif)
+
+> The Prophet forbade praying in the middle of the road, or defecating there, or urinating.
+
+
 ## Looking up while praying makes you go blind {#praying-blind}
 
 [Sahih al Bukhari 750](https://sunnah.com/bukhari:750)
