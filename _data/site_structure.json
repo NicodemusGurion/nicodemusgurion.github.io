@@ -3067,6 +3067,11 @@
         },
         {
           "level": 2,
+          "text": "Don't pray in the middle of the street",
+          "anchor": "dont-pray-in-the-middle-of-the-street"
+        },
+        {
+          "level": 2,
           "text": "Looking up while praying makes you go blind",
           "anchor": "praying-blind"
         },
