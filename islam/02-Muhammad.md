@@ -435,6 +435,17 @@ Muhammad predicted that plagues (epidemic illnesses) would not be able to enter 
 
 [Turns out he was wrong](https://archive.fo/VQDJH). Perhaps those angels were off duty?
 
+## He couldn't predict which wife would die first
+
+[Sahih al-Bukhari 1420](https://sunnah.com/bukhari:1420)
+
+
+> Narrated Aisha: Some of the wives of the Prophet asked him, "Who amongst us will be the first to follow you (i.e. die after you)?" He said, "Whoever has the longest hand." So they started measuring their hands with a stick and Sauda's hand turned out to be the longest. (When Zainab bint Jahsh died first of all in the caliphate of Umar), we came to know that the long hand was a symbol of practicing charity, so she was the first to follow the Prophet and she used to love to practice charity. (Sauda died later in the caliphate of Muawiya).
+
+Muhammad prophesied that the wife with the longest hands would die first, but another wife died before her. This forced the followers to retrofit his false prophecy as an euphemism for charity.
+
+Note: Having long hands/arms is an ancient Near East idiom for having power, not for charity.
+
 
 ## He predicted that the last hour would come before a young man grew old
 

@@ -19,6 +19,13 @@ Also:
 - [Sunnah Mishkat al-Masabih 316](https://sunnah.com/mishkat:316)
 - [Sunnah Ibn Majah 477](https://sunnah.com/ibnmajah:477)
 
+# The buttocks of the women of Daub
+
+[Sahih al-Bukhari 7116](https://sunnah.com/bukhari:7116)
+
+> Allah's Messenger said, "The Hour will not be established till the buttocks of the women of the tribe of Daus move while going round Dhi-al-Khalasa." Dhi-al-Khalasa was the idol of the Daus tribe which they used to worship in the Pre Islamic Period of ignorance.
+
+No comment.
 
 
 # Muhammad comforted a crying date palm

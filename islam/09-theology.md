@@ -65,6 +65,17 @@ See also:
 [Everyday life as a Muslim - Kill all dogs](https://thyreon.com/islam/life#kill-all-dogs)
 
 
+# The dajjal
+
+## One eyed 
+
+[Sahih al-Bukhari 7123](https://sunnah.com/bukhari:7123)
+
+> The Prophet said (about Ad-Dajjal) that he is one eyed, his right eye is as if a protruding out grape."
+
+[Sahih al-Bukhari 7127](https://sunnah.com/bukhari:7127)
+
+> Ad- Dajjal is one-eyed whereas Allah is not
 
 # Death
 
@@ -153,6 +164,34 @@ If demons wants you to follow Islam, that should be enough for you to understand
 
 
 
+
+
+# Judgment day (and its signs) }#judgment-day}
+
+## Buttocks will move {#buttocks}
+
+[Sahih al-Bukhari 7116](https://sunnah.com/bukhari:7116)
+
+> Allah's Messenger said, "The Hour will not be established till the buttocks of the women of the tribe of Daus move while going round Dhi-al-Khalasa." Dhi-al-Khalasa was the idol of the Daus tribe which they used to worship in the Pre Islamic Period of ignorance.
+
+## Fights with Turks
+
+
+[Sahih al-Bukhari 2928](https://sunnah.com/bukhari:2928)
+
+> …The Hour will not be established until you fight with the Turks; people with small eyes, red faces, and flat noses. Their faces will look like shields coated with leather…
+
+## A man driving stick
+
+[Sahih al-Bukhari 7117](https://sunnah.com/bukhari:7117)
+
+> Allah's Messenger said, "The Hour will not be established till a man from Qahtan appears, driving the people with his stick."
+
+## A mountain of gold under the Euphrates
+
+[Sahih al-Bukhari 7119](https://sunnah.com/bukhari:7119)
+
+Allah's Messenger said, "Soon the river "Euphrates" will disclose the treasure (the mountain) of gold, so whoever will be present at that time should not take anything of it." Al-A'raj narrated from Abii Huraira that the Prophet said the same but he said, "It (Euphrates) will uncover a mountain of gold (under it).
 
 
 # The Kaaba and Qiblah {#kaaba}
