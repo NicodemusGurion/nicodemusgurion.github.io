@@ -2213,6 +2213,16 @@
           "anchor": "kill-hypocrites"
         },
         {
+          "level": 1,
+          "text": "Dealing with naughty Muslims",
+          "anchor": "dealing-with-naughty-muslims"
+        },
+        {
+          "level": 2,
+          "text": "Burn alive those who miss the prayer",
+          "anchor": "burn-alive-those-who-miss-the-prayer"
+        },
+        {
           "level": 2,
           "text": "Muslims may not resemble Jews or Christians",
           "anchor": "muslims-may-not-resemble-jews-or-christians"
@@ -4650,6 +4660,92 @@
       ],
       "file": "index.html",
       "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 999999
+    },
+    {
+      "url": "/anti-dawah",
+      "tocpath": null,
+      "title": "Islam and Christianity worship the same God",
+      "headers": [
+        {
+          "level": 1,
+          "text": "Anti-Dawah Manual",
+          "anchor": "anti-dawah-manual"
+        },
+        {
+          "level": 2,
+          "text": "Exposing the Character of Muhammad and the Teachings of Islam",
+          "anchor": "exposing-the-character-of-muhammad-and-the-teachings-of-islam"
+        },
+        {
+          "level": 3,
+          "text": "How to Use This Manual",
+          "anchor": "how-to-use-this-manual"
+        },
+        {
+          "level": 3,
+          "text": "Core Character Attacks on Muhammad",
+          "anchor": "core-character-attacks-on-muhammad"
+        },
+        {
+          "level": 3,
+          "text": "Violence, Jihad & Eternal Commands",
+          "anchor": "violence-jihad-eternal-commands"
+        },
+        {
+          "level": 3,
+          "text": "Lying / Taqiyya",
+          "anchor": "lying-taqiyya"
+        },
+        {
+          "level": 3,
+          "text": "Women & Children",
+          "anchor": "women-children"
+        },
+        {
+          "level": 3,
+          "text": "Non-Muslims, Jews, Christians, Atheists",
+          "anchor": "non-muslims-jews-christians-atheists"
+        },
+        {
+          "level": 3,
+          "text": "Homosexuality",
+          "anchor": "homosexuality"
+        },
+        {
+          "level": 3,
+          "text": "Weird / Unscientific Claims",
+          "anchor": "weird-unscientific-claims"
+        },
+        {
+          "level": 3,
+          "text": "Ready Copy-Paste Posts & Comments",
+          "anchor": "ready-copy-paste-posts-comments"
+        },
+        {
+          "level": 3,
+          "text": "Common Muslim Comebacks & Rebuttals",
+          "anchor": "common-muslim-comebacks-rebuttals"
+        },
+        {
+          "level": 3,
+          "text": "Christianity Comparison Table (for non-Christians or quick contrast)",
+          "anchor": "christianity-comparison-table-for-non-christians-or-quick-contrast"
+        },
+        {
+          "level": 3,
+          "text": "Trinity / Eternal Quran Rebuttal",
+          "anchor": "trinity-eternal-quran-rebuttal"
+        },
+        {
+          "level": 3,
+          "text": "Further Reading from thyreon.com/islam/",
+          "anchor": "further-reading-from-thyreoncomislam"
+        }
+      ],
+      "file": "dawah/anti-dawah.md",
+      "include_in_menu": true,
       "exclude_children": false,
       "nav_order": 999999
     },
