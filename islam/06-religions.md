@@ -100,6 +100,15 @@ See also:
 
 - [Jami` at-Tirmidhi 1458](https://sunnah.com/tirmidhi:1458)
 
+# Dealing with naughty Muslims
+
+## Burn alive those who miss the prayer
+
+[Sahih Muslim 652](https://sunnah.com/muslim:652)
+
+> 'Abdullah reported Allah's Messenger as saying about people who are absent from Jumu'a prayer: I intend that I should command a person to lead people in prayer, and then **burn those persons** who absent themselves from Jumu'a prayer in their houses.
+
+
 ## Muslims may not resemble Jews or Christians
 
 [Jami` at-Tirmidhi 2695](https://sunnah.com/tirmidhi:2695)
