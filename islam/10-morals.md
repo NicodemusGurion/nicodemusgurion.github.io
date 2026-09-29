@@ -530,6 +530,12 @@ Ever wondered why Islamic terrorists behead their victims? It's by the book.
 Allah will use **terror** against unbelievers. By what method? By Muslims **killing them by His permission**. And then Allah will burn them in **the Fire** forever. But is this a coincidence? No, if a Muslims had a shred of humanity and **faltered and disagreed with each other about the matter** whether terrorism is good, Allah sees that as them having **disobeyed** him.
 
 
+### Kill the men and enslaved the women and children
+
+[Sahih Muslim 1766 a](https://sunnah.com/muslim:1766)
+
+> Then he killed their men, and distributed their women, children and properties among the Muslims,
+
 
 ## View on violence and terrorism
 
