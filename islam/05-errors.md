@@ -137,6 +137,22 @@ John is not a unique name. in fact it was one of the most popular names in the f
 
 The Quran denies the crucifixion of Jesus, the most verified fact of ancient history, and the pinnacle of the Bible and cornerstone of Christianity.
 
+### Jesus doesn't know what is in God
+
+[Surah 5:116](https://quran.com/5/116)
+
+> You know what is ˹hidden˺ within me, but I do not know what is within You.
+
+Matthew 11:27
+
+> Everything has been committed to me by my Father; and no one knows the Son except the Father, nor does anyone know the Father except the Son and he to whom the Son chooses to disclose him.
+
+John 1:18
+
+> No man has seen God at any time; but the only begotten God, who is in the bosom of the Father, he has declared him.
+
+Islam denies the intimate relationship between Jesus and God the Father, saying Jesus does not know God, whereas Jesus himself said that no one knows God except him and those whom he reveals God to.
+
 ### Who named the animals?
 
 [Surah 2:31](https://quran.com/2/31)
