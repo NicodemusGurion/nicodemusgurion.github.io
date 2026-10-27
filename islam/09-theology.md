@@ -343,6 +343,14 @@ Also the Muslims will have eternally erect penises.
 
 > Abu Sa'id reported God's messenger as saying, "The lowliest of the inhabitants of paradise will be he who has eighty thousand servants, seventy-two wives,...
 
+## Men can become pregnant in Paradise {#pregnant-men}
+
+[Jami` at-Tirmidhi 2563](https://sunnah.com/tirmidhi:2563)
+
+> Abu Sa'eed Al-Khudri narrated that the Messenger of Allah said: "The believer, when **he** desires a child in Paradise, he shall be carried (in pregnancy), born, and complete his aging in an hour as he desires."
+
+
+
 
 ## All fruit looks the same in paradise {#boring-fruit}
 
