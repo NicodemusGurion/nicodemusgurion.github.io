@@ -3326,8 +3326,58 @@
       "headers": [
         {
           "level": 1,
+          "text": "Child abuse",
+          "anchor": "child-abuse"
+        },
+        {
+          "level": 2,
+          "text": "Psychological child abuse",
+          "anchor": "psychological-child-abuse"
+        },
+        {
+          "level": 3,
+          "text": "Muhammad cursed an orphan girl to die young",
+          "anchor": "muhammad-cursed-orphan"
+        },
+        {
+          "level": 2,
+          "text": "Violent child abuse",
+          "anchor": "violent-child-abuse"
+        },
+        {
+          "level": 3,
+          "text": "Aisha would beat orphans into submission",
+          "anchor": "aisha-beat-orphans"
+        },
+        {
+          "level": 2,
+          "text": "Sexual child abuse",
+          "anchor": "csa"
+        },
+        {
+          "level": 3,
+          "text": "Muhammad raped Aisha",
+          "anchor": "muhammad-raped-aisha"
+        },
+        {
+          "level": 2,
+          "text": "Islam allows child marriage",
+          "anchor": "child-marriage"
+        },
+        {
+          "level": 1,
           "text": "Divorce",
           "anchor": "divorce"
+        },
+        {
+          "level": 2,
+          "text": "Islam promotes marrying, raping, and divorcing prepubescent girls",
+          "anchor": "islam-promotes-marrying-raping-and-divorcing-prepubescent-girls"
+        },
+        {
+          "level": 2,
+          "text": "Divorce laws promote promiscuity",
+          "anchor": "divorce-laws-promote-promiscuity"
         },
         {
           "level": 1,
