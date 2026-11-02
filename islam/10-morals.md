@@ -7,7 +7,7 @@ menu: true
 nav_order: 10
 ---
 
-# Child abuse
+# Child abuse 
 
 Islam is all about domination, violence, and hurting people - the characteristics of Satan. And Satan hates none more than those God loves the most - Children. so therefore it is no surprise that Islam - through the example of Muhammad and others - promote abuse of children, both psychologically, physically, and sexually.
 
