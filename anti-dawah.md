@@ -25,9 +25,12 @@ permalink: /anti-dawah/
 
 
 ### Core Character Attacks on Muhammad
+
 **Pedophile / Child Marriage**  
 - Sahih al-Bukhari 5133 / 5134 / 3896 (and parallel in Muslim 1422, Nasa’i 3378): Aisha reports the Prophet married her at six and consummated at nine. She was still playing with dolls (pre-pubescent).  
-- Quran 65:4 regulates the waiting period after divorce for “those who have not menstruated” in the context of wives — classical understanding includes prepubescent girls.  
+- Quran 65:4 regulates the waiting period after divorce for “those who have not menstruated” in the context of wives — classical understanding includes prepubescent girls.
+
+
 **Ready line:** “Your most authentic sources say Muhammad married a 6-year-old and had sex with her at 9. Do you condemn men who have sex with children, or do you think it’s fine because he did it?”
 
 **Terrorist / Warlord**  

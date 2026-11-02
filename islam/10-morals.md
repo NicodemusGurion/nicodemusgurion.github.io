@@ -7,14 +7,92 @@ menu: true
 nav_order: 10
 ---
 
+# Child abuse
+
+Islam is all about domination, violence, and hurting people - the characteristics of Satan. And Satan hates none more than those God loves the most - Children. so therefore it is no surprise that Islam - through the example of Muhammad and others - promote abuse of children, both psychologically, physically, and sexually.
+
+## Psychological child abuse
+
+### Muhammad cursed an orphan girl to die young {#muhammad-cursed-orphan}
+
+[Sahih Muslim 2603](https://sunnah.com/muslim:2603)
+
+> Anas b. Malik reported that there was an orphan girl with Umm Sulaim (who was the mother of Anas). Allah's Messenger saw that orphan girl and said: O, it is you; you have grown young. May you not advance in years! That slave-girl returned to Umm Sulaim weeping. Umm Sulaim said: O daughter, what is the matter with you? She said: Allah's Apostle has invoked curse upon me that I should not grow in age and thus I would never grow in age…
+
+The Bible says that being kind and help orphans in their need is pure and undefiled worship. (James 1:27) 
+
+Even [Surah 93:9](https://quran.com/93/9) says "so as for the orphan, do not oppress them". But Muhammad curses this orphan girl to die young. A young girl, with no mother or father, who is a slave, this girl already has a tough life and Muhammad decides to break her heart and psychologically traumatize her. When asked why, he smiles and says it doesn't matter because she'll go to paradise when she dies anyway. Sick and twisted.
+
+
+Exodus 22:22 says "You shall not mistreat any widow or fatherless child."
+
+## Violent child abuse
+
+### Aisha would beat orphans into submission {#aisha-beat-orphans}
+
+[Al-Adab Al-Mufrad 142](https://sunnah.com/adab:142)
+
+Shumaysa al-'Atakiyya said, "The disciplining of orphans was mentioned in the presence of 'A'isha and she said, 'I would beat an orphan until he submits.'"
+
+
+## Sexual child abuse {#csa}
+
+[See Muhammad was a pedophile](/islam/muhammad#pedophile)
+
+### Muhammad raped Aisha
+
+[Sunan an Nasa'i 3378](https://sunnah.com/nasai:3378)
+
+> "The Messenger of Allah married me when I was six, and consummated the marriage with me when I was nine, and I used to play with dolls."
+
+[Sahih al Bukhari 6130](https://sunnah.com/bukhari:6130)
+
+> Narrated 'Aisha: I used to play with the dolls in the presence of the Prophet, and my girl friends also used to play with me. When Allah's Messenger  used to enter (my dwelling place) they used to hide themselves, but the Prophet would call them to join and play with me. (The playing with the dolls and similar images is forbidden, but it was allowed for 'Aisha at that time, as she was **a little girl, not yet reached the age of puberty.**) (Fath-ul-Bari page 143, Vol.13)
+
+Aisha, the favorite wife of Muhammad, was 6 years old when Muhammad married her, and he had sex with their when she was only 9 years old. She was prepubescent, still playing with dolls together with her playmates. Dolls are usually forbidden but we're allowed for Aisha since she was a "little girl" so young that normal Islamic rules didn't yet apply to her.
+
+See also:
+
+- [Sahih al Bukhari 3896](https://sunnah.com/bukhari:3896)
+- [Sahih al Bukhari 5133](https://sunnah.com/bukhari:5133)
+- [Sahih al Bukhari 5134](https://sunnah.com/bukhari:5134)
+- [Sahih al Bukhari 5158](https://sunnah.com/bukhari:5158)
+- [Sahih Muslim 1422c](https://sunnah.com/muslim:1422c)
+- [Sahih Muslim 1422b](https://sunnah.com/muslim:1422b)
+- [Sunnah ibn Majah 1876](https://sunnah.com/ibnmajah:1876)
+- [Sunnah ibn Majah 1982](https://sunnah.com/ibnmajah:1982)
+- [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
+- [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
+
+
+## Islam allows child marriage {#child-marriage}
+
+[Surah 65:4](https://quran.com/65/4)
+
+Context from [Surah 65:1](https://quran.com/65/1):
+
+> O Prophet! ˹Instruct the believers:˺ **When you intend to˺ divorce women, then divorce them with concern for their waiting period**...
+
+There's a waiting period a divorced woman has to wait before she can remarry.  
+
+> As for your women past the age of menstruation, in case you do not know, their waiting period is three months, **and those who have not menstruated as well**. As for those who are pregnant, their waiting period ends with delivery. And whoever is mindful of Allah, He will make their matters easy for them.
+
+This means men are allowed to marry and divorce prepubescent girls.
+
 
 # Divorce
+
+## Islam promotes marrying, raping, and divorcing prepubescent girls
+
+[See Islam allows child marriage](#child-marriage)
+
+## Divorce laws promote promiscuity
 
 [Surah 2:230](https://quran.com/2/230)
 
 > So if a husband divorces his wife, then it is not lawful for him to remarry her until after she has married another man and then is divorced. 
 
-Before a man can remarry a wife he divorced, she must first be passed around like a joint for others to enjoy.
+Before a man can remarry a wife he divorced, she must first be passed around as a sex toy for others to enjoy.
 
 In Deuteronomy 24:1-4 gives the exact opposite command:
 
@@ -24,6 +102,8 @@ In Deuteronomy 24:1-4 gives the exact opposite command:
 # Intoxicants 
 
 See [Surah 5:90,91](https://quran.com/5/90,91)[; 16:65-69](https://quran.com/16/65-69)[; 37:43-46](https://quran.com/37/43-46)[; 47:15](https://quran.com/47/15)[; 83:22-26](https://quran.com/83/22-26)
+
+[See also Contradictions - Wine is from Satan but is served in paradise](/islam/errors#satanic-wine-in-paradise)
 
 ## Intoxicants (wine) is one of the blessings of Allah
 
