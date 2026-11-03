@@ -211,3 +211,5 @@ This is the complete set of Jesus' direct speech in the Quran. Nothing else exis
 The distribution is lopsided in a way that is itself the point: roughly a third of the material is polemic against Christian doctrine (his divinity, the Trinity, the crucifixion), another third is miracle narrative, and the teaching proper occupies fewer than a dozen verses. His recorded speech is almost entirely about *who he is* and *who sent him* — "a servant," "a messenger," "worship Allah, my Lord and your Lord." The Quran's Jesus preaches almost nothing except his own subordinate status, and 5:116–117 extends that even to the eschaton, where he explicitly disclaims having taught the Trinity.
 
 The one place a Gospel-like register appears is 19:30–33, and even there the content is cultic (prayer, alms, filial duty) rather than ethical.
+
+
