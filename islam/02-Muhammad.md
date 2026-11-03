@@ -11,7 +11,7 @@ nav_order: 2
 
 Everything you wanted to know about Muhammad but were afraid to ask.
 
-# His appearance {#appearance}
+# Muhammad's appearance {#appearance}
 
 What did he look like?
 
@@ -126,7 +126,7 @@ So here Muhammad is wearing the clothes of Aisha, and even entertaining guests, 
 The metrosexual Muhammad shaved his pubic hair and armpit hair. This is also a command for all Muslim men.
 
 
-# His character {#character}
+# Muhammad's character {#character}
 
 ## Muhammad was illiterate {#illiterate}
 
@@ -314,7 +314,7 @@ Muhammad didn't practice what he preached.
 Muhammad's incompetence caused the harvest to almost fail, yet he had the gall to tell people to consult him.
 
 
-## He probably stole a red velvet cloth {#red-velvet}
+## Muhammad probably stole a red velvet cloth {#red-velvet}
 
 [Sunan Abi Dawud 3971](https://sunnah.com/abudawud:3971)
 
@@ -342,14 +342,14 @@ I guess Abdullah Ibn Abbas had his suspicions, since he told both stories of how
 
 Also [Ash-Shama'il Al-Muhammadiyah 3](https://sunnah.com/shamail:3) says Muhammad liked to dress in red, so there's that.
 
-## He was a puppy-killer {#puppy-killer}
+## Muhammad was a puppy-killer {#puppy-killer}
 
 [Sunan an-Nasa'i 4276](https://sunnah.com/nasai:4276)
 
 > the Messenger of Allah commanded that all dogs be killed, even small dogs.
 
 
-## He was a tough guy {#tough-guy}
+## Muhammad was a tough guy {#tough-guy}
 
 [Sahih al-Bukhari 36](https://sunnah.com/bukhari:36)
 
@@ -365,7 +365,7 @@ See also:
 
 
 
-## He condoned murder {#murder}
+## Muhammad condoned murder {#murder}
 
 
 [Sunan an-Nasa'i 4070](https://sunnah.com/nasai:4070)
@@ -381,9 +381,9 @@ She was a good wife, and he murdered her because he was brainwashed by his cult 
 
 
 
-# His prophethood {#prophethood}
+# Muhammad's prophethood {#prophethood}
 
-## He sacrificed to pagan gods {#pagan}
+## Muhammad sacrificed to pagan gods {#pagan}
 
 [Sahih al-Bukhari 5499](https://sunnah.com/bukhari:5499)
 
@@ -392,7 +392,7 @@ She was a good wife, and he murdered her because he was brainwashed by his cult 
 [Zaid ibn Amr Nufayl (died 605) was a monotheist who lived in Mecca shortly before Islam.](https://en.m.wikipedia.org/wiki/Zayd_ibn_Amr)  Muhammad had just come back from sacrificing an animal to the pagan idols, and offered some of the meat to Zaid. Zaid refused, saying he would not eat anything sacrificed to false gods.
 
 
-## He was the first Muslim {#first-muslim}
+## Muhammad was the first Muslim {#first-muslim}
 
 [Surah 6:14](https://quran.com/6/14)
 
@@ -407,7 +407,7 @@ When Muslims lie about people in the Bible being Muslims, remind them that Muham
 
 > A Jew whose face had been slapped (by someone), came to the Prophet and said, "O Muhammad! A man from your Ansari companions slapped me. " The Prophet said, "Call him". They called him and the Prophet asked him, "Why did you slap his face?" He said, "O Allah's Messenger! While I was passing by the Jews, I heard him saying, 'By Him Who chose Moses above all the human beings.' I said (protestingly), 'Even above Muhammad?' So I became furious and slapped him." The Prophet said, "Do not give me preference to other prophets, for the people will become unconscious on the Day of Resurrection and I will be the first to gain conscious, and behold, I will Find Moses holding one of the pillars of the Throne (of Allah). Then I will not know whether he has become conscious before me or he has been exempted because of his unconsciousness at the mountain (during his worldly life) which he received."
 
-## He can not save you {#no-salvation}
+## Muhammad can not save you {#no-salvation}
 
 [Sahih al-Bukhari 2753](https://sunnah.com/bukhari:2753)
 
@@ -416,7 +416,7 @@ When Muslims lie about people in the Bible being Muslims, remind them that Muham
 Jesus, however, can.
 
 
-## He couldn't predict technological advances {#predict-technology}
+## Muhammad couldn't predict technological advances {#predict-technology}
 
 [Sahih al-Bukhari 1039](https://sunnah.com/bukhari:1039)
 
@@ -425,7 +425,7 @@ Jesus, however, can.
 Yes, we can know what is in the womb, and also when it will rain.
 
 
-## He couldn't predict Covid-19 {#predict-covid}
+## Muhammad couldn't predict Covid-19 {#predict-covid}
 
 [Sahih al-Bukhari 1880](https://sunnah.com/bukhari:1880)
 
@@ -435,7 +435,7 @@ Muhammad predicted that plagues (epidemic illnesses) would not be able to enter 
 
 [Turns out he was wrong](https://archive.fo/VQDJH). Perhaps those angels were off duty?
 
-## He couldn't predict which wife would die first
+## Muhammad couldn't predict which wife would die first
 
 [Sahih al-Bukhari 1420](https://sunnah.com/bukhari:1420)
 
@@ -447,7 +447,7 @@ Muhammad prophesied that the wife with the longest hands would die first, but an
 Note: Having long hands/arms is an ancient Near East idiom for having power, not for charity.
 
 
-## He predicted that the last hour would come before a young man grew old
+## Muhammad predicted that the last hour would come before a young man grew old
 
 [Sahih Muslim 2952](https://sunnah.com/muslim:2952)
 
@@ -460,7 +460,7 @@ See also:
 
 - [Sahih Muslim 2953b](https://sunnah.com/muslim:2953b)
 
-## He couldn't remember verses of the Quran
+## Muhammad couldn't remember verses of the Quran
 
 
 [Sahih al-Bukhari 5038](https://sunnah.com/bukhari:5038)
@@ -468,7 +468,7 @@ See also:
 > Allah's Messenger heard a man reciting the Qur'an at night, and said, "May Allah bestow His Mercy on him, as he has reminded me of such-and-such Verses of such-and-such Suras, which I was caused to forget."
 
 
-## He ordered Muslims to cast spells {#cast-spells}
+## Muhammad ordered Muslims to cast spells {#cast-spells}
 
 
 [Mishkat al-Masabih 4527](https://sunnah.com/mishkat:4527)
@@ -476,14 +476,14 @@ See also:
 
 
 
-## He had no idea what Allah will do to him
+## Muhammad had no idea what Allah will do to him
 
 [Sahih al-Bukhari 3929](https://sunnah.com/bukhari:3929)
 
 > By Allah, though I am the Apostle of Allah, yet I do not know what Allah will do to me,
 
 
-## He said the bodies of prophets do not decay, yet his body decayed
+## Muhammad said the bodies of prophets do not decay, yet his body decayed
 
 [Sunan Abi Dawud 1047](https://sunnah.com/abudawud:1047)
 
@@ -505,7 +505,7 @@ Granted, even if Islam were to exhume Muhammad, it would not prove anything, sin
 
 # Muhammad and hygiene {#hygiene}
 
-## He was sickly
+## Muhammad was sickly
 
 [Sahih al-Bukhari 5646](https://sunnah.com/bukhari:5646)
 
@@ -513,7 +513,7 @@ Granted, even if Islam were to exhume Muhammad, it would not prove anything, sin
 
 Maybe that has something to do with him [drinking sewer water](#sewer-water) and [camel urine](#drinking-camel-urine), [licking people's fingers](#licking-hands), and [dipping flies into his drinks](#dip-flies)? 
 
-## He told his followers to drink sewer water {#sewer-water}
+## Muhammad told his followers to drink sewer water {#sewer-water}
 
 [Sunnan Abu Dawud 67](https://sunnah.com/abudawud:67)
 
@@ -530,13 +530,13 @@ See also:
 - [Sunan an-Nasa'i 326](https://sunnah.com/nasai:326)
 - [Sunan an-Nasa'i 327](https://sunnah.com/nasai:327)
 
-## He didn't understand how pollution works
+## Muhammad didn't understand how pollution works
 
 [Sunan an-Nasa'i 328](https://sunnah.com/nasai:328)
 
 > The Messenger of Allah was asked about water and how some animals and carnivorous beasts might drink from it. He said: 'If the water is more than two Qullahs (ca 200 liters), it will not become filthy.'
 
-## He gargled with dick water {#dick-water}
+## Muhammad gargled with dick water {#dick-water}
 
 [Sahih al Bukhari 274](https://sunnah.com/bukhari:274)
 
@@ -549,7 +549,7 @@ See also:
 - [Sahih al Bukhari 257](https://sunnah.com/bukhari:257)
 - [Sahih al Bukhari 276](https://sunnah.com/bukhari:276)
 
-## He had sex with 11 wives but only took one bath {#unwashed-sex}
+## Muhammad had sex with 11 wives but only took one bath {#unwashed-sex}
 
 [Sunan Ibn Majah 589](https://sunnah.com/ibnmajah:589)
 
@@ -561,7 +561,7 @@ See also:
 
 - [Sunnan Abu Dawud 218](https://sunnah.com/abudawud:218)
 
-## He told his followers to lick each other's hands {#licking-hands}
+## Muhammad told his followers to lick each other's hands {#licking-hands}
 
 [Sahih al Bukhari 5456](https://sunnah.com/bukhari:5456)
 
@@ -575,7 +575,7 @@ See also:
 - [Sunan Ibn Majah 3270](https://sunnah.com/ibnmajah:3270)
 - [Musnad Ahmad 1924](https://sunnah.com/ahmad)
 
-## He told his followers to eat food from the ground
+## Muhammad told his followers to eat food from the ground
 
 [Sahih Muslim 2033 b](https://sunnah.com/muslim:2033b)
 
@@ -587,7 +587,7 @@ See also:
 - [Riyad as-Salihin, 750](https://sunnah.com/riyadussalihin:750)
 - [Riyad as-Salihin, 751](https://sunnah.com/riyadussalihin:751)
 
-## His followers drank the water he used to wash himself in
+## Muhammad's followers drank the water he used to wash himself in
 
 [Mishkat al-Masabih 476](https://sunnah.com/mishkat:476)
 
@@ -595,7 +595,7 @@ See also:
 
 
 
-## He told his followers to drink his spit water {#drink-spit}
+## Muhammad told his followers to drink his spit water {#drink-spit}
 
 [Sahih al-Bukhari 188](https://sunnah.com/bukhari:188)
 
@@ -607,7 +607,7 @@ See also:
 
 🤮
 
-## He spit water in the face of a boy
+## Muhammad spit water in the face of a boy
 
 [Sahih al-Bukhari 189](https://sunnah.com/bukhari:189)
 
@@ -619,13 +619,13 @@ See also:
 
 
 
-## He spit three times in a man's wound {#spitting-in-wounds}
+## Muhammad spit three times in a man's wound {#spitting-in-wounds}
 
 [Sahih al Bukhari 4206](https://sunnah.com/bukhari:4206)
 
 > I saw the trace of a wound in Salama's leg. I said to him, "O Abu Muslim! What is this wound?" He said, "This was inflicted on me on the day of Khaibar and the people said, 'Salama has been wounded.' Then I went to the Prophet  and he puffed his saliva in the wound thrice., and since then I have not had any pain in it till this hour."
 
-## He believed spit mixed with dirt could cure illnesses {#spit-and-dirt}
+## Muhammad believed spit mixed with dirt could cure illnesses {#spit-and-dirt}
 
 [Sahih al Bukhari 5745](https://sunnah.com/bukhari:5745)
 
@@ -634,13 +634,13 @@ See also:
 - [Riyad as-Salihin 901](https://sunnah.com/riyadussalihin:901)
 - [Sunnan Ibn Majah 3521](https://sunnah.com/ibnmajah:3521)
 
-## He tried to heal himself by blowing raspberries {#blowing-raspberries}
+## Muhammad tried to heal himself by blowing raspberries {#blowing-raspberries}
 
 [Mishkat al-Masabih 1532](https://sunnah.com/mishkat:1532)
 
 > She said that when the Prophet had a complaint he would blow on himself, ejecting saliva, reciting the Mu'awwidhah, and wipe himself with his hand. She said, “When he suffered from the pain of which he died, I would blow on him ejecting saliva and recite the Mu'awwidhat as he did, and would take the Prophet’s hand to wipe him.”  
 
-## He spat in the mouth of a newborn child {#spitting-in-mouth-of-child}
+## Muhammad spat in the mouth of a newborn child {#spitting-in-mouth-of-child}
 
 [Sahih al Bukhari 5469](https://sunnah.com/bukhari:5469)
 
@@ -654,25 +654,25 @@ See also:
 - [Sahih Muslim 2148](https://sunnah.com/muslim:2148)
 
 
-## He exhumed a dead man to spit in his mouth {#spitting-in-mouth-of-dead}
+## Muhammad exhumed a dead man to spit in his mouth {#spitting-in-mouth-of-dead}
 
 [Sahih Muslim 2773a](https://sunnah.com/muslim:2773a)
 
 > Jabir reported Allah's Apostle  came to the grave of 'Abdullah b. Ubayy, brought him out from that, placed him on his knee and put his saliva in his mouth and shrouded him in his own shirt and Allah knows best.
 
-## He spat on his prayer mat
+## Muhammad spat on his prayer mat
 
 [Sunan Abi Dawud 484](https://sunnah.com/abudawud:484)
 
 > AbuSa'id said: I saw Wathilah ibn al-Asqa' in the mosque of Damascus. He spat at the mat and then rubbed it with his foot. He was asked: Why did you do so? He said: Because I saw the Messenger of Allah doing so.
 
-## He urinated squatting
+## Muhammad urinated squatting
 
 [Sunan an-Nasa'i 29](https://sunnah.com/nasai:29)
 
 > Whoever tells you that the Messenger of Allah urinated standing up, do not believe him, for he would not urinate except while squatting."
 
-## He urinated standing
+## Muhammad urinated standing
 
 [Sahih al Bukhari 2471](https://sunnah.com/bukhari:2471)
 
@@ -687,7 +687,7 @@ It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and tha
 
 > The Prophet urinated and Umar was standing behind him with a jug of water. He said: What is this, Umar? He replied: Water for you to perform ablution with. He said: I have not been commanded to perform ablution every time I urinate. If I were to do so, it would become a sunnah.
 
-## He urinated weirdly 
+## Muhammad urinated weirdly 
 
 [Sunan Ibn Majah 341](https://sunnah.com/ibnmajah:341)
 
@@ -695,7 +695,7 @@ It seems that Hudhaifa [contradicts Aisha](#muhammad-urinated-squatting) and tha
 
 Why do Muslims consider such information important for their religion?
 
-## He peed toward the Qiblah {#peeing-qiblah}
+## Muhammad peed toward the Qiblah {#peeing-qiblah}
 
 Note: [The Qiblah]{#qiblah} is the prayer direction towards the [Kaaba.](#kaaba)
 
@@ -703,7 +703,7 @@ Note: [The Qiblah]{#qiblah} is the prayer direction towards the [Kaaba.](#kaaba)
 
 > "The Messenger of Allah forbade facing the Qiblah when urinating. But I saw him, one year before he died, facing the Qiblah (while urinating)."
 
-## He pooped facing the Qiblah {#poop-qiblah}
+## Muhammad pooped facing the Qiblah {#poop-qiblah}
 
 Note: [The Qiblah]{#qiblah} is the prayer direction towards the [Kaaba.](#kaaba)
 
@@ -716,7 +716,7 @@ Note: [The Qiblah]{#qiblah} is the prayer direction towards the [Kaaba.](#kaaba)
 > He (Muhammad) said: '... Turn my seat in the toilet to face the Qiblah.'"
 
 
-## He told people to drink camel urine {#drinking-camel-urine}
+## Muhammad told people to drink camel urine {#drinking-camel-urine}
 
 [Mishkat al-Masabih 3539](https://sunnah.com/mishkat:3539)
 
@@ -724,7 +724,7 @@ Note: [The Qiblah]{#qiblah} is the prayer direction towards the [Kaaba.](#kaaba)
 
 [He later tortured these people to death.](#tortured-to-death)
 
-## He wore semen encrusted clothes {#semen-clothes}
+## Muhammad wore semen encrusted clothes {#semen-clothes}
 
 [Sunnan Abu Dawud 372](https://sunnah.com/abudawud:372)
 
@@ -745,14 +745,14 @@ See also:
 - [Sahih Muslim 290 (scraping it off with the nail)](https://sunnah.com/muslim:290)
 
 
-## He scraped off encrusted snot
+## Muhammad scraped off encrusted snot
 
 [Riyad as-Salihin 1694](https://sunnah.com/riyadussalihin:1694)
 
 > The Messenger of Allah saw spittle or snot or sputum, sticking to the wall towards Qiblah and scratched it off.
 
 
-## He had lice {#lice}
+## Muhammad had lice {#lice}
 
 
 [Sunan Abi Dawud 3080](https://sunnah.com/abudawud:3080)
@@ -773,7 +773,7 @@ See also:
 
 # Muhammad's mental health {#mental-health}
 
-## He was bewitched {#bewitched}
+## Muhammad was bewitched {#bewitched}
 
 [Sahih Al Bukhari 3268](https://sunnah.com/bukhari:3268)
 
@@ -791,7 +791,7 @@ See also:
 
 - [Sahih al Bukhari 6391](https://sunnah.com/bukhari:6391)
 
-## He was suicidal {#suicidal}
+## Muhammad was suicidal {#suicidal}
 
 [Sahih al Bukhari 91](https://sunnah.com/bukhari/91)
 
@@ -801,7 +801,7 @@ See also:
 
 - [Sahih al Bukhari 6982](https://sunnah.com/bukhari/6982)
 
-## He was paranoid, accusing a child of being a supervillain {#dajjal}
+## Muhammad was paranoid, accusing a child of being a supervillain {#dajjal}
 
 The Dajjal is an evil figure in Islamic eschatology who will pretend to be the promised Messiah and later claim to be God, appearing before the Day of Judgment according to the Islamic eschatological narrative. Muhammad harassed, stalked, and spread rumors about a young boy, saying he was this Dajjal, making him depressed and suicidal.
 
@@ -831,19 +831,19 @@ Also:
 - [Al-Adab Al-Mufrad 958](https://sunnah.com/adab:958)
 - [Sahih Muslim 2924 a](https://sunnah.com/muslim:2924a)
 
-## He was posessed by Satan {#posessed-by-satan}
+## Muhammad was posessed by Satan {#posessed-by-satan}
 
 [Sunan an-Nasa'i 3960](https://sunnah.com/nasai:3960)
 
 > I said: "Don't you have a Shaitan?" He said: "Yes, but Allah helped me with him, so he submitted."
 
-## He believed he had a wrestling match with Satan {#wrestling-satan}
+## Muhammad believed he had a wrestling match with Satan {#wrestling-satan}
 
 [Sahih al Bukhari 1210](https://sunnah.com/bukhari:1210)
 
 > Narrated Abu Huraira: The Prophet once offered the prayer and said, "Satan came in front of me and tried to interrupt my prayer, but Allah gave me an upper hand on him and I choked him. No doubt, I thought of tying him to one of the pillars of the mosque till you get up in the morning and see him. Then I remembered the statement of Prophet Solomon, 'My Lord ! Bestow on me a kingdom such as shall not belong to any other after me.' Then Allah made him (Satan) return with his head down (humiliated)."
 
-## He was commanded by jinns
+## Muhammad was commanded by jinns
 
 [Sahih Muslim 2814 a](https://sunnah.com/muslim:2814a)
 
@@ -857,9 +857,9 @@ Even if Satan only commands Muhammad for good, it still means Muhammad is comman
 
 
 
-# His miracles {#miracles}
+# Muhammad's miracles {#miracles}
 
-## He did NOT perform miracles {#no-miracles}
+## Muhammad did NOT perform miracles {#no-miracles}
 
 [Surah 6:109](https://quran.com/6/109)
 
@@ -878,7 +878,7 @@ Also:
 - [Surah 13:7](https://quran.com/13/7)
 - [Surah 20:20](https://quran.com/20/20)
 
-## He DID perform miracles {#did-miracles}
+## Muhammad DID perform miracles {#did-miracles}
 
 [Sahih al Bukhari 3637](https://sunnah.com/bukhari:3637)
 
@@ -923,7 +923,7 @@ See also:
 - [Sunnah Abu Dawud 4931](https://sunnah.com/abudawud:4931)
 - [Sunnah Abu Dawud 2121](https://sunnah.com/abudawud:2121)
 
-### He raped Aisha while she was mourning the death of her father
+### Muhammad raped Aisha while she was mourning the death of her father
 
 [Sahih al-Bukhari 4001](https://sunnah.com/bukhari:4001)
 
@@ -936,7 +936,7 @@ See also:
 
 > …Then he said, 'Where is the little one? Call the little one to me.' Hasan came running and jumped into his lap. Then he put his hand in his beard. Then the Prophet, may Allah bless him and grant him peace, opened his mouth and put his mouth in his mouth. Then he said, O Allah, I love him, so love him and the one who loves him!'"
 
-### He was baffled that other men were not pedophiles like him
+### Muhammad was baffled that other men were not pedophiles like him
 
 [Sahih al-Bukhari 5080](https://sunnah.com/bukhari:5080)
 
@@ -944,19 +944,19 @@ See also:
 
 The fact that other men are not drawn to sexually abuse children makes Muhammad flabbergasted.
 
-## He used to put his face into Aishas crotch and recite Quran verses when she was menstruating {#crotch-talk}
+## Muhammad used to put his face into Aishas crotch and recite Quran verses when she was menstruating {#crotch-talk}
 
 [Sunan Ibn Majah 634](https://sunnah.com/ibnmajah:634)
 
 > …'Aishah said: "The Messenger of Allah used to put his head in my lap when I was menstruating and recite Qur'an."
 
-## He used to fondle Aisha when she was menstruating {#fondling-aisha}
+## Muhammad used to fondle Aisha when she was menstruating {#fondling-aisha}
 
 [Sahih al Bukhari 299](https://sunnah.com/bukhari:299)
 
 > Narrated 'Aisha: The Prophet  and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. …
 
-## He used to suck on Aishas tongue
+## Muhammad used to suck on Aishas tongue
 
 [Sunan Abi Dawud 2386](https://sunnah.com/abudawud:2386)
 
@@ -966,7 +966,7 @@ Consenting adults sucking each others tongues is none of my business, but why th
 
 
 
-## He believed a woman's silence means consent {#silence-is-consent}
+## Muhammad believed a woman's silence means consent {#silence-is-consent}
 
 [Sahih al-Bukhari 5137](https://sunnah.com/bukhari:5137)
 
@@ -976,7 +976,7 @@ A true rape culture.
 
 See also [Islamic morals - Rape](/islam/morals#rape).
 
-## He had sex with 9 wives in one night
+## Muhammad had sex with 9 wives in one night
 
 [Sahih al Bukhari 268](https://sunnah.com/bukhari:268), [5068](https://sunnah.com/bukhari:5068), [5215](https://sunnah.com/bukhari:5215)
 
@@ -992,7 +992,7 @@ One night, Muhammad went out in the desert to have an all-night gay sex experien
 
 Read the whole story here: [The Al-Zutt incident](/al-zutt/).
 
-### He was kissing and cuddling with men
+### Muhammad was kissing and cuddling with men
 
 [Sunan Abu Dawud 3476](https://sunnah.com/abudawud:3476)
 
@@ -1011,7 +1011,7 @@ Another example is found in [Sunan Abi Dawud 5224](https://sunnah.com/abudawud:5
 > a man of the Ansar, said that while he was given to jesting and was talking to the people and making them laugh, the Prophet poked him under the ribs with a stick. He said: Let me take retaliation. He said: Take retaliation. He said: You are wearing a shirt but I am not. The Prophet then raised his shirt and the man embraced him and began to kiss his side. Then he said: This is what I wanted, Messenger of Allah!
 
 
-### He ordered his followers to bite their father's penis
+### Muhammad ordered his followers to bite their father's penis
 
 [Al-Adab Al-Mufrad 963 (Sahih)](https://sunnah.com/adab:963)
 
@@ -1028,7 +1028,7 @@ Another example is found in [Sunan Abi Dawud 5224](https://sunnah.com/abudawud:5
 
 See also [Islamic morals - Slavery](/islam/morals#slavery)
 
-## He owned slaves {#slave-owner}
+## Muhammad owned slaves {#slave-owner}
 
 [Sahih al-Bukhari 2468](https://sunnah.com/bukhari:2468)
 
@@ -1051,7 +1051,7 @@ See also:
 - [Sahih al-Bukhari 5435](https://sunnah.com/bukhari:5435)
 - [Black slaves are worth half of Arab slaves](#black-slaves-worth-less)
 
-## He had a sex slave {#sex-slave}
+## Muhammad had a sex slave {#sex-slave}
 
 [Sunan an-Nasa'i 3959](https://sunnah.com/nasai:3959)
 
@@ -1071,7 +1071,7 @@ See also:
 - [Islamic morals - Rape](/islam/morals#rape)
 - [Islamic morals - Sex slaves](/islam/morals#sex-slaves).
 
-## He sold slaves {#slave-trader}
+## Muhammad sold slaves {#slave-trader}
 
 [Sahih al-Bukhari 2534](https://sunnah.com/bukhari:2534)
 
@@ -1082,7 +1082,7 @@ See also:
 - [Sahih al Bukhari 2142](https://sunnah.com/bukhari:2141)
 
 
-## He traded black slaves {#black-slaves}
+## Muhammad traded black slaves {#black-slaves}
 
 [Sahih Muslim 1602](https://sunnah.com/muslim:1602)
 
@@ -1119,7 +1119,7 @@ See also:
 
 See also [Islamic morality - Violence and Jihad](/islam/morals#violence)
 
-## He slapped a lady {#woman-abuser}
+## Muhammad slapped a lady {#woman-abuser}
 
 [Sahih al-Bukhari 5255](https://sunnah.com/bukhari:5255)
 
@@ -1136,7 +1136,7 @@ Given what we know about Muhammad, what most likely happened is that the proud p
 
 
 
-## He physically abused Aisha {#abusing-aisha}
+## Muhammad physically abused Aisha {#abusing-aisha}
 
 [Sahih Muslim 974b](https://sunnah.com/muslim/11/132)
 
@@ -1155,19 +1155,19 @@ However the Arabic says:
 So Muhammad gets pissy and slaps his child wife in the chest so hard that it hurt her. This is in harmony with [Surah 4:34](https://quran.com/4/34) which allows men to beat their wives for any reason. So I don't understand why the people at Sunnah.com feels so ashamed over this that they feel they must rewrite it to deceive people about their religion. Maybe because sane people would reject their abusive cult if they knew. Without lies Islam dies.
 
 
-## He had people assassinated 
+## Muhammad had people assassinated 
 
 [Sahih al-Bukhari 3023](https://sunnah.com/bukhari:3023)
 
 > Allah's Messenger sent a group of the Ansar to Abu Rafi`. `Abdullah bin Atik entered his house at night and killed him while he was sleeping.
 
-## He mutilated a woman {#mutilated-woman}
+## Muhammad mutilated a woman {#mutilated-woman}
 
 [Sahih al-Bukhari 6800](https://sunnah.com/bukhari:6800)
 
 > Narrated Aisha: The Prophet cut off the hand of a lady, and that lady used to come to me, and I used to convey her message to the Prophet and she repented, and her repentance was sincere.
 
-## He personally stoned a woman {#stoned-woman}
+## Muhammad personally stoned a woman {#stoned-woman}
 
 [Sunan Ibn Majah 2555](https://sunnah.com/ibnmajah:2555)
 
@@ -1176,7 +1176,7 @@ So Muhammad gets pissy and slaps his child wife in the chest so hard that it hur
 In contrast Jesus defended a woman against being stoned for adultery. (John 8:1-11)
 
 
-## He was a terrorist {#terrorist}
+## Muhammad was a terrorist {#terrorist}
 
 [Sahih Muslim 523 e](https://sunnah.com/muslim:523e)
 
@@ -1190,7 +1190,7 @@ See also:
 
 
 
-## He tortured people to death {#torture}
+## Muhammad tortured people to death {#torture}
 
 [Mishkat al-Masabih 3539](https://sunnah.com/mishkat:3539)
 
@@ -1200,21 +1200,21 @@ These people had stolen some camels so Muhammad **had their hands and feet cut o
 
 
 
-## He killed children who had pubic hairs {#killed-children}
+## Muhammad killed children who had pubic hairs {#killed-children}
 
 [Sunan an-Nasa'i 4981](https://sunnah.com/nasai:4981)
 
 > It was narrated that 'Atiyyah said: 'I was among the prisoners of Quraizah; we were examined, and whoever had grown (pubic) hair was killed, and whoever had not grown hair, he was allowed to live and was not killed."
 
 
-## He attacked and enslaved defenseless people 
+## Muhammad attacked and enslaved defenseless people 
 
 
 [Sahih al-Bukhari 2541](https://sunnah.com/bukhari:2541)
 
 > the Prophet had suddenly attacked Bani Mustaliq without warning while they were heedless and their cattle were being watered at the places of water. Their fighting men were killed and their women and children were taken as slaves
 
-## He ordered the killing of all Meccans who did not convert
+## Muhammad ordered the killing of all Meccans who did not convert
 
 [Sunan Abi Dawud 3024](https://sunnah.com/abudawud:3024)
 
@@ -1306,7 +1306,7 @@ Notice that Allah and Muhammad decide on things **together**, and the are equal 
 
 > The Prophet said, "Do not give me superiority over Moses, for on the Day of Resurrection all the people will fall unconscious and I will be one of them, but I will. be the first to gain consciousness, and will see Moses standing and holding the side of the Throne (of Allah). I will not know whether (Moses) has also fallen unconscious and got up before me, or Allah has exempted him from that stroke."
 
-## He died a pauper
+## Muhammad died a pauper
 
 [Sunan an-Nasa'i 3596](https://sunnah.com/nasai:3596)
 
