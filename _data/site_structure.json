@@ -2168,6 +2168,67 @@
       "nav_order": 5
     },
     {
+      "url": "/isa",
+      "tocpath": null,
+      "title": "Everything the Quran teaches about Jesus",
+      "headers": [
+        {
+          "level": 2,
+          "text": "1. Annunciation, conception, birth, infancy",
+          "anchor": "1-annunciation-conception-birth-infancy"
+        },
+        {
+          "level": 2,
+          "text": "2. Titles, epithets, and status descriptions",
+          "anchor": "2-titles-epithets-and-status-descriptions"
+        },
+        {
+          "level": 2,
+          "text": "3. Prophethood, scripture, covenant",
+          "anchor": "3-prophethood-scripture-covenant"
+        },
+        {
+          "level": 2,
+          "text": "4. Miracles",
+          "anchor": "4-miracles"
+        },
+        {
+          "level": 2,
+          "text": "5. Every teaching attributed to Jesus",
+          "anchor": "5-every-teaching-attributed-to-jesus"
+        },
+        {
+          "level": 2,
+          "text": "6. Doctrinal correction — what Christians say about him",
+          "anchor": "6-doctrinal-correction-what-christians-say-about-him"
+        },
+        {
+          "level": 2,
+          "text": "7. Crucifixion, death, raising",
+          "anchor": "7-crucifixion-death-raising"
+        },
+        {
+          "level": 2,
+          "text": "8. Eschatology and the Children of Israel",
+          "anchor": "8-eschatology-and-the-children-of-israel"
+        },
+        {
+          "level": 2,
+          "text": "9. Jesus in the lists of prophets",
+          "anchor": "9-jesus-in-the-lists-of-prophets"
+        },
+        {
+          "level": 2,
+          "text": "Observations",
+          "anchor": "observations"
+        }
+      ],
+      "file": "quran-on-Jesus.md",
+      "include_in_menu": false,
+      "exclude_children": false,
+      "nav_order": 6
+    },
+    {
       "url": "/islam/religions",
       "tocpath": null,
       "title": "Islam's view on religions",
