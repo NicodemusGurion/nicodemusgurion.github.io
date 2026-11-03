@@ -234,7 +234,7 @@ See also:
 
 Muhammad owned and traded black slaves. The going rate was two black slaves for one Arabic slave. 
 
-See [Muhammad traded black slaves](#black-slaves).
+See [Muhammad traded black slaves](/islam/muhammad#black-slaves).
 
 
 ## Black people were created for hell {#blacks-made-for-hell}
